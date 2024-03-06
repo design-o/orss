@@ -299,11 +299,11 @@ footer {
   background: none;
   padding: 0;
   cursor: pointer;
-  color: var(--source-name-color);
+  color: #dc481e;
   flex-grow: 1;
 }
 .source-heading__name:hover {
-  color: var(--source-name-color);
+  color: #dc481e;
 }
 .source-heading__link {
   color: var(--source-link-color);
