@@ -108,7 +108,7 @@ body {
 }
 
 .article-expander__title {
-  color: var(--article-title-color);
+  color:#000000;
   font-size: var(--font-size-m);
   line-height: var(--line-height-heading);
   font-weight: 600;
@@ -121,7 +121,6 @@ body {
 }
 .article-expander[open] .article-expander__title {
   display: block;
-  color: var(--article-title-expanded-color);
 }
 .article-expander__title::before {
   content: "◪";
@@ -137,15 +136,13 @@ body {
   display: none; /* remove triangle from Safair */
 }
 .article-expander[open] .article-expander__title::before {
-  color: var(--accordion-marker-expanded-color);
+  
 }
 .article-expander .article-expander__title:hover::before {
   content: "+";
-  color: var(--accordion-marker-hover-color);
 }
 .article-expander[open] .article-expander__title:hover::before {
   content: "-";
-  color: var(--accordion-marker-expanded-hover-color);
 }
 
 .article-image {
