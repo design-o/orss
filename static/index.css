@@ -121,10 +121,11 @@ body {
 }
 .article-expander[open] .article-expander__title {
   display: block;
+  color:#000000;
 }
 .article-expander__title::before {
   content: "◪";
-  color: var(--accordion-marker-color);
+  color: #000000;
   display: inline-flex;
   justify-content: center;
   width: 16px;
@@ -136,6 +137,7 @@ body {
   display: none; /* remove triangle from Safair */
 }
 .article-expander[open] .article-expander__title::before {
+  color:#000000;
   
 }
 .article-expander .article-expander__title:hover::before {
@@ -164,6 +166,7 @@ body {
 .article-summary-link:hover {
   color: var(--article-summary-hover-color);
   --accordion-content-rail-color: var(--accordion-content-hover-rail-color);
+  text-decoration: underline;
 }
 
 .article-summary-box-outer {
@@ -173,7 +176,7 @@ body {
 
 .article-summary-box-inner {
   padding-left: 14px;
-  border-left: 1px solid var(--accordion-content-rail-color);
+  border-left: 1px solid #000000;
   font-size: var(--font-size-s);
   overflow-wrap: anywhere;
   word-break: break-word; /* same as above, for Safari compatitiliby */
