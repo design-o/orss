@@ -92,7 +92,7 @@ html {
 }
 
 body {
-  background-color: var(--body-bg);
+  background-color: #000000;
   font-family: var(--font-family-default);
   line-height: var(--line-height-body);
   color: var(--body-color);
