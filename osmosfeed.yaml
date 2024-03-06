@@ -3,9 +3,15 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://design-o.github.io/orss/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://orienteering.sport/feed
+  - href: https://news.worldofo.com/feed
+  - href: https://www.vicorienteering.asn.au/news/feed
+  - href: https://www.orienteering.ie/feed 
+  - href: https://slow.org.uk/feed   
+  - href: https://www.orienteering.org.nz/feed
+  - href: https://neooc.com/blog/feed
+  - href: https://scottish-orienteering.org/feed
+  - href: https://niorienteering.org.uk/feed
+  - href: https://orienteering.asn.au/feed
