@@ -36,7 +36,7 @@
   --accordion-rail-indent: 7px;
 
   --article-image-border-color: var(--base03);
-  --article-image-radius: 6px;
+  --article-image-radius: 0px;
   --article-image-shadow: none;
   --article-reading-time-color: var(--base04);
   --article-stack-gap: 16px;
@@ -48,7 +48,7 @@
   --card-bg: var(--base01);
   --card-border-color: var(--base03);
   --card-padding: 16px;
-  --card-radius: 8px;
+  --card-radius: 0px;
   --card-shadow: none;
   --card-stack-gap: 24px;
 
@@ -89,6 +89,10 @@
 /** GENERIC */
 html {
   font-size: var(--font-size-scaler);
+}
+
+h1{
+  color:#ffffff;
 }
 
 body {
