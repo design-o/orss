@@ -77,13 +77,13 @@
       <p>International Orienteering News RSS feed reader by <a rel="me" class="footer-link" href="https://mastodon.social/@design_o">@design_o</a>
 </p>
       {{#if githubRunUrl}}
-      <a class="footer-link" href="{{githubRunUrl}}">
+      <p><a class="footer-link" href="{{githubRunUrl}}">
         <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
-      </a>
+      </a></p>
       {{else}}
-      <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
+      <p><time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time></p>
       {{/if}}
-      <a class="footer-link" href="{{projectUrl}}">osmosfeed {{cliVersion}}</a>
+      <p>Website creation powered by <a class="footer-link" href="{{projectUrl}}">osmosfeed {{cliVersion}}</a></p>
     </footer>
     <script src="index.js"></script>
     <!-- %before-body-end.html% -->
