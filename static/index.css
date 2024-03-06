@@ -1,10 +1,5 @@
 :root {
-  /**
-   * Palette
-   * Gruvbox dark, medium
-   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-   */
-  --base00: #282828; /* ---- */
+  --base00: #000000; /* #282828 */
   --base01: #3c3836; /* --- */
   --base02: #504945; /* -- */
   --base03: #665c54; /* - */
@@ -41,12 +36,12 @@
   --body-padding: 32px 24px;
   --body-stack-gap: 32px;
 
-  --accordion-content-hover-rail-color: var(--base04);
+  /* --accordion-content-hover-rail-color: var(--base04);*/
   --accordion-content-rail-color: var(--base03);
   --accordion-marker-color: var(--article-title-color);
   --accordion-marker-expanded-color: var(--base03);
-  --accordion-marker-hover-color: var(--accordion-marker-color);
-  --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
+  /* --accordion-marker-hover-color: var(--accordion-marker-color);*/
+  /* --accordion-marker-expanded-hover-color: var(--accordion-marker-color);*/
   --accordion-rail-indent: 7px;
 
   --article-image-border-color: var(--base03);
@@ -67,15 +62,15 @@
   --card-stack-gap: 24px;
 
   --daily-heading-color: var(--base03);
-  --daily-heading-hover-color: var(--base04);
+  /* --daily-heading-hover-color: var(--base04);*/
 
   --footer-color: var(--base03);
   --footer-link-hover-color: var(--base04);
 
   --source-link-color: var(--base04);
-  --source-link-hover-color: var(--base07);
+  /* --source-link-hover-color: var(--base07);*/
   --source-name-color: var(--base0A);
-  --source-name-hover-color: var(--base07);
+  /* --source-name-hover-color: var(--base07);*/
 }
 
 /**
