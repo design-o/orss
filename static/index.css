@@ -225,7 +225,7 @@ body {
   text-transform: uppercase;
 }
 .daily-heading-toggle:hover {
-  color: var(--daily-heading-hover-color);
+  color: var(--daily-heading-color);
 }
 .daily-heading-toggle__date {
   font-size: var(--font-size-m);
@@ -303,7 +303,7 @@ footer {
   flex-grow: 1;
 }
 .source-heading__name:hover {
-  color: var(--source-name-hover-color);
+  color: var(--source-name-color);
 }
 .source-heading__link {
   color: var(--source-link-color);
