@@ -1,238 +1,630 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-06T08:07:58.662Z</id>
+    <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T08:07:58.662Z</updated>
+    <updated>2024-03-06T08:19:08.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
+    <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Advanced Prompt Engineering for Content Creators – Full Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/"/>
-        <updated>2024-03-05T21:40:51.000Z</updated>
-        <summary type="html"><![CDATA[As a content creator in today's digital age, mastering prompt engineering is not just beneficial—it's essential. Prompt engineering refines your ability to communicate effectively with AI tools like ChatGPT, transforming them from mere tools into powerful allies in content creation. This guide is designed to help you unlock the potential]]></summary>
+        <title type="html"><![CDATA[Orienteering Australia appoints Manager, Communications and Marketing]]></title>
+        <id>https://orienteering.asn.au/?p=10062</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-appoints-manager-communications-and-marketing/"/>
+        <updated>2024-03-06T01:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is very pleased to announce the appointment of Liz Leung as Manager, Communications and Marketing
+Orienteering Australia appoints Manager, Communications and Marketing first appeared on Orienteering Australia.]]></summary>
         <author>
-            <name>Vahe Aslanyan</name>
+            <name>michaeldowling</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Turn Audio to Text using OpenAI Whisper]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/"/>
-        <updated>2024-03-05T13:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Do you know what OpenAI Whisper is? It’s the latest AI model from OpenAI that helps you to automatically convert speech to text. Transforming audio into text is now simpler and more accurate, thanks to OpenAI’s Whisper. This article will guide you through using Whisper to convert spoken words into]]></summary>
+        <title type="html"><![CDATA[CX80’s double partnership strengthens orienteering in several ways]]></title>
+        <id>https://orienteering.sport/?p=70218</id>
+        <link href="https://orienteering.sport/cx80s-double-partnership-strengthens-orienteering-at-several-levels/"/>
+        <updated>2024-03-05T12:23:23.000Z</updated>
+        <summary type="html"><![CDATA[If you have followed IOF’s major events in recent years, you probably have no doubt: The Polish grease- and lubricant manufacturer CX80 is one of IOF’s most important partners. The distinctive red and white logo appears at run-up sections and on backdrops at World and European Championships and both major MTBO championships and the MTBO […]]]></summary>
         <author>
-            <name>Manish Shivanandhan</name>
+            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Ensure Open Source License Compliance in Your Business]]></title>
-        <id>https://www.freecodecamp.org/news/ensure-open-source-license-compliance-in-business/</id>
-        <link href="https://www.freecodecamp.org/news/ensure-open-source-license-compliance-in-business/"/>
-        <updated>2024-03-05T11:01:08.000Z</updated>
-        <summary type="html"><![CDATA[If you're using open source code in your operations, you'll want to manage things properly or potentially face legal issues, financial penalties, and damage to your reputation.  You don't need a law degree to avoid problems, but you should definitely familiarize yourself with some basic principles. This article comes]]></summary>
+        <title type="html"><![CDATA[IOC 2024 – ENTRIES OPEN]]></title>
+        <id>https://www.orienteering.ie/?p=17368</id>
+        <link href="https://www.orienteering.ie/ioc-2024-entries-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ioc-2024-entries-open"/>
+        <updated>2024-03-04T13:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Entries for IOC2024 have now been opened and further event information has been added to our IOC website. We hope to see you in May as we explore the fabulous Maynooth University Campus and the lands around the shores of historic Lough Ree!IOC.ORIENTEERING.IE
+The post IOC 2024 – ENTRIES OPEN first appeared on Orienteering in Ireland.]]></summary>
         <author>
-            <name>David Clinton</name>
+            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Microsoft Fabric? How to Build a Customer Segmentation Project]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-microsoft-fabric/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-microsoft-fabric/"/>
-        <updated>2024-03-05T01:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Fabric is a data analytics tool that can help you streamline all your data needs and workflows, from data integration to analytics and engineering. In this guide, I'll explain what Microsoft Fabric is in more detail, how it works, and walk you through building a project with it. If]]></summary>
+        <title type="html"><![CDATA[2024 Colour Series Launches at Drumkeeragh]]></title>
+        <id>https://www.niorienteering.org.uk/?p=8929</id>
+        <link href="https://www.niorienteering.org.uk/2024-colour-series-launches-at-drumkeeragh/"/>
+        <updated>2024-03-04T13:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Entries are open for the first NI Colour Series event of the year at Drumkeeragh, Co Down on Saturday 16 March. Benefitting from a excellent map used last year for the British Middle Distance Championships, this event has a course for all levels of experience and fitness. Check out the guide to colour coded courses. [&hellip]]></summary>
         <author>
-            <name>Benny Ifeanyi Iheagwara</name>
+            <name>nioa-sec</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn C# Programming]]></title>
-        <id>https://www.freecodecamp.org/news/learn-c-sharp-programming/</id>
-        <link href="https://www.freecodecamp.org/news/learn-c-sharp-programming/"/>
-        <updated>2024-03-04T17:52:08.000Z</updated>
-        <summary type="html"><![CDATA[C# is a popular programming language used for developing a wide array of applications, including web, mobile, desktop, and gaming applications, providing a robust platform for developers to build dynamic and scalable solutions across various industries. We just posted a course on the freeCodeCamp.org YouTube channel that will help you]]></summary>
+        <title type="html"><![CDATA[2023 NI Orienteering Champions]]></title>
+        <id>https://www.niorienteering.org.uk/?p=8925</id>
+        <link href="https://www.niorienteering.org.uk/2023-ni-orienteering-champions/"/>
+        <updated>2024-03-04T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Competitors faced challenging courses on a wintry Slieve Croob at the postponed 2023 NI Long Distance Championships on Saturday 2 March 2024. Thanks to LVO and planner Steph Pruzina, controller Greg McCann and organiser Stephen Knight for a great event. The results with full analysis are at Results & Fixtures>Results>2023 Results (and 2024 Results). As [&hellip]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>nioa-sec</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Solve the Producer-Consumer Problem in Java using Multithreading]]></title>
-        <id>https://www.freecodecamp.org/news/java-multithreading-producer-consumer-problem/</id>
-        <link href="https://www.freecodecamp.org/news/java-multithreading-producer-consumer-problem/"/>
-        <updated>2024-03-04T17:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Concurrency is an important part of Java applications. Each application has multiple processes running at the same time. This helps utilize resources efficiently and improve performance. Multithreading is a method of achieving concurrency. It uses the concept of threads – lightweight processes – to execute multiple tasks in parallel. A]]></summary>
+        <title type="html"><![CDATA[Ballarat Sprint Weekend, 9-10 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13292</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-sprint-weekend-9-10-march/"/>
+        <updated>2024-03-03T07:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the Ballarat Sprint Weekend!  Entries close Wednesday March 6, so get yours in now!
+Ballarat Sprint Weekend, 9-10 March first appeared on Orienteering Victoria.]]></summary>
         <author>
-            <name>Kunal Nalawade</name>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Practice Your Coding Skills by Building a Program in Different Ways]]></title>
-        <id>https://www.freecodecamp.org/news/practice-coding-skills-by-building-a-program-different-ways/</id>
-        <link href="https://www.freecodecamp.org/news/practice-coding-skills-by-building-a-program-different-ways/"/>
-        <updated>2024-03-04T15:39:55.000Z</updated>
-        <summary type="html"><![CDATA[While we have 365 days in other years, this year (2024) is special because it has one ‘extra’ day.  So in the spirit of Leap Day, let's practice some coding to understand various aspects of programming. We'll focus on the same program but from different perspectives.  Our example]]></summary>
+        <title type="html"><![CDATA[Vic Relays at Royal Park, Sunday 17 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13295</id>
+        <link href="https://www.vicorienteering.asn.au/vic-relays-at-royal-park-sunday-17-march/"/>
+        <updated>2024-03-02T07:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Contact your club to be part of the excitement of the Royal Park Relays!
+Vic Relays at Royal Park, Sunday 17 March first appeared on Orienteering Victoria.]]></summary>
         <author>
-            <name>Niladri S. Jyoti</name>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Up A Django Admin Site]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-admin-site/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-django-admin-site/"/>
-        <updated>2024-03-04T14:19:57.000Z</updated>
-        <summary type="html"><![CDATA[The Django admin site provides developers with a simple yet effective way to manage their models and build sustainable projects. It allows you to create, view, update, and remove records from your applications.  In this article, you will learn how to register your models with your admin site, create]]></summary>
+        <title type="html"><![CDATA[Sarah O’ Sullivan | View from the Chair]]></title>
+        <id>https://www.orienteering.org.nz/?p=59284</id>
+        <link href="https://www.orienteering.org.nz/orienteering-nz/sarah-o-sullivan-view-from-the-chair/"/>
+        <updated>2024-03-01T09:17:03.000Z</updated>
+        <summary type="html"><![CDATA[We’ve kicked off the year with a bang with Oceania and a great set of sprints in Taranaki and Auckland. We had so many orienteers from around New Zealand competing it was so great so many people made the effort to travel. Auckland’s recent competitions are attracting huge numbers. All of these are reflected in our […]
+Sarah O’ Sullivan | View from the Chair  first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>Victoria Poromon</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Sets in Python – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-sets-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-sets-in-python/"/>
-        <updated>2024-03-04T12:54:13.000Z</updated>
-        <summary type="html"><![CDATA[In the vast landscape of Python programming, understanding data structures is akin to possessing a versatile toolkit. Among the essential tools in this arsenal is the Python set. Sets in Python offer a unique way to organize and manipulate data. Let's embark on a journey to unravel the mysteries of]]></summary>
+        <title type="html"><![CDATA[Call for Nationals relay teams and last entries  |  29 March – 1 April 2024]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59280</id>
+        <link href="https://www.orienteering.org.nz/news/call-for-nationals-relay-teams-and-last-entries-29-march-1-april-2024/"/>
+        <updated>2024-03-01T09:13:18.000Z</updated>
+        <summary type="html"><![CDATA[RELAY TEAMS for nationals are to be submitted by Sunday 31 March. Participants without a team will still be able to run in the relay, we will make composite teams from individuals submitted early on the morning of the relay.Last entries accepted by Sunday 10 March 2024. Enter now via enterO 
+Call for Nationals relay teams and last entries  |  29 March – 1 April 2024 first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>Sahil Mahapatra</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BERT Explained – The Key to Advanced Language Models]]></title>
-        <id>https://www.freecodecamp.org/news/bert-explained-the-key-to-advanced-language-models/</id>
-        <link href="https://www.freecodecamp.org/news/bert-explained-the-key-to-advanced-language-models/"/>
-        <updated>2024-03-04T12:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how Google seems to understand exactly what you mean, even when your search terms are a bit off? Or how your favorite voice assistant can comprehend complex questions? The secret behind much of this smart technology is a powerful tool called BERT. In this article, I’ll]]></summary>
+        <title type="html"><![CDATA[Katoa Po |Enter Explorer by 3 March]]></title>
+        <id>https://www.orienteering.org.nz/?p=59277</id>
+        <link href="https://www.orienteering.org.nz/event-news/katoa-po-enter-explorer-by-3-march/"/>
+        <updated>2024-03-01T09:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Team entries are in and Explorer entries will close soon on Sunday 3 March. We are reviving a facebook event page to keep you up-to-date with news this year. 2024 Katoa Po has just under 150 competitors. It is less than last year’s record which was combined with National sprints organised by Malcolm Ingham. We are happy with the […]
+Katoa Po |Enter Explorer by 3 March first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>Manish Shivanandhan</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern CSS Tooltips And Speech Bubbles (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</id>
-        <link href="https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/"/>
-        <updated>2024-03-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.]]></summary>
+        <title type="html"><![CDATA[Register for orienteering in the 2024 Zespri AIMS Games]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59273</id>
+        <link href="https://www.orienteering.org.nz/news/register-for-orienteering-in-the-2024-zespri-aims-games/"/>
+        <updated>2024-03-01T09:07:23.000Z</updated>
+        <summary type="html"><![CDATA[This year, for the first time orienteering is included in the Aims Games. The Zespri AIMS Games is Australasia’s largest junior sporting event, held annually in Tauranga Moana. Since its inception in 2004, the Zespri AIMS Games have grown from 760 competitors representing 17 schools and four sporting codes, to the 2023 tournament which welcomed 11,733 competitors, representing 373 schools […]
+Register for orienteering in the 2024 Zespri AIMS Games first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waiting For Spring (March 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/</id>
-        <link href="https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/"/>
-        <updated>2024-02-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!]]></summary>
+        <title type="html"><![CDATA[World Masters  |  Bulletin published & congress announced]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59270</id>
+        <link href="https://www.orienteering.org.nz/news/world-masters-bulletin-published-congress-announced/"/>
+        <updated>2024-03-01T09:03:24.000Z</updated>
+        <summary type="html"><![CDATA[From 8th to 15th August 2025 Girona awaits master orienteers. In the days before the WMOC there will also be a Congress on Orienteering where we will discuss different aspects of the present and future of our sport. An unique opportunity to share experiences and learn about ideas and ways of working in other countries. […]
+World Masters  |  Bulletin published & congress announced first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reporting Core Web Vitals With The Performance API]]></title>
-        <id>https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/</id>
-        <link href="https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/"/>
-        <updated>2024-02-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.]]></summary>
+        <title type="html"><![CDATA[North Island Secondary Schools O Champs]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59267</id>
+        <link href="https://www.orienteering.org.nz/news/north-island-secondary-schools-o-champs/"/>
+        <updated>2024-03-01T09:01:08.000Z</updated>
+        <summary type="html"><![CDATA[North West are inviting all school orienteers to the North Island Secondary School Orienteering Champs (NISSOC) :• Thursday 25 April:  Sprint – AUT Akoranga Campus, North Shore• Friday 26 April:  Long – Mairetahi Forest, Wilson Road, South Head• Saturday 27 April:Relay – Barlow Road, Riverhead ForestPlease note locations could change due to venue availability, and that Akoranga Campus […]
+North Island Secondary Schools O Champs first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Web Designer’s Accessibility Advocacy Toolkit]]></title>
-        <id>https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/</id>
-        <link href="https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/"/>
-        <updated>2024-02-26T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.]]></summary>
+        <title type="html"><![CDATA[King’s birthday|Golden Bay  | 1-3 June]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59262</id>
+        <link href="https://www.orienteering.org.nz/news/kings-birthdaygolden-bay-1-3-june/"/>
+        <updated>2024-03-01T08:56:55.000Z</updated>
+        <summary type="html"><![CDATA[What do you need to know about Nelson Orienteering Club’s (NOC) King’s Birthday this year? Saturday 1 June 2023 – Middle: the venue is Canaan Downs, located on top of the Takaka Plateau, on the way to Golden Bay, ‘taking a right’ just below the Takaka Hill summit. While approximately 80km from Nelson Airport, please […]
+King’s birthday|Golden Bay  | 1-3 June first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Yichan Wang)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
-        <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
-        <link href="https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/"/>
-        <updated>2024-02-22T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.]]></summary>
+        <title type="html"><![CDATA[EYOC & WUOC expressions of interest for manager positions]]></title>
+        <id>https://www.orienteering.org.nz/?p=59259</id>
+        <link href="https://www.orienteering.org.nz/orienteering-nz/eyoc-wuoc-expressions-of-interest-for-manager-positions/"/>
+        <updated>2024-03-01T08:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering New Zealand is inviting expressions of interest for the following manager positions: EYOC 2024 – 21–24 June   Szcsecin, PolandWUOC – 1-5 August, Bankso, Bulgaria These positions would suit someone who intends to travel to the event. ONZ has not allocated a budget to these roles so applicants would be required to cover all their own costs in […]
+EYOC & WUOC expressions of interest for manager positions first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Frederik Dohr)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Practical Guide To Designing For Colorblind People]]></title>
-        <id>https://smashingmagazine.com/2024/02/designing-for-colorblindness/</id>
-        <link href="https://smashingmagazine.com/2024/02/designing-for-colorblindness/"/>
-        <updated>2024-02-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.]]></summary>
+        <title type="html"><![CDATA[Thrilling downtown Auckland action | Auckland Triple Crown]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59255</id>
+        <link href="https://www.orienteering.org.nz/news/thrilling-downtown-auckland-action-auckland-triple-crown/"/>
+        <updated>2024-03-01T08:47:50.000Z</updated>
+        <summary type="html"><![CDATA[The 2nd instalment of the Auckland Triple Crown event saw a a large group of domestic and international orienteers travel up to Auckland over the Waitangi weekend.  Three of Auckland’s finest locations were provided all within walking distance of Downtown as part of the 3 day festival.  Saturday saw the Oceania Sprint Champs at the University of […]
+Thrilling downtown Auckland action | Auckland Triple Crown first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mobile Accessibility Barriers For Assistive Technology Users]]></title>
-        <id>https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/</id>
-        <link href="https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/"/>
-        <updated>2024-02-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.]]></summary>
+        <title type="html"><![CDATA[Auckland Orienteering Club’s structure innovation]]></title>
+        <id>https://www.orienteering.org.nz/?p=59252</id>
+        <link href="https://www.orienteering.org.nz/blog/auckland-orienteering-clubs-structure-innovation/"/>
+        <updated>2024-03-01T08:42:28.000Z</updated>
+        <summary type="html"><![CDATA[There is evidence of significant changes in some clubs in the past year, and Auckland is an example of a club that has been accomplishing big gains as they work on encouraging wider involvement of club members in their club operations.  To find out what has been happening we asked club president Neill McGowan to tell […]
+Auckland Orienteering Club’s structure innovation first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Accessibility Standards Can Empower Better Chart Visual Design]]></title>
-        <id>https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/</id>
-        <link href="https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/"/>
-        <updated>2024-02-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.]]></summary>
+        <title type="html"><![CDATA[Steve & Vicky Rees-Jones | Runners with a growing ‘O’ addiction!]]></title>
+        <id>https://www.orienteering.org.nz/?p=59247</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/steve-vicky-rees-jones-runners-with-a-growing-o-addiction/"/>
+        <updated>2024-03-01T08:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Did you know we have some keen new orienteers who specialise in running and sports medicine? I chatted to Steve & Vicki Rees-Jones at the junior camp and then we caught-up for another chat recently to talk run training and specifically running for orienteers. Steve has a strong running pedigree and has been competing in […]
+Steve & Vicky Rees-Jones | Runners with a growing ‘O’ addiction! first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Kent Eisenhuth)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Practical Guide To Designing For Children]]></title>
-        <id>https://smashingmagazine.com/2024/02/practical-guide-design-children/</id>
-        <link href="https://smashingmagazine.com/2024/02/practical-guide-design-children/"/>
-        <updated>2024-02-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to design for children aged 3–12, with insights into user behavior, considerations for parents, and practical UX guidelines.]]></summary>
+        <title type="html"><![CDATA[ONZ paying referral prize to recruit new Event Liaison Officer]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59244</id>
+        <link href="https://www.orienteering.org.nz/news/onz-paying-referral-prize-to-recruit-new-event-liaison-officer/"/>
+        <updated>2024-03-01T08:32:16.000Z</updated>
+        <summary type="html"><![CDATA[In our last Compass Point we noted that our current Event Liaison Officer was departing ONZ and that we were looking for someone to fill his shoes.  The role requires a technical knowledge of orienteering events as well as the ability to oversee and problem-solve database challenges. The role averages around 7 hours a week and […]
+ONZ paying referral prize to recruit new Event Liaison Officer first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Draw Radar Charts In Web]]></title>
-        <id>https://smashingmagazine.com/2024/02/draw-radar-charts-web/</id>
-        <link href="https://smashingmagazine.com/2024/02/draw-radar-charts-web/"/>
-        <updated>2024-02-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.]]></summary>
+        <title type="html"><![CDATA[In memoriam|Pamela Morrison]]></title>
+        <id>https://www.orienteering.org.nz/?p=59241</id>
+        <link href="https://www.orienteering.org.nz/blog/in-memoriampamela-morrison/"/>
+        <updated>2024-03-01T08:26:32.000Z</updated>
+        <summary type="html"><![CDATA[On Thursday 15th February 2024 the New Zealand Orienteering community sadly lost a valued member. Pamela Morrison passed away peacefully surrounded by loved ones in beautiful Hawke’s Bay. Pamela has been part of the New Zealand orienteering community for 30+ years, devoting an immense amount of time to the sport. She held various committee and […]
+In memoriam|Pamela Morrison first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frequently Heard In My Beginning Front-End Web Development Class]]></title>
-        <id>https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/</id>
-        <link href="https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/"/>
-        <updated>2024-02-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.]]></summary>
+        <title type="html"><![CDATA[Athlete voice |  IOF 2024 survey]]></title>
+        <id>https://www.orienteering.org.nz/?p=59238</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/athlete-voice-iof-2024-survey/"/>
+        <updated>2024-03-01T08:24:27.000Z</updated>
+        <summary type="html"><![CDATA[From late February and in the following weeks, IOF is conducting a survey among all athletes who have participated in an IOF event within the last two years. This year’s survey covers both the athletes’ view on the sustainability of current IOF events, and asks for suggestions to enhance the event programme to better meet […]
+Athlete voice |  IOF 2024 survey first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Development Is Getting Too Complex, And It May Be Our Fault]]></title>
-        <id>https://smashingmagazine.com/2024/02/web-development-getting-too-complex/</id>
-        <link href="https://smashingmagazine.com/2024/02/web-development-getting-too-complex/"/>
-        <updated>2024-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An overwhelming number of frameworks and tooling available today gives the impression that web development has gotten perhaps too complex. Juan Diego Rodríguez explores if web development really is that complex and, most importantly, how we can prevent it from getting even more difficult than we already perceive it to be.]]></summary>
+        <title type="html"><![CDATA[ONZ award nominations due soon]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59235</id>
+        <link href="https://www.orienteering.org.nz/news/onz-award-nominations-due-soon/"/>
+        <updated>2024-03-01T08:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Just a reminder to talk with your club committee if you can think of worthy applicants for the following ONZ Awards: Services to ONZ awardFor services to Orienteering New Zealand.  This is our premier service award that honours an individual who has contributed in a most deserving manner to the development of orienteering in New Zealand. […]
+ONZ award nominations due soon first appeared on Orienteering New Zealand.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Designing For Older Adults]]></title>
-        <id>https://smashingmagazine.com/2024/02/guide-designing-older-adults/</id>
-        <link href="https://smashingmagazine.com/2024/02/guide-designing-older-adults/"/>
-        <updated>2024-02-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With one billion people aged 60 or older worldwide, inclusivity is more important than ever. Learn how to create digital experiences that empower independence and competence for older adults while enhancing usability for all. An upcoming part of Smart Interface Design Patterns.]]></summary>
+        <title type="html"><![CDATA[Australian 3-Days Entries Closing Soon]]></title>
+        <id>https://orienteering.asn.au/?p=9947</id>
+        <link href="https://orienteering.asn.au/australian-3-days-entries-closing-soon/"/>
+        <updated>2024-02-29T18:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Entries close Sunday March 3. Enter now to avoid late entry fees.
+Australian 3-Days Entries Closing Soon first appeared on Orienteering Australia.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>michaeldowling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Elite and Development Squad improving  skills in Spain]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53594</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-elite-and-development-squad-improving-skills-in-spain/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-elite-and-development-squad-improving-skills-in-spain"/>
+        <updated>2024-02-28T16:30:36.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Elite and Development Squad (SEDS) is an initiative designed to help orienteers in their 20s and beyond to […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon Night-O – Results]]></title>
+        <id>https://slow.org.uk/?p=21697</id>
+        <link href="https://slow.org.uk/racereports/wimbledon-night-results-feb24/"/>
+        <updated>2024-02-27T23:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Congratulations to our series winners – Tsz Chun Jason Wong and Aimee Darley. [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’re Hiring!]]></title>
+        <id>https://www.orienteering.ie/?p=17321</id>
+        <link href="https://www.orienteering.ie/were-hiring/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=were-hiring"/>
+        <updated>2024-02-27T10:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Regional Development Officer (Greater Dublin) Hi to you all, Orienteering Ireland are delighted to announce that we are in a position to hire a Regional Development Officer for the Greater Dublin area. If there is someone in your club who might be interested in applying for this role, we would love to hear from them. […]
+The post We’re Hiring! first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOC 2027 kick off meeting held in Budapest]]></title>
+        <id>https://orienteering.sport/?p=70170</id>
+        <link href="https://orienteering.sport/woc-2027-kick-off-meeting-held-in-budapest/"/>
+        <updated>2024-02-27T09:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Earlier in February, the Hungarian Orienteering Federation, the local organizers and IOF held a press conference and a kick off meeting ahead of the World Orienteering Championships in 2027, that takes place in forests around Vezprem, Hungary in three years. From left: Balázs Kovács, President of the Hungarian Orienteering Federation, Henrik Eliasson, CEO of IOF […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Park Street Champs Results]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13219</id>
+        <link href="https://www.vicorienteering.asn.au/2024-park-street-champs-entry-now-open/"/>
+        <updated>2024-02-27T06:09:51.000Z</updated>
+        <summary type="html"><![CDATA[The Park Street Champs have been run and won - click here to see the results, map, and photos from our highlight event of Summer Series
+2024 Park Street Champs Results first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior and Veteran Home International opportunities for 2024]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53587</id>
+        <link href="https://www.scottish-orienteering.org/news/senior-and-veteran-home-international-opportunities-for-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senior-and-veteran-home-international-opportunities-for-2024"/>
+        <updated>2024-02-26T13:21:21.000Z</updated>
+        <summary type="html"><![CDATA[The selection opportunities for 2024 have been agreed by the selectors. With the Senior Home Internationals take place in Scotland […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: Baklid takes the crown again, Olsson claims first overall women’s title]]></title>
+        <id>https://orienteering.sport/?p=70155</id>
+        <link href="https://orienteering.sport/skio-world-cup-baklid-takes-the-crown-again/"/>
+        <updated>2024-02-26T09:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Another fantastic SkiO season for the Norwegian Jørgen Baklid! He finishes at the top again, retaining the men’s World Cup title for the second year in succession. Magdalena Olsson, Sweden came back to take the women’s title after missing the 2023 season. Both won by good margins. Magdalena Olsson ahead of Elin Schagerström (both SWE) […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup 1 & 2 Expressions of Interest due 10 March]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59199</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-1-2-expressions-of-interest-due-10-march/"/>
+        <updated>2024-02-26T06:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Selections will be based on all known form as waiting until the NZO Sprint race on 29th March does not allow people sufficient time to book and make travel arrangements. World Cup No.1 The first round of the 2024 World Cup will be held in Olten, Switzerland on 24th-26th May 2024, and will consist of a Knock-out Sprint […]
+World Cup 1 & 2 Expressions of Interest due 10 March first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: overall wins for Olsson and Baklid – but second place for both today]]></title>
+        <id>https://orienteering.sport/?p=70146</id>
+        <link href="https://orienteering.sport/skio-world-cup-overall-wins-for-olsson-and-baklid-but-second-place-for-both-today/"/>
+        <updated>2024-02-25T13:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Magdalena Olsson, Sweden and Jørgen Baklid, Norway are the 2024 SkiO World Cup champions, both finishing in second place today, Baklid just 1 second behind Eevert Toivonen, Finland. Home athlete Daisy Kudre Schnyder won the women’s race. Ella Turesson, Sweden was an early leader in the women’s race over 8.8 km, held on a mild, […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch Of Learn to Orienteer Program]]></title>
+        <id>https://orienteering.asn.au/?p=9901</id>
+        <link href="https://orienteering.asn.au/launch-of-learn-to-orienteer-program/"/>
+        <updated>2024-02-24T20:39:55.000Z</updated>
+        <summary type="html"><![CDATA[You are invited to the launch of our Learn to Orienteer program via Zoom on Monday February 26
+Launch Of Learn to Orienteer Program first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>michaeldowling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup Final Pursuit: second victory for Ekström]]></title>
+        <id>https://orienteering.sport/?p=70126</id>
+        <link href="https://orienteering.sport/skio-world-cup-final-pursuit-second-victory-for-ekstrom/"/>
+        <updated>2024-02-24T12:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Niklas Ekström, Finland kept his cool throughout the 3-loop Pursuit today to win by 52 seconds, whilst in the women’s race it was victory for Norwegian Anna Ulvensøen by just 8 seconds. Ekström and Ulvensøen are both second in the World Cup standings and have narrowed the gap to the leaders today, with Ekström now […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March Edition of The Australian Orienteer now Online]]></title>
+        <id>https://orienteering.asn.au/?p=9855</id>
+        <link href="https://orienteering.asn.au/march-edition-of-the-australian-orienteer-now-online/"/>
+        <updated>2024-02-23T21:50:16.000Z</updated>
+        <summary type="html"><![CDATA[The March 2024 issue of The Australian Orienteer is now available online.
+March Edition of The Australian Orienteer now Online first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>michaeldowling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish to be considered, please check this post to ensure that you are recorded on the correct trial list.]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59185</id>
+        <link href="https://www.orienteering.org.nz/news/candidates-for-international-races-2024/"/>
+        <updated>2024-02-23T21:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Below are the lists of athletes who have advised their availability for selection for the various International Championships this year. Please note this does not currently include World Cup Races. If there are any omissions or errors in this information, please contact the Convenor of Selectors, Al Cory-Wright, alistaircorywright@gmail.com asap. Candidates for International Races 2024  EYOC […]
+Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish to be considered, please check this post to ensure that you are recorded on the correct trial list. first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traubaite and Ekström took their first SkiO World Cup wins in Estonia]]></title>
+        <id>https://orienteering.sport/?p=70108</id>
+        <link href="https://orienteering.sport/traubaite-and-ekstrom-took-their-first-skio-world-cup-wins-in-estonia/"/>
+        <updated>2024-02-23T12:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Both Judita Traubaite (LTU) and Niklas Ekström (FIN) claimed the top spot on the World Cup podium for the first time, when this year’s World Cup Final kicked off Friday morning in Haanja, Estonia. The event consists of three individual races, that all count in the Ski Orienteering World Cup and today’s challenge was a […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday Morning Sprint, Sunday 3 March, University of Melbourne]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13207</id>
+        <link href="https://www.vicorienteering.asn.au/13207-2/"/>
+        <updated>2024-02-23T00:00:55.000Z</updated>
+        <summary type="html"><![CDATA[The next Sunday Morning Sprint is at University of Melbourne, a world class campus map. Make the most of this opportunity, and enter now!
+Sunday Morning Sprint, Sunday 3 March, University of Melbourne first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juniors make your voice heard!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53555</id>
+        <link href="https://www.scottish-orienteering.org/news/juniors-make-your-voice-heard/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juniors-make-your-voice-heard"/>
+        <updated>2024-02-22T17:23:34.000Z</updated>
+        <summary type="html"><![CDATA[As part of the process of devising a new Strategy for Scottish Orienteering post WOC, for the period from 2025-2029, […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Winter Series – Fixtures, Calendars, and More!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13286</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-winter-series/"/>
+        <updated>2024-02-22T07:29:28.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the New Orienteering Australia Website]]></title>
+        <id>https://orienteering.asn.au/?p=9735</id>
+        <link href="https://orienteering.asn.au/welcome-to-the-new-orienteeirng-australia-website/"/>
+        <updated>2024-02-21T08:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Welcome.
+The new Orienteering Australia website is now online.
+Welcome to the New Orienteering Australia Website first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>michaeldowling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BikeO-75 Series Concludes on Saturday 2 March at You Yangs]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13165</id>
+        <link href="https://www.vicorienteering.asn.au/bikeo-75-series-is-back-for-summer/"/>
+        <updated>2024-02-20T23:17:06.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOF conducts Athletes Survey 2024]]></title>
+        <id>https://orienteering.sport/?p=70067</id>
+        <link href="https://orienteering.sport/iof-conducts-athletes-survey-2024/"/>
+        <updated>2024-02-20T16:32:14.000Z</updated>
+        <summary type="html"><![CDATA[From late February and in the following weeks, IOF conducts a survey among all athletes that have participated in an IOF event within the last two years. This year’s survey covers both the athletes view on the sustainability of current IOF events and suggestions to enhance the event programme to better meet the athletes needs. […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup and U23 World Championship titles at stake in Estonia this weekend]]></title>
+        <id>https://orienteering.sport/?p=70054</id>
+        <link href="https://orienteering.sport/skio-world-cup-and-u23-world-championship-titles-at-stake-in-estonia-this-weekend/"/>
+        <updated>2024-02-20T09:32:59.000Z</updated>
+        <summary type="html"><![CDATA[The ski orienteering elite will wax their skis for the last international races of the season this weekend, when the SkiO World Cup Final and U23 World Ski Orienteering Championships take place in Estonia from Friday to Sunday. Three individual races await – a Sprint, a Pursuit (Long) and a Middle distance – all in […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Birnam Hill all but SOLWAY flocked!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53537</id>
+        <link href="https://www.scottish-orienteering.org/news/to-birnam-hill-all-but-solway-flocked/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=to-birnam-hill-all-but-solway-flocked"/>
+        <updated>2024-02-19T19:41:59.000Z</updated>
+        <summary type="html"><![CDATA[The weather was kind to all those clubs who joined Forth Valley Orienteers (FVO) at Birnam Hill near Dunkeld for […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The North West Double Header]]></title>
+        <id>https://www.niorienteering.org.uk/?p=8897</id>
+        <link href="https://www.niorienteering.org.uk/the-north-west-double-header/"/>
+        <updated>2024-02-19T17:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Despite an atrocious weather forecast of heavy rain for Saturday 17 February, North West Orienteering Club managed to time both the 2024 NI Score Champs and the NI Night Champs in dry weather. The Score competition used the part wooded and part parkland area of St Columb’s Park as well as the adjoining contrasting urban area [&hellip]]></summary>
+        <author>
+            <name>nioa-sec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compass Sport Cup – Results]]></title>
+        <id>https://slow.org.uk/?p=21657</id>
+        <link href="https://slow.org.uk/racereports/csc-results-feb24/"/>
+        <updated>2024-02-18T22:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Update 21st February – minor amendments to published results (reinstating 2 competitors). No change in position of any clubs in Cup or Trophy competitions. WinSplits [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farewell Pamela Morrison]]></title>
+        <id>https://www.orienteering.org.nz/?p=59172</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/farewell-pamela-morrison/"/>
+        <updated>2024-02-17T21:53:43.000Z</updated>
+        <summary type="html"><![CDATA[On Thursday 15th February 2024 the New Zealand Orienteering community sadly lost a valued member. Pamela Morrison passed away peacefully surrounded by loved ones in the beautiful Hawke’s Bay. Pamela has been part of the New Zealand orienteering community for 30+ years, devoting an immense amount of time to the sport. She held various committee […]
+Farewell Pamela Morrison first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Edinburgh: Lessons and Moving Forwards]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53523</id>
+        <link href="https://www.scottish-orienteering.org/news/orienteering-edinburgh-has-moved-to-the-meadows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-edinburgh-has-moved-to-the-meadows"/>
+        <updated>2024-02-16T15:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 8 weeks, with a break over Christmas, Scottish Orienteering development team with the support of local volunteers […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bendi-Go To-Day is Back this February]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13129</id>
+        <link href="https://www.vicorienteering.asn.au/bendi-go-to-day-is-back-this-february/"/>
+        <updated>2024-02-14T06:45:12.000Z</updated>
+        <summary type="html"><![CDATA[In 2024, on the 24th and 25th of February, we are going to the bit of Granite terrain that Kooyoora forgot about. Now is the time to get your entries in, for what will be one of the highest quality areas to be used for Orienteering in 2024.
+Bendi-Go To-Day is Back this February first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Ireland’s Sprint Training Camp in Dublin: A Weekend Uniting Nations]]></title>
+        <id>https://www.orienteering.ie/?p=17296</id>
+        <link href="https://www.orienteering.ie/orienteering-irelands-sprint-training-camp-in-dublin-a-weekend-uniting-nations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-irelands-sprint-training-camp-in-dublin-a-weekend-uniting-nations"/>
+        <updated>2024-02-13T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland’s recent Sprint Training Camp in Dublin transcended borders, bringing together participants from the Belgian National Team, the Irish Senior Team, and talented Irish Juniors. This unique blend of international and local talent added an extra layer of excitement to an already thrilling weekend of skill development and competition. Day 1: Multinational Gathering and […]
+The post Orienteering Ireland’s Sprint Training Camp in Dublin: A Weekend Uniting Nations first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Senior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Ireland Club Conference]]></title>
+        <id>https://www.orienteering.ie/?p=17289</id>
+        <link href="https://www.orienteering.ie/orienteering-ireland-club-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-ireland-club-conference"/>
+        <updated>2024-02-12T08:03:14.000Z</updated>
+        <summary type="html"><![CDATA[The Orienteering Ireland Executive Committee would like to invite our orienteering clubs to send a delegation to our Club Conference which will be held in the Killeshin Hotel, Portlaoise on 09 March 2024. Orienteering Ireland has begun the transition to a Type B sporting organisation and this is giving us the opportunity to discuss what […]
+The post Orienteering Ireland Club Conference first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Results | 2024 West Woods Classic-O | February 10, 2024]]></title>
+        <id>https://neooc.com/?p=46999</id>
+        <link href="https://neooc.com/results-2024-west-woods-classic-o-february-10-2024/"/>
+        <updated>2024-02-11T13:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Results of the 2024 West Woods Classic-O have been posted!]]></summary>
+        <author>
+            <name>Michael Avery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Club Social / Training Day Report]]></title>
+        <id>https://slow.org.uk/?p=21537</id>
+        <link href="https://slow.org.uk/clubnews/social-feb24/"/>
+        <updated>2024-02-08T10:06:46.000Z</updated>
+        <summary type="html"><![CDATA[The club held a social + training morning on Saturday 3rd February. Thanks to Ranelagh Harriers we had a great base close to one of [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street-O series results after race 5]]></title>
+        <id>https://slow.org.uk/?p=21609</id>
+        <link href="https://slow.org.uk/streeto/streeto-2324-race-5/"/>
+        <updated>2024-02-07T23:00:59.000Z</updated>
+        <summary type="html"><![CDATA[London Orienteering Klubb organised a great event in Kingsbury. Results are on their website: results. It was very high scoring event, with Simon Wright getting a [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contribute to the formulation of the Scottish Orienteering Strategy for 2025- 2029]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53510</id>
+        <link href="https://www.scottish-orienteering.org/news/contribute-to-the-formulation-of-the-scottish-orienteering-strategy-for-2025-2029/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=contribute-to-the-formulation-of-the-scottish-orienteering-strategy-for-2025-2029"/>
+        <updated>2024-02-07T19:29:10.000Z</updated>
+        <summary type="html"><![CDATA[The last Scottish Orienteering Strategy document prepared covered the period 2020- 2024 and therefore the Scottish Orienteering Association Board are […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceania held its first ever sprint orienteering championships in New Zealand]]></title>
+        <id>https://orienteering.sport/?p=69998</id>
+        <link href="https://orienteering.sport/oceania-championships/"/>
+        <updated>2024-02-07T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[The first regional FootO-championships of the year took place last week in New Zealand, where the 2024 Oceania Orienteering Championships were held with three sprint disciplines on the program. It was the first ever sprint Oceania Orienteering Championships with the events designed to prepare the athletes in the best possible way for this summer’s World […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[West Hampstead Street-O, Tuesday 12 March]]></title>
+        <id>https://slow.org.uk/?p=21583</id>
+        <link href="https://slow.org.uk/streeto/west-hampstead-street-o-23/"/>
+        <updated>2024-02-07T11:07:07.000Z</updated>
+        <summary type="html"><![CDATA[The 2023-24 Street-O series is over half way now. The next race will be held in West Hampstead, thanks to Todd and Tessa. Like all [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOC Clinic 2024 is open for applications]]></title>
+        <id>https://orienteering.sport/?p=69994</id>
+        <link href="https://orienteering.sport/woc-clinic-2024-is-open-for-applications/"/>
+        <updated>2024-02-06T16:25:36.000Z</updated>
+        <summary type="html"><![CDATA[It’s time to apply if you want to be a part of this year’s WOC Clinic, that takes place before and during World Orienteering Championships in Edinburgh, Scotland in July. The clinic is a 10-day camp arranged for young and promising athletes from less economically strong orienteering federations to develop as orienteers and succeed in […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
