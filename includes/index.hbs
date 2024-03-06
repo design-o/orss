@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <title>Design-O ◩ Orienteering News</title>
+    <title>O-News ◩ Orienteering News</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,9 +12,7 @@
   </head>
 
   <body>
-    <h1>Design-O ◩ Orienteering News</h1>
-    <p>International Orienteering News RSS feed reader by <a rel="me" href="https://mastodon.social/@design_o">@design_o</a>
-</p>
+    <h1>O-News</h1>
     <!-- %after-body-begin.html% -->
     {{#each dates}}
       <section class="daily-content js-toggle-accordions-scope">
@@ -76,6 +74,8 @@
     {{/each}}
 
     <footer>
+      <p>International Orienteering News RSS feed reader by <a rel="me" class="footer-link" href="https://mastodon.social/@design_o">@design_o</a>
+</p>
       {{#if githubRunUrl}}
       <a class="footer-link" href="{{githubRunUrl}}">
         <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
