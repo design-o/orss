@@ -238,9 +238,7 @@ body {
 footer {
   color: var(--footer-color);
   font-size: var(--font-size-s);
-  display: flex;
   padding: 0 16px;
-  justify-content: space-between;
 }
 
 .footer-link {
