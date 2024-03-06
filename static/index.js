@@ -106,6 +106,7 @@ function renderWeekday() {
     const date = new Date(element.getAttribute("data-offset-date")).toLocaleString(window.navigator.language, {
       month: "numeric",
       day: "numeric",
+      year: "numeric",
       timeZone: "UTC",
     });
     element.innerText = date;
