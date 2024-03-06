@@ -1,9 +1,9 @@
 closeAccordionByIds(getClosedAccordionIdsFromStorage());
 handleAllClickEvents();
 renderBuildTimestamp();
-renderWeekday();
+/**renderWeekday();
 
-/**
+
  * ====== UTILS ======
  **/
 
