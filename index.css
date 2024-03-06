@@ -6,7 +6,7 @@
   --base04: #3344dd;
 
   --base0A: #dc481e;
-  --base0E: #ffffff;
+  --base0E: #000000;
   /**
    * Typograph
    */
@@ -28,9 +28,9 @@
   --body-stack-gap: 32px;
 
   /* --accordion-content-hover-rail-color: var(--base04);*/
-  --accordion-content-rail-color: var(--base03);
-  --accordion-marker-color: var(--article-title-color);
-  --accordion-marker-expanded-color: var(--base03);
+  /*--accordion-content-rail-color: var(--base03);*/
+  /*--accordion-marker-color: var(--article-title-color);*/
+  /*--accordion-marker-expanded-color: var(--base03);*/
   /* --accordion-marker-hover-color: var(--accordion-marker-color);*/
   /* --accordion-marker-expanded-hover-color: var(--accordion-marker-color);*/
   --accordion-rail-indent: 7px;
@@ -124,7 +124,7 @@ body {
   color: var(--article-title-expanded-color);
 }
 .article-expander__title::before {
-  content: "•";
+  content: "◪";
   color: var(--accordion-marker-color);
   display: inline-flex;
   justify-content: center;
