@@ -335,3 +335,5 @@ footer {
 .z-stack__layer {
   grid-area: 1/1/-1/-1;
 }
+
+h1 {margin-botton:10px;}
