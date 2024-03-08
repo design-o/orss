@@ -94,16 +94,6 @@
           "wordCount": 2128,
           "title": "Oceania held its first ever sprint orienteering championships in New Zealand",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/02/ooc_2024_photo-by-karen-woods-_sprint-relay_8275532013654574922_1-1024x769.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=69994",
-          "author": "Erling Thisted",
-          "description": "It’s time to apply if you want to be a part of this year’s WOC Clinic, that takes place before and during World Orienteering Championships in Edinburgh, Scotland in July. The clinic is a 10-day camp arranged for young and promising athletes from less economically strong orienteering federations to develop as orienteers and succeed in […]",
-          "link": "https://orienteering.sport/woc-clinic-2024-is-open-for-applications/",
-          "publishedOn": "2024-02-06T16:25:36.000Z",
-          "wordCount": 1615,
-          "title": "WOC Clinic 2024 is open for applications",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/02/2023_woc_clinic-1024x616.jpg"
         }
       ]
     },
@@ -136,6 +126,16 @@
           "publishedOn": "2024-03-02T07:48:00.000Z",
           "wordCount": 1497,
           "title": "Vic Relays at Royal Park, Sunday 17 March",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13318",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vale-susan-healy-former-ov-president-and-nillumbik-emu/",
+          "publishedOn": "2024-03-01T06:43:16.000Z",
+          "wordCount": 1310,
+          "title": "Vale Susan Healy, former OV President and Nillumbik Emu",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -243,6 +243,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=21735",
+          "author": "Paul Street",
+          "description": "Edited by David May Tribute by Peter Haines of Airienteers Chris Morris was one of those people in life that you encounter very rarely, but [...]",
+          "link": "https://slow.org.uk/clubnews/chris-morris-a-tribute/",
+          "publishedOn": "2024-03-07T16:47:08.000Z",
+          "wordCount": 4632,
+          "title": "Chris Morris – A Tribute to the Founder of SLOW",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews/chris-morris-a-tribute/files/TrophyArtwork2asHeader.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=21697",
           "author": "Steve Clelland",
           "description": "Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Congratulations to our series winners – Tsz Chun Jason Wong and Aimee Darley. [...]",
@@ -281,16 +291,6 @@
           "wordCount": 2061,
           "title": "Street-O series results after race 5",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/HamptonWick2StreetO.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=21583",
-          "author": "vinh",
-          "description": "The 2023-24 Street-O series is over half way now. The next race will be held in West Hampstead, thanks to Todd and Tessa. Like all [...]",
-          "link": "https://slow.org.uk/streeto/west-hampstead-street-o-23/",
-          "publishedOn": "2024-02-07T11:07:07.000Z",
-          "wordCount": 2705,
-          "title": "West Hampstead Street-O, Tuesday 12 March",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/NottingHill_StreetO.jpg"
         }
       ]
     },
@@ -503,6 +503,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53625",
+          "author": "nikkihoward",
+          "description": "Orienteering relies on our volunteers as you have heard us say many times. We are always grateful for their help […]",
+          "link": "https://www.scottish-orienteering.org/news/can-you-help-lost-equipment-find-its-way-home/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-help-lost-equipment-find-its-way-home",
+          "publishedOn": "2024-03-07T13:31:43.000Z",
+          "wordCount": 1591,
+          "title": "Can you help lost equipment find its way home?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/03/PHOTO-2024-03-05-13-06-00-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=53594",
           "author": "nikkihoward",

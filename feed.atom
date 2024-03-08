@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T01:37:12.374Z</updated>
+    <updated>2024-03-08T01:56:55.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Morris – A Tribute to the Founder of SLOW]]></title>
+        <id>https://slow.org.uk/?p=21735</id>
+        <link href="https://slow.org.uk/clubnews/chris-morris-a-tribute/"/>
+        <updated>2024-03-07T16:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Edited by David May Tribute by Peter Haines of Airienteers Chris Morris was one of those people in life that you encounter very rarely, but [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you help lost equipment find its way home?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53625</id>
+        <link href="https://www.scottish-orienteering.org/news/can-you-help-lost-equipment-find-its-way-home/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=can-you-help-lost-equipment-find-its-way-home"/>
+        <updated>2024-03-07T13:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering relies on our volunteers as you have heard us say many times. We are always grateful for their help […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Australia appoints Manager, Communications and Marketing]]></title>
         <id>https://orienteering.asn.au/?p=10062</id>
@@ -243,6 +263,15 @@ Athlete voice |  IOF 2024 survey first appeared on Orienteering New Zealand.]]
 ONZ award nominations due soon first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vale Susan Healy, former OV President and Nillumbik Emu]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13318</id>
+        <link href="https://www.vicorienteering.asn.au/vale-susan-healy-former-ov-president-and-nillumbik-emu/"/>
+        <updated>2024-03-01T06:43:16.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -603,26 +632,6 @@ The post Orienteering Ireland Club Conference first appeared on Orienteering in 
         <link href="https://orienteering.sport/oceania-championships/"/>
         <updated>2024-02-07T16:00:42.000Z</updated>
         <summary type="html"><![CDATA[The first regional FootO-championships of the year took place last week in New Zealand, where the 2024 Oceania Orienteering Championships were held with three sprint disciplines on the program. It was the first ever sprint Oceania Orienteering Championships with the events designed to prepare the athletes in the best possible way for this summer’s World […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[West Hampstead Street-O, Tuesday 12 March]]></title>
-        <id>https://slow.org.uk/?p=21583</id>
-        <link href="https://slow.org.uk/streeto/west-hampstead-street-o-23/"/>
-        <updated>2024-02-07T11:07:07.000Z</updated>
-        <summary type="html"><![CDATA[The 2023-24 Street-O series is over half way now. The next race will be held in West Hampstead, thanks to Todd and Tessa. Like all [...]]]></summary>
-        <author>
-            <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC Clinic 2024 is open for applications]]></title>
-        <id>https://orienteering.sport/?p=69994</id>
-        <link href="https://orienteering.sport/woc-clinic-2024-is-open-for-applications/"/>
-        <updated>2024-02-06T16:25:36.000Z</updated>
-        <summary type="html"><![CDATA[It’s time to apply if you want to be a part of this year’s WOC Clinic, that takes place before and during World Orienteering Championships in Edinburgh, Scotland in July. The clinic is a 10-day camp arranged for young and promising athletes from less economically strong orienteering federations to develop as orienteers and succeed in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
