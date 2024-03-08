@@ -84,16 +84,6 @@
           "wordCount": 2355,
           "title": "SkiO World Cup and U23 World Championship titles at stake in Estonia this weekend",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/02/2023_skio_wcup_pursuit-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=69998",
-          "author": "Erling Thisted",
-          "description": "The first regional FootO-championships of the year took place last week in New Zealand, where the 2024 Oceania Orienteering Championships were held with three sprint disciplines on the program. It was the first ever sprint Oceania Orienteering Championships with the events designed to prepare the athletes in the best possible way for this summer’s World […]",
-          "link": "https://orienteering.sport/oceania-championships/",
-          "publishedOn": "2024-02-07T16:00:42.000Z",
-          "wordCount": 2128,
-          "title": "Oceania held its first ever sprint orienteering championships in New Zealand",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/02/ooc_2024_photo-by-karen-woods-_sprint-relay_8275532013654574922_1-1024x769.jpg"
         }
       ]
     },
@@ -243,6 +233,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=21410",
+          "author": "Dave Uglow",
+          "description": "Individual Events Thursley MapRun tracks can be found on the MapRun Results site. Note that we use the BMBO scoring scheme (graduated penalties) which is [...]",
+          "link": "https://slow.org.uk/racereports/mbo-score-results-2024/",
+          "publishedOn": "2024-03-08T15:42:55.000Z",
+          "wordCount": 2155,
+          "title": "MBO SCORE RESULTS 2024",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/mbo-score-results-2024/files/Albury.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=21735",
           "author": "Paul Street",
           "description": "Edited by David May Tribute by Peter Haines of Airienteers Chris Morris was one of those people in life that you encounter very rarely, but [...]",
@@ -281,16 +281,6 @@
           "wordCount": 2176,
           "title": "Club Social / Training Day Report",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Richmond_training_1-e1707385643589.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=21609",
-          "author": "vinh",
-          "description": "London Orienteering Klubb organised a great event in Kingsbury. Results are on their website: results. It was very high scoring event, with Simon Wright getting a [...]",
-          "link": "https://slow.org.uk/streeto/streeto-2324-race-5/",
-          "publishedOn": "2024-02-07T23:00:59.000Z",
-          "wordCount": 2061,
-          "title": "Street-O series results after race 5",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/HamptonWick2StreetO.jpg"
         }
       ]
     },
@@ -562,16 +552,6 @@
           "wordCount": 2159,
           "title": "Orienteering Edinburgh: Lessons and Moving Forwards",
           "imageUrl": "https://lh7-us.googleusercontent.com/8nJUtKkIOiOaX_lCl9CCV0er15e1Ae1UdEvbaG9oZiUkGx0oAJx6Brj7KEjv0a5eL_Y9m0FB1yWB7k58HOIdpmMfDOADISZWVpFq-3rIhukz3o8oNOxxpFYtaGd94ikIYp3PieQCN6FGc0xc4y5jur4"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53510",
-          "author": "nikkihoward",
-          "description": "The last Scottish Orienteering Strategy document prepared covered the period 2020- 2024 and therefore the Scottish Orienteering Association Board are […]",
-          "link": "https://www.scottish-orienteering.org/news/contribute-to-the-formulation-of-the-scottish-orienteering-strategy-for-2025-2029/?utm_source=rss&utm_medium=rss&utm_campaign=contribute-to-the-formulation-of-the-scottish-orienteering-strategy-for-2025-2029",
-          "publishedOn": "2024-02-07T19:29:10.000Z",
-          "wordCount": 1712,
-          "title": "Contribute to the formulation of the Scottish Orienteering Strategy for 2025- 2029",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2022/12/IMG_6620-1024x574.jpg"
         }
       ]
     },
