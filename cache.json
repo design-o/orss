@@ -233,6 +233,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=21772",
+          "author": "vinh",
+          "description": "The penultimate race of the 2023-24 Street-O series will be held in Wandsworth, organised by Rebecca. The format is a 1 hour time limit to [...]",
+          "link": "https://slow.org.uk/streeto/wandsworth-street-o-23/",
+          "publishedOn": "2024-03-10T23:49:24.000Z",
+          "wordCount": 2716,
+          "title": "Wandsworth Street-O, Tuesday 9 April",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/20220111_184644_med-e1642697648490.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=21410",
           "author": "Dave Uglow",
           "description": "Individual Events Thursley MapRun tracks can be found on the MapRun Results site. Note that we use the BMBO scoring scheme (graduated penalties) which is [...]",
