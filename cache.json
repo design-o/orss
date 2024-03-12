@@ -485,18 +485,7 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": [
-        {
-          "id": "https://neooc.com/?p=46999",
-          "author": "Michael Avery",
-          "description": "Results of the 2024 West Woods Classic-O have been posted!",
-          "link": "https://neooc.com/results-2024-west-woods-classic-o-february-10-2024/",
-          "publishedOn": "2024-02-11T13:20:50.000Z",
-          "wordCount": 1362,
-          "title": "Results | 2024 West Woods Classic-O | February 10, 2024",
-          "imageUrl": "https://i0.wp.com/neooc.com/wp-content/uploads/2023/12/West-Woods.png?w=1200&h=672.03219315895&ssl=1"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Scottish Orienteering Association",

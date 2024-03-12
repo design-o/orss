@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T18:27:12.455Z</updated>
+    <updated>2024-03-12T01:57:13.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -615,16 +615,6 @@ The post Orienteering Ireland’s Sprint Training Camp in Dublin: A Weekend Unit
 The post Orienteering Ireland Club Conference first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | 2024 West Woods Classic-O | February 10, 2024]]></title>
-        <id>https://neooc.com/?p=46999</id>
-        <link href="https://neooc.com/results-2024-west-woods-classic-o-february-10-2024/"/>
-        <updated>2024-02-11T13:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Results of the 2024 West Woods Classic-O have been posted!]]></summary>
-        <author>
-            <name>Michael Avery</name>
         </author>
     </entry>
 </feed>
