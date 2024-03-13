@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T06:28:08.474Z</updated>
+    <updated>2024-03-13T12:47:56.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mac Tíre Award]]></title>
+        <id>https://www.orienteering.ie/?p=17379</id>
+        <link href="https://www.orienteering.ie/mac-tire-award/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mac-tire-award"/>
+        <updated>2024-03-13T11:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Nominations for the Orienteering Ireland Mac Tire award are invited from our membership and clubs. This awarded to an OI member for their work in developing our sport. Some examples are; creating a new map, a new technology, bringing the sport to a new part of the country, introducing a new group to the sport, […]
+The post Mac Tíre Award first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[West Hampstead Street-O Results]]></title>
         <id>https://slow.org.uk/?p=21778</id>
