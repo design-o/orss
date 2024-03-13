@@ -214,16 +214,6 @@
           "wordCount": 1657,
           "title": "Orienteering Ireland’s Sprint Training Camp in Dublin: A Weekend Uniting Nations",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=17289",
-          "author": "Deirdre",
-          "description": "The Orienteering Ireland Executive Committee would like to invite our orienteering clubs to send a delegation to our Club Conference which will be held in the Killeshin Hotel, Portlaoise on 09 March 2024. Orienteering Ireland has begun the transition to a Type B sporting organisation and this is giving us the opportunity to discuss what […]\nThe post Orienteering Ireland Club Conference first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/orienteering-ireland-club-conference/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-ireland-club-conference",
-          "publishedOn": "2024-02-12T08:03:14.000Z",
-          "wordCount": 891,
-          "title": "Orienteering Ireland Club Conference",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
     },
@@ -232,6 +222,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=21778",
+          "author": "vinh",
+          "description": "Thank you to Todd and Tessa for planning and organising the event and to all the on-the-day helpers who made it happen. The event gave [...]",
+          "link": "https://slow.org.uk/streeto/west-hampstead-street-o-23-results/",
+          "publishedOn": "2024-03-13T01:19:33.000Z",
+          "wordCount": 2127,
+          "title": "West Hampstead Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/west-hampstead-street-o-23-results/files/Hampstead_StreetO.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=21772",
           "author": "vinh",
