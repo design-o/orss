@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T18:26:39.117Z</updated>
+    <updated>2024-03-14T01:57:52.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -634,17 +634,6 @@ Farewell Pamela Morrison first appeared on Orienteering New Zealand.]]></summary
 Bendi-Go To-Day is Back this February first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Ireland’s Sprint Training Camp in Dublin: A Weekend Uniting Nations]]></title>
-        <id>https://www.orienteering.ie/?p=17296</id>
-        <link href="https://www.orienteering.ie/orienteering-irelands-sprint-training-camp-in-dublin-a-weekend-uniting-nations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-irelands-sprint-training-camp-in-dublin-a-weekend-uniting-nations"/>
-        <updated>2024-02-13T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland’s recent Sprint Training Camp in Dublin transcended borders, bringing together participants from the Belgian National Team, the Irish Senior Team, and talented Irish Juniors. This unique blend of international and local talent added an extra layer of excitement to an already thrilling weekend of skill development and competition. Day 1: Multinational Gathering and […]
-The post Orienteering Ireland’s Sprint Training Camp in Dublin: A Weekend Uniting Nations first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Senior</name>
         </author>
     </entry>
 </feed>
