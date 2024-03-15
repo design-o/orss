@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T18:27:33.118Z</updated>
+    <updated>2024-03-15T01:59:12.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -623,17 +623,6 @@ Farewell Pamela Morrison first appeared on Orienteering New Zealand.]]></summary
         <summary type="html"><![CDATA[Over the past 8 weeks, with a break over Christmas, Scottish Orienteering development team with the support of local volunteers […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendi-Go To-Day is Back this February]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13129</id>
-        <link href="https://www.vicorienteering.asn.au/bendi-go-to-day-is-back-this-february/"/>
-        <updated>2024-02-14T06:45:12.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, on the 24th and 25th of February, we are going to the bit of Granite terrain that Kooyoora forgot about. Now is the time to get your entries in, for what will be one of the highest quality areas to be used for Orienteering in 2024.
-Bendi-Go To-Day is Back this February first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
