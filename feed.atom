@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T06:27:49.511Z</updated>
+    <updated>2024-03-15T12:45:23.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O-Ringen Academy 2024 is waiting for your application]]></title>
+        <id>https://orienteering.sport/?p=70317</id>
+        <link href="https://orienteering.sport/o-ringen-academy-2024-is-waiting-for-your-application/"/>
+        <updated>2024-03-15T07:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Applications are now open for the annual O-Ringen Academy, which takes place in southern Sweden from July 19th – 28th, 2024 in conjunction with the world’s greatest orienteering event O-Ringen. The academy is organised by the Park World Tour Organisation in cooperation with the International Orienteering Federation and O-Ringen, and it provides a unique opportunity […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You can nominate fellow orienteers for the ONZ Awards …but you must do it by 19 March!]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59307</id>
