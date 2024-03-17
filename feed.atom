@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T18:29:08.562Z</updated>
+    <updated>2024-03-17T02:00:40.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 National Teams Selection Panels and Team Leaders]]></title>
+        <id>https://orienteering.asn.au/?p=10517</id>
+        <link href="https://orienteering.asn.au/2024-national-teams-selection-panels-and-team-leaders/"/>
+        <updated>2024-03-16T22:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the confirmation of selection panels and team leaders for our 2024 national teams to contest World Championships and World Cup.
+2024 National Teams Selection Panels and Team Leaders first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>michaeldowling</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O-Ringen Academy 2024 is waiting for your application]]></title>
         <id>https://orienteering.sport/?p=70317</id>
