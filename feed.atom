@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T06:29:01.651Z</updated>
+    <updated>2024-03-18T12:50:14.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers]]></title>
+        <id>https://orienteering.asn.au/?p=10527</id>
+        <link href="https://orienteering.asn.au/nominations-list-published-for-woc-jwoc-wuoc-world-cup-and-bushrangers/"/>
+        <updated>2024-03-18T06:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Thank you all that have nominated for WOC, JWOC, World Cup and Bushrangers 2024! The list of received nominations can be viewed here. If something is wrong or missing please contact hpadmin@orienteering.asn.au immediatel
+Nominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>fredrikj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 National Teams Selection Panels and Team Leaders]]></title>
         <id>https://orienteering.asn.au/?p=10517</id>
@@ -634,17 +645,6 @@ Welcome to the New Orienteering Australia Website first appeared on Orienteering
         <summary type="html"><![CDATA[Update 21st February – minor amendments to published results (reinstating 2 competitors). No change in position of any clubs in Cup or Trophy competitions. WinSplits [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farewell Pamela Morrison]]></title>
-        <id>https://www.orienteering.org.nz/?p=59172</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/farewell-pamela-morrison/"/>
-        <updated>2024-02-17T21:53:43.000Z</updated>
-        <summary type="html"><![CDATA[On Thursday 15th February 2024 the New Zealand Orienteering community sadly lost a valued member. Pamela Morrison passed away peacefully surrounded by loved ones in the beautiful Hawke’s Bay. Pamela has been part of the New Zealand orienteering community for 30+ years, devoting an immense amount of time to the sport. She held various committee […]
-Farewell Pamela Morrison first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>

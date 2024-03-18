@@ -488,16 +488,6 @@
           "wordCount": 2563,
           "title": "Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish to be considered, please check this post to ensure that you are recorded on the correct trial list.",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/02/ONZ-small-logo.gif"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=59172",
-          "author": "Christo Peters",
-          "description": "On Thursday 15th February 2024 the New Zealand Orienteering community sadly lost a valued member. Pamela Morrison passed away peacefully surrounded by loved ones in the beautiful Hawke’s Bay. Pamela has been part of the New Zealand orienteering community for 30+ years, devoting an immense amount of time to the sport. She held various committee […]\nFarewell Pamela Morrison first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/farewell-pamela-morrison/",
-          "publishedOn": "2024-02-17T21:53:43.000Z",
-          "wordCount": 2299,
-          "title": "Farewell Pamela Morrison",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/02/Screenshot-614.png"
         }
       ]
     },
@@ -617,6 +607,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=10527",
+          "author": "fredrikj",
+          "description": "Thank you all that have nominated for WOC, JWOC, World Cup and Bushrangers 2024! The list of received nominations can be viewed here. If something is wrong or missing please contact hpadmin@orienteering.asn.au immediatel\nNominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nominations-list-published-for-woc-jwoc-wuoc-world-cup-and-bushrangers/",
+          "publishedOn": "2024-03-18T06:30:10.000Z",
+          "wordCount": 2077,
+          "title": "Nominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers",
+          "imageUrl": "https://staging.orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=10517",
           "author": "michaeldowling",
