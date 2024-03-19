@@ -281,16 +281,6 @@
           "wordCount": 2304,
           "title": "Wimbledon Night-O – Results",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wimbledon_extract_feb24.png"
-        },
-        {
-          "id": "https://slow.org.uk/?p=21657",
-          "author": "Steve Clelland",
-          "description": "Update 21st February – minor amendments to published results (reinstating 2 competitors). No change in position of any clubs in Cup or Trophy competitions. WinSplits [...]",
-          "link": "https://slow.org.uk/racereports/csc-results-feb24/",
-          "publishedOn": "2024-02-18T22:00:39.000Z",
-          "wordCount": 2887,
-          "title": "Compass Sport Cup – Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/EsherFinish2024_AT.jpg"
         }
       ]
     },
@@ -299,6 +289,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59327",
+          "author": "Joolz",
+          "description": "The O Champs Relay on 1st April is your last opportunity to get a run on the iconic Crater Block – Te Pūtake o te Maunga.  We’d love to see more orienteers taking up this opportunity and enjoying the fun of a relay event, but get in quick by Friday 22 March. For an extra bonus […]\nJoin in the relay at the NZ champs and win first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/join-in-the-relay-at-the-nz-champs-and-win/",
+          "publishedOn": "2024-03-19T10:13:39.000Z",
+          "wordCount": 2356,
+          "title": "Join in the relay at the NZ champs and win",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/03/Screenshot-2024-03-19-at-11.11.34 PM.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59307",
           "author": "Christo Peters",

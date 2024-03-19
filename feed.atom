@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T06:27:20.591Z</updated>
+    <updated>2024-03-19T12:46:31.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Join in the relay at the NZ champs and win]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59327</id>
+        <link href="https://www.orienteering.org.nz/news/join-in-the-relay-at-the-nz-champs-and-win/"/>
+        <updated>2024-03-19T10:13:39.000Z</updated>
+        <summary type="html"><![CDATA[The O Champs Relay on 1st April is your last opportunity to get a run on the iconic Crater Block – Te Pūtake o te Maunga.  We’d love to see more orienteers taking up this opportunity and enjoying the fun of a relay event, but get in quick by Friday 22 March. For an extra bonus […]
+Join in the relay at the NZ champs and win first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn to Orienteer Launch]]></title>
         <id>https://orienteering.asn.au/?p=10559</id>
@@ -656,16 +667,6 @@ Welcome to the New Orienteering Australia Website first appeared on Orienteering
         <summary type="html"><![CDATA[Despite an atrocious weather forecast of heavy rain for Saturday 17 February, North West Orienteering Club managed to time both the 2024 NI Score Champs and the NI Night Champs in dry weather. The Score competition used the part wooded and part parkland area of St Columb’s Park as well as the adjoining contrasting urban area [&hellip]]></summary>
         <author>
             <name>nioa-sec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compass Sport Cup – Results]]></title>
-        <id>https://slow.org.uk/?p=21657</id>
-        <link href="https://slow.org.uk/racereports/csc-results-feb24/"/>
-        <updated>2024-02-18T22:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Update 21st February – minor amendments to published results (reinstating 2 competitors). No change in position of any clubs in Cup or Trophy competitions. WinSplits [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
