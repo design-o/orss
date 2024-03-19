@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T01:58:42.877Z</updated>
+    <updated>2024-03-19T06:27:20.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn to Orienteer Launch]]></title>
+        <id>https://orienteering.asn.au/?p=10559</id>
+        <link href="https://orienteering.asn.au/learn-to-orienteer-launch/"/>
+        <updated>2024-03-19T05:45:33.000Z</updated>
+        <summary type="html"><![CDATA[With the aim of improving participation and engagement in orienteering in Australia, a new program called Learn to Orienteer (LTO) was officially launched last month by Orienteering Australia. It aims to teach beginners the fundamental orienteering skills while providing a structured pathway into the sport. A virtual launch event was held in late February, a […]
+Learn to Orienteer Launch first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>brodien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Excellent Turnout at a Windswept Drumkeeragh]]></title>
         <id>https://www.niorienteering.org.uk/?p=8949</id>
