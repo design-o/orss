@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T01:57:11.747Z</updated>
+    <updated>2024-03-20T06:31:01.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -677,16 +677,6 @@ Welcome to the New Orienteering Australia Website first appeared on Orienteering
         <summary type="html"><![CDATA[The weather was kind to all those clubs who joined Forth Valley Orienteers (FVO) at Birnam Hill near Dunkeld for […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The North West Double Header]]></title>
-        <id>https://www.niorienteering.org.uk/?p=8897</id>
-        <link href="https://www.niorienteering.org.uk/the-north-west-double-header/"/>
-        <updated>2024-02-19T17:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Despite an atrocious weather forecast of heavy rain for Saturday 17 February, North West Orienteering Club managed to time both the 2024 NI Score Champs and the NI Night Champs in dry weather. The Score competition used the part wooded and part parkland area of St Columb’s Park as well as the adjoining contrasting urban area [&hellip]]></summary>
-        <author>
-            <name>nioa-sec</name>
         </author>
     </entry>
 </feed>
