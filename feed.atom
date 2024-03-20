@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T06:31:01.589Z</updated>
+    <updated>2024-03-20T12:46:07.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -667,16 +667,6 @@ Welcome to the New Orienteering Australia Website first appeared on Orienteering
         <summary type="html"><![CDATA[The ski orienteering elite will wax their skis for the last international races of the season this weekend, when the SkiO World Cup Final and U23 World Ski Orienteering Championships take place in Estonia from Friday to Sunday. Three individual races await – a Sprint, a Pursuit (Long) and a Middle distance – all in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Birnam Hill all but SOLWAY flocked!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53537</id>
-        <link href="https://www.scottish-orienteering.org/news/to-birnam-hill-all-but-solway-flocked/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=to-birnam-hill-all-but-solway-flocked"/>
-        <updated>2024-02-19T19:41:59.000Z</updated>
-        <summary type="html"><![CDATA[The weather was kind to all those clubs who joined Forth Valley Orienteers (FVO) at Birnam Hill near Dunkeld for […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
