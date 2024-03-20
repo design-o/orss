@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T18:27:01.024Z</updated>
+    <updated>2024-03-20T01:57:11.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vic MTBO Series 1, Sunday 24 March, Creswick]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13333</id>
+        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-1-sunday-24-march-creswick/"/>
+        <updated>2024-03-20T01:11:47.000Z</updated>
+        <summary type="html"><![CDATA[The first in the 2024 Vic MTBO Series is on this Sunday at Creswick - enter online by Wednesday 20 March
+Vic MTBO Series 1, Sunday 24 March, Creswick first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join in the relay at the NZ champs and win]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59327</id>
@@ -120,6 +131,15 @@ The post Mac Tíre Award first appeared on Orienteering in Ireland.]]></summary>
         <summary type="html"><![CDATA[2024 O-101 | Nav Skills at Sippo Lake Park, Stark County | Sunday, March 24th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Summer Series Awards Night, Wednesday 27 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13337</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-summer-series-awards-night-wednesday-27-march/"/>
+        <updated>2024-03-11T01:15:49.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
