@@ -598,6 +598,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=10610",
+          "author": "brodien",
+          "description": "Applications for the Orienteering Australia Participation Grants for 2024-25 open today at 09:00am! These grants can be applied for by State/Territory Orienteering Organisations and their member clubs, to improve orienteering participation outcomes.\nOA Participation Grants Open Today! first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/oa-participation-grants-open-today/",
+          "publishedOn": "2024-03-21T21:43:12.000Z",
+          "wordCount": 2321,
+          "title": "OA Participation Grants Open Today!",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=10594",
           "author": "brodien",
           "description": "It’s been a little while since our last athlete interview, but we have an awesome interview coming up later this month with all time great Rob Walter, so keep an eye out for that. For now, lets return to January where Natasha Key, OA Head Coach, took over the interviewing role and spoke to our […]\nJanuary Athlete Interview with Brodie Nankervis first appeared on Orienteering Australia.",
@@ -675,16 +685,6 @@
           "publishedOn": "2024-02-23T21:50:16.000Z",
           "wordCount": 2083,
           "title": "March Edition of The Australian Orienteer now Online",
-          "imageUrl": "https://staging.orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=9735",
-          "author": "michaeldowling",
-          "description": "Welcome.\nThe new Orienteering Australia website is now online.\nWelcome to the New Orienteering Australia Website first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/welcome-to-the-new-orienteeirng-australia-website/",
-          "publishedOn": "2024-02-21T08:59:46.000Z",
-          "wordCount": 2124,
-          "title": "Welcome to the New Orienteering Australia Website",
           "imageUrl": "https://staging.orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T18:27:21.300Z</updated>
+    <updated>2024-03-22T01:57:43.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OA Participation Grants Open Today!]]></title>
+        <id>https://orienteering.asn.au/?p=10610</id>
+        <link href="https://orienteering.asn.au/oa-participation-grants-open-today/"/>
+        <updated>2024-03-21T21:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Applications for the Orienteering Australia Participation Grants for 2024-25 open today at 09:00am! These grants can be applied for by State/Territory Orienteering Organisations and their member clubs, to improve orienteering participation outcomes.
+OA Participation Grants Open Today! first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>brodien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January Athlete Interview with Brodie Nankervis]]></title>
         <id>https://orienteering.asn.au/?p=10594</id>
@@ -647,18 +658,6 @@ Sunday Morning Sprint, Sunday 3 March, University of Melbourne first appeared on
         <updated>2024-02-22T07:29:28.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to the New Orienteering Australia Website]]></title>
-        <id>https://orienteering.asn.au/?p=9735</id>
-        <link href="https://orienteering.asn.au/welcome-to-the-new-orienteeirng-australia-website/"/>
-        <updated>2024-02-21T08:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Welcome.
-The new Orienteering Australia website is now online.
-Welcome to the New Orienteering Australia Website first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>
