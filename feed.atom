@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T12:44:47.273Z</updated>
+    <updated>2024-03-23T18:24:53.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -184,6 +184,17 @@ The post Mac Tíre Award first appeared on Orienteering in Ireland.]]></summary>
         <summary type="html"><![CDATA[2024 O-101 | Nav Skills at Sippo Lake Park, Stark County | Sunday, March 24th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt Lilydale Sprint, Saturday 23 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13207</id>
+        <link href="https://www.vicorienteering.asn.au/13207-2/"/>
+        <updated>2024-03-12T00:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss out on the chance to compete on this brand new map!  You can still enter on the day at Registration, open from 1.30pm
+Mt Lilydale Sprint, Saturday 23 March first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
