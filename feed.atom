@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T01:57:57.520Z</updated>
+    <updated>2024-03-23T06:31:33.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kiwi orienteer finishes the Berkley Marathons]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59341</id>
+        <link href="https://www.orienteering.org.nz/news/kiwi-orienteer-finsihes-the-berkley-marathons/"/>
+        <updated>2024-03-23T05:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Local orienteer Greig Hamilton is the first New Zealander to finish the Barkley Marathons in Frozen Head State Park, Tenessee, USA. This eccentric off trail ultra marathon requires the runner to navigate and find pages in a book in the forest. It has 5 loops on an unmarked course of around 32km/ 20.00 miles each […]
+Kiwi orienteer finishes the Berkley Marathons first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering World Cup enters new era from 2025]]></title>
         <id>https://orienteering.sport/?p=70355</id>
@@ -192,6 +203,15 @@ The post Mac Tíre Award first appeared on Orienteering in Ireland.]]></summary>
         <summary type="html"><![CDATA[The penultimate race of the 2023-24 Street-O series will be held in Wandsworth, organised by Rebecca. The format is a 1 hour time limit to [...]]]></summary>
         <author>
             <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Winter Series – Fixtures, Calendars, and More!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13286</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-winter-series/"/>
+        <updated>2024-03-09T07:29:28.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -649,16 +669,6 @@ Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish t
 Sunday Morning Sprint, Sunday 3 March, University of Melbourne first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juniors make your voice heard!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53555</id>
-        <link href="https://www.scottish-orienteering.org/news/juniors-make-your-voice-heard/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juniors-make-your-voice-heard"/>
-        <updated>2024-02-22T17:23:34.000Z</updated>
-        <summary type="html"><![CDATA[As part of the process of devising a new Strategy for Scottish Orienteering post WOC, for the period from 2025-2029, […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>

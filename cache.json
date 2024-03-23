@@ -129,6 +129,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13286",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/park-street-winter-series/",
+          "publishedOn": "2024-03-09T07:29:28.000Z",
+          "wordCount": 1048,
+          "title": "Park Street Winter Series – Fixtures, Calendars, and More!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13292",
           "author": "Debbie Dodd",
           "description": "Don't miss the Ballarat Sprint Weekend!  Entries close Wednesday March 6, so get yours in now!\nBallarat Sprint Weekend, 9-10 March first appeared on Orienteering Victoria.",
@@ -279,6 +289,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59341",
+          "author": "Joolz",
+          "description": "Local orienteer Greig Hamilton is the first New Zealander to finish the Barkley Marathons in Frozen Head State Park, Tenessee, USA. This eccentric off trail ultra marathon requires the runner to navigate and find pages in a book in the forest. It has 5 loops on an unmarked course of around 32km/ 20.00 miles each […]\nKiwi orienteer finishes the Berkley Marathons first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/kiwi-orienteer-finsihes-the-berkley-marathons/",
+          "publishedOn": "2024-03-23T05:19:15.000Z",
+          "wordCount": 2411,
+          "title": "Kiwi orienteer finishes the Berkley Marathons",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/03/Greig-hamilton_BM100_611840941641263111_n.jpeg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59327",
           "author": "Joolz",
@@ -542,16 +562,6 @@
           "wordCount": 1531,
           "title": "Senior and Veteran Home International opportunities for 2024",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/02/A5A46A76-EC71-4378-8D3F-C9D1D9F93B66-1024x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53555",
-          "author": "nikkihoward",
-          "description": "As part of the process of devising a new Strategy for Scottish Orienteering post WOC, for the period from 2025-2029, […]",
-          "link": "https://www.scottish-orienteering.org/news/juniors-make-your-voice-heard/?utm_source=rss&utm_medium=rss&utm_campaign=juniors-make-your-voice-heard",
-          "publishedOn": "2024-02-22T17:23:34.000Z",
-          "wordCount": 1522,
-          "title": "Juniors make your voice heard!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/02/I-like-it-when-1024x1024.png"
         }
       ]
     },
