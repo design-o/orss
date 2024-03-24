@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T06:27:56.061Z</updated>
+    <updated>2024-03-24T12:47:21.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -637,28 +637,6 @@ Launch Of Learn to Orienteer Program first appeared on Orienteering Australia.]]
         <summary type="html"><![CDATA[Niklas Ekström, Finland kept his cool throughout the 3-loop Pursuit today to win by 52 seconds, whilst in the women’s race it was victory for Norwegian Anna Ulvensøen by just 8 seconds. Ekström and Ulvensøen are both second in the World Cup standings and have narrowed the gap to the leaders today, with Ekström now […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March Edition of The Australian Orienteer now Online]]></title>
-        <id>https://orienteering.asn.au/?p=9855</id>
-        <link href="https://orienteering.asn.au/march-edition-of-the-australian-orienteer-now-online/"/>
-        <updated>2024-02-23T21:50:16.000Z</updated>
-        <summary type="html"><![CDATA[The March 2024 issue of The Australian Orienteer is now available online.
-March Edition of The Australian Orienteer now Online first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish to be considered, please check this post to ensure that you are recorded on the correct trial list.]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59185</id>
-        <link href="https://www.orienteering.org.nz/news/candidates-for-international-races-2024/"/>
-        <updated>2024-02-23T21:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Below are the lists of athletes who have advised their availability for selection for the various International Championships this year. Please note this does not currently include World Cup Races. If there are any omissions or errors in this information, please contact the Convenor of Selectors, Al Cory-Wright, alistaircorywright@gmail.com asap. Candidates for International Races 2024  EYOC […]
-Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish to be considered, please check this post to ensure that you are recorded on the correct trial list. first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
