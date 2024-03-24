@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T18:24:53.469Z</updated>
+    <updated>2024-03-24T02:06:17.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -659,16 +659,6 @@ March Edition of The Australian Orienteer now Online first appeared on Orienteer
 Candidates for International Races 2024: EYOC, JWOC, WOC, WUOC – if you wish to be considered, please check this post to ensure that you are recorded on the correct trial list. first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traubaite and Ekström took their first SkiO World Cup wins in Estonia]]></title>
-        <id>https://orienteering.sport/?p=70108</id>
-        <link href="https://orienteering.sport/traubaite-and-ekstrom-took-their-first-skio-world-cup-wins-in-estonia/"/>
-        <updated>2024-02-23T12:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Both Judita Traubaite (LTU) and Niklas Ekström (FIN) claimed the top spot on the World Cup podium for the first time, when this year’s World Cup Final kicked off Friday morning in Haanja, Estonia. The event consists of three individual races, that all count in the Ski Orienteering World Cup and today’s challenge was a […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
