@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T18:29:16.142Z</updated>
+    <updated>2024-03-25T02:01:18.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -627,16 +627,6 @@ World Cup 1 & 2 Expressions of Interest due 10 March first appeared on Orienteer
 Launch Of Learn to Orienteer Program first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup Final Pursuit: second victory for Ekström]]></title>
-        <id>https://orienteering.sport/?p=70126</id>
-        <link href="https://orienteering.sport/skio-world-cup-final-pursuit-second-victory-for-ekstrom/"/>
-        <updated>2024-02-24T12:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Niklas Ekström, Finland kept his cool throughout the 3-loop Pursuit today to win by 52 seconds, whilst in the women’s race it was victory for Norwegian Anna Ulvensøen by just 8 seconds. Ekström and Ulvensøen are both second in the World Cup standings and have narrowed the gap to the leaders today, with Ekström now […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
