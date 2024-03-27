@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T12:49:19.162Z</updated>
+    <updated>2024-03-27T18:27:47.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -707,17 +707,6 @@ The post We’re Hiring! first appeared on Orienteering in Ireland.]]></summary>
         <summary type="html"><![CDATA[Earlier in February, the Hungarian Orienteering Federation, the local organizers and IOF held a press conference and a kick off meeting ahead of the World Orienteering Championships in 2027, that takes place in forests around Vezprem, Hungary in three years. From left: Balázs Kovács, President of the Hungarian Orienteering Federation, Henrik Eliasson, CEO of IOF […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Park Street Champs Results]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13219</id>
-        <link href="https://www.vicorienteering.asn.au/2024-park-street-champs-entry-now-open/"/>
-        <updated>2024-02-27T06:09:51.000Z</updated>
-        <summary type="html"><![CDATA[The Park Street Champs have been run and won - click here to see the results, map, and photos from our highlight event of Summer Series
-2024 Park Street Champs Results first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
