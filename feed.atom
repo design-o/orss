@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T18:27:47.631Z</updated>
+    <updated>2024-03-28T01:59:45.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -686,27 +686,6 @@ Australian 3-Days Entries Closing Soon first appeared on Orienteering Australia.
         <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Congratulations to our series winners – Tsz Chun Jason Wong and Aimee Darley. [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’re Hiring!]]></title>
-        <id>https://www.orienteering.ie/?p=17321</id>
-        <link href="https://www.orienteering.ie/were-hiring/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=were-hiring"/>
-        <updated>2024-02-27T10:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Regional Development Officer (Greater Dublin) Hi to you all, Orienteering Ireland are delighted to announce that we are in a position to hire a Regional Development Officer for the Greater Dublin area. If there is someone in your club who might be interested in applying for this role, we would love to hear from them. […]
-The post We’re Hiring! first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2027 kick off meeting held in Budapest]]></title>
-        <id>https://orienteering.sport/?p=70170</id>
-        <link href="https://orienteering.sport/woc-2027-kick-off-meeting-held-in-budapest/"/>
-        <updated>2024-02-27T09:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Earlier in February, the Hungarian Orienteering Federation, the local organizers and IOF held a press conference and a kick off meeting ahead of the World Orienteering Championships in 2027, that takes place in forests around Vezprem, Hungary in three years. From left: Balázs Kovács, President of the Hungarian Orienteering Federation, Henrik Eliasson, CEO of IOF […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
