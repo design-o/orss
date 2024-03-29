@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70396",
+          "author": "Erling Thisted",
+          "description": "This weekend, IOF TV invites you to come along to some of the first European FootO-races of 2024, with broadcasts from Swedish League, Swedish Relay League and the French Championships in Sprint Relay. Thousands of orienteers are heading to southern Sweden, where the two first races of this year’s Swedish League are held and on […]",
+          "link": "https://orienteering.sport/70396-2/",
+          "publishedOn": "2024-03-28T19:19:47.000Z",
+          "wordCount": 2083,
+          "title": "Orienteering season kicks off in Sweden and France on IOF TV this weekend",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/03/5-dsc03838-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70355",
           "author": "Erling Thisted",
           "description": "The Orienteering World Cup will enter a new era from 2025 with a new organising setup behind the premiere series of global elite orienteering competitions. The IOF will manage and develop the event with strong support from Verein Swiss Cup, part of the current World Cup consortium, Svensk Orientering Events AB and the Czech Orienteering […]",
@@ -526,6 +536,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47165",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Classic-O at Oak Hill | Cuyahoga Valley NP | Saturday, April 13th",
+          "link": "https://neooc.com/new-event-classic-o-at-oak-hill-cuyahoga-valley-np-saturday-april-13th/",
+          "publishedOn": "2024-03-28T20:46:13.000Z",
+          "wordCount": 1345,
+          "title": "New Event | Classic-O at Oak Hill | Cuyahoga Valley NP | Saturday, April 13th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2019/05/OakHillPines.jpg"
+        },
         {
           "id": "https://neooc.com/?p=47115",
           "author": "Northeast Ohio Orienteering Club",
