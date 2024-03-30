@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T06:26:08.513Z</updated>
+    <updated>2024-03-30T12:41:03.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -686,17 +686,6 @@ ONZ award nominations due soon first appeared on Orienteering New Zealand.]]></s
         <updated>2024-03-01T06:43:16.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian 3-Days Entries Closing Soon]]></title>
-        <id>https://orienteering.asn.au/?p=9947</id>
-        <link href="https://orienteering.asn.au/australian-3-days-entries-closing-soon/"/>
-        <updated>2024-02-29T18:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Entries close Sunday March 3. Enter now to avoid late entry fees.
-Australian 3-Days Entries Closing Soon first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>
