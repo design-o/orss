@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T02:05:43.144Z</updated>
+    <updated>2024-03-31T06:27:15.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -407,6 +407,15 @@ Mt Lilydale Sprint, Saturday 23 March first appeared on Orienteering Victoria.]]
         <summary type="html"><![CDATA[Individual Events Thursley MapRun tracks can be found on the MapRun Results site. Note that we use the BMBO scoring scheme (graduated penalties) which is [...]]]></summary>
         <author>
             <name>Dave Uglow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vale Susan Healy, former OV President and Nillumbik Emu]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13318</id>
+        <link href="https://www.vicorienteering.asn.au/vale-susan-healy-former-ov-president-and-nillumbik-emu/"/>
+        <updated>2024-03-08T06:43:16.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
