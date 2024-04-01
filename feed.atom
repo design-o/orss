@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T02:18:34.580Z</updated>
+    <updated>2024-04-01T06:29:23.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -388,6 +388,17 @@ Mt Lilydale Sprint, Saturday 23 March first appeared on Orienteering Victoria.]]
         <summary type="html"><![CDATA[The penultimate race of the 2023-24 Street-O series will be held in Wandsworth, organised by Rebecca. The format is a 1 hour time limit to [...]]]></summary>
         <author>
             <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Relays at Royal Park, Sunday 17 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13295</id>
+        <link href="https://www.vicorienteering.asn.au/vic-relays-at-royal-park-sunday-17-march/"/>
+        <updated>2024-03-10T07:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Contact your club to be part of the excitement of the Royal Park Relays!
+Vic Relays at Royal Park, Sunday 17 March first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
