@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T12:49:14.232Z</updated>
+    <updated>2024-04-02T18:29:01.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SPORTident continues to support the International Orienteering Federation in 2024]]></title>
+        <id>https://orienteering.sport/?p=70426</id>
+        <link href="https://orienteering.sport/sportident-continues-to-support-the-international-orienteering-federation-in-2024/"/>
+        <updated>2024-04-02T15:15:22.000Z</updated>
+        <summary type="html"><![CDATA[IOF is pleased to share that the partnership with SPORTident is extended through 2024. More details in the article below from SPORTident. And don’t forget: You can get your hands on the special edition IOF SIAC in the IOF Shop. “A great year of working together lies behind us and we are already looking forward […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC Team Announcement]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59418</id>
