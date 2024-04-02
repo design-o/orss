@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T02:04:32.075Z</updated>
+    <updated>2024-04-02T06:28:52.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Team Announcement]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59418</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-team-announcement/"/>
+        <updated>2024-04-02T03:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Please note that attendance is conditional on team members being financial members of a club affiliated to Orienteering New Zealand and having no outstanding debts to Orienteering New Zealand. The Orienteering New Zealand Senior Selection Panel has named the following team to attend the Junior World Orienteering Championships (JWOC) in Pilzen, Czechia in June & […]
+JWOC Team Announcement first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EYOC Team Announcement]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59415</id>
+        <link href="https://www.orienteering.org.nz/news/eyoc-team-announced/"/>
+        <updated>2024-04-02T03:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Please note that attendance is conditional on team members being financial members of a club affiliated to Orienteering New Zealand and having no outstanding debts to Orienteering New Zealand. Team management will be announced as soon as they are confirmed by ONZ’s Board. The Orienteering New Zealand Senior Selection Panel has named the following team […]
+EYOC Team Announcement first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian 3 Days 2024]]></title>
         <id>https://orienteering.asn.au/?p=10656</id>
