@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T02:00:47.801Z</updated>
+    <updated>2024-04-03T06:28:28.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bushrangers Nominations and Team Manager EOI]]></title>
+        <id>https://orienteering.asn.au/?p=10690</id>
+        <link href="https://orienteering.asn.au/bushrangers-nominations-and-team-manager-eoi/"/>
+        <updated>2024-04-03T04:51:12.000Z</updated>
+        <summary type="html"><![CDATA[OA is reopening nominations to represent Australia in the Bushrangers team which will compete against the New Zealand Pinestars at the Kings Birthday competition in New Zealand from June 1st-3rd, 2024.
+Bushrangers Nominations and Team Manager EOI first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>brodien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MelBushO is Back!  Brimbank Park, Sunday 14 April]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13388</id>
@@ -346,6 +357,17 @@ Learn to Orienteer Launch first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[Marshals on car park duty had perhaps the worst experience at Drumkeeragh for the first Colour Series event of 2024. With driving rain sweeping across the area, conditions did become more bearable once in the forest. Especially given the harsh conditions, there was an excellent turnout of just over 100 competitors. The results are at  [&hellip]]></summary>
         <author>
             <name>nioa-sec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excellent Turnout at a Windswept Drumkeeragh]]></title>
+        <id>https://www.niorienteering.org.uk/?p=3421</id>
+        <link href="https://www.niorienteering.org.uk/2024-colour-series-launches-at-drumkeeragh/"/>
+        <updated>2024-03-18T14:34:17.000Z</updated>
+        <summary type="html"><![CDATA[2024 NI Score and Night Champs
+The post Excellent Turnout at a Windswept Drumkeeragh appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>adminNIOAfullteam</name>
         </author>
     </entry>
     <entry>
