@@ -79,6 +79,36 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13388",
+          "author": "Debbie Dodd",
+          "description": "Time to go bush at Brimbank Park!  Online entry is open now for the first MelbushO of 2024\nMelBushO is Back!  Brimbank Park, Sunday 14 April first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-brimbank-park-sunday-14-april/",
+          "publishedOn": "2024-04-03T00:38:27.000Z",
+          "wordCount": 1219,
+          "title": "MelBushO is Back!  Brimbank Park, Sunday 14 April",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/saturday-cakeo-in-melbourne-abbey-walk-april-6/",
+          "publishedOn": "2024-03-31T00:41:54.000Z",
+          "wordCount": 1133,
+          "title": "Saturday CakeO in Melbourne, Abbey Walk, April 6",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13394",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bendigo-bush-dead-bullock-gully-saturday-6-april/",
+          "publishedOn": "2024-03-30T00:47:07.000Z",
+          "wordCount": 1003,
+          "title": "Bendigo Bush, Dead Bullock Gully, Saturday 6 April",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13376",
           "author": "Debbie Dodd",
           "description": "The Easter prologue saw sizzling performances from lots of Victorians, getting off to a great start for the competition in South Australia\nVics Kick Off Easter With Success first appeared on Orienteering Victoria.",
@@ -163,16 +193,6 @@
           "publishedOn": "2024-03-13T11:02:02.000Z",
           "wordCount": 812,
           "title": "Mac Tíre Award",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=17368",
-          "author": "Operations Manager",
-          "description": "Entries for IOC2024 have now been opened and further event information has been added to our IOC website. We hope to see you in May as we explore the fabulous Maynooth University Campus and the lands around the shores of historic Lough Ree!IOC.ORIENTEERING.IE\nThe post IOC 2024 – ENTRIES OPEN first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/ioc-2024-entries-open/?utm_source=rss&utm_medium=rss&utm_campaign=ioc-2024-entries-open",
-          "publishedOn": "2024-03-04T13:21:30.000Z",
-          "wordCount": 757,
-          "title": "IOC 2024 – ENTRIES OPEN",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
@@ -469,26 +489,6 @@
           "wordCount": 2588,
           "title": "Excellent Turnout at a Windswept Drumkeeragh",
           "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2024/03/Drumkeeragh.jpg?fit=684%2C568&ssl=1"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=8929",
-          "author": "nioa-sec",
-          "description": "Entries are open for the first NI Colour Series event of the year at Drumkeeragh, Co Down on Saturday 16 March. Benefitting from a excellent map used last year for the British Middle Distance Championships, this event has a course for all levels of experience and fitness. Check out the guide to colour coded courses. [&hellip",
-          "link": "https://www.niorienteering.org.uk/2024-colour-series-launches-at-drumkeeragh/",
-          "publishedOn": "2024-03-04T13:21:09.000Z",
-          "wordCount": 2584,
-          "title": "2024 Colour Series Launches at Drumkeeragh",
-          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2024/03/Drumkeeragh.jpg?fit=684%2C568&ssl=1"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=8925",
-          "author": "nioa-sec",
-          "description": "Competitors faced challenging courses on a wintry Slieve Croob at the postponed 2023 NI Long Distance Championships on Saturday 2 March 2024. Thanks to LVO and planner Steph Pruzina, controller Greg McCann and organiser Stephen Knight for a great event. The results with full analysis are at Results & Fixtures>Results>2023 Results (and 2024 Results). As [&hellip",
-          "link": "https://www.niorienteering.org.uk/2023-ni-orienteering-champions/",
-          "publishedOn": "2024-03-04T13:00:10.000Z",
-          "wordCount": 2715,
-          "title": "2023 NI Orienteering Champions",
-          "imageUrl": "https://i1.wp.com/www.niorienteering.org.uk/wp-content/uploads/2024/02/NIOA-2023-Champs.jpg?fit=900%2C754&ssl=1"
         }
       ]
     },
