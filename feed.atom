@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T12:47:32.576Z</updated>
+    <updated>2024-04-04T18:27:50.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -604,17 +604,6 @@ Vic Relays at Royal Park, Sunday 17 March first appeared on Orienteering Victori
         <summary type="html"><![CDATA[Orienteering relies on our volunteers as you have heard us say many times. We are always grateful for their help […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia appoints Manager, Communications and Marketing]]></title>
-        <id>https://orienteering.asn.au/?p=10062</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-appoints-manager-communications-and-marketing/"/>
-        <updated>2024-03-06T01:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia is very pleased to announce the appointment of Liz Leung as Manager, Communications and Marketing
-Orienteering Australia appoints Manager, Communications and Marketing first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>
