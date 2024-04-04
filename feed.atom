@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T18:28:44.282Z</updated>
+    <updated>2024-04-04T02:02:40.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Independent athlete participation in World Ranking Events]]></title>
+        <id>https://orienteering.sport/?p=70431</id>
+        <link href="https://orienteering.sport/independent-athlete-participation-in-world-ranking-events/"/>
+        <updated>2024-04-03T20:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Following consultation with the Member Federations and IOF Athlete Representatives, the IOF Council has unanimously approved to open up for independent athlete participation in World Ranking Events through IIA status for eligible athletes. The approved scope for IIA status will come into effect on 1 July 2024. One of the IOF’s 3 guiding values is […]]]></summary>
+        <author>
+            <name>Sondre Sande Gullord</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beating the Drum to Drum Manor]]></title>
         <id>https://www.niorienteering.org.uk/?p=5552</id>
@@ -574,16 +584,6 @@ Vic Relays at Royal Park, Sunday 17 March first appeared on Orienteering Victori
 Orienteering Australia appoints Manager, Communications and Marketing first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80’s double partnership strengthens orienteering in several ways]]></title>
-        <id>https://orienteering.sport/?p=70218</id>
-        <link href="https://orienteering.sport/cx80s-double-partnership-strengthens-orienteering-at-several-levels/"/>
-        <updated>2024-03-05T12:23:23.000Z</updated>
-        <summary type="html"><![CDATA[If you have followed IOF’s major events in recent years, you probably have no doubt: The Polish grease- and lubricant manufacturer CX80 is one of IOF’s most important partners. The distinctive red and white logo appears at run-up sections and on backdrops at World and European Championships and both major MTBO championships and the MTBO […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70431",
+          "author": "Sondre Sande Gullord",
+          "description": "Following consultation with the Member Federations and IOF Athlete Representatives, the IOF Council has unanimously approved to open up for independent athlete participation in World Ranking Events through IIA status for eligible athletes. The approved scope for IIA status will come into effect on 1 July 2024. One of the IOF’s 3 guiding values is […]",
+          "link": "https://orienteering.sport/independent-athlete-participation-in-world-ranking-events/",
+          "publishedOn": "2024-04-03T20:57:55.000Z",
+          "wordCount": 2599,
+          "title": "Independent athlete participation in World Ranking Events",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2019/05/iof-logo-colour-400x182.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=70426",
           "author": "Erling Thisted",
           "description": "IOF is pleased to share that the partnership with SPORTident is extended through 2024. More details in the article below from SPORTident. And don’t forget: You can get your hands on the special edition IOF SIAC in the IOF Shop. “A great year of working together lies behind us and we are already looking forward […]",
@@ -54,16 +64,6 @@
           "wordCount": 1780,
           "title": "Organising a Carbon-wise Event",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/06/2021_jukola_start_jarmo_koskela-1024x713.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70218",
-          "author": "Erling Thisted",
-          "description": "If you have followed IOF’s major events in recent years, you probably have no doubt: The Polish grease- and lubricant manufacturer CX80 is one of IOF’s most important partners. The distinctive red and white logo appears at run-up sections and on backdrops at World and European Championships and both major MTBO championships and the MTBO […]",
-          "link": "https://orienteering.sport/cx80s-double-partnership-strengthens-orienteering-at-several-levels/",
-          "publishedOn": "2024-03-05T12:23:23.000Z",
-          "wordCount": 2476,
-          "title": "CX80’s double partnership strengthens orienteering in several ways",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/03/cx80_worldcupround1_1_-1024x683.jpg"
         }
       ]
     },
