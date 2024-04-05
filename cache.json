@@ -548,6 +548,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=10701",
+          "author": "elizabethl",
+          "description": "Orienteering Australia announced a range of annual awards at the recent Australian 3-Days Championships.\nOrienteering Australia Annual Awards first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/orienteering-australia-annual-awards/",
+          "publishedOn": "2024-04-05T08:00:00.000Z",
+          "wordCount": 2152,
+          "title": "Orienteering Australia Annual Awards",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=10688",
           "author": "elizabethl",
           "description": "Orienteering Australia congratulates Brodie Nankervis, our 2023 Athlete of the Year.\n2023 Orienteering Australia Athlete of the Year – Brodie Nankervis (TAS) first appeared on Orienteering Australia.",
