@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T12:10:53.075Z</updated>
+    <updated>2024-04-06T18:07:39.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JK Festival]]></title>
+        <id>https://slow.org.uk/?p=21826</id>
+        <link href="https://slow.org.uk/clubnews/jk-festival/"/>
+        <updated>2024-04-06T18:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Every Easter GB Orienteering holds a four-day orienteering festival called “The JK” #theJK2024. It moves round the country and this year it was in the [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Australia Annual Awards]]></title>
         <id>https://orienteering.asn.au/?p=10701</id>

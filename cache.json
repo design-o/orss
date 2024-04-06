@@ -203,6 +203,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=21826",
+          "author": "Paul Street",
+          "description": "Every Easter GB Orienteering holds a four-day orienteering festival called “The JK” #theJK2024. It moves round the country and this year it was in the [...]",
+          "link": "https://slow.org.uk/clubnews/jk-festival/",
+          "publishedOn": "2024-04-06T18:00:32.000Z",
+          "wordCount": 2406,
+          "title": "JK Festival",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/jk-festival/files/JK2024_RelayArena.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=21778",
           "author": "vinh",
           "description": "Thank you to Todd and Tessa for planning and organising the event and to all the on-the-day helpers who made it happen. The event gave [...]",
