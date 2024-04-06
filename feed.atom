@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T00:30:20.478Z</updated>
+    <updated>2024-04-06T06:08:38.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -595,26 +595,6 @@ Vic Relays at Royal Park, Sunday 17 March first appeared on Orienteering Victori
         <updated>2024-03-08T06:43:16.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Morris – A Tribute to the Founder of SLOW]]></title>
-        <id>https://slow.org.uk/?p=21735</id>
-        <link href="https://slow.org.uk/clubnews/chris-morris-a-tribute/"/>
-        <updated>2024-03-07T16:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Edited by David May Tribute by Peter Haines of Airienteers Chris Morris was one of those people in life that you encounter very rarely, but [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you help lost equipment find its way home?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53625</id>
-        <link href="https://www.scottish-orienteering.org/news/can-you-help-lost-equipment-find-its-way-home/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=can-you-help-lost-equipment-find-its-way-home"/>
-        <updated>2024-03-07T13:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering relies on our volunteers as you have heard us say many times. We are always grateful for their help […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
