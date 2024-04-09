@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70469",
+          "author": "Sondre Sande Gullord",
+          "description": "Athlete Representatives to the IOF Athletes’ Advisory Groups for the new two-year term 2024-2026 has been elected by the athletes for all four disciplines. See the election results here. The elected IOF Athlete Representatives represent the voice and interests of athletes and are part of consultation- and decision-making processes within the IOF organisation. Empowerment of […]",
+          "link": "https://orienteering.sport/new-iof-athletes-advisory-groups-elected/",
+          "publishedOn": "2024-04-09T14:33:23.000Z",
+          "wordCount": 2070,
+          "title": "New IOF Athlete Representatives elected",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2019/05/iof-logo-colour-400x182.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=70442",
           "author": "Erling Thisted",
           "description": "The spring really comes to Finland on Friday evening when the 2024 Finnish Relay League kicks off in the southwestern corner of the country. Kevätyönviesti is the first of seven rounds of the league in 2024, where Tampereen Pyrintö are defending champions in both women’s and men’s classes from last year. The three-leg relays take […]",
@@ -166,16 +176,6 @@
           "publishedOn": "2024-03-12T00:00:55.000Z",
           "wordCount": 1175,
           "title": "Mt Lilydale Sprint, Saturday 23 March",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13337",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/park-street-summer-series-awards-night-wednesday-27-march/",
-          "publishedOn": "2024-03-11T01:15:49.000Z",
-          "wordCount": 1181,
-          "title": "Park Street Summer Series Awards Night, Wednesday 27 March",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
