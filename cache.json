@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70442",
+          "author": "Erling Thisted",
+          "description": "The spring really comes to Finland on Friday evening when the 2024 Finnish Relay League kicks off in the southwestern corner of the country. Kevätyönviesti is the first of seven rounds of the league in 2024, where Tampereen Pyrintö are defending champions in both women’s and men’s classes from last year. The three-leg relays take […]",
+          "link": "https://orienteering.sport/2024-finnish-relay-league-premieres-in-iof-tv-on-friday/",
+          "publishedOn": "2024-04-09T12:10:25.000Z",
+          "wordCount": 1438,
+          "title": "2024 Finnish Relay League premieres in IOF TV on Friday",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/viestiliiga_facebook.jpeg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70431",
           "author": "Sondre Sande Gullord",
           "description": "Following consultation with the Member Federations and IOF Athlete Representatives, the IOF Council has unanimously approved to open up for independent athlete participation in World Ranking Events through IIA status for eligible athletes. The approved scope for IIA status will come into effect on 1 July 2024. One of the IOF’s 3 guiding values is […]",
@@ -79,6 +89,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13417",
+          "author": "Debbie Dodd",
+          "description": "Jump Off into orienteering at Darebin Parklands this Saturday April 13!  Free activity afternoon for kids\nJump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Parklands first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/jump-off-free-orienteering-activity-afternoon-saturday-13-april-darebin-parklands/",
+          "publishedOn": "2024-04-09T09:10:40.000Z",
+          "wordCount": 1072,
+          "title": "Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Parklands",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13388",
           "author": "Debbie Dodd",
           "description": "Time to go bush at Brimbank Park!  Online entry is open now for the first MelbushO of 2024\nMelBushO is Back!  Brimbank Park, Sunday 14 April first appeared on Orienteering Victoria.",
@@ -86,6 +106,16 @@
           "publishedOn": "2024-04-03T00:38:27.000Z",
           "wordCount": 1219,
           "title": "MelBushO is Back!  Brimbank Park, Sunday 14 April",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13420",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/action-packed-anzac-weekend/",
+          "publishedOn": "2024-04-01T08:15:16.000Z",
+          "wordCount": 1249,
+          "title": "Action Packed Anzac Weekend!",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -191,16 +221,6 @@
           "wordCount": 2127,
           "title": "West Hampstead Street-O Results",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/west-hampstead-street-o-23-results/files/Hampstead_StreetO.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=21772",
-          "author": "vinh",
-          "description": "The penultimate race of the 2023-24 Street-O series will be held in Wandsworth, organised by Rebecca. The format is a 1 hour time limit to [...]",
-          "link": "https://slow.org.uk/streeto/wandsworth-street-o-23/",
-          "publishedOn": "2024-03-10T23:49:24.000Z",
-          "wordCount": 2716,
-          "title": "Wandsworth Street-O, Tuesday 9 April",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/20220111_184644_med-e1642697648490.jpg"
         }
       ]
     },
@@ -423,6 +443,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53693",
+          "author": "suzannerb",
+          "description": "The first delivery of the new Demystifying Organising workshops was well received.  Run over 2 online sessions with a fortnight […]",
+          "link": "https://www.scottish-orienteering.org/news/demystifying-organising-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=demystifying-organising-workshops",
+          "publishedOn": "2024-04-09T09:08:51.000Z",
+          "wordCount": 1605,
+          "title": "Demystifying Organising workshops",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/organising.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=53683",
           "author": "nikkihoward",

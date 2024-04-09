@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T06:08:56.106Z</updated>
+    <updated>2024-04-09T12:11:59.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Finnish Relay League premieres in IOF TV on Friday]]></title>
+        <id>https://orienteering.sport/?p=70442</id>
+        <link href="https://orienteering.sport/2024-finnish-relay-league-premieres-in-iof-tv-on-friday/"/>
+        <updated>2024-04-09T12:10:25.000Z</updated>
+        <summary type="html"><![CDATA[The spring really comes to Finland on Friday evening when the 2024 Finnish Relay League kicks off in the southwestern corner of the country. Kevätyönviesti is the first of seven rounds of the league in 2024, where Tampereen Pyrintö are defending champions in both women’s and men’s classes from last year. The three-leg relays take […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Parklands]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13417</id>
+        <link href="https://www.vicorienteering.asn.au/jump-off-free-orienteering-activity-afternoon-saturday-13-april-darebin-parklands/"/>
+        <updated>2024-04-09T09:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Jump Off into orienteering at Darebin Parklands this Saturday April 13!  Free activity afternoon for kids
+Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Parklands first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Organising workshops]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53693</id>
+        <link href="https://www.scottish-orienteering.org/news/demystifying-organising-workshops/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=demystifying-organising-workshops"/>
+        <updated>2024-04-09T09:08:51.000Z</updated>
+        <summary type="html"><![CDATA[The first delivery of the new Demystifying Organising workshops was well received.  Run over 2 online sessions with a fortnight […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JK Festival]]></title>
         <id>https://slow.org.uk/?p=21826</id>
@@ -153,6 +184,15 @@ EYOC Team Announcement first appeared on Orienteering New Zealand.]]></summary>
 Australian 3 Days 2024 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Action Packed Anzac Weekend!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13420</id>
+        <link href="https://www.vicorienteering.asn.au/action-packed-anzac-weekend/"/>
+        <updated>2024-04-01T08:15:16.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -556,16 +596,6 @@ Mt Lilydale Sprint, Saturday 23 March first appeared on Orienteering Victoria.]]
         <updated>2024-03-11T01:15:49.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wandsworth Street-O, Tuesday 9 April]]></title>
-        <id>https://slow.org.uk/?p=21772</id>
-        <link href="https://slow.org.uk/streeto/wandsworth-street-o-23/"/>
-        <updated>2024-03-10T23:49:24.000Z</updated>
-        <summary type="html"><![CDATA[The penultimate race of the 2023-24 Street-O series will be held in Wandsworth, organised by Rebecca. The format is a 1 hour time limit to [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
