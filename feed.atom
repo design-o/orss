@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T18:08:02.701Z</updated>
+    <updated>2024-04-10T00:30:38.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -230,6 +230,17 @@ Australian 3 Days 2024 first appeared on Orienteering Australia.]]></summary>
         <updated>2024-03-29T10:24:22.000Z</updated>
         <summary type="html"><![CDATA[The Easter prologue saw sizzling performances from lots of Victorians, getting off to a great start for the competition in South Australia
 Vics Kick Off Easter With Success first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Summer Series Awards Night Photos and Announcements]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13337</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-summer-series-awards-night-wednesday-27-march/"/>
+        <updated>2024-03-29T01:15:49.000Z</updated>
+        <summary type="html"><![CDATA[The Summer Series Awards Night was a great occasion and celebration of the year.  Read more to see photos from the night.
+Park Street Summer Series Awards Night Photos and Announcements first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
