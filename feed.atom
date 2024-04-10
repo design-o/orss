@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T06:09:15.310Z</updated>
+    <updated>2024-04-10T12:11:37.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Hall of Fame Inductees]]></title>
+        <id>https://orienteering.asn.au/?p=10730</id>
+        <link href="https://orienteering.asn.au/2024-hall-of-fame-inductees/"/>
+        <updated>2024-04-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to the 2024 Hall of Fame inductees who join an illustrious group of Australia’s most respected and celebrated orienteers that span the test of time.
+2024 Hall of Fame Inductees first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wandsworth Street-O Results]]></title>
         <id>https://slow.org.uk/?p=21875</id>
@@ -617,17 +628,6 @@ The post Mac Tíre Award first appeared on Orienteering in Ireland.]]></summary>
         <summary type="html"><![CDATA[2024 O-101 | Nav Skills at Sippo Lake Park, Stark County | Sunday, March 24th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mt Lilydale Sprint, Saturday 23 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13207</id>
-        <link href="https://www.vicorienteering.asn.au/13207-2/"/>
-        <updated>2024-03-12T00:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss out on the chance to compete on this brand new map!  You can still enter on the day at Registration, open from 1.30pm
-Mt Lilydale Sprint, Saturday 23 March first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

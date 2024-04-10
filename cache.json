@@ -177,16 +177,6 @@
           "wordCount": 1261,
           "title": "Vic MTBO Series 1, Sunday 24 March, Creswick",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13207",
-          "author": "Debbie Dodd",
-          "description": "Don't miss out on the chance to compete on this brand new map!  You can still enter on the day at Registration, open from 1.30pm\nMt Lilydale Sprint, Saturday 23 March first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/13207-2/",
-          "publishedOn": "2024-03-12T00:00:55.000Z",
-          "wordCount": 1175,
-          "title": "Mt Lilydale Sprint, Saturday 23 March",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -557,6 +547,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=10730",
+          "author": "elizabethl",
+          "description": "Congratulations to the 2024 Hall of Fame inductees who join an illustrious group of Australia’s most respected and celebrated orienteers that span the test of time.\n2024 Hall of Fame Inductees first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2024-hall-of-fame-inductees/",
+          "publishedOn": "2024-04-10T09:00:00.000Z",
+          "wordCount": 2321,
+          "title": "2024 Hall of Fame Inductees",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=10701",
           "author": "elizabethl",
