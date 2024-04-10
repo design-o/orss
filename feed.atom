@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T00:30:38.797Z</updated>
+    <updated>2024-04-10T06:09:15.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wandsworth Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=21875</id>
+        <link href="https://slow.org.uk/streeto/wandsworth-street-o-23-results/"/>
+        <updated>2024-04-10T00:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Over 100 people turned up to the Wandsworth Street-O. It was a fantastic event and there was a great buzz in the pub afterwards. Rebecca [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLOW wins Spirit of Inclusion Award]]></title>
+        <id>https://slow.org.uk/?p=21872</id>
+        <link href="https://slow.org.uk/clubnews/spirit-of-inclusion-ward-2023/"/>
+        <updated>2024-04-10T00:22:09.000Z</updated>
+        <summary type="html"><![CDATA[South London Orienteers are delighted to be awarded British Orienteering’s Spirit of Inclusion Award 2023. This is a new award category introduced to recognise the [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New IOF Athlete Representatives elected]]></title>
         <id>https://orienteering.sport/?p=70469</id>
