@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T12:11:31.209Z</updated>
+    <updated>2024-04-11T18:08:08.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -629,16 +629,6 @@ You can nominate fellow orienteers for the ONZ Awards …but you must do it by 1
 The post Mac Tíre Award first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[West Hampstead Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=21778</id>
-        <link href="https://slow.org.uk/streeto/west-hampstead-street-o-23-results/"/>
-        <updated>2024-03-13T01:19:33.000Z</updated>
-        <summary type="html"><![CDATA[Thank you to Todd and Tessa for planning and organising the event and to all the on-the-day helpers who made it happen. The event gave [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
