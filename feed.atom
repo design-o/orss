@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T06:08:56.096Z</updated>
+    <updated>2024-04-11T12:11:31.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Final chance to provide input to the Scottish Orienteering Strategy]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53700</id>
+        <link href="https://www.scottish-orienteering.org/news/final-chance-to-provide-input-to-the-scottish-orienteering-strategy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=final-chance-to-provide-input-to-the-scottish-orienteering-strategy"/>
+        <updated>2024-04-11T11:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring the future of Scottish Orienteering was at the forefront of the minds of the SOA Board when they met […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries closing for the Irish Orienteering Championships]]></title>
         <id>https://www.orienteering.ie/?p=17446</id>
