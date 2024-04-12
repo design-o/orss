@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T06:09:27.368Z</updated>
+    <updated>2024-04-12T12:11:30.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Closing on Sunday 14 April]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5609</id>
+        <link href="https://www.niorienteering.org.uk/entries-closing-on-sunday-14-april/"/>
+        <updated>2024-04-12T09:16:49.000Z</updated>
+        <summary type="html"><![CDATA[The closing date for two important events is this Sunday 14 April: The second NI Colour Series of the 2024 to be held at Drum Manor Forest Park on Saturday 20 April. All the entry details are on the NWOC website. The Irish Orienteering Championships...
+The post Entries Closing on Sunday 14 April appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Final chance to provide input to the Scottish Orienteering Strategy]]></title>
         <id>https://www.scottish-orienteering.org/?p=53700</id>
