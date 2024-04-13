@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T06:07:22.659Z</updated>
+    <updated>2024-04-13T12:09:39.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Silva Medal Progress Scores]]></title>
+        <id>https://orienteering.asn.au/?p=10745</id>
+        <link href="https://orienteering.asn.au/2024-silva-medal-progress-scores/"/>
+        <updated>2024-04-13T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Progress scores for the 2024 Silva Medal after the recent Australian 3-Days Championship.
+2024 Silva Medal Progress Scores first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries Closing on Sunday 14 April]]></title>
         <id>https://www.niorienteering.org.uk/?p=5609</id>
