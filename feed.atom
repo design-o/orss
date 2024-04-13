@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T12:09:39.632Z</updated>
+    <updated>2024-04-13T18:07:06.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -619,17 +619,6 @@ Nominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers first
         <summary type="html"><![CDATA[Applications are now open for the annual O-Ringen Academy, which takes place in southern Sweden from July 19th – 28th, 2024 in conjunction with the world’s greatest orienteering event O-Ringen. The academy is organised by the Park World Tour Organisation in cooperation with the International Orienteering Federation and O-Ringen, and it provides a unique opportunity […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can nominate fellow orienteers for the ONZ Awards …but you must do it by 19 March!]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59307</id>
-        <link href="https://www.orienteering.org.nz/news/you-can-nominate-fellow-orienteers-for-the-onz-awards/"/>
-        <updated>2024-03-15T05:53:18.000Z</updated>
-        <summary type="html"><![CDATA[This year ONZ is welcoming nominations for ONZ Awards from club members but they need to be received by Tuesday 19th March! The ONZ Annual Awards are quickly approaching and we would love to receive additional nominations from members. The awards provide an opportunity to both recognise and highlight some of the fantastic work being […]
-You can nominate fellow orienteers for the ONZ Awards …but you must do it by 19 March! first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
