@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T12:12:38.477Z</updated>
+    <updated>2024-04-15T18:08:36.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sprinting Through Dublin: A Weekend of Intensive Orienteering Training]]></title>
+        <id>https://www.orienteering.ie/?p=17479</id>
+        <link href="https://www.orienteering.ie/sprinting-through-dublin-a-weekend-of-intensive-orienteering-training/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sprinting-through-dublin-a-weekend-of-intensive-orienteering-training"/>
+        <updated>2024-04-15T15:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Over the weekend, the national squad of Orienteering Ireland convened in Dublin for an intensive sprint camp aimed at sharpening their skills and refining their strategies. From Friday night through Sunday, the athletes immersed themselves in a series of challenging training sessions designed to mimic the intensity and precision required at the highest levels of […]
+The post Sprinting Through Dublin: A Weekend of Intensive Orienteering Training first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Senior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New basic Fair Play E-learning course available]]></title>
+        <id>https://orienteering.sport/?p=70486</id>
+        <link href="https://orienteering.sport/new-basic-fair-play-e-learning-course-available/"/>
+        <updated>2024-04-15T13:28:16.000Z</updated>
+        <summary type="html"><![CDATA[How should you act if you know the terrain before a race, meet an injured runner in the forest or are asked for directions? These are some of the topics covered in the new basic Fair Play course, that has just become available on IOF’s E-learning platform. The course consists of 14 different lessons with […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AGM 2024]]></title>
         <id>https://www.orienteering.ie/?p=17468</id>
