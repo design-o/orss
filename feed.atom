@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T06:08:54.270Z</updated>
+    <updated>2024-04-16T12:11:30.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian IOF Athlete Representatives Elected]]></title>
+        <id>https://orienteering.asn.au/?p=10749</id>
+        <link href="https://orienteering.asn.au/australian-iof-athlete-representatives-elected/"/>
+        <updated>2024-04-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Brodie Nankervis and Will Whittington on becoming athlete representatives of the IOF Athletes' Advisory Groups for 2024-2026.
+Australian IOF Athlete Representatives Elected first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprinting Through Dublin: A Weekend of Intensive Orienteering Training]]></title>
         <id>https://www.orienteering.ie/?p=17479</id>
