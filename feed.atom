@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T18:08:31.155Z</updated>
+    <updated>2024-04-17T00:30:49.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -640,17 +640,6 @@ Learn to Orienteer Launch first appeared on Orienteering Australia.]]></summary>
 The post Excellent Turnout at a Windswept Drumkeeragh appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>adminNIOAfullteam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers]]></title>
-        <id>https://orienteering.asn.au/?p=10527</id>
-        <link href="https://orienteering.asn.au/nominations-list-published-for-woc-jwoc-wuoc-world-cup-and-bushrangers/"/>
-        <updated>2024-03-18T06:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Thank you all that have nominated for WOC, JWOC, World Cup and Bushrangers 2024! The list of received nominations can be viewed here. If something is wrong or missing please contact hpadmin@orienteering.asn.au immediatel
-Nominations list published for WOC, JWOC , WUOC, World Cup and Bushrangers first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>fredrikj</name>
         </author>
     </entry>
 </feed>
