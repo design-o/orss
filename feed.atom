@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T00:30:49.382Z</updated>
+    <updated>2024-04-17T06:10:38.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -629,17 +629,6 @@ Learn to Orienteer Launch first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[Marshals on car park duty had perhaps the worst experience at Drumkeeragh for the first Colour Series event of 2024. With driving rain sweeping across the area, conditions did become more bearable once in the forest. Especially given the harsh conditions, there was an excellent turnout of just over 100 competitors. The results are at  [&hellip]]></summary>
         <author>
             <name>nioa-sec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excellent Turnout at a Windswept Drumkeeragh]]></title>
-        <id>https://www.niorienteering.org.uk/?p=3421</id>
-        <link href="https://www.niorienteering.org.uk/2024-colour-series-launches-at-drumkeeragh/"/>
-        <updated>2024-03-18T14:34:17.000Z</updated>
-        <summary type="html"><![CDATA[2024 NI Score and Night Champs
-The post Excellent Turnout at a Windswept Drumkeeragh appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>adminNIOAfullteam</name>
         </author>
     </entry>
 </feed>
