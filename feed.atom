@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T06:10:38.333Z</updated>
+    <updated>2024-04-17T12:12:03.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Countdown to 2024 Scottish Schools Orienteering Festival]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53708</id>
+        <link href="https://www.scottish-orienteering.org/news/countdown-to-2024-scottish-schools-orienteering-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=countdown-to-2024-scottish-schools-orienteering-festival"/>
+        <updated>2024-04-17T10:50:40.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Scottish Schools Orienteering Festival is being organised by St Andrews Orienteering Club, Glasgow (STAG) and is being held […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian IOF Athlete Representatives Elected]]></title>
         <id>https://orienteering.asn.au/?p=10749</id>
@@ -619,16 +629,6 @@ Join in the relay at the NZ champs and win first appeared on Orienteering New Ze
 Learn to Orienteer Launch first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>brodien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excellent Turnout at a Windswept Drumkeeragh]]></title>
-        <id>https://www.niorienteering.org.uk/?p=8949</id>
-        <link href="https://www.niorienteering.org.uk/excellent-turnout-at-a-windswept-drumkeeragh/"/>
-        <updated>2024-03-18T18:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Marshals on car park duty had perhaps the worst experience at Drumkeeragh for the first Colour Series event of 2024. With driving rain sweeping across the area, conditions did become more bearable once in the forest. Especially given the harsh conditions, there was an excellent turnout of just over 100 competitors. The results are at  [&hellip]]></summary>
-        <author>
-            <name>nioa-sec</name>
         </author>
     </entry>
 </feed>
