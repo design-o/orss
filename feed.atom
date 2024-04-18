@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T18:08:46.658Z</updated>
+    <updated>2024-04-18T00:30:34.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -607,17 +607,6 @@ January Athlete Interview with Brodie Nankervis first appeared on Orienteering A
 Vic MTBO Series 1, Sunday 24 March, Creswick first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join in the relay at the NZ champs and win]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59327</id>
-        <link href="https://www.orienteering.org.nz/news/join-in-the-relay-at-the-nz-champs-and-win/"/>
-        <updated>2024-03-19T10:13:39.000Z</updated>
-        <summary type="html"><![CDATA[The O Champs Relay on 1st April is your last opportunity to get a run on the iconic Crater Block – Te Pūtake o te Maunga.  We’d love to see more orienteers taking up this opportunity and enjoying the fun of a relay event, but get in quick by Friday 22 March. For an extra bonus […]
-Join in the relay at the NZ champs and win first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
