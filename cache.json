@@ -548,6 +548,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=10767",
+          "author": "elizabethl",
+          "description": "The athlete interview features one of Australia's all-time greats Rob Walter.\nAthlete Interview with Rob Walter first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/athlete-interview-with-rob-walter/",
+          "publishedOn": "2024-04-19T09:00:00.000Z",
+          "wordCount": 3712,
+          "title": "Athlete Interview with Rob Walter",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=10749",
           "author": "elizabethl",
           "description": "Congratulations to Brodie Nankervis and Will Whittington on becoming athlete representatives of the IOF Athletes' Advisory Groups for 2024-2026.\nAustralian IOF Athlete Representatives Elected first appeared on Orienteering Australia.",
@@ -636,16 +646,6 @@
           "wordCount": 2321,
           "title": "OA Participation Grants Open Today!",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=10594",
-          "author": "brodien",
-          "description": "It’s been a little while since our last athlete interview, but we have an awesome interview coming up later this month with all time great Rob Walter, so keep an eye out for that. For now, lets return to January where Natasha Key, OA Head Coach, took over the interviewing role and spoke to our […]\nJanuary Athlete Interview with Brodie Nankervis first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/january-athlete-interview-with-brodie-nankervis/",
-          "publishedOn": "2024-03-20T23:47:13.000Z",
-          "wordCount": 4242,
-          "title": "January Athlete Interview with Brodie Nankervis",
-          "imageUrl": "https://staging.orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
     }
