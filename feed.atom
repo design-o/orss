@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T00:33:59.047Z</updated>
+    <updated>2024-04-21T06:09:04.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -607,16 +607,6 @@ Board Meeting 182 Minutes Published first appeared on Orienteering Australia.]]>
 Kiwi orienteer finishes the Berkley Marathons first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering World Cup enters new era from 2025]]></title>
-        <id>https://orienteering.sport/?p=70355</id>
-        <link href="https://orienteering.sport/orienteering-world-cup-enters-new-era-from-2025/"/>
-        <updated>2024-03-22T14:07:02.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering World Cup will enter a new era from 2025 with a new organising setup behind the premiere series of global elite orienteering competitions. The IOF will manage and develop the event with strong support from Verein Swiss Cup, part of the current World Cup consortium, Svensk Orientering Events AB and the Czech Orienteering […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
