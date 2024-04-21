@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T12:11:41.129Z</updated>
+    <updated>2024-04-21T18:09:17.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -605,17 +605,6 @@ Reminder |  ONZ AGM – 10 April 2024 first appeared on Orienteering New Zeala
 Board Meeting 182 Minutes Published first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiwi orienteer finishes the Berkley Marathons]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59341</id>
-        <link href="https://www.orienteering.org.nz/news/kiwi-orienteer-finsihes-the-berkley-marathons/"/>
-        <updated>2024-03-23T05:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Local orienteer Greig Hamilton is the first New Zealander to finish the Barkley Marathons in Frozen Head State Park, Tenessee, USA. This eccentric off trail ultra marathon requires the runner to navigate and find pages in a book in the forest. It has 5 loops on an unmarked course of around 32km/ 20.00 miles each […]
-Kiwi orienteer finishes the Berkley Marathons first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
