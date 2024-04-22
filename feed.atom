@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T00:32:36.790Z</updated>
+    <updated>2024-04-22T06:10:07.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Universities Team Named]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59515</id>
+        <link href="https://www.orienteering.org.nz/news/world-universities-team-named/"/>
+        <updated>2024-04-22T03:29:10.000Z</updated>
+        <summary type="html"><![CDATA[The following athletes have been selected to represent New Zealand at the World University Orienteering Championships in Bulgaria. 1st-5th August 2024 Katie Cory-Wright – Victoria University Wellington  Kaia Jorgensen – University of Canterbury Briana Steven – University of Canterbury Zara Stewart- University of Canterbury Cameron Bonar – University of Canterbury Nicholas Green –  University of Auckland Felix Hunt- University […]
+World Universities Team Named first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Opportunities to Work in Orienteering Development]]></title>
         <id>https://www.scottish-orienteering.org/?p=53719</id>
