@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T12:12:34.054Z</updated>
+    <updated>2024-04-22T18:08:04.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South West League]]></title>
+        <id>https://www.orienteering.ie/?p=17559</id>
+        <link href="https://www.orienteering.ie/south-west-league/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=south-west-league"/>
+        <updated>2024-04-22T14:24:38.000Z</updated>
+        <summary type="html"><![CDATA[The new South West League is a replacement for the old Munster League.  The big plus is that it reduces distances to events and takes advantage of the improved N22 road network.  The league has been established by the Cork and Kerry orienteering clubs and is designed to encourage members to travel to the events […]
+The post South West League first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draft Scottish Orienteering Strategy – last chance to find out more and have your say]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53740</id>
+        <link href="https://www.scottish-orienteering.org/news/outline-scottish-orienteering-strategy-last-chance-to-find-out-more-and-have-your-say/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=outline-scottish-orienteering-strategy-last-chance-to-find-out-more-and-have-your-say"/>
+        <updated>2024-04-22T13:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Following on from the opportunity to join us in discussing the future Scottish Orienteering Strategy last week, we are providing […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here are the candidates for the 2024 IOF Council Elections]]></title>
         <id>https://orienteering.sport/?p=70506</id>
