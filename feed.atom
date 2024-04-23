@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T18:08:04.752Z</updated>
+    <updated>2024-04-23T00:31:22.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Busy weekend discovers 2024 Scottish Middle Champions and the delights of Deeside]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53750</id>
+        <link href="https://www.scottish-orienteering.org/news/busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside"/>
+        <updated>2024-04-22T18:32:23.000Z</updated>
+        <summary type="html"><![CDATA[After some of you may have had a few weekends away in Staffordshire and Yorkshire over the Easter holidays, this […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South West League]]></title>
         <id>https://www.orienteering.ie/?p=17559</id>
