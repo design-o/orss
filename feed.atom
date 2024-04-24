@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T18:08:25.609Z</updated>
+    <updated>2024-04-24T00:31:50.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering League &  Nationals  wrap-up]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59518</id>
+        <link href="https://www.orienteering.org.nz/news/orienteering-league-nationals-wrap-up/"/>
+        <updated>2024-04-23T23:18:19.000Z</updated>
+        <summary type="html"><![CDATA[The second round of the National Orienteering League was held at the NZ Orienteering Championships, including both the Middle and Long distances. With this being the highest attendance of all events this year competition was fierce at the top of the table. Both days featured extremely challenging courses that caused many mistakes and misspunches among […]
+Orienteering League &  Nationals  wrap-up first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOF Fair Play E-learning course]]></title>
+        <id>https://www.orienteering.ie/?p=17580</id>
+        <link href="https://www.orienteering.ie/iof-fair-play-e-learning-course/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=iof-fair-play-e-learning-course"/>
+        <updated>2024-04-23T20:58:45.000Z</updated>
+        <summary type="html"><![CDATA[How should you act if you know the terrain before a race, meet an injured runner in the forest or are asked for directions? These are some of the topics covered in the new basic Fair Play course, that has just become available on IOF’s E-learning platform. The course consists of 14 different lessons with […]
+The post IOF Fair Play E-learning course first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Busy weekend discovers 2024 Scottish Middle Champions and the delights of Deeside]]></title>
         <id>https://www.scottish-orienteering.org/?p=53750</id>
@@ -524,149 +546,6 @@ Park Street Summer Series Awards Night Photos and Announcements first appeared o
         <summary type="html"><![CDATA[This weekend, IOF TV invites you to come along to some of the first European FootO-races of 2024, with broadcasts from Swedish League, Swedish Relay League and the French Championships in Sprint Relay. Thousands of orienteers are heading to southern Sweden, where the two first races of this year’s Swedish League are held and on […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair | March 2024]]></title>
-        <id>https://www.orienteering.org.nz/?p=59385</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-march-2024/"/>
-        <updated>2024-03-25T08:09:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s only a matter of sleeps now until Nationals and events on the much anticipated Crater Block Rerewhahaaitu map. It’s also so neat to see so many people attending Nationals. It’s not just for our elites. I love seeing the competition between people in all the grades. I’m so impressed with the numbers coming from what used to […]
-View from the Chair | March 2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC contenders  | Junior athletes to watch at Nationals]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59382</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc-contenders-junior-athletes-to-watch-at-nationals/"/>
-        <updated>2024-03-25T08:04:48.000Z</updated>
-        <summary type="html"><![CDATA[We’ll see you out there at Nationals very soon. It will be a big competition with high hopes for the next team heading to the Junior World Orienteering Champs (JWOC) in the Czech Republic at the end of June. The excitement is brewing as young orienteers are up jostling for top JWOC positions. Talented orienteers like Zefa Fa’avae, Kaia […]
-JWOC contenders  | Junior athletes to watch at Nationals first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANZAC weekend Taitonga (South Island) Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59379</id>
-        <link href="https://www.orienteering.org.nz/news/anzac-weekend-taitonga-south-island-champs/"/>
-        <updated>2024-03-25T08:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Start planning your Anzac weekend in the April school holidays. The next multiday orienteering is the South Island Championships in the Otago Peninsula hosted by the Dunedin club . The lineup is:Thursday is Anzac Day, so our first event will be in the  afternoon. The Sprint is from 4pm located at Green Island from 4pm onwards, after commemoration services […]
-ANZAC weekend Taitonga (South Island) Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Island Secondary Schools Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59376</id>
-        <link href="https://www.orienteering.org.nz/news/north-island-secondary-schools-champs/"/>
-        <updated>2024-03-25T07:56:16.000Z</updated>
-        <summary type="html"><![CDATA[North Island Secondary School Orienteering Champs  – 25 – 27 April. This annual competition (which includes Year 7 and 8 students) is being held in the Auckland area this year, hosted by North West Orienteering Club. You can find out all the information about courses, locations and costs on the event website. Please also see the […]
-North Island Secondary Schools Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTBO Enduro Christchurch | Sat 13 April]]></title>
-        <id>https://www.orienteering.org.nz/?p=59371</id>
-        <link href="https://www.orienteering.org.nz/mtbo/mtbo-enduro-christchurch-sat-13-april/"/>
-        <updated>2024-03-25T07:50:11.000Z</updated>
-        <summary type="html"><![CDATA[A weekend of navigation & riding is waiting for you in Ōtautahi / Christchurch.Saturday 13 April  Enduro | Bottle LakeSeveral short MTBO courses linked together using the Bottle Lake MTBO map and other maps nearby. More info here Sunday 14 April  MTBOOY  | The WillowsMountain bike orienteering on the Willows map, mostly gravel roads with a sprinkling […]
-MTBO Enduro Christchurch | Sat 13 April first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian & NSW MTBO Champs]]></title>
-        <id>https://www.orienteering.org.nz/?p=59369</id>
-        <link href="https://www.orienteering.org.nz/mtbo/australian-nsw-mtbo-champs/"/>
-        <updated>2024-03-25T07:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Many of you expressed interest in the Australian MTBO Champs again, and attached is the first bulletin. Entry fees rise by $45 on April the 1st for the 5 events, and Marquita and Rob have now entered. If any of you have friends that want to join us please pass this on. For the NSW MTBO Champs […]
-Australian & NSW MTBO Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leading change at CMOC]]></title>
-        <id>https://www.orienteering.org.nz/?p=59364</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/leading-change-at-cmoc/"/>
-        <updated>2024-03-25T07:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Counties Manukau Orienteering Club (CMOC) is growing a club culture focussing on continual exploration and experimentation with new ideas. This approach has resulted in continually improved performance and outcomes for the communities we serve. Youth-led growth & participation .At 14 years old Tim Bacchus joined CMOC’s Executive Committee to extend the age range to 72 years across the team. […]
-Leading change at CMOC  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timo & Yivi  |  Aotearoa orienteering vacation]]></title>
-        <id>https://www.orienteering.org.nz/?p=59360</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/timo-yivi-aotearoa-orienteering-vacation/"/>
-        <updated>2024-03-25T07:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Timo Suter and Yivi Kastner planned their trip to Aotearoa this past summer as a holiday, but made sure it ticked all the orienteering events on the way. The timing was right to take a break from student studies and fit in a travel experience whilst they have more time. There was much advice and urging from others to […]
-Timo & Yivi  |  Aotearoa orienteering vacation first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF mapping revisions |  ISOM & ISSOM]]></title>
-        <id>https://www.orienteering.org.nz/?p=59357</id>
-        <link href="https://www.orienteering.org.nz/iof/iof-mapping-revisions-isom-issom/"/>
-        <updated>2024-03-25T07:26:57.000Z</updated>
-        <summary type="html"><![CDATA[The IOF Mapping Committee has recently released updates to ISOM and ISSOM. The updates are valid from 1st February 2024 but are not mandatory until 1st January 2025. They are available on the IOF website via the link at the bottom of the article.  All maps for major events in New Zealand must meet this […]
-IOF mapping revisions |  ISOM & ISSOM first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 2024 | Round 1 & 2 Selection Announcement]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59354</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-2024-round-1-2-selection-announcement/"/>
-        <updated>2024-03-25T07:22:46.000Z</updated>
-        <summary type="html"><![CDATA[World Cup No. 1 – Olten Switzerland,  24th-26th May, Knockout Sprint, Individual Sprint World Cup No. 2 – Verona, Italy, 1st-2nd June, Individual Sprint, Sprint Relay The following athletes have been selected to represent New Zealand conditional to these athletes having no unpaid fees owing to Orienteering NZ. Men Nathan Borton (travel to Europe to be confirmed – […]
-World Cup 2024 | Round 1 & 2 Selection Announcement first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renumeration |  Recruiting Event Liaison Officer]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59351</id>
-        <link href="https://www.orienteering.org.nz/news/renumeration-recruiting-event-liaison-officer/"/>
-        <updated>2024-03-25T07:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Renumeration |  Recruiting Event Liaison Officer In this year’s last Compass Point issues we noted that our current Event Liaison Officer was departing ONZ and that we were looking for someone to fill his shoes.  The role requires a technical knowledge of orienteering events as well as the ability to oversee and problem-solve database challenges. The role averages […]
-Renumeration |  Recruiting Event Liaison Officer first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder |  ONZ AGM – 10 April 2024]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59347</id>
-        <link href="https://www.orienteering.org.nz/news/reminder-onzagm-10-april-2024/"/>
-        <updated>2024-03-25T07:10:47.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering NZ AGM will be held remotely again this year and will take place on Wednesday 10th April. This date has been chosen to be after nationals and out of the school holidays. Documentation including the annual report will be sent out 7 days before the event. To register your attendance, please follow this […]
-Reminder |  ONZ AGM – 10 April 2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Board Meeting 182 Minutes Published]]></title>
-        <id>https://orienteering.asn.au/?p=10620</id>
-        <link href="https://orienteering.asn.au/board-meeting-182-minutes-published/"/>
-        <updated>2024-03-25T07:01:45.000Z</updated>
-        <summary type="html"><![CDATA[The minutes of meeting 182 of the Orienteering Australia (OA) Board held on Sunday March 3 are now published.
-Board Meeting 182 Minutes Published first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>
