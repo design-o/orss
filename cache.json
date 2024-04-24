@@ -347,6 +347,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=47221",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Cross Country Classic-O | Fry Family Park in Stark County | Sunday, May 5, 2024",
+          "link": "https://neooc.com/new-event-cross-country-classic-o-fry-family-park-in-stark-county-sunday-may-5-2024/",
+          "publishedOn": "2024-04-24T16:17:05.000Z",
+          "wordCount": 1351,
+          "title": "New Event | Cross Country Classic-O | Fry Family Park in Stark County | Sunday, May 5, 2024",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2021/04/Fry_Family_Park.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=47197",
           "author": "Michael Avery",
           "description": "Results of the 2024 Classic-O at Oak Hill have been posted!",
