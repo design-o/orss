@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T06:09:39.304Z</updated>
+    <updated>2024-04-26T12:11:59.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athlete Interview with Rachel West]]></title>
+        <id>https://orienteering.asn.au/?p=10775</id>
+        <link href="https://orienteering.asn.au/athlete-interview-with-rachel-west/"/>
+        <updated>2024-04-26T09:37:53.000Z</updated>
+        <summary type="html"><![CDATA[This interview features a great coach and one of our most dedicated volunteers in the country, Rachel West.
+Athlete Interview with Rachel West first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selection Notice – 2024 NZSS Teams for Southern Cross Challenge]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59526</id>
