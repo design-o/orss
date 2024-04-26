@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T00:31:24.958Z</updated>
+    <updated>2024-04-26T06:09:39.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selection Notice – 2024 NZSS Teams for Southern Cross Challenge]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59526</id>
+        <link href="https://www.orienteering.org.nz/news/selection-notice-2024-nzss-teams-for-southern-cross-challenge/"/>
+        <updated>2024-04-26T02:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Where/When Armidale, New South Wales, Australia 28 September to 6 October 2024. This is part of the Australian Schools Championships held during the Australian Championships Carnival. Teams being selected & purpose Two teams of equal ability will be selected to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital […]
+Selection Notice – 2024 NZSS Teams for Southern Cross Challenge first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updated JWOC Team selection]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59522</id>
