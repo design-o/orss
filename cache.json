@@ -74,16 +74,6 @@
           "wordCount": 2013,
           "title": "SPORTident continues to support the International Orienteering Federation in 2024",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/image_press_release_iof_si-sponsorship_en_240319.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70396",
-          "author": "Erling Thisted",
-          "description": "This weekend, IOF TV invites you to come along to some of the first European FootO-races of 2024, with broadcasts from Swedish League, Swedish Relay League and the French Championships in Sprint Relay. Thousands of orienteers are heading to southern Sweden, where the two first races of this year’s Swedish League are held and on […]",
-          "link": "https://orienteering.sport/70396-2/",
-          "publishedOn": "2024-03-28T19:19:47.000Z",
-          "wordCount": 2083,
-          "title": "Orienteering season kicks off in Sweden and France on IOF TV this weekend",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/03/5-dsc03838-1024x683.jpg"
         }
       ]
     },
@@ -98,6 +88,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13456",
+          "author": "Debbie Dodd",
+          "description": "Petticoat Gully is looking outstanding at the moment and a selection of six courses have been curated for your enjoyment on Sunday the 28th of April.\nBallarat Classic 1 – Petticoat Gully, Sunday 28 April first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/ballarat-classic-1-petticoat-gully-sunday-28-april/",
+          "publishedOn": "2024-04-27T08:26:16.000Z",
+          "wordCount": 1753,
+          "title": "Ballarat Classic 1 – Petticoat Gully, Sunday 28 April",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13447",
           "author": "Debbie Dodd",
@@ -404,16 +404,6 @@
           "publishedOn": "2024-04-14T12:55:53.000Z",
           "wordCount": 1346,
           "title": "Results | 2024 Classic-O at Oak Hill | April 13, 2024",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2019/05/OakHillPines.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=47165",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Classic-O at Oak Hill | Cuyahoga Valley NP | Saturday, April 13th",
-          "link": "https://neooc.com/new-event-classic-o-at-oak-hill-cuyahoga-valley-np-saturday-april-13th/",
-          "publishedOn": "2024-03-28T20:46:13.000Z",
-          "wordCount": 1345,
-          "title": "New Event | Classic-O at Oak Hill | Cuyahoga Valley NP | Saturday, April 13th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2019/05/OakHillPines.jpg"
         }
       ]
