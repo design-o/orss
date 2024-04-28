@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T12:11:56.940Z</updated>
+    <updated>2024-04-28T18:07:36.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -621,15 +621,6 @@ Vics Have Easter Success first appeared on Orienteering Victoria.]]></summary>
         <id>https://www.vicorienteering.asn.au/?p=13391</id>
         <link href="https://www.vicorienteering.asn.au/saturday-cakeo-in-melbourne-abbey-walk-april-6/"/>
         <updated>2024-03-31T00:41:54.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendigo Bush, Dead Bullock Gully, Saturday 6 April]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13394</id>
-        <link href="https://www.vicorienteering.asn.au/bendigo-bush-dead-bullock-gully-saturday-6-april/"/>
-        <updated>2024-03-30T00:47:07.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
