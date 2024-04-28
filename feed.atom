@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T18:07:25.729Z</updated>
+    <updated>2024-04-28T00:34:33.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Team 2024]]></title>
+        <id>https://orienteering.asn.au/?p=10833</id>
+        <link href="https://orienteering.asn.au/jwoc-team-2024/"/>
+        <updated>2024-04-27T23:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the team for the Junior World Championship team to be held in Plzen, Czechia from June 30-July 7 2024.
+JWOC Team 2024  first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>fredrikj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runing Through Bluebells]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5662</id>
+        <link href="https://www.niorienteering.org.uk/runing-through-bluebells/"/>
+        <updated>2024-04-27T22:50:06.000Z</updated>
+        <summary type="html"><![CDATA[After a glorious spring outing to Drum Manor Forest Park carpeted with bluebells, the results are now in and the Colour Series League table has been calculated. With just 2 events of the 2024 Colour Series now completed scores are looking pretty close in many...
+The post Runing Through Bluebells appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballarat Classic 1 – Petticoat Gully, Sunday 28 April]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13456</id>
@@ -586,17 +608,6 @@ Australian 3 Days 2024 first appeared on Orienteering Australia.]]></summary>
         <id>https://www.vicorienteering.asn.au/?p=13394</id>
         <link href="https://www.vicorienteering.asn.au/bendigo-bush-dead-bullock-gully-saturday-6-april/"/>
         <updated>2024-03-30T00:47:07.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vics Kick Off Easter With Success]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13376</id>
-        <link href="https://www.vicorienteering.asn.au/vics-kick-off-easter-with-success/"/>
-        <updated>2024-03-29T10:24:22.000Z</updated>
-        <summary type="html"><![CDATA[The Easter prologue saw sizzling performances from lots of Victorians, getting off to a great start for the competition in South Australia
-Vics Kick Off Easter With Success first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
