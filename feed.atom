@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T06:08:19.664Z</updated>
+    <updated>2024-04-28T12:11:56.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VIC Bush Series is here! Eppalock, 5th May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13461</id>
+        <link href="https://www.vicorienteering.asn.au/vic-bush-series-is-here-eppalock-5th-may/"/>
+        <updated>2024-04-28T07:47:40.000Z</updated>
+        <summary type="html"><![CDATA[The VIC Bush Series is back with the first event at Eppalock this Sunday, 5 May. Beautiful running terrain - don't miss it!
+VIC Bush Series is here! Eppalock, 5th May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC Team 2024]]></title>
         <id>https://orienteering.asn.au/?p=10833</id>
