@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T06:09:48.658Z</updated>
+    <updated>2024-04-29T12:12:23.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Week]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53798</id>
+        <link href="https://www.scottish-orienteering.org/news/world-orienteering-week/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-orienteering-week"/>
+        <updated>2024-04-29T10:41:52.000Z</updated>
+        <summary type="html"><![CDATA[What was World Orienteering Day has morphed into World Orienteering Week, now with 9 glorious days, 18th – 28 May. […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dundee Family Coaching: Session One Recap]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53800</id>
+        <link href="https://www.scottish-orienteering.org/news/dundee-family-coaching-session-one-recap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dundee-family-coaching-session-one-recap"/>
+        <updated>2024-04-29T10:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Last weekend, Scottish Orienteering hosted the first of our three-part family coaching series at Balgay Park, Dundee. These sessions are […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VICs selected for JWOC 2024]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13472</id>
+        <link href="https://www.vicorienteering.asn.au/vics-selected-for-jwoc-2024/"/>
+        <updated>2024-04-29T06:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Victorians Milla Key, Callum White and Sophie Taverna who have been selected to represent Australia at the Junior World Orienteering Championships (JWOC) to be held in Plzen, Czechia from June 30-July 7 2024.
+VICs selected for JWOC 2024 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIC Bush Series is here! Eppalock, 5th May]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13461</id>

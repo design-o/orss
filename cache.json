@@ -89,6 +89,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13472",
+          "author": "Margi Freemantle",
+          "description": "Congratulations to Victorians Milla Key, Callum White and Sophie Taverna who have been selected to represent Australia at the Junior World Orienteering Championships (JWOC) to be held in Plzen, Czechia from June 30-July 7 2024.\nVICs selected for JWOC 2024 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vics-selected-for-jwoc-2024/",
+          "publishedOn": "2024-04-29T06:50:06.000Z",
+          "wordCount": 1058,
+          "title": "VICs selected for JWOC 2024",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13461",
           "author": "Margi Freemantle",
           "description": "The VIC Bush Series is back with the first event at Eppalock this Sunday, 5 May. Beautiful running terrain - don't miss it!\nVIC Bush Series is here! Eppalock, 5th May first appeared on Orienteering Victoria.",
@@ -403,6 +413,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53798",
+          "author": "suzannerb",
+          "description": "What was World Orienteering Day has morphed into World Orienteering Week, now with 9 glorious days, 18th – 28 May. […]",
+          "link": "https://www.scottish-orienteering.org/news/world-orienteering-week/?utm_source=rss&utm_medium=rss&utm_campaign=world-orienteering-week",
+          "publishedOn": "2024-04-29T10:41:52.000Z",
+          "wordCount": 1711,
+          "title": "World Orienteering Week",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/Dundee-families-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53800",
+          "author": "heidi",
+          "description": "Last weekend, Scottish Orienteering hosted the first of our three-part family coaching series at Balgay Park, Dundee. These sessions are […]",
+          "link": "https://www.scottish-orienteering.org/news/dundee-family-coaching-session-one-recap/?utm_source=rss&utm_medium=rss&utm_campaign=dundee-family-coaching-session-one-recap",
+          "publishedOn": "2024-04-29T10:01:47.000Z",
+          "wordCount": 1527,
+          "title": "Dundee Family Coaching: Session One Recap",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/IMG-8944-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=53791",
           "author": "louise",
