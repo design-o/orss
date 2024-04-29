@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70597",
+          "author": "Erling Thisted",
+          "description": "This weekend, the forests near Nynäshamn in Sweden host this year’s 10Mila relays with close to 900 teams in total and more than 6000 athletes. Teams from 13 countries in total have registered to race. And you will be able to follow all three relays on IOF TV in both English and Finnish commentary. The […]",
+          "link": "https://orienteering.sport/follow-all-the-10mila-magic-on-iof-tv/",
+          "publishedOn": "2024-04-29T12:13:02.000Z",
+          "wordCount": 1986,
+          "title": "Follow all the 10Mila magic on IOF TV",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/10mila_peterholgersson-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70566",
           "author": "Erling Thisted",
           "description": "Swedes will have great opportunities to follow orienteering on the highest level in the years to come, as national broadcaster SVT has acquired the rights for international orienteering for another three years. Orienteering broadcasts on SVT has had great viewing figures as hundreds of thousands tune in to the competitions to follow the Swedish national […]",
@@ -176,16 +186,6 @@
           "publishedOn": "2024-04-01T08:15:16.000Z",
           "wordCount": 1249,
           "title": "Action Packed Anzac Weekend!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/saturday-cakeo-in-melbourne-abbey-walk-april-6/",
-          "publishedOn": "2024-03-31T00:41:54.000Z",
-          "wordCount": 1133,
-          "title": "Saturday CakeO in Melbourne, Abbey Walk, April 6",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
