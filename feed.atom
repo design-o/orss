@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T00:30:44.990Z</updated>
+    <updated>2024-04-30T06:09:14.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th]]></title>
+        <id>https://neooc.com/?p=47234</id>
+        <link href="https://neooc.com/new-event-2024-tuscazoar-adventure-weekend-4-hour-mini-rogaine-saturday-may-25th/"/>
+        <updated>2024-04-30T03:01:44.000Z</updated>
+        <summary type="html"><![CDATA[2024 Tuscazoar Adventure Weekend | 4-hour Mini-rogaine | Saturday, May 25th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Follow all the 10Mila magic on IOF TV]]></title>
         <id>https://orienteering.sport/?p=70597</id>
@@ -246,6 +256,15 @@ The post South West League first appeared on Orienteering in Ireland.]]></summar
 World Universities Team Named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Race For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13492</id>
+        <link href="https://www.vicorienteering.asn.au/race-for-your-school-victorian-secondary-schools-orienteering-champs-24-may-brimbank-park/"/>
+        <updated>2024-04-22T01:47:03.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
