@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T06:10:57.414Z</updated>
+    <updated>2024-05-01T12:11:36.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Camp 2024 | Looking for a Lead Coach]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59552</id>
+        <link href="https://www.orienteering.org.nz/news/junior-camp-2024-looking-for-a-lead-coach/"/>
+        <updated>2024-05-01T08:01:42.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Junior Camp (Year 9-13) is being hosted by Orienteering Taranaki and is taking place in New Plymouth between Fri 13th and Wed 18th December 2024. Orienteering New Zealand would like to invite applications for the Junior Camp Manager position. This position is are voluntary in nature, although position holders will be reimbursed for their airfares (if outside New Plymouth), […]
+Junior Camp 2024 | Looking for a Lead Coach first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Southern Cross Coach and Manager applications]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59548</id>
+        <link href="https://www.orienteering.org.nz/news/southern-cross-coach-and-manager-applications/"/>
+        <updated>2024-05-01T07:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Coach and Manager Roles ONZ intends to send two national secondary school teams to compete for the Southern Cross Trophy held as part of the Australian Orienteering Festival. We are seeking expressions of interest for the coach and manager roles. With forty athletes taking part in two teams, we are looking for two to three coaches and two […]
+Southern Cross Coach and Manager applications first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th]]></title>
         <id>https://neooc.com/?p=47234</id>
@@ -263,6 +285,17 @@ World Universities Team Named first appeared on Orienteering New Zealand.]]></su
         <id>https://www.vicorienteering.asn.au/?p=13492</id>
         <link href="https://www.vicorienteering.asn.au/race-for-your-school-victorian-secondary-schools-orienteering-champs-24-may-brimbank-park/"/>
         <updated>2024-04-22T01:47:03.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Action Packed Anzac Weekend!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13420</id>
+        <link href="https://www.vicorienteering.asn.au/action-packed-anzac-weekend/"/>
+        <updated>2024-04-20T09:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Anzac Weekend features a re-run of the washed out Waterford Valley event, a Saturday CakeO in gorgeous Blackburn, and Fun With Maps - a free activity day for everyone!
+Action Packed Anzac Weekend! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
@@ -652,17 +685,6 @@ JWOC Team Announcement first appeared on Orienteering New Zealand.]]></summary>
 EYOC Team Announcement first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian 3 Days 2024]]></title>
-        <id>https://orienteering.asn.au/?p=10656</id>
-        <link href="https://orienteering.asn.au/australian-3-days-2024/"/>
-        <updated>2024-04-01T23:06:07.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Australian 3 Days Orienteering Championships held in Adelaide Hills and Murrylands, South Australia saw athletes gather from around the country to participate in the 3-Days.
-Australian 3 Days 2024 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
