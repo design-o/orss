@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T12:12:23.291Z</updated>
+    <updated>2024-05-02T18:08:23.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -839,28 +839,6 @@ The post Beating the Drum to Drum Manor appeared first on NI Orienteering Associ
 2023 Orienteering Australia Athlete of the Year – Brodie Nankervis (TAS) first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bushrangers Nominations and Team Manager EOI]]></title>
-        <id>https://orienteering.asn.au/?p=10690</id>
-        <link href="https://orienteering.asn.au/bushrangers-nominations-and-team-manager-eoi/"/>
-        <updated>2024-04-03T04:51:12.000Z</updated>
-        <summary type="html"><![CDATA[OA is reopening nominations to represent Australia in the Bushrangers team which will compete against the New Zealand Pinestars at the Kings Birthday competition in New Zealand from June 1st-3rd, 2024.
-Bushrangers Nominations and Team Manager EOI first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>brodien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO is Back!  Brimbank Park, Sunday 14 April]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13388</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-brimbank-park-sunday-14-april/"/>
-        <updated>2024-04-03T00:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Time to go bush at Brimbank Park!  Online entry is open now for the first MelbushO of 2024
-MelBushO is Back!  Brimbank Park, Sunday 14 April first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
