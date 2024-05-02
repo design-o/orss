@@ -74,16 +74,6 @@
           "wordCount": 2599,
           "title": "Independent athlete participation in World Ranking Events",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2019/05/iof-logo-colour-400x182.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70426",
-          "author": "Erling Thisted",
-          "description": "IOF is pleased to share that the partnership with SPORTident is extended through 2024. More details in the article below from SPORTident. And don’t forget: You can get your hands on the special edition IOF SIAC in the IOF Shop. “A great year of working together lies behind us and we are already looking forward […]",
-          "link": "https://orienteering.sport/sportident-continues-to-support-the-international-orienteering-federation-in-2024/",
-          "publishedOn": "2024-04-02T15:15:22.000Z",
-          "wordCount": 2013,
-          "title": "SPORTident continues to support the International Orienteering Federation in 2024",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/image_press_release_iof_si-sponsorship_en_240319.png"
         }
       ]
     },
@@ -319,6 +309,36 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59565",
+          "author": "Christo Peters",
+          "description": "Congratulations to our award winners this year. Here is the list of those announced at the prizegiving evening during the 2024 New Zealand Orienteering championships in Rotorua, Bay of Plenty this year.  Life Membership  |   Malcolm Ingham (RK)  Services to ONZ Award   |  Peter Swanson (OBOP)  Administrator of the Year Award  | Lisa Mead (NW) For her tireless work […]\nONZ Annual Awards | Presented at the NZ Orienteering Champs first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/onz-annual-awards-presented-at-the-nz-orienteering-champs/",
+          "publishedOn": "2024-05-02T06:09:00.000Z",
+          "wordCount": 2682,
+          "title": "ONZ Annual Awards | Presented at the NZ Orienteering Champs",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/Awards-combo-1.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59562",
+          "author": "Christo Peters",
+          "description": "Planning is underway for an absolute treat of orienteering for Oceania 2025. You’ll most probably fly into Wellington and get to experience our coastal capital city with a harbour and countless beaches before you head into some forest terrain. We are still finalising the actual timing on the calendar year with our Australian mates. The first set of […]\nOceania 2025 Update | Lower North Island Region first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/updates/oceania-2025-update-lower-north-island-region/",
+          "publishedOn": "2024-05-02T05:53:54.000Z",
+          "wordCount": 2013,
+          "title": "Oceania 2025 Update | Lower North Island Region",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/Screenshot-651.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59557",
+          "author": "Christo Peters",
+          "description": "The 2023 ONZ annual report is on the website providing an overview of our performance, o and activities during the past year. It is our own record of results and provides transparency and accountability regarding  our financial performance, governance practices, and strategic direction.  View it here\nOrienteering NZ annual report | 2023 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/orienteering-nz-annual-report-2023/",
+          "publishedOn": "2024-05-02T05:47:37.000Z",
+          "wordCount": 1951,
+          "title": "Orienteering NZ annual report | 2023",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/2023-Annual-report-cover.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59552",
           "author": "Christo Peters",

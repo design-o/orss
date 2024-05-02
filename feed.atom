@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T00:31:08.568Z</updated>
+    <updated>2024-05-02T06:09:14.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ONZ Annual Awards | Presented at the NZ Orienteering Champs]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59565</id>
+        <link href="https://www.orienteering.org.nz/news/onz-annual-awards-presented-at-the-nz-orienteering-champs/"/>
+        <updated>2024-05-02T06:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to our award winners this year. Here is the list of those announced at the prizegiving evening during the 2024 New Zealand Orienteering championships in Rotorua, Bay of Plenty this year.  Life Membership  |   Malcolm Ingham (RK)  Services to ONZ Award   |  Peter Swanson (OBOP)  Administrator of the Year Award  | Lisa Mead (NW) For her tireless work […]
+ONZ Annual Awards | Presented at the NZ Orienteering Champs first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceania 2025 Update | Lower North Island Region]]></title>
+        <id>https://www.orienteering.org.nz/?p=59562</id>
+        <link href="https://www.orienteering.org.nz/orienteering-nz/updates/oceania-2025-update-lower-north-island-region/"/>
+        <updated>2024-05-02T05:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Planning is underway for an absolute treat of orienteering for Oceania 2025. You’ll most probably fly into Wellington and get to experience our coastal capital city with a harbour and countless beaches before you head into some forest terrain. We are still finalising the actual timing on the calendar year with our Australian mates. The first set of […]
+Oceania 2025 Update | Lower North Island Region first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering NZ annual report | 2023]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59557</id>
+        <link href="https://www.orienteering.org.nz/news/orienteering-nz-annual-report-2023/"/>
+        <updated>2024-05-02T05:47:37.000Z</updated>
+        <summary type="html"><![CDATA[The 2023 ONZ annual report is on the website providing an overview of our performance, o and activities during the past year. It is our own record of results and provides transparency and accountability regarding  our financial performance, governance practices, and strategic direction.  View it here
+Orienteering NZ annual report | 2023 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Camp 2024 | Looking for a Lead Coach]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59552</id>
@@ -653,16 +686,6 @@ Bushrangers Nominations and Team Manager EOI first appeared on Orienteering Aust
 MelBushO is Back!  Brimbank Park, Sunday 14 April first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPORTident continues to support the International Orienteering Federation in 2024]]></title>
-        <id>https://orienteering.sport/?p=70426</id>
-        <link href="https://orienteering.sport/sportident-continues-to-support-the-international-orienteering-federation-in-2024/"/>
-        <updated>2024-04-02T15:15:22.000Z</updated>
-        <summary type="html"><![CDATA[IOF is pleased to share that the partnership with SPORTident is extended through 2024. More details in the article below from SPORTident. And don’t forget: You can get your hands on the special edition IOF SIAC in the IOF Shop. “A great year of working together lies behind us and we are already looking forward […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
