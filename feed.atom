@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T06:09:26.300Z</updated>
+    <updated>2024-05-03T12:11:21.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -816,16 +816,6 @@ Orienteering Australia Annual Awards first appeared on Orienteering Australia.]]
 Muddy good kiwi placings at the JK2024 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Independent athlete participation in World Ranking Events]]></title>
-        <id>https://orienteering.sport/?p=70431</id>
-        <link href="https://orienteering.sport/independent-athlete-participation-in-world-ranking-events/"/>
-        <updated>2024-04-03T20:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Following consultation with the Member Federations and IOF Athlete Representatives, the IOF Council has unanimously approved to open up for independent athlete participation in World Ranking Events through IIA status for eligible athletes. The approved scope for IIA status will come into effect on 1 July 2024. One of the IOF’s 3 guiding values is […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
         </author>
     </entry>
 </feed>
