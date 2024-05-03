@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T12:11:21.983Z</updated>
+    <updated>2024-05-03T18:09:04.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2029 awarded to Sweden]]></title>
+        <id>https://orienteering.sport/?p=70617</id>
+        <link href="https://orienteering.sport/woc-2029-awarded-to-sweden/"/>
+        <updated>2024-05-03T12:44:03.000Z</updated>
+        <summary type="html"><![CDATA[The forest World Orienteering Championships in 2029 will take place in Örnskjoldsvik, Sweden. That was decided by IOF Council during a meeting on Friday. WOC 2029 will be the fifth World Championships taking place in Sweden – the most recent being WOC 2016 in Strömstad. Sweden also made a bid for the World Orienteering Championships […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prices are Falling]]></title>
         <id>https://www.niorienteering.org.uk/?p=5684</id>
@@ -805,17 +815,6 @@ Orienteering Australia Annual Awards first appeared on Orienteering Australia.]]
         <summary type="html"><![CDATA[As you will have seen highlighted in recent news coverage there are 9 protected characteristics within the UK in terms […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muddy good kiwi placings at the JK2024]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59442</id>
-        <link href="https://www.orienteering.org.nz/news/muddy-good-kiwi-placings-at-the-jk2024/"/>
-        <updated>2024-04-04T02:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Easter weekend in Britain was a bit wetter, but with solid results from NZ athletes competing in the Jan Kjellström International Festival of Orienteering 2024 (JK2024). It was based in the Midlands with the Sprint – described as a technically challenging with fast & furious racing- launching the competition at Loughborough University. The Middle and […]
-Muddy good kiwi placings at the JK2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
