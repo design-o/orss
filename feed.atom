@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T00:33:40.707Z</updated>
+    <updated>2024-05-03T06:09:26.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -826,17 +826,6 @@ Muddy good kiwi placings at the JK2024 first appeared on Orienteering New Zealan
         <summary type="html"><![CDATA[Following consultation with the Member Federations and IOF Athlete Representatives, the IOF Council has unanimously approved to open up for independent athlete participation in World Ranking Events through IIA status for eligible athletes. The approved scope for IIA status will come into effect on 1 July 2024. One of the IOF’s 3 guiding values is […]]]></summary>
         <author>
             <name>Sondre Sande Gullord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beating the Drum to Drum Manor]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5552</id>
-        <link href="https://www.niorienteering.org.uk/beating-the-drum-to-drum-manor/"/>
-        <updated>2024-04-03T12:47:04.000Z</updated>
-        <summary type="html"><![CDATA[We are off to the beautiful Drum Manor on Saturday 20 April for the second outing of the 2024 NI Colour Series, hosted by North West Orienteering Club. Centrally placed near Cookstown, this Forest Park has something for everyone including a wildfowl lake, children’s playground,...
-The post Beating the Drum to Drum Manor appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
