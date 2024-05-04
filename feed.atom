@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T06:08:53.219Z</updated>
+    <updated>2024-05-04T12:10:58.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Full WOC Team Named]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59635</id>
+        <link href="https://www.orienteering.org.nz/news/full-woc-team-named/"/>
+        <updated>2024-05-04T09:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The following athletes have been selected to represent New Zealand at the World Orienteering Championships in Edinburgh, Scotland 12th – 16th July: Men Nathan Borton – Auckland Ronan Lee – Hawkes Bay Joseph Lynch – Canterbury Tim Robertson – Wellington Women Lizzie Ingham – Wellington Laura Robertson – Wellington Briana Steven – Canterbury Zara Stewart […]
+Full WOC Team Named first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering World Cup Nominations Reopen: Round 3 & 4]]></title>
         <id>https://orienteering.asn.au/?p=10870</id>
