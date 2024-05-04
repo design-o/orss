@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T18:09:04.767Z</updated>
+    <updated>2024-05-04T00:30:34.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering World Cup Nominations Reopen: Round 3 & 4]]></title>
+        <id>https://orienteering.asn.au/?p=10870</id>
+        <link href="https://orienteering.asn.au/orienteering-world-cup-nominations-reopen/"/>
+        <updated>2024-05-03T23:52:03.000Z</updated>
+        <summary type="html"><![CDATA[OA is reopening nominations to represent Australia in rounds 3 and 4 of the World Cup. Nominations close 19 May at 11:59pm.
+Orienteering World Cup Nominations Reopen: Round 3 & 4 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2029 awarded to Sweden]]></title>
         <id>https://orienteering.sport/?p=70617</id>
@@ -795,26 +806,6 @@ Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Park
 Orienteering Australia Annual Awards first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come and race alongside the world’s best in Edinburgh this summer as part of the WOC Tour]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53683</id>
-        <link href="https://www.scottish-orienteering.org/news/come-and-race-alongside-the-worlds-best-in-edinburgh-this-summer-as-part-of-the-woc-tour/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=come-and-race-alongside-the-worlds-best-in-edinburgh-this-summer-as-part-of-the-woc-tour"/>
-        <updated>2024-04-04T08:53:07.000Z</updated>
-        <summary type="html"><![CDATA[If you are currently working out your summer orienteering plans, don’t forget you can race alongside the world’s best orienteers […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving to Inclusion]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53677</id>
-        <link href="https://www.scottish-orienteering.org/news/moving-to-inclusion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=moving-to-inclusion"/>
-        <updated>2024-04-04T08:40:35.000Z</updated>
-        <summary type="html"><![CDATA[As you will have seen highlighted in recent news coverage there are 9 protected characteristics within the UK in terms […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
