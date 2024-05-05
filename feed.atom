@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T18:08:17.538Z</updated>
+    <updated>2024-05-05T00:34:47.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -806,17 +806,6 @@ Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Park
         <summary type="html"><![CDATA[Every Easter GB Orienteering holds a four-day orienteering festival called “The JK” #theJK2024. It moves round the country and this year it was in the [...]]]></summary>
         <author>
             <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia Annual Awards]]></title>
-        <id>https://orienteering.asn.au/?p=10701</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-annual-awards/"/>
-        <updated>2024-04-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia announced a range of annual awards at the recent Australian 3-Days Championships.
-Orienteering Australia Annual Awards first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
