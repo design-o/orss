@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T06:09:59.588Z</updated>
+    <updated>2024-05-07T12:12:03.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A first! Live TV from Trail Orienteering]]></title>
+        <id>https://orienteering.sport/?p=70634</id>
+        <link href="https://orienteering.sport/a-first-live-tv-from-trail-orienteering/"/>
+        <updated>2024-05-07T10:05:32.000Z</updated>
+        <summary type="html"><![CDATA[The TempO Final at the European TrailO Championships (ETOC) will be televised on Finnish TV and IOF TV as it takes place around the Paavo Nurmi stadium in Turku, Finland on Sunday afternoon, 12th May. This is a first for TrailO, with the whole orienteering world now able to experience the tension and excitement as […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | 2024 Classic-O at Fry Family Park | May 5, 2024]]></title>
         <id>https://neooc.com/?p=47253</id>
@@ -36,6 +46,15 @@
 Full WOC Team Named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update: Events May 8-14]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2024-05-04T01:41:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

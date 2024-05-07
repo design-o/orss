@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70634",
+          "author": "Erling Thisted",
+          "description": "The TempO Final at the European TrailO Championships (ETOC) will be televised on Finnish TV and IOF TV as it takes place around the Paavo Nurmi stadium in Turku, Finland on Sunday afternoon, 12th May. This is a first for TrailO, with the whole orienteering world now able to experience the tension and excitement as […]",
+          "link": "https://orienteering.sport/a-first-live-tv-from-trail-orienteering/",
+          "publishedOn": "2024-05-07T10:05:32.000Z",
+          "wordCount": 2015,
+          "title": "A first! Live TV from Trail Orienteering",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/wtoc2023_tempo_dandvoracek-1024x683.jpeg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70617",
           "author": "Erling Thisted",
           "description": "The forest World Orienteering Championships in 2029 will take place in Örnskjoldsvik, Sweden. That was decided by IOF Council during a meeting on Friday. WOC 2029 will be the fifth World Championships taking place in Sweden – the most recent being WOC 2016 in Strömstad. Sweden also made a bid for the World Orienteering Championships […]",
@@ -98,6 +108,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2024-05-04T01:41:54.000Z",
+          "wordCount": 1353,
+          "title": "Park Street Update: Events May 8-14",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13472",
           "author": "Margi Freemantle",
