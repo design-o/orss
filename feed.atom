@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T12:12:03.108Z</updated>
+    <updated>2024-05-07T18:09:12.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NI Colour Series 3]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5698</id>
+        <link href="https://www.niorienteering.org.uk/ni-colour-series-3/"/>
+        <updated>2024-05-07T15:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Entries are open for the 3rd Colour Series, to be held in Crossmurrin on Saturday 18th May. All courses available. More info on FERMO site. SiEntries
+The post NI Colour Series 3 appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>admin-finlay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A first! Live TV from Trail Orienteering]]></title>
         <id>https://orienteering.sport/?p=70634</id>
