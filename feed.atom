@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T18:09:12.383Z</updated>
+    <updated>2024-05-08T00:26:04.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Battersea Park, Tuesday 28th May]]></title>
+        <id>https://slow.org.uk/?p=21955</id>
+        <link href="https://slow.org.uk/events/park-battersea-may24/"/>
+        <updated>2024-05-07T18:09:27.000Z</updated>
+        <summary type="html"><![CDATA[The second race of London 2024 Park Series takes place in Battersea Park, south-west London, on Tuesday 28th May 2024. Race Centre The race will be [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NI Colour Series 3]]></title>
         <id>https://www.niorienteering.org.uk/?p=5698</id>

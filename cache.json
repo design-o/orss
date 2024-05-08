@@ -283,6 +283,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=21955",
+          "author": "Steve Clelland",
+          "description": "The second race of London 2024 Park Series takes place in Battersea Park, south-west London, on Tuesday 28th May 2024. Race Centre The race will be [...]",
+          "link": "https://slow.org.uk/events/park-battersea-may24/",
+          "publishedOn": "2024-05-07T18:09:27.000Z",
+          "wordCount": 2389,
+          "title": "Park Race – Battersea Park, Tuesday 28th May",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Battersea_the_gardens-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=21939",
           "author": "vinh",
           "description": "The final Street-O of the 2023-24 series is here! It will be held in Clapham. The format is a 1 hour time limit to find [...]",
