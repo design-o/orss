@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T06:08:41.683Z</updated>
+    <updated>2024-05-08T12:12:33.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bendigo bush series – Sedgwick North – Saturday 11 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13530</id>
+        <link href="https://www.vicorienteering.asn.au/bendigo-bush-series-sedgwick-north-saturday-11-may/"/>
+        <updated>2024-05-08T09:49:33.000Z</updated>
+        <summary type="html"><![CDATA[This Saturday’s Bendigo bush series event will be on the Sedgwick North map and you might be surprised at how little climbing is required compared to some events at Sedgwick.
+Bendigo bush series – Sedgwick North – Saturday 11 May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A great day out at Eppalock – VIC Series 1]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13525</id>
+        <link href="https://www.vicorienteering.asn.au/a-great-day-out-at-eppalock-vic-series-1/"/>
+        <updated>2024-05-08T09:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to everyone who attended the first Vic Series event for 2024 at Eppalock.
+A great day out at Eppalock – VIC Series 1 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selection Notice | 2024 ANZ MTBO Challenge]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59641</id>
