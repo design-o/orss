@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T00:26:04.872Z</updated>
+    <updated>2024-05-08T06:08:41.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selection Notice | 2024 ANZ MTBO Challenge]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59641</id>
+        <link href="https://www.orienteering.org.nz/news/selection-notice-2024-anz-mtbo-challenge/"/>
+        <updated>2024-05-08T05:47:38.000Z</updated>
+        <summary type="html"><![CDATA[ANZ Challenge, Australian MTBO Champs ACT, 17-20 October 2024 Selection Criteria Applications must be in by COB Friday 31 May 2024. Note – this year we expect a large contingent of NZ riders to attend these champs, with many also attending the NSW MTBO champs the weekend before – 12-14 October, note information here: https://www.orienteering.org.nz/mtbo/australian-nsw-mtbo-champs/. […]
+Selection Notice | 2024 ANZ MTBO Challenge first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Battersea Park, Tuesday 28th May]]></title>
         <id>https://slow.org.uk/?p=21955</id>
