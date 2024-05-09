@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T18:09:22.325Z</updated>
+    <updated>2024-05-09T00:31:54.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -859,37 +859,6 @@ The post Entries closing for the Irish Orienteering Championships first appeared
         <summary type="html"><![CDATA[Athlete Representatives to the IOF Athletes’ Advisory Groups for the new two-year term 2024-2026 has been elected by the athletes for all four disciplines. See the election results here. The elected IOF Athlete Representatives represent the voice and interests of athletes and are part of consultation- and decision-making processes within the IOF organisation. Empowerment of […]]]></summary>
         <author>
             <name>Sondre Sande Gullord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Finnish Relay League premieres in IOF TV on Friday]]></title>
-        <id>https://orienteering.sport/?p=70442</id>
-        <link href="https://orienteering.sport/2024-finnish-relay-league-premieres-in-iof-tv-on-friday/"/>
-        <updated>2024-04-09T12:10:25.000Z</updated>
-        <summary type="html"><![CDATA[The spring really comes to Finland on Friday evening when the 2024 Finnish Relay League kicks off in the southwestern corner of the country. Kevätyönviesti is the first of seven rounds of the league in 2024, where Tampereen Pyrintö are defending champions in both women’s and men’s classes from last year. The three-leg relays take […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Parklands]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13417</id>
-        <link href="https://www.vicorienteering.asn.au/jump-off-free-orienteering-activity-afternoon-saturday-13-april-darebin-parklands/"/>
-        <updated>2024-04-09T09:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Jump Off into orienteering at Darebin Parklands this Saturday April 13!  Free activity afternoon for kids
-Jump Off!  Free Orienteering Activity Afternoon, Saturday 13 April, Darebin Parklands first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Organising workshops]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53693</id>
-        <link href="https://www.scottish-orienteering.org/news/demystifying-organising-workshops/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=demystifying-organising-workshops"/>
-        <updated>2024-04-09T09:08:51.000Z</updated>
-        <summary type="html"><![CDATA[The first delivery of the new Demystifying Organising workshops was well received.  Run over 2 online sessions with a fortnight […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
