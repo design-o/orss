@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T00:31:54.939Z</updated>
+    <updated>2024-05-09T06:09:19.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -633,6 +633,15 @@ World Universities Team Named first appeared on Orienteering New Zealand.]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fun With Maps!  Photos and Report from our Family Day]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13417</id>
+        <link href="https://www.vicorienteering.asn.au/jump-off-free-orienteering-activity-afternoon-saturday-13-april-darebin-parklands/"/>
+        <updated>2024-04-21T05:10:40.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Action Packed Anzac Weekend!]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13420</id>
         <link href="https://www.vicorienteering.asn.au/action-packed-anzac-weekend/"/>
@@ -849,16 +858,6 @@ The post Entries closing for the Irish Orienteering Championships first appeared
         <summary type="html"><![CDATA[South London Orienteers are delighted to be awarded British Orienteering’s Spirit of Inclusion Award 2023. This is a new award category introduced to recognise the [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New IOF Athlete Representatives elected]]></title>
-        <id>https://orienteering.sport/?p=70469</id>
-        <link href="https://orienteering.sport/new-iof-athletes-advisory-groups-elected/"/>
-        <updated>2024-04-09T14:33:23.000Z</updated>
-        <summary type="html"><![CDATA[Athlete Representatives to the IOF Athletes’ Advisory Groups for the new two-year term 2024-2026 has been elected by the athletes for all four disciplines. See the election results here. The elected IOF Athlete Representatives represent the voice and interests of athletes and are part of consultation- and decision-making processes within the IOF organisation. Empowerment of […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
         </author>
     </entry>
 </feed>
