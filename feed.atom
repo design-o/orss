@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T00:31:41.162Z</updated>
+    <updated>2024-05-10T06:09:29.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -836,17 +836,6 @@ The post Entries Closing on Sunday 14 April appeared first on NI Orienteering As
         <summary type="html"><![CDATA[Ensuring the future of Scottish Orienteering was at the forefront of the minds of the SOA Board when they met […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries closing for the Irish Orienteering Championships]]></title>
-        <id>https://www.orienteering.ie/?p=17446</id>
-        <link href="https://www.orienteering.ie/entries-closing-for-the-irish-orienteering-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=entries-closing-for-the-irish-orienteering-championships"/>
-        <updated>2024-04-10T14:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Entries for the Irish Orienteering Championships are closing on Sunday 14th April. Relay entries have an extension until Tuesday 23d April. Entry details and other information is at: https://ioc.orienteering.ie/home Can’t wait to see you all there!
-The post Entries closing for the Irish Orienteering Championships first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Mark Stephens</name>
         </author>
     </entry>
 </feed>
