@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70682",
+          "author": "Clive",
+          "description": "Aaron Gaio, Italy and Svein Jakobsen, Norway were the overall winners of the O and P classes respectively after the second day of competition on a cold, sunny and windy day in Turku, Finland. Open class medal winners   Photos: Jari Grönroos Gaio along with Geir Myhr Øien, Norway were the only two competitors to achieve […]",
+          "link": "https://orienteering.sport/european-trailo-championships-preo-gold-medals-to-italy-and-norway/",
+          "publishedOn": "2024-05-10T19:49:47.000Z",
+          "wordCount": 1912,
+          "title": "European TrailO Championships: PreO gold medals to Italy and Norway",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/etoc_2024_logo.gif"
+        },
+        {
           "id": "https://orienteering.sport/?p=70649",
           "author": "Clive",
           "description": "16-year-old Jonatán Furucz, Slovakia leads the O (Open) class field after the first day of the PreO competition, held in cold conditions in Turku, Finland. Svein Jacobsen, Norway heads the P (Physically Challenged) Class. Competitors had a 32-control course in forest rich in contour and rock detail, and many were hard-pressed to complete the course […]",
@@ -712,16 +722,6 @@
           "wordCount": 1529,
           "title": "Countdown to 2024 Scottish Schools Orienteering Festival",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2022/06/IMG_20220601_132140-768x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53700",
-          "author": "nikkihoward",
-          "description": "Ensuring the future of Scottish Orienteering was at the forefront of the minds of the SOA Board when they met […]",
-          "link": "https://www.scottish-orienteering.org/news/final-chance-to-provide-input-to-the-scottish-orienteering-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=final-chance-to-provide-input-to-the-scottish-orienteering-strategy",
-          "publishedOn": "2024-04-11T11:11:46.000Z",
-          "wordCount": 1712,
-          "title": "Final chance to provide input to the Scottish Orienteering Strategy",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/02/IS-your-voice-heard-1024x1024.png"
         }
       ]
     },

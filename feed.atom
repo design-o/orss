@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T18:08:58.517Z</updated>
+    <updated>2024-05-11T00:31:15.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European TrailO Championships: PreO gold medals to Italy and Norway]]></title>
+        <id>https://orienteering.sport/?p=70682</id>
+        <link href="https://orienteering.sport/european-trailo-championships-preo-gold-medals-to-italy-and-norway/"/>
+        <updated>2024-05-10T19:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Aaron Gaio, Italy and Svein Jakobsen, Norway were the overall winners of the O and P classes respectively after the second day of competition on a cold, sunny and windy day in Turku, Finland. Open class medal winners   Photos: Jari Grönroos Gaio along with Geir Myhr Øien, Norway were the only two competitors to achieve […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CANCELLED | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th]]></title>
         <id>https://neooc.com/?p=47282</id>
@@ -826,16 +836,6 @@ Vic MTBO Series 2, Sunday 21 April, Bostock first appeared on Orienteering Victo
 The post Entries Closing on Sunday 14 April appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final chance to provide input to the Scottish Orienteering Strategy]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53700</id>
-        <link href="https://www.scottish-orienteering.org/news/final-chance-to-provide-input-to-the-scottish-orienteering-strategy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=final-chance-to-provide-input-to-the-scottish-orienteering-strategy"/>
-        <updated>2024-04-11T11:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring the future of Scottish Orienteering was at the forefront of the minds of the SOA Board when they met […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
