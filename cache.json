@@ -119,6 +119,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13570",
+          "author": "Margi Freemantle",
+          "description": "Just like the Aurora, this Sunday's Tipperary Springs event will let you see a combination of factors that has made the forest high above Sailor's Creek an absolute joy and pleasure to be in and is thus a moment in time not to be missed.\nBallarat Classics – Tipperary Springs, Sunday 19 May first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/ballarat-classics-tipperary-springs-sunday-19-may/",
+          "publishedOn": "2024-05-12T10:49:44.000Z",
+          "wordCount": 1247,
+          "title": "Ballarat Classics – Tipperary Springs, Sunday 19 May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13530",
           "author": "Margi Freemantle",
           "description": "This Saturday’s Bendigo bush series event will be on the Sedgwick North map and you might be surprised at how little climbing is required compared to some events at Sedgwick.\nBendigo bush series – Sedgwick North – Saturday 11 May first appeared on Orienteering Victoria.",
@@ -339,6 +349,26 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=59650",
+          "author": "Christo Peters",
+          "description": "New event levy system for 2024 All events running from 1 January 2024 are subject to the new levy system. All event participation must be reported regardless of if a levy is being paid or not (e.g. fundraising events awarded event levy exceptions and those which no entry fee is charged). The new levy system applies […]\nThe New ONZ Levy System | How to report events first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/the-new-onz-levy-system-how-to-report-events/",
+          "publishedOn": "2024-05-12T09:32:51.000Z",
+          "wordCount": 2861,
+          "title": "The New ONZ Levy System | How to report events",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/Screenshot-662.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59647",
+          "author": "Christo Peters",
+          "description": "Overview Below is an updated version that was circulated initially in December 2023 Club Newsletter, then again in an email to all Club Presidents and Secretaries in February 2024 when Sport NZ resources became available. Clubs wishing to be incorporated have until April 2026 to update their constitution and re-register with the Companies Office who […]\nActions required by clubs to comply with the Incorporated Societies Act 2022 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/actions-required-by-clubs-to-comply-with-the-incorporated-societies-act-2022/",
+          "publishedOn": "2024-05-12T09:06:01.000Z",
+          "wordCount": 2682,
+          "title": "Actions required by clubs to comply with the Incorporated Societies Act 2022",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/Screenshot-660.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59641",
           "author": "Christo Peters",
