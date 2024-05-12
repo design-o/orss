@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70686",
+          "author": "Clive",
+          "description": "Norway and Czechia emerged as winners of the two relay classes, O and P; the six sets of medals awarded today go to teams from six different nations. All competitors completed a PreO course of 16 controls followed by two TempO stations, and the third-leg athlete had an additional TempO control at the end, in […]",
+          "link": "https://orienteering.sport/european-trailo-championships-success-for-norway-and-czechia-in-relay/",
+          "publishedOn": "2024-05-11T18:59:30.000Z",
+          "wordCount": 1898,
+          "title": "European TrailO Championships: success for Norway and Czechia in Relay",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/etoc2024_preo_day1-1024x603.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70682",
           "author": "Clive",
           "description": "Aaron Gaio, Italy and Svein Jakobsen, Norway were the overall winners of the O and P classes respectively after the second day of competition on a cold, sunny and windy day in Turku, Finland. Open class medal winners   Photos: Jari Grönroos Gaio along with Geir Myhr Øien, Norway were the only two competitors to achieve […]",
@@ -769,16 +779,6 @@
           "wordCount": 4263,
           "title": "NI Urban League #1",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/04/IMG_1954-1.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=5609",
-          "author": "NIOA Secretary",
-          "description": "The closing date for two important events is this Sunday 14 April: The second NI Colour Series of the 2024 to be held at Drum Manor Forest Park on Saturday 20 April. All the entry details are on the NWOC website. The Irish Orienteering Championships...\nThe post Entries Closing on Sunday 14 April appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/entries-closing-on-sunday-14-april/",
-          "publishedOn": "2024-04-12T09:16:49.000Z",
-          "wordCount": 4420,
-          "title": "Entries Closing on Sunday 14 April",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/04/Drum-Manor-House.jpg"
         }
       ]
     },
