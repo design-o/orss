@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70689",
+          "author": "Clive",
+          "description": "The Finnish athlete Lauri Mäkinen won the Final of the TempO competition in a very tight finish where the silver medal was shared and the fourth-placed athlete missed a medal by just 1 second! All that at the end of 9 stations with 5 tasks at each – 45 decision tasks under extreme time pressure […]",
+          "link": "https://orienteering.sport/european-trailo-championships-double-tempo-medal-haul-for-home-nation/",
+          "publishedOn": "2024-05-12T18:24:21.000Z",
+          "wordCount": 1886,
+          "title": "European TrailO Championships: double TempO medal haul for home nation",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/etoc2024_preo_day1-1024x603.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70686",
           "author": "Clive",
           "description": "Norway and Czechia emerged as winners of the two relay classes, O and P; the six sets of medals awarded today go to teams from six different nations. All competitors completed a PreO course of 16 controls followed by two TempO stations, and the third-leg athlete had an additional TempO control at the end, in […]",
@@ -875,16 +885,6 @@
           "publishedOn": "2024-04-16T09:00:00.000Z",
           "wordCount": 2182,
           "title": "Australian IOF Athlete Representatives Elected",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=10745",
-          "author": "elizabethl",
-          "description": "Progress scores for the 2024 Silva Medal after the recent Australian 3-Days Championship.\n2024 Silva Medal Progress Scores first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2024-silva-medal-progress-scores/",
-          "publishedOn": "2024-04-13T09:30:00.000Z",
-          "wordCount": 2261,
-          "title": "2024 Silva Medal Progress Scores",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

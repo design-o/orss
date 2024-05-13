@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T18:09:15.670Z</updated>
+    <updated>2024-05-13T00:34:05.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European TrailO Championships: double TempO medal haul for home nation]]></title>
+        <id>https://orienteering.sport/?p=70689</id>
+        <link href="https://orienteering.sport/european-trailo-championships-double-tempo-medal-haul-for-home-nation/"/>
+        <updated>2024-05-12T18:24:21.000Z</updated>
+        <summary type="html"><![CDATA[The Finnish athlete Lauri Mäkinen won the Final of the TempO competition in a very tight finish where the silver medal was shared and the fourth-placed athlete missed a medal by just 1 second! All that at the end of 9 stations with 5 tasks at each – 45 decision tasks under extreme time pressure […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballarat Classics – Tipperary Springs, Sunday 19 May]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13570</id>
@@ -857,17 +867,6 @@ The post AGM 2024 first appeared on Orienteering in Ireland.]]></summary>
 Vic MTBO Series 2, Sunday 21 April, Bostock first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Silva Medal Progress Scores]]></title>
-        <id>https://orienteering.asn.au/?p=10745</id>
-        <link href="https://orienteering.asn.au/2024-silva-medal-progress-scores/"/>
-        <updated>2024-04-13T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Progress scores for the 2024 Silva Medal after the recent Australian 3-Days Championship.
-2024 Silva Medal Progress Scores first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
