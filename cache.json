@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70638",
+          "author": "Erling Thisted",
+          "description": "A number of orienteering events in India over the past nine months have had around 1750 people try their hand at the sport. To date India has had 4 clubs, but four more are on the way, meaning six of the country’s states are on their way to be represented by a club. Several clubs […]",
+          "link": "https://orienteering.sport/orienteering-events-in-india-attract-more-than-1000-participants/",
+          "publishedOn": "2024-05-14T08:21:19.000Z",
+          "wordCount": 1909,
+          "title": "Orienteering events in India attract more than 1000 participants",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/india2-1024x941.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70689",
           "author": "Clive",
           "description": "The Finnish athlete Lauri Mäkinen won the Final of the TempO competition in a very tight finish where the silver medal was shared and the fourth-placed athlete missed a medal by just 1 second! All that at the end of 9 stations with 5 tasks at each – 45 decision tasks under extreme time pressure […]",
@@ -293,16 +303,6 @@
           "publishedOn": "2024-04-15T15:38:19.000Z",
           "wordCount": 1807,
           "title": "Sprinting Through Dublin: A Weekend of Intensive Orienteering Training",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=17468",
-          "author": "Operations Manager",
-          "description": "As we all prepare for IOC 2024, we would also like to invite our members to our AGM at the Hodson Bay Hotel. This will take place at 5.30pm on Sunday 05 May 2024 (after the Classic Event at Slieve Bawn). Further information and reports can be found on our AGM page here.\nThe post AGM 2024 first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/agm-2024/?utm_source=rss&utm_medium=rss&utm_campaign=agm-2024",
-          "publishedOn": "2024-04-14T18:39:41.000Z",
-          "wordCount": 759,
-          "title": "AGM 2024",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
@@ -673,6 +673,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53832",
+          "author": "nikkihoward",
+          "description": "We are notifying all members of our intended Annual General Meeting date of Monday 24th June 2024 to be held […]",
+          "link": "https://www.scottish-orienteering.org/news/2024-agm-to-be-held-online-on-24th-june/?utm_source=rss&utm_medium=rss&utm_campaign=2024-agm-to-be-held-online-on-24th-june",
+          "publishedOn": "2024-05-14T09:03:40.000Z",
+          "wordCount": 1527,
+          "title": "2024 AGM to be held online on 24th June",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2017/08/Scottish-Orienteering-Col-1-CMYK.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53824",
+          "author": "nikkihoward",
+          "description": "Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]",
+          "link": "https://www.scottish-orienteering.org/news/do-you-know-someone-who-deserves-the-presidents-medal/?utm_source=rss&utm_medium=rss&utm_campaign=do-you-know-someone-who-deserves-the-presidents-medal",
+          "publishedOn": "2024-05-14T08:53:47.000Z",
+          "wordCount": 1612,
+          "title": "Do you know someone who deserves the President’s medal?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/organising.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=53798",
           "author": "suzannerb",
