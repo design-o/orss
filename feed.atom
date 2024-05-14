@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T00:31:59.098Z</updated>
+    <updated>2024-05-14T06:10:52.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -857,16 +857,6 @@ The post Sprinting Through Dublin: A Weekend of Intensive Orienteering Training 
 The post AGM 2024 first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | 2024 Classic-O at Oak Hill | April 13, 2024]]></title>
-        <id>https://neooc.com/?p=47197</id>
-        <link href="https://neooc.com/results-2024-classic-o-at-oak-hill-april-13-2024/"/>
-        <updated>2024-04-14T12:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Results of the 2024 Classic-O at Oak Hill have been posted!]]></summary>
-        <author>
-            <name>Michael Avery</name>
         </author>
     </entry>
 </feed>
