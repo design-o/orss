@@ -838,6 +838,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=11003",
+          "author": "elizabethl",
+          "description": "Announcing the WOC Australian team for 2024 in Edinburgh.\nWOC 2024 Australian Team Announcement first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/woc-2024-australian-team-announcement/",
+          "publishedOn": "2024-05-15T13:34:07.000Z",
+          "wordCount": 2130,
+          "title": "WOC 2024 Australian Team Announcement",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=10976",
           "author": "elizabethl",
           "description": "The OA MTBO Selection Team has selected Maya Bennette and Will Whittington for the 2024 Australian MTBO team.\nNational MTBO Team Representatives Announced first appeared on Orienteering Australia.",

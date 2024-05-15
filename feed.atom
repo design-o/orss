@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T12:13:48.760Z</updated>
+    <updated>2024-05-15T18:08:43.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2024 Australian Team Announcement]]></title>
+        <id>https://orienteering.asn.au/?p=11003</id>
+        <link href="https://orienteering.asn.au/woc-2024-australian-team-announcement/"/>
+        <updated>2024-05-15T13:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the WOC Australian team for 2024 in Edinburgh.
+WOC 2024 Australian Team Announcement first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NI Orienteering AGM]]></title>
         <id>https://www.niorienteering.org.uk/?p=5706</id>
