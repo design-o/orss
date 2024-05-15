@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T18:08:39.270Z</updated>
+    <updated>2024-05-15T00:32:48.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clapham Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=21969</id>
+        <link href="https://slow.org.uk/streeto/clapham-street-o-23-results/"/>
+        <updated>2024-05-15T00:12:21.000Z</updated>
+        <summary type="html"><![CDATA[There was a great turn out at the Clapham Street-O, the finale of the 2023-24 series. Over 100 people walked/ jogged/ ran and enjoyed the [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 AGM to be held online on 24th June]]></title>
         <id>https://www.scottish-orienteering.org/?p=53832</id>

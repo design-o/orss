@@ -313,6 +313,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=21969",
+          "author": "vinh",
+          "description": "There was a great turn out at the Clapham Street-O, the finale of the 2023-24 series. Over 100 people walked/ jogged/ ran and enjoyed the [...]",
+          "link": "https://slow.org.uk/streeto/clapham-street-o-23-results/",
+          "publishedOn": "2024-05-15T00:12:21.000Z",
+          "wordCount": 2203,
+          "title": "Clapham Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/clapham-street-o-results/files/Clapham_StreetO_2024_3.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=21955",
           "author": "Steve Clelland",
           "description": "The second race of London 2024 Park Series takes place in Battersea Park, south-west London, on Tuesday 28th May 2024. Race Centre The race will be [...]",
