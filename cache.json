@@ -114,16 +114,6 @@
           "wordCount": 1856,
           "title": "Here are the candidates for the 2024 IOF Council Elections",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70486",
-          "author": "Erling Thisted",
-          "description": "How should you act if you know the terrain before a race, meet an injured runner in the forest or are asked for directions? These are some of the topics covered in the new basic Fair Play course, that has just become available on IOF’s E-learning platform. The course consists of 14 different lessons with […]",
-          "link": "https://orienteering.sport/new-basic-fair-play-e-learning-course-available/",
-          "publishedOn": "2024-04-15T13:28:16.000Z",
-          "wordCount": 1792,
-          "title": "New basic Fair Play E-learning course available",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/02/eoc_2022_dl_sustainability-1024x682.jpg"
         }
       ]
     },
@@ -138,6 +128,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13582",
+          "author": "Debbie Dodd",
+          "description": "Congratulations to Maya Bennette and Lucas Kent, who will represent Australia at the World MTBO Champs this year.\nVictorian Juniors Ride Their Way into the World MTBO Champs Team first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/victorian-juniors-ride-their-way-into-the-world-mtbo-champs-team/",
+          "publishedOn": "2024-05-15T04:35:36.000Z",
+          "wordCount": 1047,
+          "title": "Victorian Juniors Ride Their Way into the World MTBO Champs Team",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13570",
           "author": "Margi Freemantle",
@@ -293,16 +293,6 @@
           "publishedOn": "2024-04-22T14:24:38.000Z",
           "wordCount": 1162,
           "title": "South West League",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=17479",
-          "author": "Senior",
-          "description": "Over the weekend, the national squad of Orienteering Ireland convened in Dublin for an intensive sprint camp aimed at sharpening their skills and refining their strategies. From Friday night through Sunday, the athletes immersed themselves in a series of challenging training sessions designed to mimic the intensity and precision required at the highest levels of […]\nThe post Sprinting Through Dublin: A Weekend of Intensive Orienteering Training first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/sprinting-through-dublin-a-weekend-of-intensive-orienteering-training/?utm_source=rss&utm_medium=rss&utm_campaign=sprinting-through-dublin-a-weekend-of-intensive-orienteering-training",
-          "publishedOn": "2024-04-15T15:38:19.000Z",
-          "wordCount": 1807,
-          "title": "Sprinting Through Dublin: A Weekend of Intensive Orienteering Training",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
