@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T18:08:43.990Z</updated>
+    <updated>2024-05-16T00:32:23.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -887,17 +887,6 @@ The post NI Urban League #1 appeared first on NI Orienteering Association.]]></s
         <summary type="html"><![CDATA[The 2024 Scottish Schools Orienteering Festival is being organised by St Andrews Orienteering Club, Glasgow (STAG) and is being held […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian IOF Athlete Representatives Elected]]></title>
-        <id>https://orienteering.asn.au/?p=10749</id>
-        <link href="https://orienteering.asn.au/australian-iof-athlete-representatives-elected/"/>
-        <updated>2024-04-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Brodie Nankervis and Will Whittington on becoming athlete representatives of the IOF Athletes' Advisory Groups for 2024-2026.
-Australian IOF Athlete Representatives Elected first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
