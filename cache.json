@@ -694,6 +694,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=53849",
+          "author": "nikkihoward",
+          "description": "The 2024 Jamie Stevenson Trophy event is being held at the Hermitage just outside Dunkeld this year on Sunday 16th […]",
+          "link": "https://www.scottish-orienteering.org/news/jamie-stevenson-competition-visits-the-hermitage-this-year/?utm_source=rss&utm_medium=rss&utm_campaign=jamie-stevenson-competition-visits-the-hermitage-this-year",
+          "publishedOn": "2024-05-17T11:57:59.000Z",
+          "wordCount": 1753,
+          "title": "Jamie Stevenson competition visits the Hermitage this year",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/IMG_8238-660x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53842",
+          "author": "nikkihoward",
+          "description": "The Scottish Schools Orienteering Festival is taking place at Drumpellier Country Park this year on Friday 7th June. Entries are […]",
+          "link": "https://www.scottish-orienteering.org/news/2024-scottish-schools-orienteering-festival-entries-open/?utm_source=rss&utm_medium=rss&utm_campaign=2024-scottish-schools-orienteering-festival-entries-open",
+          "publishedOn": "2024-05-17T10:33:18.000Z",
+          "wordCount": 1432,
+          "title": "2024 Scottish Schools Orienteering Festival entries open",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2022/06/IMG_20220601_132140-768x1024.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=53836",
           "author": "suzannerb",
           "description": "Young people are the future of our sport and we are once again delighted to announce the opening of nominations for the Young Orienteer of the Year award kindly sponsored by Tulloch Homes.  This annual award gives […]",

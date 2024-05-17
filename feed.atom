@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T06:09:58.757Z</updated>
+    <updated>2024-05-17T12:11:55.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jamie Stevenson competition visits the Hermitage this year]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53849</id>
+        <link href="https://www.scottish-orienteering.org/news/jamie-stevenson-competition-visits-the-hermitage-this-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jamie-stevenson-competition-visits-the-hermitage-this-year"/>
+        <updated>2024-05-17T11:57:59.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Jamie Stevenson Trophy event is being held at the Hermitage just outside Dunkeld this year on Sunday 16th […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Scottish Schools Orienteering Festival entries open]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53842</id>
+        <link href="https://www.scottish-orienteering.org/news/2024-scottish-schools-orienteering-festival-entries-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2024-scottish-schools-orienteering-festival-entries-open"/>
+        <updated>2024-05-17T10:33:18.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Schools Orienteering Festival is taking place at Drumpellier Country Park this year on Friday 7th June. Entries are […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC 2027 appointed to Poland – Japan will host WMOC 2027]]></title>
         <id>https://orienteering.sport/?p=70698</id>
