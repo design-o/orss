@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70714",
+          "author": "Erling Thisted",
+          "description": "Exactly 230 days after Tove Alexandersson (SWE) and Matthias Kyburz (SUI) crossed the finish line under Vicenza’s October sun to win both the KO Sprint titles at EOC and secure the overall 2023 Orienteering World Cup victories, it’s time to kick off the World Cup again. The 2024 season begins with the youngest discipline, a […]",
+          "link": "https://orienteering.sport/switzerland-kicks-off-new-world-cup-season-with-intense-sprints/",
+          "publishedOn": "2024-05-17T22:49:00.000Z",
+          "wordCount": 2465,
+          "title": "Intense sprints will kick off the new World Cup season",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2023_eoc_kosprint_-1024x644.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70698",
           "author": "Erling Thisted",
           "description": "Young orienteers will travel to Poland in three years to race for JWOC-medals, while the slightly older ones set course for Japan and the WMOC races the same year. It is clear after IOF Council’s meeting on May 3rd, 2024, where several organisers of future international championships were appointed. It is the fourth time that […]",
@@ -276,16 +286,6 @@
           "publishedOn": "2024-04-19T01:41:54.000Z",
           "wordCount": 1320,
           "title": "Park Street Update: Anzac Week Events, April 22-27",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13447",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/ian-baker-inducted-into-orienteering-australia-hall-of-fame/",
-          "publishedOn": "2024-04-18T10:15:17.000Z",
-          "wordCount": 1189,
-          "title": "Ian Baker Inducted into Orienteering Australia Hall of Fame",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
