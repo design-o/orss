@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T06:08:52.855Z</updated>
+    <updated>2024-05-18T12:11:53.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Volunteer Week 1- 7 June 2024]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53850</id>
+        <link href="https://www.scottish-orienteering.org/news/volunteer-week-1-7-june-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-1-7-june-2024"/>
+        <updated>2024-05-18T08:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Volunteer week is once more upon us. This is the time of year when we celebrate all our wonderful volunteers […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intense sprints will kick off the new World Cup season]]></title>
         <id>https://orienteering.sport/?p=70714</id>
