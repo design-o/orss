@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T18:08:42.249Z</updated>
+    <updated>2024-05-19T00:35:30.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -919,17 +919,6 @@ Action Packed Anzac Weekend! first appeared on Orienteering Victoria.]]></summar
         <summary type="html"><![CDATA[With the recent grants awarded through the SOA Development Fund, new opportunities with two clubs have arisen to work for […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athlete Interview with Rob Walter]]></title>
-        <id>https://orienteering.asn.au/?p=10767</id>
-        <link href="https://orienteering.asn.au/athlete-interview-with-rob-walter/"/>
-        <updated>2024-04-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The athlete interview features one of Australia's all-time greats Rob Walter.
-Athlete Interview with Rob Walter first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
