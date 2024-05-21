@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70844",
+          "author": "Erling Thisted",
+          "description": "The international orienteering season is about to start and you’re invited to follow all the action from the Orienteering World Cup 2024 closely. We start in Switzerland this weekend with Round 1 – a Knock-Out Sprint on Saturday and an individual sprint on Sunday. The city of Olten hosts both races and offers flat and […]",
+          "link": "https://orienteering.sport/how-to-follow-the-orienteering-world-cup-round-1-in-olten/",
+          "publishedOn": "2024-05-21T15:57:55.000Z",
+          "wordCount": 2003,
+          "title": "How to follow the Orienteering World Cup Round 1 in Switzerland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/dsc5038-1-1024x681.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70714",
           "author": "Erling Thisted",
           "description": "Exactly 230 days after Tove Alexandersson (SWE) and Matthias Kyburz (SUI) crossed the finish line under Vicenza’s October sun to win both the KO Sprint titles at EOC and secure the overall 2023 Orienteering World Cup victories, it’s time to kick off the World Cup again. The 2024 season begins with the youngest discipline, a […]",
@@ -246,16 +256,6 @@
           "publishedOn": "2024-04-24T01:38:27.000Z",
           "wordCount": 1158,
           "title": "MelBushO is Back!  Banksia Park, Sunday 12 May",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13492",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/race-for-your-school-victorian-secondary-schools-orienteering-champs-24-may-brimbank-park/",
-          "publishedOn": "2024-04-22T01:47:03.000Z",
-          "wordCount": 1760,
-          "title": "Race For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]

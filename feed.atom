@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T12:12:28.967Z</updated>
+    <updated>2024-05-21T18:09:43.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to follow the Orienteering World Cup Round 1 in Switzerland]]></title>
+        <id>https://orienteering.sport/?p=70844</id>
+        <link href="https://orienteering.sport/how-to-follow-the-orienteering-world-cup-round-1-in-olten/"/>
+        <updated>2024-05-21T15:57:55.000Z</updated>
+        <summary type="html"><![CDATA[The international orienteering season is about to start and you’re invited to follow all the action from the Orienteering World Cup 2024 closely. We start in Switzerland this weekend with Round 1 – a Knock-Out Sprint on Saturday and an individual sprint on Sunday. The city of Olten hosts both races and offers flat and […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Challenging Crossmurrin]]></title>
         <id>https://www.niorienteering.org.uk/?p=5738</id>
@@ -902,15 +912,6 @@ The post South West League first appeared on Orienteering in Ireland.]]></summar
 World Universities Team Named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Race For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13492</id>
-        <link href="https://www.vicorienteering.asn.au/race-for-your-school-victorian-secondary-schools-orienteering-champs-24-may-brimbank-park/"/>
-        <updated>2024-04-22T01:47:03.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
