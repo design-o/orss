@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T06:09:57.258Z</updated>
+    <updated>2024-05-22T12:12:51.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scholarships for participation in the 2024 O-Ringen Academy]]></title>
+        <id>https://orienteering.sport/?p=70853</id>
+        <link href="https://orienteering.sport/scholarships-for-participation-in-the-2024-o-ringen-academy/"/>
+        <updated>2024-05-22T08:57:40.000Z</updated>
+        <summary type="html"><![CDATA[The IOF gives financial support (scholarships) to participate in O-Ringen Academy to selected participants from developing orienteering nations. Eight applicants for the O-Ringen Academy 2024 have been granted scholarships from the IOF to participate in the 2024 O-Ringen Academy: Rehab Abdel Raouf (EGY) Ahmet Polat (TUR) Hasan Akdogan (TUR) Safaa Al Abboodi (IRQ) Sayeesha Kirani […]]]></summary>
+        <author>
+            <name>Sondre Sande Gullord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winners of NOL season 2024]]></title>
+        <id>https://orienteering.asn.au/?p=11049</id>
+        <link href="https://orienteering.asn.au/winners-of-nol-season-2024/"/>
+        <updated>2024-05-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to the winners of the NOL season 2024.
+Winners of NOL season 2024 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to follow the Orienteering World Cup Round 1 in Switzerland]]></title>
         <id>https://orienteering.sport/?p=70844</id>
@@ -889,16 +910,6 @@ Orienteering League &  Nationals  wrap-up first appeared on Orienteering New Zea
 The post IOF Fair Play E-learning course first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Busy weekend discovers 2024 Scottish Middle Champions and the delights of Deeside]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53750</id>
-        <link href="https://www.scottish-orienteering.org/news/busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside"/>
-        <updated>2024-04-22T18:32:23.000Z</updated>
-        <summary type="html"><![CDATA[After some of you may have had a few weekends away in Staffordshire and Yorkshire over the Easter holidays, this […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>

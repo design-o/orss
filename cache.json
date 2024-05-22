@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70853",
+          "author": "Sondre Sande Gullord",
+          "description": "The IOF gives financial support (scholarships) to participate in O-Ringen Academy to selected participants from developing orienteering nations. Eight applicants for the O-Ringen Academy 2024 have been granted scholarships from the IOF to participate in the 2024 O-Ringen Academy: Rehab Abdel Raouf (EGY) Ahmet Polat (TUR) Hasan Akdogan (TUR) Safaa Al Abboodi (IRQ) Sayeesha Kirani […]",
+          "link": "https://orienteering.sport/scholarships-for-participation-in-the-2024-o-ringen-academy/",
+          "publishedOn": "2024-05-22T08:57:40.000Z",
+          "wordCount": 1740,
+          "title": "Scholarships for participation in the 2024 O-Ringen Academy",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/02/ora-1024x623.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=70844",
           "author": "Erling Thisted",
           "description": "The international orienteering season is about to start and you’re invited to follow all the action from the Orienteering World Cup 2024 closely. We start in Switzerland this weekend with Round 1 – a Knock-Out Sprint on Saturday and an individual sprint on Sunday. The city of Olten hosts both races and offers flat and […]",
@@ -762,16 +772,6 @@
           "wordCount": 2063,
           "title": "Cuningar Loop – Easter 2024 Report",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/20240404_165610-1-930x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53750",
-          "author": "nikkihoward",
-          "description": "After some of you may have had a few weekends away in Staffordshire and Yorkshire over the Easter holidays, this […]",
-          "link": "https://www.scottish-orienteering.org/news/busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside/?utm_source=rss&utm_medium=rss&utm_campaign=busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside",
-          "publishedOn": "2024-04-22T18:32:23.000Z",
-          "wordCount": 2198,
-          "title": "Busy weekend discovers 2024 Scottish Middle Champions and the delights of Deeside",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/IMG_9202-1024x768.jpg"
         }
       ]
     },
@@ -847,6 +847,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11049",
+          "author": "elizabethl",
+          "description": "Congratulations to the winners of the NOL season 2024.\nWinners of NOL season 2024 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/winners-of-nol-season-2024/",
+          "publishedOn": "2024-05-22T08:00:00.000Z",
+          "wordCount": 2089,
+          "title": "Winners of NOL season 2024",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11016",
           "author": "elizabethl",
