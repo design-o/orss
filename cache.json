@@ -149,6 +149,26 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13619",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vic-mtbo-series-saturday-june-2-walmer-forest-castlemaine/",
+          "publishedOn": "2024-05-20T02:33:57.000Z",
+          "wordCount": 1105,
+          "title": "Vic MTBO Series, SATURDAY June 1, Walmer Forest Castlemaine",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13614",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vic-series-2-at-glenluce-sunday-2-june-enter-online-now/",
+          "publishedOn": "2024-05-18T02:26:39.000Z",
+          "wordCount": 1182,
+          "title": "Vic Series 2 at Glenluce, Sunday 2 June – Enter Online Now!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13588",
           "author": "Margi Freemantle",
           "description": "Congratulations to Victorians Aston and Milla Key on their selection into Australian team for the 2024 world orienteering Championships in Edinburgh.\nAston and Milla Key selected for World Orienteering Champs first appeared on Orienteering Victoria.",
@@ -273,16 +293,6 @@
           "publishedOn": "2024-04-23T20:58:45.000Z",
           "wordCount": 857,
           "title": "IOF Fair Play E-learning course",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=17559",
-          "author": "Deirdre",
-          "description": "The new South West League is a replacement for the old Munster League.  The big plus is that it reduces distances to events and takes advantage of the improved N22 road network.  The league has been established by the Cork and Kerry orienteering clubs and is designed to encourage members to travel to the events […]\nThe post South West League first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/south-west-league/?utm_source=rss&utm_medium=rss&utm_campaign=south-west-league",
-          "publishedOn": "2024-04-22T14:24:38.000Z",
-          "wordCount": 1162,
-          "title": "South West League",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
@@ -762,16 +772,6 @@
           "wordCount": 2198,
           "title": "Busy weekend discovers 2024 Scottish Middle Champions and the delights of Deeside",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/IMG_9202-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53740",
-          "author": "nikkihoward",
-          "description": "Following on from the opportunity to join us in discussing the future Scottish Orienteering Strategy last week, we are providing […]",
-          "link": "https://www.scottish-orienteering.org/news/outline-scottish-orienteering-strategy-last-chance-to-find-out-more-and-have-your-say/?utm_source=rss&utm_medium=rss&utm_campaign=outline-scottish-orienteering-strategy-last-chance-to-find-out-more-and-have-your-say",
-          "publishedOn": "2024-04-22T13:47:41.000Z",
-          "wordCount": 1627,
-          "title": "Draft Scottish Orienteering Strategy – last chance to find out more and have your say",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/image-2.png"
         }
       ]
     },

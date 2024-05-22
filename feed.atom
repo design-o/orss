@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T00:32:08.739Z</updated>
+    <updated>2024-05-22T06:09:57.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -49,6 +49,15 @@ Support Orienteering Australia’s National Teams first appeared on Orienteering
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vic MTBO Series, SATURDAY June 1, Walmer Forest Castlemaine]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13619</id>
+        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-saturday-june-2-walmer-forest-castlemaine/"/>
+        <updated>2024-05-20T02:33:57.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volunteer Week 1- 7 June 2024]]></title>
         <id>https://www.scottish-orienteering.org/?p=53850</id>
         <link href="https://www.scottish-orienteering.org/news/volunteer-week-1-7-june-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-1-7-june-2024"/>
@@ -56,6 +65,15 @@ Support Orienteering Australia’s National Teams first appeared on Orienteering
         <summary type="html"><![CDATA[Volunteer week is once more upon us. This is the time of year when we celebrate all our wonderful volunteers […]]]></summary>
         <author>
             <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series 2 at Glenluce, Sunday 2 June – Enter Online Now!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13614</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-2-at-glenluce-sunday-2-june-enter-online-now/"/>
+        <updated>2024-05-18T02:26:39.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -879,27 +897,6 @@ The post IOF Fair Play E-learning course first appeared on Orienteering in Irela
         <link href="https://www.scottish-orienteering.org/news/busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=busy-weekend-discovers-2024-scottish-middle-champions-and-the-delights-of-deeside"/>
         <updated>2024-04-22T18:32:23.000Z</updated>
         <summary type="html"><![CDATA[After some of you may have had a few weekends away in Staffordshire and Yorkshire over the Easter holidays, this […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South West League]]></title>
-        <id>https://www.orienteering.ie/?p=17559</id>
-        <link href="https://www.orienteering.ie/south-west-league/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=south-west-league"/>
-        <updated>2024-04-22T14:24:38.000Z</updated>
-        <summary type="html"><![CDATA[The new South West League is a replacement for the old Munster League.  The big plus is that it reduces distances to events and takes advantage of the improved N22 road network.  The league has been established by the Cork and Kerry orienteering clubs and is designed to encourage members to travel to the events […]
-The post South West League first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draft Scottish Orienteering Strategy – last chance to find out more and have your say]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53740</id>
-        <link href="https://www.scottish-orienteering.org/news/outline-scottish-orienteering-strategy-last-chance-to-find-out-more-and-have-your-say/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=outline-scottish-orienteering-strategy-last-chance-to-find-out-more-and-have-your-say"/>
-        <updated>2024-04-22T13:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Following on from the opportunity to join us in discussing the future Scottish Orienteering Strategy last week, we are providing […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
