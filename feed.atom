@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T18:09:43.762Z</updated>
+    <updated>2024-05-22T00:32:08.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[The international orienteering season is about to start and you’re invited to follow all the action from the Orienteering World Cup 2024 closely. We start in Switzerland this weekend with Round 1 – a Knock-Out Sprint on Saturday and an individual sprint on Sunday. The city of Olten hosts both races and offers flat and […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland well represented in the GB teams this summer]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53871</id>
+        <link href="https://www.scottish-orienteering.org/news/scotland-well-represented-in-the-gb-teams-this-summer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotland-well-represented-in-the-gb-teams-this-summer"/>
+        <updated>2024-05-21T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[A large number of Scottish (and Scotland-based) athletes have been selected for various international competitions this summer, and with the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
@@ -295,6 +305,17 @@ Actions required by clubs to comply with the Incorporated Societies Act 2022 fir
         <summary type="html"><![CDATA[16-year-old Jonatán Furucz, Slovakia leads the O (Open) class field after the first day of the PreO competition, held in cold conditions in Turku, Finland. Svein Jacobsen, Norway heads the P (Physically Challenged) Class. Competitors had a 32-control course in forest rich in contour and rock detail, and many were hard-pressed to complete the course […]]]></summary>
         <author>
             <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Race For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13492</id>
+        <link href="https://www.vicorienteering.asn.au/race-for-your-school-victorian-secondary-schools-orienteering-champs-24-may-brimbank-park/"/>
+        <updated>2024-05-09T02:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Entries close this Friday May 10, for the 2024 Secondary Schools Champs at Brimbank Park
+Race For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -881,37 +902,6 @@ The post South West League first appeared on Orienteering in Ireland.]]></summar
         <summary type="html"><![CDATA[Following on from the opportunity to join us in discussing the future Scottish Orienteering Strategy last week, we are providing […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are the candidates for the 2024 IOF Council Elections]]></title>
-        <id>https://orienteering.sport/?p=70506</id>
-        <link href="https://orienteering.sport/here-are-the-candidates-for-the-2024-iof-council-elections/"/>
-        <updated>2024-04-22T12:01:10.000Z</updated>
-        <summary type="html"><![CDATA[The list of candidates for the 2024 IOF Council elections taking place at IOF General Assembly on July 15th is now final as the deadline for nominations has passed. During this year’s General Assembly, a President, two Vice Presidents and four Council Members are to be elected. It is IOF’s Member Federations who nominate the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA Volunteer Day 2nd June]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53732</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-volunteer-day-2nd-june/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-volunteer-day-2nd-june"/>
-        <updated>2024-04-22T09:48:54.000Z</updated>
-        <summary type="html"><![CDATA[The SOA team are delighted to welcome you all to a Volunteer’s Day to be held at Glenmore Lodge on […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Universities Team Named]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59515</id>
-        <link href="https://www.orienteering.org.nz/news/world-universities-team-named/"/>
-        <updated>2024-04-22T03:29:10.000Z</updated>
-        <summary type="html"><![CDATA[The following athletes have been selected to represent New Zealand at the World University Orienteering Championships in Bulgaria. 1st-5th August 2024 Katie Cory-Wright – Victoria University Wellington  Kaia Jorgensen – University of Canterbury Briana Steven – University of Canterbury Zara Stewart- University of Canterbury Cameron Bonar – University of Canterbury Nicholas Green –  University of Auckland Felix Hunt- University […]
-World Universities Team Named first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
