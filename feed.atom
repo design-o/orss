@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T12:12:51.441Z</updated>
+    <updated>2024-05-22T18:09:31.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We’re hiring!]]></title>
+        <id>https://www.orienteering.ie/?p=17655</id>
+        <link href="https://www.orienteering.ie/were-hiring-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=were-hiring-2"/>
+        <updated>2024-05-22T13:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland are delighted to announce that we are in a position to hire a Regional Development Officer for the Greater Dublin area. If you or someone you know might be interested in applying for this role, we would love to hear from them. Why Work With Us? Competitive salary. Flexible working arrangements. Working in […]
+The post We’re hiring! first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Mark Stephens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scholarships for participation in the 2024 O-Ringen Academy]]></title>
         <id>https://orienteering.sport/?p=70853</id>
