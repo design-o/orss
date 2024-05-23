@@ -151,7 +151,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=20050",
+          "author": "Jan Kocbach",
+          "description": "The first two Orienteering World Cup rounds of 2024 are about to start in Olten, Switzerland and Genoa, Italy – both organized as pure sprint weekends. It all kicks off in Switzerland from Friday May 24th until Sunday May 26th with a KO-Sprint and an individual Sprint – and continues with another individual Sprint and a Sprint Relay in Italy next weekend. With the ...",
+          "link": "https://news.worldofo.com/2024/05/23/world-cup-opening-weekends-2024-all-you-need-to-know/",
+          "publishedOn": "2024-05-23T03:00:17.000Z",
+          "wordCount": 2011,
+          "title": "World Cup Opening Weekends 2024: All You Need To Know",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/05/Previous-map-from-Olten_2014_01_3000-660x330.jpg"
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
