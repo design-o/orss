@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70879",
+          "author": "Erling Thisted",
+          "description": "The greatest international orienteering events will now be accessible to a significantly larger audience. The International Orienteering Federation, IOF, has entered a partnership with the European Broadcasting Union (EBU), the world’s leading alliance for public service media. IOF has a long tradition of collaborating with National Broadcasters in several countries that are also EBU Members. […]",
+          "link": "https://orienteering.sport/iof-enters-partnership-with-ebu-to-spread-orienteering-worldwide/",
+          "publishedOn": "2024-05-23T12:01:22.000Z",
+          "wordCount": 2150,
+          "title": "IOF enters partnership with EBU to spread Orienteering Worldwide",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/tv_matthias_kyburz_eoc2023-1024x681.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70853",
           "author": "Sondre Sande Gullord",
           "description": "The IOF gives financial support (scholarships) to participate in O-Ringen Academy to selected participants from developing orienteering nations. Eight applicants for the O-Ringen Academy 2024 have been granted scholarships from the IOF to participate in the 2024 O-Ringen Academy: Rehab Abdel Raouf (EGY) Ahmet Polat (TUR) Hasan Akdogan (TUR) Safaa Al Abboodi (IRQ) Sayeesha Kirani […]",
@@ -315,16 +325,6 @@
           "wordCount": 737,
           "title": "We’re hiring!",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=17580",
-          "author": "Deirdre",
-          "description": "How should you act if you know the terrain before a race, meet an injured runner in the forest or are asked for directions? These are some of the topics covered in the new basic Fair Play course, that has just become available on IOF’s E-learning platform. The course consists of 14 different lessons with […]\nThe post IOF Fair Play E-learning course first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/iof-fair-play-e-learning-course/?utm_source=rss&utm_medium=rss&utm_campaign=iof-fair-play-e-learning-course",
-          "publishedOn": "2024-04-23T20:58:45.000Z",
-          "wordCount": 857,
-          "title": "IOF Fair Play E-learning course",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
     },
@@ -619,16 +619,6 @@
           "wordCount": 2135,
           "title": "Updated JWOC Team selection",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/04/Screenshot-609.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=59518",
-          "author": "Joolz",
-          "description": "The second round of the National Orienteering League was held at the NZ Orienteering Championships, including both the Middle and Long distances. With this being the highest attendance of all events this year competition was fierce at the top of the table. Both days featured extremely challenging courses that caused many mistakes and misspunches among […]\nOrienteering League &  Nationals  wrap-up first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/orienteering-league-nationals-wrap-up/",
-          "publishedOn": "2024-04-23T23:18:19.000Z",
-          "wordCount": 2493,
-          "title": "Orienteering League &  Nationals  wrap-up",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/04/Leaderboard.jpg"
         }
       ]
     },
