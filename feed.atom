@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T12:12:15.824Z</updated>
+    <updated>2024-05-24T18:09:22.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Athletes from 17 nations make it through Knock-Out Sprint qualifiers]]></title>
+        <id>https://orienteering.sport/?p=71462</id>
+        <link href="https://orienteering.sport/world-cup-athletes-from-17-nations-make-it-through-knock-out-sprint-qualifiers/"/>
+        <updated>2024-05-24T17:25:09.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Orienteering World Cup got underway under very variable weather conditions Friday afternoon in Zofingen, Switzerland, where athletes from 17 out of the competing 32 nations managed to qualify for Saturday’s quarter finals. The sun was shining over the cosy old town centre as the first runners in the men’s three qualification heats made […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Simona Aebersold on the World Cup in Olten and the 2024 international season]]></title>
         <id>https://orienteering.sport/?p=70888</id>
@@ -919,17 +929,6 @@ Athlete Interview with Rachel West first appeared on Orienteering Australia.]]><
         <updated>2024-04-26T02:20:52.000Z</updated>
         <summary type="html"><![CDATA[Where/When Armidale, New South Wales, Australia 28 September to 6 October 2024. This is part of the Australian Schools Championships held during the Australian Championships Carnival. Teams being selected & purpose Two teams of equal ability will be selected to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital […]
 Selection Notice – 2024 NZSS Teams for Southern Cross Challenge first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updated JWOC Team selection]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59522</id>
-        <link href="https://www.orienteering.org.nz/news/updated-jwoc-team-selection/"/>
-        <updated>2024-04-25T03:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Following the initial JWOC Team selection, an appeal was lodged. The ONZ Board Appeal Panel considered the appeal and asked for the Men’s JWOC team to be re-selected which has now been done. This appeal has highlighted the need for all those selected in ONZ teams to be aware of that their selection is subject […]
-Updated JWOC Team selection first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
         </author>
