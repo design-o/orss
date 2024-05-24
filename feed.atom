@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T06:09:43.717Z</updated>
+    <updated>2024-05-24T12:12:15.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Simona Aebersold on the World Cup in Olten and the 2024 international season]]></title>
+        <id>https://orienteering.sport/?p=70888</id>
+        <link href="https://orienteering.sport/podcast-simona-aebersold-on-the-world-cup-in-olten-and-the-2024-international-season/"/>
+        <updated>2024-05-24T08:49:57.000Z</updated>
+        <summary type="html"><![CDATA[This year’s Orienteering World Cup begins in Switzerland this weekend with two sprint races. Simona Aebersold (SUI) claimed her first individual World Champs title on the long distance last year, where she was third in the overall World Cup. Hear her expectations for the 2024 international season in this mini episode of the IOF podcast […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering World Cup Round 1]]></title>
+        <id>https://orienteering.asn.au/?p=11079</id>
+        <link href="https://orienteering.asn.au/orienteering-world-cup-round-1/"/>
+        <updated>2024-05-24T07:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The Orienteering World Cup Round 1 is being held this weekend (25-26 May) in Olten, Switzerland. Australia will have a team of 5.
+Orienteering World Cup Round 1 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF enters partnership with EBU to spread Orienteering Worldwide]]></title>
         <id>https://orienteering.sport/?p=70879</id>

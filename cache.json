@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=70888",
+          "author": "Erling Thisted",
+          "description": "This year’s Orienteering World Cup begins in Switzerland this weekend with two sprint races. Simona Aebersold (SUI) claimed her first individual World Champs title on the long distance last year, where she was third in the overall World Cup. Hear her expectations for the 2024 international season in this mini episode of the IOF podcast […]",
+          "link": "https://orienteering.sport/podcast-simona-aebersold-on-the-world-cup-in-olten-and-the-2024-international-season/",
+          "publishedOn": "2024-05-24T08:49:57.000Z",
+          "wordCount": 1795,
+          "title": "Podcast: Simona Aebersold on the World Cup in Olten and the 2024 international season",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/07/woc2023_long_simona_aebersold_thomistudhalter-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=70879",
           "author": "Erling Thisted",
           "description": "The greatest international orienteering events will now be accessible to a significantly larger audience. The International Orienteering Federation, IOF, has entered a partnership with the European Broadcasting Union (EBU), the world’s leading alliance for public service media. IOF has a long tradition of collaborating with National Broadcasters in several countries that are also EBU Members. […]",
@@ -848,6 +858,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11079",
+          "author": "elizabethl",
+          "description": "The Orienteering World Cup Round 1 is being held this weekend (25-26 May) in Olten, Switzerland. Australia will have a team of 5.\nOrienteering World Cup Round 1 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/orienteering-world-cup-round-1/",
+          "publishedOn": "2024-05-24T07:39:52.000Z",
+          "wordCount": 2216,
+          "title": "Orienteering World Cup Round 1",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11049",
           "author": "elizabethl",
