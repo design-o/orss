@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T00:31:27.187Z</updated>
+    <updated>2024-05-25T06:09:48.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Australian Orienteer: June Edition Now Online]]></title>
+        <id>https://orienteering.asn.au/?p=11093</id>
+        <link href="https://orienteering.asn.au/the-australian-orienteer-june-edition-now-online/"/>
+        <updated>2024-05-25T01:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Read the June edition of The Australian Orienteer, available online now.
+The Australian Orienteer: June Edition Now Online first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup: Athletes from 17 nations make it through Knock-Out Sprint qualifiers]]></title>
         <id>https://orienteering.sport/?p=71462</id>
