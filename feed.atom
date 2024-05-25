@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T06:09:48.010Z</updated>
+    <updated>2024-05-25T12:11:00.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Australia launches Orienteering Participation Plan!]]></title>
+        <id>https://orienteering.asn.au/?p=11105</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-launches-orienteering-participation-plan/"/>
+        <updated>2024-05-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia has developed a whole of sport participation plan for 2024-2025.
+Orienteering Australia launches Orienteering Participation Plan! first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Australian Orienteer: June Edition Now Online]]></title>
         <id>https://orienteering.asn.au/?p=11093</id>
