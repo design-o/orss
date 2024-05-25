@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T12:11:00.619Z</updated>
+    <updated>2024-05-25T18:08:09.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Knock-Out wins for Hadorn and Alexandersson]]></title>
+        <id>https://orienteering.sport/?p=71514</id>
+        <link href="https://orienteering.sport/world-cup-knock-out-wins-for-hadorn-and-alexandersson/"/>
+        <updated>2024-05-25T15:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Joey Hadorn (SUI) and Tove Alexandersson (SWE) took the first Orienteering World Cup wins of 2024 with their victories in Saturday’s Knock-Out Sprint in Switzerland. Yesterday’s heavy rain was nowhere to be seen in sunny, central Olten, that hosted all of Saturday’s races from the quarter finals before noon and until the finals some hours […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Australia launches Orienteering Participation Plan!]]></title>
         <id>https://orienteering.asn.au/?p=11105</id>
@@ -942,17 +952,6 @@ Ballarat Classic 1 – Petticoat Gully, Sunday 28 April first appeared on Orient
 Athlete Interview with Rachel West first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Notice – 2024 NZSS Teams for Southern Cross Challenge]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59526</id>
-        <link href="https://www.orienteering.org.nz/news/selection-notice-2024-nzss-teams-for-southern-cross-challenge/"/>
-        <updated>2024-04-26T02:20:52.000Z</updated>
-        <summary type="html"><![CDATA[Where/When Armidale, New South Wales, Australia 28 September to 6 October 2024. This is part of the Australian Schools Championships held during the Australian Championships Carnival. Teams being selected & purpose Two teams of equal ability will be selected to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital […]
-Selection Notice – 2024 NZSS Teams for Southern Cross Challenge first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>

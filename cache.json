@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71514",
+          "author": "Erling Thisted",
+          "description": "Joey Hadorn (SUI) and Tove Alexandersson (SWE) took the first Orienteering World Cup wins of 2024 with their victories in Saturday’s Knock-Out Sprint in Switzerland. Yesterday’s heavy rain was nowhere to be seen in sunny, central Olten, that hosted all of Saturday’s races from the quarter finals before noon and until the finals some hours […]",
+          "link": "https://orienteering.sport/world-cup-knock-out-wins-for-hadorn-and-alexandersson/",
+          "publishedOn": "2024-05-25T15:56:14.000Z",
+          "wordCount": 2007,
+          "title": "World Cup: Knock-Out wins for Hadorn and Alexandersson",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owc_r1_ko_joeyhadorn_-1024x684.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71462",
           "author": "Erling Thisted",
           "description": "The 2024 Orienteering World Cup got underway under very variable weather conditions Friday afternoon in Zofingen, Switzerland, where athletes from 17 out of the competing 32 nations managed to qualify for Saturday’s quarter finals. The sun was shining over the cosy old town centre as the first runners in the men’s three qualification heats made […]",
@@ -619,16 +629,6 @@
           "wordCount": 2080,
           "title": "Southern Cross Coach and Manager applications",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2023/04/news-southern-cross-manager-coach-positions-2023.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=59526",
-          "author": "Christo Peters",
-          "description": "Where/When Armidale, New South Wales, Australia 28 September to 6 October 2024. This is part of the Australian Schools Championships held during the Australian Championships Carnival. Teams being selected & purpose Two teams of equal ability will be selected to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital […]\nSelection Notice – 2024 NZSS Teams for Southern Cross Challenge first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-2024-nzss-teams-for-southern-cross-challenge/",
-          "publishedOn": "2024-04-26T02:20:52.000Z",
-          "wordCount": 2456,
-          "title": "Selection Notice – 2024 NZSS Teams for Southern Cross Challenge",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2022/06/Southern-X-Challenge.jpeg"
         }
       ]
     },
