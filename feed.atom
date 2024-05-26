@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T00:36:01.771Z</updated>
+    <updated>2024-05-26T06:09:01.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -911,36 +911,6 @@ The post Runing Through Bluebells appeared first on NI Orienteering Association.
 Ballarat Classic 1 – Petticoat Gully, Sunday 28 April first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swedish broadcaster SVT acquires TV-rights for another three years]]></title>
-        <id>https://orienteering.sport/?p=70566</id>
-        <link href="https://orienteering.sport/swedish-broadcaster-svt-acquires-tv-rights-for-another-three-years/"/>
-        <updated>2024-04-26T13:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Swedes will have great opportunities to follow orienteering on the highest level in the years to come, as national broadcaster SVT has acquired the rights for international orienteering for another three years. Orienteering broadcasts on SVT has had great viewing figures as hundreds of thousands tune in to the competitions to follow the Swedish national […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuningar Loop – Easter 2024 Report]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53791</id>
-        <link href="https://www.scottish-orienteering.org/news/cuningar-loop-easter-2024-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cuningar-loop-easter-2024-report"/>
-        <updated>2024-04-26T13:19:19.000Z</updated>
-        <summary type="html"><![CDATA[As part of the ‘Increasing Participation’ project overseen by Clyde Gateway, SOA once again ran 3 sessions for families and […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clapham Street-O, Tuesday 14 May]]></title>
-        <id>https://slow.org.uk/?p=21939</id>
-        <link href="https://slow.org.uk/streeto/clapham-street-o-23/"/>
-        <updated>2024-04-26T12:53:28.000Z</updated>
-        <summary type="html"><![CDATA[The final Street-O of the 2023-24 series is here! It will be held in Clapham. The format is a 1 hour time limit to find [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
