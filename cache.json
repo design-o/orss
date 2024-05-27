@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71595",
+          "author": "Erling Thisted",
+          "description": "The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]",
+          "link": "https://orienteering.sport/world-cup-gemperle-and-svensk-wins-fast-sprint-in-switzerland/",
+          "publishedOn": "2024-05-26T18:28:08.000Z",
+          "wordCount": 2045,
+          "title": "World Cup: Gemperle and Svensk win fast sprint in Switzerland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owcr1_nataliagemperle_silvanschletti-1024x640.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71514",
           "author": "Erling Thisted",
           "description": "Joey Hadorn (SUI) and Tove Alexandersson (SWE) took the first Orienteering World Cup wins of 2024 with their victories in Saturday’s Knock-Out Sprint in Switzerland. Yesterday’s heavy rain was nowhere to be seen in sunny, central Olten, that hosted all of Saturday’s races from the quarter finals before noon and until the finals some hours […]",
@@ -317,16 +327,6 @@
           "publishedOn": "2024-04-28T07:47:40.000Z",
           "wordCount": 1038,
           "title": "VIC Bush Series is here! Eppalock, 5th May",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13456",
-          "author": "Debbie Dodd",
-          "description": "Petticoat Gully is looking outstanding at the moment and a selection of six courses have been curated for your enjoyment on Sunday the 28th of April.\nBallarat Classic 1 – Petticoat Gully, Sunday 28 April first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/ballarat-classic-1-petticoat-gully-sunday-28-april/",
-          "publishedOn": "2024-04-27T08:26:16.000Z",
-          "wordCount": 1753,
-          "title": "Ballarat Classic 1 – Petticoat Gully, Sunday 28 April",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T18:08:16.353Z</updated>
+    <updated>2024-05-27T00:33:56.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Gemperle and Svensk win fast sprint in Switzerland]]></title>
+        <id>https://orienteering.sport/?p=71595</id>
+        <link href="https://orienteering.sport/world-cup-gemperle-and-svensk-wins-fast-sprint-in-switzerland/"/>
+        <updated>2024-05-26T18:28:08.000Z</updated>
+        <summary type="html"><![CDATA[The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup: Knock-Out wins for Hadorn and Alexandersson]]></title>
         <id>https://orienteering.sport/?p=71514</id>
@@ -900,17 +910,6 @@ JWOC Team 2024  first appeared on Orienteering Australia.]]></summary>
 The post Runing Through Bluebells appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat Classic 1 – Petticoat Gully, Sunday 28 April]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13456</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-classic-1-petticoat-gully-sunday-28-april/"/>
-        <updated>2024-04-27T08:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Petticoat Gully is looking outstanding at the moment and a selection of six courses have been curated for your enjoyment on Sunday the 28th of April.
-Ballarat Classic 1 – Petticoat Gully, Sunday 28 April first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
