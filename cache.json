@@ -193,6 +193,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20065",
+          "author": "Jan Kocbach",
+          "description": "Sweden and Switzerland dominated the first World Cup weekend of 2024 in Olten, Switzerland – taking two victories each – but with four different winners. Tove Alexandersson (Sweden) and Joey Hadorn (Switzerland) took the victories on the KO-Sprint while Natalia Gemperle (Switzerland) and Emil Svensk (Sweden) took the victories on Sunday’s individual sprint. While the ...",
+          "link": "https://news.worldofo.com/2024/05/27/world-cup-opening-switzerland-2024-maps-and-results/",
+          "publishedOn": "2024-05-27T03:00:36.000Z",
+          "wordCount": 1944,
+          "title": "World Cup Opening Switzerland 2024: Maps and Results",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/05/2024_vc1_kos-scaled-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20050",
           "author": "Jan Kocbach",
           "description": "The first two Orienteering World Cup rounds of 2024 are about to start in Olten, Switzerland and Genoa, Italy – both organized as pure sprint weekends. It all kicks off in Switzerland from Friday May 24th until Sunday May 26th with a KO-Sprint and an individual Sprint – and continues with another individual Sprint and a Sprint Relay in Italy next weekend. With the ...",
