@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-27T06:11:07.039Z</updated>
+    <updated>2024-05-27T12:12:47.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Senior Home International Declarations of Interest]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5749</id>
+        <link href="https://www.niorienteering.org.uk/senior-home-international-declarations-of-interest/"/>
+        <updated>2024-05-27T08:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Declarations of Interest to compete on the Ireland team at the 2024 Senior Home International to be held in Scotland on 7-8 September in the Stirling area should be with with the selectors by Sunday 2 June. This is for M/W20 and M/W21 classes although...
+The post Senior Home International Declarations of Interest appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Opening Switzerland 2024: Maps and Results]]></title>
         <id>http://news.worldofo.com/?p=20065</id>
@@ -898,28 +909,6 @@ VICs selected for JWOC 2024 first appeared on Orienteering Victoria.]]></summary
 VIC Bush Series is here! Eppalock, 5th May first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Team 2024]]></title>
-        <id>https://orienteering.asn.au/?p=10833</id>
-        <link href="https://orienteering.asn.au/jwoc-team-2024/"/>
-        <updated>2024-04-27T23:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the team for the Junior World Championship team to be held in Plzen, Czechia from June 30-July 7 2024.
-JWOC Team 2024  first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>fredrikj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runing Through Bluebells]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5662</id>
-        <link href="https://www.niorienteering.org.uk/runing-through-bluebells/"/>
-        <updated>2024-04-27T22:50:06.000Z</updated>
-        <summary type="html"><![CDATA[After a glorious spring outing to Drum Manor Forest Park carpeted with bluebells, the results are now in and the Colour Series League table has been calculated. With just 2 events of the 2024 Colour Series now completed scores are looking pretty close in many...
-The post Runing Through Bluebells appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
