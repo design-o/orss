@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-28T06:10:05.163Z</updated>
+    <updated>2024-05-28T12:12:54.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Play Well Participation Grant]]></title>
+        <id>https://orienteering.asn.au/?p=11139</id>
+        <link href="https://orienteering.asn.au/play-well-participation-grant/"/>
+        <updated>2024-05-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia has received a Play Well Participation Grant from the ASC, with plans of using the funds for the Learn to Orienteer National Expansion project.
+Play Well Participation Grant first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries closing for the NI Sprint and Middles]]></title>
         <id>https://www.niorienteering.org.uk/?p=5751</id>
