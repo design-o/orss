@@ -676,16 +676,6 @@
           "wordCount": 1379,
           "title": "Results | 2024 Classic-O at Fry Family Park | May 5, 2024",
           "imageUrl": "https://neooc.com/wp-content/uploads/2020/08/Leg0123_Start_to_Control_03.png"
-        },
-        {
-          "id": "https://neooc.com/?p=47234",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2024 Tuscazoar Adventure Weekend | 4-hour Mini-rogaine | Saturday, May 25th",
-          "link": "https://neooc.com/new-event-2024-tuscazoar-adventure-weekend-4-hour-mini-rogaine-saturday-may-25th/",
-          "publishedOn": "2024-04-30T03:01:44.000Z",
-          "wordCount": 1363,
-          "title": "New Event | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2021/04/CT_Stockade.jpg"
         }
       ]
     },
@@ -694,6 +684,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53896",
+          "author": "louise",
+          "description": "The SOA runs an Accreditation scheme that allows clubs to be recognised for their achievements. Post COVID, the scheme was […]",
+          "link": "https://www.scottish-orienteering.org/news/focus-on-club-accreditation/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-club-accreditation",
+          "publishedOn": "2024-05-29T14:00:41.000Z",
+          "wordCount": 1723,
+          "title": "Focus on Club Accreditation",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/IMG_0175-5-1024x683.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=53871",
           "author": "nikkihoward",
