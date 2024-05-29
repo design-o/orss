@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71646",
+          "author": "Erling Thisted",
+          "description": "Poland is the host for this year’s CX80 World Cup first round, the European MTBO Championships, with four days of intense racing scheduled from Thursday to Sunday. 109 athletes from 20 nations will be striving for the medals. Almost all the top names in MTBO are entered, including all the defending European Champions except for […]",
+          "link": "https://orienteering.sport/cx80-emtboc-europes-mtbo-stars-gather-in-poland/",
+          "publishedOn": "2024-05-28T21:26:24.000Z",
+          "wordCount": 2056,
+          "title": "CX80 EMTBOC: Europe’s MTBO stars gather in Poland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2022/07/wmtboc2022_relay_mstart-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71595",
           "author": "Erling Thisted",
           "description": "The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]",
@@ -174,16 +184,6 @@
           "wordCount": 1824,
           "title": "Podcast: 10Mila preview with IOF TV expert commentator Jonas Merz",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/10mila_peterholgersson-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70597",
-          "author": "Erling Thisted",
-          "description": "This weekend, the forests near Nynäshamn in Sweden host this year’s 10Mila relays with close to 900 teams in total and more than 6000 athletes. Teams from 13 countries in total have registered to race. And you will be able to follow all three relays on IOF TV in both English and Finnish commentary. The […]",
-          "link": "https://orienteering.sport/follow-all-the-10mila-magic-on-iof-tv/",
-          "publishedOn": "2024-04-29T12:13:02.000Z",
-          "wordCount": 1986,
-          "title": "Follow all the 10Mila magic on IOF TV",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/10mila_peterholgersson-1024x682.jpg"
         }
       ]
     },
@@ -328,16 +328,6 @@
           "wordCount": 1353,
           "title": "Park Street Update: Events May 8-14",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13472",
-          "author": "Margi Freemantle",
-          "description": "Congratulations to Victorians Milla Key, Callum White and Sophie Taverna who have been selected to represent Australia at the Junior World Orienteering Championships (JWOC) to be held in Plzen, Czechia from June 30-July 7 2024.\nVICs selected for JWOC 2024 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vics-selected-for-jwoc-2024/",
-          "publishedOn": "2024-04-29T06:50:06.000Z",
-          "wordCount": 1058,
-          "title": "VICs selected for JWOC 2024",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -363,6 +353,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22067",
+          "author": "Steve Clelland",
+          "description": "Results – pdf Results – SPORTident This post will be updated tomorrow (29th May) with Routegadget, etc",
+          "link": "https://slow.org.uk/racereports/battersea-results-may24/",
+          "publishedOn": "2024-05-28T21:41:32.000Z",
+          "wordCount": 1999,
+          "title": "Battersea Park-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Battersea_race_pic_may2024.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=21969",
           "author": "vinh",
@@ -743,26 +743,6 @@
           "wordCount": 1612,
           "title": "Do you know someone who deserves the President’s medal?",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/organising.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53798",
-          "author": "suzannerb",
-          "description": "What was World Orienteering Day has morphed into World Orienteering Week, now with 9 glorious days, 18th – 28 May. […]",
-          "link": "https://www.scottish-orienteering.org/news/world-orienteering-week/?utm_source=rss&utm_medium=rss&utm_campaign=world-orienteering-week",
-          "publishedOn": "2024-04-29T10:41:52.000Z",
-          "wordCount": 1711,
-          "title": "World Orienteering Week",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/Dundee-families-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53800",
-          "author": "heidi",
-          "description": "Last weekend, Scottish Orienteering hosted the first of our three-part family coaching series at Balgay Park, Dundee. These sessions are […]",
-          "link": "https://www.scottish-orienteering.org/news/dundee-family-coaching-session-one-recap/?utm_source=rss&utm_medium=rss&utm_campaign=dundee-family-coaching-session-one-recap",
-          "publishedOn": "2024-04-29T10:01:47.000Z",
-          "wordCount": 1527,
-          "title": "Dundee Family Coaching: Session One Recap",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/04/IMG-8944-1024x768.jpg"
         }
       ]
     },
