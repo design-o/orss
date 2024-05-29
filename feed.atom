@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T00:34:17.467Z</updated>
+    <updated>2024-05-29T06:10:01.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -100,6 +100,15 @@ The post Senior Home International Declarations of Interest appeared first on NI
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13635</id>
+        <link href="https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/"/>
+        <updated>2024-05-26T02:05:51.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[World Cup: Knock-Out wins for Hadorn and Alexandersson]]></title>
         <id>https://orienteering.sport/?p=71514</id>
         <link href="https://orienteering.sport/world-cup-knock-out-wins-for-hadorn-and-alexandersson/"/>
@@ -118,6 +127,15 @@ The post Senior Home International Declarations of Interest appeared first on NI
 Orienteering Australia launches Orienteering Participation Plan! first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Victoria Annual General Meeting, Friday 31 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13637</id>
+        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-annual-general-meeting-friday-31-may/"/>
+        <updated>2024-05-25T02:12:46.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
