@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71721",
+          "author": "Erling Thisted",
+          "description": "We have only just said goodbye to Olten, Switzerland but it’s already time to continue the Orienteering World Cup in Genoa, Italy this weekend. Round 2 consists of a sprint on Saturday and a sprint relay on Sunday at the edge of the Mediterranean. And it is literally on the edge of the Mediterranean, since […]",
+          "link": "https://orienteering.sport/how-to-follow-orienteering-world-cup-round-2-in-italy/",
+          "publishedOn": "2024-05-30T09:51:32.000Z",
+          "wordCount": 1978,
+          "title": "How to follow Orienteering World Cup Round 2 in Italy",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/owc2024_r1_silvanschletti-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71694",
           "author": "Erling Thisted",
           "description": "Finland’s Tuomas Heikkilä leads the men’s World Cup, while Switzerland’s Natalia Gemperle and Simona Aebersold share first place in the women’s after this weekend’s Round 1 in Olten, Switzerland. Heikkilä had an impressive weekend with a third place in Saturday’s Knock-Out Sprint, which he followed up with a second place in the sprint the following […]",
@@ -257,6 +267,16 @@
           "publishedOn": "2024-05-25T02:12:46.000Z",
           "wordCount": 948,
           "title": "Orienteering Victoria Annual General Meeting, Friday 31 May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13388",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-2024/",
+          "publishedOn": "2024-05-22T01:48:27.000Z",
+          "wordCount": 1124,
+          "title": "MelBushO is Back!  Westerfolds Park South, Sunday 16 June",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -868,6 +888,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11150",
+          "author": "elizabethl",
+          "description": "The Australian Bushrangers representative team is announced, along with a preview of the terrain and map.\nAustralian Bushrangers Team and Preview first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/australian-bushrangers-team-and-preview/",
+          "publishedOn": "2024-05-30T09:00:00.000Z",
+          "wordCount": 2125,
+          "title": "Australian Bushrangers Team and Preview",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11139",
           "author": "elizabethl",

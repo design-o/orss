@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T06:10:16.560Z</updated>
+    <updated>2024-05-30T12:12:45.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to follow Orienteering World Cup Round 2 in Italy]]></title>
+        <id>https://orienteering.sport/?p=71721</id>
+        <link href="https://orienteering.sport/how-to-follow-orienteering-world-cup-round-2-in-italy/"/>
+        <updated>2024-05-30T09:51:32.000Z</updated>
+        <summary type="html"><![CDATA[We have only just said goodbye to Olten, Switzerland but it’s already time to continue the Orienteering World Cup in Genoa, Italy this weekend. Round 2 consists of a sprint on Saturday and a sprint relay on Sunday at the edge of the Mediterranean. And it is literally on the edge of the Mediterranean, since […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Bushrangers Team and Preview]]></title>
+        <id>https://orienteering.asn.au/?p=11150</id>
+        <link href="https://orienteering.asn.au/australian-bushrangers-team-and-preview/"/>
+        <updated>2024-05-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Australian Bushrangers representative team is announced, along with a preview of the terrain and map.
+Australian Bushrangers Team and Preview first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59685</id>
@@ -261,6 +282,15 @@ The post We’re hiring! first appeared on Orienteering in Ireland.]]></summary>
 Winners of NOL season 2024 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO is Back!  Westerfolds Park South, Sunday 16 June]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13388</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-2024/"/>
+        <updated>2024-05-22T01:48:27.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
