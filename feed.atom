@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T12:12:45.479Z</updated>
+    <updated>2024-05-30T18:10:44.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First CX80 EMTBOC golds to Denmark and Finland]]></title>
+        <id>https://orienteering.sport/?p=71734</id>
+        <link href="https://orienteering.sport/first-cx80-emtboc-golds-to-denmark-and-finland/"/>
+        <updated>2024-05-30T12:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and Samuel Pokala, Finland won today’s Sprint races in the CX80 European MTBO Championships in northern Poland, both by clear margins. Medals went to 5 nations on a warm sunny day in high-speed terrain. There were many changes in position as the races progressed, with opportunity in places for short-cuts off the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New athlete representatives at IOF Council]]></title>
+        <id>https://orienteering.sport/?p=71731</id>
+        <link href="https://orienteering.sport/new-athlete-representatives-at-iof-council/"/>
+        <updated>2024-05-30T12:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Eline Gemperle and Jonathan Ståhl are appointed by the newly elected IOF Athlete Representatives to represent the athletes at IOF Council in the upcoming General Assembly period, which starts after the IOF General Assembly 2024. The four elected Athlete Advisory Groups has appointed representatives to the new Athletes’ Commission  –  two members from each discipline: […]]]></summary>
+        <author>
+            <name>Sondre Sande Gullord</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to follow Orienteering World Cup Round 2 in Italy]]></title>
         <id>https://orienteering.sport/?p=71721</id>
