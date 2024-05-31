@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71760",
+          "author": "Clive",
+          "description": "The Long Distance medals were won by two favourites: Nikoline Splittorff, Denmark, winner of the Sprint yesterday, and Vojtech Ludvik, Czechia, leader of the IOF World Rankings. Both riders were in front at the mid-race time-check and made good route choices throughout on a day with good riding conditions. Splittorff, women’s World Ranking leader, is […]",
+          "link": "https://orienteering.sport/cx80-emtboc-long-distance-second-gold-for-denmark-first-for-czechia/",
+          "publishedOn": "2024-05-31T12:58:06.000Z",
+          "wordCount": 2086,
+          "title": "CX80 EMTBOC Long Distance: second gold for Denmark, first for Czechia",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_emtboc_vojtechstransky_long_jakubkijak-1024x683.jpeg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71734",
           "author": "Clive",
           "description": "Nikoline Splittorff, Denmark and Samuel Pokala, Finland won today’s Sprint races in the CX80 European MTBO Championships in northern Poland, both by clear margins. Medals went to 5 nations on a warm sunny day in high-speed terrain. There were many changes in position as the races progressed, with opportunity in places for short-cuts off the […]",
@@ -769,26 +779,6 @@
           "wordCount": 2682,
           "title": "ONZ Annual Awards | Presented at the NZ Orienteering Champs",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/Awards-combo-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=59562",
-          "author": "Christo Peters",
-          "description": "Planning is underway for an absolute treat of orienteering for Oceania 2025. You’ll most probably fly into Wellington and get to experience our coastal capital city with a harbour and countless beaches before you head into some forest terrain. We are still finalising the actual timing on the calendar year with our Australian mates. The first set of […]\nOceania 2025 Update | Lower North Island Region first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/orienteering-nz/updates/oceania-2025-update-lower-north-island-region/",
-          "publishedOn": "2024-05-02T05:53:54.000Z",
-          "wordCount": 2013,
-          "title": "Oceania 2025 Update | Lower North Island Region",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/Screenshot-651.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=59557",
-          "author": "Christo Peters",
-          "description": "The 2023 ONZ annual report is on the website providing an overview of our performance, o and activities during the past year. It is our own record of results and provides transparency and accountability regarding  our financial performance, governance practices, and strategic direction.  View it here\nOrienteering NZ annual report | 2023 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/orienteering-nz-annual-report-2023/",
-          "publishedOn": "2024-05-02T05:47:37.000Z",
-          "wordCount": 1951,
-          "title": "Orienteering NZ annual report | 2023",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/05/2023-Annual-report-cover.jpg"
         }
       ]
     },
@@ -824,6 +814,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=53917",
+          "author": "heidi",
+          "description": "Over the past few weeks Scottish Orienteering has been busy in Dundee. With the support of coach Matthew Clark (KFO) […]",
+          "link": "https://www.scottish-orienteering.org/news/family-coaching-in-dundee/?utm_source=rss&utm_medium=rss&utm_campaign=family-coaching-in-dundee",
+          "publishedOn": "2024-05-31T14:45:39.000Z",
+          "wordCount": 1579,
+          "title": "Family Coaching in Dundee",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/Dundee-JPEG-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=53896",
           "author": "louise",
@@ -998,6 +998,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11211",
+          "author": "elizabethl",
+          "description": "The Orienteering World Cup Round 2 in Genova, Italy begins this Saturday, 1 June.\nWorld Cup Round 2 Preview & Athlete Announcement first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-cup-round-2-preview-athlete-announcement/",
+          "publishedOn": "2024-05-31T11:29:30.000Z",
+          "wordCount": 2133,
+          "title": "World Cup Round 2 Preview & Athlete Announcement",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11150",
           "author": "elizabethl",
