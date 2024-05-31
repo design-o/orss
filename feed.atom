@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T18:10:44.203Z</updated>
+    <updated>2024-05-31T00:32:26.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -984,28 +984,6 @@ Oceania 2025 Update | Lower North Island Region first appeared on Orienteering 
         <updated>2024-05-02T05:47:37.000Z</updated>
         <summary type="html"><![CDATA[The 2023 ONZ annual report is on the website providing an overview of our performance, o and activities during the past year. It is our own record of results and provides transparency and accountability regarding  our financial performance, governance practices, and strategic direction.  View it here
 Orienteering NZ annual report | 2023 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Camp 2024 | Looking for a Lead Coach]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59552</id>
-        <link href="https://www.orienteering.org.nz/news/junior-camp-2024-looking-for-a-lead-coach/"/>
-        <updated>2024-05-01T08:01:42.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Junior Camp (Year 9-13) is being hosted by Orienteering Taranaki and is taking place in New Plymouth between Fri 13th and Wed 18th December 2024. Orienteering New Zealand would like to invite applications for the Junior Camp Manager position. This position is are voluntary in nature, although position holders will be reimbursed for their airfares (if outside New Plymouth), […]
-Junior Camp 2024 | Looking for a Lead Coach first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southern Cross Coach and Manager applications]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59548</id>
-        <link href="https://www.orienteering.org.nz/news/southern-cross-coach-and-manager-applications/"/>
-        <updated>2024-05-01T07:08:24.000Z</updated>
-        <summary type="html"><![CDATA[Coach and Manager Roles ONZ intends to send two national secondary school teams to compete for the Southern Cross Trophy held as part of the Australian Orienteering Festival. We are seeking expressions of interest for the coach and manager roles. With forty athletes taking part in two teams, we are looking for two to three coaches and two […]
-Southern Cross Coach and Manager applications first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
         </author>
