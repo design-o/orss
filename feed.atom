@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T18:08:56.293Z</updated>
+    <updated>2024-06-01T00:35:34.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sport Development Conference 2024]]></title>
+        <id>https://www.orienteering.ie/?p=17689</id>
+        <link href="https://www.orienteering.ie/sport-development-conference-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sport-development-conference-2024"/>
+        <updated>2024-05-31T21:35:30.000Z</updated>
+        <summary type="html"><![CDATA[The Operations Team travelled to Dublin this week to attend the annual Sport Development Conference. With over 270 Development Officers representing 75 sporting organisations, it was Sport Ireland’s largest Sport Development Conference yet. The conference is a fantastic networking opportunity for the NGBs and LSPs, and it enables Orienteering Ireland to meet the LSP team […]
+The post Sport Development Conference 2024 first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Family Coaching in Dundee]]></title>
         <id>https://www.scottish-orienteering.org/?p=53917</id>
@@ -930,192 +941,6 @@ Orienteering World Cup Nominations Reopen: Round 3 & 4 first appeared on Oriente
         <summary type="html"><![CDATA[The forest World Orienteering Championships in 2029 will take place in Örnskjoldsvik, Sweden. That was decided by IOF Council during a meeting on Friday. WOC 2029 will be the fifth World Championships taking place in Sweden – the most recent being WOC 2016 in Strömstad. Sweden also made a bid for the World Orienteering Championships […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prices are Falling]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5684</id>
-        <link href="https://www.niorienteering.org.uk/prices-are-falling/"/>
-        <updated>2024-05-02T07:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Membership prices for new members are now reduced for the remainder of the year, so if you have been thinking of joining now is a great time. Prices from 1 May are: Adult £16 (was £25) Young Adult £12 (was £20) Junior £6 (was £10)...
-The post Prices are Falling appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair Sullivan | April 2024]]></title>
-        <id>https://www.orienteering.org.nz/?p=59620</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-sullivan-april-2024/"/>
-        <updated>2024-05-02T07:33:20.000Z</updated>
-        <summary type="html"><![CDATA[How amazing was Nationals at Easter? Amazingis the answer! OBOP and Taupō Clubs excelled in hosting over 700 orienteers during the four-day event, providing challenging courses on demanding maps. It was a delight to experience the high-quality navigation, where losing contact with the map or concentration could result in significant mistakes. Our selectors have been busy choosing various […]
-View from the Chair Sullivan | April 2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King’s Birthday Weekend | Entries closing soon]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59614</id>
-        <link href="https://www.orienteering.org.nz/news/kings-birthday-weekend-entries-closing-soon/"/>
-        <updated>2024-05-02T07:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Entries for King’s Birthday Orienteering Champs closing soon!What do you need to know about Nelson Orienteering Club’s (NOC) King’s Birthday this year? •  All taking place on the way to and in stunning Golden Bay, one bay ‘over’ from Nelson;•  A compact, high quality orienteering weekend, with the first start on Saturday at 1PM, and […]
-King’s Birthday Weekend | Entries closing soon first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOC 2024  |  Australian Orienteering Championship Carnival]]></title>
-        <id>https://www.orienteering.org.nz/?p=59611</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/aoc-2024-australian-orienteering-championship-carnival/"/>
-        <updated>2024-05-02T07:22:58.000Z</updated>
-        <summary type="html"><![CDATA[The Armidale / Uralla region is the location for this years AOC from 28 September – 6 October 2024. It is a section of the Granite Belt which runs along the Great Dividing Range. The Granite Belt has played host to many State and National Championship events. The Australian Middle, Relay and Long Championships will […]
-AOC 2024  |  Australian Orienteering Championship Carnival first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Island Secondary School Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59602</id>
-        <link href="https://www.orienteering.org.nz/news/north-island-secondary-school-champs-2/"/>
-        <updated>2024-05-02T07:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Over Anzac weekend, North West Club hosted the North Island Secondary Schools Champs for 2024. 400 students from year 7 to year 13 lined up for the Sprint on Thursday afternoon at AUT Akoranga. Course Setter, Renee Beveridge, known for setting tricky, technical courses, made great use of the complex labyrinth of small classrooms that are […]
-North Island Secondary School Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taitonga South Island Champs  | Ōtepoti Dunedin]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59598</id>
-        <link href="https://www.orienteering.org.nz/news/taitonga-south-island-champs-otepoti-dunedin/"/>
-        <updated>2024-05-02T07:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Feedback from the event: “The weekend was like a three-course banquet -– three very different terrains, great courses wonderfully cooked up and served, and even a thoughtfully placed piece of warning tape marking some ongaonga in the middle of a kānuka stand!“ The long weekend started with the sprint on Anzac Day afternoon on a […]
-Taitonga South Island Champs  | Ōtepoti Dunedin first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer coach in residence  | Applications open]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59595</id>
-        <link href="https://www.orienteering.org.nz/news/summer-coach-in-residence-applications-open/"/>
-        <updated>2024-05-02T07:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Do you know of a coach who would enjoy coming to spend the Summer in South Island? This coming NZ Summer PAPO is offering a scholarship for a Coach in Residence. The scholarship is aimed at University aged orienteers from outside of New Zealand who are looking to improve their Orienteering and Coaching skills. (p.s. […]
-Summer coach in residence  | Applications open  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canterbury MTBO Weekend]]></title>
-        <id>https://www.orienteering.org.nz/?p=59590</id>
-        <link href="https://www.orienteering.org.nz/mtbo/canterbury-mtbo-weekend/"/>
-        <updated>2024-05-02T06:54:43.000Z</updated>
-        <summary type="html"><![CDATA[On the 13th April around 100 enthusiastic mountain bike orienteers gathered at Bottle Lake forest, north of Christchurch, to compete in PAPO’s first ever MTB ‘enduro’ orienteering event. In a format piloted by Central Otago Orienteers in 2023, the race consisted of a series of shorter MTBO courses linked together with untimed rides between maps. […]
-Canterbury MTBO Weekend  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian MTBO Champs |  Event information]]></title>
-        <id>https://www.orienteering.org.nz/?p=59587</id>
-        <link href="https://www.orienteering.org.nz/mtbo/australian-mtbo-champs-event-information/"/>
-        <updated>2024-05-02T06:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Australian MTBO Carnival and Championships 2024, 17-20 October in Canberra BULLETIN 2 is now ready here:https://bit.ly/AUSMTBO24-Bull2 Accommodation partner:Alivio Tourist Park became a Carnival Accommodation Partner and for all interstate and overseas participants they provide a 15% discount. Min booking 2 nights and offer is available for all MTBOers from April until November. Please use an exclusive code “MTBO” while […]
-Australian MTBO Champs |  Event information first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: 10Mila preview with IOF TV expert commentator Jonas Merz]]></title>
-        <id>https://orienteering.sport/?p=70607</id>
-        <link href="https://orienteering.sport/podcast-10mila-preview-with-iof-tv-expert-commentator-jonas-merz/"/>
-        <updated>2024-05-02T06:44:52.000Z</updated>
-        <summary type="html"><![CDATA[This weekend, the prestigious 10Mila relays take place in Nynäshamn in eastern Sweden with more than 6000 athletes. IOF TV airs all three relays – Youth, Women’s and 10Mila – from Saturday afternoon and until Sunday before noon, when the Women’s relay is decided. Go to IOF TV In this episode of the IOF Podcast, […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auckland Regional Events |  Relay & Forest Events]]></title>
-        <id>https://www.orienteering.org.nz/?p=59584</id>
-        <link href="https://www.orienteering.org.nz/schools/auckland-regional-events-relay-forest-events/"/>
-        <updated>2024-05-02T06:43:26.000Z</updated>
-        <summary type="html"><![CDATA[The transition to forest orienteering begins in Term 2. Competition events can feel a little daunting. There is support available at the forest event on 12 May, in Woodhill Forest with experienced senior secondary school students around to help you out and get you started. Send an email detailing your name, age and where you live, […]
-Auckland Regional Events |  Relay & Forest Events first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manawatū school champs  |  Entries closing soon]]></title>
-        <id>https://www.orienteering.org.nz/?p=59581</id>
-        <link href="https://www.orienteering.org.nz/schools/manawatu-school-champs-entries-closing-soon/"/>
-        <updated>2024-05-02T06:39:31.000Z</updated>
-        <summary type="html"><![CDATA[The Manawatu Schools Champs is Friday, 10 May, a reminder that all entries are due by Friday 3 May. Be sure to work with your sport teachers as registrations are through Schools via the RedKiwi website. Any questions? Please email red.kiwi.o@gmail.com Register here
-Manawatū school champs  |  Entries closing soon first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southland schools  |  Entries close 13 May]]></title>
-        <id>https://www.orienteering.org.nz/?p=59578</id>
-        <link href="https://www.orienteering.org.nz/schools/southland-schools-entries-close-13-may/"/>
-        <updated>2024-05-02T06:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Your school sports coordinator will have received the info for entering the 2024 Southland Schools Orienteering Champs. This is open for beginners too, and you can enter in pairs or on your own, so don’t be afraid to give it a go! It’s only $10 per entry (pairs will pay a fiver each). Entries are […]
-Southland schools  |  Entries close 13 May first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zespri AIMS Games  |  Is your school registered?]]></title>
-        <id>https://www.orienteering.org.nz/?p=59575</id>
-        <link href="https://www.orienteering.org.nz/junior-2/zespri-aims-games-is-your-school-registered/"/>
-        <updated>2024-05-02T06:34:08.000Z</updated>
-        <summary type="html"><![CDATA[The Zespri AIMS Games is Australasia’s largest junior sporting event, held annually in Tauranga Moana. It gives 11, 12 & 13 year olds an opportunity to compete with  invited countries and fellow kiwi kids in  27 codes or sports. This is the first year that orienteering will be included in AIMS games, so it is […]
-Zespri AIMS Games  |  Is your school registered? first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get to know Marcus Diprose  |  Incoming ONZ Board Member]]></title>
-        <id>https://www.orienteering.org.nz/?p=59572</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/get-to-know-marcus-diprose-incoming-onz-board-member/"/>
-        <updated>2024-05-02T06:20:12.000Z</updated>
-        <summary type="html"><![CDATA[We thank Magnus Bengtsson for his position on the board for the past 6 years. Marcus put his name forward and was offered a position on the board.  1. When did you join a club? What motivated you to join an orienteering club?I believe I joined OBOP around 2007, but I was orienteering before that by running in the Auckland […]
-Get to know Marcus Diprose  |  Incoming ONZ Board Member first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controller’s Clinic  |  Taranaki]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59569</id>
-        <link href="https://www.orienteering.org.nz/news/controllers-clinic-taranaki/"/>
-        <updated>2024-05-02T06:14:09.000Z</updated>
-        <summary type="html"><![CDATA[FREE! Join us for a two-day controllers clinic with practical field exercises on local maps for the weekend of Saturday and Sunday 18-19 May (9:00am to approx 3:30pm each day) at New Plymouth Girls High School. Open to all club members involved in event organisation – the aim to certify qualified controllers. Alister Metherell, from […]
-Controller’s Clinic  |  Taranaki  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONZ Annual Awards | Presented at the NZ Orienteering Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59565</id>
-        <link href="https://www.orienteering.org.nz/news/onz-annual-awards-presented-at-the-nz-orienteering-champs/"/>
-        <updated>2024-05-02T06:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to our award winners this year. Here is the list of those announced at the prizegiving evening during the 2024 New Zealand Orienteering championships in Rotorua, Bay of Plenty this year.  Life Membership  |   Malcolm Ingham (RK)  Services to ONZ Award   |  Peter Swanson (OBOP)  Administrator of the Year Award  | Lisa Mead (NW) For her tireless work […]
-ONZ Annual Awards | Presented at the NZ Orienteering Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
