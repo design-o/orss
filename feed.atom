@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T06:09:00.344Z</updated>
+    <updated>2024-06-01T12:11:33.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Tooting Commons, Tuesday 11th June]]></title>
+        <id>https://slow.org.uk/?p=22047</id>
+        <link href="https://slow.org.uk/events/park-tooting-june24/"/>
+        <updated>2024-06-01T10:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Come and join us for the forth race of London 2024 Park Series at Tooting Commons on Tuesday 11th June 2024. Discover this beautiful common [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATHLETE INTERVIEW WITH ALVIN CRAIG]]></title>
+        <id>https://orienteering.asn.au/?p=11178</id>
+        <link href="https://orienteering.asn.au/athlete-interview-with-alvin-craig/"/>
+        <updated>2024-06-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This month's athlete interview features Alvin Craig, one of our best juniors in Australia.
+ATHLETE INTERVIEW WITH ALVIN CRAIG first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sport Development Conference 2024]]></title>
         <id>https://www.orienteering.ie/?p=17689</id>
