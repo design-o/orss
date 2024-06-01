@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T12:11:33.942Z</updated>
+    <updated>2024-06-01T18:08:26.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Aebersold and Fosser take huge margin wins in Genoa]]></title>
+        <id>https://orienteering.sport/?p=71882</id>
+        <link href="https://orienteering.sport/world-cup-aebersold-and-fosser-take-huge-margin-wins-in-genoa/"/>
+        <updated>2024-06-01T17:32:52.000Z</updated>
+        <summary type="html"><![CDATA[Simona Aebersold (SUI) and Kasper Fosser (NOR) won today’s Orienteering World Cup sprint in Genoa, Italy by large margins. With an arena beautifully located on the waterfront in Genoa’s western end and a both varied and challenging sprint course, Round 2 of the World Cup got off to a great start. Both the women’s and […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Tooting Commons, Tuesday 11th June]]></title>
         <id>https://slow.org.uk/?p=22047</id>
