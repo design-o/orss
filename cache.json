@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71895",
+          "author": "Clive",
+          "description": "Finns Ruska Saarela and André Haga were the stars of the show in the Middle race, both adding a gold medal to a bronze won earlier in the championships. It was a good day too for Lithuania with two silver medals. The course was the most technical of the championships so far, with short and […]",
+          "link": "https://orienteering.sport/cx80-emtboc-middle-distance-double-triumph-for-finland/",
+          "publishedOn": "2024-06-02T06:37:34.000Z",
+          "wordCount": 2107,
+          "title": "CX80 EMTBOC Middle Distance: double triumph for Finland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/middle-womens-flower-ceremony-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71882",
           "author": "Erling Thisted",
           "description": "Simona Aebersold (SUI) and Kasper Fosser (NOR) won today’s Orienteering World Cup sprint in Genoa, Italy by large margins. With an arena beautifully located on the waterfront in Genoa’s western end and a both varied and challenging sprint course, Round 2 of the World Cup got off to a great start. Both the women’s and […]",
@@ -976,16 +986,6 @@
           "publishedOn": "2024-05-06T09:00:00.000Z",
           "wordCount": 2083,
           "title": "2024 NOL Presentation Dinner Registration",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=10870",
-          "author": "elizabethl",
-          "description": "OA is reopening nominations to represent Australia in rounds 3 and 4 of the World Cup. Nominations close 19 May at 11:59pm.\nOrienteering World Cup Nominations Reopen: Round 3 & 4 first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/orienteering-world-cup-nominations-reopen/",
-          "publishedOn": "2024-05-03T23:52:03.000Z",
-          "wordCount": 2266,
-          "title": "Orienteering World Cup Nominations Reopen: Round 3 & 4",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T06:10:20.775Z</updated>
+    <updated>2024-06-02T12:11:02.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 EMTBOC Middle Distance: double triumph for Finland]]></title>
+        <id>https://orienteering.sport/?p=71895</id>
+        <link href="https://orienteering.sport/cx80-emtboc-middle-distance-double-triumph-for-finland/"/>
+        <updated>2024-06-02T06:37:34.000Z</updated>
+        <summary type="html"><![CDATA[Finns Ruska Saarela and André Haga were the stars of the show in the Middle race, both adding a gold medal to a bronze won earlier in the championships. It was a good day too for Lithuania with two silver medals. The course was the most technical of the championships so far, with short and […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup: Aebersold and Fosser take huge margin wins in Genoa]]></title>
         <id>https://orienteering.sport/?p=71882</id>
@@ -951,17 +961,6 @@ Full WOC Team Named first appeared on Orienteering New Zealand.]]></summary>
         <updated>2024-05-04T01:41:54.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering World Cup Nominations Reopen: Round 3 & 4]]></title>
-        <id>https://orienteering.asn.au/?p=10870</id>
-        <link href="https://orienteering.asn.au/orienteering-world-cup-nominations-reopen/"/>
-        <updated>2024-05-03T23:52:03.000Z</updated>
-        <summary type="html"><![CDATA[OA is reopening nominations to represent Australia in rounds 3 and 4 of the World Cup. Nominations close 19 May at 11:59pm.
-Orienteering World Cup Nominations Reopen: Round 3 & 4 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
