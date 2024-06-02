@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71921",
+          "author": "Erling Thisted",
+          "description": "Switzerland won the first international sprint relay in 2024, when they were the first to cross the finish line after a nerve-wracking final at the Orienteering World Cup round in Genoa. Finland and Czechia continued to impress by taking second and third place respectively. Strong start Switzerland came out strong in the sun-drenched Nervi Park, […]",
+          "link": "https://orienteering.sport/world-cup-switzerland-won-nail-biting-sprint-relay/",
+          "publishedOn": "2024-06-02T15:47:10.000Z",
+          "wordCount": 2081,
+          "title": "World Cup: Switzerland won nail-biting Sprint Relay",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/2024_owcr2_sprintrelay-1024x681.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71895",
           "author": "Clive",
           "description": "Finns Ruska Saarela and André Haga were the stars of the show in the Middle race, both adding a gold medal to a bronze won earlier in the championships. It was a good day too for Lithuania with two silver medals. The course was the most technical of the championships so far, with short and […]",
@@ -398,16 +408,6 @@
           "wordCount": 1036,
           "title": "A great day out at Eppalock – VIC Series 1",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2024-05-04T01:41:54.000Z",
-          "wordCount": 1353,
-          "title": "Park Street Update: Events May 8-14",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -791,6 +791,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5753",
+          "author": "NIOA Secretary",
+          "description": "Wilbert Hollinger was awarded the Colin Henderson Trophy for Services to Northern Ireland Orienteering. Wilbert was not present to receive the trophy at the AGM of NI Orienteering, because as planner of the NI Middle Distance Championships which followed the meeting, he was out in...\nThe post Wilbert Hollinger awarded Colin Henderson Trophy appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/wilbert-hollinger-awarded-colin-henderson-trophy/",
+          "publishedOn": "2024-06-02T12:48:30.000Z",
+          "wordCount": 4339,
+          "title": "Wilbert Hollinger awarded Colin Henderson Trophy",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/06/IMG_7727.jpeg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5751",
           "author": "NIOA Secretary",
