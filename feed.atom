@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T18:09:14.747Z</updated>
+    <updated>2024-06-03T00:34:07.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -394,6 +394,15 @@ The post Senior Home International Declarations of Interest appeared first on NI
         <summary type="html"><![CDATA[The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update: Events May 29-June 3, including the Croydon Hills Enduro]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2024-05-26T02:41:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -962,17 +971,6 @@ The post NI Colour Series 3 appeared first on NI Orienteering Association.]]></s
 2024 NOL Presentation Dinner Registration first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full WOC Team Named]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59635</id>
-        <link href="https://www.orienteering.org.nz/news/full-woc-team-named/"/>
-        <updated>2024-05-04T09:39:52.000Z</updated>
-        <summary type="html"><![CDATA[The following athletes have been selected to represent New Zealand at the World Orienteering Championships in Edinburgh, Scotland 12th – 16th July: Men Nathan Borton – Auckland Ronan Lee – Hawkes Bay Joseph Lynch – Canterbury Tim Robertson – Wellington Women Lizzie Ingham – Wellington Laura Robertson – Wellington Briana Steven – Canterbury Zara Stewart […]
-Full WOC Team Named first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
