@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71930",
+          "author": "Clive",
+          "description": "Czechia took the gold medals in a tightly contested Sprint Relay, with Krystof Bogar finishing just a couple of metres ahead of André Haga, Finland after being 5 seconds ahead at the spectator passage with 2 km to go. Bronze medallists were Italy. Sprint Relay mass start  Photos: Jakub Kijak / MoonLine Media On the […]",
+          "link": "https://orienteering.sport/cx80-emtboc-sprint-relay-czechia-wins-exciting-sprint-finish/",
+          "publishedOn": "2024-06-03T06:02:28.000Z",
+          "wordCount": 2043,
+          "title": "CX80 EMTBOC Sprint Relay – Czechia wins exciting sprint finish",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/relay-after-start-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71921",
           "author": "Erling Thisted",
           "description": "Switzerland won the first international sprint relay in 2024, when they were the first to cross the finish line after a nerve-wracking final at the Orienteering World Cup round in Genoa. Finland and Czechia continued to impress by taking second and third place respectively. Strong start Switzerland came out strong in the sun-drenched Nervi Park, […]",
@@ -253,6 +263,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20082",
+          "author": "Jan Kocbach",
+          "description": "From flat and relatively easy orienteering in the first World Cup round on Swiss ground, to tricky, hilly orienteering in the second World Cup round in Geona, Italy. Victories went to Simona Aebersold (Switzerland) and Kasper Fosser (Norway) in the individual Sprint, while Switzerland won the Sprint Relay. With more varied orienteering, other nations managed to ...",
+          "link": "https://news.worldofo.com/2024/06/03/world-cup-italy-2024-maps-results-splits-analysis-illustrations/",
+          "publishedOn": "2024-06-03T03:00:53.000Z",
+          "wordCount": 2586,
+          "title": "World Cup Italy 2024: Maps, Results & Splits analysis illustrations",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/06/sprint_women-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20065",
           "author": "Jan Kocbach",
           "description": "Sweden and Switzerland dominated the first World Cup weekend of 2024 in Olten, Switzerland – taking two victories each – but with four different winners. Tove Alexandersson (Sweden) and Joey Hadorn (Switzerland) took the victories on the KO-Sprint while Natalia Gemperle (Switzerland) and Emil Svensk (Sweden) took the victories on Sunday’s individual sprint. While the ...",
@@ -279,6 +299,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13674",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/millennium-club-milestones-new-hall-of-fame-member-and-touring-legend/",
+          "publishedOn": "2024-05-30T02:43:20.000Z",
+          "wordCount": 1048,
+          "title": "Millennium Club Milestones – New Hall of Fame Member and Touring Legend",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13630",
           "author": "Debbie Dodd",
