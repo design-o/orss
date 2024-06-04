@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T18:09:49.918Z</updated>
+    <updated>2024-06-04T00:33:04.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Regulations IOF Independent Athlete Status]]></title>
+        <id>https://orienteering.sport/?p=71939</id>
+        <link href="https://orienteering.sport/regulations-iof-independent-athlete-status/"/>
+        <updated>2024-06-03T22:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Regulations for IOF Independent Athlete Status are now published, following the decision from IOF Council to open up for independent athlete participation in World Ranking Events. 1 July 2024 is the first possibility to be granted IIA Status. Following consultation with the Member Federations and IOF Athlete Representatives through the first quarter of 2024, the […]]]></summary>
+        <author>
+            <name>Sondre Sande Gullord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CX80 MTBO World Cup: Splittorff and Haga lead after first round]]></title>
+        <id>https://orienteering.sport/?p=71944</id>
+        <link href="https://orienteering.sport/cx80-mtbo-world-cup-splittorff-and-haga-lead-after-first-round/"/>
+        <updated>2024-06-03T19:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and André Haga, Finland top the CX80 World Cup standings after the first round, the European Championships just held at Ostróda in northern Poland. Splittorff won two individual gold medals, and Haga one gold and one bronze. World Cup leader Nikoline Splittorff, Denmark   Photos: Jakub Kijak / MoonLine Media The top six […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A successful 2024 Scottish Championships]]></title>
         <id>https://www.scottish-orienteering.org/?p=53923</id>
