@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T12:13:07.895Z</updated>
+    <updated>2024-06-05T18:09:05.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 AGM Booklet published]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54002</id>
+        <link href="https://www.scottish-orienteering.org/news/2024-agm-booklet-published/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2024-agm-booklet-published"/>
+        <updated>2024-06-05T16:12:51.000Z</updated>
+        <summary type="html"><![CDATA[The SOA AGM will take place on 24th June online at 7pm. Today we have published the AGM booklet in […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capercaillie breeding season awareness]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53991</id>
+        <link href="https://www.scottish-orienteering.org/news/capercaillie-breeding-season-awareness/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=capercaillie-breeding-season-awareness"/>
+        <updated>2024-06-05T15:22:04.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Orienteering Association has previously entered into an agreement with the Capercaillie Project that areas which are sensitive for […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WORLD CUP ROUND 2 NEWS RECAP]]></title>
         <id>https://orienteering.asn.au/?p=11289</id>
