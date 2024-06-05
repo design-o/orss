@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T18:09:30.753Z</updated>
+    <updated>2024-06-05T00:32:54.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1029,17 +1029,6 @@ The post NI Colour Series 3 appeared first on NI Orienteering Association.]]></s
         <summary type="html"><![CDATA[Results of the 2024 Classic-O at Fry Family Park have been posted!]]></summary>
         <author>
             <name>Michael Avery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 NOL Presentation Dinner Registration]]></title>
-        <id>https://orienteering.asn.au/?p=10882</id>
-        <link href="https://orienteering.asn.au/2024-nol-presentation-dinner-registration/"/>
-        <updated>2024-05-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A reminder to enter for the 2024 NOL presentation dinner on Saturday 18 May in Canberra. Entries close 12 May.
-2024 NOL Presentation Dinner Registration first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
