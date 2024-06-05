@@ -551,6 +551,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?p=59766",
+          "author": "Christo Peters",
+          "description": "The Great Forest Rogaine is back for 2024 – starting from a new mystery location but still promising an awesome day out in Whakarewarewa Forest! 3 and 6 hour rogaine events with Foot and MTB options.  Get together a group of friends or family for a great adventure – you are guaranteed to go places […]\nGFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/uncategorized/gfr-2024-great-forest-rogaine/",
+          "publishedOn": "2024-06-05T01:34:13.000Z",
+          "wordCount": 2027,
+          "title": "GFR 2024 | Great Forest Rogaine",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/GFRogaine_WebBanner24-1.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?p=59727",
           "author": "Christo Peters",
           "description": "After a flurry of team selections in the last few months we are now seeing the first of the New Zealand teams represent us overseas with the Orienteering World Cup races in Olten Switzerland. As I write the individual sprints are shortly about to take place. International races coming up include World Cup round 2 […]\nView from the Chair | May 2024 first appeared on Orienteering New Zealand.",
@@ -716,16 +726,6 @@
           "wordCount": 1302,
           "title": "CANCELLED | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=47253",
-          "author": "Michael Avery",
-          "description": "Results of the 2024 Classic-O at Fry Family Park have been posted!",
-          "link": "https://neooc.com/results-2024-classic-o-at-fry-family-park-may-5-2024/",
-          "publishedOn": "2024-05-06T14:25:52.000Z",
-          "wordCount": 1379,
-          "title": "Results | 2024 Classic-O at Fry Family Park | May 5, 2024",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2020/08/Leg0123_Start_to_Control_03.png"
         }
       ]
     },
