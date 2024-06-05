@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T06:10:10.921Z</updated>
+    <updated>2024-06-05T12:13:07.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WORLD CUP ROUND 2 NEWS RECAP]]></title>
+        <id>https://orienteering.asn.au/?p=11289</id>
+        <link href="https://orienteering.asn.au/world-cup-round-2-news-recap/"/>
+        <updated>2024-06-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[World Cup Round 2 had an individual sprint and relay sprint. See how our athletes performed in Genova, Italy.
+WORLD CUP ROUND 2 NEWS RECAP first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial selections made for the Scotland team at the 2024 Senior Home Internationals]]></title>
+        <id>https://www.scottish-orienteering.org/?p=53989</id>
+        <link href="https://www.scottish-orienteering.org/news/initial-selections-made-for-the-scotland-team-at-the-2024-senior-home-internationals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=initial-selections-made-for-the-scotland-team-at-the-2024-senior-home-internationals"/>
+        <updated>2024-06-05T07:56:54.000Z</updated>
+        <summary type="html"><![CDATA[As per the selection policy, the SOA has made some early selections for the team to represent Scotland at the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GFR 2024 | Great Forest Rogaine]]></title>
         <id>https://www.orienteering.org.nz/?p=59766</id>

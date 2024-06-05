@@ -735,6 +735,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=53989",
+          "author": "nikkihoward",
+          "description": "As per the selection policy, the SOA has made some early selections for the team to represent Scotland at the […]",
+          "link": "https://www.scottish-orienteering.org/news/initial-selections-made-for-the-scotland-team-at-the-2024-senior-home-internationals/?utm_source=rss&utm_medium=rss&utm_campaign=initial-selections-made-for-the-scotland-team-at-the-2024-senior-home-internationals",
+          "publishedOn": "2024-06-05T07:56:54.000Z",
+          "wordCount": 1514,
+          "title": "Initial selections made for the Scotland team at the 2024 Senior Home Internationals",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=53923",
           "author": "nikkihoward",
           "description": "25th and 26th May saw another successful Scottish Individual and Relay Championship weekend hosted by Inverness Orienteering Club (INVOC), Badenoch […]",
@@ -938,6 +948,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11289",
+          "author": "elizabethl",
+          "description": "World Cup Round 2 had an individual sprint and relay sprint. See how our athletes performed in Genova, Italy.\nWORLD CUP ROUND 2 NEWS RECAP first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-cup-round-2-news-recap/",
+          "publishedOn": "2024-06-05T08:00:00.000Z",
+          "wordCount": 2108,
+          "title": "WORLD CUP ROUND 2 NEWS RECAP",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11178",
           "author": "elizabethl",
