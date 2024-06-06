@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T18:09:05.167Z</updated>
+    <updated>2024-06-06T00:33:16.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1061,16 +1061,6 @@ Selection Notice | 2024 ANZ MTBO Challenge first appeared on Orienteering New Ze
 The post NI Colour Series 3 appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>admin-finlay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A first! Live TV from Trail Orienteering]]></title>
-        <id>https://orienteering.sport/?p=70634</id>
-        <link href="https://orienteering.sport/a-first-live-tv-from-trail-orienteering/"/>
-        <updated>2024-05-07T10:05:32.000Z</updated>
-        <summary type="html"><![CDATA[The TempO Final at the European TrailO Championships (ETOC) will be televised on Finnish TV and IOF TV as it takes place around the Paavo Nurmi stadium in Turku, Finland on Sunday afternoon, 12th May. This is a first for TrailO, with the whole orienteering world now able to experience the tension and excitement as […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
