@@ -428,16 +428,6 @@
           "wordCount": 1247,
           "title": "Ballarat Classics – Tipperary Springs, Sunday 19 May",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13492",
-          "author": "Debbie Dodd",
-          "description": "Entries close this Friday May 10, for the 2024 Secondary Schools Champs at Brimbank Park\nRace For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/race-for-your-school-victorian-secondary-schools-orienteering-champs-24-may-brimbank-park/",
-          "publishedOn": "2024-05-09T02:47:03.000Z",
-          "wordCount": 1877,
-          "title": "Race For Your School! Victorian Secondary Schools Orienteering Champs, 24 May, Brimbank Park",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -918,6 +908,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11309",
+          "author": "elizabethl",
+          "description": "Australian Bushrangers visited NZ for an exciting weekend filled with thrilling and challenging orienteering.\nBushrangers Results and Recap first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/bushrangers-results-and-recap/",
+          "publishedOn": "2024-06-07T13:46:44.000Z",
+          "wordCount": 2213,
+          "title": "Bushrangers Results and Recap",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11289",
           "author": "elizabethl",
