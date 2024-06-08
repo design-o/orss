@@ -646,18 +646,7 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": [
-        {
-          "id": "https://neooc.com/?p=47282",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "CANCELLED – click for details 2024 Tuscazoar Adventure Weekend | 4-hour Mini-rogaine | Saturday, May 25th",
-          "link": "https://neooc.com/cancelled-2024-tuscazoar-adventure-weekend-4-hour-mini-rogaine-saturday-may-25th/",
-          "publishedOn": "2024-05-09T22:55:46.000Z",
-          "wordCount": 1302,
-          "title": "CANCELLED | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Scottish Orienteering Association",

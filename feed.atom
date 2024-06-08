@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T06:08:59.260Z</updated>
+    <updated>2024-06-08T12:11:12.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -997,16 +997,6 @@ Actions required by clubs to comply with the Incorporated Societies Act 2022 fir
         <summary type="html"><![CDATA[Aaron Gaio, Italy and Svein Jakobsen, Norway were the overall winners of the O and P classes respectively after the second day of competition on a cold, sunny and windy day in Turku, Finland. Open class medal winners   Photos: Jari Grönroos Gaio along with Geir Myhr Øien, Norway were the only two competitors to achieve […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CANCELLED | 2024 Tuscazoar Adventure Weekend | 4-hour Mini-Rogaine | Saturday, May 25th]]></title>
-        <id>https://neooc.com/?p=47282</id>
-        <link href="https://neooc.com/cancelled-2024-tuscazoar-adventure-weekend-4-hour-mini-rogaine-saturday-may-25th/"/>
-        <updated>2024-05-09T22:55:46.000Z</updated>
-        <summary type="html"><![CDATA[CANCELLED – click for details 2024 Tuscazoar Adventure Weekend | 4-hour Mini-rogaine | Saturday, May 25th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
