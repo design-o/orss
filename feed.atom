@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T06:09:35.239Z</updated>
+    <updated>2024-06-09T12:12:11.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Walpole & Lammas Parks, 2nd July]]></title>
+        <id>https://slow.org.uk/?p=22103</id>
+        <link href="https://slow.org.uk/events/park-race-walpole-lammas-parks-2nd-july/"/>
+        <updated>2024-06-09T10:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Come to Ealing on Tuesday 2nd July 2024. and join us for the seventh race of London 2024 Park Series. Run on a new map [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World University Orienteering Championships Team Announced]]></title>
+        <id>https://orienteering.asn.au/?p=11319</id>
+        <link href="https://orienteering.asn.au/world-university-orienteering-championships-team-announced/"/>
+        <updated>2024-06-09T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the following athletes have been selected to compete at the World University Orienteering Championships in Bankso, Bulgaria from 1-5 August, 2024.
+World University Orienteering Championships Team Announced first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bushrangers Results and Recap]]></title>
         <id>https://orienteering.asn.au/?p=11309</id>
@@ -985,16 +1006,6 @@ Actions required by clubs to comply with the Incorporated Societies Act 2022 fir
         <link href="https://orienteering.sport/european-trailo-championships-success-for-norway-and-czechia-in-relay/"/>
         <updated>2024-05-11T18:59:30.000Z</updated>
         <summary type="html"><![CDATA[Norway and Czechia emerged as winners of the two relay classes, O and P; the six sets of medals awarded today go to teams from six different nations. All competitors completed a PreO course of 16 controls followed by two TempO stations, and the third-leg athlete had an additional TempO control at the end, in […]]]></summary>
-        <author>
-            <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European TrailO Championships: PreO gold medals to Italy and Norway]]></title>
-        <id>https://orienteering.sport/?p=70682</id>
-        <link href="https://orienteering.sport/european-trailo-championships-preo-gold-medals-to-italy-and-norway/"/>
-        <updated>2024-05-10T19:49:47.000Z</updated>
-        <summary type="html"><![CDATA[Aaron Gaio, Italy and Svein Jakobsen, Norway were the overall winners of the O and P classes respectively after the second day of competition on a cold, sunny and windy day in Turku, Finland. Open class medal winners   Photos: Jari Grönroos Gaio along with Geir Myhr Øien, Norway were the only two competitors to achieve […]]]></summary>
         <author>
             <name>Clive</name>
         </author>

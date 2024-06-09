@@ -244,16 +244,6 @@
           "wordCount": 1898,
           "title": "European TrailO Championships: success for Norway and Czechia in Relay",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/etoc2024_preo_day1-1024x603.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70682",
-          "author": "Clive",
-          "description": "Aaron Gaio, Italy and Svein Jakobsen, Norway were the overall winners of the O and P classes respectively after the second day of competition on a cold, sunny and windy day in Turku, Finland. Open class medal winners   Photos: Jari Grönroos Gaio along with Geir Myhr Øien, Norway were the only two competitors to achieve […]",
-          "link": "https://orienteering.sport/european-trailo-championships-preo-gold-medals-to-italy-and-norway/",
-          "publishedOn": "2024-05-10T19:49:47.000Z",
-          "wordCount": 1912,
-          "title": "European TrailO Championships: PreO gold medals to Italy and Norway",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/etoc_2024_logo.gif"
         }
       ]
     },
@@ -453,6 +443,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22103",
+          "author": "Paul Street",
+          "description": "Come to Ealing on Tuesday 2nd July 2024. and join us for the seventh race of London 2024 Park Series. Run on a new map [...]",
+          "link": "https://slow.org.uk/events/park-race-walpole-lammas-parks-2nd-july/",
+          "publishedOn": "2024-06-09T10:03:50.000Z",
+          "wordCount": 2519,
+          "title": "Park Race – Walpole & Lammas Parks, 2nd July",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/park-race-walpole-lammas-parks-2nd-july/files/GroveE.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22047",
           "author": "vinh",
@@ -887,6 +887,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11319",
+          "author": "elizabethl",
+          "description": "Orienteering Australia is pleased to announce the following athletes have been selected to compete at the World University Orienteering Championships in Bankso, Bulgaria from 1-5 August, 2024.\nWorld University Orienteering Championships Team Announced first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-university-orienteering-championships-team-announced/",
+          "publishedOn": "2024-06-09T09:30:00.000Z",
+          "wordCount": 2206,
+          "title": "World University Orienteering Championships Team Announced",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11309",
           "author": "elizabethl",
