@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T06:11:41.556Z</updated>
+    <updated>2024-06-10T12:12:55.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NZSSOC map change – Long distance event]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59786</id>
+        <link href="https://www.orienteering.org.nz/news/nzssoc-map-change-long-distance-event/"/>
+        <updated>2024-06-10T10:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Change in venue for NZ Secondary School Orienteering Championships – Long distance event. Orienteering Wellington has made the decision to relocate the Long Distance event for the NZ Secondary School Orienteering Championships. Originally planned to take place near Porirua, the event will now be held at the Hydrabad map in Waitarere Beach. Waitarere Beach is […]
+NZSSOC map change – Long distance event first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban Planning]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5758</id>
+        <link href="https://www.niorienteering.org.uk/urban-planning/"/>
+        <updated>2024-06-10T08:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Urban orienteering has relaunched in 2024  Following the first event in Enniskillen on 28 April, we have two events in June. Sunday afternoon 16 June at Craigavon. All the details are on the LVO website with entries at SI Entries. Friday evening 21 June at...
+The post Urban Planning appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Advisers’ Clinic in Canada from August 12-13]]></title>
+        <id>https://orienteering.sport/?p=71977</id>
+        <link href="https://orienteering.sport/71977-2/"/>
+        <updated>2024-06-10T07:15:24.000Z</updated>
+        <summary type="html"><![CDATA[IOF’s FootO Commission organise an Event Advisers’ Clinic in Ottawa, Canada from August 12-13, 2024. The Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Deadline for entries is June 30th. Go to the full invitation here.]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Walpole & Lammas Parks, 2nd July]]></title>
         <id>https://slow.org.uk/?p=22103</id>
@@ -998,16 +1030,6 @@ The New ONZ Levy System | How to report events first appeared on Orienteering Ne
 Actions required by clubs to comply with the Incorporated Societies Act 2022 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European TrailO Championships: success for Norway and Czechia in Relay]]></title>
-        <id>https://orienteering.sport/?p=70686</id>
-        <link href="https://orienteering.sport/european-trailo-championships-success-for-norway-and-czechia-in-relay/"/>
-        <updated>2024-05-11T18:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Norway and Czechia emerged as winners of the two relay classes, O and P; the six sets of medals awarded today go to teams from six different nations. All competitors completed a PreO course of 16 controls followed by two TempO stations, and the third-leg athlete had an additional TempO control at the end, in […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>

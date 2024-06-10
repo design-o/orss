@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71977",
+          "author": "Erling Thisted",
+          "description": "IOF’s FootO Commission organise an Event Advisers’ Clinic in Ottawa, Canada from August 12-13, 2024. The Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Deadline for entries is June 30th. Go to the full invitation here.",
+          "link": "https://orienteering.sport/71977-2/",
+          "publishedOn": "2024-06-10T07:15:24.000Z",
+          "wordCount": 1338,
+          "title": "Event Advisers’ Clinic in Canada from August 12-13",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/03/woc2022_sprintrelay_arena-1024x585.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=71939",
           "author": "Sondre Sande Gullord",
           "description": "Regulations for IOF Independent Athlete Status are now published, following the decision from IOF Council to open up for independent athlete participation in World Ranking Events. 1 July 2024 is the first possibility to be granted IIA Status. Following consultation with the Member Federations and IOF Athlete Representatives through the first quarter of 2024, the […]",
@@ -233,16 +243,6 @@
           "publishedOn": "2024-05-12T18:24:21.000Z",
           "wordCount": 1886,
           "title": "European TrailO Championships: double TempO medal haul for home nation",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/etoc2024_preo_day1-1024x603.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=70686",
-          "author": "Clive",
-          "description": "Norway and Czechia emerged as winners of the two relay classes, O and P; the six sets of medals awarded today go to teams from six different nations. All competitors completed a PreO course of 16 controls followed by two TempO stations, and the third-leg athlete had an additional TempO control at the end, in […]",
-          "link": "https://orienteering.sport/european-trailo-championships-success-for-norway-and-czechia-in-relay/",
-          "publishedOn": "2024-05-11T18:59:30.000Z",
-          "wordCount": 1898,
-          "title": "European TrailO Championships: success for Norway and Czechia in Relay",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/etoc2024_preo_day1-1024x603.jpg"
         }
       ]
@@ -490,6 +490,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59786",
+          "author": "Joolz",
+          "description": "Change in venue for NZ Secondary School Orienteering Championships – Long distance event. Orienteering Wellington has made the decision to relocate the Long Distance event for the NZ Secondary School Orienteering Championships. Originally planned to take place near Porirua, the event will now be held at the Hydrabad map in Waitarere Beach. Waitarere Beach is […]\nNZSSOC map change – Long distance event first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nzssoc-map-change-long-distance-event/",
+          "publishedOn": "2024-06-10T10:47:23.000Z",
+          "wordCount": 2037,
+          "title": "NZSSOC map change – Long distance event",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/NZSSOC-24-image-plus-logo-and-map-s.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=59766",
           "author": "Christo Peters",
@@ -820,6 +830,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5758",
+          "author": "NIOA Secretary",
+          "description": "Urban orienteering has relaunched in 2024  Following the first event in Enniskillen on 28 April, we have two events in June. Sunday afternoon 16 June at Craigavon. All the details are on the LVO website with entries at SI Entries. Friday evening 21 June at...\nThe post Urban Planning appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/urban-planning/",
+          "publishedOn": "2024-06-10T08:58:39.000Z",
+          "wordCount": 4270,
+          "title": "Urban Planning",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2014/08/test-story2.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5753",
           "author": "NIOA Secretary",
