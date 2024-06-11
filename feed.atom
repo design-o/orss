@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T06:10:14.898Z</updated>
+    <updated>2024-06-11T12:13:39.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -987,16 +987,6 @@ Victorian Juniors Ride Their Way into the World MTBO Champs Team first appeared 
 National MTBO Team Representatives Announced first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European TrailO Championships: double TempO medal haul for home nation]]></title>
-        <id>https://orienteering.sport/?p=70689</id>
-        <link href="https://orienteering.sport/european-trailo-championships-double-tempo-medal-haul-for-home-nation/"/>
-        <updated>2024-05-12T18:24:21.000Z</updated>
-        <summary type="html"><![CDATA[The Finnish athlete Lauri Mäkinen won the Final of the TempO competition in a very tight finish where the silver medal was shared and the fourth-placed athlete missed a medal by just 1 second! All that at the end of 9 stations with 5 tasks at each – 45 decision tasks under extreme time pressure […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
