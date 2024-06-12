@@ -424,6 +424,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22116",
+          "author": "Paul Street",
+          "description": "Thanks for coming along to this week’s Park Race, and thanks to the Rose and Crown for hosting us. The race was organised by Nathan [...]",
+          "link": "https://slow.org.uk/racereports/tooting-commons-results/",
+          "publishedOn": "2024-06-11T22:25:29.000Z",
+          "wordCount": 2169,
+          "title": "Tooting Commons Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/tooting-commons-results/files/20240611_TootingBec.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22103",
           "author": "Paul Street",
           "description": "Come to Ealing on Tuesday 2nd July 2024. and join us for the seventh race of London 2024 Park Series. Run on a new map [...]",
@@ -623,6 +633,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54034",
+          "author": "suzannerb",
+          "description": "We were thrilled to receive such amazing testaments to 2 juniors who have shown huge dedication to the sport. The […]",
+          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-shortlist-2/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-shortlist-2",
+          "publishedOn": "2024-06-11T19:45:08.000Z",
+          "wordCount": 2035,
+          "title": "Young Orienteer of the Year Shortlist",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/Rurari-Cottier-4-434x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54011",
           "author": "nikkihoward",
@@ -1005,16 +1025,6 @@
           "publishedOn": "2024-05-15T13:34:07.000Z",
           "wordCount": 2130,
           "title": "WOC 2024 Australian Team Announcement",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=10976",
-          "author": "elizabethl",
-          "description": "The OA MTBO Selection Team has selected Maya Bennette and Will Whittington for the 2024 Australian MTBO team.\nNational MTBO Team Representatives Announced first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/national-mtbo-team-representatives-announced/",
-          "publishedOn": "2024-05-13T10:00:08.000Z",
-          "wordCount": 2093,
-          "title": "National MTBO Team Representatives Announced",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T18:09:50.291Z</updated>
+    <updated>2024-06-12T00:33:43.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tooting Commons Results]]></title>
+        <id>https://slow.org.uk/?p=22116</id>
+        <link href="https://slow.org.uk/racereports/tooting-commons-results/"/>
+        <updated>2024-06-11T22:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for coming along to this week’s Park Race, and thanks to the Rose and Crown for hosting us. The race was organised by Nathan [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young Orienteer of the Year Shortlist]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54034</id>
+        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-shortlist-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year-shortlist-2"/>
+        <updated>2024-06-11T19:45:08.000Z</updated>
+        <summary type="html"><![CDATA[We were thrilled to receive such amazing testaments to 2 juniors who have shown huge dedication to the sport. The […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NZSSOC map change – Long distance event]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59786</id>
@@ -976,17 +996,6 @@ Victorian Juniors Ride Their Way into the World MTBO Champs Team first appeared 
         <summary type="html"><![CDATA[A number of orienteering events in India over the past nine months have had around 1750 people try their hand at the sport. To date India has had 4 clubs, but four more are on the way, meaning six of the country’s states are on their way to be represented by a club. Several clubs […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National MTBO Team Representatives Announced]]></title>
-        <id>https://orienteering.asn.au/?p=10976</id>
-        <link href="https://orienteering.asn.au/national-mtbo-team-representatives-announced/"/>
-        <updated>2024-05-13T10:00:08.000Z</updated>
-        <summary type="html"><![CDATA[The OA MTBO Selection Team has selected Maya Bennette and Will Whittington for the 2024 Australian MTBO team.
-National MTBO Team Representatives Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
