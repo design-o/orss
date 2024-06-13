@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T12:13:03.926Z</updated>
+    <updated>2024-06-13T18:09:06.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -976,17 +976,6 @@ WOC 2024 Australian Team Announcement first appeared on Orienteering Australia.]
 The post NI Orienteering AGM appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Juniors Ride Their Way into the World MTBO Champs Team]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13582</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-juniors-ride-their-way-into-the-world-mtbo-champs-team/"/>
-        <updated>2024-05-15T04:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Maya Bennette and Lucas Kent, who will represent Australia at the World MTBO Champs this year.
-Victorian Juniors Ride Their Way into the World MTBO Champs Team first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
