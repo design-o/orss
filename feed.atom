@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T18:09:52.294Z</updated>
+    <updated>2024-06-13T00:33:40.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -997,36 +997,6 @@ Victorian Juniors Ride Their Way into the World MTBO Champs Team first appeared 
         <summary type="html"><![CDATA[There was a great turn out at the Clapham Street-O, the finale of the 2023-24 series. Over 100 people walked/ jogged/ ran and enjoyed the [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 AGM to be held online on 24th June]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53832</id>
-        <link href="https://www.scottish-orienteering.org/news/2024-agm-to-be-held-online-on-24th-june/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2024-agm-to-be-held-online-on-24th-june"/>
-        <updated>2024-05-14T09:03:40.000Z</updated>
-        <summary type="html"><![CDATA[We are notifying all members of our intended Annual General Meeting date of Monday 24th June 2024 to be held […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you know someone who deserves the President’s medal?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53824</id>
-        <link href="https://www.scottish-orienteering.org/news/do-you-know-someone-who-deserves-the-presidents-medal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=do-you-know-someone-who-deserves-the-presidents-medal"/>
-        <updated>2024-05-14T08:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering events in India attract more than 1000 participants]]></title>
-        <id>https://orienteering.sport/?p=70638</id>
-        <link href="https://orienteering.sport/orienteering-events-in-india-attract-more-than-1000-participants/"/>
-        <updated>2024-05-14T08:21:19.000Z</updated>
-        <summary type="html"><![CDATA[A number of orienteering events in India over the past nine months have had around 1750 people try their hand at the sport. To date India has had 4 clubs, but four more are on the way, meaning six of the country’s states are on their way to be represented by a club. Several clubs […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
