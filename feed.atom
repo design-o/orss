@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T18:09:06.437Z</updated>
+    <updated>2024-06-14T00:33:33.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -965,17 +965,6 @@ Aston and Milla Key selected for World Orienteering Champs first appeared on Ori
 WOC 2024 Australian Team Announcement first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Orienteering AGM]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5706</id>
-        <link href="https://www.niorienteering.org.uk/ni-orienteering-agm/"/>
-        <updated>2024-05-15T11:25:22.000Z</updated>
-        <summary type="html"><![CDATA[The  NI Orienteering AGM will be held on Saturday 1 June 2024 at 12.30pm at Slemish College, Ballymena. The meeting will be after the NI Sprint Championships and before the NI Middle Distance Championships. The Agenda and previous minutes of both the 2023 AGM and...
-The post NI Orienteering AGM appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
