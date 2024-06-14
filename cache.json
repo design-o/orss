@@ -388,16 +388,6 @@
           "wordCount": 1182,
           "title": "Vic Series 2 at Glenluce, Sunday 2 June – Enter Online Now!",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13588",
-          "author": "Margi Freemantle",
-          "description": "Congratulations to Victorians Aston and Milla Key on their selection into Australian team for the 2024 world orienteering Championships in Edinburgh.\nAston and Milla Key selected for World Orienteering Champs first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/aston-and-milla-key-selected-for-world-orienteering-champs/",
-          "publishedOn": "2024-05-16T05:47:18.000Z",
-          "wordCount": 1006,
-          "title": "Aston and Milla Key selected for World Orienteering Champs",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -634,6 +624,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54057",
+          "author": "suzannerb",
+          "description": "As the JST hosts the presentation of the Young Orienteer of the Year Award this Sunday, it’s time to remind […]",
+          "link": "https://www.scottish-orienteering.org/news/young-leaders-2/?utm_source=rss&utm_medium=rss&utm_campaign=young-leaders-2",
+          "publishedOn": "2024-06-14T13:14:33.000Z",
+          "wordCount": 1969,
+          "title": "Young Leaders",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_0590-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54044",
           "author": "heidi",
           "description": "Last Friday was the Scottish School Orienteering Festival. This year the festival was organised by St Andrews Orienteering Club, Glasgow […]",
@@ -800,6 +800,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5766",
+          "author": "NIOA Secretary",
+          "description": "A reminder of important closing dates coming up very soon. The NI Urban League event at Craigavon South on Sunday 16 June, closes on Saturday 15 June at 14:00. All the details are on the event page on the LVO website and entries are at...\nThe post Important Closing Dates Coming Up Very Soon appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/important-closing-dates-coming-up-very-soon/",
+          "publishedOn": "2024-06-14T13:29:06.000Z",
+          "wordCount": 4312,
+          "title": "Important Closing Dates Coming Up Very Soon",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2017/01/Olivia-Baxter-200x300-1.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5758",
           "author": "NIOA Secretary",

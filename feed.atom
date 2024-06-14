@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T12:13:04.085Z</updated>
+    <updated>2024-06-14T18:10:26.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Important Closing Dates Coming Up Very Soon]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5766</id>
+        <link href="https://www.niorienteering.org.uk/important-closing-dates-coming-up-very-soon/"/>
+        <updated>2024-06-14T13:29:06.000Z</updated>
+        <summary type="html"><![CDATA[A reminder of important closing dates coming up very soon. The NI Urban League event at Craigavon South on Sunday 16 June, closes on Saturday 15 June at 14:00. All the details are on the event page on the LVO website and entries are at...
+The post Important Closing Dates Coming Up Very Soon appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young Leaders]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54057</id>
+        <link href="https://www.scottish-orienteering.org/news/young-leaders-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-leaders-2"/>
+        <updated>2024-06-14T13:14:33.000Z</updated>
+        <summary type="html"><![CDATA[As the JST hosts the presentation of the Young Orienteer of the Year Award this Sunday, it’s time to remind […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jukola 2024: All You Need To Know]]></title>
         <id>http://news.worldofo.com/?p=20095</id>
@@ -953,17 +974,6 @@ Support Orienteering Australia’s National Teams first appeared on Orienteering
 The post Entries Open for Sprint and Middle Champs appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aston and Milla Key selected for World Orienteering Champs]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13588</id>
-        <link href="https://www.vicorienteering.asn.au/aston-and-milla-key-selected-for-world-orienteering-champs/"/>
-        <updated>2024-05-16T05:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Victorians Aston and Milla Key on their selection into Australian team for the 2024 world orienteering Championships in Edinburgh.
-Aston and Milla Key selected for World Orienteering Champs first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
