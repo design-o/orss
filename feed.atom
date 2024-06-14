@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T00:33:33.023Z</updated>
+    <updated>2024-06-14T06:10:49.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jukola 2024: All You Need To Know]]></title>
+        <id>http://news.worldofo.com/?p=20095</id>
+        <link href="https://news.worldofo.com/2024/06/14/jukola-2024-all-you-need-to-know/"/>
+        <updated>2024-06-14T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend with more than 3000 teams on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9 hours earlier at 13:00 CET the women start their relay. Here you find all ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Follow Venla and Jukola relays on IOF TV this weekend]]></title>
         <id>https://orienteering.sport/?p=71983</id>
@@ -954,17 +964,6 @@ The post Entries Open for Sprint and Middle Champs appeared first on NI Orientee
 Aston and Milla Key selected for World Orienteering Champs first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Australian Team Announcement]]></title>
-        <id>https://orienteering.asn.au/?p=11003</id>
-        <link href="https://orienteering.asn.au/woc-2024-australian-team-announcement/"/>
-        <updated>2024-05-15T13:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the WOC Australian team for 2024 in Edinburgh.
-WOC 2024 Australian Team Announcement first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>

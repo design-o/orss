@@ -243,6 +243,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20095",
+          "author": "Jan Kocbach",
+          "description": "The 2024 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend with more than 3000 teams on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9 hours earlier at 13:00 CET the women start their relay. Here you find all ...",
+          "link": "https://news.worldofo.com/2024/06/14/jukola-2024-all-you-need-to-know/",
+          "publishedOn": "2024-06-14T03:00:53.000Z",
+          "wordCount": 2769,
+          "title": "Jukola 2024: All You Need To Know",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/06/img_666aed886bb97-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20082",
           "author": "Jan Kocbach",
           "description": "From flat and relatively easy orienteering in the first World Cup round on Swiss ground, to tricky, hilly orienteering in the second World Cup round in Geona, Italy. Victories went to Simona Aebersold (Switzerland) and Kasper Fosser (Norway) in the individual Sprint, while Switzerland won the Sprint Relay. With more varied orienteering, other nations managed to ...",
@@ -985,16 +995,6 @@
           "publishedOn": "2024-05-21T09:03:50.000Z",
           "wordCount": 2359,
           "title": "Support Orienteering Australia’s National Teams",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11003",
-          "author": "elizabethl",
-          "description": "Announcing the WOC Australian team for 2024 in Edinburgh.\nWOC 2024 Australian Team Announcement first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/woc-2024-australian-team-announcement/",
-          "publishedOn": "2024-05-15T13:34:07.000Z",
-          "wordCount": 2130,
-          "title": "WOC 2024 Australian Team Announcement",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
