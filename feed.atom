@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T00:36:59.659Z</updated>
+    <updated>2024-06-16T06:09:38.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -935,16 +935,6 @@ Aston and Milla Key Selected for World Orienteering Champs first appeared on Ori
         <summary type="html"><![CDATA[Exactly 230 days after Tove Alexandersson (SWE) and Matthias Kyburz (SUI) crossed the finish line under Vicenza’s October sun to win both the KO Sprint titles at EOC and secure the overall 2023 Orienteering World Cup victories, it’s time to kick off the World Cup again. The 2024 season begins with the youngest discipline, a […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Masters Mountain Bike Orienteering coming to Scotland in 2026]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53864</id>
-        <link href="https://www.scottish-orienteering.org/news/world-masters-mountain-bike-orienteering-coming-to-scotland-in-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-masters-mountain-bike-orienteering-coming-to-scotland-in-2026"/>
-        <updated>2024-05-17T14:14:39.000Z</updated>
-        <summary type="html"><![CDATA[We are delighted in Scottish Orienteering on behalf of the experienced organising team to announce that the IOF have granted […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
