@@ -471,6 +471,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59799",
+          "author": "Joolz",
+          "description": "Time to give the heads up to your sports coordinators and get your entries in for the orienteering champs in the Wellington region for three days from the 19th-21st July 2024. Come and test your skills in new terrain and join in NZs biggest event for young orienteers. Direct entry link here For more info […]\nNZSSOC24 entries open first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nzssoc24-entries-open/",
+          "publishedOn": "2024-06-15T23:39:07.000Z",
+          "wordCount": 1927,
+          "title": "NZSSOC24 entries open",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/NZSSOC-24-image-plus-logo-.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59786",
           "author": "Joolz",
           "description": "Change in venue for NZ Secondary School Orienteering Championships – Long distance event. Orienteering Wellington has made the decision to relocate the Long Distance event for the NZ Secondary School Orienteering Championships. Originally planned to take place near Porirua, the event will now be held at the Hydrabad map in Waitarere Beach. Waitarere Beach is […]\nNZSSOC map change – Long distance event first appeared on Orienteering New Zealand.",
@@ -762,26 +772,6 @@
           "wordCount": 1514,
           "title": "World Masters Mountain Bike Orienteering coming to Scotland in 2026",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/P5081970-1024x768.jpeg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53849",
-          "author": "nikkihoward",
-          "description": "The 2024 Jamie Stevenson Trophy event is being held at the Hermitage just outside Dunkeld this year on Sunday 16th […]",
-          "link": "https://www.scottish-orienteering.org/news/jamie-stevenson-competition-visits-the-hermitage-this-year/?utm_source=rss&utm_medium=rss&utm_campaign=jamie-stevenson-competition-visits-the-hermitage-this-year",
-          "publishedOn": "2024-05-17T11:57:59.000Z",
-          "wordCount": 1753,
-          "title": "Jamie Stevenson competition visits the Hermitage this year",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/IMG_8238-660x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=53842",
-          "author": "nikkihoward",
-          "description": "The Scottish Schools Orienteering Festival is taking place at Drumpellier Country Park this year on Friday 7th June. Entries are […]",
-          "link": "https://www.scottish-orienteering.org/news/2024-scottish-schools-orienteering-festival-entries-open/?utm_source=rss&utm_medium=rss&utm_campaign=2024-scottish-schools-orienteering-festival-entries-open",
-          "publishedOn": "2024-05-17T10:33:18.000Z",
-          "wordCount": 1432,
-          "title": "2024 Scottish Schools Orienteering Festival entries open",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2022/06/IMG_20220601_132140-768x1024.jpg"
         }
       ]
     },

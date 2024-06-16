@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-15T18:09:11.988Z</updated>
+    <updated>2024-06-16T00:36:59.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NZSSOC24 entries open]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59799</id>
+        <link href="https://www.orienteering.org.nz/news/nzssoc24-entries-open/"/>
+        <updated>2024-06-15T23:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Time to give the heads up to your sports coordinators and get your entries in for the orienteering champs in the Wellington region for three days from the 19th-21st July 2024. Come and test your skills in new terrain and join in NZs biggest event for young orienteers. Direct entry link here For more info […]
+NZSSOC24 entries open first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Important Closing Dates Coming Up Very Soon]]></title>
         <id>https://www.niorienteering.org.uk/?p=5766</id>
@@ -932,26 +943,6 @@ Aston and Milla Key Selected for World Orienteering Champs first appeared on Ori
         <link href="https://www.scottish-orienteering.org/news/world-masters-mountain-bike-orienteering-coming-to-scotland-in-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-masters-mountain-bike-orienteering-coming-to-scotland-in-2026"/>
         <updated>2024-05-17T14:14:39.000Z</updated>
         <summary type="html"><![CDATA[We are delighted in Scottish Orienteering on behalf of the experienced organising team to announce that the IOF have granted […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamie Stevenson competition visits the Hermitage this year]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53849</id>
-        <link href="https://www.scottish-orienteering.org/news/jamie-stevenson-competition-visits-the-hermitage-this-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jamie-stevenson-competition-visits-the-hermitage-this-year"/>
-        <updated>2024-05-17T11:57:59.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Jamie Stevenson Trophy event is being held at the Hermitage just outside Dunkeld this year on Sunday 16th […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Scottish Schools Orienteering Festival entries open]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53842</id>
-        <link href="https://www.scottish-orienteering.org/news/2024-scottish-schools-orienteering-festival-entries-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2024-scottish-schools-orienteering-festival-entries-open"/>
-        <updated>2024-05-17T10:33:18.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Schools Orienteering Festival is taking place at Drumpellier Country Park this year on Friday 7th June. Entries are […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
