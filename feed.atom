@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T12:11:44.170Z</updated>
+    <updated>2024-06-16T18:08:22.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -916,15 +916,6 @@ Aston and Milla Key Selected for World Orienteering Champs first appeared on Ori
         <summary type="html"><![CDATA[Volunteer week is once more upon us. This is the time of year when we celebrate all our wonderful volunteers […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 2 at Glenluce, Sunday 2 June – Enter Online Now!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13614</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-2-at-glenluce-sunday-2-june-enter-online-now/"/>
-        <updated>2024-05-18T02:26:39.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
