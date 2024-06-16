@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T06:09:38.226Z</updated>
+    <updated>2024-06-16T12:11:44.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -925,16 +925,6 @@ Aston and Milla Key Selected for World Orienteering Champs first appeared on Ori
         <updated>2024-05-18T02:26:39.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intense sprints will kick off the new World Cup season]]></title>
-        <id>https://orienteering.sport/?p=70714</id>
-        <link href="https://orienteering.sport/switzerland-kicks-off-new-world-cup-season-with-intense-sprints/"/>
-        <updated>2024-05-17T22:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Exactly 230 days after Tove Alexandersson (SWE) and Matthias Kyburz (SUI) crossed the finish line under Vicenza’s October sun to win both the KO Sprint titles at EOC and secure the overall 2023 Orienteering World Cup victories, it’s time to kick off the World Cup again. The 2024 season begins with the youngest discipline, a […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
