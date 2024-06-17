@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T00:35:24.126Z</updated>
+    <updated>2024-06-17T06:10:45.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -273,6 +273,15 @@ GFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.]]></
         <summary type="html"><![CDATA[Czechia took the gold medals in a tightly contested Sprint Relay, with Krystof Bogar finishing just a couple of metres ahead of André Haga, Finland after being 5 seconds ahead at the spectator passage with 2 km to go. Bronze medallists were Italy. Sprint Relay mass start  Photos: Jakub Kijak / MoonLine Media On the […]]]></summary>
         <author>
             <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians Selected to Australian Teams – Who, Where and When]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13703</id>
+        <link href="https://www.vicorienteering.asn.au/victorians-selected-to-australian-teams-who-where-and-when/"/>
+        <updated>2024-06-03T05:36:42.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
