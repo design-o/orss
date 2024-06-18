@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=71996",
+          "author": "Erling Thisted",
+          "description": "Earlier in June, German company arntech GmbH – a sister company of IOF partner SPORTident GmbH – announced its acquisition of Norwegian timing company EMIT AS. The acquisition is expected to open new markets for SPORTident and EMIT products and give benefits for future development of timing products from SPORTident GmbH and EMIT AS. “Having […]",
+          "link": "https://orienteering.sport/iof-welcomes-new-timing-cooperation/",
+          "publishedOn": "2024-06-18T09:54:05.000Z",
+          "wordCount": 2146,
+          "title": "IOF welcomes new timing cooperation",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/website_newsarticle_image_emit_and_sportident_en.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=71983",
           "author": "Erling Thisted",
           "description": "More than 17.000 orienteers will set course for western Finland and one of the biggest orienteering competitions in the world, that happens this weekend. Venla and Jukola relays are gathering more than 3.000 teams in total in Lakia, where they will fight for the win in the tradition-rich relays from Saturday afternoon and until early […]",
@@ -633,6 +643,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54100",
+          "author": "nikkihoward",
+          "description": "After long deliberations it was decided that the Young Orienteer of the Year award sponsored by Tulloch Homes for 2023 […]",
+          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-award-presented/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-award-presented",
+          "publishedOn": "2024-06-18T07:12:53.000Z",
+          "wordCount": 1470,
+          "title": "Young Orienteer of the Year Award presented",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_1096-920x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54080",
+          "author": "nikkihoward",
+          "description": "Well there hasn’t been a damp Jamie Stevenson Trophy for a few years but a bit of rain did not […]",
+          "link": "https://www.scottish-orienteering.org/news/jamie-stevenson-trophy-inspires-enthusiasm-despite-the-rain/?utm_source=rss&utm_medium=rss&utm_campaign=jamie-stevenson-trophy-inspires-enthusiasm-despite-the-rain",
+          "publishedOn": "2024-06-18T06:53:59.000Z",
+          "wordCount": 2151,
+          "title": "Jamie Stevenson Trophy inspires enthusiasm despite the rain",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_9394-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54057",
           "author": "suzannerb",
