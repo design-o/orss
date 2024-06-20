@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T18:08:41.083Z</updated>
+    <updated>2024-06-20T00:33:02.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -925,28 +925,6 @@ MelBushO is Back!  Macedon, Sunday 26 May – Enter Online By Thur May 23 first 
         <summary type="html"><![CDATA[A large number of Scottish (and Scotland-based) athletes have been selected for various international competitions this summer, and with the […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenging Crossmurrin]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5738</id>
-        <link href="https://www.niorienteering.org.uk/challenging-crossmurrin/"/>
-        <updated>2024-05-21T10:01:05.000Z</updated>
-        <summary type="html"><![CDATA[After an outing to the challenging limestone landscapes of Crossmurrin on Saturday 19 May, the results are now in at Fixtures & Results/2024 Results including Routegadet. Thanks to the team at Fermanagh Orienteers, particularly planner Raymond Finlay, controllers Robbie Bryson and Damian Gribben and organiser...
-The post Challenging Crossmurrin appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Support Orienteering Australia’s National Teams]]></title>
-        <id>https://orienteering.asn.au/?p=11016</id>
-        <link href="https://orienteering.asn.au/support-orienteering-australias-national-teams/"/>
-        <updated>2024-05-21T09:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Donations made through ASF help support our national teams take part in World Championships.
-Support Orienteering Australia’s National Teams first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
