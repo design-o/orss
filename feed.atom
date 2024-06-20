@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T00:33:02.936Z</updated>
+    <updated>2024-06-20T06:10:11.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -905,26 +905,6 @@ Winners of NOL season 2024 first appeared on Orienteering Australia.]]></summary
 MelBushO is Back!  Macedon, Sunday 26 May – Enter Online By Thur May 23 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to follow the Orienteering World Cup Round 1 in Switzerland]]></title>
-        <id>https://orienteering.sport/?p=70844</id>
-        <link href="https://orienteering.sport/how-to-follow-the-orienteering-world-cup-round-1-in-olten/"/>
-        <updated>2024-05-21T15:57:55.000Z</updated>
-        <summary type="html"><![CDATA[The international orienteering season is about to start and you’re invited to follow all the action from the Orienteering World Cup 2024 closely. We start in Switzerland this weekend with Round 1 – a Knock-Out Sprint on Saturday and an individual sprint on Sunday. The city of Olten hosts both races and offers flat and […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland well represented in the GB teams this summer]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53871</id>
-        <link href="https://www.scottish-orienteering.org/news/scotland-well-represented-in-the-gb-teams-this-summer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotland-well-represented-in-the-gb-teams-this-summer"/>
-        <updated>2024-05-21T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[A large number of Scottish (and Scotland-based) athletes have been selected for various international competitions this summer, and with the […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
