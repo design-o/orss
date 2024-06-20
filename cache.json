@@ -358,26 +358,6 @@
           "wordCount": 1165,
           "title": "Vic Series 2 at Glenluce, Sunday 2 June",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13388",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-2024/",
-          "publishedOn": "2024-05-22T01:48:27.000Z",
-          "wordCount": 1124,
-          "title": "MelBushO is Back!  Westerfolds Park South, Sunday 16 June",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13388",
-          "author": "Debbie Dodd",
-          "description": "Enjoy the challenge of the forest at Macedon this Sunday, in the next MelBushO event\nMelBushO is Back!  Macedon, Sunday 26 May – Enter Online By Thur May 23 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-brimbank-park-sunday-14-april/",
-          "publishedOn": "2024-05-22T01:48:27.000Z",
-          "wordCount": 1182,
-          "title": "MelBushO is Back!  Macedon, Sunday 26 May – Enter Online By Thur May 23",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -623,6 +603,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54113",
+          "author": "nikkihoward",
+          "description": "The 2026 World Master Mountain Bike Orienteering Championships (MTBO) are being held in Moray between 3-7 June. The embargoes areas […]",
+          "link": "https://www.scottish-orienteering.org/news/embargos-announced-for-the-2026-world-masters-mtbo-championships/?utm_source=rss&utm_medium=rss&utm_campaign=embargos-announced-for-the-2026-world-masters-mtbo-championships",
+          "publishedOn": "2024-06-20T16:41:01.000Z",
+          "wordCount": 1452,
+          "title": "Embargos announced for the 2026 World Masters MTBO Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/PHOTO-2024-06-20-17-07-21-1024x684.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54107",
+          "author": "nikkihoward",
+          "description": "The SOA accounts for the year to 31st December 2023 have now been finalised and approved. They are available to […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june/?utm_source=rss&utm_medium=rss&utm_campaign=soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june",
+          "publishedOn": "2024-06-20T14:01:10.000Z",
+          "wordCount": 1572,
+          "title": "SOA Accounts to 31st December 2023 available to view before AGM on Monday 24th June",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54100",
           "author": "nikkihoward",

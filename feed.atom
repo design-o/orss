@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T12:12:56.675Z</updated>
+    <updated>2024-06-20T18:10:35.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Embargos announced for the 2026 World Masters MTBO Championships]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54113</id>
+        <link href="https://www.scottish-orienteering.org/news/embargos-announced-for-the-2026-world-masters-mtbo-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=embargos-announced-for-the-2026-world-masters-mtbo-championships"/>
+        <updated>2024-06-20T16:41:01.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 World Master Mountain Bike Orienteering Championships (MTBO) are being held in Moray between 3-7 June. The embargoes areas […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOA Accounts to 31st December 2023 available to view before AGM on Monday 24th June]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54107</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june"/>
+        <updated>2024-06-20T14:01:10.000Z</updated>
+        <summary type="html"><![CDATA[The SOA accounts for the year to 31st December 2023 have now been finalised and approved. They are available to […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF welcomes new timing cooperation]]></title>
         <id>https://orienteering.sport/?p=71996</id>
@@ -885,26 +905,6 @@ The post We’re hiring! first appeared on Orienteering in Ireland.]]></summary>
 Winners of NOL season 2024 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO is Back!  Westerfolds Park South, Sunday 16 June]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13388</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-2024/"/>
-        <updated>2024-05-22T01:48:27.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO is Back!  Macedon, Sunday 26 May – Enter Online By Thur May 23]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13388</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-brimbank-park-sunday-14-april/"/>
-        <updated>2024-05-22T01:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the challenge of the forest at Macedon this Sunday, in the next MelBushO event
-MelBushO is Back!  Macedon, Sunday 26 May – Enter Online By Thur May 23 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
