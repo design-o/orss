@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T18:10:35.362Z</updated>
+    <updated>2024-06-21T00:33:05.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -147,6 +147,17 @@ Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Oriente
         <summary type="html"><![CDATA[We were thrilled to receive such amazing testaments to 2 juniors who have shown huge dedication to the sport. The […]]]></summary>
         <author>
             <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO is Back!  Candlebark Park, Sunday 30 June]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13388</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-2024/"/>
+        <updated>2024-06-11T01:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy a great introduction to orienteering at Candlebark Park in Templestowe, on Sunday 30 June. Online entry is open now!
+MelBushO is Back!  Candlebark Park, Sunday 30 June first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -884,27 +895,6 @@ Orienteering World Cup Round 1 first appeared on Orienteering Australia.]]></sum
 The post We’re hiring! first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Mark Stephens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scholarships for participation in the 2024 O-Ringen Academy]]></title>
-        <id>https://orienteering.sport/?p=70853</id>
-        <link href="https://orienteering.sport/scholarships-for-participation-in-the-2024-o-ringen-academy/"/>
-        <updated>2024-05-22T08:57:40.000Z</updated>
-        <summary type="html"><![CDATA[The IOF gives financial support (scholarships) to participate in O-Ringen Academy to selected participants from developing orienteering nations. Eight applicants for the O-Ringen Academy 2024 have been granted scholarships from the IOF to participate in the 2024 O-Ringen Academy: Rehab Abdel Raouf (EGY) Ahmet Polat (TUR) Hasan Akdogan (TUR) Safaa Al Abboodi (IRQ) Sayeesha Kirani […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winners of NOL season 2024]]></title>
-        <id>https://orienteering.asn.au/?p=11049</id>
-        <link href="https://orienteering.asn.au/winners-of-nol-season-2024/"/>
-        <updated>2024-05-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the winners of the NOL season 2024.
-Winners of NOL season 2024 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
