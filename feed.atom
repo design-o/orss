@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T12:12:34.007Z</updated>
+    <updated>2024-06-21T18:10:05.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -884,16 +884,6 @@ Orienteering World Cup Round 1 first appeared on Orienteering Australia.]]></sum
         <summary type="html"><![CDATA[The greatest international orienteering events will now be accessible to a significantly larger audience. The International Orienteering Federation, IOF, has entered a partnership with the European Broadcasting Union (EBU), the world’s leading alliance for public service media. IOF has a long tradition of collaborating with National Broadcasters in several countries that are also EBU Members. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Opening Weekends 2024: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20050</id>
-        <link href="https://news.worldofo.com/2024/05/23/world-cup-opening-weekends-2024-all-you-need-to-know/"/>
-        <updated>2024-05-23T03:00:17.000Z</updated>
-        <summary type="html"><![CDATA[The first two Orienteering World Cup rounds of 2024 are about to start in Olten, Switzerland and Genoa, Italy – both organized as pure sprint weekends. It all kicks off in Switzerland from Friday May 24th until Sunday May 26th with a KO-Sprint and an individual Sprint – and continues with another individual Sprint and a Sprint Relay in Italy next weekend. With the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
