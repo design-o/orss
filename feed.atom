@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T06:10:16.885Z</updated>
+    <updated>2024-06-23T12:12:50.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -54,6 +54,15 @@
         <summary type="html"><![CDATA[The SOA accounts for the year to 31st December 2023 have now been finalised and approved. They are available to […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Tarr, Master Orienteer, Recognised in the News]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13712</id>
+        <link href="https://www.vicorienteering.asn.au/alex-tarr-master-orienteer-recognised-in-the-news/"/>
+        <updated>2024-06-20T07:02:26.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
