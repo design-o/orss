@@ -194,16 +194,6 @@
           "wordCount": 2007,
           "title": "World Cup: Knock-Out wins for Hadorn and Alexandersson",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owc_r1_ko_joeyhadorn_-1024x684.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=71462",
-          "author": "Erling Thisted",
-          "description": "The 2024 Orienteering World Cup got underway under very variable weather conditions Friday afternoon in Zofingen, Switzerland, where athletes from 17 out of the competing 32 nations managed to qualify for Saturday’s quarter finals. The sun was shining over the cosy old town centre as the first runners in the men’s three qualification heats made […]",
-          "link": "https://orienteering.sport/world-cup-athletes-from-17-nations-make-it-through-knock-out-sprint-qualifiers/",
-          "publishedOn": "2024-05-24T17:25:09.000Z",
-          "wordCount": 2002,
-          "title": "World Cup: Athletes from 17 nations make it through Knock-Out Sprint qualifiers",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owcr1_ko_q_silvanschletti-1024x768.jpg"
         }
       ]
     },
@@ -576,7 +566,18 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://neooc.com/?p=47397",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Registration deadline EXTENDED to June 26th Pan-American Masters Games 2024",
+          "link": "https://neooc.com/registration-extended-pan-american-masters-games-2024/",
+          "publishedOn": "2024-06-23T01:31:39.000Z",
+          "wordCount": 1290,
+          "title": "Registration Extended | Pan-American Masters Games 2024",
+          "imageUrl": "http://neooc.com/wp-content/uploads/2024/03/PanAm-Logos-1024x170.jpg"
+        }
+      ]
     },
     {
       "title": "Scottish Orienteering Association",

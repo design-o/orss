@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T00:36:33.275Z</updated>
+    <updated>2024-06-23T06:10:16.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Registration Extended | Pan-American Masters Games 2024]]></title>
+        <id>https://neooc.com/?p=47397</id>
+        <link href="https://neooc.com/registration-extended-pan-american-masters-games-2024/"/>
+        <updated>2024-06-23T01:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Registration deadline EXTENDED to June 26th Pan-American Masters Games 2024]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EYOC: Long distance in tough, Polish hills]]></title>
         <id>https://orienteering.sport/?p=72110</id>
@@ -853,16 +863,6 @@ Vic Series 2 at Glenluce, Sunday 2 June first appeared on Orienteering Victoria.
 The Australian Orienteer: June Edition Now Online first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Athletes from 17 nations make it through Knock-Out Sprint qualifiers]]></title>
-        <id>https://orienteering.sport/?p=71462</id>
-        <link href="https://orienteering.sport/world-cup-athletes-from-17-nations-make-it-through-knock-out-sprint-qualifiers/"/>
-        <updated>2024-05-24T17:25:09.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Orienteering World Cup got underway under very variable weather conditions Friday afternoon in Zofingen, Switzerland, where athletes from 17 out of the competing 32 nations managed to qualify for Saturday’s quarter finals. The sun was shining over the cosy old town centre as the first runners in the men’s three qualification heats made […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
