@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T12:12:50.376Z</updated>
+    <updated>2024-06-23T18:08:44.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -828,48 +828,6 @@ The post Senior Home International Declarations of Interest appeared first on NI
         <updated>2024-05-25T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[Orienteering Australia has developed a whole of sport participation plan for 2024-2025.
 Orienteering Australia launches Orienteering Participation Plan! first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Victoria Annual General Meeting, Friday 31 May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13637</id>
-        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-annual-general-meeting-friday-31-may/"/>
-        <updated>2024-05-25T02:12:46.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Series, SATURDAY June 1, Walmer Forest Castlemaine]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13619</id>
-        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-saturday-june-2-walmer-forest-castlemaine/"/>
-        <updated>2024-05-25T01:33:57.000Z</updated>
-        <summary type="html"><![CDATA[The next round of the Vic MTBO Series is at Walmer Forest on the edge of Castlemaine. This map offers some terrific riding and plenty of single tracks. Please note, this is a SATURDAY event.
-Vic MTBO Series, SATURDAY June 1, Walmer Forest Castlemaine first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 2 at Glenluce, Sunday 2 June]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13614</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-2-at-glenluce-sunday-2-june-enter-online-now/"/>
-        <updated>2024-05-25T01:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Vic Series 2 is on this Sunday at Glenluce, south of Castlemaine. Get out and enjoy our beautiful forest!  Entry on the day is accepted.
-Vic Series 2 at Glenluce, Sunday 2 June first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Australian Orienteer: June Edition Now Online]]></title>
-        <id>https://orienteering.asn.au/?p=11093</id>
-        <link href="https://orienteering.asn.au/the-australian-orienteer-june-edition-now-online/"/>
-        <updated>2024-05-25T01:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Read the June edition of The Australian Orienteer, available online now.
-The Australian Orienteer: June Edition Now Online first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
         </author>
