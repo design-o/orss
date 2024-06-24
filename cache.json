@@ -194,16 +194,6 @@
           "wordCount": 2045,
           "title": "World Cup: Gemperle and Svensk win fast sprint in Switzerland",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owcr1_nataliagemperle_silvanschletti-1024x640.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=71514",
-          "author": "Erling Thisted",
-          "description": "Joey Hadorn (SUI) and Tove Alexandersson (SWE) took the first Orienteering World Cup wins of 2024 with their victories in Saturday’s Knock-Out Sprint in Switzerland. Yesterday’s heavy rain was nowhere to be seen in sunny, central Olten, that hosted all of Saturday’s races from the quarter finals before noon and until the finals some hours […]",
-          "link": "https://orienteering.sport/world-cup-knock-out-wins-for-hadorn-and-alexandersson/",
-          "publishedOn": "2024-05-25T15:56:14.000Z",
-          "wordCount": 2007,
-          "title": "World Cup: Knock-Out wins for Hadorn and Alexandersson",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owc_r1_ko_joeyhadorn_-1024x684.jpg"
         }
       ]
     },
@@ -249,6 +239,26 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13718",
+          "author": "Margi Freemantle",
+          "description": "Eureka Orienteers invite you to Nyaninyuk / Mt Beckworth on Sunday, the 30th of June.\nBallarat Classics Series #3 – Nyaninyuk / Mt Beckworth – Sunday 30 June first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/ballarat-classics-series-3-nyaninyuk-mt-beckworth-sunday-30-june/",
+          "publishedOn": "2024-06-24T04:58:18.000Z",
+          "wordCount": 1196,
+          "title": "Ballarat Classics Series #3 – Nyaninyuk / Mt Beckworth – Sunday 30 June",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13716",
+          "author": "Margi Freemantle",
+          "description": "Congratulations to our Victorian Schools Team members, who have been selected to compete in the 2024 Australian Schools Championships in NSW this spring. \nVictorian Schools Team Announcement first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/victorian-schools-team-announcement/",
+          "publishedOn": "2024-06-24T04:39:43.000Z",
+          "wordCount": 1067,
+          "title": "Victorian Schools Team Announcement",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13712",
           "author": "Debbie Dodd",
