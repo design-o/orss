@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T12:13:27.652Z</updated>
+    <updated>2024-06-24T18:09:31.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOF continues the course towards less climate emissions]]></title>
+        <id>https://orienteering.sport/?p=72127</id>
+        <link href="https://orienteering.sport/iof-continues-the-course-towards-less-climate-emissions/"/>
+        <updated>2024-06-24T12:52:30.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation is still well on its way to achieving its goals for lowering climate emissions. This appears from IOF’s Carbon Budget Report for 2023, which estimates the CO2 emissions of the federation in the past year and has just been released. The report has been created by IOF’s Environment and Sustainability Commission […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballarat Classics Series #3 – Nyaninyuk / Mt Beckworth – Sunday 30 June]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13718</id>
@@ -834,24 +844,6 @@ The post Senior Home International Declarations of Interest appeared first on NI
         <summary type="html"><![CDATA[The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update: Events May 29-June 3, including the Croydon Hills Enduro]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2024-05-26T02:41:54.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13635</id>
-        <link href="https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/"/>
-        <updated>2024-05-26T02:05:51.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72127",
+          "author": "Erling Thisted",
+          "description": "The International Orienteering Federation is still well on its way to achieving its goals for lowering climate emissions. This appears from IOF’s Carbon Budget Report for 2023, which estimates the CO2 emissions of the federation in the past year and has just been released. The report has been created by IOF’s Environment and Sustainability Commission […]",
+          "link": "https://orienteering.sport/iof-continues-the-course-towards-less-climate-emissions/",
+          "publishedOn": "2024-06-24T12:52:30.000Z",
+          "wordCount": 1924,
+          "title": "IOF continues the course towards less climate emissions",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72119",
           "author": "Erling Thisted",
           "description": "The more than 400 athletes at European Youth Orienteering Championships found the fast shoes from the bag on Sunday afternoon, when the EYOC Sprint race took place in central Szczechin. And compared to yesterday’s long distance forest race, there were three new faces on top of the four EYOC podiums after today’s race, which took […]",
@@ -327,26 +337,6 @@
           "publishedOn": "2024-05-27T02:07:05.000Z",
           "wordCount": 994,
           "title": "Vale Keith Anker",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2024-05-26T02:41:54.000Z",
-          "wordCount": 1247,
-          "title": "Park Street Update: Events May 29-June 3, including the Croydon Hills Enduro",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13635",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/",
-          "publishedOn": "2024-05-26T02:05:51.000Z",
-          "wordCount": 1254,
-          "title": "June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
