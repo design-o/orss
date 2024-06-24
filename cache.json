@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72119",
+          "author": "Erling Thisted",
+          "description": "The more than 400 athletes at European Youth Orienteering Championships found the fast shoes from the bag on Sunday afternoon, when the EYOC Sprint race took place in central Szczechin. And compared to yesterday’s long distance forest race, there were three new faces on top of the four EYOC podiums after today’s race, which took […]",
+          "link": "https://orienteering.sport/eyoc-fast-sprint-in-central-szczechin-saw-new-nations-rise-to-the-top/",
+          "publishedOn": "2024-06-23T18:22:59.000Z",
+          "wordCount": 1955,
+          "title": "EYOC: Fast sprint in central Szczechin saw new nations rise to the top",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/eyoc_2024_sprint_m16_jakub_kijak-1024x683.jpeg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72110",
           "author": "Erling Thisted",
           "description": "Four different nations claimed the gold medals on the first day of European Youth Orienteering Championships, which take place in Szczechin, Poland this weekend. Saturday’s long distance tested the athletes’ physical abilities in the hilly terrain, where they also had to show their skills in coping with route planning on at least one long leg. […]",
@@ -267,6 +277,16 @@
           "publishedOn": "2024-06-11T01:48:27.000Z",
           "wordCount": 1224,
           "title": "MelBushO is Back!  Candlebark Park, Sunday 30 June",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13637",
+          "author": "Debbie Dodd",
+          "description": "Congratulations to all of our highly deserving award winners!\nOrienteering Victoria 2023 Awards Announced first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/orienteering-victoria-annual-general-meeting-friday-31-may/",
+          "publishedOn": "2024-06-04T00:12:46.000Z",
+          "wordCount": 1182,
+          "title": "Orienteering Victoria 2023 Awards Announced",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -856,16 +876,6 @@
           "publishedOn": "2024-05-27T12:33:41.000Z",
           "wordCount": 2171,
           "title": "World Cup 1 News Recap",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11105",
-          "author": "elizabethl",
-          "description": "Orienteering Australia has developed a whole of sport participation plan for 2024-2025.\nOrienteering Australia launches Orienteering Participation Plan! first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/orienteering-australia-launches-orienteering-participation-plan/",
-          "publishedOn": "2024-05-25T09:00:00.000Z",
-          "wordCount": 2225,
-          "title": "Orienteering Australia launches Orienteering Participation Plan!",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

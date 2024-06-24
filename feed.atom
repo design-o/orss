@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T18:08:44.836Z</updated>
+    <updated>2024-06-24T00:35:28.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EYOC: Fast sprint in central Szczechin saw new nations rise to the top]]></title>
+        <id>https://orienteering.sport/?p=72119</id>
+        <link href="https://orienteering.sport/eyoc-fast-sprint-in-central-szczechin-saw-new-nations-rise-to-the-top/"/>
+        <updated>2024-06-23T18:22:59.000Z</updated>
+        <summary type="html"><![CDATA[The more than 400 athletes at European Youth Orienteering Championships found the fast shoes from the bag on Sunday afternoon, when the EYOC Sprint race took place in central Szczechin. And compared to yesterday’s long distance forest race, there were three new faces on top of the four EYOC podiums after today’s race, which took […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Registration Extended | Pan-American Masters Games 2024]]></title>
         <id>https://neooc.com/?p=47397</id>
@@ -323,6 +333,17 @@ WORLD CUP ROUND 2 NEWS RECAP first appeared on Orienteering Australia.]]></summa
 GFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Victoria 2023 Awards Announced]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13637</id>
+        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-annual-general-meeting-friday-31-may/"/>
+        <updated>2024-06-04T00:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to all of our highly deserving award winners!
+Orienteering Victoria 2023 Awards Announced first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -819,17 +840,6 @@ The post Senior Home International Declarations of Interest appeared first on NI
         <summary type="html"><![CDATA[Joey Hadorn (SUI) and Tove Alexandersson (SWE) took the first Orienteering World Cup wins of 2024 with their victories in Saturday’s Knock-Out Sprint in Switzerland. Yesterday’s heavy rain was nowhere to be seen in sunny, central Olten, that hosted all of Saturday’s races from the quarter finals before noon and until the finals some hours […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia launches Orienteering Participation Plan!]]></title>
-        <id>https://orienteering.asn.au/?p=11105</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-launches-orienteering-participation-plan/"/>
-        <updated>2024-05-25T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia has developed a whole of sport participation plan for 2024-2025.
-Orienteering Australia launches Orienteering Participation Plan! first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
