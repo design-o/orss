@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T06:10:33.802Z</updated>
+    <updated>2024-06-25T12:12:55.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Silver medal at European Youth Orienteering Championships]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54119</id>
+        <link href="https://www.scottish-orienteering.org/news/silver-medal-at-european-youth-orienteering-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=silver-medal-at-european-youth-orienteering-championships"/>
+        <updated>2024-06-25T10:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Scottish runners enjoyed some success in Poland at the weekend, with James Hammond (Forth Valley Orienteers) taking a silver medal in the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vic MTBO Series, Sunday 7 July, Tallarook]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13333</id>
@@ -886,16 +896,6 @@ The post Senior Home International Declarations of Interest appeared first on NI
         <updated>2024-05-27T02:07:05.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Gemperle and Svensk win fast sprint in Switzerland]]></title>
-        <id>https://orienteering.sport/?p=71595</id>
-        <link href="https://orienteering.sport/world-cup-gemperle-and-svensk-wins-fast-sprint-in-switzerland/"/>
-        <updated>2024-05-26T18:28:08.000Z</updated>
-        <summary type="html"><![CDATA[The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

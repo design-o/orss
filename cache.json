@@ -204,16 +204,6 @@
           "wordCount": 2056,
           "title": "CX80 EMTBOC: Europe’s MTBO stars gather in Poland",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2022/07/wmtboc2022_relay_mstart-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=71595",
-          "author": "Erling Thisted",
-          "description": "The old city center of Olten, Switzerland and the many energetic spectators in the arena created another nice backdrop for Sunday’s individual World Cup sprint Switzerland’s Natalia Gemperle took her first World Cup win in six years – a comfortable one with 12 seconds of margin, whereas Emil Svensk (SWE) only secured his victory by […]",
-          "link": "https://orienteering.sport/world-cup-gemperle-and-svensk-wins-fast-sprint-in-switzerland/",
-          "publishedOn": "2024-05-26T18:28:08.000Z",
-          "wordCount": 2045,
-          "title": "World Cup: Gemperle and Svensk win fast sprint in Switzerland",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/2024_owcr1_nataliagemperle_silvanschletti-1024x640.jpg"
         }
       ]
     },
@@ -634,6 +624,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54119",
+          "author": "nikkihoward",
+          "description": "Scottish runners enjoyed some success in Poland at the weekend, with James Hammond (Forth Valley Orienteers) taking a silver medal in the […]",
+          "link": "https://www.scottish-orienteering.org/news/silver-medal-at-european-youth-orienteering-championships/?utm_source=rss&utm_medium=rss&utm_campaign=silver-medal-at-european-youth-orienteering-championships",
+          "publishedOn": "2024-06-25T10:41:56.000Z",
+          "wordCount": 1758,
+          "title": "Silver medal at European Youth Orienteering Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_1596-819x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54113",
           "author": "nikkihoward",
