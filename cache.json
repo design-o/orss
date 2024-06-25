@@ -231,16 +231,6 @@
           "wordCount": 2586,
           "title": "World Cup Italy 2024: Maps, Results & Splits analysis illustrations",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/06/sprint_women-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20065",
-          "author": "Jan Kocbach",
-          "description": "Sweden and Switzerland dominated the first World Cup weekend of 2024 in Olten, Switzerland – taking two victories each – but with four different winners. Tove Alexandersson (Sweden) and Joey Hadorn (Switzerland) took the victories on the KO-Sprint while Natalia Gemperle (Switzerland) and Emil Svensk (Sweden) took the victories on Sunday’s individual sprint. While the ...",
-          "link": "https://news.worldofo.com/2024/05/27/world-cup-opening-switzerland-2024-maps-and-results/",
-          "publishedOn": "2024-05-27T03:00:36.000Z",
-          "wordCount": 1944,
-          "title": "World Cup Opening Switzerland 2024: Maps and Results",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/05/2024_vc1_kos-scaled-660x330.jpg"
         }
       ]
     },
@@ -357,16 +347,6 @@
           "publishedOn": "2024-05-30T02:43:20.000Z",
           "wordCount": 1048,
           "title": "Millennium Club Milestones – New Hall of Fame Member and Touring Legend",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13630",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/vale-keith-anker/",
-          "publishedOn": "2024-05-27T02:07:05.000Z",
-          "wordCount": 994,
-          "title": "Vale Keith Anker",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -791,6 +771,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5802",
+          "author": "NIOA Secretary",
+          "description": "With 3 NI events in a week (and more club events and activities besides), it’s been a busy start to the summer. First off was the second event in the 2024 NI Urban League at South Craigavon on 16 June, with Graeme Francis’ extended map...\nThe post The Northern Ireland 3 Days appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/the-northern-ireland-3-days/",
+          "publishedOn": "2024-06-25T13:53:43.000Z",
+          "wordCount": 4491,
+          "title": "The Northern Ireland 3 Days",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/06/Warrenpoint.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5766",
           "author": "NIOA Secretary",
