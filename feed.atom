@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T18:09:31.922Z</updated>
+    <updated>2024-06-25T00:33:37.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Southern Cross Teams Named]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59817</id>
+        <link href="https://www.orienteering.org.nz/news/2024-southern-cross-teams-named/"/>
+        <updated>2024-06-24T19:16:49.000Z</updated>
+        <summary type="html"><![CDATA[The ONZ selection panel has named this year’s teams to contest the Southern Cross Team in Australia: Karahiwi Senior Boys: Oscar Burns, Cody Carter, Jake McLellan, Blake McKinnon, Solomon Randerson Senior Girls: Anna Babington, Phoebe Hunt, Alicia McGivern, Amy Nicoll, Nika Rayward Junior Boys: Harley Brennan (Subject to fitness), Arya Chebbi, Micah Dunn, Charlie Milne, […]
+2024 Southern Cross Teams Named first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EYOC: Relay wins for Finland, Hungary, Czechia and Sweden]]></title>
+        <id>https://orienteering.sport/?p=72130</id>
+        <link href="https://orienteering.sport/eyoc-relay-wins-for-finland-hungary-czechia-and-sweden/"/>
+        <updated>2024-06-24T19:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Monday’s relays were the last race at the 2024 European Youth Orienteering Championships in Szczechin, Poland. The more than 400 athletes were back in the forest after yesterday’s sprint and were met by a varied terrain with quite a number of hills and richly-forked courses. Here, Finland’s W16 team with Lotta Laakso, Anni Jantunen and […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF continues the course towards less climate emissions]]></title>
         <id>https://orienteering.sport/?p=72127</id>
@@ -357,6 +378,15 @@ WORLD CUP ROUND 2 NEWS RECAP first appeared on Orienteering Australia.]]></summa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Park Street Update: Events June 19-25]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2024-06-05T02:41:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GFR 2024 | Great Forest Rogaine]]></title>
         <id>https://www.orienteering.org.nz/?p=59766</id>
         <link href="https://www.orienteering.org.nz/uncategorized/gfr-2024-great-forest-rogaine/"/>
@@ -445,6 +475,17 @@ Orienteering Victoria 2023 Awards Announced first appeared on Orienteering Victo
         <summary type="html"><![CDATA[From flat and relatively easy orienteering in the first World Cup round on Swiss ground, to tricky, hilly orienteering in the second World Cup round in Geona, Italy. Victories went to Simona Aebersold (Switzerland) and Kasper Fosser (Norway) in the individual Sprint, while Switzerland won the Sprint Relay. With more varied orienteering, other nations managed to ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13635</id>
+        <link href="https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/"/>
+        <updated>2024-06-03T02:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Get your entries in for the 2024 Maxi 3 Hour on June 9 at Glenlyon, and stay overnight for a free training session on Monday.
+June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

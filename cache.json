@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72130",
+          "author": "Erling Thisted",
+          "description": "Monday’s relays were the last race at the 2024 European Youth Orienteering Championships in Szczechin, Poland. The more than 400 athletes were back in the forest after yesterday’s sprint and were met by a varied terrain with quite a number of hills and richly-forked courses. Here, Finland’s W16 team with Lotta Laakso, Anni Jantunen and […]",
+          "link": "https://orienteering.sport/eyoc-relay-wins-for-finland-hungary-czechia-and-sweden/",
+          "publishedOn": "2024-06-24T19:06:44.000Z",
+          "wordCount": 1914,
+          "title": "EYOC: Relay wins for Finland, Hungary, Czechia and Sweden",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/eyoc2024_logo.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=72127",
           "author": "Erling Thisted",
           "description": "The International Orienteering Federation is still well on its way to achieving its goals for lowering climate emissions. This appears from IOF’s Carbon Budget Report for 2023, which estimates the CO2 emissions of the federation in the past year and has just been released. The report has been created by IOF’s Environment and Sustainability Commission […]",
@@ -300,6 +310,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2024-06-05T02:41:54.000Z",
+          "wordCount": 1209,
+          "title": "Park Street Update: Events June 19-25",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13637",
           "author": "Debbie Dodd",
           "description": "Congratulations to all of our highly deserving award winners!\nOrienteering Victoria 2023 Awards Announced first appeared on Orienteering Victoria.",
@@ -317,6 +337,16 @@
           "publishedOn": "2024-06-03T05:36:42.000Z",
           "wordCount": 990,
           "title": "Victorians Selected to Australian Teams – Who, Where and When",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13635",
+          "author": "Debbie Dodd",
+          "description": "Get your entries in for the 2024 Maxi 3 Hour on June 9 at Glenlyon, and stay overnight for a free training session on Monday.\nJune Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/",
+          "publishedOn": "2024-06-03T02:05:51.000Z",
+          "wordCount": 1276,
+          "title": "June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -410,6 +440,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59817",
+          "author": "Christo Peters",
+          "description": "The ONZ selection panel has named this year’s teams to contest the Southern Cross Team in Australia: Karahiwi Senior Boys: Oscar Burns, Cody Carter, Jake McLellan, Blake McKinnon, Solomon Randerson Senior Girls: Anna Babington, Phoebe Hunt, Alicia McGivern, Amy Nicoll, Nika Rayward Junior Boys: Harley Brennan (Subject to fitness), Arya Chebbi, Micah Dunn, Charlie Milne, […]\n2024 Southern Cross Teams Named first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2024-southern-cross-teams-named/",
+          "publishedOn": "2024-06-24T19:16:49.000Z",
+          "wordCount": 2125,
+          "title": "2024 Southern Cross Teams Named",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2022/06/Southern-X-Challenge.jpeg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59799",
           "author": "Joolz",
