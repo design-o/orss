@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T18:10:31.617Z</updated>
+    <updated>2024-06-26T00:33:31.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -877,17 +877,6 @@ The post Entries closing for the NI Sprint and Middles appeared first on NI Orie
 World Cup 1 News Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Home International Declarations of Interest]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5749</id>
-        <link href="https://www.niorienteering.org.uk/senior-home-international-declarations-of-interest/"/>
-        <updated>2024-05-27T08:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Declarations of Interest to compete on the Ireland team at the 2024 Senior Home International to be held in Scotland on 7-8 September in the Stirling area should be with with the selectors by Sunday 2 June. This is for M/W20 and M/W21 classes although...
-The post Senior Home International Declarations of Interest appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
