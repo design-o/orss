@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-26T00:33:31.168Z</updated>
+    <updated>2024-06-26T06:10:19.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -853,28 +853,6 @@ Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June first ap
         <updated>2024-05-28T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[Orienteering Australia has received a Play Well Participation Grant from the ASC, with plans of using the funds for the Learn to Orienteer National Expansion project.
 Play Well Participation Grant first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries closing for the NI Sprint and Middles]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5751</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-the-ni-sprint-and-middles/"/>
-        <updated>2024-05-27T16:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Entries close on Tuesday 28 May for the the NI Sprint and Middle Distance Championships on Saturday 1 June. Don’t miss this action packed day to include: The NI Sprint Champs in Ballymena TempO at Slemish College NI Orienteering AGM at Slemish College Prizegiving at...
-The post Entries closing for the NI Sprint and Middles appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 1 News Recap]]></title>
-        <id>https://orienteering.asn.au/?p=11119</id>
-        <link href="https://orienteering.asn.au/world-cup-1-news-recap/"/>
-        <updated>2024-05-27T12:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Five Australian athletes raced in the exciting Knock-Out Sprint format in the World Cup Round 1.
-World Cup 1 News Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
         </author>
