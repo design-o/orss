@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T06:10:49.662Z</updated>
+    <updated>2024-06-27T12:13:45.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -843,26 +843,6 @@ Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June first ap
         <link href="https://orienteering.sport/heikkila-and-swiss-duo-lead-world-cup-standings-ahead-of-genoa/"/>
         <updated>2024-05-29T09:01:45.000Z</updated>
         <summary type="html"><![CDATA[Finland’s Tuomas Heikkilä leads the men’s World Cup, while Switzerland’s Natalia Gemperle and Simona Aebersold share first place in the women’s after this weekend’s Round 1 in Olten, Switzerland. Heikkilä had an impressive weekend with a third place in Saturday’s Knock-Out Sprint, which he followed up with a second place in the sprint the following […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battersea Park-O Results]]></title>
-        <id>https://slow.org.uk/?p=22067</id>
-        <link href="https://slow.org.uk/racereports/battersea-results-may24/"/>
-        <updated>2024-05-28T21:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf Results – SPORTident This post will be updated tomorrow (29th May) with Routegadget, etc]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 EMTBOC: Europe’s MTBO stars gather in Poland]]></title>
-        <id>https://orienteering.sport/?p=71646</id>
-        <link href="https://orienteering.sport/cx80-emtboc-europes-mtbo-stars-gather-in-poland/"/>
-        <updated>2024-05-28T21:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Poland is the host for this year’s CX80 World Cup first round, the European MTBO Championships, with four days of intense racing scheduled from Thursday to Sunday. 109 athletes from 20 nations will be striving for the medals. Almost all the top names in MTBO are entered, including all the defending European Champions except for […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
