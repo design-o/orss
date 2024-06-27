@@ -374,6 +374,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22147",
+          "author": "vinh",
+          "description": "Several SLOW members enjoyed the British Sprint Relays and the British Sprint Championships in the Midlands on the weekend 22-23rd June. Everyone found a way [...]",
+          "link": "https://slow.org.uk/clubnews/bsc2024/",
+          "publishedOn": "2024-06-26T18:26:28.000Z",
+          "wordCount": 2316,
+          "title": "British Sprint Weekend 2024",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/british-sprint-weekend/files/BSRC2024-1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22116",
           "author": "Paul Street",
           "description": "Thanks for coming along to this week’s Park Race, and thanks to the Rose and Crown for hosting us. The race was organised by Nathan [...]",
@@ -420,6 +430,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59831",
+          "author": "Joolz",
+          "description": "We are pleased to announce the MTBO selected team for the Australia-NZ challenge at the AustralianMTBO Champs in October 2024 Selection into the MTBO squad is made according to the relevant Selection Policy and guidelines for MTBO selectors. \nAustralia-NZ challenge 2024 MTBO selection first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/australia-nz-challenge-2024-mtbo-selection/",
+          "publishedOn": "2024-06-26T23:37:15.000Z",
+          "wordCount": 1951,
+          "title": "Australia-NZ challenge 2024 MTBO selection",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/MTBO-sign-Pete.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59817",
           "author": "Christo Peters",
@@ -876,16 +896,6 @@
           "publishedOn": "2024-05-30T09:00:00.000Z",
           "wordCount": 2125,
           "title": "Australian Bushrangers Team and Preview",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11139",
-          "author": "elizabethl",
-          "description": "Orienteering Australia has received a Play Well Participation Grant from the ASC, with plans of using the funds for the Learn to Orienteer National Expansion project.\nPlay Well Participation Grant first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/play-well-participation-grant/",
-          "publishedOn": "2024-05-28T08:00:00.000Z",
-          "wordCount": 2083,
-          "title": "Play Well Participation Grant",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
