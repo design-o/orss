@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T12:13:45.244Z</updated>
+    <updated>2024-06-27T18:08:32.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European Youth Orienteering Championships Recap]]></title>
+        <id>https://orienteering.asn.au/?p=11409</id>
+        <link href="https://orienteering.asn.au/european-youth-orienteering-championships-recap/"/>
+        <updated>2024-06-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Australia had 5 athletes competing in Szczecin, Poland in the 2024 EYOC, the largest competition in the IOF calendar.
+European Youth Orienteering Championships Recap first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australia-NZ challenge 2024 MTBO selection]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59831</id>
