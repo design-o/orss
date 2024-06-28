@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72413",
+          "author": "Erling Thisted",
+          "description": "The international highlight of the year for junior orienteers begins on Monday when the Junior World Orienteering Championships kick off in Pilsen, Czechia. More than 330 athletes from 38 nations have registered for the championships, which count five races during JWOC week. The youngest discipline on the programme, Sprint Relay gets the party started before […]",
+          "link": "https://orienteering.sport/follow-jwoc-in-czechia-from-monday/",
+          "publishedOn": "2024-06-28T10:27:49.000Z",
+          "wordCount": 1972,
+          "title": "Follow JWOC in Czechia from Monday",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/jwoc_2024_logo.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=72130",
           "author": "Erling Thisted",
           "description": "Monday’s relays were the last race at the 2024 European Youth Orienteering Championships in Szczechin, Poland. The more than 400 athletes were back in the forest after yesterday’s sprint and were met by a varied terrain with quite a number of hills and richly-forked courses. Here, Finland’s W16 team with Lotta Laakso, Anni Jantunen and […]",
@@ -808,6 +818,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11440",
+          "author": "elizabethl",
+          "description": "With a strong team for the mixed sprint relay at the British Sprint Orienteering Championships, the team finished 4th overall.\nBritish Sprint Orienteering Championships first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/british-sprint-orienteering-championships/",
+          "publishedOn": "2024-06-28T09:30:00.000Z",
+          "wordCount": 2321,
+          "title": "British Sprint Orienteering Championships",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11409",
           "author": "elizabethl",
