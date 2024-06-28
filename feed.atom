@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T00:34:03.311Z</updated>
+    <updated>2024-06-28T06:10:21.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -846,16 +846,6 @@ Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June first ap
         <updated>2024-05-30T02:43:20.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Focus on Club Accreditation]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53896</id>
-        <link href="https://www.scottish-orienteering.org/news/focus-on-club-accreditation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=focus-on-club-accreditation"/>
-        <updated>2024-05-29T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[The SOA runs an Accreditation scheme that allows clubs to be recognised for their achievements. Post COVID, the scheme was […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
