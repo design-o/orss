@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T12:13:00.020Z</updated>
+    <updated>2024-06-28T18:09:01.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -847,26 +847,6 @@ Oceania 2025 Update | dates and venues announced first appeared on Orienteering 
 Australian Bushrangers Team and Preview first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59685</id>
-        <link href="https://www.orienteering.org.nz/news/selection-notice-for-orienteering-world-cup-rounds-3-4-due-9th-june/"/>
-        <updated>2024-05-30T04:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Those wishing to be considered for Orienteering World Cup Rounds 3 (Hungary) and 4 (Finland) must have their expressions of interest to the Convenor of Selectors Al Cory-Wright (alistaircorywright@gmail.com) by Sunday 9th June 2024. World Cup No.3 The third round of the 2024 World Cup will be held in Mor Hungary 17th-20th August 2024, and will consist […]
-Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millennium Club Milestones – New Hall of Fame Member and Touring Legend]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13674</id>
-        <link href="https://www.vicorienteering.asn.au/millennium-club-milestones-new-hall-of-fame-member-and-touring-legend/"/>
-        <updated>2024-05-30T02:43:20.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
