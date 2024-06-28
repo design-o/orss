@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T18:08:32.558Z</updated>
+    <updated>2024-06-28T00:34:03.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet the SOA Board – June 2024]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54144</id>
+        <link href="https://www.scottish-orienteering.org/news/meet-the-soa-board-june-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meet-the-soa-board-june-2024"/>
+        <updated>2024-06-27T19:09:51.000Z</updated>
+        <summary type="html"><![CDATA[After the June 2024 AGM, we thought now was a pertinent time to give you a bit of background about […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European Youth Orienteering Championships Recap]]></title>
         <id>https://orienteering.asn.au/?p=11409</id>
@@ -846,16 +856,6 @@ Selection Notice for ORIENTEERING WORLD CUP ROUNDS 3 & 4 | due 9th June first ap
         <summary type="html"><![CDATA[The SOA runs an Accreditation scheme that allows clubs to be recognised for their achievements. Post COVID, the scheme was […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heikkilä and Swiss duo lead World Cup standings before Genoa]]></title>
-        <id>https://orienteering.sport/?p=71694</id>
-        <link href="https://orienteering.sport/heikkila-and-swiss-duo-lead-world-cup-standings-ahead-of-genoa/"/>
-        <updated>2024-05-29T09:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Finland’s Tuomas Heikkilä leads the men’s World Cup, while Switzerland’s Natalia Gemperle and Simona Aebersold share first place in the women’s after this weekend’s Round 1 in Olten, Switzerland. Heikkilä had an impressive weekend with a third place in Saturday’s Knock-Out Sprint, which he followed up with a second place in the sprint the following […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
