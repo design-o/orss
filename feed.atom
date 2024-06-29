@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T12:12:37.714Z</updated>
+    <updated>2024-06-29T18:08:12.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -791,28 +791,6 @@ Get to know our new events liaison |  Lachlan McKenzie first appeared on Orien
         <updated>2024-05-31T06:14:19.000Z</updated>
         <summary type="html"><![CDATA[Landing in a new country, you learn to adapt very fast. After Rachel’s arrival in the UK, the main change in running was to get used to significantly muddier conditions – much more than she had encountered in New Zealand. For Zefa, there has been a shift in sport attire due to regulations. Shorts are banned in […]
 Euro orienteering|  Event notes from Kiwis Kaia, Zefa & Rachel  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controller’s Clinic feedback | Taranaki]]></title>
-        <id>https://www.orienteering.org.nz/?p=59692</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/controllers-clinic-feedback-taranaki/"/>
-        <updated>2024-05-31T06:02:57.000Z</updated>
-        <summary type="html"><![CDATA[The recent two-day controllers’ clinic was successful, with primarily Taranaki orienteers in attendance, along with one enthusiastic participant from outside the region. All are on their way to certify as a qualified controllers.  Feedback from the participants:“Great course, good to know the extent of control a controller has. Liked the time spent on test printing, proximity […]
-Controller’s Clinic feedback | Taranaki  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania 2025 Update | dates and venues announced]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59688</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-update-dates-and-venues-announced/"/>
-        <updated>2024-05-31T05:57:43.000Z</updated>
-        <summary type="html"><![CDATA[We are extremely pleased to announce that the final dates for Oceania 2025 have now been agreed on between ONZ and Orienteering Australia.  A huge thanks to Wellington and Red Kiwis members who have been working with land owners behind the scenes to find a way to gain access to the forests at a time […]
-Oceania 2025 Update | dates and venues announced first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
         </author>
