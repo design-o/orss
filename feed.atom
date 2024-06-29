@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T18:09:01.348Z</updated>
+    <updated>2024-06-29T00:33:13.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -493,6 +493,15 @@ GFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Millennium Club Milestones – New Hall of Fame Member and Touring Legend]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13674</id>
+        <link href="https://www.vicorienteering.asn.au/millennium-club-milestones-new-hall-of-fame-member-and-touring-legend/"/>
+        <updated>2024-06-04T02:43:20.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Orienteering Victoria 2023 Awards Announced]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13637</id>
         <link href="https://www.vicorienteering.asn.au/orienteering-victoria-annual-general-meeting-friday-31-may/"/>
@@ -826,27 +835,6 @@ Oceania 2025 Update | dates and venues announced first appeared on Orienteering 
         <summary type="html"><![CDATA[Eline Gemperle and Jonathan Ståhl are appointed by the newly elected IOF Athlete Representatives to represent the athletes at IOF Council in the upcoming General Assembly period, which starts after the IOF General Assembly 2024. The four elected Athlete Advisory Groups has appointed representatives to the new Athletes’ Commission  –  two members from each discipline: […]]]></summary>
         <author>
             <name>Sondre Sande Gullord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to follow Orienteering World Cup Round 2 in Italy]]></title>
-        <id>https://orienteering.sport/?p=71721</id>
-        <link href="https://orienteering.sport/how-to-follow-orienteering-world-cup-round-2-in-italy/"/>
-        <updated>2024-05-30T09:51:32.000Z</updated>
-        <summary type="html"><![CDATA[We have only just said goodbye to Olten, Switzerland but it’s already time to continue the Orienteering World Cup in Genoa, Italy this weekend. Round 2 consists of a sprint on Saturday and a sprint relay on Sunday at the edge of the Mediterranean. And it is literally on the edge of the Mediterranean, since […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Bushrangers Team and Preview]]></title>
-        <id>https://orienteering.asn.au/?p=11150</id>
-        <link href="https://orienteering.asn.au/australian-bushrangers-team-and-preview/"/>
-        <updated>2024-05-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian Bushrangers representative team is announced, along with a preview of the terrain and map.
-Australian Bushrangers Team and Preview first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
