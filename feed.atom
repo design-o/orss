@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T00:37:46.563Z</updated>
+    <updated>2024-06-30T06:09:45.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -663,26 +663,6 @@ ATHLETE INTERVIEW WITH ALVIN CRAIG first appeared on Orienteering Australia.]]><
 The post Sport Development Conference 2024 first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family Coaching in Dundee]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53917</id>
-        <link href="https://www.scottish-orienteering.org/news/family-coaching-in-dundee/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=family-coaching-in-dundee"/>
-        <updated>2024-05-31T14:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few weeks Scottish Orienteering has been busy in Dundee. With the support of coach Matthew Clark (KFO) […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 EMTBOC Long Distance: second gold for Denmark, first for Czechia]]></title>
-        <id>https://orienteering.sport/?p=71760</id>
-        <link href="https://orienteering.sport/cx80-emtboc-long-distance-second-gold-for-denmark-first-for-czechia/"/>
-        <updated>2024-05-31T12:58:06.000Z</updated>
-        <summary type="html"><![CDATA[The Long Distance medals were won by two favourites: Nikoline Splittorff, Denmark, winner of the Sprint yesterday, and Vojtech Ludvik, Czechia, leader of the IOF World Rankings. Both riders were in front at the mid-race time-check and made good route choices throughout on a day with good riding conditions. Splittorff, women’s World Ranking leader, is […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
