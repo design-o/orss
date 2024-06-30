@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T06:09:45.843Z</updated>
+    <updated>2024-06-30T12:12:40.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -652,17 +652,6 @@ The post Wilbert Hollinger awarded Colin Henderson Trophy appeared first on NI O
 ATHLETE INTERVIEW WITH ALVIN CRAIG first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sport Development Conference 2024]]></title>
-        <id>https://www.orienteering.ie/?p=17689</id>
-        <link href="https://www.orienteering.ie/sport-development-conference-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sport-development-conference-2024"/>
-        <updated>2024-05-31T21:35:30.000Z</updated>
-        <summary type="html"><![CDATA[The Operations Team travelled to Dublin this week to attend the annual Sport Development Conference. With over 270 Development Officers representing 75 sporting organisations, it was Sport Ireland’s largest Sport Development Conference yet. The conference is a fantastic networking opportunity for the NGBs and LSPs, and it enables Orienteering Ireland to meet the LSP team […]
-The post Sport Development Conference 2024 first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
