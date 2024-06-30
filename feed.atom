@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T18:08:12.078Z</updated>
+    <updated>2024-06-30T00:37:46.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -683,116 +683,6 @@ The post Sport Development Conference 2024 first appeared on Orienteering in Ire
         <summary type="html"><![CDATA[The Long Distance medals were won by two favourites: Nikoline Splittorff, Denmark, winner of the Sprint yesterday, and Vojtech Ludvik, Czechia, leader of the IOF World Rankings. Both riders were in front at the mid-race time-check and made good route choices throughout on a day with good riding conditions. Splittorff, women’s World Ranking leader, is […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Round 2 Preview & Athlete Announcement]]></title>
-        <id>https://orienteering.asn.au/?p=11211</id>
-        <link href="https://orienteering.asn.au/world-cup-round-2-preview-athlete-announcement/"/>
-        <updated>2024-05-31T11:29:30.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering World Cup Round 2 in Genova, Italy begins this Saturday, 1 June.
-World Cup Round 2 Preview & Athlete Announcement first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair | May 2024]]></title>
-        <id>https://www.orienteering.org.nz/?p=59727</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/updates/view-from-the-chair-may-2025/"/>
-        <updated>2024-05-31T06:54:28.000Z</updated>
-        <summary type="html"><![CDATA[After a flurry of team selections in the last few months we are now seeing the first of the New Zealand teams represent us overseas with the Orienteering World Cup races in Olten Switzerland. As I write the individual sprints are shortly about to take place. International races coming up include World Cup round 2 […]
-View from the Chair | May 2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering World Cup |Round 1 Olten, Switzerland]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59723</id>
-        <link href="https://www.orienteering.org.nz/news/orienteering-world-cup-round-1-olten-switzerland/"/>
-        <updated>2024-05-31T06:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Laura’s pre-competition training has been remarkably successful, resulting in a strong performance representing New Zealand. Reflecting on her progress, Laura noted, “This is the first year since my move to the UK in 2015 that I’ve managed to navigate through winter without injury. Usually, I’m scrambling to build speed before major competitions, but this year, […]
-Orienteering World Cup |Round 1 Olten, Switzerland first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Orienteering Week event | Stoneybrook]]></title>
-        <id>https://www.orienteering.org.nz/?p=59719</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/world-orienteering-week-event-stoneybrook/"/>
-        <updated>2024-05-31T06:41:25.000Z</updated>
-        <summary type="html"><![CDATA[What a fabulous start to our 2024 North West Rogaine Series. After a crisp start, we were treated to beautiful blue skies and sunshine – perfect conditions for exploring those rolling hills..Thanks to our Course Planner, Tahi Harris, and Controller Nick Harris who made the most of the map in choosing control sites – reaching […]
-World Orienteering Week event | Stoneybrook first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whangarei Orienteering Club | History & welcome to ONZ]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59715</id>
-        <link href="https://www.orienteering.org.nz/news/whangarei-orienteering-club-history-welcome-to-onz/"/>
-        <updated>2024-05-31T06:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Exciting news! Whangarei Orienteering club have officially joined Orienteering New Zealand as a stand alone club. Up until now they have been a subsidiary club with North West Orienteering Club. The process of becoming a stand alone club has taken some time and effort, and so has compiling of the club history up until now.  […]
-Whangarei Orienteering Club | History & welcome to ONZ  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southland School Champs]]></title>
-        <id>https://www.orienteering.org.nz/?p=59711</id>
-        <link href="https://www.orienteering.org.nz/schools/southland-school-champs/"/>
-        <updated>2024-05-31T06:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Southland Orienteering Club’s annual Schools’ Championships attracted over 100 teams from all over Southland as well as Queenstown and Dunedin. There were 6 courses at Fosbender Park, in sand dune and coastal pine forest. The event gave competitors a chance to experience orienteering for the first time and for others to challenge their skills on more difficult courses.    […]
-Southland School Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZ Secondary Schools | 19 -21 July]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59708</id>
-        <link href="https://www.orienteering.org.nz/news/nz-secondary-schools-19-21-july/"/>
-        <updated>2024-05-31T06:31:52.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Wellington is looking forward to welcoming all year 7-13 orienteers from across New Zealand to the Wellington region for three days of high-quality orienteering from the 19th-21st July 2024. Join us and showcase your navigational skills, support your friends and create lasting memories in unique terrain. The events are located north of Wellington, towards the Kapiti Coast. […]
-NZ Secondary Schools | 19 -21 July first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMS Games Entries close on Wed 5 June]]></title>
-        <id>https://www.orienteering.org.nz/?p=59705</id>
-        <link href="https://www.orienteering.org.nz/blog/aims-games-entries-close-on-wed-5-june/"/>
-        <updated>2024-05-31T06:28:41.000Z</updated>
-        <summary type="html"><![CDATA[There is only ONE WEEK left for you to register for the 2024 Zespri AIMS Games!  Registrations close 7:59pm on 5th June 2024.  Remember that School Sports Co-ordinators must enter on behalf of schools. Late entries can not be accepted, so don’t miss out!  Check out the Zespri AIMS Games website for more details  www.nzaimsgames.co.nz
-AIMS Games Entries close on Wed 5 June first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get to know our new events liaison |  Lachlan McKenzie]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59701</id>
-        <link href="https://www.orienteering.org.nz/news/get-to-know-our-new-events-liaison-lachlan-mckenzie/"/>
-        <updated>2024-05-31T06:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Please let’s welcome the new events liaison to Orienteering New Zealand. Lachlan will be a great addition to the orienteering NZ team.   1. How did you find out about orienteering as a sport? As a child I hated sport but loved maps, so Mum took me to some Red Kiwi events when I was a schoolboy in […]
-Get to know our new events liaison |  Lachlan McKenzie first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euro orienteering|  Event notes from Kiwis Kaia, Zefa & Rachel]]></title>
-        <id>https://www.orienteering.org.nz/?p=59697</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/euro-orienteering-event-notes-from-kiwis-kaia-zefa-rachel/"/>
-        <updated>2024-05-31T06:14:19.000Z</updated>
-        <summary type="html"><![CDATA[Landing in a new country, you learn to adapt very fast. After Rachel’s arrival in the UK, the main change in running was to get used to significantly muddier conditions – much more than she had encountered in New Zealand. For Zefa, there has been a shift in sport attire due to regulations. Shorts are banned in […]
-Euro orienteering|  Event notes from Kiwis Kaia, Zefa & Rachel  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
