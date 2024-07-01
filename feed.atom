@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T18:08:26.390Z</updated>
+    <updated>2024-07-01T00:39:21.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -631,27 +631,6 @@ The post Wilbert Hollinger awarded Colin Henderson Trophy appeared first on NI O
         <summary type="html"><![CDATA[Simona Aebersold (SUI) and Kasper Fosser (NOR) won today’s Orienteering World Cup sprint in Genoa, Italy by large margins. With an arena beautifully located on the waterfront in Genoa’s western end and a both varied and challenging sprint course, Round 2 of the World Cup got off to a great start. Both the women’s and […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Tooting Commons, Tuesday 11th June]]></title>
-        <id>https://slow.org.uk/?p=22047</id>
-        <link href="https://slow.org.uk/events/park-tooting-june24/"/>
-        <updated>2024-06-01T10:29:08.000Z</updated>
-        <summary type="html"><![CDATA[Come and join us for the forth race of London 2024 Park Series at Tooting Commons on Tuesday 11th June 2024. Discover this beautiful common [...]]]></summary>
-        <author>
-            <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATHLETE INTERVIEW WITH ALVIN CRAIG]]></title>
-        <id>https://orienteering.asn.au/?p=11178</id>
-        <link href="https://orienteering.asn.au/athlete-interview-with-alvin-craig/"/>
-        <updated>2024-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This month's athlete interview features Alvin Craig, one of our best juniors in Australia.
-ATHLETE INTERVIEW WITH ALVIN CRAIG first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
