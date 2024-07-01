@@ -190,6 +190,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13733",
+          "author": "Margi Freemantle",
+          "description": "Neil Barr has recently completed a remap of Mosquito Creek and this event will be its first use. The contours are all new, based upon very recent lidar data, but expect the same challenges to test your orienteering skills.\nBendigo Bush – Mosquito Creek – Saturday 6 July first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/bendigo-bush-mosquito-creek-saturday-6-july/",
+          "publishedOn": "2024-07-01T06:11:39.000Z",
+          "wordCount": 1243,
+          "title": "Bendigo Bush – Mosquito Creek – Saturday 6 July",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13333",
           "author": "Debbie Dodd",
           "description": "The next Vic Series MTBO event is on 7 July, on a new map at Tallarook\nVic MTBO Series, Sunday 7 July, Tallarook first appeared on Orienteering Victoria.",
@@ -305,7 +315,18 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=18390",
+          "author": "Deirdre",
+          "description": "The Irish Junior Team recently took part in the 2024 European Youth Orienteering Championships, held in Szczecin, Poland from June 21st – June 24th. The team this year was the largest ever sent to EYOC, with 13 athletes selected to represent Ireland. This was the best team result for Ireland at EYOC so far (22nd […]\nThe post EYOC 2024 first appeared on Orienteering in Ireland.",
+          "link": "https://www.orienteering.ie/eyoc-2024/?utm_source=rss&utm_medium=rss&utm_campaign=eyoc-2024",
+          "publishedOn": "2024-07-01T10:51:36.000Z",
+          "wordCount": 670,
+          "title": "EYOC 2024",
+          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
+        }
+      ]
     },
     {
       "title": "South London Orienteers",
@@ -349,6 +370,156 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=59893",
+          "author": "Christo Peters",
+          "description": "The Board met last week and health and safety has been a focus, especially with a couple of recent serious incidents at events we will be sharing the learnings from reviewing these. Spoiler alert…the clubs on the ground had excellent responses and are great examples of good practice to share. At the Board level we’ve had […]\nView from the Chair | June 2024 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-june-2024/",
+          "publishedOn": "2024-07-01T08:44:11.000Z",
+          "wordCount": 2144,
+          "title": "View from the Chair | June 2024",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/03/Screenshot-634.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59889",
+          "author": "Christo Peters",
+          "description": "Sprint – 1 JuneTim tackled a challenging map in the individual sprint race with composure, pushing hard to secure 7th place. The race began with a highly technical garden section and a steep hill, descending into the older town buildings. Amber noted similarities to the Wellington Botanic Gardens map at the start, while Laura appreciated […]\nWorld Cup |Round Two, Genoa Italy | 1-2 June  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/world-cup-round-two-genoa-italy-1-2-june/",
+          "publishedOn": "2024-07-01T08:39:49.000Z",
+          "wordCount": 2278,
+          "title": "World Cup |Round Two, Genoa Italy | 1-2 June",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/OWC-2024-rnd2-photo-trio-1.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59883",
+          "author": "Christo Peters",
+          "description": "From June 22nd to 24th, fourteen young New Zealand athletes travelled to Poland to participate in the European Youth Orienteering Championships. On Saturday, June 22nd, the competition kicked off with the long-distance event. Rachel Baker and Tide Fa’avae both achieved commendable results, placing 18th and 20th respectively in the W18 category. Eddie Swain led the […]\nEYOC  |Szcezecin, Poland | 22-24 June  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/junior-2/eyoc-szcezecin-poland-22-24-june/",
+          "publishedOn": "2024-07-01T08:33:28.000Z",
+          "wordCount": 2480,
+          "title": "EYOC  |Szcezecin, Poland | 22-24 June",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/eyoc-parade.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59874",
+          "author": "Christo Peters",
+          "description": "King’s Birthday Weekend saw over 450 participants tackle the ‘Middle’ event at Canaan Downs, in tricky, highly technical terrain. Planner Amelia Horne and controller Calum Coombs had made most of the rolling farmland and moderate to fast open beech forest with intricate karst topography, numerous tomos and marble rock outcrops, resulting in a lot of […]\nKing’s Birthday Weekend| Nelson Orienteering Club first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/blog/kings-birthday-weekend-nelson-orienteering-club/",
+          "publishedOn": "2024-07-01T08:25:26.000Z",
+          "wordCount": 2722,
+          "title": "King’s Birthday Weekend| Nelson Orienteering Club",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/KBW24-duo-w-logo.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59871",
+          "author": "Christo Peters",
+          "description": "Bushrangers\nPinestars v’s Bushrangers  | King’s Birthday  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/blog/pinestars-vs-bushrangers-kings-birthday/",
+          "publishedOn": "2024-07-01T08:14:19.000Z",
+          "wordCount": 2088,
+          "title": "Pinestars v’s Bushrangers  | King’s Birthday",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/bushrangers.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59868",
+          "author": "Christo Peters",
+          "description": "Join us in the summer of 2025 for an unforgettable orienteering adventure through the stunning sand dunes and pines of the Manawatū. Our races will challenge your navigation skills and decision-making across a variety of fast and intricate forest maps. Oceania 2025 events are designed to provide elite orienteers with ideal training and competition grounds […]\nOceania Orienteering Championships 2025 |  24-27 January  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/oceania-orienteering-championships-2025-24-27-january/",
+          "publishedOn": "2024-07-01T08:10:11.000Z",
+          "wordCount": 2214,
+          "title": "Oceania Orienteering Championships 2025 |  24-27 January",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/1.2-lizzie-and-oceania-logo.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59865",
+          "author": "Christo Peters",
+          "description": "Get together a team for a great adventure in Whakarewarewa forest, Rotorua. Orienteering BOP is delighted to invite all previous competitors, and those newcomers wanting to enjoy a great adventure with their team mates, to the 2024 Great Forest Rogaine (GFR). GFR is a 3 or 6 hour, foot or mountain bike team rogaine open […]\nGreat Forest Rogaine | Rotorua – 27 July first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/rogaining/great-forest-rogaine-rotorua-27-july/",
+          "publishedOn": "2024-07-01T08:06:51.000Z",
+          "wordCount": 2076,
+          "title": "Great Forest Rogaine | Rotorua – 27 July",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/GFR_crp_2399518620544382161_n.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59862",
+          "author": "Christo Peters",
+          "description": "The Armidale/Uralla region is the location for this years AOC. It is a section of the Granite Belt which runs along the Great Dividing Range. The Granite Belt has played host to many State and National competitions. Championship events.:The Australian Middle, Relay and Long Championships will all be held on a new map. The same […]\nAustralian Orienteering Championship Carnival 2024  |  AOC 24  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/schools/australian-orienteering-championship-carnival-2024-aoc-24/",
+          "publishedOn": "2024-07-01T08:03:56.000Z",
+          "wordCount": 2246,
+          "title": "Australian Orienteering Championship Carnival 2024  |  AOC 24",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/AOC24.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59859",
+          "author": "Christo Peters",
+          "description": "Orienteering Wellington is looking forward to welcoming all year 7-13 orienteers from across New Zealand to the Wellington region for three days of high-quality orienteering from the 19th-21st July 2024. Join us and showcase your navigational skills, support your friends and create lasting memories in unique terrain. The events are located north of Wellington, towards the Kapiti Coast.All […]\nNZ Secondary Schools Orienteering Champs | 19 -21 July first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nz-secondary-schools-orienteering-champs-19-21-july/",
+          "publishedOn": "2024-07-01T08:00:03.000Z",
+          "wordCount": 2046,
+          "title": "NZ Secondary Schools Orienteering Champs | 19 -21 July",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/72b31f2b-29d8-71cd-2c4c-92ba204aca8d.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59856",
+          "author": "Christo Peters",
+          "description": "The Manawatū Schools Relay Champs will be August 2nd. Let your school know to plan the teams. Students run in teams of 3. Online entries close 24 July. The event fee is $5 each including ident hire. Categories: year 5/6,  7/8 boys/ girls and secondary girls / boys.  For more details email\nManawatū Schools Relay | 2 August first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/manawatu-schools-relay-2-august/",
+          "publishedOn": "2024-07-01T07:57:32.000Z",
+          "wordCount": 1988,
+          "title": "Manawatū Schools Relay | 2 August",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/HZ_122128229822283175_1117963750340574268_n.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59853",
+          "author": "Christo Peters",
+          "description": "Last year marked our 50th anniversary, and Bryan Teehan compiled a special booklet for the occasion. Meanwhile, Stuart Payne wearing a moonboot, was easily persuaded to update our 40-year-old history and extend it by another decade. The resulting 52-page document commemorates the 50th Anniversary of ONZ (formerly NZOF). When asked about the task of adding […]\nShort history of orienteering in New Zealand  |  50 years  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/short-history-of-orienteering-in-new-zealand-50-years/",
+          "publishedOn": "2024-07-01T07:54:25.000Z",
+          "wordCount": 2366,
+          "title": "Short history of orienteering in New Zealand  |  50 years",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Logos.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59850",
+          "author": "Christo Peters",
+          "description": "Team SelectionSelectors have published this year’s Southern Cross Team which will be officially approved shortly subject to ONZ’s appeal deadlines passing. This year’s team features athletes from Southland, PAPO, Nelson, Wellington, Red Kiwis, OBOP, Hawkes Bay, Waikato, Auckland and Counties Manukau – members from 2/3s of ONZ’s Clubs!  It is the first time in a number of years that […]\nSouthern Cross Challenge Update first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/southern-cross-challenge-update/",
+          "publishedOn": "2024-07-01T07:51:07.000Z",
+          "wordCount": 2134,
+          "title": "Southern Cross Challenge Update",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Southern-X-Challenge.jpeg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59846",
+          "author": "Christo Peters",
+          "description": "Orienteers in GodZone documentary |  NZ Mountain Film Festival  The Adventure of Racing follows is a documentary of a female-led adventure racing team. Film maker Ben Wallbank, follows the team competing in GodZone which was also the Adventure Racing World Championships in Fiordland, New Zealand. The documentary picked up a best documentary award for the work on exposing the challenges of […]\nOrienteers in GodZone documentary | NZ Mountain Film Festival  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/blog/orienteers-in-godzone-documentary-nz-mountain-film-festival/",
+          "publishedOn": "2024-07-01T07:45:47.000Z",
+          "wordCount": 2232,
+          "title": "Orienteers in GodZone documentary | NZ Mountain Film Festival",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Georgia-Whitla_Rab-Wahine-film_4846193870100158572_n-1.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59843",
+          "author": "Christo Peters",
+          "description": "Following the retirement of long-serving ONZ Performance Leader Malcolm Ingham earlier in the year, ONZ’s Board reached out to key stakeholders to review how High Performance (HP) should be staffed over the next five years. The group included current and form elite athletes, coaches, Board Members, current and former Club Presidents and a Regional Development […]\nONZ’s Board approve new HP staffing structure  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/onzs-board-approve-new-hp-staffing-structure/",
+          "publishedOn": "2024-07-01T07:39:32.000Z",
+          "wordCount": 2169,
+          "title": "ONZ’s Board approve new HP staffing structure",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Screenshot-671.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=59839",
+          "author": "Christo Peters",
+          "description": "A re-printed article with permission from the Orienteering Australia e-news and the Orienteering South Australian magazine. This is a detailed log of all the tech activities tracked before, during and after the Aus 3 Days including the preparation, setup, running, adapting to changes and keeping track of entries and results. It is a dedicated description on the functions of tech as part of […]\nBack stage business   |  The tech behind the Aus 3 Days first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/uncategorized/back-stage-business-the-tech-behind-the-aus-3-days/",
+          "publishedOn": "2024-07-01T07:35:08.000Z",
+          "wordCount": 4907,
+          "title": "Back stage business   |  The tech behind the Aus 3 Days",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/35021759-3440-af6b-42d1-afcad75b3935.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59831",
           "author": "Joolz",
