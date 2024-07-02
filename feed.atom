@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T00:34:12.665Z</updated>
+    <updated>2024-07-02T06:11:54.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -808,27 +808,6 @@ Orienteering Victoria 2023 Awards Announced first appeared on Orienteering Victo
 June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Switzerland won nail-biting Sprint Relay]]></title>
-        <id>https://orienteering.sport/?p=71921</id>
-        <link href="https://orienteering.sport/world-cup-switzerland-won-nail-biting-sprint-relay/"/>
-        <updated>2024-06-02T15:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Switzerland won the first international sprint relay in 2024, when they were the first to cross the finish line after a nerve-wracking final at the Orienteering World Cup round in Genoa. Finland and Czechia continued to impress by taking second and third place respectively. Strong start Switzerland came out strong in the sun-drenched Nervi Park, […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wilbert Hollinger awarded Colin Henderson Trophy]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5753</id>
-        <link href="https://www.niorienteering.org.uk/wilbert-hollinger-awarded-colin-henderson-trophy/"/>
-        <updated>2024-06-02T12:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Wilbert Hollinger was awarded the Colin Henderson Trophy for Services to Northern Ireland Orienteering. Wilbert was not present to receive the trophy at the AGM of NI Orienteering, because as planner of the NI Middle Distance Championships which followed the meeting, he was out in...
-The post Wilbert Hollinger awarded Colin Henderson Trophy appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
