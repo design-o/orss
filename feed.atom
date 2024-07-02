@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T12:13:17.023Z</updated>
+    <updated>2024-07-02T18:09:05.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Championships 2024 – team announcement]]></title>
+        <id>https://www.orienteering.ie/?p=18412</id>
+        <link href="https://www.orienteering.ie/world-orienteering-championships-2024-team-announcement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-orienteering-championships-2024-team-announcement"/>
+        <updated>2024-07-02T13:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Jens Waechter, Orienteering Ireland’s High Performance Manager, today announced the team for the World Orienteering Sprint Championships 2024 taking place in Edinburgh 11-16 July. Congratulations to all on your selection. Sprint Male Sprint Female Knock-Out Sprint Male  Knock-Out Sprint Female Relay Team 1
+The post World Orienteering Championships 2024 – team announcement first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWOC: Shared sprint gold in W20, narrow Swiss win in M20]]></title>
+        <id>https://orienteering.sport/?p=72444</id>
+        <link href="https://orienteering.sport/jwoc-shared-sprint-gold-in-w20-narrow-swiss-win-in-m20/"/>
+        <updated>2024-07-02T12:47:34.000Z</updated>
+        <summary type="html"><![CDATA[The teams and spectators at the Junior World Orienteering Championship in Czechia saw a thrilling sprint race on Tuesday, where Elli Punto (FIN) and Michaela Novotna (CZE) tied for the gold in the women’s class, and Switzerland’s Matthieu Bührer won by two seconds in the men’s. Today’s sprint took place in the historic city centre […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Eef van Dongen on WOC in Scotland and her Knock-Out Sprint bronze from Denmark in 2022]]></title>
         <id>https://orienteering.sport/?p=72439</id>
@@ -778,46 +799,6 @@ Orienteering Victoria 2023 Awards Announced first appeared on Orienteering Victo
         <summary type="html"><![CDATA[Our first volunteer is a coach whose efforts over the years have underpinned the success of one of our biggest […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 EMTBOC Sprint Relay – Czechia wins exciting sprint finish]]></title>
-        <id>https://orienteering.sport/?p=71930</id>
-        <link href="https://orienteering.sport/cx80-emtboc-sprint-relay-czechia-wins-exciting-sprint-finish/"/>
-        <updated>2024-06-03T06:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Czechia took the gold medals in a tightly contested Sprint Relay, with Krystof Bogar finishing just a couple of metres ahead of André Haga, Finland after being 5 seconds ahead at the spectator passage with 2 km to go. Bronze medallists were Italy. Sprint Relay mass start  Photos: Jakub Kijak / MoonLine Media On the […]]]></summary>
-        <author>
-            <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians Selected to Australian Teams – Who, Where and When]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13703</id>
-        <link href="https://www.vicorienteering.asn.au/victorians-selected-to-australian-teams-who-where-and-when/"/>
-        <updated>2024-06-03T05:36:42.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Italy 2024: Maps, Results & Splits analysis illustrations]]></title>
-        <id>http://news.worldofo.com/?p=20082</id>
-        <link href="https://news.worldofo.com/2024/06/03/world-cup-italy-2024-maps-results-splits-analysis-illustrations/"/>
-        <updated>2024-06-03T03:00:53.000Z</updated>
-        <summary type="html"><![CDATA[From flat and relatively easy orienteering in the first World Cup round on Swiss ground, to tricky, hilly orienteering in the second World Cup round in Geona, Italy. Victories went to Simona Aebersold (Switzerland) and Kasper Fosser (Norway) in the individual Sprint, while Switzerland won the Sprint Relay. With more varied orienteering, other nations managed to ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13635</id>
-        <link href="https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/"/>
-        <updated>2024-06-03T02:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Get your entries in for the 2024 Maxi 3 Hour on June 9 at Glenlyon, and stay overnight for a free training session on Monday.
-June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

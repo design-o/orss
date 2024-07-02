@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72444",
+          "author": "Erling Thisted",
+          "description": "The teams and spectators at the Junior World Orienteering Championship in Czechia saw a thrilling sprint race on Tuesday, where Elli Punto (FIN) and Michaela Novotna (CZE) tied for the gold in the women’s class, and Switzerland’s Matthieu Bührer won by two seconds in the men’s. Today’s sprint took place in the historic city centre […]",
+          "link": "https://orienteering.sport/jwoc-shared-sprint-gold-in-w20-narrow-swiss-win-in-m20/",
+          "publishedOn": "2024-07-02T12:47:34.000Z",
+          "wordCount": 2025,
+          "title": "JWOC: Shared sprint gold in W20, narrow Swiss win in M20",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_jwoc_sprint_m_podium-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72439",
           "author": "Erling Thisted",
           "description": "With only four years of orienteering experience, Eef van Dongen (NED) took the orienteering world by surprise, when she won the bronze medal as Knock-Out Sprint made its debut on the WOC-program in Denmark in 2022. In this podcast episode, she shares her memories from the day and look ahead to the upcoming World Orienteering […]",
@@ -134,16 +144,6 @@
           "wordCount": 1922,
           "title": "CX80 MTBO World Cup: Splittorff and Haga lead after first round",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/middle-ceremony-haga-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=71930",
-          "author": "Clive",
-          "description": "Czechia took the gold medals in a tightly contested Sprint Relay, with Krystof Bogar finishing just a couple of metres ahead of André Haga, Finland after being 5 seconds ahead at the spectator passage with 2 km to go. Bronze medallists were Italy. Sprint Relay mass start  Photos: Jakub Kijak / MoonLine Media On the […]",
-          "link": "https://orienteering.sport/cx80-emtboc-sprint-relay-czechia-wins-exciting-sprint-finish/",
-          "publishedOn": "2024-06-03T06:02:28.000Z",
-          "wordCount": 2043,
-          "title": "CX80 EMTBOC Sprint Relay – Czechia wins exciting sprint finish",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/relay-after-start-1024x683.jpg"
         }
       ]
     },
@@ -171,16 +171,6 @@
           "wordCount": 2769,
           "title": "Jukola 2024: All You Need To Know",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/06/img_666aed886bb97-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20082",
-          "author": "Jan Kocbach",
-          "description": "From flat and relatively easy orienteering in the first World Cup round on Swiss ground, to tricky, hilly orienteering in the second World Cup round in Geona, Italy. Victories went to Simona Aebersold (Switzerland) and Kasper Fosser (Norway) in the individual Sprint, while Switzerland won the Sprint Relay. With more varied orienteering, other nations managed to ...",
-          "link": "https://news.worldofo.com/2024/06/03/world-cup-italy-2024-maps-results-splits-analysis-illustrations/",
-          "publishedOn": "2024-06-03T03:00:53.000Z",
-          "wordCount": 2586,
-          "title": "World Cup Italy 2024: Maps, Results & Splits analysis illustrations",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/06/sprint_women-660x330.png"
         }
       ]
     },
@@ -288,26 +278,6 @@
           "wordCount": 1182,
           "title": "Orienteering Victoria 2023 Awards Announced",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13703",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorians-selected-to-australian-teams-who-where-and-when/",
-          "publishedOn": "2024-06-03T05:36:42.000Z",
-          "wordCount": 990,
-          "title": "Victorians Selected to Australian Teams – Who, Where and When",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13635",
-          "author": "Debbie Dodd",
-          "description": "Get your entries in for the 2024 Maxi 3 Hour on June 9 at Glenlyon, and stay overnight for a free training session on Monday.\nJune Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/june-long-weekend-maxi-3-hour-and-forest-training-at-glenlyon/",
-          "publishedOn": "2024-06-03T02:05:51.000Z",
-          "wordCount": 1276,
-          "title": "June Long Weekend – Maxi 3 Hour and Forest Training at Glenlyon",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -316,6 +286,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=18412",
+          "author": "Deirdre",
+          "description": "Jens Waechter, Orienteering Ireland’s High Performance Manager, today announced the team for the World Orienteering Sprint Championships 2024 taking place in Edinburgh 11-16 July. Congratulations to all on your selection. Sprint Male Sprint Female Knock-Out Sprint Male  Knock-Out Sprint Female Relay Team 1\nThe post World Orienteering Championships 2024 – team announcement first appeared on Orienteering in Ireland.",
+          "link": "https://www.orienteering.ie/world-orienteering-championships-2024-team-announcement/?utm_source=rss&utm_medium=rss&utm_campaign=world-orienteering-championships-2024-team-announcement",
+          "publishedOn": "2024-07-02T13:50:18.000Z",
+          "wordCount": 667,
+          "title": "World Orienteering Championships 2024 – team announcement",
+          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
+        },
         {
           "id": "https://www.orienteering.ie/?p=18390",
           "author": "Deirdre",
