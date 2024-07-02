@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72428",
+          "author": "Erling Thisted",
+          "description": "Norway took the first gold medal at the Junior World Orienteering Championships, which began on Monday afternoon with a sprint relay in the western part of Pilsen city, Czechia. An impressive 77 teams were ready at the starting line at 16.15, when the championships were kicked off in front of an enthusiastic audience. Today’s arena […]",
+          "link": "https://orienteering.sport/jwoc-norway-took-clear-sprint-relay-win/",
+          "publishedOn": "2024-07-01T21:07:48.000Z",
+          "wordCount": 1977,
+          "title": "JWOC: Norway took clear Sprint Relay win",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_jwoc-sprint-relay-vratislav_polivka-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72413",
           "author": "Erling Thisted",
           "description": "The international highlight of the year for junior orienteers begins on Monday when the Junior World Orienteering Championships kick off in Pilsen, Czechia. More than 330 athletes from 38 nations have registered for the championships, which count five races during JWOC week. The youngest discipline on the programme, Sprint Relay gets the party started before […]",
@@ -134,16 +144,6 @@
           "wordCount": 2081,
           "title": "World Cup: Switzerland won nail-biting Sprint Relay",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/2024_owcr2_sprintrelay-1024x681.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=71895",
-          "author": "Clive",
-          "description": "Finns Ruska Saarela and André Haga were the stars of the show in the Middle race, both adding a gold medal to a bronze won earlier in the championships. It was a good day too for Lithuania with two silver medals. The course was the most technical of the championships so far, with short and […]",
-          "link": "https://orienteering.sport/cx80-emtboc-middle-distance-double-triumph-for-finland/",
-          "publishedOn": "2024-06-02T06:37:34.000Z",
-          "wordCount": 2107,
-          "title": "CX80 EMTBOC Middle Distance: double triumph for Finland",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/middle-womens-flower-ceremony-1024x683.jpg"
         }
       ]
     },
@@ -370,6 +370,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59909",
+          "author": "Christo Peters",
+          "description": "With the deadline passing for appeals for this year’s Southern Cross Teams, ONZ is happy to officially confirm teams and management below. Participants will each be invoiced the first of three involves for the trip this week. A second invoice will be sent closer to departure, with a final invoice after the trip’s return to […]\nSouthern Cross Teams are now official first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/southern-cross-teams-are-now-official/",
+          "publishedOn": "2024-07-01T19:55:28.000Z",
+          "wordCount": 2171,
+          "title": "Southern Cross Teams are now official",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Southern-X-Challenge.jpeg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=59893",
           "author": "Christo Peters",
