@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T18:09:05.648Z</updated>
+    <updated>2024-07-03T00:34:13.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -253,6 +253,15 @@ Bendigo Bush – Mosquito Creek – Saturday 6 July first appeared on Orienteeri
         <summary type="html"><![CDATA[[LIVE from Monday July 1st 16:00 CET] The Junior World Orienteering Championships (JWOC) 2024 in Czech Republic starts with the Sprint Relay on Monday July 1st, continues with Sprint on Tuesday, Long on Wednesday, Middle on Friday and finishes off with Relay on Saturday.  The championship is organized around Pilsen, Czech Republic – and will offer a full webTV-broadcast at IOF TV (25 ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians Sprint to Success at JWOC]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13703</id>
+        <link href="https://www.vicorienteering.asn.au/victorians-selected-to-australian-teams-who-where-and-when/"/>
+        <updated>2024-06-29T05:36:42.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -789,16 +798,6 @@ Orienteering Victoria 2023 Awards Announced first appeared on Orienteering Victo
         <summary type="html"><![CDATA[25th and 26th May saw another successful Scottish Individual and Relay Championship weekend hosted by Inverness Orienteering Club (INVOC), Badenoch […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volunteer week 2024 – day 1]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53925</id>
-        <link href="https://www.scottish-orienteering.org/news/volunteer-week-2024-day-1/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-2024-day-1"/>
-        <updated>2024-06-03T12:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Our first volunteer is a coach whose efforts over the years have underpinned the success of one of our biggest […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
