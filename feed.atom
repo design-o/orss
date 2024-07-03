@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T12:13:38.106Z</updated>
+    <updated>2024-07-03T18:09:11.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Long distance: Bührer wins second gold, Czech reign in W20]]></title>
+        <id>https://orienteering.sport/?p=72457</id>
+        <link href="https://orienteering.sport/jwoc-buhrer-wins-second-gold-on-long-czech-reign-in-w20/"/>
+        <updated>2024-07-03T18:06:44.000Z</updated>
+        <summary type="html"><![CDATA[There was total Czech dominance in the women’s class as the Junior World Orienteering Championships field went into the forest today for the long distance, where Switzerland’s Matthieu Bührer took the title for the second consecutive day in the men’s class. After two days of sprint races, Wednesday offered a completely different challenge for the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oceania NZ 2025 Embargoes]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59927</id>
@@ -791,15 +801,6 @@ WORLD CUP ROUND 2 NEWS RECAP first appeared on Orienteering Australia.]]></summa
 GFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millennium Club Milestones – New Hall of Fame Member and Touring Legend]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13674</id>
-        <link href="https://www.vicorienteering.asn.au/millennium-club-milestones-new-hall-of-fame-member-and-touring-legend/"/>
-        <updated>2024-06-04T02:43:20.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
