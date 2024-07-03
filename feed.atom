@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T00:34:13.911Z</updated>
+    <updated>2024-07-03T06:11:21.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -788,16 +788,6 @@ Orienteering Victoria 2023 Awards Announced first appeared on Orienteering Victo
         <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and André Haga, Finland top the CX80 World Cup standings after the first round, the European Championships just held at Ostróda in northern Poland. Splittorff won two individual gold medals, and Haga one gold and one bronze. World Cup leader Nikoline Splittorff, Denmark   Photos: Jakub Kijak / MoonLine Media The top six […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A successful 2024 Scottish Championships]]></title>
-        <id>https://www.scottish-orienteering.org/?p=53923</id>
-        <link href="https://www.scottish-orienteering.org/news/a-successful-2024-scottish-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-successful-2024-scottish-championships"/>
-        <updated>2024-06-03T16:58:04.000Z</updated>
-        <summary type="html"><![CDATA[25th and 26th May saw another successful Scottish Individual and Relay Championship weekend hosted by Inverness Orienteering Club (INVOC), Badenoch […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
