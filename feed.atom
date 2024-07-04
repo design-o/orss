@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T12:13:06.519Z</updated>
+    <updated>2024-07-04T18:09:44.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bench for Ed Catmur]]></title>
+        <id>https://slow.org.uk/?p=22182</id>
+        <link href="https://slow.org.uk/clubnews/bench-for-ed-catmur/"/>
+        <updated>2024-07-04T17:17:49.000Z</updated>
+        <summary type="html"><![CDATA[On the north (Middlesex) bank of the Thames, upstream of Putney Bridge, is a a bench in memory of Ed Catmur. It is between controls [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CX80 World Cup in MTBO: leaders geared up for second round]]></title>
+        <id>https://orienteering.sport/?p=72470</id>
+        <link href="https://orienteering.sport/cx80-world-cup-in-mtbo-leaders-geared-up-for-second-round/"/>
+        <updated>2024-07-04T12:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and André Haga, Finland ride over Sprint and Long Distance in the coming days in Latvia to defend their respective leads in the CX80 MTBO World Cup standings. Almost all the top six in the men’s and women’s lists will be among the 114 riders from 15 nations taking part. A Mixed […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vale – Bob Mouatt (OAM)]]></title>
         <id>https://orienteering.asn.au/?p=11480</id>
@@ -792,26 +812,6 @@ WORLD CUP ROUND 2 NEWS RECAP first appeared on Orienteering Australia.]]></summa
         <summary type="html"><![CDATA[As per the selection policy, the SOA has made some early selections for the team to represent Scotland at the […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update: Events June 19-25]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2024-06-05T02:41:54.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFR 2024 | Great Forest Rogaine]]></title>
-        <id>https://www.orienteering.org.nz/?p=59766</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/gfr-2024-great-forest-rogaine/"/>
-        <updated>2024-06-05T01:34:13.000Z</updated>
-        <summary type="html"><![CDATA[The Great Forest Rogaine is back for 2024 – starting from a new mystery location but still promising an awesome day out in Whakarewarewa Forest! 3 and 6 hour rogaine events with Foot and MTB options.  Get together a group of friends or family for a great adventure – you are guaranteed to go places […]
-GFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72470",
+          "author": "Clive",
+          "description": "Nikoline Splittorff, Denmark and André Haga, Finland ride over Sprint and Long Distance in the coming days in Latvia to defend their respective leads in the CX80 MTBO World Cup standings. Almost all the top six in the men’s and women’s lists will be among the 114 riders from 15 nations taking part. A Mixed […]",
+          "link": "https://orienteering.sport/cx80-world-cup-in-mtbo-leaders-geared-up-for-second-round/",
+          "publishedOn": "2024-07-04T12:26:51.000Z",
+          "wordCount": 2088,
+          "title": "CX80 World Cup in MTBO: leaders geared up for second round",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/mtbowc_2024_2_logo.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=72457",
           "author": "Erling Thisted",
           "description": "There was total Czech dominance in the women’s class as the Junior World Orienteering Championships field went into the forest today for the long distance, where Switzerland’s Matthieu Bührer took the title for the second consecutive day in the men’s class. After two days of sprint races, Wednesday offered a completely different challenge for the […]",
@@ -248,16 +258,6 @@
           "wordCount": 1224,
           "title": "MelBushO is Back!  Candlebark Park, Sunday 30 June",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2024-06-05T02:41:54.000Z",
-          "wordCount": 1209,
-          "title": "Park Street Update: Events June 19-25",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -293,6 +293,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22182",
+          "author": "Paul Street",
+          "description": "On the north (Middlesex) bank of the Thames, upstream of Putney Bridge, is a a bench in memory of Ed Catmur. It is between controls [...]",
+          "link": "https://slow.org.uk/clubnews/bench-for-ed-catmur/",
+          "publishedOn": "2024-07-04T17:17:49.000Z",
+          "wordCount": 2085,
+          "title": "Bench for Ed Catmur",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/bench-for-ed-catmur/files/WhereIsEdCatmurBench_fromRG.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22174",
           "author": "Steve Clelland",
@@ -559,16 +569,6 @@
           "wordCount": 2037,
           "title": "NZSSOC map change – Long distance event",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/NZSSOC-24-image-plus-logo-and-map-s.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=59766",
-          "author": "Christo Peters",
-          "description": "The Great Forest Rogaine is back for 2024 – starting from a new mystery location but still promising an awesome day out in Whakarewarewa Forest! 3 and 6 hour rogaine events with Foot and MTB options.  Get together a group of friends or family for a great adventure – you are guaranteed to go places […]\nGFR 2024 | Great Forest Rogaine first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/gfr-2024-great-forest-rogaine/",
-          "publishedOn": "2024-06-05T01:34:13.000Z",
-          "wordCount": 2027,
-          "title": "GFR 2024 | Great Forest Rogaine",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/GFRogaine_WebBanner24-1.png"
         }
       ]
     },
