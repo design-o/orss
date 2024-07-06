@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-06T06:09:36.415Z</updated>
+    <updated>2024-07-06T12:11:25.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Park Race Finale – Southwark Park 23 July]]></title>
+        <id>https://slow.org.uk/?p=22191</id>
+        <link href="https://slow.org.uk/events/2024-park-race-finale-southwark-park-23-july/"/>
+        <updated>2024-07-06T08:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Join us on Tuesday 23rd July for the 10th and final race in the London 2024 Park Series. Fast and fun orienteering courses in a [...]]]></summary>
+        <author>
+            <name>Matthias Mahr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CX80 World Cup in MTBO: Sprint wins for Splittorff and Bettega]]></title>
+        <id>https://orienteering.sport/?p=72572</id>
+        <link href="https://orienteering.sport/cx80-world-cup-in-mtbo-sprint-wins-for-splittorff-and-bettega/"/>
+        <updated>2024-07-06T08:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Dane Nikoline Splittorff extended her lead in the CX80 World Cup with a win by 51 seconds, while Italian Fabiano Bettega won the men’s race by 19 seconds. World Cup leader André Haga, Finland was third. The race doubled as this year’s U23 World MTBO Championships in Sprint, and gold medalists here were the Austrian […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC Middle: Two golds for home nation Czechia]]></title>
         <id>https://orienteering.sport/?p=72544</id>

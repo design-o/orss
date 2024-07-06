@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72572",
+          "author": "Clive",
+          "description": "Dane Nikoline Splittorff extended her lead in the CX80 World Cup with a win by 51 seconds, while Italian Fabiano Bettega won the men’s race by 19 seconds. World Cup leader André Haga, Finland was third. The race doubled as this year’s U23 World MTBO Championships in Sprint, and gold medalists here were the Austrian […]",
+          "link": "https://orienteering.sport/cx80-world-cup-in-mtbo-sprint-wins-for-splittorff-and-bettega/",
+          "publishedOn": "2024-07-06T08:22:26.000Z",
+          "wordCount": 2126,
+          "title": "CX80 World Cup in MTBO: Sprint wins for Splittorff and Bettega",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_mtbo_wcup_r2.jpg-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72544",
           "author": "Erling Thisted",
           "description": "Home nation Czechia continued to impress, winning both gold medals as the more than 330 athletes ran the middle distance at the Junior World Orienteering Championships on Friday. Compared to Wednesday’s long distance, the middle distance terrain was more moderately hilly and with several short, technical legs and many contour details to keep track of. […]",
@@ -313,6 +323,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22191",
+          "author": "Matthias Mahr",
+          "description": "Join us on Tuesday 23rd July for the 10th and final race in the London 2024 Park Series. Fast and fun orienteering courses in a [...]",
+          "link": "https://slow.org.uk/events/2024-park-race-finale-southwark-park-23-july/",
+          "publishedOn": "2024-07-06T08:47:17.000Z",
+          "wordCount": 2556,
+          "title": "2024 Park Race Finale – Southwark Park 23 July",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22182",
           "author": "Paul Street",
