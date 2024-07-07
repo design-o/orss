@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T06:10:23.543Z</updated>
+    <updated>2024-07-07T12:11:47.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MTBO rising stars: Italian triple European junior champion wins U23 gold; second gold for Swiss rider]]></title>
+        <id>https://orienteering.sport/?p=72585</id>
+        <link href="https://orienteering.sport/mtbo-rising-stars-italian-triple-european-junior-champion-wins-u23-gold-second-gold-for-swiss-rider/"/>
+        <updated>2024-07-07T07:38:51.000Z</updated>
+        <summary type="html"><![CDATA[In the Long distance races, Iris Aurora Pecorari, Italy and Noah Rieder, Switzerland, won World Championship gold medals as the best U23 riders in the CX80 World Cup field. Rieder is also U23 Sprint champion. Pecorari, only 20 this year, won all three gold medals in the Junior European Championships in Poland in May. The […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC: Switzerland and Finland claim relay golds]]></title>
         <id>https://orienteering.sport/?p=72579</id>
