@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-06T18:08:20.926Z</updated>
+    <updated>2024-07-07T00:37:52.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -810,16 +810,6 @@ World University Orienteering Championships Team Announced first appeared on Ori
 Bushrangers Results and Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May sees ScotJOS training in the Sun (for a change!)]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54011</id>
-        <link href="https://www.scottish-orienteering.org/news/may-sees-scotjos-training-in-the-sun-for-a-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=may-sees-scotjos-training-in-the-sun-for-a-change"/>
-        <updated>2024-06-07T11:01:18.000Z</updated>
-        <summary type="html"><![CDATA[ScotJOS enjoyed a weekend of fantastic sunshine for their latest camp in Perthshire. This was also the Last Blast, a […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
