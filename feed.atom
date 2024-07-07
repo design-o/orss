@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T12:11:47.676Z</updated>
+    <updated>2024-07-07T18:08:39.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 MTBO World Cup: Mixed Relay win for Lithuania]]></title>
+        <id>https://orienteering.sport/?p=72588</id>
+        <link href="https://orienteering.sport/cx80-mtbo-world-cup-mixed-relay-win-for-lithuania/"/>
+        <updated>2024-07-07T12:29:33.000Z</updated>
+        <summary type="html"><![CDATA[A strong Lithuanian team won by 2.55 over Italy, with Finland third, 3.13 down, in Latvia today. In an exciting race in mainly forested terrain with many small paths and some hills, on a bright but windy day, the lead changed several times. Martin Illig, riding for Austria 2, had a flyer on the first […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MTBO rising stars: Italian triple European junior champion wins U23 gold; second gold for Swiss rider]]></title>
         <id>https://orienteering.sport/?p=72585</id>
