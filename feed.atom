@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T00:37:52.421Z</updated>
+    <updated>2024-07-07T06:10:23.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -797,17 +797,6 @@ The post Urban Planning appeared first on NI Orienteering Association.]]></summa
         <updated>2024-06-09T09:30:00.000Z</updated>
         <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the following athletes have been selected to compete at the World University Orienteering Championships in Bankso, Bulgaria from 1-5 August, 2024.
 World University Orienteering Championships Team Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bushrangers Results and Recap]]></title>
-        <id>https://orienteering.asn.au/?p=11309</id>
-        <link href="https://orienteering.asn.au/bushrangers-results-and-recap/"/>
-        <updated>2024-06-07T13:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Australian Bushrangers visited NZ for an exciting weekend filled with thrilling and challenging orienteering.
-Bushrangers Results and Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
         </author>
