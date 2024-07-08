@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T06:11:25.975Z</updated>
+    <updated>2024-07-08T12:13:53.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Championships kick off in Scotland on Friday]]></title>
+        <id>https://orienteering.sport/?p=72597</id>
+        <link href="https://orienteering.sport/world-orienteering-championships-kick-off-in-scotland-on-friday/"/>
+        <updated>2024-07-08T06:46:47.000Z</updated>
+        <summary type="html"><![CDATA[The highlight of the year in the international orienteering calendar begins on Friday morning in Edinburgh, Scotland, when the 40th World Orienteering Championships get underway. It is a sprint-only World Championships, which await the athletes with three medal races: Sprint, Sprint Relay and Knock-Out Sprint in that order. As many as 45 nations are participating […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CX80 MTBO World Cup: Mixed Relay win for Lithuania]]></title>
         <id>https://orienteering.sport/?p=72588</id>
