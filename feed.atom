@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T12:13:53.329Z</updated>
+    <updated>2024-07-08T18:09:46.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 MTBO World Cup: Splittorff and Haga retain top places]]></title>
+        <id>https://orienteering.sport/?p=72607</id>
+        <link href="https://orienteering.sport/cx80-mtbo-world-cup-splittorff-and-haga-retain-top-places/"/>
+        <updated>2024-07-08T13:50:43.000Z</updated>
+        <summary type="html"><![CDATA[With 5 races of the 9-race CX80 World Cup season now completed, Danish rider Nikoline Splittorff and the Finn André Haga continue to lead the standings. Both riders won one of the recent two races in Latvia; Splittorff was second in the other whilst Haga was third. Biggest improvement amongst the top six comes from […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Orienteering Championships kick off in Scotland on Friday]]></title>
         <id>https://orienteering.sport/?p=72597</id>
