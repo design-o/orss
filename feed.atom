@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-09T06:10:57.061Z</updated>
+    <updated>2024-07-09T12:14:17.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New friendships and learning at the IOF Young Leaders Academy 2024]]></title>
+        <id>https://orienteering.sport/?p=72610</id>
+        <link href="https://orienteering.sport/new-friendships-and-learning-at-the-iof-young-leaders-academy-2024/"/>
+        <updated>2024-07-09T09:41:52.000Z</updated>
+        <summary type="html"><![CDATA[25 young orienteering leaders from around the world took were earlier this year selected to take part in the IOF Young Leaders Academy (YLA) 2024 in Italy in the beginning of July. YLA was organised for the first time in 2023, and its purpose is to support their talent and their competencies on key topics […]]]></summary>
+        <author>
+            <name>Sondre Sande Gullord</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CX80 MTBO World Cup: Splittorff and Haga retain top places]]></title>
         <id>https://orienteering.sport/?p=72607</id>
@@ -84,6 +94,15 @@
         <summary type="html"><![CDATA[Home nation Czechia continued to impress, winning both gold medals as the more than 330 athletes ran the middle distance at the Junior World Orienteering Championships on Friday. Compared to Wednesday’s long distance, the middle distance terrain was more moderately hilly and with several short, technical legs and many contour details to keep track of. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series at Mt Tarrengower on 21 July – Enter Now!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13778</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-at-mt-tarrengower-on-21-july-enter-now/"/>
+        <updated>2024-07-05T07:16:57.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

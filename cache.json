@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72610",
+          "author": "Sondre Sande Gullord",
+          "description": "25 young orienteering leaders from around the world took were earlier this year selected to take part in the IOF Young Leaders Academy (YLA) 2024 in Italy in the beginning of July. YLA was organised for the first time in 2023, and its purpose is to support their talent and their competencies on key topics […]",
+          "link": "https://orienteering.sport/new-friendships-and-learning-at-the-iof-young-leaders-academy-2024/",
+          "publishedOn": "2024-07-09T09:41:52.000Z",
+          "wordCount": 1876,
+          "title": "New friendships and learning at the IOF Young Leaders Academy 2024",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/5de1fe48-a52f-4f04-9265-672d73438e6e-1024x768.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72607",
           "author": "Clive",
           "description": "With 5 races of the 9-race CX80 World Cup season now completed, Danish rider Nikoline Splittorff and the Finn André Haga continue to lead the standings. Both riders won one of the recent two races in Latvia; Splittorff was second in the other whilst Haga was third. Biggest improvement amongst the top six comes from […]",
@@ -249,6 +259,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13778",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vic-series-at-mt-tarrengower-on-21-july-enter-now/",
+          "publishedOn": "2024-07-05T07:16:57.000Z",
+          "wordCount": 1148,
+          "title": "Vic Series at Mt Tarrengower on 21 July – Enter Now!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13733",
           "author": "Margi Freemantle",
