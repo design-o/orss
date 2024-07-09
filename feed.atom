@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T18:09:46.681Z</updated>
+    <updated>2024-07-09T00:35:11.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -818,27 +818,6 @@ The post Urban Planning appeared first on NI Orienteering Association.]]></summa
         <summary type="html"><![CDATA[IOF’s FootO Commission organise an Event Advisers’ Clinic in Ottawa, Canada from August 12-13, 2024. The Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Deadline for entries is June 30th. Go to the full invitation here.]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Walpole & Lammas Parks, 2nd July]]></title>
-        <id>https://slow.org.uk/?p=22103</id>
-        <link href="https://slow.org.uk/events/park-race-walpole-lammas-parks-2nd-july/"/>
-        <updated>2024-06-09T10:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Come to Ealing on Tuesday 2nd July 2024. and join us for the seventh race of London 2024 Park Series. Run on a new map [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World University Orienteering Championships Team Announced]]></title>
-        <id>https://orienteering.asn.au/?p=11319</id>
-        <link href="https://orienteering.asn.au/world-university-orienteering-championships-team-announced/"/>
-        <updated>2024-06-09T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the following athletes have been selected to compete at the World University Orienteering Championships in Bankso, Bulgaria from 1-5 August, 2024.
-World University Orienteering Championships Team Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
