@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-09T18:09:48.574Z</updated>
+    <updated>2024-07-10T00:35:01.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Zealand sets records in Czechia at the Junior World Orienteering Championships]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59977</id>
+        <link href="https://www.orienteering.org.nz/news/new-zealand-sets-records-in-czechia-at-the-junior-world-orienteering-championships/"/>
+        <updated>2024-07-09T20:41:07.000Z</updated>
+        <summary type="html"><![CDATA[The New Zealand Junior orienteering team showed they can compete with the best in the world in navigation and terrain running at the Junior World Orienteering Championships in Czechia last week. Zefa Fa’avae, son of the world famous adventure racer Nathan Fa’avae, ran a near-perfect race to take the silver medal in the long distance […]
+New Zealand sets records in Czechia at the Junior World Orienteering Championships  first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New friendships and learning at the IOF Young Leaders Academy 2024]]></title>
         <id>https://orienteering.sport/?p=72610</id>
@@ -805,38 +816,6 @@ Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Oriente
 MelBushO is Back!  Candlebark Park, Sunday 30 June first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZSSOC map change – Long distance event]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59786</id>
-        <link href="https://www.orienteering.org.nz/news/nzssoc-map-change-long-distance-event/"/>
-        <updated>2024-06-10T10:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Change in venue for NZ Secondary School Orienteering Championships – Long distance event. Orienteering Wellington has made the decision to relocate the Long Distance event for the NZ Secondary School Orienteering Championships. Originally planned to take place near Porirua, the event will now be held at the Hydrabad map in Waitarere Beach. Waitarere Beach is […]
-NZSSOC map change – Long distance event first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Planning]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5758</id>
-        <link href="https://www.niorienteering.org.uk/urban-planning/"/>
-        <updated>2024-06-10T08:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Urban orienteering has relaunched in 2024  Following the first event in Enniskillen on 28 April, we have two events in June. Sunday afternoon 16 June at Craigavon. All the details are on the LVO website with entries at SI Entries. Friday evening 21 June at...
-The post Urban Planning appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Advisers’ Clinic in Canada from August 12-13]]></title>
-        <id>https://orienteering.sport/?p=71977</id>
-        <link href="https://orienteering.sport/71977-2/"/>
-        <updated>2024-06-10T07:15:24.000Z</updated>
-        <summary type="html"><![CDATA[IOF’s FootO Commission organise an Event Advisers’ Clinic in Ottawa, Canada from August 12-13, 2024. The Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Deadline for entries is June 30th. Go to the full invitation here.]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
