@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-10T18:10:29.227Z</updated>
+    <updated>2024-07-11T00:35:18.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Social Gathering | Pan-American Masters Games 2024 | Monday, July 15]]></title>
+        <id>https://neooc.com/?p=47480</id>
+        <link href="https://neooc.com/social-gathering-pan-american-masters-games-2024-monday-july-15/"/>
+        <updated>2024-07-10T23:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Monday, July 15, Social Gathering as part of the PAMG Happy Days Lodge, noon – 2pm Parking: Ledges Trailhead, Lat/Long: (41.2235,-81.5101) Note: there is a 1 km trail walk north from the parking to the Happy Days Lodge.]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start Times | Pan-American Masters Games 2024]]></title>
+        <id>https://neooc.com/?p=47478</id>
+        <link href="https://neooc.com/start-times-pan-american-masters-games-2024/"/>
+        <updated>2024-07-10T23:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Start Times Posted Pan-American Masters Games 2024]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to follow WOC in Edinburgh]]></title>
+        <id>https://orienteering.sport/?p=72619</id>
+        <link href="https://orienteering.sport/how-to-follow-woc-in-edinburgh/"/>
+        <updated>2024-07-10T19:10:08.000Z</updated>
+        <summary type="html"><![CDATA[The most prestigious international competition within orienteering kicks off Friday morning in Edinburgh, when the World Orienteering Championships 2024 begin. And there are excellent opportunities to follow the three sprint competitions Friday, Sunday and Tuesday up close, regardless of whether you are present at the arenas in the Scottish capital or follow from home. In […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC 2024 Results and Recap]]></title>
         <id>https://orienteering.asn.au/?p=11513</id>
@@ -76,6 +106,17 @@ New Zealand sets records in Czechia at the Junior World Orienteering Championshi
         <summary type="html"><![CDATA[In the Long distance races, Iris Aurora Pecorari, Italy and Noah Rieder, Switzerland, won World Championship gold medals as the best U23 riders in the CX80 World Cup field. Rieder is also U23 Sprint champion. Pecorari, only 20 this year, won all three gold medals in the Junior European Championships in Poland in May. The […]]]></summary>
         <author>
             <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13388</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-2024/"/>
+        <updated>2024-07-07T03:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy a great introduction to orienteering in rocks at Granite Hills on Sunday 14 July. Online entry is open now!
+MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72619",
+          "author": "Erling Thisted",
+          "description": "The most prestigious international competition within orienteering kicks off Friday morning in Edinburgh, when the World Orienteering Championships 2024 begin. And there are excellent opportunities to follow the three sprint competitions Friday, Sunday and Tuesday up close, regardless of whether you are present at the arenas in the Scottish capital or follow from home. In […]",
+          "link": "https://orienteering.sport/how-to-follow-woc-in-edinburgh/",
+          "publishedOn": "2024-07-10T19:10:08.000Z",
+          "wordCount": 1979,
+          "title": "How to follow WOC in Edinburgh",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/03/woc2022_sprintrelay_arena-1024x585.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72610",
           "author": "Sondre Sande Gullord",
           "description": "25 young orienteering leaders from around the world took were earlier this year selected to take part in the IOF Young Leaders Academy (YLA) 2024 in Italy in the beginning of July. YLA was organised for the first time in 2023, and its purpose is to support their talent and their competencies on key topics […]",
@@ -249,6 +259,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13388",
+          "author": "Debbie Dodd",
+          "description": "Enjoy a great introduction to orienteering in rocks at Granite Hills on Sunday 14 July. Online entry is open now!\nMelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-2024/",
+          "publishedOn": "2024-07-07T03:48:27.000Z",
+          "wordCount": 1166,
+          "title": "MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13778",
           "author": "Debbie Dodd",
@@ -657,6 +677,26 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47480",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Monday, July 15, Social Gathering as part of the PAMG Happy Days Lodge, noon – 2pm Parking: Ledges Trailhead, Lat/Long: (41.2235,-81.5101) Note: there is a 1 km trail walk north from the parking to the Happy Days Lodge.",
+          "link": "https://neooc.com/social-gathering-pan-american-masters-games-2024-monday-july-15/",
+          "publishedOn": "2024-07-10T23:55:10.000Z",
+          "wordCount": 1305,
+          "title": "Social Gathering | Pan-American Masters Games 2024 | Monday, July 15",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
+        {
+          "id": "https://neooc.com/?p=47478",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Start Times Posted Pan-American Masters Games 2024",
+          "link": "https://neooc.com/start-times-pan-american-masters-games-2024/",
+          "publishedOn": "2024-07-10T23:41:22.000Z",
+          "wordCount": 1282,
+          "title": "Start Times | Pan-American Masters Games 2024",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
         {
           "id": "https://neooc.com/?p=47397",
           "author": "Northeast Ohio Orienteering Club",
