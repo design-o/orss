@@ -270,6 +270,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13788",
+          "author": "Margi Freemantle",
+          "description": "Eureka Orienteers present a true blue Green & Gold event at Creswick Diggings and the hills either side of Longs Gully\nBallarat Classics – Creswick Diggings – Sat 13 July first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/",
+          "publishedOn": "2024-07-11T10:35:10.000Z",
+          "wordCount": 1001,
+          "title": "Ballarat Classics – Creswick Diggings – Sat 13 July",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13388",
           "author": "Debbie Dodd",
           "description": "Enjoy a great introduction to orienteering in rocks at Granite Hills on Sunday 14 July. Online entry is open now!\nMelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on Orienteering Victoria.",
@@ -442,16 +452,6 @@
           "wordCount": 2316,
           "title": "British Sprint Weekend 2024",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/british-sprint-weekend/files/BSRC2024-1.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22116",
-          "author": "Paul Street",
-          "description": "Thanks for coming along to this week’s Park Race, and thanks to the Rose and Crown for hosting us. The race was organised by Nathan [...]",
-          "link": "https://slow.org.uk/racereports/tooting-commons-results/",
-          "publishedOn": "2024-06-11T22:25:29.000Z",
-          "wordCount": 2169,
-          "title": "Tooting Commons Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/tooting-commons-results/files/20240611_TootingBec.jpg"
         }
       ]
     },
@@ -460,6 +460,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=59986",
+          "author": "Christo Peters",
+          "description": "The third round of the 2024 World Cup will be held in Mor, Hungary 17th-20th August 2024, and will consist of a Middle Race, a Long Race, and a Forest Relay. Selectors have chosen the following team to represent New Zealand at the event: Men Zefa Fa-avae Toby Scott Tim Robertson Women Kaia Joergensen A […]\nWorld Cup 3 Team Named first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/world-cup-3-team-named/",
+          "publishedOn": "2024-07-11T07:23:33.000Z",
+          "wordCount": 2013,
+          "title": "World Cup 3 Team Named",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/ONZ-med-logo.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59977",
           "author": "Joolz",
@@ -803,16 +813,6 @@
           "wordCount": 1675,
           "title": "Scottish Schools Festival 2024",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_2448-1-768x1024.jpeg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54034",
-          "author": "suzannerb",
-          "description": "We were thrilled to receive such amazing testaments to 2 juniors who have shown huge dedication to the sport. The […]",
-          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-shortlist-2/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-shortlist-2",
-          "publishedOn": "2024-06-11T19:45:08.000Z",
-          "wordCount": 2035,
-          "title": "Young Orienteer of the Year Shortlist",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/Rurari-Cottier-4-434x1024.jpg"
         }
       ]
     },

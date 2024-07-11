@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T06:10:39.725Z</updated>
+    <updated>2024-07-11T12:13:28.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ballarat Classics – Creswick Diggings – Sat 13 July]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13788</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/"/>
+        <updated>2024-07-11T10:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Eureka Orienteers present a true blue Green & Gold event at Creswick Diggings and the hills either side of Longs Gully
+Ballarat Classics – Creswick Diggings – Sat 13 July first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup 3 Team Named]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59986</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-3-team-named/"/>
+        <updated>2024-07-11T07:23:33.000Z</updated>
+        <summary type="html"><![CDATA[The third round of the 2024 World Cup will be held in Mor, Hungary 17th-20th August 2024, and will consist of a Middle Race, a Long Race, and a Forest Relay. Selectors have chosen the following team to represent New Zealand at the event: Men Zefa Fa-avae Toby Scott Tim Robertson Women Kaia Joergensen A […]
+World Cup 3 Team Named first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2024: All You Need To Know]]></title>
         <id>http://news.worldofo.com/?p=20122</id>
@@ -847,26 +869,6 @@ The post Important Closing Dates Coming Up Very Soon appeared first on NI Orient
 Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tooting Commons Results]]></title>
-        <id>https://slow.org.uk/?p=22116</id>
-        <link href="https://slow.org.uk/racereports/tooting-commons-results/"/>
-        <updated>2024-06-11T22:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Thanks for coming along to this week’s Park Race, and thanks to the Rose and Crown for hosting us. The race was organised by Nathan [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Orienteer of the Year Shortlist]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54034</id>
-        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-shortlist-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year-shortlist-2"/>
-        <updated>2024-06-11T19:45:08.000Z</updated>
-        <summary type="html"><![CDATA[We were thrilled to receive such amazing testaments to 2 juniors who have shown huge dedication to the sport. The […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
