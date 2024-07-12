@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-12T06:10:32.749Z</updated>
+    <updated>2024-07-12T12:14:06.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2024 kicked off with sprint qualification]]></title>
+        <id>https://orienteering.sport/?p=72673</id>
+        <link href="https://orienteering.sport/woc-2024-kicked-off-with-sprint-qualification/"/>
+        <updated>2024-07-12T12:13:27.000Z</updated>
+        <summary type="html"><![CDATA[The World Orienteering Championships 2024 were off to a great start Friday morning, where the Sprint Qualification was held in the Leith district in nothern Edinburgh. An assymetric street plan and artificial barriers created numerous challenges for the approx. 200 athletes trying their hand at getting into top 15 in their heat to qualify for […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Orienteering | Self Serve at Richfield Heritage Preserve | Friday July 12 to Tuesday]]></title>
         <id>https://neooc.com/?p=47484</id>
