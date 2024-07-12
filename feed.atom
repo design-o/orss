@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T18:09:43.993Z</updated>
+    <updated>2024-07-12T00:34:32.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2024 Preview]]></title>
+        <id>https://orienteering.asn.au/?p=11595</id>
+        <link href="https://orienteering.asn.au/woc-2024-preview/"/>
+        <updated>2024-07-11T22:38:07.000Z</updated>
+        <summary type="html"><![CDATA[From 12 to 16 July, WOC 2024 will take place in Edinburgh.
+WOC 2024 Preview first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballarat Classics – Creswick Diggings – Sat 13 July]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13788</id>
@@ -730,6 +741,17 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vic Series Double Header in Beechworth, June 22 and 23]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13693</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-double-header-in-beechworth-june-22-and-23/"/>
+        <updated>2024-06-22T00:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the chance to spend a weekend orienteering in Victoria's beautiful northeast - two Vic Series events on spectacular granite terrain! Enter online by Thursday 20 June
+Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Szczechin ready to host EYOC this weekend]]></title>
         <id>https://orienteering.sport/?p=72089</id>
         <link href="https://orienteering.sport/szczechin-ready-to-host-eyoc-this-weekend/"/>
@@ -848,16 +870,6 @@ The post Important Closing Dates Coming Up Very Soon appeared first on NI Orient
         <summary type="html"><![CDATA[More than 17.000 orienteers will set course for western Finland and one of the biggest orienteering competitions in the world, that happens this weekend. Venla and Jukola relays are gathering more than 3.000 teams in total in Lakia, where they will fight for the win in the tradition-rich relays from Saturday afternoon and until early […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Schools Festival 2024]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54044</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-schools-festival-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-schools-festival-2024"/>
-        <updated>2024-06-12T09:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Last Friday was the Scottish School Orienteering Festival. This year the festival was organised by St Andrews Orienteering Club, Glasgow […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
 </feed>

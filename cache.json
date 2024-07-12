@@ -360,6 +360,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13693",
+          "author": "Debbie Dodd",
+          "description": "Don't miss the chance to spend a weekend orienteering in Victoria's beautiful northeast - two Vic Series events on spectacular granite terrain! Enter online by Thursday 20 June\nVic Series Double Header in Beechworth, June 22 and 23 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vic-series-double-header-in-beechworth-june-22-and-23/",
+          "publishedOn": "2024-06-22T00:44:47.000Z",
+          "wordCount": 1066,
+          "title": "Vic Series Double Header in Beechworth, June 22 and 23",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13712",
           "author": "Debbie Dodd",
           "description": "",
@@ -793,16 +803,6 @@
           "wordCount": 1969,
           "title": "Young Leaders",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_0590-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54044",
-          "author": "heidi",
-          "description": "Last Friday was the Scottish School Orienteering Festival. This year the festival was organised by St Andrews Orienteering Club, Glasgow […]",
-          "link": "https://www.scottish-orienteering.org/news/scottish-schools-festival-2024/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-schools-festival-2024",
-          "publishedOn": "2024-06-12T09:41:13.000Z",
-          "wordCount": 1675,
-          "title": "Scottish Schools Festival 2024",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_2448-1-768x1024.jpeg"
         }
       ]
     },
@@ -838,6 +838,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11595",
+          "author": "elizabethl",
+          "description": "From 12 to 16 July, WOC 2024 will take place in Edinburgh.\nWOC 2024 Preview first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/woc-2024-preview/",
+          "publishedOn": "2024-07-11T22:38:07.000Z",
+          "wordCount": 2122,
+          "title": "WOC 2024 Preview",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11513",
           "author": "elizabethl",
