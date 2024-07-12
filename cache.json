@@ -214,16 +214,6 @@
           "wordCount": 2146,
           "title": "IOF welcomes new timing cooperation",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/website_newsarticle_image_emit_and_sportident_en.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=71983",
-          "author": "Erling Thisted",
-          "description": "More than 17.000 orienteers will set course for western Finland and one of the biggest orienteering competitions in the world, that happens this weekend. Venla and Jukola relays are gathering more than 3.000 teams in total in Lakia, where they will fight for the win in the tradition-rich relays from Saturday afternoon and until early […]",
-          "link": "https://orienteering.sport/follow-venla-and-jukola-relays-on-iof-tv-this-weekend/",
-          "publishedOn": "2024-06-12T13:59:20.000Z",
-          "wordCount": 2064,
-          "title": "Follow Venla and Jukola relays on IOF TV this weekend",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/jukola_2022_unknown_photo-1024x614.jpg"
         }
       ]
     },
@@ -697,6 +687,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47484",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Richfield Heritage Preserve: Located about 10 miles west of the Cuyahoga Valley National Park, an advanced-level practice course with control flags will be available Friday 7/12 – Tuesday 7/16, dawn to dusk.  Link for map Download. You can report your results here: registrar@neooc.com – include team name, number of controls founds, overall time. We […]",
+          "link": "https://neooc.com/free-orienteering-self-serve-at-richfield-heritage-preserve-friday-july-12-to-tuesday/",
+          "publishedOn": "2024-07-12T03:37:38.000Z",
+          "wordCount": 1527,
+          "title": "Free Orienteering | Self Serve at Richfield Heritage Preserve | Friday July 12 to Tuesday",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2022/06/Richfield_Pavilion.jpg"
+        },
         {
           "id": "https://neooc.com/?p=47480",
           "author": "Northeast Ohio Orienteering Club",

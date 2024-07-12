@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-12T00:34:32.280Z</updated>
+    <updated>2024-07-12T06:10:32.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free Orienteering | Self Serve at Richfield Heritage Preserve | Friday July 12 to Tuesday]]></title>
+        <id>https://neooc.com/?p=47484</id>
+        <link href="https://neooc.com/free-orienteering-self-serve-at-richfield-heritage-preserve-friday-july-12-to-tuesday/"/>
+        <updated>2024-07-12T03:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Richfield Heritage Preserve: Located about 10 miles west of the Cuyahoga Valley National Park, an advanced-level practice course with control flags will be available Friday 7/12 – Tuesday 7/16, dawn to dusk.  Link for map Download. You can report your results here: registrar@neooc.com – include team name, number of controls founds, overall time. We […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2024 Preview]]></title>
         <id>https://orienteering.asn.au/?p=11595</id>
@@ -860,16 +870,6 @@ The post Important Closing Dates Coming Up Very Soon appeared first on NI Orient
         <summary type="html"><![CDATA[The 2024 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend with more than 3000 teams on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9 hours earlier at 13:00 CET the women start their relay. Here you find all ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow Venla and Jukola relays on IOF TV this weekend]]></title>
-        <id>https://orienteering.sport/?p=71983</id>
-        <link href="https://orienteering.sport/follow-venla-and-jukola-relays-on-iof-tv-this-weekend/"/>
-        <updated>2024-06-12T13:59:20.000Z</updated>
-        <summary type="html"><![CDATA[More than 17.000 orienteers will set course for western Finland and one of the biggest orienteering competitions in the world, that happens this weekend. Venla and Jukola relays are gathering more than 3.000 teams in total in Lakia, where they will fight for the win in the tradition-rich relays from Saturday afternoon and until early […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
