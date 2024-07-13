@@ -243,6 +243,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20137",
+          "author": "Jan Kocbach",
+          "description": "The Scottish organizers served one of the most tricky World Orienteering Championships (WOC) Sprint races ever – and the Swedish duo Martin Regborn and Tove Alexandersson made the day a big Swedish success with two gold medals for Sweden.  Alexandersson with her 20th WOC gold medal – Regborn with his first. Sweden dominated the results along ...",
+          "link": "https://news.worldofo.com/2024/07/13/woc-2024-sprint-analysis-maps-and-results/",
+          "publishedOn": "2024-07-13T03:00:02.000Z",
+          "wordCount": 3869,
+          "title": "WOC 2024 Sprint: Analysis, Maps and Results",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/07/map_men_3000-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20122",
           "author": "Jan Kocbach",
           "description": "Fast-paced urban orienteering with challenging route choices is expected when the 2024 World Orienteering Championships (WOC) starts in Edinburgh, Scotland on Friday July 12th with the Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Sprint Relay on Sunday July 14th, and finally rounds off with the Knock-Out ...",

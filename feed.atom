@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-13T00:35:10.290Z</updated>
+    <updated>2024-07-13T06:09:18.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2024 Sprint: Analysis, Maps and Results]]></title>
+        <id>http://news.worldofo.com/?p=20137</id>
+        <link href="https://news.worldofo.com/2024/07/13/woc-2024-sprint-analysis-maps-and-results/"/>
+        <updated>2024-07-13T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish organizers served one of the most tricky World Orienteering Championships (WOC) Sprint races ever – and the Swedish duo Martin Regborn and Tove Alexandersson made the day a big Swedish success with two gold medals for Sweden.  Alexandersson with her 20th WOC gold medal – Regborn with his first. Sweden dominated the results along ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC: Regborn and Alexandersson take first golds in Edinburgh]]></title>
         <id>https://orienteering.sport/?p=72709</id>
