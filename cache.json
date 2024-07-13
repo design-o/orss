@@ -271,16 +271,6 @@
           "wordCount": 1948,
           "title": "JWOC 2024: All You Need To Know",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/07/jwoc2024m-660x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20095",
-          "author": "Jan Kocbach",
-          "description": "The 2024 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend with more than 3000 teams on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9 hours earlier at 13:00 CET the women start their relay. Here you find all ...",
-          "link": "https://news.worldofo.com/2024/06/14/jukola-2024-all-you-need-to-know/",
-          "publishedOn": "2024-06-14T03:00:53.000Z",
-          "wordCount": 2769,
-          "title": "Jukola 2024: All You Need To Know",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/06/img_666aed886bb97-660x330.png"
         }
       ]
     },
@@ -433,6 +423,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22202",
+          "author": "Matthias Mahr",
+          "description": "Here are the Series Results for the London Park Race series after 8 of 10 races, with best 5 to count. There are 2 races [...]",
+          "link": "https://slow.org.uk/uncategorized/park-race-series-results/",
+          "publishedOn": "2024-07-13T13:36:25.000Z",
+          "wordCount": 2043,
+          "title": "Park Race Series Results",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22191",
           "author": "Matthias Mahr",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-13T12:11:22.170Z</updated>
+    <updated>2024-07-13T18:08:25.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race Series Results]]></title>
+        <id>https://slow.org.uk/?p=22202</id>
+        <link href="https://slow.org.uk/uncategorized/park-race-series-results/"/>
+        <updated>2024-07-13T13:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Here are the Series Results for the London Park Race series after 8 of 10 races, with best 5 to count. There are 2 races [...]]]></summary>
+        <author>
+            <name>Matthias Mahr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2024 Sprint: Analysis, Maps and Results]]></title>
         <id>http://news.worldofo.com/?p=20137</id>
@@ -890,16 +900,6 @@ The post Important Closing Dates Coming Up Very Soon appeared first on NI Orient
         <summary type="html"><![CDATA[As the JST hosts the presentation of the Young Orienteer of the Year Award this Sunday, it’s time to remind […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jukola 2024: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20095</id>
-        <link href="https://news.worldofo.com/2024/06/14/jukola-2024-all-you-need-to-know/"/>
-        <updated>2024-06-14T03:00:53.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend with more than 3000 teams on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9 hours earlier at 13:00 CET the women start their relay. Here you find all ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
