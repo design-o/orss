@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T12:12:23.350Z</updated>
+    <updated>2024-07-14T18:14:35.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC: Switzerland back on the Sprint Relay throne after 10 years]]></title>
+        <id>https://orienteering.sport/?p=72741</id>
+        <link href="https://orienteering.sport/woc-switzerland-back-on-the-sprint-relay-throne-after-10-years/"/>
+        <updated>2024-07-14T14:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Switzerland won an exciting sprint relay at World Orienteering Championships in Edinburgh on Sunday afternoon after a close battle with Sweden, who ended up disqualified. Instead, it was Finland who got the silver medals with Norway taking the bronze. Today’s sprint relay was run on the campus of Heriot-Watt University in the western part of […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race Series Results]]></title>
         <id>https://slow.org.uk/?p=22202</id>
