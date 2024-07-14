@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T00:39:06.772Z</updated>
+    <updated>2024-07-14T06:11:41.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -879,27 +879,6 @@ Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Oriente
 NZSSOC24 entries open first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Important Closing Dates Coming Up Very Soon]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5766</id>
-        <link href="https://www.niorienteering.org.uk/important-closing-dates-coming-up-very-soon/"/>
-        <updated>2024-06-14T13:29:06.000Z</updated>
-        <summary type="html"><![CDATA[A reminder of important closing dates coming up very soon. The NI Urban League event at Craigavon South on Sunday 16 June, closes on Saturday 15 June at 14:00. All the details are on the event page on the LVO website and entries are at...
-The post Important Closing Dates Coming Up Very Soon appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Leaders]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54057</id>
-        <link href="https://www.scottish-orienteering.org/news/young-leaders-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-leaders-2"/>
-        <updated>2024-06-14T13:14:33.000Z</updated>
-        <summary type="html"><![CDATA[As the JST hosts the presentation of the Young Orienteer of the Year Award this Sunday, it’s time to remind […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
