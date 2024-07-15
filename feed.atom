@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-15T00:36:40.131Z</updated>
+    <updated>2024-07-15T06:11:08.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2024 Sprint Relay: Maps, Results and brief Analysis]]></title>
+        <id>http://news.worldofo.com/?p=20175</id>
+        <link href="https://news.worldofo.com/2024/07/15/woc-2024-sprint-relay-maps-and-results/"/>
+        <updated>2024-07-15T03:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Switzerland won the World Orienteering Championships (WOC) Sprint Relay after a very strong performance by Simona Aebersold on the last leg where she outran Sweden’s Tove Alexandersson, who was later disqualified for skipping a control. Finland took the second place with Norway in third. The two big favourites, Switzerland and Sweden, followed each other closely ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC: Switzerland back on the Sprint Relay throne after 10 years]]></title>
         <id>https://orienteering.sport/?p=72741</id>
