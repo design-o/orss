@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72771",
+          "author": "Erling Thisted",
+          "description": "The XXXII IOF Ordinary General Assembly is held in a hybrid format on 15 July 2024 in Edinburgh, Scotland, from 11:00 to 15:00 local time (BST). You will be able to follow the stream from the GA in IOF LIVE. Find the agenda and more information about the XXXII IOF Ordinary General Assembly here.",
+          "link": "https://orienteering.sport/follow-iofs-xxxii-ordinary-general-assembly-here/",
+          "publishedOn": "2024-07-15T08:43:13.000Z",
+          "wordCount": 1808,
+          "title": "Follow IOF’s XXXII Ordinary General Assembly here",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72741",
           "author": "Erling Thisted",
           "description": "Switzerland won an exciting sprint relay at World Orienteering Championships in Edinburgh on Sunday afternoon after a close battle with Sweden, who ended up disqualified. Instead, it was Finland who got the silver medals with Norway taking the bronze. Today’s sprint relay was run on the campus of Heriot-Watt University in the western part of […]",
@@ -719,16 +729,6 @@
           "wordCount": 2125,
           "title": "2024 Southern Cross Teams Named",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2022/06/Southern-X-Challenge.jpeg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=59799",
-          "author": "Joolz",
-          "description": "Time to give the heads up to your sports coordinators and get your entries in for the orienteering champs in the Wellington region for three days from the 19th-21st July 2024. Come and test your skills in new terrain and join in NZs biggest event for young orienteers. Direct entry link here For more info […]\nNZSSOC24 entries open first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/nzssoc24-entries-open/",
-          "publishedOn": "2024-06-15T23:39:07.000Z",
-          "wordCount": 1927,
-          "title": "NZSSOC24 entries open",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/NZSSOC-24-image-plus-logo-.jpg"
         }
       ]
     },

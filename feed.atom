@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-15T06:11:08.659Z</updated>
+    <updated>2024-07-15T12:14:13.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow IOF’s XXXII Ordinary General Assembly here]]></title>
+        <id>https://orienteering.sport/?p=72771</id>
+        <link href="https://orienteering.sport/follow-iofs-xxxii-ordinary-general-assembly-here/"/>
+        <updated>2024-07-15T08:43:13.000Z</updated>
+        <summary type="html"><![CDATA[The XXXII IOF Ordinary General Assembly is held in a hybrid format on 15 July 2024 in Edinburgh, Scotland, from 11:00 to 15:00 local time (BST). You will be able to follow the stream from the GA in IOF LIVE. Find the agenda and more information about the XXXII IOF Ordinary General Assembly here.]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2024 Sprint Relay: Maps, Results and brief Analysis]]></title>
         <id>http://news.worldofo.com/?p=20175</id>
@@ -888,17 +898,6 @@ Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Oriente
         <summary type="html"><![CDATA[Well there hasn’t been a damp Jamie Stevenson Trophy for a few years but a bit of rain did not […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZSSOC24 entries open]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59799</id>
-        <link href="https://www.orienteering.org.nz/news/nzssoc24-entries-open/"/>
-        <updated>2024-06-15T23:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Time to give the heads up to your sports coordinators and get your entries in for the orienteering champs in the Wellington region for three days from the 19th-21st July 2024. Come and test your skills in new terrain and join in NZs biggest event for young orienteers. Direct entry link here For more info […]
-NZSSOC24 entries open first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
