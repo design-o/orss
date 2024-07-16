@@ -263,6 +263,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20206",
+          "author": "Jan Kocbach",
+          "description": "Graeme Ackland in the WOC 2024 course setting team has made a detailed analysis of the WOC Sprint Relay 2024, published here at WorldofO.com. – It was a very exciting race with lots of small errors and  changes of lead, Ackland comments.  The race analysis goes through the race and discusses the decisions points – this ...",
+          "link": "https://news.worldofo.com/2024/07/15/woc-2024-sprint-relay-analysis-by-course-setter-ackland/",
+          "publishedOn": "2024-07-15T20:55:03.000Z",
+          "wordCount": 1595,
+          "title": "WOC 2024 Sprint Relay: Analysis by Course Setter Ackland",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/07/illustration-602x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20175",
           "author": "Jan Kocbach",
           "description": "Switzerland won the World Orienteering Championships (WOC) Sprint Relay after a very strong performance by Simona Aebersold on the last leg where she outran Sweden’s Tove Alexandersson, who was later disqualified for skipping a control. Finland took the second place with Norway in third. The two big favourites, Switzerland and Sweden, followed each other closely ...",

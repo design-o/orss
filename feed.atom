@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-15T18:10:14.980Z</updated>
+    <updated>2024-07-16T00:36:01.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2024 Sprint Relay: Analysis by Course Setter Ackland]]></title>
+        <id>http://news.worldofo.com/?p=20206</id>
+        <link href="https://news.worldofo.com/2024/07/15/woc-2024-sprint-relay-analysis-by-course-setter-ackland/"/>
+        <updated>2024-07-15T20:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Graeme Ackland in the WOC 2024 course setting team has made a detailed analysis of the WOC Sprint Relay 2024, published here at WorldofO.com. – It was a very exciting race with lots of small errors and  changes of lead, Ackland comments.  The race analysis goes through the race and discusses the decisions points – this ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Follow IOF’s XXXII Ordinary General Assembly here]]></title>
         <id>https://orienteering.sport/?p=72771</id>
