@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-16T06:11:41.524Z</updated>
+    <updated>2024-07-16T12:13:07.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC: KO Sprint Qualifiers done – time for the finals!]]></title>
+        <id>https://orienteering.sport/?p=72814</id>
+        <link href="https://orienteering.sport/woc-ko-sprint-qualifiers-done-time-for-the-finals/"/>
+        <updated>2024-07-16T11:52:20.000Z</updated>
+        <summary type="html"><![CDATA[The last day of World Orienteering Championships 2024 started Tuesday morning in western Edinburgh, where the Knock-Out Sprint Qualification took place. Located in a relatively flat residential area, qualification courses between 2,4 – 2,8 kilometers containing many short legs with constant route choice challenges awaited the athletes. All of them trying to make in into […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2024 Sprint Relay: Analysis by Course Setter Ackland]]></title>
         <id>http://news.worldofo.com/?p=20206</id>
