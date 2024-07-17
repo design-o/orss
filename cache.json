@@ -283,6 +283,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20213",
+          "author": "Jan Kocbach",
+          "description": "Tove Alexandersson (Sweden) and Riccardo Rancan (Switzerland) won the World Orienteering Championships (WOC) Knock-Out Sprint – the last race of the championships. Silver and bronze went to Karolin Ohlsson (Sweden) and Simona Aebersold (Switzerland) in the women’s class, and Jørgen Baklid (Norway) and Jonatan Gustafsson (Sweden) in the men’s class. While the men’s race was a ...",
+          "link": "https://news.worldofo.com/2024/07/17/woc-2024-knock-out-sprint-analysis-maps-and-results/",
+          "publishedOn": "2024-07-17T03:00:16.000Z",
+          "wordCount": 2854,
+          "title": "WOC 2024 Knock-Out Sprint: Analysis, Maps and Results",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/07/finals-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20206",
           "author": "Jan Kocbach",
           "description": "Graeme Ackland in the WOC 2024 course setting team has made a detailed analysis of the WOC Sprint Relay 2024, published here at WorldofO.com. – It was a very exciting race with lots of small errors and  changes of lead, Ackland comments.  The race analysis goes through the race and discusses the decisions points – this ...",
