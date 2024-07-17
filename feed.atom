@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-16T18:09:40.557Z</updated>
+    <updated>2024-07-17T00:35:20.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC: Rancan and Alexandersson KO Sprint Champions]]></title>
+        <id>https://orienteering.sport/?p=72849</id>
+        <link href="https://orienteering.sport/woc-rancan-and-alexandersson-ko-sprint-champions/"/>
+        <updated>2024-07-16T19:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Riccardo Rancan (SUI) and Tove Alexandersson (SWE) claimed the World Championship titles in Knock-Out Sprint Tuesday afternoon. Central Edinburgh welcomed the 72 athletes back from the qualification in the morning with heavy showers for the quarter finals before it eventually stopped raining for the semi finals later in the afternoon. Once again the centre of […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC: KO Sprint Qualifiers done – time for the finals!]]></title>
         <id>https://orienteering.sport/?p=72814</id>
