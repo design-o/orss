@@ -561,6 +561,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60011",
+          "author": "Joolz",
+          "description": "Nau mai haere mai, and a warm welcome to Oceania Orienteering Championships 2025, hosted in Aoteoroa New Zealand by Orienteering Wellington and the orienteering clubs of the lower North Island. Oceania 2025 is supported and sanctioned by both Orienteering New Zealand and the International Orienteering Federation. We are please to announce that Bulletin One for […]\nOceania 2025 Bulletin one first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/oceania-2025-bulletin-one/",
+          "publishedOn": "2024-07-17T16:09:18.000Z",
+          "wordCount": 2148,
+          "title": "Oceania 2025 Bulletin one",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Bulletin-1_Oceania_w-logo_n.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=59986",
           "author": "Christo Peters",
           "description": "The third round of the 2024 World Cup will be held in Mor, Hungary 17th-20th August 2024, and will consist of a Middle Race, a Long Race, and a Forest Relay. Selectors have chosen the following team to represent New Zealand at the event: Men Zefa Fa-avae Toby Scott Tim Robertson Women Kaia Joergensen A […]\nWorld Cup 3 Team Named first appeared on Orienteering New Zealand.",
@@ -787,6 +797,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47525",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Pan-American Masters Games 2024",
+          "link": "https://neooc.com/results-pan-american-masters-games-2024/",
+          "publishedOn": "2024-07-17T13:53:58.000Z",
+          "wordCount": 1261,
+          "title": "Results | Pan-American Masters Games 2024",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2024/03/dj-johnson-4JHy5rxsF5g-unsplash-scaled.jpg"
+        },
         {
           "id": "https://neooc.com/?p=47484",
           "author": "Northeast Ohio Orienteering Club",

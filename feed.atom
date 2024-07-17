@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-17T12:14:04.907Z</updated>
+    <updated>2024-07-17T18:09:51.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oceania 2025 Bulletin one]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60011</id>
+        <link href="https://www.orienteering.org.nz/news/oceania-2025-bulletin-one/"/>
+        <updated>2024-07-17T16:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Nau mai haere mai, and a warm welcome to Oceania Orienteering Championships 2025, hosted in Aoteoroa New Zealand by Orienteering Wellington and the orienteering clubs of the lower North Island. Oceania 2025 is supported and sanctioned by both Orienteering New Zealand and the International Orienteering Federation. We are please to announce that Bulletin One for […]
+Oceania 2025 Bulletin one first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Results | Pan-American Masters Games 2024]]></title>
+        <id>https://neooc.com/?p=47525</id>
+        <link href="https://neooc.com/results-pan-american-masters-games-2024/"/>
+        <updated>2024-07-17T13:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Pan-American Masters Games 2024]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New IOF President, VPs and Council Members elected by General Assembly]]></title>
         <id>https://orienteering.sport/?p=72777</id>
