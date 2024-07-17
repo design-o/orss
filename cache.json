@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72777",
+          "author": "Erling Thisted",
+          "description": "IOF XXXII Ordinary General Assembly took place on Monday at the WOC 2024 event centre in Pollock Halls in Edinburgh. Delegations from 39 member federations were present – either on site or through the hybrid meeting solution online. Here all the reports and proposals put foreward in the agenda (find it here) were reviewed and […]",
+          "link": "https://orienteering.sport/new-president-vps-and-council-members-elected-at-2024-general-assembly/",
+          "publishedOn": "2024-07-17T10:12:18.000Z",
+          "wordCount": 2203,
+          "title": "New IOF President, VPs and Council Members elected by General Assembly",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_general_assembly_new_council-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72849",
           "author": "Erling Thisted",
           "description": "Riccardo Rancan (SUI) and Tove Alexandersson (SWE) claimed the World Championship titles in Knock-Out Sprint Tuesday afternoon. Central Edinburgh welcomed the 72 athletes back from the qualification in the morning with heavy showers for the quarter finals before it eventually stopped raining for the semi finals later in the afternoon. Once again the centre of […]",
@@ -908,6 +918,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11616",
+          "author": "elizabethl",
+          "description": "Over the last week, from 12-16 July, our Aussies traveled to Edinburgh for WOC 2024 competing in individual sprints, sprint relays and knock-out sprints.\nWOC 2024 Recap and Results first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/woc-2024-recap-and-results/",
+          "publishedOn": "2024-07-17T09:30:00.000Z",
+          "wordCount": 2719,
+          "title": "WOC 2024 Recap and Results",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11595",
           "author": "elizabethl",
