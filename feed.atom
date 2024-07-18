@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-17T18:09:51.124Z</updated>
+    <updated>2024-07-18T00:35:13.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -950,36 +950,6 @@ Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Oriente
         <updated>2024-06-20T07:02:26.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF welcomes new timing cooperation]]></title>
-        <id>https://orienteering.sport/?p=71996</id>
-        <link href="https://orienteering.sport/iof-welcomes-new-timing-cooperation/"/>
-        <updated>2024-06-18T09:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Earlier in June, German company arntech GmbH – a sister company of IOF partner SPORTident GmbH – announced its acquisition of Norwegian timing company EMIT AS. The acquisition is expected to open new markets for SPORTident and EMIT products and give benefits for future development of timing products from SPORTident GmbH and EMIT AS. “Having […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Orienteer of the Year Award presented]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54100</id>
-        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-award-presented/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year-award-presented"/>
-        <updated>2024-06-18T07:12:53.000Z</updated>
-        <summary type="html"><![CDATA[After long deliberations it was decided that the Young Orienteer of the Year award sponsored by Tulloch Homes for 2023 […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamie Stevenson Trophy inspires enthusiasm despite the rain]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54080</id>
-        <link href="https://www.scottish-orienteering.org/news/jamie-stevenson-trophy-inspires-enthusiasm-despite-the-rain/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jamie-stevenson-trophy-inspires-enthusiasm-despite-the-rain"/>
-        <updated>2024-06-18T06:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Well there hasn’t been a damp Jamie Stevenson Trophy for a few years but a bit of rain did not […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
