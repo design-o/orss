@@ -350,6 +350,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13801",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vale-rob-caldwell/",
+          "publishedOn": "2024-07-17T16:48:45.000Z",
+          "wordCount": 1034,
+          "title": "Vale Rob Caldwell",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13788",
           "author": "Margi Freemantle",
           "description": "Eureka Orienteers present a true blue Green & Gold event at Creswick Diggings and the hills either side of Longs Gully\nBallarat Classics – Creswick Diggings – Sat 13 July first appeared on Orienteering Victoria.",
@@ -888,6 +898,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11668",
+          "author": "elizabethl",
+          "description": "Major items to come out of the last Board meeting include approved Guidelines for Conducting Major Carnivals, approved additional rule changes to the ASOC rules and approved 2023 Annual Report of OA.\nBoard Operational Update first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/board-operational-update/",
+          "publishedOn": "2024-07-20T10:00:00.000Z",
+          "wordCount": 2226,
+          "title": "Board Operational Update",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11648",
           "author": "elizabethl",
