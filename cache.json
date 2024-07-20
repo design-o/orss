@@ -380,6 +380,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13712",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/alex-tarr-master-orienteer-recognised-in-the-news/",
+          "publishedOn": "2024-07-01T07:02:26.000Z",
+          "wordCount": 967,
+          "title": "Alex Tarr, Master Orienteer, Recognised in the News",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13733",
           "author": "Margi Freemantle",
           "description": "Neil Barr has recently completed a remap of Mosquito Creek and this event will be its first use. The contours are all new, based upon very recent lidar data, but expect the same challenges to test your orienteering skills.\nBendigo Bush – Mosquito Creek – Saturday 6 July first appeared on Orienteering Victoria.",
@@ -853,26 +863,6 @@
           "wordCount": 1758,
           "title": "Silver medal at European Youth Orienteering Championships",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/IMG_1596-819x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54113",
-          "author": "nikkihoward",
-          "description": "The 2026 World Master Mountain Bike Orienteering Championships (MTBO) are being held in Moray between 3-7 June. The embargoes areas […]",
-          "link": "https://www.scottish-orienteering.org/news/embargos-announced-for-the-2026-world-masters-mtbo-championships/?utm_source=rss&utm_medium=rss&utm_campaign=embargos-announced-for-the-2026-world-masters-mtbo-championships",
-          "publishedOn": "2024-06-20T16:41:01.000Z",
-          "wordCount": 1452,
-          "title": "Embargos announced for the 2026 World Masters MTBO Championships",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/06/PHOTO-2024-06-20-17-07-21-1024x684.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54107",
-          "author": "nikkihoward",
-          "description": "The SOA accounts for the year to 31st December 2023 have now been finalised and approved. They are available to […]",
-          "link": "https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june/?utm_source=rss&utm_medium=rss&utm_campaign=soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june",
-          "publishedOn": "2024-06-20T14:01:10.000Z",
-          "wordCount": 1572,
-          "title": "SOA Accounts to 31st December 2023 available to view before AGM on Monday 24th June",
-          "imageUrl": null
         }
       ]
     },

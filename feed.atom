@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T00:34:32.101Z</updated>
+    <updated>2024-07-20T06:11:37.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -697,6 +697,15 @@ Back stage business   |  The tech behind the Aus 3 Days first appeared on Ori
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alex Tarr, Master Orienteer, Recognised in the News]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13712</id>
+        <link href="https://www.vicorienteering.asn.au/alex-tarr-master-orienteer-recognised-in-the-news/"/>
+        <updated>2024-07-01T07:02:26.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bendigo Bush – Mosquito Creek – Saturday 6 July]]></title>
         <id>https://www.vicorienteering.asn.au/?p=13733</id>
         <link href="https://www.vicorienteering.asn.au/bendigo-bush-mosquito-creek-saturday-6-july/"/>
@@ -932,26 +941,6 @@ Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Oriente
         <summary type="html"><![CDATA[More than 400 of the most talented young orienteers in Europe meet in Szczechin, Poland this weekend for the 2024 European Youth Orienteering Championships. The athletes compete in four classes W16, M16, W18 and M18 and three disciplines await: Long, Sprint and Relay. The forest terrain in northwestern Poland is rather hilly with eg. 280 […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embargos announced for the 2026 World Masters MTBO Championships]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54113</id>
-        <link href="https://www.scottish-orienteering.org/news/embargos-announced-for-the-2026-world-masters-mtbo-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=embargos-announced-for-the-2026-world-masters-mtbo-championships"/>
-        <updated>2024-06-20T16:41:01.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 World Master Mountain Bike Orienteering Championships (MTBO) are being held in Moray between 3-7 June. The embargoes areas […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA Accounts to 31st December 2023 available to view before AGM on Monday 24th June]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54107</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-accounts-to-31st-december-2023-available-to-view-before-agm-on-monday-24th-june"/>
-        <updated>2024-06-20T14:01:10.000Z</updated>
-        <summary type="html"><![CDATA[The SOA accounts for the year to 31st December 2023 have now been finalised and approved. They are available to […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
