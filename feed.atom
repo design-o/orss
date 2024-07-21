@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T12:12:34.865Z</updated>
+    <updated>2024-07-21T18:08:34.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -940,17 +940,6 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
         <summary type="html"><![CDATA[Four different nations claimed the gold medals on the first day of European Youth Orienteering Championships, which take place in Szczechin, Poland this weekend. Saturday’s long distance tested the athletes’ physical abilities in the hilly terrain, where they also had to show their skills in coping with route planning on at least one long leg. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series Double Header in Beechworth, June 22 and 23]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13693</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-double-header-in-beechworth-june-22-and-23/"/>
-        <updated>2024-06-22T00:44:47.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss the chance to spend a weekend orienteering in Victoria's beautiful northeast - two Vic Series events on spectacular granite terrain! Enter online by Thursday 20 June
-Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
