@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T18:09:22.323Z</updated>
+    <updated>2024-07-21T00:38:34.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -951,16 +951,6 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
 Vic Series Double Header in Beechworth, June 22 and 23 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Szczechin ready to host EYOC this weekend]]></title>
-        <id>https://orienteering.sport/?p=72089</id>
-        <link href="https://orienteering.sport/szczechin-ready-to-host-eyoc-this-weekend/"/>
-        <updated>2024-06-21T09:57:28.000Z</updated>
-        <summary type="html"><![CDATA[More than 400 of the most talented young orienteers in Europe meet in Szczechin, Poland this weekend for the 2024 European Youth Orienteering Championships. The athletes compete in four classes W16, M16, W18 and M18 and three disciplines await: Long, Sprint and Relay. The forest terrain in northwestern Poland is rather hilly with eg. 280 […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
