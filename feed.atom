@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T06:11:13.698Z</updated>
+    <updated>2024-07-22T12:13:59.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Australia is now a Company]]></title>
+        <id>https://orienteering.asn.au/?p=11696</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-is-now-a-company/"/>
+        <updated>2024-07-22T09:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia has completed the transition from an incorporated body to a company limited by guarantee structure.
+Orienteering Australia is now a Company first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>michaeldowling</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Board Operational Update]]></title>
         <id>https://orienteering.asn.au/?p=11668</id>
