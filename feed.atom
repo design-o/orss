@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T00:36:49.216Z</updated>
+    <updated>2024-07-22T06:11:13.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -930,16 +930,6 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
         <summary type="html"><![CDATA[Registration deadline EXTENDED to June 26th Pan-American Masters Games 2024]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EYOC: Long distance in tough, Polish hills]]></title>
-        <id>https://orienteering.sport/?p=72110</id>
-        <link href="https://orienteering.sport/eyoc-long-distance-in-tough-polish-hills/"/>
-        <updated>2024-06-22T16:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Four different nations claimed the gold medals on the first day of European Youth Orienteering Championships, which take place in Szczechin, Poland this weekend. Saturday’s long distance tested the athletes’ physical abilities in the hilly terrain, where they also had to show their skills in coping with route planning on at least one long leg. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
