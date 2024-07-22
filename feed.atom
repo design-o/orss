@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T12:13:59.298Z</updated>
+    <updated>2024-07-22T18:09:32.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thank you to everyone for working so hard and effectively to make WOC 2024/ WOC Tour amazing!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54184</id>
+        <link href="https://www.scottish-orienteering.org/news/thank-you-to-everyone-for-working-so-hard-and-effectively-to-make-woc-2024-woc-tour-amazing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=thank-you-to-everyone-for-working-so-hard-and-effectively-to-make-woc-2024-woc-tour-amazing"/>
+        <updated>2024-07-22T17:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Collectively everyone involved created something really special in terms of WOC 2024 and WOC Tour.  Many competitors in WOC Tour […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Australia is now a Company]]></title>
         <id>https://orienteering.asn.au/?p=11696</id>
@@ -15,6 +25,17 @@
 Orienteering Australia is now a Company first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship]]></title>
+        <id>https://www.orienteering.ie/?p=18535</id>
+        <link href="https://www.orienteering.ie/triumph-over-terrain-the-unyielding-spirit-of-champions-at-the-2024-world-orienteering-championship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=triumph-over-terrain-the-unyielding-spirit-of-champions-at-the-2024-world-orienteering-championship"/>
+        <updated>2024-07-22T08:15:38.000Z</updated>
+        <summary type="html"><![CDATA[The Irish Orienteering team has once again proven their exceptional skill and determination at the World Orienteering Championships 2024. With a team composed of both seasoned athletes and promising newcomers, they have showcased the spirit of Ireland in the historic city of Edinburgh, a place where every alley and avenue tells a story. The team, […]
+The post Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Senior</name>
         </author>
     </entry>
     <entry>
@@ -931,16 +952,6 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
         <summary type="html"><![CDATA[The more than 400 athletes at European Youth Orienteering Championships found the fast shoes from the bag on Sunday afternoon, when the EYOC Sprint race took place in central Szczechin. And compared to yesterday’s long distance forest race, there were three new faces on top of the four EYOC podiums after today’s race, which took […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Registration Extended | Pan-American Masters Games 2024]]></title>
-        <id>https://neooc.com/?p=47397</id>
-        <link href="https://neooc.com/registration-extended-pan-american-masters-games-2024/"/>
-        <updated>2024-06-23T01:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Registration deadline EXTENDED to June 26th Pan-American Masters Games 2024]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>

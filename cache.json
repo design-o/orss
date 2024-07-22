@@ -447,6 +447,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=18535",
+          "author": "Senior",
+          "description": "The Irish Orienteering team has once again proven their exceptional skill and determination at the World Orienteering Championships 2024. With a team composed of both seasoned athletes and promising newcomers, they have showcased the spirit of Ireland in the historic city of Edinburgh, a place where every alley and avenue tells a story. The team, […]\nThe post Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship first appeared on Orienteering in Ireland.",
+          "link": "https://www.orienteering.ie/triumph-over-terrain-the-unyielding-spirit-of-champions-at-the-2024-world-orienteering-championship/?utm_source=rss&utm_medium=rss&utm_campaign=triumph-over-terrain-the-unyielding-spirit-of-champions-at-the-2024-world-orienteering-championship",
+          "publishedOn": "2024-07-22T08:15:38.000Z",
+          "wordCount": 1052,
+          "title": "Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship",
+          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
+        },
+        {
           "id": "https://www.orienteering.ie/?p=18412",
           "author": "Deirdre",
           "description": "Jens Waechter, Orienteering Ireland’s High Performance Manager, today announced the team for the World Orienteering Sprint Championships 2024 taking place in Edinburgh 11-16 July. Congratulations to all on your selection. Sprint Male Sprint Female Knock-Out Sprint Male  Knock-Out Sprint Female Relay Team 1\nThe post World Orienteering Championships 2024 – team announcement first appeared on Orienteering in Ireland.",
@@ -806,16 +816,6 @@
           "wordCount": 1282,
           "title": "Start Times | Pan-American Masters Games 2024",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=47397",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Registration deadline EXTENDED to June 26th Pan-American Masters Games 2024",
-          "link": "https://neooc.com/registration-extended-pan-american-masters-games-2024/",
-          "publishedOn": "2024-06-23T01:31:39.000Z",
-          "wordCount": 1290,
-          "title": "Registration Extended | Pan-American Masters Games 2024",
-          "imageUrl": "http://neooc.com/wp-content/uploads/2024/03/PanAm-Logos-1024x170.jpg"
         }
       ]
     },
@@ -824,6 +824,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54184",
+          "author": "nikkihoward",
+          "description": "Collectively everyone involved created something really special in terms of WOC 2024 and WOC Tour.  Many competitors in WOC Tour […]",
+          "link": "https://www.scottish-orienteering.org/news/thank-you-to-everyone-for-working-so-hard-and-effectively-to-make-woc-2024-woc-tour-amazing/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-to-everyone-for-working-so-hard-and-effectively-to-make-woc-2024-woc-tour-amazing",
+          "publishedOn": "2024-07-22T17:00:56.000Z",
+          "wordCount": 2141,
+          "title": "Thank you to everyone for working so hard and effectively to make WOC 2024/ WOC Tour amazing!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/07/P7120022_Radiant-topaz-denoise-faceai-c-matheson-1024x769.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54144",
           "author": "nikkihoward",
