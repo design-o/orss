@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T00:36:03.328Z</updated>
+    <updated>2024-07-24T06:10:50.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -929,16 +929,6 @@ Vic MTBO Series, Sunday 7 July, Tallarook first appeared on Orienteering Victori
         <link href="https://orienteering.sport/eyoc-relay-wins-for-finland-hungary-czechia-and-sweden/"/>
         <updated>2024-06-24T19:06:44.000Z</updated>
         <summary type="html"><![CDATA[Monday’s relays were the last race at the 2024 European Youth Orienteering Championships in Szczechin, Poland. The more than 400 athletes were back in the forest after yesterday’s sprint and were met by a varied terrain with quite a number of hills and richly-forked courses. Here, Finland’s W16 team with Lotta Laakso, Anni Jantunen and […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF continues the course towards less climate emissions]]></title>
-        <id>https://orienteering.sport/?p=72127</id>
-        <link href="https://orienteering.sport/iof-continues-the-course-towards-less-climate-emissions/"/>
-        <updated>2024-06-24T12:52:30.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation is still well on its way to achieving its goals for lowering climate emissions. This appears from IOF’s Carbon Budget Report for 2023, which estimates the CO2 emissions of the federation in the past year and has just been released. The report has been created by IOF’s Environment and Sustainability Commission […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
