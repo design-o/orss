@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T06:10:50.548Z</updated>
+    <updated>2024-07-24T12:13:09.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NSO Recognition Agreement from ASC- 2024-2026]]></title>
+        <id>https://orienteering.asn.au/?p=11671</id>
+        <link href="https://orienteering.asn.au/nso-recognition-agreement-from-asc-2024-2026/"/>
+        <updated>2024-07-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ASC offers recognition of Orienteering Australia as the national sporting organisation for orienteering.
+NSO Recognition Agreement from ASC- 2024-2026 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Southwark Park – Results]]></title>
         <id>https://slow.org.uk/?p=22219</id>
@@ -910,27 +921,6 @@ The post The Northern Ireland 3 Days appeared first on NI Orienteering Associati
 Vic MTBO Series, Sunday 7 July, Tallarook first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Southern Cross Teams Named]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59817</id>
-        <link href="https://www.orienteering.org.nz/news/2024-southern-cross-teams-named/"/>
-        <updated>2024-06-24T19:16:49.000Z</updated>
-        <summary type="html"><![CDATA[The ONZ selection panel has named this year’s teams to contest the Southern Cross Team in Australia: Karahiwi Senior Boys: Oscar Burns, Cody Carter, Jake McLellan, Blake McKinnon, Solomon Randerson Senior Girls: Anna Babington, Phoebe Hunt, Alicia McGivern, Amy Nicoll, Nika Rayward Junior Boys: Harley Brennan (Subject to fitness), Arya Chebbi, Micah Dunn, Charlie Milne, […]
-2024 Southern Cross Teams Named first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EYOC: Relay wins for Finland, Hungary, Czechia and Sweden]]></title>
-        <id>https://orienteering.sport/?p=72130</id>
-        <link href="https://orienteering.sport/eyoc-relay-wins-for-finland-hungary-czechia-and-sweden/"/>
-        <updated>2024-06-24T19:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Monday’s relays were the last race at the 2024 European Youth Orienteering Championships in Szczechin, Poland. The more than 400 athletes were back in the forest after yesterday’s sprint and were met by a varied terrain with quite a number of hills and richly-forked courses. Here, Finland’s W16 team with Lotta Laakso, Anni Jantunen and […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

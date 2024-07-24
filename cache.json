@@ -224,16 +224,6 @@
           "wordCount": 1972,
           "title": "Follow JWOC in Czechia from Monday",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/jwoc_2024_logo.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72130",
-          "author": "Erling Thisted",
-          "description": "Monday’s relays were the last race at the 2024 European Youth Orienteering Championships in Szczechin, Poland. The more than 400 athletes were back in the forest after yesterday’s sprint and were met by a varied terrain with quite a number of hills and richly-forked courses. Here, Finland’s W16 team with Lotta Laakso, Anni Jantunen and […]",
-          "link": "https://orienteering.sport/eyoc-relay-wins-for-finland-hungary-czechia-and-sweden/",
-          "publishedOn": "2024-06-24T19:06:44.000Z",
-          "wordCount": 1914,
-          "title": "EYOC: Relay wins for Finland, Hungary, Czechia and Sweden",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/eyoc2024_logo.png"
         }
       ]
     },
@@ -739,16 +729,6 @@
           "wordCount": 1951,
           "title": "Australia-NZ challenge 2024 MTBO selection",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/06/MTBO-sign-Pete.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=59817",
-          "author": "Christo Peters",
-          "description": "The ONZ selection panel has named this year’s teams to contest the Southern Cross Team in Australia: Karahiwi Senior Boys: Oscar Burns, Cody Carter, Jake McLellan, Blake McKinnon, Solomon Randerson Senior Girls: Anna Babington, Phoebe Hunt, Alicia McGivern, Amy Nicoll, Nika Rayward Junior Boys: Harley Brennan (Subject to fitness), Arya Chebbi, Micah Dunn, Charlie Milne, […]\n2024 Southern Cross Teams Named first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2024-southern-cross-teams-named/",
-          "publishedOn": "2024-06-24T19:16:49.000Z",
-          "wordCount": 2125,
-          "title": "2024 Southern Cross Teams Named",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2022/06/Southern-X-Challenge.jpeg"
         }
       ]
     },
@@ -858,6 +838,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11671",
+          "author": "elizabethl",
+          "description": "The ASC offers recognition of Orienteering Australia as the national sporting organisation for orienteering.\nNSO Recognition Agreement from ASC- 2024-2026 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nso-recognition-agreement-from-asc-2024-2026/",
+          "publishedOn": "2024-07-24T09:00:00.000Z",
+          "wordCount": 2137,
+          "title": "NSO Recognition Agreement from ASC- 2024-2026",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11696",
           "author": "michaeldowling",
