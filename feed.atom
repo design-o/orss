@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T00:35:08.853Z</updated>
+    <updated>2024-07-25T06:11:02.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -900,17 +900,6 @@ Australia-NZ challenge 2024 MTBO selection first appeared on Orienteering New Ze
         <summary type="html"><![CDATA[Several SLOW members enjoyed the British Sprint Relays and the British Sprint Championships in the Midlands on the weekend 22-23rd June. Everyone found a way [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Northern Ireland 3 Days]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5802</id>
-        <link href="https://www.niorienteering.org.uk/the-northern-ireland-3-days/"/>
-        <updated>2024-06-25T13:53:43.000Z</updated>
-        <summary type="html"><![CDATA[With 3 NI events in a week (and more club events and activities besides), it’s been a busy start to the summer. First off was the second event in the 2024 NI Urban League at South Craigavon on 16 June, with Graeme Francis’ extended map...
-The post The Northern Ireland 3 Days appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
