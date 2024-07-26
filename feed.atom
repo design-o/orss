@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-26T06:11:07.117Z</updated>
+    <updated>2024-07-26T12:13:08.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Our New Regional Development Officer]]></title>
+        <id>https://www.orienteering.ie/?p=18697</id>
+        <link href="https://www.orienteering.ie/meet-our-new-regional-development-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meet-our-new-regional-development-officer"/>
+        <updated>2024-07-26T11:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Please say hello to our new Regional Development Officer, Jack Hanafin! Jack will be familiar to most of our community as an established orienteer and an up and coming instructor and mapper. His work will be primarily focused in the Greater Dublin area, where he will also act as a Club Support Officer amongst other […]
+The post Meet Our New Regional Development Officer first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup Final Orienteering Team Announcement]]></title>
+        <id>https://www.orienteering.ie/?p=18674</id>
+        <link href="https://www.orienteering.ie/world-cup-final-orienteering-team-announcement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-cup-final-orienteering-team-announcement"/>
+        <updated>2024-07-26T06:35:54.000Z</updated>
+        <summary type="html"><![CDATA[I am pleased to announce the selection of our athletes for the World Cup Final Orienteering event in Finland. The team representing Orienteering Ireland will be: Congratulations to each of you! Your dedication, skill, and hard work have earned you a spot on the team, and we are confident that you will make a strong […]
+The post World Cup Final Orienteering Team Announcement first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Senior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSO Recognition Agreement from ASC- 2024-2026]]></title>
         <id>https://orienteering.asn.au/?p=11671</id>
@@ -879,27 +901,6 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
 European Youth Orienteering Championships Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia-NZ challenge 2024 MTBO selection]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59831</id>
-        <link href="https://www.orienteering.org.nz/news/australia-nz-challenge-2024-mtbo-selection/"/>
-        <updated>2024-06-26T23:37:15.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to announce the MTBO selected team for the Australia-NZ challenge at the AustralianMTBO Champs in October 2024 Selection into the MTBO squad is made according to the relevant Selection Policy and guidelines for MTBO selectors. 
-Australia-NZ challenge 2024 MTBO selection first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Sprint Weekend 2024]]></title>
-        <id>https://slow.org.uk/?p=22147</id>
-        <link href="https://slow.org.uk/clubnews/bsc2024/"/>
-        <updated>2024-06-26T18:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Several SLOW members enjoyed the British Sprint Relays and the British Sprint Championships in the Midlands on the weekend 22-23rd June. Everyone found a way [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
