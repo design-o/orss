@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-26T18:09:51.207Z</updated>
+    <updated>2024-07-27T00:34:57.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -890,17 +890,6 @@ Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]><
         <summary type="html"><![CDATA[After the June 2024 AGM, we thought now was a pertinent time to give you a bit of background about […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Youth Orienteering Championships Recap]]></title>
-        <id>https://orienteering.asn.au/?p=11409</id>
-        <link href="https://orienteering.asn.au/european-youth-orienteering-championships-recap/"/>
-        <updated>2024-06-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Australia had 5 athletes competing in Szczecin, Poland in the 2024 EYOC, the largest competition in the IOF calendar.
-European Youth Orienteering Championships Recap first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
