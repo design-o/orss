@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-27T06:09:11.153Z</updated>
+    <updated>2024-07-27T12:13:31.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -880,16 +880,6 @@ British Sprint Orienteering Championships first appeared on Orienteering Austral
 Victorian Schools Team Announcement first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the SOA Board – June 2024]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54144</id>
-        <link href="https://www.scottish-orienteering.org/news/meet-the-soa-board-june-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meet-the-soa-board-june-2024"/>
-        <updated>2024-06-27T19:09:51.000Z</updated>
-        <summary type="html"><![CDATA[After the June 2024 AGM, we thought now was a pertinent time to give you a bit of background about […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
