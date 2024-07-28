@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T06:09:42.129Z</updated>
+    <updated>2024-07-28T12:11:59.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn and Play Orienteering Coach accreditation goes live on 30 July]]></title>
+        <id>https://orienteering.asn.au/?p=11723</id>
+        <link href="https://orienteering.asn.au/learn-and-play-orienteering-coach-accreditation-goes-live-on-30-july/"/>
+        <updated>2024-07-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Learn and Play Orienteering Coach
+Learn and Play Orienteering Coach accreditation goes live on 30 July first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Our New Regional Development Officer]]></title>
         <id>https://www.orienteering.ie/?p=18697</id>
