@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-27T18:09:35.039Z</updated>
+    <updated>2024-07-28T00:38:47.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -848,27 +848,6 @@ Bendigo Bush – Mosquito Creek – Saturday 6 July first appeared on Orienteeri
         <updated>2024-06-29T05:36:42.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow JWOC in Czechia from Monday]]></title>
-        <id>https://orienteering.sport/?p=72413</id>
-        <link href="https://orienteering.sport/follow-jwoc-in-czechia-from-monday/"/>
-        <updated>2024-06-28T10:27:49.000Z</updated>
-        <summary type="html"><![CDATA[The international highlight of the year for junior orienteers begins on Monday when the Junior World Orienteering Championships kick off in Pilsen, Czechia. More than 330 athletes from 38 nations have registered for the championships, which count five races during JWOC week. The youngest discipline on the programme, Sprint Relay gets the party started before […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Sprint Orienteering Championships]]></title>
-        <id>https://orienteering.asn.au/?p=11440</id>
-        <link href="https://orienteering.asn.au/british-sprint-orienteering-championships/"/>
-        <updated>2024-06-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With a strong team for the mixed sprint relay at the British Sprint Orienteering Championships, the team finished 4th overall.
-British Sprint Orienteering Championships first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
