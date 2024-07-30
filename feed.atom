@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-30T12:13:29.994Z</updated>
+    <updated>2024-07-30T18:09:47.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -861,16 +861,6 @@ Back stage business   |  The tech behind the Aus 3 Days first appeared on Ori
 Bendigo Bush – Mosquito Creek – Saturday 6 July first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC 2024: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20110</id>
-        <link href="https://news.worldofo.com/2024/07/01/jwoc-2024-all-you-need-to-know/"/>
-        <updated>2024-07-01T03:00:45.000Z</updated>
-        <summary type="html"><![CDATA[[LIVE from Monday July 1st 16:00 CET] The Junior World Orienteering Championships (JWOC) 2024 in Czech Republic starts with the Sprint Relay on Monday July 1st, continues with Sprint on Tuesday, Long on Wednesday, Middle on Friday and finishes off with Relay on Saturday.  The championship is organized around Pilsen, Czech Republic – and will offer a full webTV-broadcast at IOF TV (25 ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
