@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T12:14:00.781Z</updated>
+    <updated>2024-07-31T18:10:19.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -787,17 +787,6 @@ The post World Orienteering Championships 2024 – team announcement first appea
         <summary type="html"><![CDATA[With only four years of orienteering experience, Eef van Dongen (NED) took the orienteering world by surprise, when she won the bronze medal as Knock-Out Sprint made its debut on the WOC-program in Denmark in 2022. In this podcast episode, she shares her memories from the day and look ahead to the upcoming World Orienteering […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Series, Sunday 7 July, Tallarook – Results and Photos]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13333</id>
-        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-1-sunday-24-march-creswick/"/>
-        <updated>2024-07-02T02:11:47.000Z</updated>
-        <summary type="html"><![CDATA[The next Vic Series MTBO event is on 7 July, on a new map at Tallarook. Online entry closes on Wed July 3, so don't delay.
-Vic MTBO Series, Sunday 7 July, Tallarook – Results and Photos first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
