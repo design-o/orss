@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T00:29:35.312Z</updated>
+    <updated>2024-07-31T06:09:11.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -654,26 +654,6 @@ Vic MTBO Series, Sunday 7 July, Tallarook – Results and Photos first appeared 
 Southern Cross Teams are now official first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex Tarr, Master Orienteer, Recognised in the News]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13712</id>
-        <link href="https://www.vicorienteering.asn.au/alex-tarr-master-orienteer-recognised-in-the-news/"/>
-        <updated>2024-07-01T07:02:26.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendigo Bush – Mosquito Creek – Saturday 6 July]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13733</id>
-        <link href="https://www.vicorienteering.asn.au/bendigo-bush-mosquito-creek-saturday-6-july/"/>
-        <updated>2024-07-01T06:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Neil Barr has recently completed a remap of Mosquito Creek and this event will be its first use. The contours are all new, based upon very recent lidar data, but expect the same challenges to test your orienteering skills.
-Bendigo Bush – Mosquito Creek – Saturday 6 July first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
