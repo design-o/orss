@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T06:11:49.726Z</updated>
+    <updated>2024-08-02T12:13:17.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -703,17 +703,6 @@ Victorians Sprint to Success at JWOC first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and André Haga, Finland ride over Sprint and Long Distance in the coming days in Latvia to defend their respective leads in the CX80 MTBO World Cup standings. Almost all the top six in the men’s and women’s lists will be among the 114 riders from 15 nations taking part. A Mixed […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale – Bob Mouatt (OAM)]]></title>
-        <id>https://orienteering.asn.au/?p=11480</id>
-        <link href="https://orienteering.asn.au/vale-bob-mouatt-oam/"/>
-        <updated>2024-07-03T20:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia is saddened to learn of the passing of one of our former Presidents in Bob. Bob was a true icon of our sport. He was a leader, promoter, communicator, manager, organiser, planner, controller, competitor, and mentor. Bob gave so much to our sport as a passionate member of Orienteering ACT and with Orienteering Australia.
-Vale – Bob Mouatt (OAM) first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>
