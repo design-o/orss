@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T18:09:28.327Z</updated>
+    <updated>2024-08-02T00:35:12.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -724,38 +724,6 @@ Vale – Bob Mouatt (OAM) first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[There was total Czech dominance in the women’s class as the Junior World Orienteering Championships field went into the forest today for the long distance, where Switzerland’s Matthieu Bührer took the title for the second consecutive day in the men’s class. After two days of sprint races, Wednesday offered a completely different challenge for the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania NZ 2025 Embargoes]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59927</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-nz-embargoes/"/>
-        <updated>2024-07-03T11:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Everyone intending to enter the Oceania Orienteering Championships 24-27 January 2025 needs to be aware of the embargoes in place for the event. Embargoes are areas that are out of bounds to competitors prior to the events, and cover the areas being used in the competition. This prevents unfair prior knowledge being gained about the […]
-Oceania NZ 2025 Embargoes first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walpole and Lammas Parks Results]]></title>
-        <id>https://slow.org.uk/?p=22174</id>
-        <link href="https://slow.org.uk/racereports/walpole-lammas-results-jul24/"/>
-        <updated>2024-07-03T07:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Many thanks to Don for mapping and planning some intricate London parks, brand new to orienteering. Results – pdf Results – SPORTident WinSplits (split times [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Test Races]]></title>
-        <id>https://orienteering.asn.au/?p=11462</id>
-        <link href="https://orienteering.asn.au/woc-2024-test-races/"/>
-        <updated>2024-07-03T07:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Six Australian athletes raced in the WOC 2024 Test Races in Edinburgh in preparation for WOC next week.
-WOC 2024 Test Races first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
