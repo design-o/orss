@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T00:35:12.308Z</updated>
+    <updated>2024-08-02T06:11:49.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -714,16 +714,6 @@ Victorians Sprint to Success at JWOC first appeared on Orienteering Victoria.]]>
 Vale – Bob Mouatt (OAM) first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Long distance: Bührer wins second gold, Czech reign in W20]]></title>
-        <id>https://orienteering.sport/?p=72457</id>
-        <link href="https://orienteering.sport/jwoc-buhrer-wins-second-gold-on-long-czech-reign-in-w20/"/>
-        <updated>2024-07-03T18:06:44.000Z</updated>
-        <summary type="html"><![CDATA[There was total Czech dominance in the women’s class as the Junior World Orienteering Championships field went into the forest today for the long distance, where Switzerland’s Matthieu Bührer took the title for the second consecutive day in the men’s class. After two days of sprint races, Wednesday offered a completely different challenge for the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
