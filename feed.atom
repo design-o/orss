@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T18:10:01.632Z</updated>
+    <updated>2024-08-03T00:34:40.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st]]></title>
+        <id>https://neooc.com/?p=47607</id>
+        <link href="https://neooc.com/new-event-fallsquest-2024-cuyahoga-falls-oh-sunday-september-1st/"/>
+        <updated>2024-08-02T20:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Preregistration is Open! On Foot or Bicycle Score Courses in beautiful downtown Cuyahoga Falls and Silver Lake areas! Family Version available too! FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOA Club Networking day – 14th Sep 2024]]></title>
         <id>https://www.scottish-orienteering.org/?p=54230</id>
@@ -713,16 +723,6 @@ Victorians Sprint to Success at JWOC first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[On the north (Middlesex) bank of the Thames, upstream of Putney Bridge, is a a bench in memory of Ed Catmur. It is between controls [...]]]></summary>
         <author>
             <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 World Cup in MTBO: leaders geared up for second round]]></title>
-        <id>https://orienteering.sport/?p=72470</id>
-        <link href="https://orienteering.sport/cx80-world-cup-in-mtbo-leaders-geared-up-for-second-round/"/>
-        <updated>2024-07-04T12:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and André Haga, Finland ride over Sprint and Long Distance in the coming days in Latvia to defend their respective leads in the CX80 MTBO World Cup standings. Almost all the top six in the men’s and women’s lists will be among the 114 riders from 15 nations taking part. A Mixed […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>

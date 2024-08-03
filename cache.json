@@ -184,16 +184,6 @@
           "wordCount": 1963,
           "title": "JWOC Middle: Two golds for home nation Czechia",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_jwoc_long_janstrycek_petrhap-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72470",
-          "author": "Clive",
-          "description": "Nikoline Splittorff, Denmark and André Haga, Finland ride over Sprint and Long Distance in the coming days in Latvia to defend their respective leads in the CX80 MTBO World Cup standings. Almost all the top six in the men’s and women’s lists will be among the 114 riders from 15 nations taking part. A Mixed […]",
-          "link": "https://orienteering.sport/cx80-world-cup-in-mtbo-leaders-geared-up-for-second-round/",
-          "publishedOn": "2024-07-04T12:26:51.000Z",
-          "wordCount": 2088,
-          "title": "CX80 World Cup in MTBO: leaders geared up for second round",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/mtbowc_2024_2_logo.png"
         }
       ]
     },
@@ -597,6 +587,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47607",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Preregistration is Open! On Foot or Bicycle Score Courses in beautiful downtown Cuyahoga Falls and Silver Lake areas! Family Version available too! FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st",
+          "link": "https://neooc.com/new-event-fallsquest-2024-cuyahoga-falls-oh-sunday-september-1st/",
+          "publishedOn": "2024-08-02T20:39:02.000Z",
+          "wordCount": 1304,
+          "title": "New Event | FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/10/Cuyahoga_Falls.jpg"
+        },
         {
           "id": "https://neooc.com/?p=47525",
           "author": "Northeast Ohio Orienteering Club",
