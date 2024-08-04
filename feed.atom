@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-04T12:11:59.997Z</updated>
+    <updated>2024-08-04T18:08:42.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -716,17 +716,6 @@ MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on O
         <summary type="html"><![CDATA[Dane Nikoline Splittorff extended her lead in the CX80 World Cup with a win by 51 seconds, while Italian Fabiano Bettega won the men’s race by 19 seconds. World Cup leader André Haga, Finland was third. The race doubled as this year’s U23 World MTBO Championships in Sprint, and gold medalists here were the Austrian […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians Sprint to Success at JWOC]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13703</id>
-        <link href="https://www.vicorienteering.asn.au/victorians-selected-to-australian-teams-who-where-and-when/"/>
-        <updated>2024-07-06T05:36:42.000Z</updated>
-        <summary type="html"><![CDATA[Find out how our Victorian JWOC reps, Callum White and Milla Key, performed!
-Victorians Sprint to Success at JWOC first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
