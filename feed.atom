@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T00:37:22.786Z</updated>
+    <updated>2024-08-05T06:11:33.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -696,16 +696,6 @@ New Zealand sets records in Czechia at the Junior World Orienteering Championshi
 MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC: Switzerland and Finland claim relay golds]]></title>
-        <id>https://orienteering.sport/?p=72579</id>
-        <link href="https://orienteering.sport/jwoc-switzerland-and-finland-claim-relay-golds/"/>
-        <updated>2024-07-06T15:07:09.000Z</updated>
-        <summary type="html"><![CDATA[The Junior World Orienteering Championships 2024 ended with two exciting relays on Saturday morning in Czechia, where Switzerland and Finland claimed the gold medals. The terrain was similar to yesterday’s middle distance – moderately hilly with many contour details and plenty of forkings for the relay courses. The men were first out in the forest […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
