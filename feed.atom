@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-04T18:08:42.547Z</updated>
+    <updated>2024-08-05T00:37:22.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WMOC: Challenging sprint final in Turku]]></title>
+        <id>https://orienteering.sport/?p=72955</id>
+        <link href="https://orienteering.sport/wmoc-challenging-sprint-final-in-turku/"/>
+        <updated>2024-08-04T20:26:31.000Z</updated>
+        <summary type="html"><![CDATA[More than 3,200 masters athletes took part when the first final at the World Masters Orienteering Championships in Finland was run on Sunday. The sprint final took place in central Turku, the host of city the championships, which featured challenging courses with plenty of demanding short leg in a mix of parkland and hard surfaces […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONZ invites applications for Performance Leader & Performance Steering Group Positions]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60167</id>
@@ -696,26 +706,6 @@ MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on O
         <summary type="html"><![CDATA[The Junior World Orienteering Championships 2024 ended with two exciting relays on Saturday morning in Czechia, where Switzerland and Finland claimed the gold medals. The terrain was similar to yesterday’s middle distance – moderately hilly with many contour details and plenty of forkings for the relay courses. The men were first out in the forest […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Park Race Finale – Southwark Park 23 July]]></title>
-        <id>https://slow.org.uk/?p=22191</id>
-        <link href="https://slow.org.uk/events/2024-park-race-finale-southwark-park-23-july/"/>
-        <updated>2024-07-06T08:47:17.000Z</updated>
-        <summary type="html"><![CDATA[Join us on Tuesday 23rd July for the 10th and final race in the London 2024 Park Series. Fast and fun orienteering courses in a [...]]]></summary>
-        <author>
-            <name>Matthias Mahr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 World Cup in MTBO: Sprint wins for Splittorff and Bettega]]></title>
-        <id>https://orienteering.sport/?p=72572</id>
-        <link href="https://orienteering.sport/cx80-world-cup-in-mtbo-sprint-wins-for-splittorff-and-bettega/"/>
-        <updated>2024-07-06T08:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Dane Nikoline Splittorff extended her lead in the CX80 World Cup with a win by 51 seconds, while Italian Fabiano Bettega won the men’s race by 19 seconds. World Cup leader André Haga, Finland was third. The race doubled as this year’s U23 World MTBO Championships in Sprint, and gold medalists here were the Austrian […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72955",
+          "author": "Erling Thisted",
+          "description": "More than 3,200 masters athletes took part when the first final at the World Masters Orienteering Championships in Finland was run on Sunday. The sprint final took place in central Turku, the host of city the championships, which featured challenging courses with plenty of demanding short leg in a mix of parkland and hard surfaces […]",
+          "link": "https://orienteering.sport/wmoc-challenging-sprint-final-in-turku/",
+          "publishedOn": "2024-08-04T20:26:31.000Z",
+          "wordCount": 1804,
+          "title": "WMOC: Challenging sprint final in Turku",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024_wmoc_sprintq-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72933",
           "author": "Erling Thisted",
           "description": "The 2024 World Masters Orienteering Championships have attracted more than 4,200 competitors to the south-west corner of Finland, where the competitions begin on Saturday with the sprint qualification race. 42 nations are represented at the championships, where world masters champions will be crowned in 25 classes from W/M 35 up to W95 and M90. The […]",
@@ -164,16 +174,6 @@
           "wordCount": 2069,
           "title": "JWOC: Switzerland and Finland claim relay golds",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_jwoc_relay_m_jiri_mrkvicka.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72572",
-          "author": "Clive",
-          "description": "Dane Nikoline Splittorff extended her lead in the CX80 World Cup with a win by 51 seconds, while Italian Fabiano Bettega won the men’s race by 19 seconds. World Cup leader André Haga, Finland was third. The race doubled as this year’s U23 World MTBO Championships in Sprint, and gold medalists here were the Austrian […]",
-          "link": "https://orienteering.sport/cx80-world-cup-in-mtbo-sprint-wins-for-splittorff-and-bettega/",
-          "publishedOn": "2024-07-06T08:22:26.000Z",
-          "wordCount": 2126,
-          "title": "CX80 World Cup in MTBO: Sprint wins for Splittorff and Bettega",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_mtbo_wcup_r2.jpg-1024x683.jpg"
         }
       ]
     },
@@ -351,16 +351,6 @@
           "publishedOn": "2024-07-13T13:36:25.000Z",
           "wordCount": 2043,
           "title": "Park Race Series Results",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22191",
-          "author": "Matthias Mahr",
-          "description": "Join us on Tuesday 23rd July for the 10th and final race in the London 2024 Park Series. Fast and fun orienteering courses in a [...]",
-          "link": "https://slow.org.uk/events/2024-park-race-finale-southwark-park-23-july/",
-          "publishedOn": "2024-07-06T08:47:17.000Z",
-          "wordCount": 2556,
-          "title": "2024 Park Race Finale – Southwark Park 23 July",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
