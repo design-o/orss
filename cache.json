@@ -144,26 +144,6 @@
           "wordCount": 2349,
           "title": "World Orienteering Championships kick off in Scotland on Friday",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/woc2022-sprintrelay-william_hollowell-1024x768.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72588",
-          "author": "Clive",
-          "description": "A strong Lithuanian team won by 2.55 over Italy, with Finland third, 3.13 down, in Latvia today. In an exciting race in mainly forested terrain with many small paths and some hills, on a bright but windy day, the lead changed several times. Martin Illig, riding for Austria 2, had a flyer on the first […]",
-          "link": "https://orienteering.sport/cx80-mtbo-world-cup-mixed-relay-win-for-lithuania/",
-          "publishedOn": "2024-07-07T12:29:33.000Z",
-          "wordCount": 1946,
-          "title": "CX80 MTBO World Cup: Mixed Relay win for Lithuania",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/mtbowc_2024_2_logo.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72585",
-          "author": "Clive",
-          "description": "In the Long distance races, Iris Aurora Pecorari, Italy and Noah Rieder, Switzerland, won World Championship gold medals as the best U23 riders in the CX80 World Cup field. Rieder is also U23 Sprint champion. Pecorari, only 20 this year, won all three gold medals in the Junior European Championships in Poland in May. The […]",
-          "link": "https://orienteering.sport/mtbo-rising-stars-italian-triple-european-junior-champion-wins-u23-gold-second-gold-for-swiss-rider/",
-          "publishedOn": "2024-07-07T07:38:51.000Z",
-          "wordCount": 2215,
-          "title": "MTBO rising stars: Italian triple European junior champion wins U23 gold; second gold for Swiss rider",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/mtbowc_2024_2_logo.png"
         }
       ]
     },
@@ -230,6 +210,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13333",
+          "author": "Debbie Dodd",
+          "description": "The next Vic Series MTBO event is on 7 July, on a new map at Tallarook. Online entry closes on Wed July 3, so don't delay.\nVic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vic-mtbo-series-1-sunday-24-march-creswick/",
+          "publishedOn": "2024-07-23T02:11:47.000Z",
+          "wordCount": 1159,
+          "title": "Vic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13801",
           "author": "Debbie Dodd",
           "description": "",
@@ -267,16 +257,6 @@
           "publishedOn": "2024-07-11T10:35:10.000Z",
           "wordCount": 1001,
           "title": "Ballarat Classics – Creswick Diggings – Sat 13 July",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13388",
-          "author": "Debbie Dodd",
-          "description": "Enjoy a great introduction to orienteering in rocks at Granite Hills on Sunday 14 July. Online entry is open now!\nMelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-2024/",
-          "publishedOn": "2024-07-07T03:48:27.000Z",
-          "wordCount": 1166,
-          "title": "MelBushO Rocks!  Granite Hills, Sunday 14 July, South Morang",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
