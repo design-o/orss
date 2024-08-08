@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T12:13:28.836Z</updated>
+    <updated>2024-08-08T18:10:51.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Masters MTBO Championships well underway in Denmark]]></title>
+        <id>https://orienteering.sport/?p=72972</id>
+        <link href="https://orienteering.sport/world-masters-mtbo-championships-well-underway-in-denmark/"/>
+        <updated>2024-08-08T16:02:58.000Z</updated>
+        <summary type="html"><![CDATA[More than 400 masters athletes are racing for World Masters MTBO titles at WMMTBOC in Viborg, Denmark this week. Four races: Mass start, Middle, Sprint and Long will take the athletes to some of the finest MTBO terrains in Jutland in western Denmark, among them Ebeltoft and Undallslund plantations, which were also used for the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WMOC Middle: Demanding terrain for Wednesday’s final]]></title>
         <id>https://orienteering.sport/?p=72966</id>
