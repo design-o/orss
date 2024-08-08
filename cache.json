@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72966",
+          "author": "Erling Thisted",
+          "description": "The athletes at the World Masters Orienteering Championships in Finland were met with challenging courses at the middle distance final on Wednesday. The more than 3,700 participants were just like at Tuesday’s forest qualification in the forests at Sauvo east of the host city Turku. Today’s terrain was full of details with very few paths […]",
+          "link": "https://orienteering.sport/wmoc-middle-demanding-terrain-for-wednesdays-final/",
+          "publishedOn": "2024-08-07T22:04:54.000Z",
+          "wordCount": 1862,
+          "title": "WMOC Middle: Demanding terrain for Wednesday’s final",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/wmoc_middle_2024_pressphoto-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72962",
           "author": "Erling Thisted",
           "description": "The biennial North American Orienteering Championships start this Tuesday in Canada’s Ontario region and feature five championship races over the coming days. The first race is the individual sprint, then there’s a Sprint Relay on Wednesday before Thursday’s Knock-Out Sprint concludes the sprint races, all taking place in the city of Kingston, Ontario. Here the […]",
@@ -124,16 +134,6 @@
           "wordCount": 1979,
           "title": "How to follow WOC in Edinburgh",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/03/woc2022_sprintrelay_arena-1024x585.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72610",
-          "author": "Sondre Sande Gullord",
-          "description": "25 young orienteering leaders from around the world took were earlier this year selected to take part in the IOF Young Leaders Academy (YLA) 2024 in Italy in the beginning of July. YLA was organised for the first time in 2023, and its purpose is to support their talent and their competencies on key topics […]",
-          "link": "https://orienteering.sport/new-friendships-and-learning-at-the-iof-young-leaders-academy-2024/",
-          "publishedOn": "2024-07-09T09:41:52.000Z",
-          "wordCount": 1876,
-          "title": "New friendships and learning at the IOF Young Leaders Academy 2024",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/5de1fe48-a52f-4f04-9265-672d73438e6e-1024x768.jpg"
         }
       ]
     },

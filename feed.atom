@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T18:09:52.574Z</updated>
+    <updated>2024-08-08T00:35:34.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WMOC Middle: Demanding terrain for Wednesday’s final]]></title>
+        <id>https://orienteering.sport/?p=72966</id>
+        <link href="https://orienteering.sport/wmoc-middle-demanding-terrain-for-wednesdays-final/"/>
+        <updated>2024-08-07T22:04:54.000Z</updated>
+        <summary type="html"><![CDATA[The athletes at the World Masters Orienteering Championships in Finland were met with challenging courses at the middle distance final on Wednesday. The more than 3,700 participants were just like at Tuesday’s forest qualification in the forests at Sauvo east of the host city Turku. Today’s terrain was full of details with very few paths […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North America crowns its champions this week in Ontario]]></title>
         <id>https://orienteering.sport/?p=72962</id>
@@ -676,16 +686,6 @@ JWOC 2024 Results and Recap first appeared on Orienteering Australia.]]></summar
 New Zealand sets records in Czechia at the Junior World Orienteering Championships  first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New friendships and learning at the IOF Young Leaders Academy 2024]]></title>
-        <id>https://orienteering.sport/?p=72610</id>
-        <link href="https://orienteering.sport/new-friendships-and-learning-at-the-iof-young-leaders-academy-2024/"/>
-        <updated>2024-07-09T09:41:52.000Z</updated>
-        <summary type="html"><![CDATA[25 young orienteering leaders from around the world took were earlier this year selected to take part in the IOF Young Leaders Academy (YLA) 2024 in Italy in the beginning of July. YLA was organised for the first time in 2023, and its purpose is to support their talent and their competencies on key topics […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
         </author>
     </entry>
 </feed>
