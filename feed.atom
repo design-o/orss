@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T06:11:55.833Z</updated>
+    <updated>2024-08-08T12:13:28.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -675,17 +675,6 @@ World Cup 3 Team Named first appeared on Orienteering New Zealand.]]></summary>
 JWOC 2024 Results and Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Zealand sets records in Czechia at the Junior World Orienteering Championships]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59977</id>
-        <link href="https://www.orienteering.org.nz/news/new-zealand-sets-records-in-czechia-at-the-junior-world-orienteering-championships/"/>
-        <updated>2024-07-09T20:41:07.000Z</updated>
-        <summary type="html"><![CDATA[The New Zealand Junior orienteering team showed they can compete with the best in the world in navigation and terrain running at the Junior World Orienteering Championships in Czechia last week. Zefa Fa’avae, son of the world famous adventure racer Nathan Fa’avae, ran a near-perfect race to take the silver medal in the long distance […]
-New Zealand sets records in Czechia at the Junior World Orienteering Championships  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
