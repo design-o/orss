@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T12:13:48.685Z</updated>
+    <updated>2024-08-09T18:09:54.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -645,16 +645,6 @@ Ballarat Classics – Creswick Diggings – Sat 13 July first appeared on Orient
 World Cup 3 Team Named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20122</id>
-        <link href="https://news.worldofo.com/2024/07/11/woc-2024-all-you-need-to-know/"/>
-        <updated>2024-07-11T03:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Fast-paced urban orienteering with challenging route choices is expected when the 2024 World Orienteering Championships (WOC) starts in Edinburgh, Scotland on Friday July 12th with the Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Sprint Relay on Sunday July 14th, and finally rounds off with the Knock-Out ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
