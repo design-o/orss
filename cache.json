@@ -638,6 +638,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=11735",
+          "author": "elizabethl",
+          "description": "Competing in Bankso, Bulgaria this year from 1-5 August, WUOC 2024 saw 12 Australian athletes fight hard in all events.\nWUOC 2024 Recap and Results first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/wuoc-2024-recap-and-results/",
+          "publishedOn": "2024-08-07T23:00:00.000Z",
+          "wordCount": 2402,
+          "title": "WUOC 2024 Recap and Results",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=11723",
           "author": "elizabethl",
           "description": "The Learn and Play Orienteering Coach\nLearn and Play Orienteering Coach accreditation goes live on 30 July first appeared on Orienteering Australia.",
@@ -705,16 +715,6 @@
           "publishedOn": "2024-07-11T22:38:07.000Z",
           "wordCount": 2122,
           "title": "WOC 2024 Preview",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11513",
-          "author": "elizabethl",
-          "description": "Results and recap of the 2024 Junior World Orienteering Championships in Pilsen, Czech Republic.\nJWOC 2024 Results and Recap first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/jwoc-2024-results-and-recap/",
-          "publishedOn": "2024-07-10T09:30:00.000Z",
-          "wordCount": 3001,
-          "title": "JWOC 2024 Results and Recap",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
