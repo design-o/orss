@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T06:11:35.403Z</updated>
+    <updated>2024-08-09T12:13:48.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -655,36 +655,6 @@ World Cup 3 Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[Fast-paced urban orienteering with challenging route choices is expected when the 2024 World Orienteering Championships (WOC) starts in Edinburgh, Scotland on Friday July 12th with the Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Sprint Relay on Sunday July 14th, and finally rounds off with the Knock-Out ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Gathering | Pan-American Masters Games 2024 | Monday, July 15]]></title>
-        <id>https://neooc.com/?p=47480</id>
-        <link href="https://neooc.com/social-gathering-pan-american-masters-games-2024-monday-july-15/"/>
-        <updated>2024-07-10T23:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Monday, July 15, Social Gathering as part of the PAMG Happy Days Lodge, noon – 2pm Parking: Ledges Trailhead, Lat/Long: (41.2235,-81.5101) Note: there is a 1 km trail walk north from the parking to the Happy Days Lodge.]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start Times | Pan-American Masters Games 2024]]></title>
-        <id>https://neooc.com/?p=47478</id>
-        <link href="https://neooc.com/start-times-pan-american-masters-games-2024/"/>
-        <updated>2024-07-10T23:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Start Times Posted Pan-American Masters Games 2024]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to follow WOC in Edinburgh]]></title>
-        <id>https://orienteering.sport/?p=72619</id>
-        <link href="https://orienteering.sport/how-to-follow-woc-in-edinburgh/"/>
-        <updated>2024-07-10T19:10:08.000Z</updated>
-        <summary type="html"><![CDATA[The most prestigious international competition within orienteering kicks off Friday morning in Edinburgh, when the World Orienteering Championships 2024 begin. And there are excellent opportunities to follow the three sprint competitions Friday, Sunday and Tuesday up close, regardless of whether you are present at the arenas in the Scottish capital or follow from home. In […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
