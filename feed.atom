@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T18:09:54.237Z</updated>
+    <updated>2024-08-10T00:35:54.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -623,28 +623,6 @@ Vic Series at Mt Tarrengower on 21 July first appeared on Orienteering Victoria.
 WOC 2024 Preview first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat Classics – Creswick Diggings – Sat 13 July]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13788</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/"/>
-        <updated>2024-07-11T10:35:10.000Z</updated>
-        <summary type="html"><![CDATA[Eureka Orienteers present a true blue Green & Gold event at Creswick Diggings and the hills either side of Longs Gully
-Ballarat Classics – Creswick Diggings – Sat 13 July first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 3 Team Named]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=59986</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-3-team-named/"/>
-        <updated>2024-07-11T07:23:33.000Z</updated>
-        <summary type="html"><![CDATA[The third round of the 2024 World Cup will be held in Mor, Hungary 17th-20th August 2024, and will consist of a Middle Race, a Long Race, and a Forest Relay. Selectors have chosen the following team to represent New Zealand at the event: Men Zefa Fa-avae Toby Scott Tim Robertson Women Kaia Joergensen A […]
-World Cup 3 Team Named first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
