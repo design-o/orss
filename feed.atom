@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T00:35:54.701Z</updated>
+    <updated>2024-08-10T06:09:38.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -45,6 +45,17 @@ WUOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summar
         <summary type="html"><![CDATA[The biennial North American Orienteering Championships start this Tuesday in Canada’s Ontario region and feature five championship races over the coming days. The first race is the individual sprint, then there’s a Sprint Relay on Wednesday before Thursday’s Knock-Out Sprint concludes the sprint races, all taking place in the city of Kingston, Ontario. Here the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bush Orienteering in Bendigo During August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13788</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/"/>
+        <updated>2024-08-05T10:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Check out these three fantastic Bendigo Bush events coming up in August!
+Bush Orienteering in Bendigo During August first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
