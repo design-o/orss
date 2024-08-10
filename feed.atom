@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T06:09:38.659Z</updated>
+    <updated>2024-08-10T12:12:44.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WMOC Long: 12 golds for Finland on final day]]></title>
+        <id>https://orienteering.sport/?p=72975</id>
+        <link href="https://orienteering.sport/wmoc-long/"/>
+        <updated>2024-08-10T09:05:49.000Z</updated>
+        <summary type="html"><![CDATA[World Masters Orienteering Championships 2024 came to an end on Friday, when the Long distance concluded the WMOC-week in Finland. The athletes competed west of Turku in the Finnish archipelagoes in relatively open and rocky terrain. That suited the home nation well, as Finland was the most successful nation with 12 golds on Friday. Sweden […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Masters MTBO Championships well underway in Denmark]]></title>
         <id>https://orienteering.sport/?p=72972</id>
@@ -623,17 +633,6 @@ Vic Series at Mt Tarrengower on 21 July first appeared on Orienteering Victoria.
         <summary type="html"><![CDATA[Richfield Heritage Preserve: Located about 10 miles west of the Cuyahoga Valley National Park, an advanced-level practice course with control flags will be available Friday 7/12 – Tuesday 7/16, dawn to dusk.  Link for map Download. You can report your results here: registrar@neooc.com – include team name, number of controls founds, overall time. We […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Preview]]></title>
-        <id>https://orienteering.asn.au/?p=11595</id>
-        <link href="https://orienteering.asn.au/woc-2024-preview/"/>
-        <updated>2024-07-11T22:38:07.000Z</updated>
-        <summary type="html"><![CDATA[From 12 to 16 July, WOC 2024 will take place in Edinburgh.
-WOC 2024 Preview first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>

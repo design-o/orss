@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72975",
+          "author": "Erling Thisted",
+          "description": "World Masters Orienteering Championships 2024 came to an end on Friday, when the Long distance concluded the WMOC-week in Finland. The athletes competed west of Turku in the Finnish archipelagoes in relatively open and rocky terrain. That suited the home nation well, as Finland was the most successful nation with 12 golds on Friday. Sweden […]",
+          "link": "https://orienteering.sport/wmoc-long/",
+          "publishedOn": "2024-08-10T09:05:49.000Z",
+          "wordCount": 1923,
+          "title": "WMOC Long: 12 golds for Finland on final day",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024-wmoc_long-1024x684.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72972",
           "author": "Erling Thisted",
           "description": "More than 400 masters athletes are racing for World Masters MTBO titles at WMMTBOC in Viborg, Denmark this week. Four races: Mass start, Middle, Sprint and Long will take the athletes to some of the finest MTBO terrains in Jutland in western Denmark, among them Ebeltoft and Undallslund plantations, which were also used for the […]",
@@ -655,16 +665,6 @@
           "publishedOn": "2024-07-17T09:30:00.000Z",
           "wordCount": 2719,
           "title": "WOC 2024 Recap and Results",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11595",
-          "author": "elizabethl",
-          "description": "From 12 to 16 July, WOC 2024 will take place in Edinburgh.\nWOC 2024 Preview first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/woc-2024-preview/",
-          "publishedOn": "2024-07-11T22:38:07.000Z",
-          "wordCount": 2122,
-          "title": "WOC 2024 Preview",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
