@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-11T12:12:29.497Z</updated>
+    <updated>2024-08-11T18:10:42.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changes | 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></title>
+        <id>https://neooc.com/?p=47664</id>
+        <link href="https://neooc.com/changes-2024-o-101-nav-skills-at-sunny-lake-park-aurora-ohio-sunday-august-18th/"/>
+        <updated>2024-08-11T18:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Date/Time/Slight Location Changes: Sunday, August 18th – Orienteering 101 – Date/Time/Loc Change aka OFB (Orienteering for Beginners) Beginner Level Navigation Skills Sunny Lake Park – Boathouse – Aurora, Ohio – 10am 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Junior Camp Website is up and running]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60193</id>
@@ -614,16 +624,6 @@ WOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary
 Vic Series at Mt Tarrengower on 21 July first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Sprint: Analysis, Maps and Results]]></title>
-        <id>http://news.worldofo.com/?p=20137</id>
-        <link href="https://news.worldofo.com/2024/07/13/woc-2024-sprint-analysis-maps-and-results/"/>
-        <updated>2024-07-13T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish organizers served one of the most tricky World Orienteering Championships (WOC) Sprint races ever – and the Swedish duo Martin Regborn and Tove Alexandersson made the day a big Swedish success with two gold medals for Sweden.  Alexandersson with her 20th WOC gold medal – Regborn with his first. Sweden dominated the results along ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
