@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-11T00:39:24.873Z</updated>
+    <updated>2024-08-11T06:11:17.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></title>
+        <id>https://neooc.com/?p=47649</id>
+        <link href="https://neooc.com/new-event-2024-o-101-nav-skills-at-sunny-lake-park-aurora-ohio-sunday-august-18th/"/>
+        <updated>2024-08-11T01:59:32.000Z</updated>
+        <summary type="html"><![CDATA[2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WMOC Long: 12 golds for Finland on final day]]></title>
         <id>https://orienteering.sport/?p=72975</id>
