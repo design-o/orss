@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T18:08:46.744Z</updated>
+    <updated>2024-08-11T00:39:24.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -611,16 +611,6 @@ Vic Series at Mt Tarrengower on 21 July first appeared on Orienteering Victoria.
         <link href="https://orienteering.sport/woc-regborn-and-alexandersson-take-first-golds-in-edinburgh/"/>
         <updated>2024-07-12T18:58:05.000Z</updated>
         <summary type="html"><![CDATA[The first gold medals of World Orienteering Championships in Edinburgh went to Tove Alexandersson (SWE) and Martin Regborn (SWE) after the Sprint final on Friday afternoon. The glorious sunny weather from the morning’s qualification had continued and combined with today’s arena in the central park, Princess Street Gardens, created a perfect setting for today’s race. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 kicked off with sprint qualification]]></title>
-        <id>https://orienteering.sport/?p=72673</id>
-        <link href="https://orienteering.sport/woc-2024-kicked-off-with-sprint-qualification/"/>
-        <updated>2024-07-12T12:13:27.000Z</updated>
-        <summary type="html"><![CDATA[The World Orienteering Championships 2024 were off to a great start Friday morning, where the Sprint Qualification was held in the Leith district in nothern Edinburgh. An assymetric street plan and artificial barriers created numerous challenges for the approx. 200 athletes trying their hand at getting into top 15 in their heat to qualify for […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
