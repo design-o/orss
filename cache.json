@@ -124,16 +124,6 @@
           "wordCount": 2316,
           "title": "WOC: Switzerland back on the Sprint Relay throne after 10 years",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_woc_sprintrelay_switzerland_kristinalindgren-1024x683.jpeg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72709",
-          "author": "Erling Thisted",
-          "description": "The first gold medals of World Orienteering Championships in Edinburgh went to Tove Alexandersson (SWE) and Martin Regborn (SWE) after the Sprint final on Friday afternoon. The glorious sunny weather from the morning’s qualification had continued and combined with today’s arena in the central park, Princess Street Gardens, created a perfect setting for today’s race. […]",
-          "link": "https://orienteering.sport/woc-regborn-and-alexandersson-take-first-golds-in-edinburgh/",
-          "publishedOn": "2024-07-12T18:58:05.000Z",
-          "wordCount": 2180,
-          "title": "WOC: Regborn and Alexandersson take first golds in Edinburgh",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_woc_sprintf_tovealexandersson_kristinalindgren-1024x681.jpg"
         }
       ]
     },
@@ -330,6 +320,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60193",
+          "author": "Christo Peters",
+          "description": "The 2024 Junior Camp website is up-and-running and has key dates and information on it. Please follow the link below for all this information: Junior Camp Website\nThe Junior Camp Website is up and running first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/the-junior-camp-website-is-up-and-running/",
+          "publishedOn": "2024-08-11T09:10:59.000Z",
+          "wordCount": 2045,
+          "title": "The Junior Camp Website is up and running",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/08/Screenshot-676.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60167",
           "author": "Christo Peters",

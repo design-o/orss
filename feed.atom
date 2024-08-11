@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-11T06:11:17.366Z</updated>
+    <updated>2024-08-11T12:12:29.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Junior Camp Website is up and running]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60193</id>
+        <link href="https://www.orienteering.org.nz/news/the-junior-camp-website-is-up-and-running/"/>
+        <updated>2024-08-11T09:10:59.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Junior Camp website is up-and-running and has key dates and information on it. Please follow the link below for all this information: Junior Camp Website
+The Junior Camp Website is up and running first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></title>
         <id>https://neooc.com/?p=47649</id>
@@ -613,16 +624,6 @@ Vic Series at Mt Tarrengower on 21 July first appeared on Orienteering Victoria.
         <summary type="html"><![CDATA[The Scottish organizers served one of the most tricky World Orienteering Championships (WOC) Sprint races ever – and the Swedish duo Martin Regborn and Tove Alexandersson made the day a big Swedish success with two gold medals for Sweden.  Alexandersson with her 20th WOC gold medal – Regborn with his first. Sweden dominated the results along ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC: Regborn and Alexandersson take first golds in Edinburgh]]></title>
-        <id>https://orienteering.sport/?p=72709</id>
-        <link href="https://orienteering.sport/woc-regborn-and-alexandersson-take-first-golds-in-edinburgh/"/>
-        <updated>2024-07-12T18:58:05.000Z</updated>
-        <summary type="html"><![CDATA[The first gold medals of World Orienteering Championships in Edinburgh went to Tove Alexandersson (SWE) and Martin Regborn (SWE) after the Sprint final on Friday afternoon. The glorious sunny weather from the morning’s qualification had continued and combined with today’s arena in the central park, Princess Street Gardens, created a perfect setting for today’s race. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
