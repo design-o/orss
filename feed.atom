@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-12T00:38:06.233Z</updated>
+    <updated>2024-08-12T06:11:32.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -603,27 +603,6 @@ WOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary
         <summary type="html"><![CDATA[Switzerland won an exciting sprint relay at World Orienteering Championships in Edinburgh on Sunday afternoon after a close battle with Sweden, who ended up disqualified. Instead, it was Finland who got the silver medals with Norway taking the bronze. Today’s sprint relay was run on the campus of Heriot-Watt University in the western part of […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race Series Results]]></title>
-        <id>https://slow.org.uk/?p=22202</id>
-        <link href="https://slow.org.uk/uncategorized/park-race-series-results/"/>
-        <updated>2024-07-13T13:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Here are the Series Results for the London Park Race series after 8 of 10 races, with best 5 to count. There are 2 races [...]]]></summary>
-        <author>
-            <name>Matthias Mahr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series at Mt Tarrengower on 21 July]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13778</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-at-mt-tarrengower-on-21-july-enter-now/"/>
-        <updated>2024-07-13T07:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the next Vic Series event at Mt Tarrengower on Sunday July 21
-Vic Series at Mt Tarrengower on 21 July first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
