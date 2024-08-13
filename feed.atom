@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T12:15:14.591Z</updated>
+    <updated>2024-08-13T18:10:28.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -214,6 +214,15 @@ MelBushO, Plenty South, Sunday 18 August first appeared on Orienteering Victoria
         <summary type="html"><![CDATA[The 2024 World Masters Orienteering Championships have attracted more than 4,200 competitors to the south-west corner of Finland, where the competitions begin on Saturday with the sprint qualification race. 42 nations are represented at the championships, where world masters champions will be crowned in 25 classes from W/M 35 up to W95 and M90. The […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series at Chewton Diggings on Sunday 25 August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13778</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-at-mt-tarrengower-on-21-july-enter-now/"/>
+        <updated>2024-08-01T07:16:57.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -627,16 +636,6 @@ WOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary
         <summary type="html"><![CDATA[The XXXII IOF Ordinary General Assembly is held in a hybrid format on 15 July 2024 in Edinburgh, Scotland, from 11:00 to 15:00 local time (BST). You will be able to follow the stream from the GA in IOF LIVE. Find the agenda and more information about the XXXII IOF Ordinary General Assembly here.]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Sprint Relay: Maps, Results and brief Analysis]]></title>
-        <id>http://news.worldofo.com/?p=20175</id>
-        <link href="https://news.worldofo.com/2024/07/15/woc-2024-sprint-relay-maps-and-results/"/>
-        <updated>2024-07-15T03:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Switzerland won the World Orienteering Championships (WOC) Sprint Relay after a very strong performance by Simona Aebersold on the last leg where she outran Sweden’s Tove Alexandersson, who was later disqualified for skipping a control. Finland took the second place with Norway in third. The two big favourites, Switzerland and Sweden, followed each other closely ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
