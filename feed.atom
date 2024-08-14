@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T12:13:59.469Z</updated>
+    <updated>2024-08-14T18:09:43.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 to host exclusive stand at EOC in Hungary]]></title>
+        <id>https://orienteering.sport/?p=73001</id>
+        <link href="https://orienteering.sport/cx80-to-host-exclusive-stand-at-eoc-in-hungary/"/>
+        <updated>2024-08-14T17:59:37.000Z</updated>
+        <summary type="html"><![CDATA[At the European Orienteering Championships and World Cup Round 3 in Hungary, our partner CX80 will have its own stand. This event will offer an opportunity for attendees to engage with one of the leading brands in the industry and to try out a range of high-quality technical products designed for daily life and for […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aylott Foundation supports junior MTBO]]></title>
         <id>https://orienteering.asn.au/?p=11804</id>
