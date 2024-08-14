@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T00:36:09.710Z</updated>
+    <updated>2024-08-14T06:11:04.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | 2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24]]></title>
+        <id>https://neooc.com/?p=47688</id>
+        <link href="https://neooc.com/new-event-2024-richfield-orienteering-101-and-classic-o-richfield-heritage-preserve-saturday-aug-24/"/>
+        <updated>2024-08-14T02:09:14.000Z</updated>
+        <summary type="html"><![CDATA[2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warm and tough EOC to begin on Friday]]></title>
         <id>https://orienteering.sport/?p=72984</id>
