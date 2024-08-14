@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=72984",
+          "author": "Erling Thisted",
+          "description": "The world’s best orienteers return to the forest, when the 2024 European Orienteering Championships begin in Hungary on Friday. Exactly one month after the World Orienteering Championships ended with an exhilarating Knock-Out Sprint on the hard surfaces of Edinburgh, the EOC kicks off with the middle distance qualification in the challenging, hilly terrain of central […]",
+          "link": "https://orienteering.sport/warm-and-tough-eoc-to-begin-on-friday/",
+          "publishedOn": "2024-08-13T20:54:28.000Z",
+          "wordCount": 2242,
+          "title": "Warm and tough EOC to begin on Friday",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/02/eoc22_venla_harju_dl-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=72975",
           "author": "Erling Thisted",
           "description": "World Masters Orienteering Championships 2024 came to an end on Friday, when the Long distance concluded the WMOC-week in Finland. The athletes competed west of Turku in the Finnish archipelagoes in relatively open and rocky terrain. That suited the home nation well, as Finland was the most successful nation with 12 golds on Friday. Sweden […]",
@@ -104,16 +114,6 @@
           "wordCount": 1981,
           "title": "WOC: KO Sprint Qualifiers done – time for the finals!",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_woc_ko_qual_kristina_lindgren-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72771",
-          "author": "Erling Thisted",
-          "description": "The XXXII IOF Ordinary General Assembly is held in a hybrid format on 15 July 2024 in Edinburgh, Scotland, from 11:00 to 15:00 local time (BST). You will be able to follow the stream from the GA in IOF LIVE. Find the agenda and more information about the XXXII IOF Ordinary General Assembly here.",
-          "link": "https://orienteering.sport/follow-iofs-xxxii-ordinary-general-assembly-here/",
-          "publishedOn": "2024-07-15T08:43:13.000Z",
-          "wordCount": 1808,
-          "title": "Follow IOF’s XXXII Ordinary General Assembly here",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
         }
       ]
     },
