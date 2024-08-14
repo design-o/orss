@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T06:11:04.677Z</updated>
+    <updated>2024-08-14T12:13:59.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aylott Foundation supports junior MTBO]]></title>
+        <id>https://orienteering.asn.au/?p=11804</id>
+        <link href="https://orienteering.asn.au/aylott-foundation-supports-junior-mtbo/"/>
+        <updated>2024-08-14T08:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia are pleased to announce that the Nigel Aylott Memorial Sports Foundation (NAMSF) has provided ongoing funding to support junior MTBO competitors who have been selected to represent Australia at world championships.
+Aylott Foundation supports junior MTBO first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24]]></title>
         <id>https://neooc.com/?p=47688</id>
@@ -636,16 +647,6 @@ WOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary
         <summary type="html"><![CDATA[The last day of World Orienteering Championships 2024 started Tuesday morning in western Edinburgh, where the Knock-Out Sprint Qualification took place. Located in a relatively flat residential area, qualification courses between 2,4 – 2,8 kilometers containing many short legs with constant route choice challenges awaited the athletes. All of them trying to make in into […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Sprint Relay: Analysis by Course Setter Ackland]]></title>
-        <id>http://news.worldofo.com/?p=20206</id>
-        <link href="https://news.worldofo.com/2024/07/15/woc-2024-sprint-relay-analysis-by-course-setter-ackland/"/>
-        <updated>2024-07-15T20:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Graeme Ackland in the WOC 2024 course setting team has made a detailed analysis of the WOC Sprint Relay 2024, published here at WorldofO.com. – It was a very exciting race with lots of small errors and  changes of lead, Ackland comments.  The race analysis goes through the race and discusses the decisions points – this ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

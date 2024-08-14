@@ -131,16 +131,6 @@
           "wordCount": 2854,
           "title": "WOC 2024 Knock-Out Sprint: Analysis, Maps and Results",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/07/finals-660x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20206",
-          "author": "Jan Kocbach",
-          "description": "Graeme Ackland in the WOC 2024 course setting team has made a detailed analysis of the WOC Sprint Relay 2024, published here at WorldofO.com. – It was a very exciting race with lots of small errors and  changes of lead, Ackland comments.  The race analysis goes through the race and discusses the decisions points – this ...",
-          "link": "https://news.worldofo.com/2024/07/15/woc-2024-sprint-relay-analysis-by-course-setter-ackland/",
-          "publishedOn": "2024-07-15T20:55:03.000Z",
-          "wordCount": 1595,
-          "title": "WOC 2024 Sprint Relay: Analysis by Course Setter Ackland",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/07/illustration-602x330.png"
         }
       ]
     },
@@ -608,6 +598,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11804",
+          "author": "elizabethl",
+          "description": "Orienteering Australia are pleased to announce that the Nigel Aylott Memorial Sports Foundation (NAMSF) has provided ongoing funding to support junior MTBO competitors who have been selected to represent Australia at world championships.\nAylott Foundation supports junior MTBO first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/aylott-foundation-supports-junior-mtbo/",
+          "publishedOn": "2024-08-14T08:26:01.000Z",
+          "wordCount": 2274,
+          "title": "Aylott Foundation supports junior MTBO",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11735",
           "author": "elizabethl",
