@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T06:10:57.913Z</updated>
+    <updated>2024-08-15T12:14:25.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to follow EOC and World Cup in Hungary]]></title>
+        <id>https://orienteering.sport/?p=73015</id>
+        <link href="https://orienteering.sport/how-to-follow-eoc-and-world-cup-in-hungary/"/>
+        <updated>2024-08-15T07:42:21.000Z</updated>
+        <summary type="html"><![CDATA[In the coming days, the new European champions of Orienteering will be crowned in Hungary, and you are invited to follow closely. The three final races that also count in the 2024 Orienteering World Cup: Middle (Saturday), Long (Sunday) and Relay (Tuesday) can be followed through a high-quality TV production on IOF TV and a […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2024: All You Need To Know]]></title>
         <id>http://news.worldofo.com/?p=20237</id>
@@ -647,16 +657,6 @@ WOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary
         <updated>2024-07-17T02:41:54.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC: Rancan and Alexandersson KO Sprint Champions]]></title>
-        <id>https://orienteering.sport/?p=72849</id>
-        <link href="https://orienteering.sport/woc-rancan-and-alexandersson-ko-sprint-champions/"/>
-        <updated>2024-07-16T19:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Riccardo Rancan (SUI) and Tove Alexandersson (SWE) claimed the World Championship titles in Knock-Out Sprint Tuesday afternoon. Central Edinburgh welcomed the 72 athletes back from the qualification in the morning with heavy showers for the quarter finals before it eventually stopped raining for the semi finals later in the afternoon. Once again the centre of […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
