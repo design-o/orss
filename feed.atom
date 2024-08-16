@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-16T00:36:16.310Z</updated>
+    <updated>2024-08-16T06:10:43.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -461,6 +461,15 @@ Sport NZ |Diversity, Equity & Inclusion survey results first appeared on Orient
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Park Street Update: Events August 13-19]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2024-07-31T02:41:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WUOC begins in Bulgaria on Thursday]]></title>
         <id>https://orienteering.sport/?p=72922</id>
         <link href="https://orienteering.sport/wuoc-begins-in-bulgaria-on-thursday/"/>
@@ -585,47 +594,6 @@ Board Operational Update first appeared on Orienteering Australia.]]></summary>
         <updated>2024-07-18T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Alice Springs Masters Games are rapidly approaching, 12 - 19 October 2024, and orienteering is one of the sports on offer (MTB-O and Foot-O). Register today to compete in Australia’s longest running Masters Games event.
 Alice Springs Masters Games first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale Rob Caldwell]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13801</id>
-        <link href="https://www.vicorienteering.asn.au/vale-rob-caldwell/"/>
-        <updated>2024-07-17T16:48:45.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania 2025 Bulletin one]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60011</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-2025-bulletin-one/"/>
-        <updated>2024-07-17T16:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Nau mai haere mai, and a warm welcome to Oceania Orienteering Championships 2025, hosted in Aoteoroa New Zealand by Orienteering Wellington and the orienteering clubs of the lower North Island. Oceania 2025 is supported and sanctioned by both Orienteering New Zealand and the International Orienteering Federation. We are please to announce that Bulletin One for […]
-Oceania 2025 Bulletin one first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | Pan-American Masters Games 2024]]></title>
-        <id>https://neooc.com/?p=47525</id>
-        <link href="https://neooc.com/results-pan-american-masters-games-2024/"/>
-        <updated>2024-07-17T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Pan-American Masters Games 2024]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2024 Recap and Results]]></title>
-        <id>https://orienteering.asn.au/?p=11616</id>
-        <link href="https://orienteering.asn.au/woc-2024-recap-and-results/"/>
-        <updated>2024-07-17T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the last week, from 12-16 July, our Aussies traveled to Edinburgh for WOC 2024 competing in individual sprints, sprint relays and knock-out sprints.
-WOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
         </author>
