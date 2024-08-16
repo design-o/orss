@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T18:10:33.457Z</updated>
+    <updated>2024-08-16T00:36:16.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -617,16 +617,6 @@ Oceania 2025 Bulletin one first appeared on Orienteering New Zealand.]]></summar
         <summary type="html"><![CDATA[Pan-American Masters Games 2024]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New IOF President, VPs and Council Members elected by General Assembly]]></title>
-        <id>https://orienteering.sport/?p=72777</id>
-        <link href="https://orienteering.sport/new-president-vps-and-council-members-elected-at-2024-general-assembly/"/>
-        <updated>2024-07-17T10:12:18.000Z</updated>
-        <summary type="html"><![CDATA[IOF XXXII Ordinary General Assembly took place on Monday at the WOC 2024 event centre in Pollock Halls in Edinburgh. Delegations from 39 member federations were present – either on site or through the hybrid meeting solution online. Here all the reports and proposals put foreward in the agenda (find it here) were reviewed and […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>
