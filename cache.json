@@ -207,6 +207,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=19181",
+          "author": "Deirdre",
+          "description": "EOC2024 The European Orienteering Championships are taking place in Mór, Hungary, 16-20 August, and Ireland is being represented by four of our athletes: Start lists, live results and GPS-tracking are available at IOF LIVE: Photo credit: Eszter Kocsik\nThe post European Orienteering Championships – EOC2024 first appeared on Orienteering in Ireland.",
+          "link": "https://www.orienteering.ie/european-orienteering-championships-eoc2024/?utm_source=rss&utm_medium=rss&utm_campaign=european-orienteering-championships-eoc2024",
+          "publishedOn": "2024-08-16T22:28:38.000Z",
+          "wordCount": 1004,
+          "title": "European Orienteering Championships – EOC2024",
+          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
+        },
+        {
           "id": "https://www.orienteering.ie/?p=19170",
           "author": "Mark Stephens",
           "description": "The SHI Selectors are delighted to announce Team Ireland for the Senior Home International 2024.  The competition will be held in Scotland, on the 7th & 8th of September.  We congratulate the team on their selection, and wish the team the very best of luck with the competition. Susan Lambe, Dave Masterson & Philip Baxter […]\nThe post Team Ireland for Senior Home International 2024 first appeared on Orienteering in Ireland.",
@@ -626,16 +636,6 @@
           "publishedOn": "2024-07-20T10:00:00.000Z",
           "wordCount": 2226,
           "title": "Board Operational Update",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11648",
-          "author": "elizabethl",
-          "description": "The Alice Springs Masters Games are rapidly approaching, 12 - 19 October 2024, and orienteering is one of the sports on offer (MTB-O and Foot-O). Register today to compete in Australia’s longest running Masters Games event.\nAlice Springs Masters Games first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/alice-springs-masters-games/",
-          "publishedOn": "2024-07-18T09:00:00.000Z",
-          "wordCount": 2134,
-          "title": "Alice Springs Masters Games",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
