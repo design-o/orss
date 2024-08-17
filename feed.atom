@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T12:11:50.371Z</updated>
+    <updated>2024-08-17T18:09:19.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC: Norwegian surprise and Swiss title defence on Middle distance]]></title>
+        <id>https://orienteering.sport/?p=73082</id>
+        <link href="https://orienteering.sport/eoc-norwegian-surprise-and-swiss-title-defence-on-middle-distance/"/>
+        <updated>2024-08-17T16:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Norway’s Eirik Langedal Breivik caught the entire orienteering world by surprise by winning and Simona Aebersold (SUI) defended her Middle distance title as the first final at European Orienteering Championships took place on Saturday afternoon. Technically demandng courses on the big, stony slopes in the central Hungarian terrain created major challenges and many decisive losses […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European Orienteering Championships – EOC2024]]></title>
         <id>https://www.orienteering.ie/?p=19181</id>
