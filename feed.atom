@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T00:38:55.614Z</updated>
+    <updated>2024-08-18T06:09:38.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC 2024 Middle: Analysis, Maps and Results]]></title>
+        <id>http://news.worldofo.com/?p=20259</id>
+        <link href="https://news.worldofo.com/2024/08/18/eoc-2024-middle-analysis-maps-and-results/"/>
+        <updated>2024-08-18T03:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Eirik Langedal Breivik (Norway) and Simona Aebersold (Switzerland) won the European Orienteering Championships (EOC) Middle on very technical, Hungarian terrain that really challenged the runners. We saw big mistakes by many athletes, with Breivik and Aebersold managing to navigate well in the steep hills while keeping high speed. In the men’s class Kasper Fosser (Norway) ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC: Norwegian surprise and Swiss title defence on Middle distance]]></title>
         <id>https://orienteering.sport/?p=73082</id>
