@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T12:14:18.387Z</updated>
+    <updated>2024-08-18T18:08:53.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC: Clear long distance wins for Alexandersson and Fosser]]></title>
+        <id>https://orienteering.sport/?p=73239</id>
+        <link href="https://orienteering.sport/eoc-clear-long-distance-wins-for-alexandersson-and-fosser/"/>
+        <updated>2024-08-18T16:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Two of orienteering’s biggest names, Tove Alexandersson (SWE) and Kasper Fosser (NOR) convincingly won the long distance at the European Championships in Hungary. After Saturday’s tough Middle final, it was time to saddle up again on Sunday morning and re-visit the steep slopes and many rock details for the Long distance. The same arena was […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2024 Middle: Analysis, Maps and Results]]></title>
         <id>http://news.worldofo.com/?p=20259</id>
