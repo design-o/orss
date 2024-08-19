@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20299",
+          "author": "Jan Kocbach",
+          "description": "The big favourites Kasper Fosser (Norway) and Tove Alexandersson (Sweden) took clear victories at the European Orienteering Championships (EOC) Long distance in Hungary – both with a margin of around 4 minutes to their closest competitors. In the men’s class Daniel Hubmann (Switzerland) took an impressive silver medal – 18 years after he took his ...",
+          "link": "https://news.worldofo.com/2024/08/19/eoc-2024-long-analysis-maps-and-results/",
+          "publishedOn": "2024-08-19T03:00:23.000Z",
+          "wordCount": 2950,
+          "title": "EOC 2024 Long: Analysis, Maps and Results",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/08/map_men_long_EOC_4000-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20259",
           "author": "Jan Kocbach",
           "description": "Eirik Langedal Breivik (Norway) and Simona Aebersold (Switzerland) won the European Orienteering Championships (EOC) Middle on very technical, Hungarian terrain that really challenged the runners. We saw big mistakes by many athletes, with Breivik and Aebersold managing to navigate well in the steep hills while keeping high speed. In the men’s class Kasper Fosser (Norway) ...",
@@ -608,6 +618,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=11831",
+          "author": "elizabethl",
+          "description": "Members with a registered Bigpond email address in Eventor were not receiving emails from Eventor from at least 29th July to 14th August 2024. The issue has now been resolved.\nEventor Update for Bigpond Email Addresses first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/eventor-update-for-bigpond-email-addresses/",
+          "publishedOn": "2024-08-19T04:59:09.000Z",
+          "wordCount": 2097,
+          "title": "Eventor Update for Bigpond Email Addresses",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=11804",
           "author": "elizabethl",

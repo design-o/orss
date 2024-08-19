@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T00:36:59.618Z</updated>
+    <updated>2024-08-19T06:11:37.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eventor Update for Bigpond Email Addresses]]></title>
+        <id>https://orienteering.asn.au/?p=11831</id>
+        <link href="https://orienteering.asn.au/eventor-update-for-bigpond-email-addresses/"/>
+        <updated>2024-08-19T04:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Members with a registered Bigpond email address in Eventor were not receiving emails from Eventor from at least 29th July to 14th August 2024. The issue has now been resolved.
+Eventor Update for Bigpond Email Addresses first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EOC 2024 Long: Analysis, Maps and Results]]></title>
+        <id>http://news.worldofo.com/?p=20299</id>
+        <link href="https://news.worldofo.com/2024/08/19/eoc-2024-long-analysis-maps-and-results/"/>
+        <updated>2024-08-19T03:00:23.000Z</updated>
+        <summary type="html"><![CDATA[The big favourites Kasper Fosser (Norway) and Tove Alexandersson (Sweden) took clear victories at the European Orienteering Championships (EOC) Long distance in Hungary – both with a margin of around 4 minutes to their closest competitors. In the men’s class Daniel Hubmann (Switzerland) took an impressive silver medal – 18 years after he took his ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC: Clear long distance wins for Alexandersson and Fosser]]></title>
         <id>https://orienteering.sport/?p=73239</id>
