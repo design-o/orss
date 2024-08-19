@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T18:08:53.076Z</updated>
+    <updated>2024-08-19T00:36:59.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -625,17 +625,6 @@ Orienteering Australia is now a Company first appeared on Orienteering Australia
 The post Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Senior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Board Operational Update]]></title>
-        <id>https://orienteering.asn.au/?p=11668</id>
-        <link href="https://orienteering.asn.au/board-operational-update/"/>
-        <updated>2024-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Major items to come out of the last Board meeting include approved Guidelines for Conducting Major Carnivals, approved additional rule changes to the ASOC rules and approved 2023 Annual Report of OA.
-Board Operational Update first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
