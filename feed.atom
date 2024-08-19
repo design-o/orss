@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T12:15:09.975Z</updated>
+    <updated>2024-08-19T18:09:53.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NI Colour Series at Moydamlaght – Saturday 31 August]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5832</id>
+        <link href="https://www.niorienteering.org.uk/ni-colour-series-at-moydamlaght-saturday-31-august/"/>
+        <updated>2024-08-19T14:52:13.000Z</updated>
+        <summary type="html"><![CDATA[The NI Colour Series takes off again on Saturday 31 August when North West Orienteering Club host the 5th event of the series at Moydamlaght Forest near Maghera. This superb area has not been used for orienteering for some time due to felling some decades...
+The post NI Colour Series at Moydamlaght – Saturday 31 August appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eventor Update for Bigpond Email Addresses]]></title>
         <id>https://orienteering.asn.au/?p=11831</id>
