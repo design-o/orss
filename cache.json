@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=73564",
+          "author": "Erling Thisted",
+          "description": "Norway’s men defended their relay title and Switzerland took the women’s gold when the European Orienteering Championships came to an end on Tuesday afternoon. It was another warm day in central Hungary with 33 degrees and another day with a lot of slope orienteering. Not as many rock details compared to the weekend races, but […]",
+          "link": "https://orienteering.sport/eoc-norway-defends-mens-relay-title-switzerland-wins-womens-race/",
+          "publishedOn": "2024-08-20T17:01:11.000Z",
+          "wordCount": 2405,
+          "title": "EOC: Norway defends men’s relay title, Switzerland wins women’s race",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024_eoc_relay_women_william_hollowell-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=73047",
           "author": "Erling Thisted",
           "description": "A number of future international championships found their home, when the IOF Council met during World Orienteering Championships in Edinburgh in July. Here, the Council appointed Spain as the host of WOC 2028, which is a Sprint WOC. The 2028 World Orienteering Championship is set to take place in Girona, located in the north-eastern corner […]",
@@ -584,6 +594,36 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54259",
+          "author": "nikkihoward",
+          "description": "As notified at the Annual General Meeting held on 24th June this year, we will be holding an Extraordinary General […]",
+          "link": "https://www.scottish-orienteering.org/news/extraordinary-general-meeting-being-held-on-14th-september-2024/?utm_source=rss&utm_medium=rss&utm_campaign=extraordinary-general-meeting-being-held-on-14th-september-2024",
+          "publishedOn": "2024-08-20T14:43:46.000Z",
+          "wordCount": 1643,
+          "title": "Extraordinary General Meeting being held on 14th September 2024",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2021/12/Scottish-Orienteering-Col-1-RGB-High-Res.png"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54250",
+          "author": "nikkihoward",
+          "description": "It wasn’t only the fantastic organising team and volunteers doing Scotland proud at the World Orienteering Championships (WOC) this year, […]",
+          "link": "https://www.scottish-orienteering.org/news/home-runners-taking-on-the-world-orienteering-championships-in-edinburgh/?utm_source=rss&utm_medium=rss&utm_campaign=home-runners-taking-on-the-world-orienteering-championships-in-edinburgh",
+          "publishedOn": "2024-08-20T13:50:32.000Z",
+          "wordCount": 1949,
+          "title": "Home runners taking on the World Orienteering Championships in Edinburgh",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/08/Grace-Molloy-Rob-Lines-1-1024x712.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54239",
+          "author": "nikkihoward",
+          "description": "The Junior World Orienteering Championships (JWOC) took place in Czechia in early July, and 5 of the 12 athletes in […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-athletes-to-the-fore-at-the-junior-world-orienteering-championships/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-athletes-to-the-fore-at-the-junior-world-orienteering-championships",
+          "publishedOn": "2024-08-20T13:38:04.000Z",
+          "wordCount": 2027,
+          "title": "Scottish athletes to the fore at the Junior World Orienteering Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/08/Screenshot-2024-08-20-at-14.22.22-691x1024.jpeg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54230",
           "author": "suzannerb",

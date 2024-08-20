@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T12:14:46.383Z</updated>
+    <updated>2024-08-20T18:10:09.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC: Norway defends men’s relay title, Switzerland wins women’s race]]></title>
+        <id>https://orienteering.sport/?p=73564</id>
+        <link href="https://orienteering.sport/eoc-norway-defends-mens-relay-title-switzerland-wins-womens-race/"/>
+        <updated>2024-08-20T17:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Norway’s men defended their relay title and Switzerland took the women’s gold when the European Orienteering Championships came to an end on Tuesday afternoon. It was another warm day in central Hungary with 33 degrees and another day with a lot of slope orienteering. Not as many rock details compared to the weekend races, but […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extraordinary General Meeting being held on 14th September 2024]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54259</id>
+        <link href="https://www.scottish-orienteering.org/news/extraordinary-general-meeting-being-held-on-14th-september-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=extraordinary-general-meeting-being-held-on-14th-september-2024"/>
+        <updated>2024-08-20T14:43:46.000Z</updated>
+        <summary type="html"><![CDATA[As notified at the Annual General Meeting held on 24th June this year, we will be holding an Extraordinary General […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home runners taking on the World Orienteering Championships in Edinburgh]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54250</id>
+        <link href="https://www.scottish-orienteering.org/news/home-runners-taking-on-the-world-orienteering-championships-in-edinburgh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=home-runners-taking-on-the-world-orienteering-championships-in-edinburgh"/>
+        <updated>2024-08-20T13:50:32.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t only the fantastic organising team and volunteers doing Scotland proud at the World Orienteering Championships (WOC) this year, […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish athletes to the fore at the Junior World Orienteering Championships]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54239</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-athletes-to-the-fore-at-the-junior-world-orienteering-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-athletes-to-the-fore-at-the-junior-world-orienteering-championships"/>
+        <updated>2024-08-20T13:38:04.000Z</updated>
+        <summary type="html"><![CDATA[The Junior World Orienteering Championships (JWOC) took place in Czechia in early July, and 5 of the 12 athletes in […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NI Colour Series at Moydamlaght – Saturday 31 August]]></title>
         <id>https://www.niorienteering.org.uk/?p=5832</id>
