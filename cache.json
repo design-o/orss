@@ -163,6 +163,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20337",
+          "author": "Jan Kocbach",
+          "description": "Norway’s men and Switzerland’s women won the European Orienteering Championships (EOC) relay in Hungary. Silver and bronze went to Sweden and Switzerland in the men’s class, while Norway and Sweden took the remaining medals in the women’s class. After very technical orienteering on the middle distance and tricky routechoices on the long distance, the relay was ...",
+          "link": "https://news.worldofo.com/2024/08/21/eoc-2024-relay-analysis-maps-and-results/",
+          "publishedOn": "2024-08-21T03:00:34.000Z",
+          "wordCount": 2496,
+          "title": "EOC 2024 Relay: Analysis, Maps and Results",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/08/map_eoc_relay2024-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20299",
           "author": "Jan Kocbach",
           "description": "The big favourites Kasper Fosser (Norway) and Tove Alexandersson (Sweden) took clear victories at the European Orienteering Championships (EOC) Long distance in Hungary – both with a margin of around 4 minutes to their closest competitors. In the men’s class Daniel Hubmann (Switzerland) took an impressive silver medal – 18 years after he took his ...",
@@ -623,16 +633,6 @@
           "wordCount": 1638,
           "title": "SOA Club Networking day – 14th Sep 2024",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/08/room-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54184",
-          "author": "nikkihoward",
-          "description": "Collectively everyone involved created something really special in terms of WOC 2024 and WOC Tour.  Many competitors in WOC Tour […]",
-          "link": "https://www.scottish-orienteering.org/news/thank-you-to-everyone-for-working-so-hard-and-effectively-to-make-woc-2024-woc-tour-amazing/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-to-everyone-for-working-so-hard-and-effectively-to-make-woc-2024-woc-tour-amazing",
-          "publishedOn": "2024-07-22T17:00:56.000Z",
-          "wordCount": 2141,
-          "title": "Thank you to everyone for working so hard and effectively to make WOC 2024/ WOC Tour amazing!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/07/P7120022_Radiant-topaz-denoise-faceai-c-matheson-1024x769.jpg"
         }
       ]
     },
