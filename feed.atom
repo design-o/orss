@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T18:10:09.725Z</updated>
+    <updated>2024-08-21T00:35:47.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -685,28 +685,6 @@ Vic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1 first 
         <summary type="html"><![CDATA[Collectively everyone involved created something really special in terms of WOC 2024 and WOC Tour.  Many competitors in WOC Tour […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia is now a Company]]></title>
-        <id>https://orienteering.asn.au/?p=11696</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-is-now-a-company/"/>
-        <updated>2024-07-22T09:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia has completed the transition from an incorporated body to a company limited by guarantee structure.
-Orienteering Australia is now a Company first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship]]></title>
-        <id>https://www.orienteering.ie/?p=18535</id>
-        <link href="https://www.orienteering.ie/triumph-over-terrain-the-unyielding-spirit-of-champions-at-the-2024-world-orienteering-championship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=triumph-over-terrain-the-unyielding-spirit-of-champions-at-the-2024-world-orienteering-championship"/>
-        <updated>2024-07-22T08:15:38.000Z</updated>
-        <summary type="html"><![CDATA[The Irish Orienteering team has once again proven their exceptional skill and determination at the World Orienteering Championships 2024. With a team composed of both seasoned athletes and promising newcomers, they have showcased the spirit of Ireland in the historic city of Edinburgh, a place where every alley and avenue tells a story. The team, […]
-The post Triumph Over Terrain: The Unyielding Spirit of Champions at the 2024 World Orienteering Championship first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Senior</name>
         </author>
     </entry>
 </feed>
