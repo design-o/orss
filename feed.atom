@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T12:13:54.962Z</updated>
+    <updated>2024-08-21T18:10:14.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Fosser takes over lead after EOC, Aebersold remains on top]]></title>
+        <id>https://orienteering.sport/?p=73548</id>
+        <link href="https://orienteering.sport/world-cup-fosser-takes-over-lead-after-eoc-aebersold-remains-on-top/"/>
+        <updated>2024-08-21T15:34:40.000Z</updated>
+        <summary type="html"><![CDATA[The just ended European Championships in Hungary didn’t just give us three exciting and tough races. We also found out who has the best chances to win the 2024 Orienteering World Cup, which will be decided in Finland at the World Cup final in September. In the men’s category, Kasper Fosser (NOR) took a big […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2024 Relay: Analysis, Maps and Results]]></title>
         <id>http://news.worldofo.com/?p=20337</id>
@@ -674,17 +684,6 @@ NSO Recognition Agreement from ASC- 2024-2026 first appeared on Orienteering A
         <summary type="html"><![CDATA[I hope you all enjoyed the final park race of the season. It was great to see a big group of orienteers having a drink [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13333</id>
-        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-1-sunday-24-march-creswick/"/>
-        <updated>2024-07-23T02:11:47.000Z</updated>
-        <summary type="html"><![CDATA[The next Vic Series MTBO event is on 7 July, on a new map at Tallarook. Online entry closes on Wed July 3, so don't delay.
-Vic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

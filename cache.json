@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=73548",
+          "author": "Erling Thisted",
+          "description": "The just ended European Championships in Hungary didn’t just give us three exciting and tough races. We also found out who has the best chances to win the 2024 Orienteering World Cup, which will be decided in Finland at the World Cup final in September. In the men’s category, Kasper Fosser (NOR) took a big […]",
+          "link": "https://orienteering.sport/world-cup-fosser-takes-over-lead-after-eoc-aebersold-remains-on-top/",
+          "publishedOn": "2024-08-21T15:34:40.000Z",
+          "wordCount": 1737,
+          "title": "World Cup: Fosser takes over lead after EOC, Aebersold remains on top",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024_worldcup_standings-1024x819.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=73564",
           "author": "Erling Thisted",
           "description": "Norway’s men defended their relay title and Switzerland took the women’s gold when the European Orienteering Championships came to an end on Tuesday afternoon. It was another warm day in central Hungary with 33 degrees and another day with a lot of slope orienteering. Not as many rock details compared to the weekend races, but […]",
@@ -257,16 +267,6 @@
           "publishedOn": "2024-07-31T02:41:54.000Z",
           "wordCount": 1145,
           "title": "Park Street Update: Events August 13-19",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13333",
-          "author": "Debbie Dodd",
-          "description": "The next Vic Series MTBO event is on 7 July, on a new map at Tallarook. Online entry closes on Wed July 3, so don't delay.\nVic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vic-mtbo-series-1-sunday-24-march-creswick/",
-          "publishedOn": "2024-07-23T02:11:47.000Z",
-          "wordCount": 1159,
-          "title": "Vic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
