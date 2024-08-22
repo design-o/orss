@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T06:11:01.157Z</updated>
+    <updated>2024-08-22T12:14:00.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -674,16 +674,6 @@ The post World Cup Final Orienteering Team Announcement first appeared on Orient
 NSO Recognition Agreement from ASC- 2024-2026 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southwark Park – Results]]></title>
-        <id>https://slow.org.uk/?p=22219</id>
-        <link href="https://slow.org.uk/racereports/southwark-park-results-jul24/"/>
-        <updated>2024-07-23T22:46:39.000Z</updated>
-        <summary type="html"><![CDATA[I hope you all enjoyed the final park race of the season. It was great to see a big group of orienteers having a drink [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>

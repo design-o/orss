@@ -332,18 +332,7 @@
       "title": "South London Orienteers",
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
-      "articles": [
-        {
-          "id": "https://slow.org.uk/?p=22219",
-          "author": "Steve Clelland",
-          "description": "I hope you all enjoyed the final park race of the season. It was great to see a big group of orienteers having a drink [...]",
-          "link": "https://slow.org.uk/racereports/southwark-park-results-jul24/",
-          "publishedOn": "2024-07-23T22:46:39.000Z",
-          "wordCount": 2265,
-          "title": "Southwark Park – Results",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Orienteering New Zealand",
