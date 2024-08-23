@@ -668,6 +668,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=11880",
+          "author": "elizabethl",
+          "description": "Australia had a team of 5 athletes competing in World Cup Round 3 in Mór, Hungary from 16-20 August.\nWorld Cup 3 Results & Recap first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-cup-3-results-recap/",
+          "publishedOn": "2024-08-22T18:44:18.000Z",
+          "wordCount": 2562,
+          "title": "World Cup 3 Results & Recap",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=11831",
           "author": "elizabethl",
           "description": "Members with a registered Bigpond email address in Eventor were not receiving emails from Eventor from at least 29th July to 14th August 2024. The issue has now been resolved.\nEventor Update for Bigpond Email Addresses first appeared on Orienteering Australia.",
@@ -705,16 +715,6 @@
           "publishedOn": "2024-07-28T09:00:00.000Z",
           "wordCount": 2247,
           "title": "Learn and Play Orienteering Coach accreditation goes live on 30 July",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11671",
-          "author": "elizabethl",
-          "description": "The ASC offers recognition of Orienteering Australia as the national sporting organisation for orienteering.\nNSO Recognition Agreement from ASC- 2024-2026 first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/nso-recognition-agreement-from-asc-2024-2026/",
-          "publishedOn": "2024-07-24T09:00:00.000Z",
-          "wordCount": 2137,
-          "title": "NSO Recognition Agreement from ASC- 2024-2026",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

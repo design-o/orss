@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T18:09:59.032Z</updated>
+    <updated>2024-08-23T00:36:00.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup 3 Results & Recap]]></title>
+        <id>https://orienteering.asn.au/?p=11880</id>
+        <link href="https://orienteering.asn.au/world-cup-3-results-recap/"/>
+        <updated>2024-08-22T18:44:18.000Z</updated>
+        <summary type="html"><![CDATA[Australia had a team of 5 athletes competing in World Cup Round 3 in Mór, Hungary from 16-20 August.
+World Cup 3 Results & Recap first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish 6 Days comes to Deeside in 2025]]></title>
         <id>https://www.scottish-orienteering.org/?p=54269</id>
@@ -673,17 +684,6 @@ The post Meet Our New Regional Development Officer first appeared on Orienteerin
 The post World Cup Final Orienteering Team Announcement first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Senior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSO Recognition Agreement from ASC- 2024-2026]]></title>
-        <id>https://orienteering.asn.au/?p=11671</id>
-        <link href="https://orienteering.asn.au/nso-recognition-agreement-from-asc-2024-2026/"/>
-        <updated>2024-07-24T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The ASC offers recognition of Orienteering Australia as the national sporting organisation for orienteering.
-NSO Recognition Agreement from ASC- 2024-2026 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
