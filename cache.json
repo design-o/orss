@@ -315,26 +315,6 @@
           "wordCount": 1120,
           "title": "Her Outdoors Week 2024",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=18697",
-          "author": "Operations Manager",
-          "description": "Please say hello to our new Regional Development Officer, Jack Hanafin! Jack will be familiar to most of our community as an established orienteer and an up and coming instructor and mapper. His work will be primarily focused in the Greater Dublin area, where he will also act as a Club Support Officer amongst other […]\nThe post Meet Our New Regional Development Officer first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/meet-our-new-regional-development-officer/?utm_source=rss&utm_medium=rss&utm_campaign=meet-our-new-regional-development-officer",
-          "publishedOn": "2024-07-26T11:16:17.000Z",
-          "wordCount": 981,
-          "title": "Meet Our New Regional Development Officer",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=18674",
-          "author": "Senior",
-          "description": "I am pleased to announce the selection of our athletes for the World Cup Final Orienteering event in Finland. The team representing Orienteering Ireland will be: Congratulations to each of you! Your dedication, skill, and hard work have earned you a spot on the team, and we are confident that you will make a strong […]\nThe post World Cup Final Orienteering Team Announcement first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/world-cup-final-orienteering-team-announcement/?utm_source=rss&utm_medium=rss&utm_campaign=world-cup-final-orienteering-team-announcement",
-          "publishedOn": "2024-07-26T06:35:54.000Z",
-          "wordCount": 1040,
-          "title": "World Cup Final Orienteering Team Announcement",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
     },
@@ -650,6 +630,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5838",
+          "author": "NIOA Secretary",
+          "description": "Entries for the NI Colour Series at Moydamlaght Forest on Saturday 31 August close at 22.30 on Monday 26 August. North West Orienteering Club host the 5th event of the series at Moydamlaght Forest near Maghera on excellent remapped terrain. With the NI Champs coming...\nThe post Don’t Miss Out on Moydamlaght appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/dont-miss-out-on-moydamlaght/",
+          "publishedOn": "2024-08-24T19:13:16.000Z",
+          "wordCount": 4345,
+          "title": "Don’t Miss Out on Moydamlaght",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/08/Moydamlaght-above-the-Trees-1024x820-1.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5832",
           "author": "NIOA Secretary",

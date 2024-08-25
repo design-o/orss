@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-24T18:08:42.893Z</updated>
+    <updated>2024-08-25T00:39:42.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Miss Out on Moydamlaght]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5838</id>
+        <link href="https://www.niorienteering.org.uk/dont-miss-out-on-moydamlaght/"/>
+        <updated>2024-08-24T19:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Entries for the NI Colour Series at Moydamlaght Forest on Saturday 31 August close at 22.30 on Monday 26 August. North West Orienteering Club host the 5th event of the series at Moydamlaght Forest near Maghera on excellent remapped terrain. With the NI Champs coming...
+The post Don’t Miss Out on Moydamlaght appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup 3 Results & Recap]]></title>
         <id>https://orienteering.asn.au/?p=11880</id>
@@ -673,28 +684,6 @@ Sport NZ |Diversity, Equity & Inclusion survey results first appeared on Orient
 Learn and Play Orienteering Coach accreditation goes live on 30 July first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Our New Regional Development Officer]]></title>
-        <id>https://www.orienteering.ie/?p=18697</id>
-        <link href="https://www.orienteering.ie/meet-our-new-regional-development-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meet-our-new-regional-development-officer"/>
-        <updated>2024-07-26T11:16:17.000Z</updated>
-        <summary type="html"><![CDATA[Please say hello to our new Regional Development Officer, Jack Hanafin! Jack will be familiar to most of our community as an established orienteer and an up and coming instructor and mapper. His work will be primarily focused in the Greater Dublin area, where he will also act as a Club Support Officer amongst other […]
-The post Meet Our New Regional Development Officer first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Final Orienteering Team Announcement]]></title>
-        <id>https://www.orienteering.ie/?p=18674</id>
-        <link href="https://www.orienteering.ie/world-cup-final-orienteering-team-announcement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-cup-final-orienteering-team-announcement"/>
-        <updated>2024-07-26T06:35:54.000Z</updated>
-        <summary type="html"><![CDATA[I am pleased to announce the selection of our athletes for the World Cup Final Orienteering event in Finland. The team representing Orienteering Ireland will be: Congratulations to each of you! Your dedication, skill, and hard work have earned you a spot on the team, and we are confident that you will make a strong […]
-The post World Cup Final Orienteering Team Announcement first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Senior</name>
         </author>
     </entry>
 </feed>
