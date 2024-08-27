@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T00:36:49.332Z</updated>
+    <updated>2024-08-27T06:11:45.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -683,17 +683,6 @@ Sport NZ |Diversity, Equity & Inclusion survey results first appeared on Orient
         <summary type="html"><![CDATA[249 athletes from 30 different nations have set the course for the southwestern corner of Bulgaria, where the 2024 FISU World University Orienteering Championships take place in and around the city of Bansko. The first championship race is the Individual Sprint on Thursday in Bansko, where a flat mix of park and urban terrain awaits […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn and Play Orienteering Coach accreditation goes live on 30 July]]></title>
-        <id>https://orienteering.asn.au/?p=11723</id>
-        <link href="https://orienteering.asn.au/learn-and-play-orienteering-coach-accreditation-goes-live-on-30-july/"/>
-        <updated>2024-07-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Learn and Play Orienteering Coach
-Learn and Play Orienteering Coach accreditation goes live on 30 July first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
