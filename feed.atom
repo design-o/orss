@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T00:37:30.390Z</updated>
+    <updated>2024-08-30T06:11:21.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -519,15 +519,6 @@ MelBushO, Plenty South, Sunday 18 August first appeared on Orienteering Victoria
         <id>https://www.vicorienteering.asn.au/?p=13778</id>
         <link href="https://www.vicorienteering.asn.au/vic-series-at-mt-tarrengower-on-21-july-enter-now/"/>
         <updated>2024-08-01T07:16:57.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paid Position Available – Summer Shorts and Sprints Coordinator]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13830</id>
-        <link href="https://www.vicorienteering.asn.au/paid-position-available-summer-shorts-and-sprints-coordinator/"/>
-        <updated>2024-07-31T17:53:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
