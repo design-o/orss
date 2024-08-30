@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T18:10:10.461Z</updated>
+    <updated>2024-08-30T00:37:30.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -201,6 +201,15 @@ Eventor Update for Bigpond Email Addresses first appeared on Orienteering Austra
         <summary type="html"><![CDATA[Eirik Langedal Breivik (Norway) and Simona Aebersold (Switzerland) won the European Orienteering Championships (EOC) Middle on very technical, Hungarian terrain that really challenged the runners. We saw big mistakes by many athletes, with Breivik and Aebersold managing to navigate well in the steep hills while keeping high speed. In the men’s class Kasper Fosser (Norway) ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update: Events August 27-September 2]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2024-08-18T02:41:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -521,171 +530,6 @@ MelBushO, Plenty South, Sunday 18 August first appeared on Orienteering Victoria
         <updated>2024-07-31T17:53:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guy Cory-Wright  |  View from the Acting Chair |  July 2024]]></title>
-        <id>https://www.orienteering.org.nz/?p=60120</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/updates/guy-cory-wright-view-from-the-acting-chair-july-2024/"/>
-        <updated>2024-07-31T07:54:48.000Z</updated>
-        <summary type="html"><![CDATA[This month we’re delighted to welcome our youngest member to the ONZ family and Wellington club. Our Chair, Sarah O’Sullivan gave birth to Isobel in July and we wish Sarah and her newly expanded whanau the very best and lots of rest – haha! Rest is seldom found in Sarah’s vocab but for the next […]
-Guy Cory-Wright  |  View from the Acting Chair |  July 2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 WOC | Edinburgh, Scotland  | 12-16 July]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60113</id>
-        <link href="https://www.orienteering.org.nz/news/2024-woc-edinburgh-scotland-12-16-july/"/>
-        <updated>2024-07-31T07:45:11.000Z</updated>
-        <summary type="html"><![CDATA[In late 2021 / early 2022 sprint WOC, specifically WOC2024, was named as an event that ONZ could target to really make a mark on the world stage. WOC2022 was thought of as a stage on the way to that goal, although visa and covid problems rather upset the apple cart for that one. Even in […]
-2024 WOC | Edinburgh, Scotland  | 12-16 July first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC  | Pilsen, Czechia  |  1-6 July]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60108</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc-pilsen-czechia-1-6-july/"/>
-        <updated>2024-07-31T07:38:30.000Z</updated>
-        <summary type="html"><![CDATA[What a successful JWOC. The anticipation was high beforehand, and Zefa Fa’avae winning  2nd place in the long event is our best ever placing in the forest terrain for the Junior World Orienteering Championships long event. It follows in the footsteps of Matt Ogden’s golden medal win in the forest terrain for the middle event […]
-JWOC  | Pilsen, Czechia  |  1-6 July  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invitation to the Sunshine State champs]]></title>
-        <id>https://www.orienteering.org.nz/?p=60105</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/invitation-to-the-sunshine-state-champs/"/>
-        <updated>2024-07-31T07:32:50.000Z</updated>
-        <summary type="html"><![CDATA[New Zealanders thinking of coming to the Australian Championships being held at Armidale on the Northern Tablelands of New South Wales at the end of September might be interested in also attending the Queensland Orienteering Championships being held on the preceding weekend, 21/22 September.This two day event will be held just north of Stanthorpe on […]
-Invitation to the Sunshine State champs  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania 2025 | Embargoes & first Bulletin]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60102</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-2025-embargoes-first-bulletin/"/>
-        <updated>2024-07-31T07:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Four days of Oceania racing, a warm-up weekend and two training days are being prepared by orienteering clubs of the lower North Island. The  warm-up events are on 18-19 January in Taranaki, followed by training maps in the lead-up to the four official Oceania 2025 races from 24-27 January. Oceania 2025 is supported and sanctioned by both Orienteering […]
-Oceania 2025 | Embargoes & first Bulletin first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taitonga Southern Champs | Waikaia | 7-8 February 2025]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60099</id>
-        <link href="https://www.orienteering.org.nz/news/taitonga-southern-champs-waikaia-7-8-february-2025/"/>
-        <updated>2024-07-31T07:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Waikaia! How fondly we all remember events from, it seems, the very distant past! Once regarded as the most technical O map in the country (no doubt that would be challenged now!)  it’s seen many a lost or baffled orienteer. Last used for Southern Orienteering Week in 2017 (though, if the memory serves well, Godzone […]
-Taitonga Southern Champs | Waikaia | 7-8 February 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nationals 2025 | 18-21 April 2025]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60096</id>
-        <link href="https://www.orienteering.org.nz/news/nationals-2025-18-21-april-2025/"/>
-        <updated>2024-07-31T07:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Explore the diverse Canterbury region of the South Island for Easter 2025. All the New Zealand nationals championship events will be within 90 minutes of Christchurch International Airport. Join us for challenging orienteering across a variety of terrain with newly mapped areas. The nationals website is undergoing small updates but in the meantime we also have brief […]
-Nationals 2025 | 18-21 April 2025  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canterbury Schools & SISS | 7 – 8 September]]></title>
-        <id>https://www.orienteering.org.nz/?p=60093</id>
-        <link href="https://www.orienteering.org.nz/schools/canterbury-schools-siss-7-8-september/"/>
-        <updated>2024-07-31T07:19:50.000Z</updated>
-        <summary type="html"><![CDATA[After JWOCC & NZSSOC, we are excited to continue events for youth sport. The South Island Secondary Schools Championships (SISS) and the Canterbury Orienteering School festival weekend have combined for a two-day competition. This has something for everyone. You can choose to orienteer on your own in a competitive grade if you have orienteering experience; or […]
-Canterbury Schools & SISS | 7 – 8 September first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taupō School’s Orienteering |  Half-yearly report]]></title>
-        <id>https://www.orienteering.org.nz/?p=60088</id>
-        <link href="https://www.orienteering.org.nz/schools/taupo-schools-orienteering-half-yearly-report/"/>
-        <updated>2024-07-31T07:13:36.000Z</updated>
-        <summary type="html"><![CDATA[A series of introductory orienteering sessions held mainly within schools has just been completed over term 2 for 13 schools in Taupo and surrounding areas. This is a good increase from 8 schools who took part in these sessions in 2023. Two of the new schools were Kura for which we made school maps with […]
-Taupō School’s Orienteering |  Half-yearly report first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 QLD MTBO Championships | 24-25 August]]></title>
-        <id>https://www.orienteering.org.nz/?p=60085</id>
-        <link href="https://www.orienteering.org.nz/mtbo/2024-qld-mtbo-championships-24-25-august/"/>
-        <updated>2024-07-31T07:08:35.000Z</updated>
-        <summary type="html"><![CDATA[These events will be part of the National MTBO Series & include QLD Series roundsUpdate to BULLETIN 1 Lingering wet ground conditions in Ringtail Creek SF have meant that we have to relocate the Long Distance event on Sunday 25th August to an alternate location in Beerburrum East SF, adjacent to the new Middle Distance map. Details will […]
-2024 QLD MTBO Championships | 24-25 August  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Performance  | Steering Group + Performance Leader positions]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60081</id>
-        <link href="https://www.orienteering.org.nz/news/high-performance-steering-group-performance-leader-position/"/>
-        <updated>2024-07-31T07:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering New Zealand will be advertising for the new Performance Leader and Performance Steering Group positions on Monday. The roles are of huge strategic importance to orienteering as they will not only be responsible for the oversight and running of our High Performance Programme, but also will be instrumental in the creation of a new […]
-High Performance  | Steering Group + Performance Leader positions first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controller’s clinic | Nelson | 7-8 September]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60078</id>
-        <link href="https://www.orienteering.org.nz/news/controllers-clinic-nelson-7-8-september/"/>
-        <updated>2024-07-31T06:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The course will be of interest to course planners, controllers and organisers who wish to update their skill-set, for all events from club events to national championships.  It is a prerequisite to becoming an ONZ A or B grade Controller. Topics include the Function and tasks of the Controller; Event Organisation; Technical detail about the map, control sites and courses; SportIdent and timing; Complaints, […]
-Controller’s clinic | Nelson | 7-8 September first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King’s Birthday Weekend | A cheque finish!]]></title>
-        <id>https://www.orienteering.org.nz/?p=60074</id>
-        <link href="https://www.orienteering.org.nz/blog/kings-birthday-weekend-a-cheque-finish/"/>
-        <updated>2024-07-31T06:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Nelson Orienteering Club’s King’s Birthday Weekend event in Golden Bay was a roaring success, providing competitors from around the country and Australia with Challenging courses – and even the weather played its part.  Feedback suggests that many local businesses had a welcome income boost with several providing vouchers and discounts.Collingwood Area school had a refreshments […]
-King’s Birthday Weekend | A cheque finish! first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trewin on IOF Event Supervisory Board  | 2024-26]]></title>
-        <id>https://www.orienteering.org.nz/?p=60071</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/trewin-on-iof-event-supervisory-board-2024-26/"/>
-        <updated>2024-07-31T06:47:15.000Z</updated>
-        <summary type="html"><![CDATA[We’re very pleased to see Oceania represented on the IOF- the Council elections took place at the IOF General Assembly on 15 July.  Delegations from 39 member federations were present – either on site or through the hybrid meeting solution online, and Blair Trewin was elected onto the new IOF Supervisory Board. The board consists […]
-Trewin on IOF Event Supervisory Board  | 2024-26 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sport NZ |Diversity, Equity & Inclusion survey results]]></title>
-        <id>https://www.orienteering.org.nz/?p=60068</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/sport-nz-diversity-equity-inclusion-survey-results/"/>
-        <updated>2024-07-31T06:44:01.000Z</updated>
-        <summary type="html"><![CDATA[The Sport NZ 2024 DEI Sector Workforce Survey report is out now. This report captures insights from 109 organisations and 1,425 people across the sector  providing insights on the make-up and experiences of board members and employees working in the play, active recreation and sport. The 2024 reports shows that meaningful progress has been made across the sector […]
-Sport NZ |Diversity, Equity & Inclusion survey results first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
