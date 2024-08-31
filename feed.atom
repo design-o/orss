@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T12:12:52.752Z</updated>
+    <updated>2024-08-31T18:08:58.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why be a Controller?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54276</id>
+        <link href="https://www.scottish-orienteering.org/news/why-be-a-controller/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=why-be-a-controller"/>
+        <updated>2024-08-31T16:19:37.000Z</updated>
+        <summary type="html"><![CDATA[With another Grade C controllers course taking place in the Aviemore Area on 15th September, we thought it would be […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guy Cory-Wright  |  View from the Acting Chair]]></title>
         <id>https://www.orienteering.org.nz/?p=60338</id>
