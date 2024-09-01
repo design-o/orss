@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T00:44:46.562Z</updated>
+    <updated>2024-09-01T06:11:36.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -751,26 +751,6 @@ MelBushO, Plenty South, Sunday 18 August first appeared on Orienteering Victoria
         <summary type="html"><![CDATA[Preregistration is Open! On Foot or Bicycle Score Courses in beautiful downtown Cuyahoga Falls and Silver Lake areas! Family Version available too! FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA Club Networking day – 14th Sep 2024]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54230</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-club-networking-day-14th-sep-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-club-networking-day-14th-sep-2024"/>
-        <updated>2024-08-02T15:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Scottish Orienteering is holding a Club Networking Day (rebranded Club Conference) on Saturday 14th September at the North Inch Community […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMOC to start in Finland with 4000+ participants]]></title>
-        <id>https://orienteering.sport/?p=72933</id>
-        <link href="https://orienteering.sport/wmoc-to-start-in-finland-with-4000-participants/"/>
-        <updated>2024-08-02T14:19:12.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 World Masters Orienteering Championships have attracted more than 4,200 competitors to the south-west corner of Finland, where the competitions begin on Saturday with the sprint qualification race. 42 nations are represented at the championships, where world masters champions will be crowned in 25 classes from W/M 35 up to W95 and M90. The […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
