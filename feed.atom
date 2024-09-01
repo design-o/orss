@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T06:11:36.830Z</updated>
+    <updated>2024-09-01T12:12:56.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -741,16 +741,6 @@ Do some of you or your club have SIACs with dead batteries? first appeared on O
 MelBushO, Plenty South, Sunday 18 August first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st]]></title>
-        <id>https://neooc.com/?p=47607</id>
-        <link href="https://neooc.com/new-event-fallsquest-2024-cuyahoga-falls-oh-sunday-september-1st/"/>
-        <updated>2024-08-02T20:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Preregistration is Open! On Foot or Bicycle Score Courses in beautiful downtown Cuyahoga Falls and Silver Lake areas! Family Version available too! FallsQuest 2024 | Cuyahoga Falls, OH | Sunday, September 1st]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
