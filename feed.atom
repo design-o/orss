@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T18:08:58.818Z</updated>
+    <updated>2024-09-01T00:44:46.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Sunny Sperrins]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5873</id>
+        <link href="https://www.niorienteering.org.uk/the-sunny-sperrins/"/>
+        <updated>2024-08-31T21:55:23.000Z</updated>
+        <summary type="html"><![CDATA[The last day of summer was celebrated in style with a super sunny Sperrin outing to Moydamlaght Forest for the 5th race in the 2024 NI Colour Series. With a brand new map produced by Steven Linton with LiDAR data, certainly also produced challenging courses...
+The post The Sunny Sperrins appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why be a Controller?]]></title>
         <id>https://www.scottish-orienteering.org/?p=54276</id>
