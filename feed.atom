@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T12:14:53.401Z</updated>
+    <updated>2024-09-02T18:10:26.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -762,17 +762,6 @@ ONZ invites applications for Performance Leader & Performance Steering Group Pos
 Do some of you or your club have SIACs with dead batteries? first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO, Plenty South, Sunday 18 August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13388</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-2024/"/>
-        <updated>2024-08-04T03:48:27.000Z</updated>
-        <summary type="html"><![CDATA[The next MelbushO is at Plenty South on Sunday August 18. Enter online now!
-MelBushO, Plenty South, Sunday 18 August first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
