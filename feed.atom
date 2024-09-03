@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T18:10:26.520Z</updated>
+    <updated>2024-09-03T00:37:23.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -740,28 +740,6 @@ Bush Orienteering in Bendigo During August first appeared on Orienteering Victor
         <summary type="html"><![CDATA[More than 3,200 masters athletes took part when the first final at the World Masters Orienteering Championships in Finland was run on Sunday. The sprint final took place in central Turku, the host of city the championships, which featured challenging courses with plenty of demanding short leg in a mix of parkland and hard surfaces […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONZ invites applications for Performance Leader & Performance Steering Group Positions]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60167</id>
-        <link href="https://www.orienteering.org.nz/news/onz-invites-applications-for-performance-leader-performance-steering-group-positions/"/>
-        <updated>2024-08-04T09:16:56.000Z</updated>
-        <summary type="html"><![CDATA[These roles are of huge strategic importance to orienteering as they will not only be responsible for the oversight and running of our High Performance Programme, but also will be instrumental in the creation of a new HP plan. This plan will be produced in September and will have direct impact on everything from athlete […]
-ONZ invites applications for Performance Leader & Performance Steering Group Positions first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do some of you or your club have SIACs with dead batteries?]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60164</id>
-        <link href="https://www.orienteering.org.nz/news/do-some-of-you-or-your-club-have-siacs-with-dead-batteries/"/>
-        <updated>2024-08-04T08:42:21.000Z</updated>
-        <summary type="html"><![CDATA[OBOP are going to be sending a parcel across to SI Germany with a number of flat SIACs that need their batteries replacing.  The freight is very expensive. If any other clubs/orienteers around NZ have SIACs with flat batteries that are welcome to send to Erin Swanson (OBOP President) and she can add to parcel to get […]
-Do some of you or your club have SIACs with dead batteries? first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
