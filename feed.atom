@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-03T06:11:28.360Z</updated>
+    <updated>2024-09-03T12:14:06.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -730,16 +730,6 @@ WUOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summar
 Bush Orienteering in Bendigo During August first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMOC: Challenging sprint final in Turku]]></title>
-        <id>https://orienteering.sport/?p=72955</id>
-        <link href="https://orienteering.sport/wmoc-challenging-sprint-final-in-turku/"/>
-        <updated>2024-08-04T20:26:31.000Z</updated>
-        <summary type="html"><![CDATA[More than 3,200 masters athletes took part when the first final at the World Masters Orienteering Championships in Finland was run on Sunday. The sprint final took place in central Turku, the host of city the championships, which featured challenging courses with plenty of demanding short leg in a mix of parkland and hard surfaces […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
