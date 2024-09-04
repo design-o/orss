@@ -238,16 +238,6 @@
           "wordCount": 1095,
           "title": "Park Street Update: Events August 27-September 2",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13788",
-          "author": "Margi Freemantle",
-          "description": "Check out these three fantastic Bendigo Bush events coming up in August!\nBush Orienteering in Bendigo During August first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/",
-          "publishedOn": "2024-08-05T10:35:10.000Z",
-          "wordCount": 1251,
-          "title": "Bush Orienteering in Bendigo During August",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -584,6 +574,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54286",
+          "author": "nikkihoward",
+          "description": "This weekend the Scottish Sprint Championships were hosted by Tayside Orienteers in MacRosty Park in Crieff. In a fun variation […]",
+          "link": "https://www.scottish-orienteering.org/news/a-sprint-of-two-parts-for-the-2024-scottish-sprint-championships/?utm_source=rss&utm_medium=rss&utm_campaign=a-sprint-of-two-parts-for-the-2024-scottish-sprint-championships",
+          "publishedOn": "2024-09-03T19:30:05.000Z",
+          "wordCount": 1905,
+          "title": "A sprint of two parts for the 2024 Scottish Sprint Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/456453735_1226344695249347_4179312179764879806_n.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54276",
           "author": "suzannerb",
