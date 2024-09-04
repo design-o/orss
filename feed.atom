@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T12:15:12.501Z</updated>
+    <updated>2024-09-04T18:10:42.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish athletes feel the heat performing in Hungary]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54316</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-athletes-feel-the-heat-performing-in-hungary/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-athletes-feel-the-heat-performing-in-hungary"/>
+        <updated>2024-09-04T13:02:24.000Z</updated>
+        <summary type="html"><![CDATA[The European Orienteering Championships took place in the Vértes Hills in Hungary, in very hot conditions. There were a number of Scots […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold found in Bulgaria at the World University Orienteering Championships]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54304</id>
+        <link href="https://www.scottish-orienteering.org/news/gold-found-in-bulgaria-at-the-world-university-orienteering-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gold-found-in-bulgaria-at-the-world-university-orienteering-championships"/>
+        <updated>2024-09-04T12:15:39.000Z</updated>
+        <summary type="html"><![CDATA[The World University Orienteering Championships took place in Bankso in Bulgaria this year. The GB team was packed with Scots and Scottish based […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO, Tikalara, Sunday 8 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13388</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-is-back-2024/"/>
+        <updated>2024-09-04T03:48:27.000Z</updated>
+        <summary type="html"><![CDATA[The next MelbushO is at Plenty South on Sunday August 18. Support this junior flavoured event. Enter online now! ,
+MelBushO, Tikalara, Sunday 8 September first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A sprint of two parts for the 2024 Scottish Sprint Championships]]></title>
         <id>https://www.scottish-orienteering.org/?p=54286</id>
@@ -288,6 +319,15 @@ Should NZ host JWOC? | ONZ is looking for someone to produce a business case pro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BK Come and Try 2, Newport Lakes, Saturday 7 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13859</id>
+        <link href="https://www.vicorienteering.asn.au/bk-come-and-try-2-newport-lakes-saturday-7-september/"/>
+        <updated>2024-08-30T15:46:27.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Notice of a EGM of NI Orienteering]]></title>
         <id>https://www.niorienteering.org.uk/?p=5846</id>
         <link href="https://www.niorienteering.org.uk/notice-of-a-egm-of-ni-orienteering/"/>
@@ -296,6 +336,17 @@ Should NZ host JWOC? | ONZ is looking for someone to produce a business case pro
 The post Notice of a EGM of NI Orienteering appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bush Orienteering in Bendigo During September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13788</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/"/>
+        <updated>2024-08-28T10:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Check out these three fantastic Bendigo Bush events coming up in September!
+Bush Orienteering in Bendigo During September first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>

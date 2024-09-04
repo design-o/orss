@@ -190,6 +190,36 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13388",
+          "author": "Debbie Dodd",
+          "description": "The next MelbushO is at Plenty South on Sunday August 18. Support this junior flavoured event. Enter online now! ,\nMelBushO, Tikalara, Sunday 8 September first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-2024/",
+          "publishedOn": "2024-09-04T03:48:27.000Z",
+          "wordCount": 1151,
+          "title": "MelBushO, Tikalara, Sunday 8 September",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13859",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bk-come-and-try-2-newport-lakes-saturday-7-september/",
+          "publishedOn": "2024-08-30T15:46:27.000Z",
+          "wordCount": 958,
+          "title": "BK Come and Try 2, Newport Lakes, Saturday 7 September",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13788",
+          "author": "Margi Freemantle",
+          "description": "Check out these three fantastic Bendigo Bush events coming up in September!\nBush Orienteering in Bendigo During September first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/",
+          "publishedOn": "2024-08-28T10:35:10.000Z",
+          "wordCount": 974,
+          "title": "Bush Orienteering in Bendigo During September",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13850",
           "author": "Margi Freemantle",
           "description": "The Victorian Middle and Long Distance Championships are nearly here! Don't miss out. Enter now.\nVictorian Middle & Long Championships – Enter Now first appeared on Orienteering Victoria.",
@@ -574,6 +604,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54316",
+          "author": "nikkihoward",
+          "description": "The European Orienteering Championships took place in the Vértes Hills in Hungary, in very hot conditions. There were a number of Scots […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-athletes-feel-the-heat-performing-in-hungary/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-athletes-feel-the-heat-performing-in-hungary",
+          "publishedOn": "2024-09-04T13:02:24.000Z",
+          "wordCount": 1755,
+          "title": "Scottish athletes feel the heat performing in Hungary",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/0013-1024x683.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54304",
+          "author": "nikkihoward",
+          "description": "The World University Orienteering Championships took place in Bankso in Bulgaria this year. The GB team was packed with Scots and Scottish based […]",
+          "link": "https://www.scottish-orienteering.org/news/gold-found-in-bulgaria-at-the-world-university-orienteering-championships/?utm_source=rss&utm_medium=rss&utm_campaign=gold-found-in-bulgaria-at-the-world-university-orienteering-championships",
+          "publishedOn": "2024-09-04T12:15:39.000Z",
+          "wordCount": 1962,
+          "title": "Gold found in Bulgaria at the World University Orienteering Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/IMG_2780-1024x682.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54286",
           "author": "nikkihoward",
