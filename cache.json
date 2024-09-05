@@ -605,6 +605,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54327",
+          "author": "nikkihoward",
+          "description": "An Extraordinary General Meeting of Scottish Orienteering is being held in person at North Inch Community Campus, Gowan Terrace, Perth […]",
+          "link": "https://www.scottish-orienteering.org/news/2024-egm-booklet-published/?utm_source=rss&utm_medium=rss&utm_campaign=2024-egm-booklet-published",
+          "publishedOn": "2024-09-04T19:27:36.000Z",
+          "wordCount": 1627,
+          "title": "2024 EGM Booklet published",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2021/12/Scottish-Orienteering-Col-1-RGB-High-Res-1024x446.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54316",
           "author": "nikkihoward",
           "description": "The European Orienteering Championships took place in the Vértes Hills in Hungary, in very hot conditions. There were a number of Scots […]",

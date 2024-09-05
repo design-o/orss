@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T18:10:42.385Z</updated>
+    <updated>2024-09-05T00:37:45.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 EGM Booklet published]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54327</id>
+        <link href="https://www.scottish-orienteering.org/news/2024-egm-booklet-published/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2024-egm-booklet-published"/>
+        <updated>2024-09-04T19:27:36.000Z</updated>
+        <summary type="html"><![CDATA[An Extraordinary General Meeting of Scottish Orienteering is being held in person at North Inch Community Campus, Gowan Terrace, Perth […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish athletes feel the heat performing in Hungary]]></title>
         <id>https://www.scottish-orienteering.org/?p=54316</id>
