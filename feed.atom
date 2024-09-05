@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T06:11:39.606Z</updated>
+    <updated>2024-09-05T12:14:30.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Well attended SEEOC held in Türkiye]]></title>
+        <id>https://orienteering.sport/?p=73618</id>
+        <link href="https://orienteering.sport/well-attended-seeoc-held-in-turkiye/"/>
+        <updated>2024-09-05T11:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Last week, from August 28th to September 1st, the South East European Orienteering Championships, the South East European Masters Orienteering Championships and the 3rd Pergamon O-Week took place in Bergama, Türkiye, with participation of 759 athletes from 22 countries. Besides contributing to the growth of orienteering at both regional and international level, the championships were […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Squad Update]]></title>
+        <id>https://www.orienteering.ie/?p=19319</id>
+        <link href="https://www.orienteering.ie/senior-squad-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senior-squad-update"/>
+        <updated>2024-09-05T08:07:43.000Z</updated>
+        <summary type="html"><![CDATA[/*! elementor – v3.23.0 – 25-07-2024 */ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px} Josh O’Sullivan-Hourihan Shines at Men Elite Vienna O-Challenge 2024 Josh O’Sullivan-Hourihan of Cork O delivered a standout performance at the Men Elite category of the Vienna O-Challenge 2024, showcasing his exceptional orienteering skills. Competing against top international athletes, Josh’s precise navigation […]
+The post Senior Squad Update first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Senior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 EGM Booklet published]]></title>
         <id>https://www.scottish-orienteering.org/?p=54327</id>
