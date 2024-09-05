@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T00:37:45.755Z</updated>
+    <updated>2024-09-05T06:11:39.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -778,16 +778,6 @@ WUOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summar
         <link href="https://orienteering.sport/wmoc-middle-demanding-terrain-for-wednesdays-final/"/>
         <updated>2024-08-07T22:04:54.000Z</updated>
         <summary type="html"><![CDATA[The athletes at the World Masters Orienteering Championships in Finland were met with challenging courses at the middle distance final on Wednesday. The more than 3,700 participants were just like at Tuesday’s forest qualification in the forests at Sauvo east of the host city Turku. Today’s terrain was full of details with very few paths […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North America crowns its champions this week in Ontario]]></title>
-        <id>https://orienteering.sport/?p=72962</id>
-        <link href="https://orienteering.sport/north-america-crowns-its-champions-this-week-in-ontario/"/>
-        <updated>2024-08-06T16:58:40.000Z</updated>
-        <summary type="html"><![CDATA[The biennial North American Orienteering Championships start this Tuesday in Canada’s Ontario region and feature five championship races over the coming days. The first race is the individual sprint, then there’s a Sprint Relay on Wednesday before Thursday’s Knock-Out Sprint concludes the sprint races, all taking place in the city of Kingston, Ontario. Here the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
