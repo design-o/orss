@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T06:11:32.524Z</updated>
+    <updated>2024-09-06T12:14:44.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -790,17 +790,6 @@ The Junior Camp Website is up and running first appeared on Orienteering New Zea
         <summary type="html"><![CDATA[More than 400 masters athletes are racing for World Masters MTBO titles at WMMTBOC in Viborg, Denmark this week. Four races: Mass start, Middle, Sprint and Long will take the athletes to some of the finest MTBO terrains in Jutland in western Denmark, among them Ebeltoft and Undallslund plantations, which were also used for the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WUOC 2024 Recap and Results]]></title>
-        <id>https://orienteering.asn.au/?p=11735</id>
-        <link href="https://orienteering.asn.au/wuoc-2024-recap-and-results/"/>
-        <updated>2024-08-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Competing in Bankso, Bulgaria this year from 1-5 August, WUOC 2024 saw 12 Australian athletes fight hard in all events.
-WUOC 2024 Recap and Results first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
     <entry>
