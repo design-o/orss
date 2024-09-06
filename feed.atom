@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T12:14:44.712Z</updated>
+    <updated>2024-09-06T18:10:20.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -788,16 +788,6 @@ The Junior Camp Website is up and running first appeared on Orienteering New Zea
         <link href="https://orienteering.sport/world-masters-mtbo-championships-well-underway-in-denmark/"/>
         <updated>2024-08-08T16:02:58.000Z</updated>
         <summary type="html"><![CDATA[More than 400 masters athletes are racing for World Masters MTBO titles at WMMTBOC in Viborg, Denmark this week. Four races: Mass start, Middle, Sprint and Long will take the athletes to some of the finest MTBO terrains in Jutland in western Denmark, among them Ebeltoft and Undallslund plantations, which were also used for the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMOC Middle: Demanding terrain for Wednesday’s final]]></title>
-        <id>https://orienteering.sport/?p=72966</id>
-        <link href="https://orienteering.sport/wmoc-middle-demanding-terrain-for-wednesdays-final/"/>
-        <updated>2024-08-07T22:04:54.000Z</updated>
-        <summary type="html"><![CDATA[The athletes at the World Masters Orienteering Championships in Finland were met with challenging courses at the middle distance final on Wednesday. The more than 3,700 participants were just like at Tuesday’s forest qualification in the forests at Sauvo east of the host city Turku. Today’s terrain was full of details with very few paths […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
