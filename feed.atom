@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T18:09:27.071Z</updated>
+    <updated>2024-09-09T00:39:58.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -780,16 +780,6 @@ The Junior Camp Website is up and running first appeared on Orienteering New Zea
         <summary type="html"><![CDATA[2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMOC Long: 12 golds for Finland on final day]]></title>
-        <id>https://orienteering.sport/?p=72975</id>
-        <link href="https://orienteering.sport/wmoc-long/"/>
-        <updated>2024-08-10T09:05:49.000Z</updated>
-        <summary type="html"><![CDATA[World Masters Orienteering Championships 2024 came to an end on Friday, when the Long distance concluded the WMOC-week in Finland. The athletes competed west of Turku in the Finnish archipelagoes in relatively open and rocky terrain. That suited the home nation well, as Finland was the most successful nation with 12 golds on Friday. Sweden […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
