@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T00:38:24.133Z</updated>
+    <updated>2024-09-10T06:11:51.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victorian Long Distance Champs – Entries close 13 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13875</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-long-distance-champs-entries-close-13-september/"/>
+        <updated>2024-09-10T05:48:14.000Z</updated>
+        <summary type="html"><![CDATA[The long-distance championship is Victoria’s premier event of the year, so do not miss it! To be held on the Nuggety Range map which was last used for the Australian Champs in 2022.
+Victorian Long Distance Champs – Entries close 13 September first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ireland Win the Celic Cup]]></title>
         <id>https://www.niorienteering.org.uk/?p=5916</id>
@@ -771,16 +782,6 @@ The post Home International Season appeared first on NI Orienteering Association
 VEGAS VINDALOO MTBO WEEKEND – ROTORUA – 21-22 SEPTEMBER 2024 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes | 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></title>
-        <id>https://neooc.com/?p=47664</id>
-        <link href="https://neooc.com/changes-2024-o-101-nav-skills-at-sunny-lake-park-aurora-ohio-sunday-august-18th/"/>
-        <updated>2024-08-11T18:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Date/Time/Slight Location Changes: Sunday, August 18th – Orienteering 101 – Date/Time/Loc Change aka OFB (Orienteering for Beginners) Beginner Level Navigation Skills Sunny Lake Park – Boathouse – Aurora, Ohio – 10am 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>

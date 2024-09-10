@@ -170,6 +170,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13875",
+          "author": "Margi Freemantle",
+          "description": "The long-distance championship is Victoria’s premier event of the year, so do not miss it! To be held on the Nuggety Range map which was last used for the Australian Champs in 2022.\nVictorian Long Distance Champs – Entries close 13 September first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/victorian-long-distance-champs-entries-close-13-september/",
+          "publishedOn": "2024-09-10T05:48:14.000Z",
+          "wordCount": 1074,
+          "title": "Victorian Long Distance Champs – Entries close 13 September",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13388",
           "author": "Debbie Dodd",
           "description": "The next MelbushO is at Plenty South on Sunday August 18. Support this junior flavoured event. Enter online now! ,\nMelBushO, Tikalara, Sunday 8 September first appeared on Orienteering Victoria.",
@@ -566,16 +576,6 @@
           "wordCount": 1323,
           "title": "New Event | 2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24",
           "imageUrl": "https://neooc.com/wp-content/uploads/2022/06/Richfield_Pavilion.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=47664",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Date/Time/Slight Location Changes: Sunday, August 18th – Orienteering 101 – Date/Time/Loc Change aka OFB (Orienteering for Beginners) Beginner Level Navigation Skills Sunny Lake Park – Boathouse – Aurora, Ohio – 10am 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th",
-          "link": "https://neooc.com/changes-2024-o-101-nav-skills-at-sunny-lake-park-aurora-ohio-sunday-august-18th/",
-          "publishedOn": "2024-08-11T18:05:08.000Z",
-          "wordCount": 1362,
-          "title": "Changes | 2024 O-101 | Nav Skills at Sunny Lake Park, Aurora, Ohio | Sunday, August 18th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2023/08/ld_map-and-compass-1-scaled.jpg"
         }
       ]
     },
