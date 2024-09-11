@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T00:38:39.148Z</updated>
+    <updated>2024-09-11T06:11:59.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -781,17 +781,6 @@ Aylott Foundation supports junior MTBO first appeared on Orienteering Australia.
 The post Team Ireland for Senior Home International 2024 first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Mark Stephens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Her Outdoors Week 2024]]></title>
-        <id>https://www.orienteering.ie/?p=19165</id>
-        <link href="https://www.orienteering.ie/her-outdoors-week-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=her-outdoors-week-2024"/>
-        <updated>2024-08-12T14:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Her Outdoors Week 2024 kicks off this week with an action packed schedule of events around the country. This is an amazing opportunity for women and girls of all ages to get involved in outdoor physical activity. Orienteering Ireland, in conjunction with the Local Sports Partnerships and our clubs are hosting a range of events […]
-The post Her Outdoors Week 2024 first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
