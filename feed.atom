@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T18:10:45.538Z</updated>
+    <updated>2024-09-11T00:38:39.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -792,28 +792,6 @@ The post Team Ireland for Senior Home International 2024 first appeared on Orien
 The post Her Outdoors Week 2024 first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home International Season]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5828</id>
-        <link href="https://www.niorienteering.org.uk/home-international-season-2/"/>
-        <updated>2024-08-12T09:22:20.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Home International Season is almost upon us with the Seniors first to compete in Scotland on 7-8 September. The Ireland team has been announced as: W20: Ellie Simpson, Emily Rowe, Eve Buckley. Reserve: TBC M20: Daire O’Brien, Fionn O’Callaghan, Tivon Tyner. Reserve: Josh Hoare W21: Aine McCann, Aoife McCavana, Aoife O’Sullivan, Éadaoin McCavana, Emer...
-The post Home International Season appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VEGAS VINDALOO MTBO WEEKEND – ROTORUA – 21-22 SEPTEMBER 2024]]></title>
-        <id>https://www.orienteering.org.nz/?p=60198</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/vegas-vindaloo-mtbo-weekend-rotorua-21-22-september-2024/"/>
-        <updated>2024-08-12T09:17:24.000Z</updated>
-        <summary type="html"><![CDATA[The Vegas Vindaloo MTBO Weekend is back for 2024!  One weekend, three events – Sprint, Long and Rogaine.  Tempt your tastebuds by giving MTB orienteering a go!  And great build up for anyone going to Australian MTBO Champs at end of October.  Events are targeted at individuals, but welcome to compete as team (particularly the rogaine).  […]
-VEGAS VINDALOO MTBO WEEKEND – ROTORUA – 21-22 SEPTEMBER 2024 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
