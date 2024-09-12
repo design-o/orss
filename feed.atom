@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T12:14:50.173Z</updated>
+    <updated>2024-09-12T18:12:22.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -801,16 +801,6 @@ The post European Orienteering Championships – EOC2024 first appeared on Orien
 Aylott Foundation supports junior MTBO first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | 2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24]]></title>
-        <id>https://neooc.com/?p=47688</id>
-        <link href="https://neooc.com/new-event-2024-richfield-orienteering-101-and-classic-o-richfield-heritage-preserve-saturday-aug-24/"/>
-        <updated>2024-08-14T02:09:14.000Z</updated>
-        <summary type="html"><![CDATA[2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
