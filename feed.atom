@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T06:12:07.870Z</updated>
+    <updated>2024-09-12T12:14:50.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 WMTBOC: Middle wins for Andrasiuniene and Bogar]]></title>
+        <id>https://orienteering.sport/?p=73927</id>
+        <link href="https://orienteering.sport/cx80-wmtboc-middle-wins-for-andrasiuniene-and-bogar/"/>
+        <updated>2024-09-12T11:58:52.000Z</updated>
+        <summary type="html"><![CDATA[The gold medals went to Gabriele Andrasiuniene (LTU) and defending champion Krystof Bogar (CZE) on the third day of CX80 World MTBO Championships in Bulgaria. The sun was back on Thursday morning as the athletes rode off on the Middle distance at the southern end of the forest terrain that was also used for yesterday’s […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be part of shaping the future of orienteering]]></title>
+        <id>https://orienteering.sport/?p=73916</id>
+        <link href="https://orienteering.sport/be-part-of-shaping-the-future-of-orienteering/"/>
+        <updated>2024-09-12T11:28:16.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation relies on voluntary work by passionate orienteers all around the world. And right now IOF is looking to strengthen its commissions with new members and volunteers for the period 2024-2026. If you would like to influence the development of orienteering in the coming years and gain experience of working in an […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CX80 WMTBOC: Hasek wins second gold as Splittorff take women’s Mass start title]]></title>
         <id>https://orienteering.sport/?p=73886</id>
@@ -791,16 +811,6 @@ Aylott Foundation supports junior MTBO first appeared on Orienteering Australia.
         <summary type="html"><![CDATA[2024 Richfield Orienteering 101 and Classic-O | Richfield Heritage Preserve | Saturday, Aug 24]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warm and tough EOC to begin on Friday]]></title>
-        <id>https://orienteering.sport/?p=72984</id>
-        <link href="https://orienteering.sport/warm-and-tough-eoc-to-begin-on-friday/"/>
-        <updated>2024-08-13T20:54:28.000Z</updated>
-        <summary type="html"><![CDATA[The world’s best orienteers return to the forest, when the 2024 European Orienteering Championships begin in Hungary on Friday. Exactly one month after the World Orienteering Championships ended with an exhilarating Knock-Out Sprint on the hard surfaces of Edinburgh, the EOC kicks off with the middle distance qualification in the challenging, hilly terrain of central […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=73927",
+          "author": "Erling Thisted",
+          "description": "The gold medals went to Gabriele Andrasiuniene (LTU) and defending champion Krystof Bogar (CZE) on the third day of CX80 World MTBO Championships in Bulgaria. The sun was back on Thursday morning as the athletes rode off on the Middle distance at the southern end of the forest terrain that was also used for yesterday’s […]",
+          "link": "https://orienteering.sport/cx80-wmtboc-middle-wins-for-andrasiuniene-and-bogar/",
+          "publishedOn": "2024-09-12T11:58:52.000Z",
+          "wordCount": 2084,
+          "title": "CX80 WMTBOC: Middle wins for Andrasiuniene and Bogar",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_wmtboc_womens_middle-e1726142251148-1024x838.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=73916",
+          "author": "Erling Thisted",
+          "description": "The International Orienteering Federation relies on voluntary work by passionate orienteers all around the world. And right now IOF is looking to strengthen its commissions with new members and volunteers for the period 2024-2026. If you would like to influence the development of orienteering in the coming years and gain experience of working in an […]",
+          "link": "https://orienteering.sport/be-part-of-shaping-the-future-of-orienteering/",
+          "publishedOn": "2024-09-12T11:28:16.000Z",
+          "wordCount": 2689,
+          "title": "Be part of shaping the future of orienteering",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_general_assembly-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=73886",
           "author": "Erling Thisted",
           "description": "Jan Hasek (CZE) won his second gold medal in two days when the CX80 WMTBOC-athletes raced the mass start on Wednesday. Among the women, the leader in the World Cup, Nikoline Splittorff (DEN), was the fastest and became world champion. Yesterday’s nice weather was replaced by rain when the athletes were sent off into the […]",
@@ -124,16 +144,6 @@
           "wordCount": 1835,
           "title": "CX80 to host exclusive stand at EOC in Hungary",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/03/cx80_worldcupround1_1_-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=72984",
-          "author": "Erling Thisted",
-          "description": "The world’s best orienteers return to the forest, when the 2024 European Orienteering Championships begin in Hungary on Friday. Exactly one month after the World Orienteering Championships ended with an exhilarating Knock-Out Sprint on the hard surfaces of Edinburgh, the EOC kicks off with the middle distance qualification in the challenging, hilly terrain of central […]",
-          "link": "https://orienteering.sport/warm-and-tough-eoc-to-begin-on-friday/",
-          "publishedOn": "2024-08-13T20:54:28.000Z",
-          "wordCount": 2242,
-          "title": "Warm and tough EOC to begin on Friday",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/02/eoc22_venla_harju_dl-1024x682.jpg"
         }
       ]
     },
