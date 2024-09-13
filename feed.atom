@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T12:14:10.337Z</updated>
+    <updated>2024-09-13T18:10:49.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -780,16 +780,6 @@ The post European Orienteering Championships – EOC2024 first appeared on Orien
         <summary type="html"><![CDATA[In the coming days, the new European champions of Orienteering will be crowned in Hungary, and you are invited to follow closely. The three final races that also count in the 2024 Orienteering World Cup: Middle (Saturday), Long (Sunday) and Relay (Tuesday) can be followed through a high-quality TV production on IOF TV and a […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2024: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20237</id>
-        <link href="https://news.worldofo.com/2024/08/15/eoc-2024-all-you-need-to-know/"/>
-        <updated>2024-08-15T03:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Challenging forest terrain, interesting routechoices and high temperatures await as European Orienteering Championships (EOC) start in Hungary on Friday with Middle Qualification. The championships continue with Middle Final on Saturday, Long on Sunday and finishes off with the Relay on Tuesday. The world’s top orienteers return to the forest when the 2024 European Orienteering Championships ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
