@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T06:12:18.556Z</updated>
+    <updated>2024-09-13T12:14:10.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coach CPD day – 5th October Grantown]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54362</id>
+        <link href="https://www.scottish-orienteering.org/news/coach-cpd-day-5th-october-grantown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coach-cpd-day-5th-october-grantown"/>
+        <updated>2024-09-13T09:18:48.000Z</updated>
+        <summary type="html"><![CDATA[After the success of the last in person Coach CPD day at Kinnoull Hill the resolution was that we definitely […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CX80 WMTBOC: Middle wins for Andrasiuniene and Bogar]]></title>
         <id>https://orienteering.sport/?p=73927</id>
