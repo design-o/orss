@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T18:12:22.200Z</updated>
+    <updated>2024-09-13T00:38:08.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -790,17 +790,6 @@ The post European Orienteering Championships – EOC2024 first appeared on Orien
         <summary type="html"><![CDATA[At the European Orienteering Championships and World Cup Round 3 in Hungary, our partner CX80 will have its own stand. This event will offer an opportunity for attendees to engage with one of the leading brands in the industry and to try out a range of high-quality technical products designed for daily life and for […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aylott Foundation supports junior MTBO]]></title>
-        <id>https://orienteering.asn.au/?p=11804</id>
-        <link href="https://orienteering.asn.au/aylott-foundation-supports-junior-mtbo/"/>
-        <updated>2024-08-14T08:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia are pleased to announce that the Nigel Aylott Memorial Sports Foundation (NAMSF) has provided ongoing funding to support junior MTBO competitors who have been selected to represent Australia at world championships.
-Aylott Foundation supports junior MTBO first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
