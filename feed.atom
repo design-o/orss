@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T12:13:17.868Z</updated>
+    <updated>2024-09-14T18:10:28.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 WMTBOC Long race: defending champions both win; 3 medals to Denmark]]></title>
+        <id>https://orienteering.sport/?p=73960</id>
+        <link href="https://orienteering.sport/cx-80-wmtboc-long-race-defending-champions-both-win-3-medals-to-denmark/"/>
+        <updated>2024-09-14T13:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark and Vojtech Ludvik, Czechia successfully defended their Long Distance titles in a demanding race in hilly Bulgarian terrain today. Ludvik finished with a 1.54 lead and Splittorff won by 20 seconds. The very experienced Czech rider Martina Tichovska was best in the early stages, and passed the 8.6 km point in the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coach CPD day – 5th October Grantown]]></title>
         <id>https://www.scottish-orienteering.org/?p=54362</id>
