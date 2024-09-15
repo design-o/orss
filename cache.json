@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=73980",
+          "author": "Clive",
+          "description": "Denmark dominated the women’s race throughout, winning by almost 5 minutes, whilst Czechia’s men retained their title from 2023 with victory by just 16 seconds in dull and damp conditions near Shumen, Bulgaria today. Cæcilie Christoffersen started strongly for Denmark in the women’s race and was 1.28 in the lead at the first changeover. At […]",
+          "link": "https://orienteering.sport/cx80-wmtboc-relay-wins-for-denmark-and-czechia/",
+          "publishedOn": "2024-09-15T11:03:42.000Z",
+          "wordCount": 2009,
+          "title": "CX80 WMTBOC: Denmark and Czechia take Relay titles",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/wmtboc2024_logo.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=73960",
           "author": "Clive",
           "description": "Nikoline Splittorff, Denmark and Vojtech Ludvik, Czechia successfully defended their Long Distance titles in a demanding race in hilly Bulgarian terrain today. Ludvik finished with a 1.54 lead and Splittorff won by 20 seconds. The very experienced Czech rider Martina Tichovska was best in the early stages, and passed the 8.6 km point in the […]",
@@ -295,16 +305,6 @@
           "wordCount": 1404,
           "title": "Senior Squad Update",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=19181",
-          "author": "Deirdre",
-          "description": "EOC2024 The European Orienteering Championships are taking place in Mór, Hungary, 16-20 August, and Ireland is being represented by four of our athletes: Start lists, live results and GPS-tracking are available at IOF LIVE: Photo credit: Eszter Kocsik\nThe post European Orienteering Championships – EOC2024 first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/european-orienteering-championships-eoc2024/?utm_source=rss&utm_medium=rss&utm_campaign=european-orienteering-championships-eoc2024",
-          "publishedOn": "2024-08-16T22:28:38.000Z",
-          "wordCount": 1004,
-          "title": "European Orienteering Championships – EOC2024",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
     },
@@ -313,6 +313,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22295",
+          "author": "Steve Clelland",
+          "description": "This post will be added to over the coming days Results by Course – pdf Results by Class – pdf Live Results – SPORTident WinSplits [...]",
+          "link": "https://slow.org.uk/racereports/lcr-2024-results/",
+          "publishedOn": "2024-09-15T11:44:22.000Z",
+          "wordCount": 2004,
+          "title": "London City Race 2024 – Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/LCR_2024_Start-scaled.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22263",
           "author": "vinh",
