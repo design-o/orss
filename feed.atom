@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T18:10:28.135Z</updated>
+    <updated>2024-09-15T00:43:09.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -770,16 +770,6 @@ Eventor Update for Bigpond Email Addresses first appeared on Orienteering Austra
 The post European Orienteering Championships – EOC2024 first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2024: Warm Middle qualification kicked off the championships]]></title>
-        <id>https://orienteering.sport/?p=73055</id>
-        <link href="https://orienteering.sport/eoc-2024-warm-middle-qualification-kicked-off-the-championships/"/>
-        <updated>2024-08-16T12:10:05.000Z</updated>
-        <summary type="html"><![CDATA[The more than 300 athletes competing at the European Orienteering Championships got their first real taste of the continental terrain in central Hungary on Friday morning, when the Middle distance qualification took place. Divided into three heats for each gender, the task was clear: A top 20 position in the massive Hungarian August heat earned […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
