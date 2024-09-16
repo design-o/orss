@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T18:10:47.404Z</updated>
+    <updated>2024-09-16T00:41:04.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event |  2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></title>
+        <id>https://neooc.com/?p=47813</id>
+        <link href="https://neooc.com/new-event-2024-medina-cross-country-allardale-county-park-sunday-october-6th/"/>
+        <updated>2024-09-15T20:44:12.000Z</updated>
+        <summary type="html"><![CDATA[2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Results | 2024 Annual Club Meeting | Score Course & Food | Saturday, Sept 14th]]></title>
+        <id>https://neooc.com/?p=47805</id>
+        <link href="https://neooc.com/results-2024-annual-club-meeting-score-course-food-saturday-sept-14th/"/>
+        <updated>2024-09-15T18:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Todd Pownell, Team Tengesdal, Team Redinger, and Randy Mitchell, who cleared the entire course (16 controls = 400 pts) in under 1 hour. Emily Kullman came close with 360 pts at 5th place.  Newcomer Libby Neubert scored an impressive 6th place in the competition.  And Team Even (Gil with his two young boys) […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[London City Race 2024 – Results]]></title>
         <id>https://slow.org.uk/?p=22295</id>
