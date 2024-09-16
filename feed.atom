@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-16T06:12:39.417Z</updated>
+    <updated>2024-09-16T12:16:04.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 MTBO World Cup: Splittorff and Haga take top places; Team World Cup to Finland]]></title>
+        <id>https://orienteering.sport/?p=73999</id>
+        <link href="https://orienteering.sport/cx80-mtbo-world-cup-splittorff-and-haga-take-top-places-team-world-cup-to-finland/"/>
+        <updated>2024-09-16T08:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Dane Nikoline Splittorff finished strongly with a 60-point lead in the women’s World Cup, and Finnish rider André Haga ended 52 points ahead in the men’s, thanks largely to a good first half of the season. This is Splittorff’s third overall victory in successive years; Haga was fifth last year and seventh in 2022. Through […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event |  2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></title>
         <id>https://neooc.com/?p=47813</id>
@@ -378,6 +388,17 @@ CMOC Annual Youth Academy fundraiser rogaine first appeared on Orienteering New 
         <updated>2024-08-31T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[View online at: http://eepurl.com/iX6LW-/ M e m b e r   n e w s   &   v i e w s   |   A U G U S T   2 0 2 4Submissions welcome by the 20th each month Jan to Nov news. Email ideas here Banner photo from WUOC by EvalinMae Photography U p d a t eNotes from the GMView from the […]
 Compass Point – August 2024 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NZ MTBO champs 2025   |  1&2 February | Otago]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60317</id>
+        <link href="https://www.orienteering.org.nz/news/nz-mtbo-champs-2025-february-otago/"/>
+        <updated>2024-08-31T09:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Bring your bike and allow time arrive in the South Island way before Nationals because the MTBO nationals is planned for the first weekend in February 2o25. The format will roughly be:  Alexandra for the middle, the sprint on Saturday, at Naseby for long on Sunday and a Rogaine on Monday. 
+NZ MTBO champs 2025   |  1&2 February | Otago first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
         </author>

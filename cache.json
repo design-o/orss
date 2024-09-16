@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=73999",
+          "author": "Clive",
+          "description": "Dane Nikoline Splittorff finished strongly with a 60-point lead in the women’s World Cup, and Finnish rider André Haga ended 52 points ahead in the men’s, thanks largely to a good first half of the season. This is Splittorff’s third overall victory in successive years; Haga was fifth last year and seventh in 2022. Through […]",
+          "link": "https://orienteering.sport/cx80-mtbo-world-cup-splittorff-and-haga-take-top-places-team-world-cup-to-finland/",
+          "publishedOn": "2024-09-16T08:06:16.000Z",
+          "wordCount": 2108,
+          "title": "CX80 MTBO World Cup: Splittorff and Haga take top places; Team World Cup to Finland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_wmtboc_m_massstart_kirilpana-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=73980",
           "author": "Clive",
           "description": "Denmark dominated the women’s race throughout, winning by almost 5 minutes, whilst Czechia’s men retained their title from 2023 with victory by just 16 seconds in dull and damp conditions near Shumen, Bulgaria today. Cæcilie Christoffersen started strongly for Denmark in the women’s race and was 1.28 in the lead at the first changeover. At […]",
@@ -399,6 +409,16 @@
           "wordCount": 3739,
           "title": "Compass Point – August 2024",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60317",
+          "author": "Christo Peters",
+          "description": "Bring your bike and allow time arrive in the South Island way before Nationals because the MTBO nationals is planned for the first weekend in February 2o25. The format will roughly be:  Alexandra for the middle, the sprint on Saturday, at Naseby for long on Sunday and a Rogaine on Monday. \nNZ MTBO champs 2025   |  1&2 February | Otago first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nz-mtbo-champs-2025-february-otago/",
+          "publishedOn": "2024-08-31T09:58:20.000Z",
+          "wordCount": 2055,
+          "title": "NZ MTBO champs 2025   |  1&2 February | Otago",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/08/9973f97b-88c8-f5a4-7266-84b19381aa35.jpg"
         },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60317",
