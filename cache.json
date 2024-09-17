@@ -124,16 +124,6 @@
           "wordCount": 1876,
           "title": "WOC 2028 in Spain, WTMBOC 2026 to Sweden and EOC 2026 in Lithuania",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=73239",
-          "author": "Erling Thisted",
-          "description": "Two of orienteering’s biggest names, Tove Alexandersson (SWE) and Kasper Fosser (NOR) convincingly won the long distance at the European Championships in Hungary. After Saturday’s tough Middle final, it was time to saddle up again on Sunday morning and re-visit the steep slopes and many rock details for the Long distance. The same arena was […]",
-          "link": "https://orienteering.sport/eoc-clear-long-distance-wins-for-alexandersson-and-fosser/",
-          "publishedOn": "2024-08-18T16:50:59.000Z",
-          "wordCount": 2313,
-          "title": "EOC: Clear long distance wins for Alexandersson and Fosser",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024_eoc_m_long_kasperfosser_williamholllowell-1024x683.jpg"
         }
       ]
     },
@@ -187,6 +177,16 @@
           "publishedOn": "2024-09-10T05:48:14.000Z",
           "wordCount": 1074,
           "title": "Victorian Long Distance Champs – Entries close 13 September",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2024-09-05T02:41:54.000Z",
+          "wordCount": 1061,
+          "title": "Park Street Update: Events September 11-16",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -247,16 +247,6 @@
           "publishedOn": "2024-08-21T07:16:57.000Z",
           "wordCount": 1033,
           "title": "Vic Series at Chewton Diggings on Sunday 25 August",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13830",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/paid-position-available-summer-shorts-and-sprints-coordinator/",
-          "publishedOn": "2024-08-18T17:53:50.000Z",
-          "wordCount": 1026,
-          "title": "Paid Position Available – Summer Shorts and Sprints Coordinator",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -330,6 +320,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60399",
+          "author": "Joolz",
+          "description": "Everyone intending to enter Nationals 2025 needs to be aware of the embargoes in place for the event. Embargoes are areas that are out of bounds to competitors prior to the events, and cover the areas used in the competition. This prevents unfair prior knowledge being gained about the terrain and map features, and helps […]\n2025 Nationals embargo effective first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2025-nationals-embargo-effective/",
+          "publishedOn": "2024-09-17T06:03:39.000Z",
+          "wordCount": 2016,
+          "title": "2025 Nationals embargo effective",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2015/04/logo-ONZ-compass-square.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=60338",
           "author": "Christo Peters",
