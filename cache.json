@@ -141,16 +141,6 @@
           "wordCount": 2496,
           "title": "EOC 2024 Relay: Analysis, Maps and Results",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/08/map_eoc_relay2024-660x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20299",
-          "author": "Jan Kocbach",
-          "description": "The big favourites Kasper Fosser (Norway) and Tove Alexandersson (Sweden) took clear victories at the European Orienteering Championships (EOC) Long distance in Hungary – both with a margin of around 4 minutes to their closest competitors. In the men’s class Daniel Hubmann (Switzerland) took an impressive silver medal – 18 years after he took his ...",
-          "link": "https://news.worldofo.com/2024/08/19/eoc-2024-long-analysis-maps-and-results/",
-          "publishedOn": "2024-08-19T03:00:23.000Z",
-          "wordCount": 2950,
-          "title": "EOC 2024 Long: Analysis, Maps and Results",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/08/map_men_long_EOC_4000-660x330.jpg"
         }
       ]
     },
@@ -605,6 +595,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54371",
+          "author": "louise",
+          "description": "The Young People’s Sport Panel has applications open for its seventh cohort of members. If you’re aged 14-23, living in […]",
+          "link": "https://www.scottish-orienteering.org/news/the-young-peoples-sport-panel-is-now-recruiting/?utm_source=rss&utm_medium=rss&utm_campaign=the-young-peoples-sport-panel-is-now-recruiting",
+          "publishedOn": "2024-09-17T15:11:12.000Z",
+          "wordCount": 1564,
+          "title": "The Young People’s Sport Panel is now recruiting!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/ypspfacebook2024-1-1024x450.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54362",
           "author": "suzannerb",
           "description": "After the success of the last in person Coach CPD day at Kinnoull Hill the resolution was that we definitely […]",
@@ -836,16 +836,6 @@
           "publishedOn": "2024-08-22T18:44:18.000Z",
           "wordCount": 2562,
           "title": "World Cup 3 Results & Recap",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=11831",
-          "author": "elizabethl",
-          "description": "Members with a registered Bigpond email address in Eventor were not receiving emails from Eventor from at least 29th July to 14th August 2024. The issue has now been resolved.\nEventor Update for Bigpond Email Addresses first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/eventor-update-for-bigpond-email-addresses/",
-          "publishedOn": "2024-08-19T04:59:09.000Z",
-          "wordCount": 2097,
-          "title": "Eventor Update for Bigpond Email Addresses",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

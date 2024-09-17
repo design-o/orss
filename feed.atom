@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T12:14:41.490Z</updated>
+    <updated>2024-09-17T18:11:10.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Young People’s Sport Panel is now recruiting!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54371</id>
+        <link href="https://www.scottish-orienteering.org/news/the-young-peoples-sport-panel-is-now-recruiting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-young-peoples-sport-panel-is-now-recruiting"/>
+        <updated>2024-09-17T15:11:12.000Z</updated>
+        <summary type="html"><![CDATA[The Young People’s Sport Panel has applications open for its seventh cohort of members. If you’re aged 14-23, living in […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries Open for the NI Champs]]></title>
         <id>https://www.niorienteering.org.uk/?p=5932</id>
@@ -802,27 +812,6 @@ The post NI Colour Series at Moydamlaght – Saturday 31 August appeared first o
         <summary type="html"><![CDATA[A number of future international championships found their home, when the IOF Council met during World Orienteering Championships in Edinburgh in July. Here, the Council appointed Spain as the host of WOC 2028, which is a Sprint WOC. The 2028 World Orienteering Championship is set to take place in Girona, located in the north-eastern corner […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eventor Update for Bigpond Email Addresses]]></title>
-        <id>https://orienteering.asn.au/?p=11831</id>
-        <link href="https://orienteering.asn.au/eventor-update-for-bigpond-email-addresses/"/>
-        <updated>2024-08-19T04:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Members with a registered Bigpond email address in Eventor were not receiving emails from Eventor from at least 29th July to 14th August 2024. The issue has now been resolved.
-Eventor Update for Bigpond Email Addresses first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2024 Long: Analysis, Maps and Results]]></title>
-        <id>http://news.worldofo.com/?p=20299</id>
-        <link href="https://news.worldofo.com/2024/08/19/eoc-2024-long-analysis-maps-and-results/"/>
-        <updated>2024-08-19T03:00:23.000Z</updated>
-        <summary type="html"><![CDATA[The big favourites Kasper Fosser (Norway) and Tove Alexandersson (Sweden) took clear victories at the European Orienteering Championships (EOC) Long distance in Hungary – both with a margin of around 4 minutes to their closest competitors. In the men’s class Daniel Hubmann (Switzerland) took an impressive silver medal – 18 years after he took his ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
