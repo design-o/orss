@@ -111,18 +111,7 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": [
-        {
-          "id": "http://news.worldofo.com/?p=20337",
-          "author": "Jan Kocbach",
-          "description": "Norway’s men and Switzerland’s women won the European Orienteering Championships (EOC) relay in Hungary. Silver and bronze went to Sweden and Switzerland in the men’s class, while Norway and Sweden took the remaining medals in the women’s class. After very technical orienteering on the middle distance and tricky routechoices on the long distance, the relay was ...",
-          "link": "https://news.worldofo.com/2024/08/21/eoc-2024-relay-analysis-maps-and-results/",
-          "publishedOn": "2024-08-21T03:00:34.000Z",
-          "wordCount": 2496,
-          "title": "EOC 2024 Relay: Analysis, Maps and Results",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/08/map_eoc_relay2024-660x330.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News | Orienteering Victoria",
@@ -574,6 +563,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54401",
+          "author": "heidi",
+          "description": "The Junior Interarea weekend will take place on the 26/27th October. This is a weekend of interarea competition between the […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-interareas-2024/?utm_source=rss&utm_medium=rss&utm_campaign=junior-interareas-2024",
+          "publishedOn": "2024-09-19T15:37:05.000Z",
+          "wordCount": 1567,
+          "title": "Junior Interareas 2024",
+          "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRzaLA6fBD0zwYo3OS9E8YjnNNRYwfeL-r1lPBO2UjIoqvtU_AjtZgoNgXFts2gBa7ndgwc7Fb_Dgv1S369DQey1i9AbzvgXw4oof_WdxHS6iJg5qStg_snA4tKWcbCK6eVr0_fxXOkaSkWnlLlNP2H049?key=xPuDB1EbxS3B3VxoJM0-Fw"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54391",
           "author": "suzannerb",
