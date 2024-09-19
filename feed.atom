@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T18:10:27.602Z</updated>
+    <updated>2024-09-19T00:38:52.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nominations – Aus/NZ Challenge at Oceania 2025]]></title>
+        <id>https://orienteering.asn.au/?p=12074</id>
+        <link href="https://orienteering.asn.au/nominations-aus-nz-challenge-at-oceania-2025/"/>
+        <updated>2024-09-19T00:35:44.000Z</updated>
+        <summary type="html"><![CDATA[OA is calling for nominations from eligible Australian orienteers who would like to take part in the next Aus/NZ Challenge, to be held in conjunction with the Oceania Championships in New Zealand from 24-27 January, 2025. The Challenge consists of a sprint, middle, long and relay. However, you are still eligible to nominate for the team if […]
+Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>arpadk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organiser workshops]]></title>
         <id>https://www.scottish-orienteering.org/?p=54391</id>
