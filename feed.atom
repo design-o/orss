@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T00:38:48.508Z</updated>
+    <updated>2024-09-20T06:11:57.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -751,16 +751,6 @@ World Cup 3 Results & Recap first appeared on Orienteering Australia.]]></summar
 Vic MTBO Sprint and Long Champs Weekend, Whroo, August 31 and September 1 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Fosser takes over lead after EOC, Aebersold remains on top]]></title>
-        <id>https://orienteering.sport/?p=73548</id>
-        <link href="https://orienteering.sport/world-cup-fosser-takes-over-lead-after-eoc-aebersold-remains-on-top/"/>
-        <updated>2024-08-21T15:34:40.000Z</updated>
-        <summary type="html"><![CDATA[The just ended European Championships in Hungary didn’t just give us three exciting and tough races. We also found out who has the best chances to win the 2024 Orienteering World Cup, which will be decided in Finland at the World Cup final in September. In the men’s category, Kasper Fosser (NOR) took a big […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
