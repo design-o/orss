@@ -487,6 +487,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=47855",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 26th",
+          "link": "https://neooc.com/new-event-the-amaizeing-night-o-near-peninsula-ohio-saturday-october-26th/",
+          "publishedOn": "2024-09-22T17:28:14.000Z",
+          "wordCount": 1324,
+          "title": "New Event | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 26th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2022/10/Corn-Maze.png"
+        },
+        {
           "id": "https://neooc.com/?p=47813",
           "author": "Northeast Ohio Orienteering Club",
           "description": "2024 Medina Cross Country | Allardale County Park | Sunday, October 6th",
