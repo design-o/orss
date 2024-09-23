@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T06:12:31.262Z</updated>
+    <updated>2024-09-23T12:15:57.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -748,17 +748,6 @@ Victorian Middle & Long Championships – Enter Now first appeared on Orienteeri
         <summary type="html"><![CDATA[Results Splits Browser More results resources coming soon…]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Miss Out on Moydamlaght]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5838</id>
-        <link href="https://www.niorienteering.org.uk/dont-miss-out-on-moydamlaght/"/>
-        <updated>2024-08-24T19:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Entries for the NI Colour Series at Moydamlaght Forest on Saturday 31 August close at 22.30 on Monday 26 August. North West Orienteering Club host the 5th event of the series at Moydamlaght Forest near Maghera on excellent remapped terrain. With the NI Champs coming...
-The post Don’t Miss Out on Moydamlaght appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
