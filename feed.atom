@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T06:12:36.328Z</updated>
+    <updated>2024-09-24T12:16:13.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to follow the World Cup Final in Finland]]></title>
+        <id>https://orienteering.sport/?p=74098</id>
+        <link href="https://orienteering.sport/how-to-follow-the-world-cup-final-in-finland/"/>
+        <updated>2024-09-24T08:14:49.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 international orienteering season will go off with a bang, when the World Cup Final is held in Finland from Thursday to Sunday this week. Whether you follow from the arena north of Kuopio or from home, you should be in good hands getting close to the action in the forest. IOF TV offers […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering World Cup Final – 26-29 September – Kuopio, Finland]]></title>
         <id>https://orienteering.asn.au/?p=12121</id>
