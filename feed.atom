@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T00:40:17.000Z</updated>
+    <updated>2024-09-24T06:12:36.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering World Cup Final – 26-29 September – Kuopio, Finland]]></title>
+        <id>https://orienteering.asn.au/?p=12121</id>
+        <link href="https://orienteering.asn.au/orienteering-world-cup-final-26-29-september-kuopio-finland/"/>
+        <updated>2024-09-24T00:40:40.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Orienteering World Cup Final / Round 4 in Kuopio, Finland begins on Thursday. Follow all the live services on the IOF homepage.
+Orienteering World Cup Final – 26-29 September – Kuopio, Finland first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>arpadk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Andrine Benjaminsen on the World Cup Final and Norway’s medal rush at EOC]]></title>
         <id>https://orienteering.sport/?p=74091</id>
