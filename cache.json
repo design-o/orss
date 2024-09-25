@@ -595,6 +595,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54457",
+          "author": "louise",
+          "description": "Last Saturday, SOA organised an Introduction to Orienteering course with the British Deaf Association Scotland. Held in Alexandra Park in […]",
+          "link": "https://www.scottish-orienteering.org/news/successful-introduction-to-orienteering-for-the-deaf-community/?utm_source=rss&utm_medium=rss&utm_campaign=successful-introduction-to-orienteering-for-the-deaf-community",
+          "publishedOn": "2024-09-25T16:02:01.000Z",
+          "wordCount": 1749,
+          "title": "Successful Introduction to Orienteering for the Deaf Community",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/20240921_114921-768x1024.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54410",
           "author": "suzannerb",
           "description": "Juniors – are you a keen orienteer who would like to start getting involved in volunteering?  Club volunteer coordinators – […]",
@@ -711,6 +721,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5945",
+          "author": "NIOA Secretary",
+          "description": "The Northern Ireland junior sqaud are off to the Junior Inter Regional Championships “JIRCs” this weekend 27-29 September, hosted by SWOA. The events will be held on on Mallard Pike and Mendip near Bristol. Travelling are: M18 Peter Gamble, W18 Anastasia Maglich and Emma Graham....\nThe post NI Team off to the JIRCs appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/ni-team-off-to-the-jircs/",
+          "publishedOn": "2024-09-25T14:42:04.000Z",
+          "wordCount": 4361,
+          "title": "NI Team off to the JIRCs",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2022/09/NI-Team-with-coach-Steph-Pruzina.jpg?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5937",
           "author": "NIOA Secretary",

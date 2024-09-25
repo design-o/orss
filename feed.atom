@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T12:15:30.046Z</updated>
+    <updated>2024-09-25T18:11:09.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Successful Introduction to Orienteering for the Deaf Community]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54457</id>
+        <link href="https://www.scottish-orienteering.org/news/successful-introduction-to-orienteering-for-the-deaf-community/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=successful-introduction-to-orienteering-for-the-deaf-community"/>
+        <updated>2024-09-25T16:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Last Saturday, SOA organised an Introduction to Orienteering course with the British Deaf Association Scotland. Held in Alexandra Park in […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NI Team off to the JIRCs]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5945</id>
+        <link href="https://www.niorienteering.org.uk/ni-team-off-to-the-jircs/"/>
+        <updated>2024-09-25T14:42:04.000Z</updated>
+        <summary type="html"><![CDATA[The Northern Ireland junior sqaud are off to the Junior Inter Regional Championships “JIRCs” this weekend 27-29 September, hosted by SWOA. The events will be held on on Mallard Pike and Mendip near Bristol. Travelling are: M18 Peter Gamble, W18 Anastasia Maglich and Emma Graham....
+The post NI Team off to the JIRCs appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vale Bob Allison]]></title>
         <id>https://orienteering.asn.au/?p=12149</id>
