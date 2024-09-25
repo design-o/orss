@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T00:40:26.380Z</updated>
+    <updated>2024-09-25T06:12:07.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Final 2024: All You Need To Know]]></title>
+        <id>http://news.worldofo.com/?p=20351</id>
+        <link href="https://news.worldofo.com/2024/09/25/world-cup-final-2024-all-you-need-to-know/"/>
+        <updated>2024-09-25T03:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Starting with a long distance race on Thursday – and continuing with a middle distance on Saturday and a relay on Sunday – the World’s best orienteers will gather in Kuopio, Finland to compete for the final time on the international scene this season. The terrain looks amazing as always in this region of Finland, and ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to follow the World Cup Final in Finland]]></title>
         <id>https://orienteering.sport/?p=74098</id>
