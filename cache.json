@@ -789,6 +789,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=12149",
+          "author": "michaeldowling",
+          "description": "Australian orienteering has lost one of its most accomplished and popular participants with the passing of Bob Allison on 21 September, following a long illness.\nVale Bob Allison first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/vale-bob-allison/",
+          "publishedOn": "2024-09-25T10:12:38.000Z",
+          "wordCount": 2376,
+          "title": "Vale Bob Allison",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=12121",
           "author": "arpadk",
           "description": "The 2024 Orienteering World Cup Final / Round 4 in Kuopio, Finland begins on Thursday. Follow all the live services on the IOF homepage.\nOrienteering World Cup Final – 26-29 September – Kuopio, Finland first appeared on Orienteering Australia.",
