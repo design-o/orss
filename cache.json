@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=74171",
+          "author": "Clive",
+          "description": "Tove Alexandersson, Sweden and Miika Kirmula, Finland were the stars of the Long Distance race today, held at the same venue as next year’s World Orienteering Championships – Kuopio, Finland. The women’s race winner provided yet another master-class, with a lead at the finish 4.05 over current World Cup leader Simona Aebersold SUI. Hanna Lundberg […]",
+          "link": "https://orienteering.sport/world-cup-final-long-race-tove-alexandersson-on-top-form/",
+          "publishedOn": "2024-09-26T14:28:54.000Z",
+          "wordCount": 2347,
+          "title": "World Cup Final, Long race: Tove Alexandersson on top form",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/tove-a-cameraman-26-9-24-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=74098",
           "author": "Erling Thisted",
           "description": "The 2024 international orienteering season will go off with a bang, when the World Cup Final is held in Finland from Thursday to Sunday this week. Whether you follow from the arena north of Kuopio or from home, you should be in good hands getting close to the action in the forest. IOF TV offers […]",
@@ -217,16 +227,6 @@
           "publishedOn": "2024-08-28T10:35:10.000Z",
           "wordCount": 974,
           "title": "Bush Orienteering in Bendigo During September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13850",
-          "author": "Margi Freemantle",
-          "description": "The Victorian Middle and Long Distance Championships are nearly here! Don't miss out. Enter now.\nVictorian Middle & Long Championships – Enter Now first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/victorian-middle-long-championships-enter-now/",
-          "publishedOn": "2024-08-28T04:27:54.000Z",
-          "wordCount": 1008,
-          "title": "Victorian Middle & Long Championships – Enter Now",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -731,6 +731,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5972",
+          "author": "NIOA Secretary",
+          "description": "Don’t miss out on the best event of the year – The 2025 Northern Ireland Long Distance Chamionships, taking place at Gortin Glen Forest on Sat 5 October. Entries close at 23:00 Saturday 28 September so be sure to make your entry on SI Entries...\nThe post Get Your NIOC Entry In appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/get-your-nioc-entry-in/",
+          "publishedOn": "2024-09-26T16:54:55.000Z",
+          "wordCount": 4374,
+          "title": "Get Your NIOC Entry In",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2024/09/NI-Champs-2024.png?fit=940%2C788&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5945",
           "author": "NIOA Secretary",
