@@ -311,6 +311,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60424",
+          "author": "Joolz",
+          "description": "Congratulations to those selected for the Pinestars team.  The NZ team for the 4 AUS / NZ Test Match races at Australian Champs include this weekend’s Relay and Middle distance events, and then the following weekend with the Long distance and the Sprint distance.\n2024 NZ Pinestar team first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2024-nz-pinestar-team/",
+          "publishedOn": "2024-09-26T09:38:58.000Z",
+          "wordCount": 2146,
+          "title": "2024 NZ Pinestar team",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/09/RECT-Bushrangers-and-Pinestars-logo-in-900px.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60399",
           "author": "Joolz",
           "description": "Everyone intending to enter Nationals 2025 needs to be aware of the embargoes in place for the event. Embargoes are areas that are out of bounds to competitors prior to the events, and cover the areas used in the competition. This prevents unfair prior knowledge being gained about the terrain and map features, and helps […]\n2025 Nationals embargo effective first appeared on Orienteering New Zealand.",
