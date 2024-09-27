@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T12:15:19.814Z</updated>
+    <updated>2024-09-27T18:10:59.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Orienteering Championships 2024 Preview]]></title>
+        <id>https://orienteering.asn.au/?p=12156</id>
+        <link href="https://orienteering.asn.au/australian-orienteering-championships-2024-preview/"/>
+        <updated>2024-09-27T17:21:29.000Z</updated>
+        <summary type="html"><![CDATA[This year's Australian Orienteering Championships will take place from 28 September - 6 October in and around Armidale and Uralla.
+Australian Orienteering Championships 2024 Preview first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get Your NIOC Entry In]]></title>
         <id>https://www.niorienteering.org.uk/?p=5972</id>
