@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T18:10:23.182Z</updated>
+    <updated>2024-09-27T00:40:25.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -806,6 +806,17 @@ Should NZ host JWOC? | ONZ is looking for someone to produce a business case pro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorian Middle & Long Championships – Enter Now]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13850</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-middle-long-championships-enter-now/"/>
+        <updated>2024-08-31T04:27:54.000Z</updated>
+        <summary type="html"><![CDATA[The Victorian Middle and Long Distance Championships are nearly here! Don't miss out. Enter now.
+Victorian Middle & Long Championships – Enter Now first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peckham Street-O, Tuesday 8 October]]></title>
         <id>https://slow.org.uk/?p=22263</id>
         <link href="https://slow.org.uk/streeto/peckham-street-o-24/"/>
@@ -843,17 +854,6 @@ Should NZ host JWOC? | ONZ is looking for someone to produce a business case pro
 The post Notice of a EGM of NI Orienteering appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bush Orienteering in Bendigo During September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13788</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/"/>
-        <updated>2024-08-28T10:35:10.000Z</updated>
-        <summary type="html"><![CDATA[Check out these three fantastic Bendigo Bush events coming up in September!
-Bush Orienteering in Bendigo During September first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
