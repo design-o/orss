@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T06:10:42.862Z</updated>
+    <updated>2024-09-29T12:14:51.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -877,26 +877,6 @@ Should NZ host JWOC? | ONZ is looking for someone to produce a business case pro
 Victorian Middle & Long Championships – Enter Now first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peckham Street-O, Tuesday 8 October]]></title>
-        <id>https://slow.org.uk/?p=22263</id>
-        <link href="https://slow.org.uk/streeto/peckham-street-o-24/"/>
-        <updated>2024-08-30T22:04:02.000Z</updated>
-        <summary type="html"><![CDATA[The 2024-25 Street-O series kicks off in bustling Peckham. The format is a 1 hour time limit to find as many checkpoints as you can. [...]]]></summary>
-        <author>
-            <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Street-O Series 2024-25]]></title>
-        <id>https://slow.org.uk/?p=22260</id>
-        <link href="https://slow.org.uk/streeto/series2425/"/>
-        <updated>2024-08-30T22:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
