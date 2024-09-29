@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T00:45:00.796Z</updated>
+    <updated>2024-09-29T06:10:42.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Bushrangers Team Announced]]></title>
+        <id>https://orienteering.asn.au/?p=12163</id>
+        <link href="https://orienteering.asn.au/australian-bushrangers-team-announced/"/>
+        <updated>2024-09-29T02:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Australian Bushrangers team athletes have been chosen for the AUS vs. NZ Test Match Championships.
+Australian Bushrangers Team Announced first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup victories for Aebersold and Fosser – but neither won their Middle race]]></title>
         <id>https://orienteering.sport/?p=74426</id>
@@ -886,15 +897,6 @@ Victorian Middle & Long Championships – Enter Now first appeared on Orienteeri
         <summary type="html"><![CDATA[Hello and welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BK Come and Try 2, Newport Lakes, Saturday 7 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13859</id>
-        <link href="https://www.vicorienteering.asn.au/bk-come-and-try-2-newport-lakes-saturday-7-september/"/>
-        <updated>2024-08-30T15:46:27.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

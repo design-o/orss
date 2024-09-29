@@ -258,16 +258,6 @@
           "wordCount": 1042,
           "title": "Victorian Middle & Long Championships – Enter Now",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13859",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/bk-come-and-try-2-newport-lakes-saturday-7-september/",
-          "publishedOn": "2024-08-30T15:46:27.000Z",
-          "wordCount": 958,
-          "title": "BK Come and Try 2, Newport Lakes, Saturday 7 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -858,6 +848,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12163",
+          "author": "elizabethl",
+          "description": "Australian Bushrangers team athletes have been chosen for the AUS vs. NZ Test Match Championships.\nAustralian Bushrangers Team Announced first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/australian-bushrangers-team-announced/",
+          "publishedOn": "2024-09-29T02:00:37.000Z",
+          "wordCount": 2210,
+          "title": "Australian Bushrangers Team Announced",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12156",
           "author": "elizabethl",
