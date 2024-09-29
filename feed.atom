@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T12:14:51.185Z</updated>
+    <updated>2024-09-29T18:09:54.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sweden takes the Team World Cup title after thrilling relay wins]]></title>
+        <id>https://orienteering.sport/?p=74509</id>
+        <link href="https://orienteering.sport/sweden-takes-the-team-world-cup-title-after-thrilling-relay-wins/"/>
+        <updated>2024-09-29T16:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Nothing was decided in the overall Orienteering Team World Cup before Sunday’s relays north of Kuopio in Finland, where this year’s World Cup Final took place. Before the start of the men’s relay, Switzerland led the overall standings – 13 points ahead of Norway and a 51-point lead over the defending champions from Sweden. And […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian Bushrangers Team Announced]]></title>
         <id>https://orienteering.asn.au/?p=12163</id>
@@ -866,17 +876,6 @@ Online club forum |  Tuesday 22 October first appeared on Orienteering New Zea
 Should NZ host JWOC? | ONZ is looking for someone to produce a business case proposal  first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Middle & Long Championships – Enter Now]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13850</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-middle-long-championships-enter-now/"/>
-        <updated>2024-08-31T04:27:54.000Z</updated>
-        <summary type="html"><![CDATA[The Victorian Middle and Long Distance Championships are nearly here! Don't miss out. Enter now.
-Victorian Middle & Long Championships – Enter Now first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
