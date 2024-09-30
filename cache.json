@@ -425,6 +425,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54473",
+          "author": "suzannerb",
+          "description": "Clubs are always looking for more volunteers to take on event official roles and help spread the load. Would you […]",
+          "link": "https://www.scottish-orienteering.org/news/event-officials-courses/?utm_source=rss&utm_medium=rss&utm_campaign=event-officials-courses",
+          "publishedOn": "2024-09-30T12:38:38.000Z",
+          "wordCount": 1829,
+          "title": "Event officials courses",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/Junior-planners-TD2-1.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54457",
           "author": "louise",
           "description": "Last Saturday, SOA organised an Introduction to Orienteering course with the British Deaf Association Scotland. Held in Alexandra Park in […]",
@@ -541,6 +551,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5978",
+          "author": "NIOA Secretary",
+          "description": "Steph Pruzina, NIOA Junior Team Manager reports on the Junior Inter-Regional Championships… This year, a small NIOA squad set off for the Junior Inter-Regional Championships hosted in the Bristol area by NGOC and BOK. Between them Euan Kennedy and Emma Graham hatched a plan to...\nThe post NI Junior Team back from JIRCs appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/ni-junior-team-back-from-jircs/",
+          "publishedOn": "2024-09-30T16:31:42.000Z",
+          "wordCount": 4767,
+          "title": "NI Junior Team back from JIRCs",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/09/JIRCS2024-A.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5972",
           "author": "NIOA Secretary",
