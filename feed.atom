@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T00:41:53.054Z</updated>
+    <updated>2024-09-30T06:12:55.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -646,16 +646,6 @@ The post The Leaves are Falling – and so is Membership Prices appeared first o
 The post The Sunny Sperrins appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why be a Controller?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54276</id>
-        <link href="https://www.scottish-orienteering.org/news/why-be-a-controller/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=why-be-a-controller"/>
-        <updated>2024-08-31T16:19:37.000Z</updated>
-        <summary type="html"><![CDATA[With another Grade C controllers course taking place in the Aviemore Area on 15th September, we thought it would be […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
