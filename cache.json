@@ -163,6 +163,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20363",
+          "author": "Jan Kocbach",
+          "description": "Tove Alexandersson (Sweden) won both the long distance, the middle distance and anchored Sweden to victory on the women’s relay in this weekend’s World Cup final in Kuopio, Finland. In the men’s class Miika Kirmula (Finland) won the long distance, Eirik Langedal Breivik (Norway) the middle distance and Sweden won the relay. In the Long ...",
+          "link": "https://news.worldofo.com/2024/09/30/world-cup-final-2024-maps-results-race-development-graphs/",
+          "publishedOn": "2024-09-30T07:35:41.000Z",
+          "wordCount": 4255,
+          "title": "World Cup Final 2024: Maps, Results and Splits Analysis",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/09/map_men-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20351",
           "author": "Jan Kocbach",
           "description": "Starting with a long distance race on Thursday – and continuing with a middle distance on Saturday and a relay on Sunday – the World’s best orienteers will gather in Kuopio, Finland to compete for the final time on the international scene this season. The terrain looks amazing as always in this region of Finland, and ...",
@@ -600,16 +610,6 @@
           "wordCount": 4423,
           "title": "The Leaves are Falling – and so is Membership Prices",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/09/Sep-membership.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=5873",
-          "author": "NIOA Secretary",
-          "description": "The last day of summer was celebrated in style with a super sunny Sperrin outing to Moydamlaght Forest for the 5th race in the 2024 NI Colour Series. With a brand new map produced by Steven Linton with LiDAR data, certainly also produced challenging courses...\nThe post The Sunny Sperrins appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/the-sunny-sperrins/",
-          "publishedOn": "2024-08-31T21:55:23.000Z",
-          "wordCount": 4395,
-          "title": "The Sunny Sperrins",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/08/Moydamlaght-above-the-Trees-1024x820-1.jpg"
         }
       ]
     },
