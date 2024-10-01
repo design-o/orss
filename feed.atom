@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T06:12:44.306Z</updated>
+    <updated>2024-10-01T12:15:59.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -655,17 +655,6 @@ The post Oh I Do Like to be Beside the Seaside appeared first on NI Orienteering
         <summary type="html"><![CDATA[2024 marks the 11th  edition for the FallsQuest, our version of an urban ROGAINE.  54 participants (23 on Bicycle and 31 on Foot) searched Cuyahoga Falls for unique, strange, quirky and sometimes just plain weird objects around Cuyahoga Falls & Silver Lake, Ohio.  Favorites included a giant dog skeleton, a large metal rooster and a […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Leaves are Falling – and so is Membership Prices]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5879</id>
-        <link href="https://www.niorienteering.org.uk/the-leaves-are-falling-and-so-is-membership-prices/"/>
-        <updated>2024-09-01T22:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Now that the summer has gone and the leaves are beginning to fall, the membership fees are reduced making joining for the last 4 months of the year exceptionally affordable. The “package deal” which includes Club, NI Orienteering and British Orienteering are: Senior £10 Young...
-The post The Leaves are Falling – and so is Membership Prices appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
