@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T18:11:20.726Z</updated>
+    <updated>2024-10-02T00:40:09.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -634,17 +634,6 @@ MelBushO, Tikalara, Sunday 8 September first appeared on Orienteering Victoria.]
 Bush Orienteering in Bendigo During September first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh I Do Like to be Beside the Seaside]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5894</id>
-        <link href="https://www.niorienteering.org.uk/oh-i-do-like-to-be-beside-the-seaside/"/>
-        <updated>2024-09-02T10:48:19.000Z</updated>
-        <summary type="html"><![CDATA[We are off to the seaside for the 4th NI Urban League event at Portrush on Saturday 14 September, hosted by North West Orienteering Club. All the details are on the Event page on the NWOC website. Note the request to “Book a Map” and...
-The post Oh I Do Like to be Beside the Seaside appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
