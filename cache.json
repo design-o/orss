@@ -268,16 +268,6 @@
           "wordCount": 1023,
           "title": "Paid Position Available – Summer Shorts and Sprints Coordinator",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13788",
-          "author": "Margi Freemantle",
-          "description": "Check out these three fantastic Bendigo Bush events coming up in September!\nBush Orienteering in Bendigo During September first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/",
-          "publishedOn": "2024-09-03T10:35:10.000Z",
-          "wordCount": 1010,
-          "title": "Bush Orienteering in Bendigo During September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -781,6 +771,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5987",
+          "author": "NIOA Secretary",
+          "description": "A trip to the seaside is usually relaxing, but after an energetic rush around the Portrush peninsula, a rest was required before getting the results pulled together. But now the results are posted at Fixtures & Results>2024 Results including RouteGadget along with the updated standings...\nThe post Portrush Results appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/portrush-results/",
+          "publishedOn": "2024-10-02T20:22:24.000Z",
+          "wordCount": 4308,
+          "title": "Portrush Results",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/09/Portrush-Location.png"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5978",
           "author": "NIOA Secretary",

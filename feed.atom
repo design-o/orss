@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T18:11:43.986Z</updated>
+    <updated>2024-10-03T00:40:17.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Portrush Results]]></title>
+        <id>https://www.niorienteering.org.uk/?p=5987</id>
+        <link href="https://www.niorienteering.org.uk/portrush-results/"/>
+        <updated>2024-10-02T20:22:24.000Z</updated>
+        <summary type="html"><![CDATA[A trip to the seaside is usually relaxing, but after an energetic rush around the Portrush peninsula, a rest was required before getting the results pulled together. But now the results are posted at Fixtures & Results>2024 Results including RouteGadget along with the updated standings...
+The post Portrush Results appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clubs sharing best practice over tea and cake]]></title>
         <id>https://www.scottish-orienteering.org/?p=54486</id>
@@ -885,17 +896,6 @@ MelBushO, Tikalara, Sunday 8 September first appeared on Orienteering Victoria.]
         <updated>2024-09-03T17:53:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bush Orienteering in Bendigo During September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13788</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-classics-creswick-diggings-sat-13-july/"/>
-        <updated>2024-09-03T10:35:10.000Z</updated>
-        <summary type="html"><![CDATA[Check out these three fantastic Bendigo Bush events coming up in September!
-Bush Orienteering in Bendigo During September first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
