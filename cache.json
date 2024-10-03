@@ -268,16 +268,6 @@
           "wordCount": 1061,
           "title": "Park Street Update: Events September 11-16",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13388",
-          "author": "Debbie Dodd",
-          "description": "The next MelbushO is at Plenty South on Sunday August 18. Support this junior flavoured event. Enter online now! ,\nMelBushO, Tikalara, Sunday 8 September first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbusho-is-back-2024/",
-          "publishedOn": "2024-09-04T03:48:27.000Z",
-          "wordCount": 1151,
-          "title": "MelBushO, Tikalara, Sunday 8 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -771,6 +761,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=5990",
+          "author": "NIOA Secretary",
+          "description": "Best wishes to the Ireland Veteran Home International team, competing this weekend 4-5 October in Co Tryone. Of course the NI Orienteering Championships will be running the same courses after the veterans at Gortin Glen Forest on Saturday and then on Sunday the Veterans move...\nThe post Veterans Running at Home appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/veterans-running-at-home/",
+          "publishedOn": "2024-10-03T13:45:43.000Z",
+          "wordCount": 4345,
+          "title": "Veterans Running at Home",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2023/09/Home-International-Tops.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=5987",
           "author": "NIOA Secretary",
