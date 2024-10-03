@@ -200,6 +200,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13956",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/jump-in-to-orienteering-spooky-day-at-tarantula-park-free-fun-for-families-sunday-13-october/",
+          "publishedOn": "2024-10-01T04:25:45.000Z",
+          "wordCount": 1048,
+          "title": "Jump In To Orienteering!  Spooky Day at Tarantula Park – Free Fun for Families, Sunday 13 October",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13930",
           "author": "Debbie Dodd",
           "description": "Summer Shorts and Sprints are coming soon!  Get excited for 9 amazing races\nSummer Shorts and Sprints Coming Soon! first appeared on Orienteering Victoria.",
@@ -257,16 +267,6 @@
           "publishedOn": "2024-09-04T03:48:27.000Z",
           "wordCount": 1151,
           "title": "MelBushO, Tikalara, Sunday 8 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13830",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/paid-position-available-summer-shorts-and-sprints-coordinator/",
-          "publishedOn": "2024-09-03T17:53:50.000Z",
-          "wordCount": 1023,
-          "title": "Paid Position Available – Summer Shorts and Sprints Coordinator",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
