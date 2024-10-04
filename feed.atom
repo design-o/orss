@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T06:12:35.372Z</updated>
+    <updated>2024-10-04T12:15:13.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Mapping Course]]></title>
+        <id>https://www.orienteering.ie/?p=19485</id>
+        <link href="https://www.orienteering.ie/orienteering-mapping-course-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-mapping-course-2"/>
+        <updated>2024-10-04T11:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at those new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. 2. […]
+The post Orienteering Mapping Course first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 World Cup final round provides experience for next year]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54491</id>
+        <link href="https://www.scottish-orienteering.org/news/world-cup-final-round-provides-experience-for-next-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-cup-final-round-provides-experience-for-next-year"/>
+        <updated>2024-10-04T09:08:14.000Z</updated>
+        <summary type="html"><![CDATA[By Peter Molloy (Forth Valley Orienteers) An impressive total of 10 Scottish or Scotland-based athletes have just returned from competing […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Veterans Running at Home]]></title>
         <id>https://www.niorienteering.org.uk/?p=5990</id>
@@ -865,16 +886,6 @@ The post Senior Squad Update first appeared on Orienteering in Ireland.]]></summ
         <updated>2024-09-05T02:41:54.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 EGM Booklet published]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54327</id>
-        <link href="https://www.scottish-orienteering.org/news/2024-egm-booklet-published/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2024-egm-booklet-published"/>
-        <updated>2024-09-04T19:27:36.000Z</updated>
-        <summary type="html"><![CDATA[An Extraordinary General Meeting of Scottish Orienteering is being held in person at North Inch Community Campus, Gowan Terrace, Perth […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
