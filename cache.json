@@ -258,16 +258,6 @@
           "wordCount": 1074,
           "title": "Victorian Long Distance Champs – Entries close 13 September",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2024-09-05T02:41:54.000Z",
-          "wordCount": 1061,
-          "title": "Park Street Update: Events September 11-16",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -644,6 +634,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54515",
+          "author": "nikkihoward",
+          "description": "David Robertson of Edinburgh Southern Orienteering Club (ESOC) is never one to blow his own trumpet! So much so that […]",
+          "link": "https://www.scottish-orienteering.org/news/david-robertson-recognised-with-the-presidents-medal/?utm_source=rss&utm_medium=rss&utm_campaign=david-robertson-recognised-with-the-presidents-medal",
+          "publishedOn": "2024-10-04T15:27:46.000Z",
+          "wordCount": 1807,
+          "title": "David Robertson recognised with the President’s Medal",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/Image-1-1024x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54489",
+          "author": "nikkihoward",
+          "description": "Last weekend saw a Scottish Junior team make their way to the South West for the Junior Inter Regional Championships. […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-inter-regional-trophies-find-their-way-back-to-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=junior-inter-regional-trophies-find-their-way-back-to-scotland",
+          "publishedOn": "2024-10-04T13:51:03.000Z",
+          "wordCount": 2225,
+          "title": "Junior Inter Regional Trophies find their way back to Scotland",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/IMG_9796-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54491",
           "author": "nikkihoward",
