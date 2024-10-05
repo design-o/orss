@@ -154,16 +154,6 @@
           "wordCount": 1962,
           "title": "CX80 World MTBO Championships: riders from 22 nations head for Bulgaria",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/06/relay-after-start-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=73618",
-          "author": "Erling Thisted",
-          "description": "Last week, from August 28th to September 1st, the South East European Orienteering Championships, the South East European Masters Orienteering Championships and the 3rd Pergamon O-Week took place in Bergama, Türkiye, with participation of 759 athletes from 22 countries. Besides contributing to the growth of orienteering at both regional and international level, the championships were […]",
-          "link": "https://orienteering.sport/well-attended-seeoc-held-in-turkiye/",
-          "publishedOn": "2024-09-05T11:28:10.000Z",
-          "wordCount": 1760,
-          "title": "Well attended SEEOC held in Türkiye",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_seeoc_k_bora_yilmenez-1024x768.jpg"
         }
       ]
     },
@@ -199,6 +189,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Summer Series gets underway on September 30, and continues right through until March 2025.  Get ready!\nPark Street Update: Summer Series is Here! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2024-10-03T02:41:54.000Z",
+          "wordCount": 1191,
+          "title": "Park Street Update: Summer Series is Here!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13956",
           "author": "Debbie Dodd",
@@ -294,16 +294,6 @@
           "publishedOn": "2024-09-10T12:55:01.000Z",
           "wordCount": 1062,
           "title": "Orienteering squad application 2025",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=19319",
-          "author": "Senior",
-          "description": "/*! elementor – v3.23.0 – 25-07-2024 */ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px} Josh O’Sullivan-Hourihan Shines at Men Elite Vienna O-Challenge 2024 Josh O’Sullivan-Hourihan of Cork O delivered a standout performance at the Men Elite category of the Vienna O-Challenge 2024, showcasing his exceptional orienteering skills. Competing against top international athletes, Josh’s precise navigation […]\nThe post Senior Squad Update first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/senior-squad-update/?utm_source=rss&utm_medium=rss&utm_campaign=senior-squad-update",
-          "publishedOn": "2024-09-05T08:07:43.000Z",
-          "wordCount": 1404,
-          "title": "Senior Squad Update",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
