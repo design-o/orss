@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T12:13:42.623Z</updated>
+    <updated>2024-10-06T18:09:43.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Congratulations to the 2024 NI Champions]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6005</id>
+        <link href="https://www.niorienteering.org.uk/congratulations-to-the-2024-ni-champions/"/>
+        <updated>2024-10-06T16:50:39.000Z</updated>
+        <summary type="html"><![CDATA[The NI Long Distance Championships was run in surprisingly dry conditions, with the weather forecast suggesting heavy rain, at Gortin Glen Forest Park on Saturday 5 October. The event followed the Veteran Home Internationals with the top veterans from England, Ireland, Scotland and Wales competing....
+The post Congratulations to the 2024 NI Champions appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[David Robertson recognised with the President’s Medal]]></title>
         <id>https://www.scottish-orienteering.org/?p=54515</id>
