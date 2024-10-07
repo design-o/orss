@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=74581",
+          "author": "Erling Thisted",
+          "description": "Get ready for an exciting opportunity with the IOF at Asian Orienteering Championships 2024. From 21st to 26th December 2024, a High-Level Development Programme for passionate coaches and orienteers – The Young Leader Academy Asia (YLA Asia) and the IOF Asian Coaching Clinic 2024 (AsCC) takes place in Chiang Mai, Thailand. Join fellow orienteering enthusiasts […]",
+          "link": "https://orienteering.sport/time-to-sign-up-for-yla-asia-and-asian-coaching-clinic-in-december/",
+          "publishedOn": "2024-10-07T10:09:10.000Z",
+          "wordCount": 1903,
+          "title": "Time to sign up for YLA Asia and Asian Coaching Clinic in December",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/20241226-iof-asian-coaching-clinic_banner-1024x859.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=74546",
           "author": "Erling Thisted",
           "description": "On Sunday, the 2024 Finnish relay league will be decided at Salo in southern Finland and it can be followed live on IOF TV. The final is the sixth stage of the league this year and for both women and men the overall victory is at stake. The final relays are three-legged for both men […]",
@@ -614,6 +624,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54556",
+          "author": "nikkihoward",
+          "description": "With the 2025 calendar having been pulled together slightly later than anticipated due to the World Orienteering Championships having taken […]",
+          "link": "https://www.scottish-orienteering.org/news/controllers-wanted-for-2025/?utm_source=rss&utm_medium=rss&utm_campaign=controllers-wanted-for-2025",
+          "publishedOn": "2024-10-07T09:35:11.000Z",
+          "wordCount": 1526,
+          "title": "Controllers wanted for 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/Anagach.png"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54538",
+          "author": "nikkihoward",
+          "description": "On 7th/ 8th September saw an opportunity for the Scottish athletes to compete on home turf, for the Senior Home […]",
+          "link": "https://www.scottish-orienteering.org/news/senior-home-internationals-see-a-home-win/?utm_source=rss&utm_medium=rss&utm_campaign=senior-home-internationals-see-a-home-win",
+          "publishedOn": "2024-10-07T09:24:28.000Z",
+          "wordCount": 2229,
+          "title": "Senior Home Internationals see a home win",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/3c4b25a1-50f2-4136-9bd0-3ff2718e678c-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54515",
           "author": "nikkihoward",
