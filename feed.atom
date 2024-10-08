@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T00:39:55.885Z</updated>
+    <updated>2024-10-08T06:12:25.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results | 2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></title>
+        <id>https://neooc.com/?p=47885</id>
+        <link href="https://neooc.com/results-2024-medina-cross-country-allardale-county-park-sunday-october-6th/"/>
+        <updated>2024-10-08T02:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Results Results listed by Team Captain Livelox – See route choices – Per course selection pull down]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join the International TrailO course in Cyprus from Nov. 2-4]]></title>
         <id>https://orienteering.sport/?p=74577</id>
@@ -918,16 +928,6 @@ The post Ireland Win the Celic Cup appeared first on NI Orienteering Association
 Toni Brown (ACT) appointed as the OA ASOC Coordinator first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 World MTBO Championships: riders from 22 nations head for Bulgaria]]></title>
-        <id>https://orienteering.sport/?p=73650</id>
-        <link href="https://orienteering.sport/cx80-world-mtbo-championships-riders-from-22-nations-head-for-bulgaria/"/>
-        <updated>2024-09-08T15:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Five races between 10th and 15th September will decide the 2024 World Champions and the World Cup winners for 2024; 110 riders from 22 nations will be competing for the medals. They will be joined by a further 73 riders from 18 nations for the Junior championships. The current individual world champions will all be […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
