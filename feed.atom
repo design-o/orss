@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T06:12:25.007Z</updated>
+    <updated>2024-10-08T12:15:32.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ireland Win the Stonewall Trophy]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6035</id>
+        <link href="https://www.niorienteering.org.uk/ireland-win-the-stonewall-trophy/"/>
+        <updated>2024-10-08T11:26:05.000Z</updated>
+        <summary type="html"><![CDATA[For the first time in seven years, Ireland have won back the Stonewall Trophy, on home turf in Co Tyrone. The Stonewall Trophy is hotly contested each year between Ireland and Wales at the Veteran Home International. Following the individual event at Gortin Glen Forest...
+The post Ireland Win the Stonewall Trophy appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setters & Controllers Resource Sharing Meeting | New Date Wed 30 October]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60530</id>
+        <link href="https://www.orienteering.org.nz/news/setters-controllers-resource-sharing-meeting-new-date-wed-30-october/"/>
+        <updated>2024-10-08T09:45:42.000Z</updated>
+        <summary type="html"><![CDATA[ONZ is regularly asked for Setters and Controllers Resources, something we do not have. At the same time, we are aware that a number of clubs currently have some great resources to aid setting and controlling. The purpose of this meeting is threefold: We would love for all clubs to be represented at this meeting.  Please […]
+Setters & Controllers Resource Sharing Meeting | New Date Wed 30 October first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | 2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></title>
         <id>https://neooc.com/?p=47885</id>
