@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T18:11:17.119Z</updated>
+    <updated>2024-10-09T00:39:53.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peckham Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=22417</id>
+        <link href="https://slow.org.uk/streeto/peckham-street-o-24-results/"/>
+        <updated>2024-10-08T22:55:28.000Z</updated>
+        <summary type="html"><![CDATA[It was a great start to the new Street-O series with over 90 people attending. Many thanks to James and Danny for organising the event [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ireland Win the Stonewall Trophy]]></title>
         <id>https://www.niorienteering.org.uk/?p=6035</id>
@@ -928,28 +938,6 @@ Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first
 Victorian Long Distance Champs – Entries close 13 September first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland Win the Celic Cup]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5916</id>
-        <link href="https://www.niorienteering.org.uk/ireland-win-the-celic-cup/"/>
-        <updated>2024-09-09T10:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Ireland have beaten Wales at the Senior Home International to claim the Celtic Cup back from Wales. The races were held at Perthshire over the weekend of 7-8 September. On both days the Irish and Welsh women were tied on points, but the men were...
-The post Ireland Win the Celic Cup appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toni Brown (ACT) appointed as the OA ASOC Coordinator]]></title>
-        <id>https://orienteering.asn.au/?p=12045</id>
-        <link href="https://orienteering.asn.au/toni-brown-act-appointed-as-the-oa-asoc-coordinator/"/>
-        <updated>2024-09-09T08:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia (OA) is very pleased to advise Toni Brown (ACT) has been appointed as the OA Australian Schools Orienteering Championships (ASOC) Coordinator.
-Toni Brown (ACT) appointed as the OA ASOC Coordinator first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>

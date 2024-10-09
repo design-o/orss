@@ -314,6 +314,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22417",
+          "author": "vinh",
+          "description": "It was a great start to the new Street-O series with over 90 people attending. Many thanks to James and Danny for organising the event [...]",
+          "link": "https://slow.org.uk/streeto/peckham-street-o-24-results/",
+          "publishedOn": "2024-10-08T22:55:28.000Z",
+          "wordCount": 2045,
+          "title": "Peckham Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/auto-draft/files/Peckham_StreetO.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22295",
           "author": "Steve Clelland",
           "description": "This post will be added to over the coming days Results by Course – pdf Results by Class – pdf Live Results – SPORTident WinSplits [...]",
@@ -880,16 +890,6 @@
           "wordCount": 4370,
           "title": "Entries Open for the NI Champs",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/09/NI-Champs-2024.png"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=5916",
-          "author": "NIOA Secretary",
-          "description": "Ireland have beaten Wales at the Senior Home International to claim the Celtic Cup back from Wales. The races were held at Perthshire over the weekend of 7-8 September. On both days the Irish and Welsh women were tied on points, but the men were...\nThe post Ireland Win the Celic Cup appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/ireland-win-the-celic-cup/",
-          "publishedOn": "2024-09-09T10:54:19.000Z",
-          "wordCount": 4398,
-          "title": "Ireland Win the Celic Cup",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2023/09/Home-International-Tops.jpg"
         }
       ]
     },
@@ -956,16 +956,6 @@
           "publishedOn": "2024-09-17T09:00:00.000Z",
           "wordCount": 2308,
           "title": "ANZ MTBO Challenge Team Announced",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12045",
-          "author": "michaeldowling",
-          "description": "Orienteering Australia (OA) is very pleased to advise Toni Brown (ACT) has been appointed as the OA Australian Schools Orienteering Championships (ASOC) Coordinator.\nToni Brown (ACT) appointed as the OA ASOC Coordinator first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/toni-brown-act-appointed-as-the-oa-asoc-coordinator/",
-          "publishedOn": "2024-09-09T08:01:23.000Z",
-          "wordCount": 2306,
-          "title": "Toni Brown (ACT) appointed as the OA ASOC Coordinator",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
