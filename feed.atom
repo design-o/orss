@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T12:15:15.473Z</updated>
+    <updated>2024-10-09T18:11:06.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -936,17 +936,6 @@ The post Orienteering squad application 2025 first appeared on Orienteering in I
 Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Long Distance Champs – Entries close 13 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13875</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-long-distance-champs-entries-close-13-september/"/>
-        <updated>2024-09-10T05:48:14.000Z</updated>
-        <summary type="html"><![CDATA[The long-distance championship is Victoria’s premier event of the year, so do not miss it! To be held on the Nuggety Range map which was last used for the Australian Champs in 2022.
-Victorian Long Distance Champs – Entries close 13 September first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
