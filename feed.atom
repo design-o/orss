@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T06:12:30.698Z</updated>
+    <updated>2024-10-10T12:15:14.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finland to host European Ski Orienteering Championships in 2025]]></title>
+        <id>https://orienteering.sport/?p=74611</id>
+        <link href="https://orienteering.sport/finland-to-host-european-ski-orienteering-championships-in-2025/"/>
+        <updated>2024-10-10T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Finland will host next year’s European Ski Orienteering Championships in the city of Posio from March 19 – 23, 2025 The races in the northeastern part of the country will at the same time serve as Junior World SkiO Championships and the European Youth SkiO Championships of 2025. The ESOC program features a Sprint relay, […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South American Championships begin in Colombia on Saturday]]></title>
         <id>https://orienteering.sport/?p=74590</id>
