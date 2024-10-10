@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=74590",
+          "author": "Erling Thisted",
+          "description": "Colombia will welcome orienteers from six South American countries this weekend for the biannual South American Orienteering Championships. Athletes from Ecuador, Paraguay, Brazil, Uruguay, Chile and home nation Colombia have all signed up for the three races that make up SAOC 2024 in senior, junior and youth categories. The city of Marinilla will host the […]",
+          "link": "https://orienteering.sport/south-american-championships-begin-in-colombia-on-saturday/",
+          "publishedOn": "2024-10-10T06:00:33.000Z",
+          "wordCount": 1994,
+          "title": "South American Championships begin in Colombia on Saturday",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/saoc_2024_logo-1024x740.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=74577",
           "author": "Erling Thisted",
           "description": "The “Inclusive Orienteering for All” (IOFA) project is organising an International TrailO Training Course taking place from November 2 to 4, 2024 in Nicosia, Cyprus. This 2.5-day event is designed to equip participants with the knowledge and skills to organize and promote Trail Orienteering events that are inclusive and accessible to everyone, including individuals with […]",
@@ -230,6 +240,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13882",
+          "author": "Debbie Dodd",
+          "description": "Fantastic results coming in from Maya and Lucas at the World MTBO Champs!\nBig News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/big-news-from-bulgaria-maya-places-4th-in-her-first-world-mtbo-champs/",
+          "publishedOn": "2024-09-23T10:07:22.000Z",
+          "wordCount": 1119,
+          "title": "Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13937",
           "author": "Debbie Dodd",
           "description": "",
@@ -237,16 +257,6 @@
           "publishedOn": "2024-09-18T06:12:23.000Z",
           "wordCount": 1046,
           "title": "Vics at the AusChamps",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13830",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/paid-position-available-summer-shorts-and-sprints-coordinator/",
-          "publishedOn": "2024-09-10T17:53:50.000Z",
-          "wordCount": 1008,
-          "title": "Paid Position Available – Summer Shorts and Sprints Coordinator",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -274,16 +284,6 @@
           "publishedOn": "2024-09-23T13:52:17.000Z",
           "wordCount": 1091,
           "title": "Ireland’s Elite Poised to Dominate the Thrilling World Cup!",
-          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=19337",
-          "author": "Senior",
-          "description": "Orienteering Ireland: National Senior Squad Applications for 2025 Now Open! Are you an athlete with a passion for orienteering and a high-performance mindset? The Senior Squad  and High Performance Manager are excited to announce that applications for the National Senior Squad for 2025 are now officially open! We are on the lookout for dedicated individuals […]\nThe post Orienteering squad application 2025 first appeared on Orienteering in Ireland.",
-          "link": "https://www.orienteering.ie/orienteering-squad-application-2025/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-squad-application-2025",
-          "publishedOn": "2024-09-10T12:55:01.000Z",
-          "wordCount": 1062,
-          "title": "Orienteering squad application 2025",
           "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
         }
       ]
