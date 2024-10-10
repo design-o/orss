@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T18:11:06.071Z</updated>
+    <updated>2024-10-10T00:39:49.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLOW Night Series 2024-25]]></title>
+        <id>https://slow.org.uk/?p=22438</id>
+        <link href="https://slow.org.uk/events/slow-night-series-2024-25/"/>
+        <updated>2024-10-09T21:11:47.000Z</updated>
+        <summary type="html"><![CDATA[The SLOW night series will run from October until February and be comprised of 4 events. Full details on each event are posted here on [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peckham Street-O Results]]></title>
         <id>https://slow.org.uk/?p=22417</id>
@@ -915,27 +925,6 @@ ANZ MTBO Challenge Team Announced first appeared on Orienteering Australia.]]></
 The post Orienteering squad application 2025 first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Senior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 WMTBOC: Sprint golds for Saarela and Hasek]]></title>
-        <id>https://orienteering.sport/?p=73846</id>
-        <link href="https://orienteering.sport/wmtboc-sprint-golds-for-saarela-and-hasek/"/>
-        <updated>2024-09-10T12:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Ruska Saarela (FIN) and Jan Hasek (CZE) won the first gold medals at the 2024 CX80 World MTBO Championships, which began in Bulgaria on Tuesday. The championships kicked off with the sprint: 9,3/10,8 kilometers for women and men respectively in the old city of Pliska, featuring a flat terrain with a dense network of small […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13882</id>
-        <link href="https://www.vicorienteering.asn.au/big-news-from-bulgaria-maya-places-4th-in-her-first-world-mtbo-champs/"/>
-        <updated>2024-09-10T10:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Fantastic results first up from Maya and Lucas at the World MTBO Champs!
-Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
