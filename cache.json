@@ -304,6 +304,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22442",
+          "author": "Steve Clelland",
+          "description": "The first race of South London Orienteers’ 2024-2025 Night series takes place on Wimbledon Common and Putney Heath, south-west London, on Tuesday 29th October 2024. Race Centre [...]",
+          "link": "https://slow.org.uk/events/wimbledon-night-oct24/",
+          "publishedOn": "2024-10-10T21:11:14.000Z",
+          "wordCount": 2425,
+          "title": "Wimbledon Common Night-O, Tuesday 29th October",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wim_night_Ben-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22438",
           "author": "Steve Clelland",
           "description": "The SLOW night series will run from October until February and be comprised of 4 events. Full details on each event are posted here on [...]",
@@ -783,16 +793,6 @@
           "wordCount": 1533,
           "title": "Coach CPD day – 5th October Grantown",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/Coach-CPD-banner-1024x352.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54341",
-          "author": "heidi",
-          "description": "As we roll into September, another academic year starts giving our university clubs the opportunity to recruit new faces into […]",
-          "link": "https://www.scottish-orienteering.org/news/the-scottish-universities-are-back/?utm_source=rss&utm_medium=rss&utm_campaign=the-scottish-universities-are-back",
-          "publishedOn": "2024-09-11T09:47:07.000Z",
-          "wordCount": 1653,
-          "title": "The Scottish Universities are Back",
-          "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXep6EtjI5j3XXXAQOqI7u8guSpaq6Ee7GnXnsE6a6sUX2unt0u9JnmN8b-7OmJ-vNUCOVzOVl0u5LYKhpOcFSQTmmMsDcX6ALuNui7wH-PIJkXQRTLJ_aI7TBiGX7S4PS-5XvKa3oNlYQfVFhpCMdSrI3s?key=xYqLxiy6jHn-PSZyP5P-3w"
         }
       ]
     },
@@ -898,6 +898,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12185",
+          "author": "elizabethl",
+          "description": "The 2024 Australian Orienteering Championships, held in Armidale, NSW from 28 September-6 October 2024, contained a plethora of events and activities for people of all ages.\nAustralian Orienteering Championships 2024 Results & Recap first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/australian-orienteering-championships-2024-results-recap/",
+          "publishedOn": "2024-10-10T18:30:07.000Z",
+          "wordCount": 3264,
+          "title": "Australian Orienteering Championships 2024 Results & Recap",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12163",
           "author": "elizabethl",
