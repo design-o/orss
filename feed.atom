@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T12:15:14.282Z</updated>
+    <updated>2024-10-11T18:10:59.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Gortin to Glenarriff]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6045</id>
+        <link href="https://www.niorienteering.org.uk/from-gortin-to-glenarriff/"/>
+        <updated>2024-10-11T14:54:36.000Z</updated>
+        <summary type="html"><![CDATA[After all the exitement of the NI Orienteering Championships at Gortin, the next Colour Series event at Glengarriff Forest, Co Antrim is creeping up fast! Colour Series 6 is hosted by LVO on Saturday 19 October, with entries to close on Monday 14 October at...
+The post From Gortin to Glenarriff appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wimbledon Common Night-O, Tuesday 29th October]]></title>
         <id>https://slow.org.uk/?p=22442</id>
