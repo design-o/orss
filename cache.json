@@ -144,26 +144,6 @@
           "wordCount": 2129,
           "title": "CX80 WMTBOC Long race: defending champions both win; 3 medals to Denmark",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_wmtboc_long_m-1024x768.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=73927",
-          "author": "Erling Thisted",
-          "description": "The gold medals went to Gabriele Andrasiuniene (LTU) and defending champion Krystof Bogar (CZE) on the third day of CX80 World MTBO Championships in Bulgaria. The sun was back on Thursday morning as the athletes rode off on the Middle distance at the southern end of the forest terrain that was also used for yesterday’s […]",
-          "link": "https://orienteering.sport/cx80-wmtboc-middle-wins-for-andrasiuniene-and-bogar/",
-          "publishedOn": "2024-09-12T11:58:52.000Z",
-          "wordCount": 2084,
-          "title": "CX80 WMTBOC: Middle wins for Andrasiuniene and Bogar",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_wmtboc_womens_middle-e1726142251148-1024x838.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=73916",
-          "author": "Erling Thisted",
-          "description": "The International Orienteering Federation relies on voluntary work by passionate orienteers all around the world. And right now IOF is looking to strengthen its commissions with new members and volunteers for the period 2024-2026. If you would like to influence the development of orienteering in the coming years and gain experience of working in an […]",
-          "link": "https://orienteering.sport/be-part-of-shaping-the-future-of-orienteering/",
-          "publishedOn": "2024-09-12T11:28:16.000Z",
-          "wordCount": 2689,
-          "title": "Be part of shaping the future of orienteering",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/07/2024_general_assembly-1024x683.jpg"
         }
       ]
     },
@@ -791,6 +771,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6051",
+          "author": "NIOA Secretary",
+          "description": "It’s the final weekend of the Home International season, with the Juniors off to East Anglia on 12-13 October, with both the individual and relay events at Sheringham Park in Norfolk. Representing Team Ireland are: W14: Eimear Casey, Deirbhile Hassett, Aoife Masterson, Kathleen O’Donnell M14:...\nThe post Junior Home International appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/junior-home-international/",
+          "publishedOn": "2024-10-11T21:35:35.000Z",
+          "wordCount": 4300,
+          "title": "Junior Home International",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2019/08/4-provinces-flag.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6045",
           "author": "NIOA Secretary",

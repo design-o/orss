@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T18:10:59.891Z</updated>
+    <updated>2024-10-12T00:39:19.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Home International]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6051</id>
+        <link href="https://www.niorienteering.org.uk/junior-home-international/"/>
+        <updated>2024-10-11T21:35:35.000Z</updated>
+        <summary type="html"><![CDATA[It’s the final weekend of the Home International season, with the Juniors off to East Anglia on 12-13 October, with both the individual and relay events at Sheringham Park in Norfolk. Representing Team Ireland are: W14: Eimear Casey, Deirbhile Hassett, Aoife Masterson, Kathleen O’Donnell M14:...
+The post Junior Home International appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Gortin to Glenarriff]]></title>
         <id>https://www.niorienteering.org.uk/?p=6045</id>
@@ -928,26 +939,6 @@ ANZ MTBO Challenge Team Announced first appeared on Orienteering Australia.]]></
         <summary type="html"><![CDATA[After the success of the last in person Coach CPD day at Kinnoull Hill the resolution was that we definitely […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 WMTBOC: Middle wins for Andrasiuniene and Bogar]]></title>
-        <id>https://orienteering.sport/?p=73927</id>
-        <link href="https://orienteering.sport/cx80-wmtboc-middle-wins-for-andrasiuniene-and-bogar/"/>
-        <updated>2024-09-12T11:58:52.000Z</updated>
-        <summary type="html"><![CDATA[The gold medals went to Gabriele Andrasiuniene (LTU) and defending champion Krystof Bogar (CZE) on the third day of CX80 World MTBO Championships in Bulgaria. The sun was back on Thursday morning as the athletes rode off on the Middle distance at the southern end of the forest terrain that was also used for yesterday’s […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be part of shaping the future of orienteering]]></title>
-        <id>https://orienteering.sport/?p=73916</id>
-        <link href="https://orienteering.sport/be-part-of-shaping-the-future-of-orienteering/"/>
-        <updated>2024-09-12T11:28:16.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation relies on voluntary work by passionate orienteers all around the world. And right now IOF is looking to strengthen its commissions with new members and volunteers for the period 2024-2026. If you would like to influence the development of orienteering in the coming years and gain experience of working in an […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
