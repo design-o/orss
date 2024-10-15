@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T18:11:08.374Z</updated>
+    <updated>2024-10-15T00:41:06.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14008</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-3-tarralla-wetlands-sunday-27-october-entries-open/"/>
+        <updated>2024-10-15T00:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Hop to it - entries are open now for SSAS Race 3 on a fantastic, new colour map; parkland orienteering doesnt come much better than this!
+Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD]]></title>
+        <id>https://orienteering.asn.au/?p=12234</id>
+        <link href="https://orienteering.asn.au/nominations-open-2024-asc-sport-volunteer-of-the-year-award/"/>
+        <updated>2024-10-14T23:23:22.000Z</updated>
+        <summary type="html"><![CDATA[The orienteering community can nominate a valued volunteer for the 2024 Australian Sports Commission Sport Volunteer of the Year Award.
+Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invitation: IOF Event Adviser Seminar from November 23-24]]></title>
+        <id>https://orienteering.sport/?p=74634</id>
+        <link href="https://orienteering.sport/iof-event-adviser-seminar-november-23-24/"/>
+        <updated>2024-10-14T20:17:59.000Z</updated>
+        <summary type="html"><![CDATA[The IOF’s FootO Commission is organizing the IOF Event Adviser Seminar, which will be held online on November 23-24, 2o24. The seminar’s target group includes Senior Event Advisers and Event Advisers, but event organisers, athletes, federation officials, etc. are more than welcome to join. The program is divided into four blocks over the two weekend […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New series of webinars kick off on Wednesday]]></title>
         <id>https://orienteering.sport/?p=74630</id>
@@ -931,26 +963,6 @@ ANZ MTBO Challenge Team Announced first appeared on Orienteering Australia.]]></
         <summary type="html"><![CDATA[Congratulations to Todd Pownell, Team Tengesdal, Team Redinger, and Randy Mitchell, who cleared the entire course (16 controls = 400 pts) in under 1 hour. Emily Kullman came close with 360 pts at 5th place.  Newcomer Libby Neubert scored an impressive 6th place in the competition.  And Team Even (Gil with his two young boys) […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London City Race 2024 – Results]]></title>
-        <id>https://slow.org.uk/?p=22295</id>
-        <link href="https://slow.org.uk/racereports/lcr-2024-results/"/>
-        <updated>2024-09-15T11:44:22.000Z</updated>
-        <summary type="html"><![CDATA[This post will be added to over the coming days Results by Course – pdf Results by Class – pdf Live Results – SPORTident WinSplits [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 WMTBOC: Denmark and Czechia take Relay titles]]></title>
-        <id>https://orienteering.sport/?p=73980</id>
-        <link href="https://orienteering.sport/cx80-wmtboc-relay-wins-for-denmark-and-czechia/"/>
-        <updated>2024-09-15T11:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Denmark dominated the women’s race throughout, winning by almost 5 minutes, whilst Czechia’s men retained their title from 2023 with victory by just 16 seconds in dull and damp conditions near Shumen, Bulgaria today. Cæcilie Christoffersen started strongly for Denmark in the women’s race and was 1.28 in the lead at the first changeover. At […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>

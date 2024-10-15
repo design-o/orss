@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=74634",
+          "author": "Erling Thisted",
+          "description": "The IOF’s FootO Commission is organizing the IOF Event Adviser Seminar, which will be held online on November 23-24, 2o24. The seminar’s target group includes Senior Event Advisers and Event Advisers, but event organisers, athletes, federation officials, etc. are more than welcome to join. The program is divided into four blocks over the two weekend […]",
+          "link": "https://orienteering.sport/iof-event-adviser-seminar-november-23-24/",
+          "publishedOn": "2024-10-14T20:17:59.000Z",
+          "wordCount": 1937,
+          "title": "Invitation: IOF Event Adviser Seminar from November 23-24",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_kosprint_woc_kristinalindgren-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=74630",
           "author": "Erling Thisted",
           "description": "This Wednesday, October 16th, the 2024-25 series of webinars organised by IOF’s Global Development Commission kick off. The first webinar bears the title “Prevention of injuries among young competitive orienteers” and features Martin Krause from Back In Business Physiotherapy. It is, among other things, about how to avoid injuries among young athletes and at the […]",
@@ -134,16 +144,6 @@
           "wordCount": 2108,
           "title": "CX80 MTBO World Cup: Splittorff and Haga take top places; Team World Cup to Finland",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_wmtboc_m_massstart_kirilpana-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=73980",
-          "author": "Clive",
-          "description": "Denmark dominated the women’s race throughout, winning by almost 5 minutes, whilst Czechia’s men retained their title from 2023 with victory by just 16 seconds in dull and damp conditions near Shumen, Bulgaria today. Cæcilie Christoffersen started strongly for Denmark in the women’s race and was 1.28 in the lead at the first changeover. At […]",
-          "link": "https://orienteering.sport/cx80-wmtboc-relay-wins-for-denmark-and-czechia/",
-          "publishedOn": "2024-09-15T11:03:42.000Z",
-          "wordCount": 2009,
-          "title": "CX80 WMTBOC: Denmark and Czechia take Relay titles",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/wmtboc2024_logo.jpg"
         }
       ]
     },
@@ -179,6 +179,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14008",
+          "author": "Debbie Dodd",
+          "description": "Hop to it - entries are open now for SSAS Race 3 on a fantastic, new colour map; parkland orienteering doesnt come much better than this!\nSummer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-3-tarralla-wetlands-sunday-27-october-entries-open/",
+          "publishedOn": "2024-10-15T00:22:03.000Z",
+          "wordCount": 1187,
+          "title": "Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13998",
           "author": "Debbie Dodd",
@@ -302,16 +312,6 @@
           "wordCount": 2045,
           "title": "Peckham Street-O Results",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/auto-draft/files/Peckham_StreetO.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22295",
-          "author": "Steve Clelland",
-          "description": "This post will be added to over the coming days Results by Course – pdf Results by Class – pdf Live Results – SPORTident WinSplits [...]",
-          "link": "https://slow.org.uk/racereports/lcr-2024-results/",
-          "publishedOn": "2024-09-15T11:44:22.000Z",
-          "wordCount": 2004,
-          "title": "London City Race 2024 – Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/LCR_2024_Start-scaled.jpg"
         }
       ]
     },
@@ -888,6 +888,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12234",
+          "author": "danielstott",
+          "description": "The orienteering community can nominate a valued volunteer for the 2024 Australian Sports Commission Sport Volunteer of the Year Award.\nNominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nominations-open-2024-asc-sport-volunteer-of-the-year-award/",
+          "publishedOn": "2024-10-14T23:23:22.000Z",
+          "wordCount": 2345,
+          "title": "Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12222",
           "author": "elizabethl",
