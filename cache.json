@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=74716",
+          "author": "Erling Thisted",
+          "description": "Next year’s World Masters Orienteering Championships in Girona, Spain are making great efforts to meet the challenges of the expected heat during the championship races. With race dates between August 9 – 15, it is likely that the masters athletes will be met by high temperatures. The organizers are very aware of this and therefore […]",
+          "link": "https://orienteering.sport/wmoc-2025-makes-great-efforts-to-meet-summer-heat-issues/",
+          "publishedOn": "2024-10-15T09:54:56.000Z",
+          "wordCount": 2523,
+          "title": "WMOC 2025 makes great efforts to meet summer heat issues",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2022/10/logo_wmoc25_spain-1024x1024.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=74713",
+          "author": "Erling Thisted",
+          "description": "IOF has established a prize and will from now on award the ‘Best scientific publication relating to Sustainability and Orienteering’ every two years. The prize shall reward the best research paper that considers the relationship between Orienteering and any or all of the core elements of Sustainability according to the 2030 Agenda for Sustainable Development […]",
+          "link": "https://orienteering.sport/iof-establishes-prize-on-sustainability-and-orienteering/",
+          "publishedOn": "2024-10-15T09:32:04.000Z",
+          "wordCount": 2011,
+          "title": "IOF establishes prize on sustainability and orienteering",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/wc_2025_1_live_heather.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=74634",
           "author": "Erling Thisted",
           "description": "The IOF’s FootO Commission is organizing the IOF Event Adviser Seminar, which will be held online on November 23-24, 2o24. The seminar’s target group includes Senior Event Advisers and Event Advisers, but event organisers, athletes, federation officials, etc. are more than welcome to join. The program is divided into four blocks over the two weekend […]",
@@ -606,26 +626,6 @@
           "wordCount": 1324,
           "title": "New Event | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 26th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2022/10/Corn-Maze.png"
-        },
-        {
-          "id": "https://neooc.com/?p=47813",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2024 Medina Cross Country | Allardale County Park | Sunday, October 6th",
-          "link": "https://neooc.com/new-event-2024-medina-cross-country-allardale-county-park-sunday-october-6th/",
-          "publishedOn": "2024-09-15T20:44:12.000Z",
-          "wordCount": 1324,
-          "title": "New Event |  2024 Medina Cross Country | Allardale County Park | Sunday, October 6th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2020/10/Allardale_Open_Air_Shelter-scaled.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=47805",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Congratulations to Todd Pownell, Team Tengesdal, Team Redinger, and Randy Mitchell, who cleared the entire course (16 controls = 400 pts) in under 1 hour. Emily Kullman came close with 360 pts at 5th place.  Newcomer Libby Neubert scored an impressive 6th place in the competition.  And Team Even (Gil with his two young boys) […]",
-          "link": "https://neooc.com/results-2024-annual-club-meeting-score-course-food-saturday-sept-14th/",
-          "publishedOn": "2024-09-15T18:45:59.000Z",
-          "wordCount": 1425,
-          "title": "Results | 2024 Annual Club Meeting | Score Course & Food | Saturday, Sept 14th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2024/09/sun24a_Start.jpg"
         }
       ]
     },

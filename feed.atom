@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T06:12:30.850Z</updated>
+    <updated>2024-10-15T12:15:44.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WMOC 2025 makes great efforts to meet summer heat issues]]></title>
+        <id>https://orienteering.sport/?p=74716</id>
+        <link href="https://orienteering.sport/wmoc-2025-makes-great-efforts-to-meet-summer-heat-issues/"/>
+        <updated>2024-10-15T09:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Next year’s World Masters Orienteering Championships in Girona, Spain are making great efforts to meet the challenges of the expected heat during the championship races. With race dates between August 9 – 15, it is likely that the masters athletes will be met by high temperatures. The organizers are very aware of this and therefore […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOF establishes prize on sustainability and orienteering]]></title>
+        <id>https://orienteering.sport/?p=74713</id>
+        <link href="https://orienteering.sport/iof-establishes-prize-on-sustainability-and-orienteering/"/>
+        <updated>2024-10-15T09:32:04.000Z</updated>
+        <summary type="html"><![CDATA[IOF has established a prize and will from now on award the ‘Best scientific publication relating to Sustainability and Orienteering’ every two years. The prize shall reward the best research paper that considers the relationship between Orienteering and any or all of the core elements of Sustainability according to the 2030 Agenda for Sustainable Development […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14008</id>
@@ -943,26 +963,6 @@ ANZ MTBO Challenge Team Announced first appeared on Orienteering Australia.]]></
         <summary type="html"><![CDATA[Dane Nikoline Splittorff finished strongly with a 60-point lead in the women’s World Cup, and Finnish rider André Haga ended 52 points ahead in the men’s, thanks largely to a good first half of the season. This is Splittorff’s third overall victory in successive years; Haga was fifth last year and seventh in 2022. Through […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event |  2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></title>
-        <id>https://neooc.com/?p=47813</id>
-        <link href="https://neooc.com/new-event-2024-medina-cross-country-allardale-county-park-sunday-october-6th/"/>
-        <updated>2024-09-15T20:44:12.000Z</updated>
-        <summary type="html"><![CDATA[2024 Medina Cross Country | Allardale County Park | Sunday, October 6th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | 2024 Annual Club Meeting | Score Course & Food | Saturday, Sept 14th]]></title>
-        <id>https://neooc.com/?p=47805</id>
-        <link href="https://neooc.com/results-2024-annual-club-meeting-score-course-food-saturday-sept-14th/"/>
-        <updated>2024-09-15T18:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Todd Pownell, Team Tengesdal, Team Redinger, and Randy Mitchell, who cleared the entire course (16 controls = 400 pts) in under 1 hour. Emily Kullman came close with 360 pts at 5th place.  Newcomer Libby Neubert scored an impressive 6th place in the competition.  And Team Even (Gil with his two young boys) […]]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
