@@ -154,16 +154,6 @@
           "wordCount": 1878,
           "title": "Final battle for 2024 World Cup titles in Finland",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/11/2023_footo_topbanner_wcr1_3_snorreveggan-1024x320.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=73999",
-          "author": "Clive",
-          "description": "Dane Nikoline Splittorff finished strongly with a 60-point lead in the women’s World Cup, and Finnish rider André Haga ended 52 points ahead in the men’s, thanks largely to a good first half of the season. This is Splittorff’s third overall victory in successive years; Haga was fifth last year and seventh in 2022. Through […]",
-          "link": "https://orienteering.sport/cx80-mtbo-world-cup-splittorff-and-haga-take-top-places-team-world-cup-to-finland/",
-          "publishedOn": "2024-09-16T08:06:16.000Z",
-          "wordCount": 2108,
-          "title": "CX80 MTBO World Cup: Splittorff and Haga take top places; Team World Cup to Finland",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/2024_wmtboc_m_massstart_kirilpana-1024x682.jpg"
         }
       ]
     },
@@ -340,6 +330,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60576",
+          "author": "Christo Peters",
+          "description": "Dear Clubs and members, Due to low numbers, the Club Forum scheduled for Tue 22 October has been postponed. Regards Christo Peters General Manager\nClub Forum postponed first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/club-forum-postponed/",
+          "publishedOn": "2024-10-15T18:18:34.000Z",
+          "wordCount": 2101,
+          "title": "Club Forum postponed",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Club-Forum-Postponed.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60530",
           "author": "Christo Peters",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T18:11:13.031Z</updated>
+    <updated>2024-10-16T00:40:33.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Club Forum postponed]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60576</id>
+        <link href="https://www.orienteering.org.nz/news/club-forum-postponed/"/>
+        <updated>2024-10-15T18:18:34.000Z</updated>
+        <summary type="html"><![CDATA[Dear Clubs and members, Due to low numbers, the Club Forum scheduled for Tue 22 October has been postponed. Regards Christo Peters General Manager
+Club Forum postponed first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WMOC 2025 makes great efforts to meet summer heat issues]]></title>
         <id>https://orienteering.sport/?p=74716</id>
@@ -953,16 +964,6 @@ ANZ MTBO Challenge Team Announced first appeared on Orienteering Australia.]]></
 2025 Nationals embargo effective first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 MTBO World Cup: Splittorff and Haga take top places; Team World Cup to Finland]]></title>
-        <id>https://orienteering.sport/?p=73999</id>
-        <link href="https://orienteering.sport/cx80-mtbo-world-cup-splittorff-and-haga-take-top-places-team-world-cup-to-finland/"/>
-        <updated>2024-09-16T08:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Dane Nikoline Splittorff finished strongly with a 60-point lead in the women’s World Cup, and Finnish rider André Haga ended 52 points ahead in the men’s, thanks largely to a good first half of the season. This is Splittorff’s third overall victory in successive years; Haga was fifth last year and seventh in 2022. Through […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
