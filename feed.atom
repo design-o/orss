@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T12:15:55.220Z</updated>
+    <updated>2024-10-17T18:10:35.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OK Nuts 2024 – Hankley Common]]></title>
+        <id>https://slow.org.uk/?p=22464</id>
+        <link href="https://slow.org.uk/events/ok-nuts-2024-hankley-common/"/>
+        <updated>2024-10-17T15:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Link to enter this event South London Orienteers invites you to run on Hankley Common on Sunday 10th November 2024. We are putting on a [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Club Forum postponed]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60576</id>
