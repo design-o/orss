@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T18:11:33.511Z</updated>
+    <updated>2024-10-17T00:40:17.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -931,28 +931,6 @@ Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering 
         <summary type="html"><![CDATA[The Young People’s Sport Panel has applications open for its seventh cohort of members. If you’re aged 14-23, living in […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Open for the NI Champs]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5932</id>
-        <link href="https://www.niorienteering.org.uk/entries-open-for-the-ni-champs/"/>
-        <updated>2024-09-17T09:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Entries are open on SI Entries for the NI Long Distance Championships in Gortin Glen Forest on Sat 5 October. All the details are on the Fermanagh Orienteers website. This classic orienteering area has been recently remapped and extended. The event takes place alongside the...
-The post Entries Open for the NI Champs appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANZ MTBO Challenge Team Announced]]></title>
-        <id>https://orienteering.asn.au/?p=12055</id>
-        <link href="https://orienteering.asn.au/anz-challenge-team-announcement/"/>
-        <updated>2024-09-17T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce the team to ride against New Zealand in the ANZ Challenge during the forthcoming Australian MTBO Champs to be held in the ACT on 18-20 October 2024.
-ANZ MTBO Challenge Team Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
