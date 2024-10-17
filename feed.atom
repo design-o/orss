@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T00:40:17.195Z</updated>
+    <updated>2024-10-17T06:12:48.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -921,16 +921,6 @@ Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering 
         <updated>2024-09-18T06:12:23.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Young People’s Sport Panel is now recruiting!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54371</id>
-        <link href="https://www.scottish-orienteering.org/news/the-young-peoples-sport-panel-is-now-recruiting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-young-peoples-sport-panel-is-now-recruiting"/>
-        <updated>2024-09-17T15:11:12.000Z</updated>
-        <summary type="html"><![CDATA[The Young People’s Sport Panel has applications open for its seventh cohort of members. If you’re aged 14-23, living in […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
