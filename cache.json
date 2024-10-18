@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=74799",
+          "author": "Erling Thisted",
+          "description": "The South American Orienteering Championships 2024, held in Colombia from the 12th to 14th October, provided a strong statement about orienteering in Colombia and the continent. The championships had record participation with orienteers from 25 different nations around the world making their way to the event center in Marinilla in the region of Antioquia near […]",
+          "link": "https://orienteering.sport/positive-vibes-and-brazilian-victories-at-the-south-american-orienteering-championships/",
+          "publishedOn": "2024-10-18T15:31:39.000Z",
+          "wordCount": 2520,
+          "title": "Positive vibes and Brazilian victories at the South American Orienteering Championships",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_saoc4-1024x768.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=74716",
           "author": "Erling Thisted",
           "description": "Next year’s World Masters Orienteering Championships in Girona, Spain are making great efforts to meet the challenges of the expected heat during the championship races. With race dates between August 9 – 15, it is likely that the masters athletes will be met by high temperatures. The organizers are very aware of this and therefore […]",
@@ -266,6 +276,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=19577",
+          "author": "Mark Stephens",
+          "description": "We would like to increase our supply of Irish Orienteering photos for use in general publicity, social media and on websites. Orienteering Ireland is running a photo competition with a closing date of Friday 20th December, 2024. Prize categories* are as follows: · “Sport for life” first prize €100 / Second prize €50 / Third […]\nThe post Orienteering Photography Competition first appeared on Orienteering in Ireland.",
+          "link": "https://www.orienteering.ie/orienteering-photography-competition/",
+          "publishedOn": "2024-10-18T13:09:11.000Z",
+          "wordCount": 1374,
+          "title": "Orienteering Photography Competition",
+          "imageUrl": "https://www.orienteering.ie/wp-content/uploads/2022/11/cropped-Logo-4-The-Circular-Logo-scaled-1.jpg"
+        },
         {
           "id": "https://www.orienteering.ie/?p=19485",
           "author": "Deirdre",
@@ -946,16 +966,6 @@
           "publishedOn": "2024-09-24T00:40:40.000Z",
           "wordCount": 2461,
           "title": "Orienteering World Cup Final – 26-29 September – Kuopio, Finland",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12074",
-          "author": "arpadk",
-          "description": "OA is calling for nominations from eligible Australian orienteers who would like to take part in the next Aus/NZ Challenge, to be held in conjunction with the Oceania Championships in New Zealand from 24-27 January, 2025. The Challenge consists of a sprint, middle, long and relay. However, you are still eligible to nominate for the team if […]\nNominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/nominations-aus-nz-challenge-at-oceania-2025/",
-          "publishedOn": "2024-09-19T00:35:44.000Z",
-          "wordCount": 2294,
-          "title": "Nominations – Aus/NZ Challenge at Oceania 2025",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

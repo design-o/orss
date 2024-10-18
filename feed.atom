@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T12:15:53.726Z</updated>
+    <updated>2024-10-18T18:11:10.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Positive vibes and Brazilian victories at the South American Orienteering Championships]]></title>
+        <id>https://orienteering.sport/?p=74799</id>
+        <link href="https://orienteering.sport/positive-vibes-and-brazilian-victories-at-the-south-american-orienteering-championships/"/>
+        <updated>2024-10-18T15:31:39.000Z</updated>
+        <summary type="html"><![CDATA[The South American Orienteering Championships 2024, held in Colombia from the 12th to 14th October, provided a strong statement about orienteering in Colombia and the continent. The championships had record participation with orienteers from 25 different nations around the world making their way to the event center in Marinilla in the region of Antioquia near […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Photography Competition]]></title>
+        <id>https://www.orienteering.ie/?p=19577</id>
+        <link href="https://www.orienteering.ie/orienteering-photography-competition/"/>
+        <updated>2024-10-18T13:09:11.000Z</updated>
+        <summary type="html"><![CDATA[We would like to increase our supply of Irish Orienteering photos for use in general publicity, social media and on websites. Orienteering Ireland is running a photo competition with a closing date of Friday 20th December, 2024. Prize categories* are as follows: · “Sport for life” first prize €100 / Second prize €50 / Third […]
+The post Orienteering Photography Competition first appeared on Orienteering in Ireland.]]></summary>
+        <author>
+            <name>Mark Stephens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK Nuts 2024 – Hankley Common]]></title>
         <id>https://slow.org.uk/?p=22464</id>
@@ -934,17 +955,6 @@ Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first
         <summary type="html"><![CDATA[The Junior Interarea weekend will take place on the 26/27th October. This is a weekend of interarea competition between the […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations – Aus/NZ Challenge at Oceania 2025]]></title>
-        <id>https://orienteering.asn.au/?p=12074</id>
-        <link href="https://orienteering.asn.au/nominations-aus-nz-challenge-at-oceania-2025/"/>
-        <updated>2024-09-19T00:35:44.000Z</updated>
-        <summary type="html"><![CDATA[OA is calling for nominations from eligible Australian orienteers who would like to take part in the next Aus/NZ Challenge, to be held in conjunction with the Oceania Championships in New Zealand from 24-27 January, 2025. The Challenge consists of a sprint, middle, long and relay. However, you are still eligible to nominate for the team if […]
-Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>arpadk</name>
         </author>
     </entry>
 </feed>
