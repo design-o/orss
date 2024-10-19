@@ -638,6 +638,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=47919",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Last Event of the Year! 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd",
+          "link": "https://neooc.com/new-events-2024-night-crawler-o-night-score-at-camp-manatoc-cvnp-saturday-nov-2nd/",
+          "publishedOn": "2024-10-18T18:30:53.000Z",
+          "wordCount": 1330,
+          "title": "New Events | 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2018/10/Night-O-01.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=47885",
           "author": "Northeast Ohio Orienteering Club",
           "description": "Results Results listed by Team Captain Livelox – See route choices – Per course selection pull down",
@@ -926,6 +936,16 @@
           "publishedOn": "2024-10-10T18:30:07.000Z",
           "wordCount": 3264,
           "title": "Australian Orienteering Championships 2024 Results & Recap",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
+          "id": "https://orienteering.asn.au/?p=12074",
+          "author": "arpadk",
+          "description": "Additional age groups added to the challenge. Please update your nomination in case you wish to run in a different age group. See the new list below together with extended deadline of October 31st.\nUPDATE – Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nominations-aus-nz-challenge-at-oceania-2025/",
+          "publishedOn": "2024-10-03T09:43:55.000Z",
+          "wordCount": 2450,
+          "title": "UPDATE – Nominations – Aus/NZ Challenge at Oceania 2025",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         },
         {

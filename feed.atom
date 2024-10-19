@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T18:11:10.350Z</updated>
+    <updated>2024-10-19T00:40:00.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Events | 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd]]></title>
+        <id>https://neooc.com/?p=47919</id>
+        <link href="https://neooc.com/new-events-2024-night-crawler-o-night-score-at-camp-manatoc-cvnp-saturday-nov-2nd/"/>
+        <updated>2024-10-18T18:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Last Event of the Year! 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Positive vibes and Brazilian victories at the South American Orienteering Championships]]></title>
         <id>https://orienteering.sport/?p=74799</id>
@@ -370,6 +380,17 @@ Vics at the AusChamps – Four Victorians Clean Sweep the Golds first appeared o
 The post Veterans Running at Home appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDATE – Nominations – Aus/NZ Challenge at Oceania 2025]]></title>
+        <id>https://orienteering.asn.au/?p=12074</id>
+        <link href="https://orienteering.asn.au/nominations-aus-nz-challenge-at-oceania-2025/"/>
+        <updated>2024-10-03T09:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Additional age groups added to the challenge. Please update your nomination in case you wish to run in a different age group. See the new list below together with extended deadline of October 31st.
+UPDATE – Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>arpadk</name>
         </author>
     </entry>
     <entry>
