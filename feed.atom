@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T00:44:22.023Z</updated>
+    <updated>2024-10-20T06:11:31.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -140,6 +140,15 @@ The post It’s a Hat Trick appeared first on NI Orienteering Association.]]></s
 Australian Schools Orienteering Honour Team first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt Lilydale Indoor-Outoor Sprint, Saturday 2 November – Don’t Miss This!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14035</id>
+        <link href="https://www.vicorienteering.asn.au/mt-lilydale-indoor-outoor-sprint-saturday-2-november-dont-miss-this/"/>
+        <updated>2024-10-12T01:00:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
