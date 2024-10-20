@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T18:10:01.187Z</updated>
+    <updated>2024-10-20T00:44:22.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -956,16 +956,6 @@ Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first
         <summary type="html"><![CDATA[The final battle for the 2024 Orienteering World Cup titles takes place in Kuopio, Finland from Thursday to Sunday. The forest races count as the fourth round in this year’s Orienteering World Cup, which has previously taken us to fast and demanding sprint races in Switzerland and Italy and most recently a series of tough […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Leaders]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54410</id>
-        <link href="https://www.scottish-orienteering.org/juniors/young-leaders-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-leaders-3"/>
-        <updated>2024-09-20T11:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Juniors – are you a keen orienteer who would like to start getting involved in volunteering?  Club volunteer coordinators – […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
