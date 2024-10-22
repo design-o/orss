@@ -190,6 +190,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14040",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-success-at-mtbo-nationals/",
+          "publishedOn": "2024-10-18T01:32:11.000Z",
+          "wordCount": 1069,
+          "title": "Victorian Success at MTBO Nationals",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14008",
           "author": "Debbie Dodd",
           "description": "Hop to it - entries are open now for SSAS Race 3 on a fantastic, new colour map; parkland orienteering doesnt come much better than this!\nSummer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open first appeared on Orienteering Victoria.",
@@ -666,16 +676,6 @@
           "wordCount": 1342,
           "title": "Exploring the West Woods for a Greater Good | Jonathan Boyer",
           "imageUrl": "https://neooc.com/wp-content/uploads/2024/09/ControlAtTheWestWoods.png"
-        },
-        {
-          "id": "https://neooc.com/?p=47855",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 26th",
-          "link": "https://neooc.com/new-event-the-amaizeing-night-o-near-peninsula-ohio-saturday-october-26th/",
-          "publishedOn": "2024-09-22T17:28:14.000Z",
-          "wordCount": 1324,
-          "title": "New Event | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 26th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2022/10/Corn-Maze.png"
         }
       ]
     },
