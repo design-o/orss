@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T18:12:02.002Z</updated>
+    <updated>2024-10-23T00:41:02.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -933,17 +933,6 @@ The post Ireland’s Elite Poised to Dominate the Thrilling World Cup! first app
 The post Ireland’s Elite Poised to Dominate the Thrilling World Cup! first appeared on Orienteering in Ireland.]]></summary>
         <author>
             <name>Senior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13882</id>
-        <link href="https://www.vicorienteering.asn.au/big-news-from-bulgaria-maya-places-4th-in-her-first-world-mtbo-champs/"/>
-        <updated>2024-09-23T10:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Fantastic results coming in from Maya and Lucas at the World MTBO Champs!
-Big News From Bulgaria – Maya Places 4th in Her First World MTBO Champs! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
