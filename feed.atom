@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T06:12:44.274Z</updated>
+    <updated>2024-10-23T12:15:42.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -890,16 +890,6 @@ Vale Bob Allison first appeared on Orienteering Australia.]]></summary>
 Orienteering World Cup Final – 26-29 September – Kuopio, Finland first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>arpadk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Andrine Benjaminsen on the World Cup Final and Norway’s medal rush at EOC]]></title>
-        <id>https://orienteering.sport/?p=74091</id>
-        <link href="https://orienteering.sport/podcast-andrine-benjaminsen-on-the-world-cup-final-and-norways-medal-rush-at-eoc/"/>
-        <updated>2024-09-23T19:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Andrine Benjaminsen (NOR) played a big role in Norway’s impressive performances at EOC in Hungary, where the Norwegians took seven medals and topped the medal standings. She won a relay silver and two individual bronze medals in the Hungarian heat and has hit a good shape this fall and look forward to the World Cup […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
