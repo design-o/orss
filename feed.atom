@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T00:41:02.907Z</updated>
+    <updated>2024-10-23T06:12:44.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -900,39 +900,6 @@ Orienteering World Cup Final – 26-29 September – Kuopio, Finland first appea
         <summary type="html"><![CDATA[Andrine Benjaminsen (NOR) played a big role in Norway’s impressive performances at EOC in Hungary, where the Norwegians took seven medals and topped the medal standings. She won a relay silver and two individual bronze medals in the Hungarian heat and has hit a good shape this fall and look forward to the World Cup […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Members Please Join the NIOA EGM on Zoom – Tues 24 Sep at 19:30]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5937</id>
-        <link href="https://www.niorienteering.org.uk/members-please-join-the-nioa-egm-on-zoom-tues-24-sep-at-1930/"/>
-        <updated>2024-09-23T16:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Members are kindly requested to join on Zoom on Tuesday 24 September at 19:30 for a short Extra Ordinary General Meeting. As the meeting is to consider a change to the Constitution at least 25 members are required to be present at the meeting. Therefore...
-The post Members Please Join the NIOA EGM on Zoom – Tues 24 Sep at 19:30 appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland’s Elite Poised to Dominate the Thrilling World Cup!]]></title>
-        <id>https://www.orienteering.ie/?p=19467</id>
-        <link href="https://www.orienteering.ie/irelands-elite-poised-to-dominate-the-thrilling-world-cup/"/>
-        <updated>2024-09-23T13:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland is excited to announce that six talented athletes will represent Ireland at the World Cup Final in Finland. The team includes Aoife, Clodagh, Colm, Cílín, Ruairi, and Laurence. They will compete internationally starting on September 26th. The final races for the 2024 Orienteering World Cup will take place in Kuopio, Finland, from Thursday […]
-The post Ireland’s Elite Poised to Dominate the Thrilling World Cup! first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Senior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland’s Elite Poised to Dominate the Thrilling World Cup!]]></title>
-        <id>https://www.orienteering.ie/?p=19467</id>
-        <link href="https://www.orienteering.ie/irelands-elite-poised-to-dominate-the-thrilling-world-cup/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=irelands-elite-poised-to-dominate-the-thrilling-world-cup"/>
-        <updated>2024-09-23T13:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland is excited to announce that six talented athletes will represent Ireland at the World Cup Final in Finland. The team includes Aoife, Clodagh, Colm, Cílín, Ruairi, and Laurence. They will compete internationally starting on September 26th. The final races for the 2024 Orienteering World Cup will take place in Kuopio, Finland, from Thursday […]
-The post Ireland’s Elite Poised to Dominate the Thrilling World Cup! first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Senior</name>
         </author>
     </entry>
 </feed>
