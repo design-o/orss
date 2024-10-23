@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T12:15:42.005Z</updated>
+    <updated>2024-10-23T18:11:05.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Annual General Meeting]]></title>
+        <id>https://slow.org.uk/?p=22516</id>
+        <link href="https://slow.org.uk/clubnews/2024-annual-general-meeting/"/>
+        <updated>2024-10-23T17:19:10.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Annual General Meeting of South London Orienteers is at 8.00pm on 19th November 2024at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW. [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coaching Courses update]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54574</id>
+        <link href="https://www.scottish-orienteering.org/news/coaching-courses-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coaching-courses-update"/>
+        <updated>2024-10-23T16:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Our great sport always needs people to help introduce others to a fantastic new activity or support those already participating […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Events | 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd]]></title>
         <id>https://neooc.com/?p=47919</id>
@@ -879,17 +899,6 @@ Vale Bob Allison first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[The 2024 international orienteering season will go off with a bang, when the World Cup Final is held in Finland from Thursday to Sunday this week. Whether you follow from the arena north of Kuopio or from home, you should be in good hands getting close to the action in the forest. IOF TV offers […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering World Cup Final – 26-29 September – Kuopio, Finland]]></title>
-        <id>https://orienteering.asn.au/?p=12121</id>
-        <link href="https://orienteering.asn.au/orienteering-world-cup-final-26-29-september-kuopio-finland/"/>
-        <updated>2024-09-24T00:40:40.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Orienteering World Cup Final / Round 4 in Kuopio, Finland begins on Thursday. Follow all the live services on the IOF homepage.
-Orienteering World Cup Final – 26-29 September – Kuopio, Finland first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>arpadk</name>
         </author>
     </entry>
 </feed>

@@ -304,6 +304,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22516",
+          "author": "Paul Street",
+          "description": "The 2024 Annual General Meeting of South London Orienteers is at 8.00pm on 19th November 2024at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW. [...]",
+          "link": "https://slow.org.uk/clubnews/2024-annual-general-meeting/",
+          "publishedOn": "2024-10-23T17:19:10.000Z",
+          "wordCount": 1989,
+          "title": "2024 Annual General Meeting",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22464",
           "author": "Paul Street",
           "description": "Link to enter this event South London Orienteers invites you to run on Hankley Common on Sunday 10th November 2024. We are putting on a [...]",
@@ -635,6 +645,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54574",
+          "author": "suzannerb",
+          "description": "Our great sport always needs people to help introduce others to a fantastic new activity or support those already participating […]",
+          "link": "https://www.scottish-orienteering.org/news/coaching-courses-update/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-courses-update",
+          "publishedOn": "2024-10-23T16:30:26.000Z",
+          "wordCount": 1681,
+          "title": "Coaching Courses update",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/image.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54556",
           "author": "nikkihoward",
           "description": "With the 2025 calendar having been pulled together slightly later than anticipated due to the World Orienteering Championships having taken […]",
@@ -896,16 +916,6 @@
           "publishedOn": "2024-09-25T10:12:38.000Z",
           "wordCount": 2376,
           "title": "Vale Bob Allison",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12121",
-          "author": "arpadk",
-          "description": "The 2024 Orienteering World Cup Final / Round 4 in Kuopio, Finland begins on Thursday. Follow all the live services on the IOF homepage.\nOrienteering World Cup Final – 26-29 September – Kuopio, Finland first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/orienteering-world-cup-final-26-29-september-kuopio-finland/",
-          "publishedOn": "2024-09-24T00:40:40.000Z",
-          "wordCount": 2461,
-          "title": "Orienteering World Cup Final – 26-29 September – Kuopio, Finland",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
