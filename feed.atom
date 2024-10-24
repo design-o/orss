@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T12:15:34.518Z</updated>
+    <updated>2024-10-24T18:11:18.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Calm Before the Storm]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6080</id>
+        <link href="https://www.niorienteering.org.uk/the-calm-before-the-storm/"/>
+        <updated>2024-10-24T12:17:33.000Z</updated>
+        <summary type="html"><![CDATA[On a beautiful day out in the Glens of Antrim at NI Colour Series 6, just hours before the onset of Storm Ashley, competitors enjoyed challenging courses in the recently remapped Glenarriff Forest. Thanks to the LVO team of Planner Lyle Fleming, Organiser Richard Crutchley,...
+The post The Calm Before the Storm appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Annual General Meeting]]></title>
         <id>https://slow.org.uk/?p=22516</id>
@@ -879,16 +890,6 @@ The post NI Team off to the JIRCs appeared first on NI Orienteering Association.
 Vale Bob Allison first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>michaeldowling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Final 2024: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20351</id>
-        <link href="https://news.worldofo.com/2024/09/25/world-cup-final-2024-all-you-need-to-know/"/>
-        <updated>2024-09-25T03:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Starting with a long distance race on Thursday – and continuing with a middle distance on Saturday and a relay on Sunday – the World’s best orienteers will gather in Kuopio, Finland to compete for the final time on the international scene this season. The terrain looks amazing as always in this region of Finland, and ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

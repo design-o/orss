@@ -151,16 +151,6 @@
           "wordCount": 4255,
           "title": "World Cup Final 2024: Maps, Results and Splits Analysis",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/09/map_men-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20351",
-          "author": "Jan Kocbach",
-          "description": "Starting with a long distance race on Thursday – and continuing with a middle distance on Saturday and a relay on Sunday – the World’s best orienteers will gather in Kuopio, Finland to compete for the final time on the international scene this season. The terrain looks amazing as always in this region of Finland, and ...",
-          "link": "https://news.worldofo.com/2024/09/25/world-cup-final-2024-all-you-need-to-know/",
-          "publishedOn": "2024-09-25T03:00:21.000Z",
-          "wordCount": 3108,
-          "title": "World Cup Final 2024: All You Need To Know",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/09/kuopio-660x330.png"
         }
       ]
     },
@@ -731,6 +721,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6080",
+          "author": "NIOA Secretary",
+          "description": "On a beautiful day out in the Glens of Antrim at NI Colour Series 6, just hours before the onset of Storm Ashley, competitors enjoyed challenging courses in the recently remapped Glenarriff Forest. Thanks to the LVO team of Planner Lyle Fleming, Organiser Richard Crutchley,...\nThe post The Calm Before the Storm appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/the-calm-before-the-storm/",
+          "publishedOn": "2024-10-24T12:17:33.000Z",
+          "wordCount": 4408,
+          "title": "The Calm Before the Storm",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/10/Glenarriff.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6061",
           "author": "NIOA Secretary",
