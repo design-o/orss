@@ -341,6 +341,26 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60590",
+          "author": "Christo Peters",
+          "description": "At the 2025 Oceania Championships (24-27 January), New Zealand and Australia will be contesting the AUS-NZL Foot-O Challenge. ONZ is looking for a manager of the New Zealand Team. The NZ Manager will be responsible for co-ordinating the NZ Team. The role will require co-ordination with Athletes, Event Organisers, Orienteering Australia’s Manager, and the NZ […]\nLooking for a 2025 Australia-New Zealand Challenge Manager first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2025-australia-new-zealand-challenge-manager/",
+          "publishedOn": "2024-10-24T21:25:41.000Z",
+          "wordCount": 2202,
+          "title": "Looking for a 2025 Australia-New Zealand Challenge Manager",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/2025-AUSNZ-Challenge-Manager-Ad-scaled.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60586",
+          "author": "Christo Peters",
+          "description": "The ONZ High Performance Training Camp is aimed at athletes in the 17.5 and over age range who have serious ambition to represent New Zealand on the international stage (e.g. JWOC, WUOC, WOC) over the next few years. It is designed to help prepare athletes physically, technically and psychologically and involves both physical and technical […]\nONZ High Performance Camp Registrations Open but only until Sun 2 Nov! first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/u23-camp-registrations-open-but-only-until-sun-2-nov/",
+          "publishedOn": "2024-10-24T20:37:24.000Z",
+          "wordCount": 2272,
+          "title": "ONZ High Performance Camp Registrations Open but only until Sun 2 Nov!",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Screenshot-694.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60576",
           "author": "Christo Peters",
           "description": "Dear Clubs and members, Due to low numbers, the Club Forum scheduled for Tue 22 October has been postponed. Regards Christo Peters General Manager\nClub Forum postponed first appeared on Orienteering New Zealand.",
@@ -896,16 +916,6 @@
           "publishedOn": "2024-09-27T17:21:29.000Z",
           "wordCount": 2379,
           "title": "Australian Orienteering Championships 2024 Preview",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12149",
-          "author": "michaeldowling",
-          "description": "Australian orienteering has lost one of its most accomplished and popular participants with the passing of Bob Allison on 21 September, following a long illness.\nVale Bob Allison first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/vale-bob-allison/",
-          "publishedOn": "2024-09-25T10:12:38.000Z",
-          "wordCount": 2376,
-          "title": "Vale Bob Allison",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T18:11:18.984Z</updated>
+    <updated>2024-10-25T00:41:02.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Looking for a 2025 Australia-New Zealand Challenge Manager]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60590</id>
+        <link href="https://www.orienteering.org.nz/news/2025-australia-new-zealand-challenge-manager/"/>
+        <updated>2024-10-24T21:25:41.000Z</updated>
+        <summary type="html"><![CDATA[At the 2025 Oceania Championships (24-27 January), New Zealand and Australia will be contesting the AUS-NZL Foot-O Challenge. ONZ is looking for a manager of the New Zealand Team. The NZ Manager will be responsible for co-ordinating the NZ Team. The role will require co-ordination with Athletes, Event Organisers, Orienteering Australia’s Manager, and the NZ […]
+Looking for a 2025 Australia-New Zealand Challenge Manager first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONZ High Performance Camp Registrations Open but only until Sun 2 Nov!]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60586</id>
+        <link href="https://www.orienteering.org.nz/news/u23-camp-registrations-open-but-only-until-sun-2-nov/"/>
+        <updated>2024-10-24T20:37:24.000Z</updated>
+        <summary type="html"><![CDATA[The ONZ High Performance Training Camp is aimed at athletes in the 17.5 and over age range who have serious ambition to represent New Zealand on the international stage (e.g. JWOC, WUOC, WOC) over the next few years. It is designed to help prepare athletes physically, technically and psychologically and involves both physical and technical […]
+ONZ High Performance Camp Registrations Open but only until Sun 2 Nov! first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Calm Before the Storm]]></title>
         <id>https://www.niorienteering.org.uk/?p=6080</id>
@@ -879,17 +901,6 @@ The post Get Your NIOC Entry In appeared first on NI Orienteering Association.]]
 The post NI Team off to the JIRCs appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale Bob Allison]]></title>
-        <id>https://orienteering.asn.au/?p=12149</id>
-        <link href="https://orienteering.asn.au/vale-bob-allison/"/>
-        <updated>2024-09-25T10:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Australian orienteering has lost one of its most accomplished and popular participants with the passing of Bob Allison on 21 September, following a long illness.
-Vale Bob Allison first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>michaeldowling</name>
         </author>
     </entry>
 </feed>
