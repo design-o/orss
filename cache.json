@@ -752,6 +752,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=6090",
+          "author": "NIOA Secretary",
+          "description": "LiDAR is an acronym of “Light Detection And Ranging”, a technology with considerable potential for mapping in orienteering. North West Orienteering Club have recently commissioned a drone LiDAR survey of Moydamlaght Forest, for a new map which was used at the NI Colour Series on...\nThe post LiDAR Workshop appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/lidar-workshop/",
+          "publishedOn": "2024-10-28T13:47:44.000Z",
+          "wordCount": 4331,
+          "title": "LiDAR Workshop",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/10/LIDAR.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=6080",
           "author": "NIOA Secretary",
           "description": "On a beautiful day out in the Glens of Antrim at NI Colour Series 6, just hours before the onset of Storm Ashley, competitors enjoyed challenging courses in the recently remapped Glenarriff Forest. Thanks to the LVO team of Planner Lyle Fleming, Organiser Richard Crutchley,...\nThe post The Calm Before the Storm appeared first on NI Orienteering Association.",
@@ -886,16 +896,6 @@
           "publishedOn": "2024-10-03T09:43:55.000Z",
           "wordCount": 2450,
           "title": "UPDATE – Nominations – Aus/NZ Challenge at Oceania 2025",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12163",
-          "author": "elizabethl",
-          "description": "Australian Bushrangers team athletes have been chosen for the AUS vs. NZ Test Match Championships.\nAustralian Bushrangers Team Announced first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/australian-bushrangers-team-announced/",
-          "publishedOn": "2024-09-29T02:00:37.000Z",
-          "wordCount": 2210,
-          "title": "Australian Bushrangers Team Announced",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
