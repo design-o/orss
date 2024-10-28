@@ -150,6 +150,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13930",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-coming-soon/",
+          "publishedOn": "2024-10-21T00:05:47.000Z",
+          "wordCount": 1090,
+          "title": "Summer Shorts and Sprints Race 5, Sunday 10 November, Ruffey Lake",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14040",
           "author": "Debbie Dodd",
           "description": "",
@@ -627,6 +637,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47930",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Results Results by Course Livelox Splits Browser coming soon… Course Notes: Cornzilla = Long course Candy Cane = Short course MP = Miss Punch, one or more controls missed or punched out-of-order DNS= Did not Start Many Thanks to our Volunteers! Event Director:  Bob Boltz Course designer:  Bob Boltz On-line Registrar:  Fred Mailey On-site Registrar:  Jay […]",
+          "link": "https://neooc.com/results-the-amaizeing-night-o-near-peninsula-ohio-saturday-october-26th/",
+          "publishedOn": "2024-10-27T20:59:45.000Z",
+          "wordCount": 1381,
+          "title": "Results | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 26th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
+        },
         {
           "id": "https://neooc.com/?p=47919",
           "author": "Northeast Ohio Orienteering Club",
