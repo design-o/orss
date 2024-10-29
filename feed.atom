@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T00:41:46.910Z</updated>
+    <updated>2024-10-29T06:13:34.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -868,16 +868,6 @@ The post NI Junior Team back from JIRCs appeared first on NI Orienteering Associ
         <summary type="html"><![CDATA[Tove Alexandersson (Sweden) won both the long distance, the middle distance and anchored Sweden to victory on the women’s relay in this weekend’s World Cup final in Kuopio, Finland. In the men’s class Miika Kirmula (Finland) won the long distance, Eirik Langedal Breivik (Norway) the middle distance and Sweden won the relay. In the Long ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweden takes the Team World Cup title after thrilling relay wins]]></title>
-        <id>https://orienteering.sport/?p=74509</id>
-        <link href="https://orienteering.sport/sweden-takes-the-team-world-cup-title-after-thrilling-relay-wins/"/>
-        <updated>2024-09-29T16:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Nothing was decided in the overall Orienteering Team World Cup before Sunday’s relays north of Kuopio in Finland, where this year’s World Cup Final took place. Before the start of the men’s relay, Switzerland led the overall standings – 13 points ahead of Norway and a 51-point lead over the defending champions from Sweden. And […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
