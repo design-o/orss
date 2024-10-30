@@ -121,18 +121,7 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": [
-        {
-          "id": "http://news.worldofo.com/?p=20363",
-          "author": "Jan Kocbach",
-          "description": "Tove Alexandersson (Sweden) won both the long distance, the middle distance and anchored Sweden to victory on the women’s relay in this weekend’s World Cup final in Kuopio, Finland. In the men’s class Miika Kirmula (Finland) won the long distance, Eirik Langedal Breivik (Norway) the middle distance and Sweden won the relay. In the Long ...",
-          "link": "https://news.worldofo.com/2024/09/30/world-cup-final-2024-maps-results-race-development-graphs/",
-          "publishedOn": "2024-09-30T07:35:41.000Z",
-          "wordCount": 4255,
-          "title": "World Cup Final 2024: Maps, Results and Splits Analysis",
-          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/09/map_men-660x330.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News | Orienteering Victoria",
@@ -263,6 +252,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22561",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident Live Results WinSplits Routegadget – to follow",
+          "link": "https://slow.org.uk/racereports/wimbledon-results-oct2024/",
+          "publishedOn": "2024-10-29T23:10:52.000Z",
+          "wordCount": 1945,
+          "title": "Wimbledon Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wimbledon-results-oct2024/files/1000017487.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22550",
           "author": "vinh",
@@ -733,16 +732,6 @@
           "wordCount": 1861,
           "title": "Clubs sharing best practice over tea and cake",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/IMG_9782-1024x706.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54473",
-          "author": "suzannerb",
-          "description": "Clubs are always looking for more volunteers to take on event official roles and help spread the load. Would you […]",
-          "link": "https://www.scottish-orienteering.org/news/event-officials-courses/?utm_source=rss&utm_medium=rss&utm_campaign=event-officials-courses",
-          "publishedOn": "2024-09-30T12:38:38.000Z",
-          "wordCount": 1829,
-          "title": "Event officials courses",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/09/Junior-planners-TD2-1.png"
         }
       ]
     },
@@ -751,6 +740,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6096",
+          "author": "NIOA Secretary",
+          "description": "Don’t miss the the final NI Colour Series of the 2024 season at Todd’s Leap and the adjacent Dunmoyle Forest, Co Tryone on Satruday 16 November. All the details are on the Fermanagh Orienteers website. Entries are now open on SIentries, with entries closing on...\nThe post Book Before You Leap appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/book-before-you-leap/",
+          "publishedOn": "2024-10-29T18:20:49.000Z",
+          "wordCount": 4281,
+          "title": "Book Before You Leap",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2024/10/Todds-Leap.jpg?fit=909%2C713&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6090",
           "author": "NIOA Secretary",
