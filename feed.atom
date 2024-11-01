@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T12:15:32.503Z</updated>
+    <updated>2024-11-01T18:11:27.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLOW MBO Event Calendar 2025]]></title>
+        <id>https://slow.org.uk/?p=22533</id>
+        <link href="https://slow.org.uk/events/slow-mbo-event-calendar-2025/"/>
+        <updated>2024-11-01T16:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the SLOW MBO 2025 season. Navigate your way around some fantastic terrain in the South East of England on a mountain bike. Event [...]]]></summary>
+        <author>
+            <name>Dave Uglow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[National Orienteering Teams Selection Criteria Published]]></title>
         <id>https://orienteering.asn.au/?p=12370</id>
@@ -731,26 +741,6 @@ The post Veterans Running at Home appeared first on NI Orienteering Association.
 UPDATE – Nominations – Aus/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>arpadk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat and Bendigo Events in October]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13998</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-and-bendigo-events-in-october/"/>
-        <updated>2024-10-03T04:02:35.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update: Summer Series is Here!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2024-10-03T02:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Summer Series gets underway on September 30, and continues right through until March 2025.  Get ready!
-Park Street Update: Summer Series is Here! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

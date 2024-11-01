@@ -167,26 +167,6 @@
           "wordCount": 1533,
           "title": "Vics at the AusChamps – Four Victorians Clean Sweep the Golds",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13998",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/ballarat-and-bendigo-events-in-october/",
-          "publishedOn": "2024-10-03T04:02:35.000Z",
-          "wordCount": 1240,
-          "title": "Ballarat and Bendigo Events in October",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Summer Series gets underway on September 30, and continues right through until March 2025.  Get ready!\nPark Street Update: Summer Series is Here! first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2024-10-03T02:41:54.000Z",
-          "wordCount": 1191,
-          "title": "Park Street Update: Summer Series is Here!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -232,6 +212,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22533",
+          "author": "Dave Uglow",
+          "description": "Welcome to the SLOW MBO 2025 season. Navigate your way around some fantastic terrain in the South East of England on a mountain bike. Event [...]",
+          "link": "https://slow.org.uk/events/slow-mbo-event-calendar-2025/",
+          "publishedOn": "2024-11-01T16:19:38.000Z",
+          "wordCount": 2646,
+          "title": "SLOW MBO Event Calendar 2025",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/slow-mbo-event-calendar-2025/files/Ariel-view-900.png"
+        },
         {
           "id": "https://slow.org.uk/?p=22561",
           "author": "Steve Clelland",
