@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T00:44:48.279Z</updated>
+    <updated>2024-11-01T06:13:42.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -762,16 +762,6 @@ Park Street Update: Summer Series is Here! first appeared on Orienteering Victor
 The post Portrush Results appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clubs sharing best practice over tea and cake]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54486</id>
-        <link href="https://www.scottish-orienteering.org/news/clubs-sharing-best-practice-over-tea-and-cake/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=clubs-sharing-best-practice-over-tea-and-cake"/>
-        <updated>2024-10-02T15:28:42.000Z</updated>
-        <summary type="html"><![CDATA[The Club Networking Day held on 14th September together with an Extraordinary General Meeting (EGM) to elect a new Chair […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
