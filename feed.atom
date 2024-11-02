@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T00:39:58.309Z</updated>
+    <updated>2024-11-02T06:11:23.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -747,17 +747,6 @@ The post Orienteering Mapping Course first appeared on Orienteering in Ireland.]
 Vics at the AusChamps – Four Victorians Clean Sweep the Golds first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veterans Running at Home]]></title>
-        <id>https://www.niorienteering.org.uk/?p=5990</id>
-        <link href="https://www.niorienteering.org.uk/veterans-running-at-home/"/>
-        <updated>2024-10-03T13:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Best wishes to the Ireland Veteran Home International team, competing this weekend 4-5 October in Co Tryone. Of course the NI Orienteering Championships will be running the same courses after the veterans at Gortin Glen Forest on Saturday and then on Sunday the Veterans move...
-The post Veterans Running at Home appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
