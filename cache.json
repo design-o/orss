@@ -129,6 +129,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14086",
+          "author": "Debbie Dodd",
+          "description": "Be part of the next Melbourne City Race by entering online today! Read more for all the race details.\nMelbourne City Race, Sunday 17 November – Be Part of No 5! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/melbourne-city-race-sunday-17-november-be-part-of-no-5/",
+          "publishedOn": "2024-11-03T00:36:48.000Z",
+          "wordCount": 1175,
+          "title": "Melbourne City Race, Sunday 17 November – Be Part of No 5!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13930",
           "author": "Debbie Dodd",
           "description": "",
@@ -572,26 +582,6 @@
           "wordCount": 2229,
           "title": "Senior Home Internationals see a home win",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/3c4b25a1-50f2-4136-9bd0-3ff2718e678c-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54515",
-          "author": "nikkihoward",
-          "description": "David Robertson of Edinburgh Southern Orienteering Club (ESOC) is never one to blow his own trumpet! So much so that […]",
-          "link": "https://www.scottish-orienteering.org/news/david-robertson-recognised-with-the-presidents-medal/?utm_source=rss&utm_medium=rss&utm_campaign=david-robertson-recognised-with-the-presidents-medal",
-          "publishedOn": "2024-10-04T15:27:46.000Z",
-          "wordCount": 1807,
-          "title": "David Robertson recognised with the President’s Medal",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/Image-1-1024x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54489",
-          "author": "nikkihoward",
-          "description": "Last weekend saw a Scottish Junior team make their way to the South West for the Junior Inter Regional Championships. […]",
-          "link": "https://www.scottish-orienteering.org/news/junior-inter-regional-trophies-find-their-way-back-to-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=junior-inter-regional-trophies-find-their-way-back-to-scotland",
-          "publishedOn": "2024-10-04T13:51:03.000Z",
-          "wordCount": 2225,
-          "title": "Junior Inter Regional Trophies find their way back to Scotland",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/10/IMG_9796-1024x768.jpg"
         }
       ]
     },

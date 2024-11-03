@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T00:44:19.014Z</updated>
+    <updated>2024-11-03T06:13:04.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melbourne City Race, Sunday 17 November – Be Part of No 5!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14086</id>
+        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-sunday-17-november-be-part-of-no-5/"/>
+        <updated>2024-11-03T00:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Be part of the next Melbourne City Race by entering online today! Read more for all the race details.
+Melbourne City Race, Sunday 17 November – Be Part of No 5! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updated SkiO rules published]]></title>
         <id>https://orienteering.sport/?p=75064</id>
@@ -694,26 +705,6 @@ Setters & Controllers Resource Sharing Meeting | New Date Wed 30 October first a
 The post Congratulations to the 2024 NI Champions appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Robertson recognised with the President’s Medal]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54515</id>
-        <link href="https://www.scottish-orienteering.org/news/david-robertson-recognised-with-the-presidents-medal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=david-robertson-recognised-with-the-presidents-medal"/>
-        <updated>2024-10-04T15:27:46.000Z</updated>
-        <summary type="html"><![CDATA[David Robertson of Edinburgh Southern Orienteering Club (ESOC) is never one to blow his own trumpet! So much so that […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Inter Regional Trophies find their way back to Scotland]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54489</id>
-        <link href="https://www.scottish-orienteering.org/news/junior-inter-regional-trophies-find-their-way-back-to-scotland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-inter-regional-trophies-find-their-way-back-to-scotland"/>
-        <updated>2024-10-04T13:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Last weekend saw a Scottish Junior team make their way to the South West for the Junior Inter Regional Championships. […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
