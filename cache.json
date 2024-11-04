@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75067",
+          "author": "Erling Thisted",
+          "description": "Karolin Ohlsson (SWE) achieved the best individual result of her career so far at the WOC 2024 Knock-Out Sprint in Scotland, where she won the silver medal behind compatriot Tove Alexandersson. In this episode of the IOF Podcast, we watch the final with Karolin to relive it from her point of view. Join us for […]",
+          "link": "https://orienteering.sport/podcast-karolin-ohlsson-on-the-ko-sprint-silver-from-edinburgh/",
+          "publishedOn": "2024-11-03T22:59:55.000Z",
+          "wordCount": 2060,
+          "title": "Podcast: Karolin Ohlsson – on the KO Sprint silver in Edinburgh",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/11/2024_woc_ko_sprint_podcast-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75064",
           "author": "Erling Thisted",
           "description": "The competition rules for Ski Orienteering Events valid from November 1st, 2024 have now been approved and published here at the IOF website. Find them at the SkiO competition rules section here.",
@@ -516,6 +526,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=47952",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Congratulations to Walker Ziewitz and Jonathan Boyer, who both cleared the course in under 2 hours! Also, there were top performances by Todd Pownell, John Pane (WPOC), and Sandra Albro who came in third, fourth, and fifth respectively. Results Results by Team/Individual Livelox (Upload you GPS and compare your route choice with others)",
+          "link": "https://neooc.com/results-2024-night-crawler-o-night-score-at-camp-manatoc-cvnp-saturday-nov-2nd/",
+          "publishedOn": "2024-11-03T21:44:16.000Z",
+          "wordCount": 1358,
+          "title": "Results | 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
+        },
         {
           "id": "https://neooc.com/?p=47930",
           "author": "Northeast Ohio Orienteering Club",
