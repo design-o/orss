@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T12:16:29.855Z</updated>
+    <updated>2024-11-04T18:11:10.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calling all EUOC members past and present!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54622</id>
+        <link href="https://www.scottish-orienteering.org/news/calling-all-euoc-members-past-and-present/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=calling-all-euoc-members-past-and-present"/>
+        <updated>2024-11-04T12:50:32.000Z</updated>
+        <summary type="html"><![CDATA[The university club is celebrating its 60th anniversary this year.  Anyone that has been a part of EUOC past or […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Karolin Ohlsson – on the KO Sprint silver in Edinburgh]]></title>
         <id>https://orienteering.sport/?p=75067</id>
