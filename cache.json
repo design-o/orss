@@ -104,16 +104,6 @@
           "wordCount": 1994,
           "title": "South American Championships begin in Colombia on Saturday",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/saoc_2024_logo-1024x740.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=74577",
-          "author": "Erling Thisted",
-          "description": "The “Inclusive Orienteering for All” (IOFA) project is organising an International TrailO Training Course taking place from November 2 to 4, 2024 in Nicosia, Cyprus. This 2.5-day event is designed to equip participants with the knowledge and skills to organize and promote Trail Orienteering events that are inclusive and accessible to everyone, including individuals with […]",
-          "link": "https://orienteering.sport/join-the-international-trailo-course-in-cyprus-from-nov-2-4/",
-          "publishedOn": "2024-10-07T18:20:25.000Z",
-          "wordCount": 1801,
-          "title": "Join the International TrailO course in Cyprus from Nov. 2-4",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/orienteering4all-billede_logo-jpg.jpg"
         }
       ]
     },
@@ -563,6 +553,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54598",
+          "author": "louise",
+          "description": "Juniors from all over Scotland headed north for this year’s junior interarea competition that took place on the weekend of […]",
+          "link": "https://www.scottish-orienteering.org/news/success-for-north-at-2024-junior-interareas/?utm_source=rss&utm_medium=rss&utm_campaign=success-for-north-at-2024-junior-interareas",
+          "publishedOn": "2024-11-06T09:49:45.000Z",
+          "wordCount": 1950,
+          "title": "Success for North at 2024 Junior InterAreas!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/464489450_1082460043886047_7143005776544488925_n-1-1019x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54622",
           "author": "nikkihoward",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T06:12:20.802Z</updated>
+    <updated>2024-11-06T12:15:36.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Success for North at 2024 Junior InterAreas!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54598</id>
+        <link href="https://www.scottish-orienteering.org/news/success-for-north-at-2024-junior-interareas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=success-for-north-at-2024-junior-interareas"/>
+        <updated>2024-11-06T09:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Juniors from all over Scotland headed north for this year’s junior interarea competition that took place on the weekend of […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calling all EUOC members past and present!]]></title>
         <id>https://www.scottish-orienteering.org/?p=54622</id>
@@ -684,16 +694,6 @@ Setters & Controllers Resource Sharing Meeting | New Date Wed 30 October first a
         <summary type="html"><![CDATA[Results Results listed by Team Captain Livelox – See route choices – Per course selection pull down]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join the International TrailO course in Cyprus from Nov. 2-4]]></title>
-        <id>https://orienteering.sport/?p=74577</id>
-        <link href="https://orienteering.sport/join-the-international-trailo-course-in-cyprus-from-nov-2-4/"/>
-        <updated>2024-10-07T18:20:25.000Z</updated>
-        <summary type="html"><![CDATA[The “Inclusive Orienteering for All” (IOFA) project is organising an International TrailO Training Course taking place from November 2 to 4, 2024 in Nicosia, Cyprus. This 2.5-day event is designed to equip participants with the knowledge and skills to organize and promote Trail Orienteering events that are inclusive and accessible to everyone, including individuals with […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
