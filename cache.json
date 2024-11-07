@@ -213,6 +213,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22623",
+          "author": "Steve Clelland",
+          "description": "The second race of South London Orienteers’ 2024-2025 Night series takes place on Wandsworth Common, south-west London, on Tuesday 26th November 2024. Race Centre The race will [...]",
+          "link": "https://slow.org.uk/events/wandsworth-night-nov2024/",
+          "publishedOn": "2024-11-06T22:47:54.000Z",
+          "wordCount": 2595,
+          "title": "Wandsworth Common Night-O, Tuesday 26th November",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Richmond_nightaction-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22533",
           "author": "Dave Uglow",
           "description": "Welcome to the SLOW MBO 2025 season. Navigate your way around some fantastic terrain in the South East of England on a mountain bike. Event [...]",
@@ -488,16 +498,6 @@
           "wordCount": 2101,
           "title": "Club Forum postponed",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Club-Forum-Postponed.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60530",
-          "author": "Christo Peters",
-          "description": "ONZ is regularly asked for Setters and Controllers Resources, something we do not have. At the same time, we are aware that a number of clubs currently have some great resources to aid setting and controlling. The purpose of this meeting is threefold: We would love for all clubs to be represented at this meeting.  Please […]\nSetters & Controllers Resource Sharing Meeting | New Date Wed 30 October first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/setters-controllers-resource-sharing-meeting-new-date-wed-30-october/",
-          "publishedOn": "2024-10-08T09:45:42.000Z",
-          "wordCount": 2229,
-          "title": "Setters & Controllers Resource Sharing Meeting | New Date Wed 30 October",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Setters-Controllers-Header.png"
         }
       ]
     },
@@ -649,16 +649,6 @@
           "wordCount": 4309,
           "title": "From Gortin to Glenarriff",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/10/Glenarriff.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6035",
-          "author": "NIOA Secretary",
-          "description": "For the first time in seven years, Ireland have won back the Stonewall Trophy, on home turf in Co Tyrone. The Stonewall Trophy is hotly contested each year between Ireland and Wales at the Veteran Home International. Following the individual event at Gortin Glen Forest...\nThe post Ireland Win the Stonewall Trophy appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/ireland-win-the-stonewall-trophy/",
-          "publishedOn": "2024-10-08T11:26:05.000Z",
-          "wordCount": 4512,
-          "title": "Ireland Win the Stonewall Trophy",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/10/Stonewall-Trophy.jpg"
         }
       ]
     },
@@ -667,6 +657,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12426",
+          "author": "danielstott",
+          "description": "Learn to Orienteer programs are currently running, and more are planned… but we need more coaches! Join us on zoom to discover how to become a Learn to Orienteer coach and what support you will receive.\nLearn to Orienteer: coaching information session first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/learn-to-orienteer-coaching-information-session/",
+          "publishedOn": "2024-11-07T00:27:20.000Z",
+          "wordCount": 2404,
+          "title": "Learn to Orienteer: coaching information session",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12370",
           "author": "elizabethl",
