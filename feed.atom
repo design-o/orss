@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T06:12:16.639Z</updated>
+    <updated>2024-11-07T12:15:08.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -673,16 +673,6 @@ Australian Orienteering Championships 2024 Results & Recap first appeared on Ori
         <summary type="html"><![CDATA[The SLOW night series will run from October until February and be comprised of 4 events. Full details on each event are posted here on [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peckham Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=22417</id>
-        <link href="https://slow.org.uk/streeto/peckham-street-o-24-results/"/>
-        <updated>2024-10-08T22:55:28.000Z</updated>
-        <summary type="html"><![CDATA[It was a great start to the new Street-O series with over 90 people attending. Many thanks to James and Danny for organising the event [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
