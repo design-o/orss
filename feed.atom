@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T06:12:27.001Z</updated>
+    <updated>2024-11-08T12:15:33.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -663,16 +663,6 @@ Australian Orienteering Championships 2024 Results & Recap first appeared on Ori
         <summary type="html"><![CDATA[Colombia will welcome orienteers from six South American countries this weekend for the biannual South American Orienteering Championships. Athletes from Ecuador, Paraguay, Brazil, Uruguay, Chile and home nation Colombia have all signed up for the three races that make up SAOC 2024 in senior, junior and youth categories. The city of Marinilla will host the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLOW Night Series 2024-25]]></title>
-        <id>https://slow.org.uk/?p=22438</id>
-        <link href="https://slow.org.uk/events/slow-night-series-2024-25/"/>
-        <updated>2024-10-09T21:11:47.000Z</updated>
-        <summary type="html"><![CDATA[The SLOW night series will run from October until February and be comprised of 4 events. Full details on each event are posted here on [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
