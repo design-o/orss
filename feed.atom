@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T06:10:31.305Z</updated>
+    <updated>2024-11-09T12:13:23.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICS 7 Dunmoyle]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6113</id>
+        <link href="https://www.niorienteering.org.uk/nics-7-dunmoyle/"/>
+        <updated>2024-11-09T10:18:20.000Z</updated>
+        <summary type="html"><![CDATA[The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>admin-finlay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Team Manager Position Available for Australian Challenge]]></title>
         <id>https://orienteering.asn.au/?p=12435</id>
@@ -633,27 +643,6 @@ The post Junior Home International appeared first on NI Orienteering Association
 The post From Gortin to Glenarriff appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon Common Night-O, Tuesday 29th October]]></title>
-        <id>https://slow.org.uk/?p=22442</id>
-        <link href="https://slow.org.uk/events/wimbledon-night-oct24/"/>
-        <updated>2024-10-10T21:11:14.000Z</updated>
-        <summary type="html"><![CDATA[The first race of South London Orienteers’ 2024-2025 Night series takes place on Wimbledon Common and Putney Heath, south-west London, on Tuesday 29th October 2024. Race Centre [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Orienteering Championships 2024 Results & Recap]]></title>
-        <id>https://orienteering.asn.au/?p=12185</id>
-        <link href="https://orienteering.asn.au/australian-orienteering-championships-2024-results-recap/"/>
-        <updated>2024-10-10T18:30:07.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Australian Orienteering Championships, held in Armidale, NSW from 28 September-6 October 2024, contained a plethora of events and activities for people of all ages.
-Australian Orienteering Championships 2024 Results & Recap first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>

@@ -251,16 +251,6 @@
           "wordCount": 2573,
           "title": "OK Nuts 2024 – Hankley Common",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/events/hankley-common/files/20191009_Hankley_m.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22442",
-          "author": "Steve Clelland",
-          "description": "The first race of South London Orienteers’ 2024-2025 Night series takes place on Wimbledon Common and Putney Heath, south-west London, on Tuesday 29th October 2024. Race Centre [...]",
-          "link": "https://slow.org.uk/events/wimbledon-night-oct24/",
-          "publishedOn": "2024-10-10T21:11:14.000Z",
-          "wordCount": 2425,
-          "title": "Wimbledon Common Night-O, Tuesday 29th October",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wim_night_Ben-scaled.jpg"
         }
       ]
     },
@@ -541,6 +531,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=6113",
+          "author": "admin-finlay",
+          "description": "The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/nics-7-dunmoyle/",
+          "publishedOn": "2024-11-09T10:18:20.000Z",
+          "wordCount": 4202,
+          "title": "NICS 7 Dunmoyle",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/11/4.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=6104",
           "author": "admin-finlay",
           "description": "The post NICS 7 appeared first on NI Orienteering Association.",
@@ -675,16 +675,6 @@
           "publishedOn": "2024-10-12T21:40:57.000Z",
           "wordCount": 2208,
           "title": "Australian Schools Orienteering Honour Team",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12185",
-          "author": "elizabethl",
-          "description": "The 2024 Australian Orienteering Championships, held in Armidale, NSW from 28 September-6 October 2024, contained a plethora of events and activities for people of all ages.\nAustralian Orienteering Championships 2024 Results & Recap first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/australian-orienteering-championships-2024-results-recap/",
-          "publishedOn": "2024-10-10T18:30:07.000Z",
-          "wordCount": 3264,
-          "title": "Australian Orienteering Championships 2024 Results & Recap",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
