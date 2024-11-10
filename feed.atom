@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T06:10:58.051Z</updated>
+    <updated>2024-11-10T12:13:47.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICS 7 Dunmoyle]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6115</id>
+        <link href="https://www.niorienteering.org.uk/nics-7-dunmoyle-2/"/>
+        <updated>2024-11-10T11:13:20.000Z</updated>
+        <summary type="html"><![CDATA[The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>admin-finlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBO SCORE RESULTS 2025]]></title>
+        <id>https://slow.org.uk/?p=22581</id>
+        <link href="https://slow.org.uk/racereports/mbo-score-results-2025/"/>
+        <updated>2024-11-10T10:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Individual Events 17th November 2024 Holmbury St Mary Rider’s tracks can be found on the MapRun Event Results page. Note that we use the BMBO [...]]]></summary>
+        <author>
+            <name>Dave Uglow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get ready for the Victorian Sprint Champs – 1 December]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14124</id>
@@ -632,17 +652,6 @@ Australian Schools Orienteering Honour Team first appeared on Orienteering Austr
         <updated>2024-10-12T01:00:54.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Home International]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6051</id>
-        <link href="https://www.niorienteering.org.uk/junior-home-international/"/>
-        <updated>2024-10-11T21:35:35.000Z</updated>
-        <summary type="html"><![CDATA[It’s the final weekend of the Home International season, with the Juniors off to East Anglia on 12-13 October, with both the individual and relay events at Sheringham Park in Norfolk. Representing Team Ireland are: W14: Eimear Casey, Deirbhile Hassett, Aoife Masterson, Kathleen O’Donnell M14:...
-The post Junior Home International appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>

@@ -203,6 +203,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22581",
+          "author": "Dave Uglow",
+          "description": "Individual Events 17th November 2024 Holmbury St Mary Rider’s tracks can be found on the MapRun Event Results page. Note that we use the BMBO [...]",
+          "link": "https://slow.org.uk/racereports/mbo-score-results-2025/",
+          "publishedOn": "2024-11-10T10:34:48.000Z",
+          "wordCount": 2285,
+          "title": "MBO SCORE RESULTS 2025",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/mbo-score-results-2025/files/Mickleham900.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22623",
           "author": "Steve Clelland",
           "description": "The second race of South London Orienteers’ 2024-2025 Night series takes place on Wandsworth Common, south-west London, on Tuesday 26th November 2024. Race Centre The race will [...]",
@@ -541,6 +551,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=6115",
+          "author": "admin-finlay",
+          "description": "The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/nics-7-dunmoyle-2/",
+          "publishedOn": "2024-11-10T11:13:20.000Z",
+          "wordCount": 4202,
+          "title": "NICS 7 Dunmoyle",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/11/5.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=6113",
           "author": "admin-finlay",
           "description": "The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.",
@@ -599,16 +619,6 @@
           "wordCount": 4359,
           "title": "It’s a Hat Trick",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/10/JHi-2024.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6051",
-          "author": "NIOA Secretary",
-          "description": "It’s the final weekend of the Home International season, with the Juniors off to East Anglia on 12-13 October, with both the individual and relay events at Sheringham Park in Norfolk. Representing Team Ireland are: W14: Eimear Casey, Deirbhile Hassett, Aoife Masterson, Kathleen O’Donnell M14:...\nThe post Junior Home International appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/junior-home-international/",
-          "publishedOn": "2024-10-11T21:35:35.000Z",
-          "wordCount": 4300,
-          "title": "Junior Home International",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2019/08/4-provinces-flag.jpg"
         }
       ]
     },
