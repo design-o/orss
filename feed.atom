@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T00:43:15.193Z</updated>
+    <updated>2024-11-10T06:10:58.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Get ready for the Victorian Sprint Champs – 1 December]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14124</id>
+        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-victorian-sprint-champs-1-december/"/>
+        <updated>2024-11-10T04:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Tarneit College has been on the radar for a top level sprint event for a long time, and it is finally happening with the Victorian Sprint Championships. This is a fantastic campus for the highlight of the sprint calendar. But remember the Championships is pre entry only.
+Get ready for the Victorian Sprint Champs – 1 December first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NICS 7 Dunmoyle]]></title>
         <id>https://www.niorienteering.org.uk/?p=6113</id>
@@ -630,17 +641,6 @@ Australian Schools Orienteering Honour Team first appeared on Orienteering Austr
         <updated>2024-10-11T21:35:35.000Z</updated>
         <summary type="html"><![CDATA[It’s the final weekend of the Home International season, with the Juniors off to East Anglia on 12-13 October, with both the individual and relay events at Sheringham Park in Norfolk. Representing Team Ireland are: W14: Eimear Casey, Deirbhile Hassett, Aoife Masterson, Kathleen O’Donnell M14:...
 The post Junior Home International appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Gortin to Glenarriff]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6045</id>
-        <link href="https://www.niorienteering.org.uk/from-gortin-to-glenarriff/"/>
-        <updated>2024-10-11T14:54:36.000Z</updated>
-        <summary type="html"><![CDATA[After all the exitement of the NI Orienteering Championships at Gortin, the next Colour Series event at Glengarriff Forest, Co Antrim is creeping up fast! Colour Series 6 is hosted by LVO on Saturday 19 October, with entries to close on Monday 14 October at...
-The post From Gortin to Glenarriff appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
         </author>
