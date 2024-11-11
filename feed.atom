@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T06:12:34.900Z</updated>
+    <updated>2024-11-11T12:15:42.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -634,17 +634,6 @@ Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD first appeared on O
 The post It’s a Hat Trick appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Schools Orienteering Honour Team]]></title>
-        <id>https://orienteering.asn.au/?p=12222</id>
-        <link href="https://orienteering.asn.au/australian-schools-orienteering-honour-team/"/>
-        <updated>2024-10-12T21:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the following athletes named to the Australian Schools Orienteering Honour Team.
-Australian Schools Orienteering Honour Team first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
