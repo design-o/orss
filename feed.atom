@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T18:10:56.221Z</updated>
+    <updated>2024-11-12T00:40:15.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OK Nuts Results – Hankley Common]]></title>
+        <id>https://slow.org.uk/?p=22644</id>
+        <link href="https://slow.org.uk/racereports/ok-nuts-2024/"/>
+        <updated>2024-11-11T22:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Official’s Comments It was a great pleasure and privilege organising the OK Nuts [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NICS 7 Dunmoyle]]></title>
         <id>https://www.niorienteering.org.uk/?p=6115</id>
