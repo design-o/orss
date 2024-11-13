@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T06:13:12.906Z</updated>
+    <updated>2024-11-13T12:15:46.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[October activities at Cuningar Loop, Glasgow]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54584</id>
+        <link href="https://www.scottish-orienteering.org/news/october-activities-at-cuningar-loop-glasgow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=october-activities-at-cuningar-loop-glasgow"/>
+        <updated>2024-11-13T11:25:17.000Z</updated>
+        <summary type="html"><![CDATA[As part of the ‘Increasing Participation’ project overseen by Clyde Gateway at Cuningar Loop Woodland Park in Glasgow, SOA held […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anti-Bullying Week]]></title>
         <id>https://www.niorienteering.org.uk/?p=6119</id>
@@ -624,27 +634,6 @@ Club Forum postponed first appeared on Orienteering New Zealand.]]></summary>
 Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD]]></title>
-        <id>https://orienteering.asn.au/?p=12234</id>
-        <link href="https://orienteering.asn.au/nominations-open-2024-asc-sport-volunteer-of-the-year-award/"/>
-        <updated>2024-10-14T23:23:22.000Z</updated>
-        <summary type="html"><![CDATA[The orienteering community can nominate a valued volunteer for the 2024 Australian Sports Commission Sport Volunteer of the Year Award.
-Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invitation: IOF Event Adviser Seminar from November 23-24]]></title>
-        <id>https://orienteering.sport/?p=74634</id>
-        <link href="https://orienteering.sport/iof-event-adviser-seminar-november-23-24/"/>
-        <updated>2024-10-14T20:17:59.000Z</updated>
-        <summary type="html"><![CDATA[The IOF’s FootO Commission is organizing the IOF Event Adviser Seminar, which will be held online on November 23-24, 2o24. The seminar’s target group includes Senior Event Advisers and Event Advisers, but event organisers, athletes, federation officials, etc. are more than welcome to join. The program is divided into four blocks over the two weekend […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
