@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T12:15:46.574Z</updated>
+    <updated>2024-11-13T18:11:11.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -623,17 +623,6 @@ Club Forum postponed first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[IOF has established a prize and will from now on award the ‘Best scientific publication relating to Sustainability and Orienteering’ every two years. The prize shall reward the best research paper that considers the relationship between Orienteering and any or all of the core elements of Sustainability according to the 2030 Agenda for Sustainable Development […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14008</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-3-tarralla-wetlands-sunday-27-october-entries-open/"/>
-        <updated>2024-10-15T00:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Hop to it - entries are open now for SSAS Race 3 on a fantastic, new colour map; parkland orienteering doesnt come much better than this!
-Summer Shorts and Sprints Race 3, Tarralla Wetlands, Sunday 27 October – Entries Open first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
