@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T18:11:16.584Z</updated>
+    <updated>2024-11-13T00:40:35.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -634,27 +634,6 @@ Nominations open: 2024 ASC SPORT VOLUNTEER OF THE YEAR AWARD first appeared on O
         <summary type="html"><![CDATA[The IOF’s FootO Commission is organizing the IOF Event Adviser Seminar, which will be held online on November 23-24, 2o24. The seminar’s target group includes Senior Event Advisers and Event Advisers, but event organisers, athletes, federation officials, etc. are more than welcome to join. The program is divided into four blocks over the two weekend […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New series of webinars kick off on Wednesday]]></title>
-        <id>https://orienteering.sport/?p=74630</id>
-        <link href="https://orienteering.sport/new-series-of-webinars-kick-off-on-wednesday/"/>
-        <updated>2024-10-14T10:55:51.000Z</updated>
-        <summary type="html"><![CDATA[This Wednesday, October 16th, the 2024-25 series of webinars organised by IOF’s Global Development Commission kick off. The first webinar bears the title “Prevention of injuries among young competitive orienteers” and features Martin Krause from Back In Business Physiotherapy. It is, among other things, about how to avoid injuries among young athletes and at the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s a Hat Trick]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6061</id>
-        <link href="https://www.niorienteering.org.uk/its-a-hat-trick/"/>
-        <updated>2024-10-14T09:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Possibly for the first time in orienteering history, the Home International Season has concluded with a win of Ireland over Wales at Senior, Veteran and now Junior level. Competing in East Anglia on 12-13 October, team Ireland juniors beat Wales 71 v 33 points, winning ...
-The post It’s a Hat Trick appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
