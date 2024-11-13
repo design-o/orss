@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T00:40:35.677Z</updated>
+    <updated>2024-11-13T06:13:12.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -138,6 +138,17 @@ Learn to Orienteer: coaching information session first appeared on Orienteering 
         <summary type="html"><![CDATA[Congratulations to Walker Ziewitz and Jonathan Boyer, who both cleared the course in under 2 hours! Also, there were top performances by Todd Pownell, John Pane (WPOC), and Sandra Albro who came in third, fourth, and fifth respectively. Results Results by Team/Individual Livelox (Upload you GPS and compare your route choice with others)]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MTBO Double Header Weekend, November 23 and 24]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14141</id>
+        <link href="https://www.vicorienteering.asn.au/mtbo-double-header-weekend-november-23-and-24/"/>
+        <updated>2024-11-03T04:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the final chance to orienteer on your bike in 2024, with races at Waurn Ponds and Anglesea!
+MTBO Double Header Weekend, November 23 and 24 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
