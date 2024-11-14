@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T18:11:11.795Z</updated>
+    <updated>2024-11-14T00:40:39.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -128,6 +128,15 @@ Learn to Orienteer: coaching information session first appeared on Orienteering 
         <summary type="html"><![CDATA[The university club is celebrating its 60th anniversary this year.  Anyone that has been a part of EUOC past or […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Final Races, Deakin Burwood and Salesian Sunbury – Entries Now Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14008</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-3-tarralla-wetlands-sunday-27-october-entries-open/"/>
+        <updated>2024-11-04T00:22:03.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -603,26 +612,6 @@ The post Orienteering Photography Competition first appeared on Orienteering in 
 Club Forum postponed first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMOC 2025 makes great efforts to meet summer heat issues]]></title>
-        <id>https://orienteering.sport/?p=74716</id>
-        <link href="https://orienteering.sport/wmoc-2025-makes-great-efforts-to-meet-summer-heat-issues/"/>
-        <updated>2024-10-15T09:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Next year’s World Masters Orienteering Championships in Girona, Spain are making great efforts to meet the challenges of the expected heat during the championship races. With race dates between August 9 – 15, it is likely that the masters athletes will be met by high temperatures. The organizers are very aware of this and therefore […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF establishes prize on sustainability and orienteering]]></title>
-        <id>https://orienteering.sport/?p=74713</id>
-        <link href="https://orienteering.sport/iof-establishes-prize-on-sustainability-and-orienteering/"/>
-        <updated>2024-10-15T09:32:04.000Z</updated>
-        <summary type="html"><![CDATA[IOF has established a prize and will from now on award the ‘Best scientific publication relating to Sustainability and Orienteering’ every two years. The prize shall reward the best research paper that considers the relationship between Orienteering and any or all of the core elements of Sustainability according to the 2030 Agenda for Sustainable Development […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
