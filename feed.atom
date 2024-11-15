@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-15T00:43:00.926Z</updated>
+    <updated>2024-11-15T06:13:22.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14154</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-primary-schools-orienteering-championships-brimbank-park-29-november/"/>
+        <updated>2024-11-15T05:14:29.000Z</updated>
+        <summary type="html"><![CDATA[All year 3-6 students are invited to the Victorian Primary School Champs. Get your entry in now.
+Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOA Welfare Policies highlighted this autumn]]></title>
         <id>https://www.scottish-orienteering.org/?p=54677</id>
