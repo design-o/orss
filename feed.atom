@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T00:45:48.522Z</updated>
+    <updated>2024-11-17T06:11:57.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -633,27 +633,6 @@ Mt Lilydale Indoor-Outoor Sprint, Saturday 2 November – Results and Maps first
         <summary type="html"><![CDATA[Last Event of the Year! 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive vibes and Brazilian victories at the South American Orienteering Championships]]></title>
-        <id>https://orienteering.sport/?p=74799</id>
-        <link href="https://orienteering.sport/positive-vibes-and-brazilian-victories-at-the-south-american-orienteering-championships/"/>
-        <updated>2024-10-18T15:31:39.000Z</updated>
-        <summary type="html"><![CDATA[The South American Orienteering Championships 2024, held in Colombia from the 12th to 14th October, provided a strong statement about orienteering in Colombia and the continent. The championships had record participation with orienteers from 25 different nations around the world making their way to the event center in Marinilla in the region of Antioquia near […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Photography Competition]]></title>
-        <id>https://www.orienteering.ie/?p=19577</id>
-        <link href="https://www.orienteering.ie/orienteering-photography-competition/"/>
-        <updated>2024-10-18T13:09:11.000Z</updated>
-        <summary type="html"><![CDATA[We would like to increase our supply of Irish Orienteering photos for use in general publicity, social media and on websites. Orienteering Ireland is running a photo competition with a closing date of Friday 20th December, 2024. Prize categories* are as follows: · “Sport for life” first prize €100 / Second prize €50 / Third […]
-The post Orienteering Photography Competition first appeared on Orienteering in Ireland.]]></summary>
-        <author>
-            <name>Mark Stephens</name>
         </author>
     </entry>
 </feed>
