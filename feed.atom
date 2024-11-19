@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T12:16:25.421Z</updated>
+    <updated>2024-11-19T18:11:56.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -302,6 +302,17 @@ Melbourne City Race, Sunday 17 November – Be Part of No 5! first appeared on O
         <summary type="html"><![CDATA[Welcome to the SLOW MBO 2025 season. Navigate your way around some fantastic terrain in the South East of England on a mountain bike. Event [...]]]></summary>
         <author>
             <name>Dave Uglow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Race 5, Ruffey Lake – Results, Maps, Photos]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13930</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-coming-soon/"/>
+        <updated>2024-11-01T00:05:47.000Z</updated>
+        <summary type="html"><![CDATA[A huge turnout on a lovely day at Ruffey Lake! Read more to see the report, results and maps, and find out who the top hill climbers were.
+Summer Shorts and Sprints Race 5, Ruffey Lake – Results, Maps, Photos first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
