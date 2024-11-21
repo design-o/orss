@@ -162,6 +162,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22691",
+          "author": "Steve Clelland",
+          "description": "Free training session open to all levels of orienteers.  There will be no ranking there, the only purpose of the event is to help everyone [...]",
+          "link": "https://slow.org.uk/clubnews/wimbledon-training-nov24/",
+          "publishedOn": "2024-11-20T23:11:13.000Z",
+          "wordCount": 2139,
+          "title": "Wimbledon Training Day – 24th November",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22644",
           "author": "Steve Clelland",
           "description": "Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Official’s Comments It was a great pleasure and privilege organising the OK Nuts [...]",
