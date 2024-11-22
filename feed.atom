@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T00:43:27.283Z</updated>
+    <updated>2024-11-22T06:12:53.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Nationals Embargo update | Woodend added]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=60961</id>
+        <link href="https://www.orienteering.org.nz/news/2025-nationals-embargo-update-woodend-added/"/>
+        <updated>2024-11-22T05:30:05.000Z</updated>
+        <summary type="html"><![CDATA[In version 1.1 of the “NZOC2025 Embargo Notice” Woodend Beach South has been added to the already embargoed areas. The embargo of the Woodend Beach South area is in place from the 22nd of November 2024. Please read the full version 1.1 embargo notice here
+2025 Nationals Embargo update | Woodend added first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian Junior Development Camp 2024]]></title>
         <id>https://orienteering.asn.au/?p=12510</id>
@@ -668,26 +679,6 @@ The post The Calm Before the Storm appeared first on NI Orienteering Association
 Mt Lilydale Indoor-Outoor Sprint, Saturday 2 November – Results and Maps first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Annual General Meeting]]></title>
-        <id>https://slow.org.uk/?p=22516</id>
-        <link href="https://slow.org.uk/clubnews/2024-annual-general-meeting/"/>
-        <updated>2024-10-23T17:19:10.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Annual General Meeting of South London Orienteers is at 8.00pm on 19th November 2024at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW. [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coaching Courses update]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54574</id>
-        <link href="https://www.scottish-orienteering.org/news/coaching-courses-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coaching-courses-update"/>
-        <updated>2024-10-23T16:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Our great sport always needs people to help introduce others to a fantastic new activity or support those already participating […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
