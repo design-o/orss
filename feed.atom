@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T18:12:25.272Z</updated>
+    <updated>2024-11-23T00:41:43.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -657,17 +657,6 @@ Looking for a 2025 Australia-New Zealand Challenge Manager first appeared on Ori
 ONZ High Performance Camp Registrations Open but only until Sun 2 Nov! first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Calm Before the Storm]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6080</id>
-        <link href="https://www.niorienteering.org.uk/the-calm-before-the-storm/"/>
-        <updated>2024-10-24T12:17:33.000Z</updated>
-        <summary type="html"><![CDATA[On a beautiful day out in the Glens of Antrim at NI Colour Series 6, just hours before the onset of Storm Ashley, competitors enjoyed challenging courses in the recently remapped Glenarriff Forest. Thanks to the LVO team of Planner Lyle Fleming, Organiser Richard Crutchley,...
-The post The Calm Before the Storm appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
