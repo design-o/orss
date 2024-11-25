@@ -152,6 +152,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22704",
+          "author": "Steve Clelland",
+          "description": "Saturday 18th January 2025 at 11.00am 43rd edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]",
+          "link": "https://slow.org.uk/events/box-hill-2025/",
+          "publishedOn": "2024-11-24T20:07:06.000Z",
+          "wordCount": 2418,
+          "title": "Box Hill Fell Race 2025",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Box_Hill_2022_3-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22691",
           "author": "Steve Clelland",
           "description": "Free training session open to all levels of orienteers.  There will be no ranking there, the only purpose of the event is to help everyone [...]",
