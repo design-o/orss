@@ -239,6 +239,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=60971",
+          "author": "Joolz",
+          "description": "NZ Orienteering Champs 2025 Embargo Notice – updated version 1.1.1. A cycleway exception has been added to the Woodend Beach South embargo for NZOC2025. The exception is for those following this cycle path only. It aligns the Woodend cycleway access with the bike paths in other embargoed areas It is a slight embargo update for […]\nWoodend cycleway exception for NZOC first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/woodend-cycleway-exception-for-nzoc/",
+          "publishedOn": "2024-11-25T10:11:12.000Z",
+          "wordCount": 2218,
+          "title": "Woodend cycleway exception for NZOC",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/11/cycleway-access-Woodend.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60961",
           "author": "Christo Peters",
           "description": "In version 1.1 of the “NZOC2025 Embargo Notice” Woodend Beach South has been added to the already embargoed areas. The embargo of the Woodend Beach South area is in place from the 22nd of November 2024. Please read the full version 1.1 embargo notice here\n2025 Nationals Embargo update | Woodend added first appeared on Orienteering New Zealand.",
@@ -377,36 +387,6 @@
           "wordCount": 2655,
           "title": "WMOC 2025 | Mitigating heat for hot summer events",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/WMOC-2025-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60601",
-          "author": "Christo Peters",
-          "description": "The World Orienteering Championships 2025 are scheduled to be held in Kuopio, Finland from 7-12 July 2025. WOC will consist of a Long race, a Middle race,  and a Forest Relay Selection CriteriaAs per the Orienteering NZ G1 Selection Policy the 2025 WOC team will be selected on the basis of For New Zealand based […]\nSelection Notice – World Orienteering Championships 2025 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-world-orienteering-championships-2025/",
-          "publishedOn": "2024-10-26T23:14:52.000Z",
-          "wordCount": 2190,
-          "title": "Selection Notice – World Orienteering Championships 2025",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/WOC-Logo-2025.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60598",
-          "author": "Christo Peters",
-          "description": "The Junior World Orienteering Championships (JWOC) 2025 will be held in Trentino, Italy from 26 June – 3 July 2025. JWOC will consist of individual Sprint, Middle, and Long distance races, a Sprint Relay and a Forest Relay. Selection Criteria As per the Orienteering NZ G1 Selection Policy the 2025 JWOC team will be selected […]\nSelection Notice – Junior World Orienteering Championships 2025 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-junior-world-orienteering-championships-2025/",
-          "publishedOn": "2024-10-26T23:10:18.000Z",
-          "wordCount": 2260,
-          "title": "Selection Notice – Junior World Orienteering Championships 2025",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/JWOC-2025-Logo.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60594",
-          "author": "Christo Peters",
-          "description": "The next AUS/NZ Challenge, will be held in conjunction with the Oceania Championships taking place near Palmerston North from 24-27 January, 2025. The Challenge will be contested across all 4 of the Oceania Events – Sprint, Middle, Long and Relay.  Three people will be selected for each race in each of the Classes below.  Anyone wishing to be […]\nSelection Notice – New Zealand Team for the Australia-New Zealand Challenge | January 2025. first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-new-zealand-team-for-the-australia-new-zealand-challenge-january-2025/",
-          "publishedOn": "2024-10-26T21:43:59.000Z",
-          "wordCount": 2351,
-          "title": "Selection Notice – New Zealand Team for the Australia-New Zealand Challenge | January 2025.",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Aus-NZ-Challenge-2025.jpg"
         }
       ]
     },
