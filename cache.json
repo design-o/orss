@@ -59,6 +59,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=12675",
+          "author": "Debbie Dodd",
+          "description": "Congratulations to the winners of the 2024 Vic MTBO Series!\nVic MTBO Series Scores and Winner Photos 2024 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vic-mtbo-series-2024-final-standings/",
+          "publishedOn": "2024-11-24T00:44:10.000Z",
+          "wordCount": 1021,
+          "title": "Vic MTBO Series Scores and Winner Photos 2024",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14156",
           "author": "Margi Freemantle",
           "description": "Indulge in a triple treat of sprints over the next two weekends with the last two sprint events of Summer Shorts and Sprints Series and the Victorian Sprint Champs.\nTriple Treat of Sprints first appeared on Orienteering Victoria.",
@@ -220,16 +230,6 @@
           "wordCount": 1945,
           "title": "Wimbledon Common Night-O Results",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wimbledon-results-oct2024/files/1000017487.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22550",
-          "author": "vinh",
-          "description": "The third race of the 2024-25 Street-O series is in Ealing. The format is a 1 hour time limit to find as many checkpoints as [...]",
-          "link": "https://slow.org.uk/streeto/ealing-street-o-24/",
-          "publishedOn": "2024-10-27T14:32:53.000Z",
-          "wordCount": 2658,
-          "title": "Ealing Street-O, Tuesday 10 December",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Ealing_Street-O.jpg"
         }
       ]
     },
