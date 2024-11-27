@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T00:43:34.606Z</updated>
+    <updated>2024-11-27T06:13:25.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -654,17 +654,6 @@ The post Book Before You Leap appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[Young orienteering athletes from four different continents are competing at the ISF (International School Sport Federation) Gymnasiade held in Bahrain these days. The games in the small Arab state on the Southwestern coast of the Arabian Gulf includes 25 different sport disciplines and has participation of of approximately 5.000 athletes representing around 70 countries. The […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiDAR Workshop]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6090</id>
-        <link href="https://www.niorienteering.org.uk/lidar-workshop/"/>
-        <updated>2024-10-28T13:47:44.000Z</updated>
-        <summary type="html"><![CDATA[LiDAR is an acronym of “Light Detection And Ranging”, a technology with considerable potential for mapping in orienteering. North West Orienteering Club have recently commissioned a drone LiDAR survey of Moydamlaght Forest, for a new map which was used at the NI Colour Series on...
-The post LiDAR Workshop appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
