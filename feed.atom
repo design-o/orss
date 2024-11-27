@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T06:13:25.593Z</updated>
+    <updated>2024-11-27T12:17:09.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wandsworth Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=22710</id>
+        <link href="https://slow.org.uk/racereports/wandsworth-results-nov2024/"/>
+        <updated>2024-11-27T08:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf SPORTident Live Results WinSplits Routegadget – draw your route!]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amended regulations for IOF Independent Athlete Status]]></title>
         <id>https://orienteering.sport/?p=75148</id>

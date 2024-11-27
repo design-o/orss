@@ -203,6 +203,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22710",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident Live Results WinSplits Routegadget – draw your route!",
+          "link": "https://slow.org.uk/racereports/wandsworth-results-nov2024/",
+          "publishedOn": "2024-11-27T08:56:30.000Z",
+          "wordCount": 1945,
+          "title": "Wandsworth Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wandsworth-results-nov2024/files/Wandsworth_NightO.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22704",
           "author": "Steve Clelland",
           "description": "Saturday 18th January 2025 at 11.00am 43rd edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]",
