@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T06:13:27.256Z</updated>
+    <updated>2024-11-28T12:17:04.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Disability Sport Week- FVO at Donaldson’s Trust]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54725</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-disability-sport-week-fvo-at-donaldsons-trust/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-disability-sport-week-fvo-at-donaldsons-trust"/>
+        <updated>2024-11-28T11:18:17.000Z</updated>
+        <summary type="html"><![CDATA[As you may be aware this week is Scottish Disability Sport week. Earlier this week we highlighted some of the […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wandsworth Common Night-O Results]]></title>
         <id>https://slow.org.uk/?p=22710</id>
@@ -633,27 +643,6 @@ WMOC 2025 | Mitigating heat for hot summer events first appeared on Orienteerin
         <updated>2024-10-31T01:41:54.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon Common Night-O Results]]></title>
-        <id>https://slow.org.uk/?p=22561</id>
-        <link href="https://slow.org.uk/racereports/wimbledon-results-oct2024/"/>
-        <updated>2024-10-29T23:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf SPORTident Live Results WinSplits Routegadget – to follow]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Before You Leap]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6096</id>
-        <link href="https://www.niorienteering.org.uk/book-before-you-leap/"/>
-        <updated>2024-10-29T18:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Don’t miss the the final NI Colour Series of the 2024 season at Todd’s Leap and the adjacent Dunmoyle Forest, Co Tryone on Satruday 16 November. All the details are on the Fermanagh Orienteers website. Entries are now open on SIentries, with entries closing on...
-The post Book Before You Leap appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>

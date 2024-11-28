@@ -261,16 +261,6 @@
           "wordCount": 2646,
           "title": "SLOW MBO Event Calendar 2025",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/slow-mbo-event-calendar-2025/files/Ariel-view-900.png"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22561",
-          "author": "Steve Clelland",
-          "description": "Results – pdf SPORTident Live Results WinSplits Routegadget – to follow",
-          "link": "https://slow.org.uk/racereports/wimbledon-results-oct2024/",
-          "publishedOn": "2024-10-29T23:10:52.000Z",
-          "wordCount": 1945,
-          "title": "Wimbledon Common Night-O Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wimbledon-results-oct2024/files/1000017487.jpg"
         }
       ]
     },
@@ -454,6 +444,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54725",
+          "author": "heidi",
+          "description": "As you may be aware this week is Scottish Disability Sport week. Earlier this week we highlighted some of the […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-disability-sport-week-fvo-at-donaldsons-trust/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-disability-sport-week-fvo-at-donaldsons-trust",
+          "publishedOn": "2024-11-28T11:18:17.000Z",
+          "wordCount": 1555,
+          "title": "Scottish Disability Sport Week- FVO at Donaldson’s Trust",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/School.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54694",
           "author": "heidi",
           "description": "This year Stirling University were the hosts of the 2024 Scottish Student Championships with the support of Forth Valley Orienteers. […]",
@@ -599,16 +599,6 @@
           "wordCount": 4193,
           "title": "NICS 7",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/11/NICS-7.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6096",
-          "author": "NIOA Secretary",
-          "description": "Don’t miss the the final NI Colour Series of the 2024 season at Todd’s Leap and the adjacent Dunmoyle Forest, Co Tryone on Satruday 16 November. All the details are on the Fermanagh Orienteers website. Entries are now open on SIentries, with entries closing on...\nThe post Book Before You Leap appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/book-before-you-leap/",
-          "publishedOn": "2024-10-29T18:20:49.000Z",
-          "wordCount": 4281,
-          "title": "Book Before You Leap",
-          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2024/10/Todds-Leap.jpg?fit=909%2C713&ssl=1"
         }
       ]
     },
