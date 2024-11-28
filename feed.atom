@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T00:43:46.396Z</updated>
+    <updated>2024-11-28T06:13:27.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -654,16 +654,6 @@ WMOC 2025 | Mitigating heat for hot summer events first appeared on Orienteerin
 The post Book Before You Leap appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First orienteering race held in Bahrain at ISF Gymnasiade 2024]]></title>
-        <id>https://orienteering.sport/?p=74893</id>
-        <link href="https://orienteering.sport/first-orienteering-race-held-in-bahrain-at-isf-gymnasiade-2024/"/>
-        <updated>2024-10-29T15:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Young orienteering athletes from four different continents are competing at the ISF (International School Sport Federation) Gymnasiade held in Bahrain these days. The games in the small Arab state on the Southwestern coast of the Arabian Gulf includes 25 different sport disciplines and has participation of of approximately 5.000 athletes representing around 70 countries. The […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
