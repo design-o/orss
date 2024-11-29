@@ -270,6 +270,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=61026",
+          "author": "Christo Peters",
+          "description": "Southland Orienteering Club would like to invite you to attend the 2025 Taitonga (Southern) Regional Championships The event takes place the week after Oceania so we are hoping that may attending Oceania may travel on to Waikaia for the Taitonga Championships. Bulletin One be found here and you can enter here. \nEntries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/entries-are-open-for-the-taitonga-south-island-regional-champs-7-8-feb-2025/",
+          "publishedOn": "2024-11-29T06:39:24.000Z",
+          "wordCount": 2279,
+          "title": "Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/11/Screenshot-704-1.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=60971",
           "author": "Joolz",
           "description": "NZ Orienteering Champs 2025 Embargo Notice – updated version 1.1.1. A cycleway exception has been added to the Woodend Beach South embargo for NZOC2025. The exception is for those following this cycle path only. It aligns the Woodend cycleway access with the bike paths in other embargoed areas It is a slight embargo update for […]\nWoodend cycleway exception for NZOC first appeared on Orienteering New Zealand.",
@@ -550,6 +560,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6195",
+          "author": "NIOA Secretary",
+          "description": "Coaches need coaching! A special day has been arranged for those involved in coaching or are interested in becoming a coach on Saturday 7 December in the Gortin area, Co Tyrone. Just to be clear that this is not a day for being coached, but...\nThe post Coaching for Coaches appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/coaching-for-coaches/",
+          "publishedOn": "2024-11-29T11:15:10.000Z",
+          "wordCount": 4308,
+          "title": "Coaching for Coaches",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2015/11/coaching-day-1.jpg?fit=960%2C540&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6168",
           "author": "NIOA Secretary",

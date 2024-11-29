@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T06:13:06.905Z</updated>
+    <updated>2024-11-29T12:16:35.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coaching for Coaches]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6195</id>
+        <link href="https://www.niorienteering.org.uk/coaching-for-coaches/"/>
+        <updated>2024-11-29T11:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Coaches need coaching! A special day has been arranged for those involved in coaching or are interested in becoming a coach on Saturday 7 December in the Gortin area, Co Tyrone. Just to be clear that this is not a day for being coached, but...
+The post Coaching for Coaches appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61026</id>
+        <link href="https://www.orienteering.org.nz/news/entries-are-open-for-the-taitonga-south-island-regional-champs-7-8-feb-2025/"/>
+        <updated>2024-11-29T06:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Southland Orienteering Club would like to invite you to attend the 2025 Taitonga (Southern) Regional Championships The event takes place the week after Oceania so we are hoping that may attending Oceania may travel on to Waikaia for the Taitonga Championships. Bulletin One be found here and you can enter here. 
+Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Disability Sport Week- FVO at Donaldson’s Trust]]></title>
         <id>https://www.scottish-orienteering.org/?p=54725</id>
