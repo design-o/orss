@@ -89,6 +89,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14225",
+          "author": "Debbie Dodd",
+          "description": "Presentations for the Summer Shorts and Sprints Series will be held at the Vic Sprint Champs at Tarneit. Congratulations to all!\nSummer Shorts and Sprints Series Winners! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-series-winners/",
+          "publishedOn": "2024-11-30T07:35:50.000Z",
+          "wordCount": 1210,
+          "title": "Summer Shorts and Sprints Series Winners!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=12675",
           "author": "Debbie Dodd",
           "description": "Congratulations to the winners of the 2024 Vic MTBO Series!\nVic MTBO Series Scores and Winner Photos 2024 first appeared on Orienteering Victoria.",
@@ -166,16 +176,6 @@
           "publishedOn": "2024-11-03T00:36:48.000Z",
           "wordCount": 1175,
           "title": "Melbourne City Race, Sunday 17 November – Be Part of No 5!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13930",
-          "author": "Debbie Dodd",
-          "description": "A huge turnout on a lovely day at Ruffey Lake! Read more to see the report, results and maps, and find out who the top hill climbers were.\nSummer Shorts and Sprints Race 5, Ruffey Lake – Results, Maps, Photos first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-coming-soon/",
-          "publishedOn": "2024-11-01T00:05:47.000Z",
-          "wordCount": 1193,
-          "title": "Summer Shorts and Sprints Race 5, Ruffey Lake – Results, Maps, Photos",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -565,16 +565,6 @@
           "publishedOn": "2024-11-07T00:27:20.000Z",
           "wordCount": 2404,
           "title": "Learn to Orienteer: coaching information session",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12370",
-          "author": "elizabethl",
-          "description": "Selection criteria and preliminary team information for National Orienteering Teams have been published. Nominations for these teams is now open.\nNational Orienteering Teams Selection Criteria Published first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/national-orienteering-teams-selection-criteria-published/",
-          "publishedOn": "2024-10-31T23:21:45.000Z",
-          "wordCount": 2218,
-          "title": "National Orienteering Teams Selection Criteria Published",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
