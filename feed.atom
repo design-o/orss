@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T12:14:47.295Z</updated>
+    <updated>2024-11-30T18:10:31.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Club Championships]]></title>
+        <id>https://slow.org.uk/?p=22737</id>
+        <link href="https://slow.org.uk/clubnight/2024-club-championships/"/>
+        <updated>2024-11-30T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[All club members are invited to our 2024 championships. These are an (almost) annual event where we come together as a club for orienteering conversation, [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Shorts and Sprints Series Winners!]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14225</id>
@@ -171,6 +181,17 @@ Vic MTBO Series Scores and Winner Photos 2024 first appeared on Orienteering Vic
 2025 Nationals Embargo update | Woodend added first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Race 6, Deakin Burwood – Results and Maps]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13930</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-coming-soon/"/>
+        <updated>2024-11-22T00:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Which route would you have chosen?
+Summer Shorts and Sprints Race 6, Deakin Burwood – Results and Maps first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
