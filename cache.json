@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75152",
+          "author": "Erling Thisted",
+          "description": "Eirik Langedal Breivik (NOR) took the orienteering world by surprise, when he won the middle distance at the European Orienteering Championships in Hungary in August. It was warm and tough, and the Norwegian steered clear of any mistake in his breakthrough performance, where all the opponents lost time on the technically demanding slopes. In this […]",
+          "link": "https://orienteering.sport/podcast-eirik-langedal-breivik-on-his-golden-middle-distance-race-at-eoc/",
+          "publishedOn": "2024-11-29T22:24:29.000Z",
+          "wordCount": 1951,
+          "title": "Podcast: Eirik Langedal Breivik on his golden middle distance race at EOC",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024_eoc_middlef_podium_m2_williamhollowell-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75148",
           "author": "Sondre Sande Gullord",
           "description": "IOF Council has amended the regulations for IOF Independent Athlete Status which opens up for independent athlete participation in World Ranking Events, and extended the current application deadline to November 30th. The independent athlete system provide san opening for participation by individual athletes from countries where there is currently no IOF member federation. The approved […]",
@@ -106,6 +116,16 @@
           "publishedOn": "2024-11-15T05:14:29.000Z",
           "wordCount": 986,
           "title": "Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2024-11-15T01:41:54.000Z",
+          "wordCount": 1179,
+          "title": "Park Street Update, November 27 to December 3",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -288,136 +308,6 @@
           "wordCount": 2227,
           "title": "2025 Nationals Embargo update | Woodend added",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/1.2-Nationals-2025-image.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60662",
-          "author": "Christo Peters",
-          "description": "I’ve been very envious of the school teams, support crew and other NZ orienteers who have just been away in Australia. It’s not just running around a course that I love about orienteering, I have always enjoyed the opportunity to hang out with friends and fellow orienteers in places you’d probably never travel to for […]\nView from the Chair – Oct 2024 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/orienteering-nz/updates/view-from-the-chair-oct-2024/",
-          "publishedOn": "2024-10-31T10:49:41.000Z",
-          "wordCount": 2291,
-          "title": "View from the Chair – Oct 2024",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/View-from-the-Chair.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60653",
-          "author": "Christo Peters",
-          "description": "The end of the year is drawing nearer so Oceania have some dates for you to put in your calendar Sunday 17  November: Early bird prize draw. We’ve got two Str8 compasses left and will draw one for one random confirmed entry at 9pm on Sunday. (We’ve given two away already to happy orienteers on both […]\nOceania  |  2025 dates to remember first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/oceania-2025-dates-to-remember/",
-          "publishedOn": "2024-10-31T10:33:36.000Z",
-          "wordCount": 2193,
-          "title": "Oceania  |  2025 dates to remember",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Oceania-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60650",
-          "author": "Christo Peters",
-          "description": "Look out for the Nationals Bulletin coming out very soon in early November. Peninsula and Plains Orienteers are just sorting out final logistics for some competition areas. In the meantime keep your eye on the website and follow the updates on facebook\nNationals Bulletin one out soon  |  Easter 2025 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/nationals-bulletin-one-out-soon-easter-2025/",
-          "publishedOn": "2024-10-31T10:31:15.000Z",
-          "wordCount": 2101,
-          "title": "Nationals Bulletin one out soon  |  Easter 2025",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Nationals-2025-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60647",
-          "author": "Christo Peters",
-          "description": "The Classic, originally the Winter Classic, is an endurance event that is both physically and mentally demanding. The event generally takes the form of a one-person relay with a pivot control and a series of loops, i.e. you do all the legs yourself! This was originally organised by Wairarapa Orienteering Club from 1987 until the early 2000’s […]\nThe Classic  |  38th endurance event designed for the fittest | 10 November first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/event-news/the-classic-38th-endurance-event-designed-for-the-fittest-10-november/",
-          "publishedOn": "2024-10-31T10:27:08.000Z",
-          "wordCount": 2348,
-          "title": "The Classic  |  38th endurance event designed for the fittest | 10 November",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/The-Classic-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60644",
-          "author": "Christo Peters",
-          "description": "Stacey was introduced to orienteering through rogaining, and she recalls her first experience as a challenging start. Instead of opting for an easy sprint or park event, she decided a farmland with forest course would be a good adventure  “I really had no idea. It had a bushy forest section with lots of native bush.” […]\nStacey Colbourne | Meet the Junior Camp Manager first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/coaching/junior-camp-coaching/stacey-colbourne-meet-the-junior-camp-manager/",
-          "publishedOn": "2024-10-31T10:22:28.000Z",
-          "wordCount": 2382,
-          "title": "Stacey Colbourne | Meet the Junior Camp Manager",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Stacey-Colbourne-article-logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60641",
-          "author": "Christo Peters",
-          "description": "Open entries for the Junior Camp close tonight (31 Oct) and at the time of publication, the camp is close to compacity with a handful of places remaining. Once full, all registrations received from the 1st November will be put onto a waiting list and will be considered in order received if we have the ability to […]\n2024 ONZ Junior Camp | Dec 13-18 | Entries close 31 Oct first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2024-onz-junior-camp-dec-13-18-entries-close-31-oct/",
-          "publishedOn": "2024-10-31T10:19:13.000Z",
-          "wordCount": 2331,
-          "title": "2024 ONZ Junior Camp | Dec 13-18 | Entries close 31 Oct",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Junior-Camp-Logo.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60638",
-          "author": "Christo Peters",
-          "description": "What? This is a parent-led 3 day residential orienteering training camp at the start of the summer holiday.Who? All keen young orienteers, of any level / experience, up to and including yr 8 (yr 4 and below should be accompanied by a parent).Continue reading…\n2024 Youth Summer orienteering camp | School years 5-8 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/2024-youth-summer-orienteering-camp-school-years-5-8-2/",
-          "publishedOn": "2024-10-31T10:16:01.000Z",
-          "wordCount": 2130,
-          "title": "2024 Youth Summer orienteering camp | School years 5-8",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Junior-Junior-Camp-logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60635",
-          "author": "Christo Peters",
-          "description": "The Australia – New Zealand Challenge held in conjunction with the Australian MTBO championships had some COVID-19 challenges, but fortunately almost all team members avoided infection until racing was over. Big thanks to organisers Rob Garden and Marquita Gelderman for coordinating event logistics, and to the MTBO selection panel (Pete Swanson, Martin Peat and Sara […]\nAustralian MTBO champs  |  NZ victory despite covid challenges first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/australian-mtbo-champs-nz-victory-despite-covid-challenges/",
-          "publishedOn": "2024-10-31T10:12:38.000Z",
-          "wordCount": 2869,
-          "title": "Australian MTBO champs  |  NZ victory despite covid challenges",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/MTBO-Challenge-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=60631",
-          "author": "Christo Peters",
-          "description": "The ONZ High Performance Training Camp is aimed at athletes in the 17.5 and over age range who have a serious ambition to represent New Zealand on the international stage (e.g. JWOC, WUOC, WOC) over the next few years. It is designed to help prepare athletes physically, technically and psychologically and involves both physical and […]\nONZ High Performance Camp | Entries close Sun 3 Nov!  first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/onz-high-performance-camp-entries-close-sun-3-nov/",
-          "publishedOn": "2024-10-31T10:00:43.000Z",
-          "wordCount": 2238,
-          "title": "ONZ High Performance Camp | Entries close Sun 3 Nov!",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/ONZ-HP-Camp-Logo-scaled.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60628",
-          "author": "Christo Peters",
-          "description": "If you happen to be in Australia for vacation this is open to kiwi juniors for before or in 2010 who are  running hard courses, or transitioning from moderate to hard. See Eventor for further info Any enquiries to: Michael Radajewski \nAustralian National Junior Development Camp | 14-19 Dec 2024 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/australian-national-junior-development-camp-14-19-dec-2024/",
-          "publishedOn": "2024-10-31T09:54:36.000Z",
-          "wordCount": 2185,
-          "title": "Australian National Junior Development Camp | 14-19 Dec 2024",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Aust-National-Junior-Camp-logo-scaled.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60625",
-          "author": "Christo Peters",
-          "description": "Over the past few months, Orienteering New Zealand (ONZ) has been shaping an exciting new digital strategy. A key initiative in this plan is the creation of O-Zone, a central hub for all information orienteering in New Zealand. The vision and concept planning behind O-Zone is so far centred on creating a go-to place for information on events, results, athletes, […]\nO-Zone | A New Digital Hub for Orienteering first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/orienteering-nz/updates/o-zone-a-new-digital-hub-for-orienteering/",
-          "publishedOn": "2024-10-31T09:50:54.000Z",
-          "wordCount": 2290,
-          "title": "O-Zone | A New Digital Hub for Orienteering",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/o-zone-logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60622",
-          "author": "Christo Peters",
-          "description": "Trailblaze has been appointed a New Zealand retailer for SPORTident products. This allows them to replace batteries in SIAC devices, ensuring they are ready for upcoming adventures. Clubs and schools can work directly with Trailblaze for special orders. Battery replacements are done in-house, typically taking about one to two weeks. Orienteers can also have their […]\nSPORTident battery replacement in NZ | TrailblazeNZ first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/sportident-battery-replacement-in-nz-trailblazenz/",
-          "publishedOn": "2024-10-31T09:48:14.000Z",
-          "wordCount": 2140,
-          "title": "SPORTident battery replacement in NZ | TrailblazeNZ",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/SPORTident-Pic.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=60619",
-          "author": "Christo Peters",
-          "description": "OF have released communications on how they are going to help to beat the heat at next year’s World Masters Orienteering Championships (WMOC)  in Girona, Spain.  This is something  Southern hemisphere clubs are well versed in, often in very remote areas, whilst not putting too many obstacles in the way of good competition. So it is […]\nWMOC 2025 | Mitigating heat for hot summer events first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/event-news/international/wmoc-2025-mitigating-heat-for-hot-summer-events/",
-          "publishedOn": "2024-10-31T09:43:47.000Z",
-          "wordCount": 2655,
-          "title": "WMOC 2025 | Mitigating heat for hot summer events",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/WMOC-2025-Logo.jpg"
         }
       ]
     },
@@ -685,16 +575,6 @@
           "publishedOn": "2024-10-31T23:21:45.000Z",
           "wordCount": 2218,
           "title": "National Orienteering Teams Selection Criteria Published",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12365",
-          "author": "fredrikj",
-          "description": "The selection criteria's for Australian Teams 2025 has now been published on the Team selection page.\nSelection Criteria for Australian Teams 2025 first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/selection-criteria-for-australian-teams-2025/",
-          "publishedOn": "2024-10-31T11:51:12.000Z",
-          "wordCount": 2175,
-          "title": "Selection Criteria for Australian Teams 2025",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
