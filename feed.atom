@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T06:12:06.533Z</updated>
+    <updated>2024-12-01T12:15:21.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -531,16 +531,6 @@ Melbourne City Race, Sunday 17 November – Be Part of No 5! first appeared on O
         <summary type="html"><![CDATA[The competition rules for Ski Orienteering Events valid from November 1st, 2024 have now been approved and published here at the IOF website. Find them at the SkiO competition rules section here.]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICS 7]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6104</id>
-        <link href="https://www.niorienteering.org.uk/6104-2/"/>
-        <updated>2024-11-01T18:55:44.000Z</updated>
-        <summary type="html"><![CDATA[The post NICS 7 appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>admin-finlay</name>
         </author>
     </entry>
 </feed>
