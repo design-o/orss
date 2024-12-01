@@ -81,7 +81,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=20384",
+          "author": "Jan Kocbach",
+          "description": "The 18th edition of the traditional Route to Christmas here at World of O starts with a long, interesting leg from the Italian stage race Cansiglio O-Meeting. Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good look at the day’s leg, decide which route you would have chosen, ...",
+          "link": "https://news.worldofo.com/2024/12/01/route-to-christmas-day-1-2024/",
+          "publishedOn": "2024-12-01T03:00:38.000Z",
+          "wordCount": 2192,
+          "title": "Route To Christmas: Day 1 2024",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
@@ -281,16 +292,6 @@
           "wordCount": 2595,
           "title": "Wandsworth Common Night-O, Tuesday 26th November",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Richmond_nightaction-scaled.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22533",
-          "author": "Dave Uglow",
-          "description": "Welcome to the SLOW MBO 2025 season. Navigate your way around some fantastic terrain in the South East of England on a mountain bike. Event [...]",
-          "link": "https://slow.org.uk/events/slow-mbo-event-calendar-2025/",
-          "publishedOn": "2024-11-01T16:19:38.000Z",
-          "wordCount": 2646,
-          "title": "SLOW MBO Event Calendar 2025",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/slow-mbo-event-calendar-2025/files/Ariel-view-900.png"
         }
       ]
     },
