@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T18:10:55.116Z</updated>
+    <updated>2024-12-02T00:46:33.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -521,16 +521,6 @@ MTBO Double Header Weekend, November 23 and 24 first appeared on Orienteering Vi
 Melbourne City Race, Sunday 17 November – Be Part of No 5! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updated SkiO rules published]]></title>
-        <id>https://orienteering.sport/?p=75064</id>
-        <link href="https://orienteering.sport/updated-skio-rules-published/"/>
-        <updated>2024-11-02T10:07:07.000Z</updated>
-        <summary type="html"><![CDATA[The competition rules for Ski Orienteering Events valid from November 1st, 2024 have now been approved and published here at the IOF website. Find them at the SkiO competition rules section here.]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
