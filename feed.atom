@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T06:14:06.216Z</updated>
+    <updated>2024-12-02T12:17:45.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Share your love of the Six Days! What excites you most about Deeside 2025?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54753</id>
+        <link href="https://www.scottish-orienteering.org/news/share-your-love-of-the-six-days-what-excites-you-most-about-deeside-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=share-your-love-of-the-six-days-what-excites-you-most-about-deeside-2025"/>
+        <updated>2024-12-02T10:42:22.000Z</updated>
+        <summary type="html"><![CDATA[We all know the Scottish Six Days is an amazing event – can you help us spread the word tonew […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Six Days – Royal Deeside 2025 – Entries Now Open!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54749</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-six-days-royal-deeside-2025-entries-now-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-six-days-royal-deeside-2025-entries-now-open"/>
+        <updated>2024-12-02T10:38:53.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Six Days is one of the greatest orienteering festivals, and certainly thelargest and most exciting event on Scotland’s […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route To Christmas: Day 2 2024]]></title>
         <id>http://news.worldofo.com/?p=20387</id>
