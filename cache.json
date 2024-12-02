@@ -178,26 +178,6 @@
           "wordCount": 1299,
           "title": "Summer Shorts and Sprints Final Races, Deakin Burwood and Salesian Sunbury – Entries Now Open",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14141",
-          "author": "Debbie Dodd",
-          "description": "Don't miss the final chance to orienteer on your bike in 2024, with races at Waurn Ponds and Anglesea!\nMTBO Double Header Weekend, November 23 and 24 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/mtbo-double-header-weekend-november-23-and-24/",
-          "publishedOn": "2024-11-03T04:26:34.000Z",
-          "wordCount": 1172,
-          "title": "MTBO Double Header Weekend, November 23 and 24",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14086",
-          "author": "Debbie Dodd",
-          "description": "Be part of the next Melbourne City Race by entering online today! Read more for all the race details.\nMelbourne City Race, Sunday 17 November – Be Part of No 5! first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbourne-city-race-sunday-17-november-be-part-of-no-5/",
-          "publishedOn": "2024-11-03T00:36:48.000Z",
-          "wordCount": 1175,
-          "title": "Melbourne City Race, Sunday 17 November – Be Part of No 5!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -354,6 +334,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54759",
+          "author": "nikkihoward",
+          "description": "The 35th Tinto twin event and the 3rd Nox and Dies event held by St Andrew’s Orienteering Club (Glasgow) (STAG) […]",
+          "link": "https://www.scottish-orienteering.org/news/inter-club-championship-results-finalised-at-stag-tinto-twin-event/?utm_source=rss&utm_medium=rss&utm_campaign=inter-club-championship-results-finalised-at-stag-tinto-twin-event",
+          "publishedOn": "2024-12-02T12:29:24.000Z",
+          "wordCount": 1730,
+          "title": "Inter Club Championship results finalised at STAG Tinto Twin event",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54753",
           "author": "nikkihoward",
