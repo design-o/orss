@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T12:16:58.910Z</updated>
+    <updated>2024-12-03T18:16:12.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -550,15 +550,6 @@ Learn to Orienteer: coaching information session first appeared on Orienteering 
         <summary type="html"><![CDATA[The university club is celebrating its 60th anniversary this year.  Anyone that has been a part of EUOC past or […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints Final Races, Deakin Burwood and Salesian Sunbury – Entries Now Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14008</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-3-tarralla-wetlands-sunday-27-october-entries-open/"/>
-        <updated>2024-11-04T00:22:03.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
