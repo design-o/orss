@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T00:45:09.448Z</updated>
+    <updated>2024-12-03T06:13:40.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route To Christmas: Day 3 2024]]></title>
+        <id>http://news.worldofo.com/?p=20415</id>
+        <link href="https://news.worldofo.com/2024/12/03/route-to-christmas-day-3-2024/"/>
+        <updated>2024-12-03T03:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 takes us to an interesting leg in French karst terrain at OOCup 2024. Not the longest leg, but still challenging to decide what to do. In the bulletin the terrain was described as hilly terrain, nice mixed forest with many relief details, some boulders and cliffs but overall ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Be a part of shaping a new communication strategy for International Orienteering]]></title>
         <id>https://orienteering.sport/?p=75167</id>
