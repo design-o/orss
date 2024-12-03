@@ -64,16 +64,6 @@
           "wordCount": 1872,
           "title": "Open meeting on SkiO Rules and Map symbols on Sunday",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/02/2023_skio_wcup_pursuit-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=75067",
-          "author": "Erling Thisted",
-          "description": "Karolin Ohlsson (SWE) achieved the best individual result of her career so far at the WOC 2024 Knock-Out Sprint in Scotland, where she won the silver medal behind compatriot Tove Alexandersson. In this episode of the IOF Podcast, we watch the final with Karolin to relive it from her point of view. Join us for […]",
-          "link": "https://orienteering.sport/podcast-karolin-ohlsson-on-the-ko-sprint-silver-from-edinburgh/",
-          "publishedOn": "2024-11-03T22:59:55.000Z",
-          "wordCount": 2060,
-          "title": "Podcast: Karolin Ohlsson – on the KO Sprint silver in Edinburgh",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/11/2024_woc_ko_sprint_podcast-1024x683.jpg"
         }
       ]
     },
@@ -346,18 +336,7 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": [
-        {
-          "id": "https://neooc.com/?p=47952",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Congratulations to Walker Ziewitz and Jonathan Boyer, who both cleared the course in under 2 hours! Also, there were top performances by Todd Pownell, John Pane (WPOC), and Sandra Albro who came in third, fourth, and fifth respectively. Results Results by Team/Individual Livelox (Upload you GPS and compare your route choice with others)",
-          "link": "https://neooc.com/results-2024-night-crawler-o-night-score-at-camp-manatoc-cvnp-saturday-nov-2nd/",
-          "publishedOn": "2024-11-03T21:44:16.000Z",
-          "wordCount": 1358,
-          "title": "Results | 2024 Night Crawler-O | Night Score at Camp Manatoc – CVNP | Saturday, Nov 2nd",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Scottish Orienteering Association",
@@ -511,6 +490,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6203",
+          "author": "NIOA Secretary",
+          "description": "It’s easy to book an appointment for the final round of the NI Urban Orienteering League at St Luke’s Hospital, Armagh on Sunday afternoon 15 December. All the details are on the LVO event webpage, with entries now open on SI Entries. This excellent terrain...\nThe post Book an Appointment at Hospital appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/book-an-appointment-at-hospital/",
+          "publishedOn": "2024-12-03T10:10:40.000Z",
+          "wordCount": 4349,
+          "title": "Book an Appointment at Hospital",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/12/St-Lukes-Dec-2024.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6195",
           "author": "NIOA Secretary",
