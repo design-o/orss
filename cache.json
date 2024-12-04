@@ -73,6 +73,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20392",
+          "author": "Jan Kocbach",
+          "description": "What was the best orienteering course of 2024? World Champs middle distance in Switzerland won in 2023, Pomeranian Sprint Cup won in 2022, WOC Long distance won in 2021, the Norwegian World Champs selection race long distance won in 2019, the World Cup Final Middle in Czech Republic won in 2018 and the World Champs middle distance in Estonia won in 2017. Other winners are a spectacular ...",
+          "link": "https://news.worldofo.com/2024/12/04/course-of-the-year-2024-submit-your-suggestions/",
+          "publishedOn": "2024-12-04T04:00:23.000Z",
+          "wordCount": 4299,
+          "title": "Course of the Year 2024: Submit your suggestions!",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/12/course2024-660x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=20421",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is a long leg from the Junior World Orienteering Championships Long distance in Czech Republic. This is what the bulletin said about the terrain: The terrain is mostly hilly with rocks and stones in places high up on the hills. Mostly coniferous forest (spruce), in some parts with ...",
+          "link": "https://news.worldofo.com/2024/12/04/route-to-christmas-day-4-2024/",
+          "publishedOn": "2024-12-04T03:00:36.000Z",
+          "wordCount": 1960,
+          "title": "Route to Christmas: Day 4 2024",
+          "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/12/jwoclongmen_mixed_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20415",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2024 takes us to an interesting leg in French karst terrain at OOCup 2024. Not the longest leg, but still challenging to decide what to do. In the bulletin the terrain was described as hilly terrain, nice mixed forest with many relief details, some boulders and cliffs but overall ...",
@@ -117,6 +137,16 @@
           "publishedOn": "2024-11-30T07:35:50.000Z",
           "wordCount": 1210,
           "title": "Summer Shorts and Sprints Series Winners!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14251",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/central-highlands-and-ballarat-summer-events/",
+          "publishedOn": "2024-11-30T01:13:25.000Z",
+          "wordCount": 955,
+          "title": "Central Highlands and Ballarat Summer Events",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -462,16 +492,6 @@
           "wordCount": 1950,
           "title": "Success for North at 2024 Junior InterAreas!",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/464489450_1082460043886047_7143005776544488925_n-1-1019x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54622",
-          "author": "nikkihoward",
-          "description": "The university club is celebrating its 60th anniversary this year.  Anyone that has been a part of EUOC past or […]",
-          "link": "https://www.scottish-orienteering.org/news/calling-all-euoc-members-past-and-present/?utm_source=rss&utm_medium=rss&utm_campaign=calling-all-euoc-members-past-and-present",
-          "publishedOn": "2024-11-04T12:50:32.000Z",
-          "wordCount": 1482,
-          "title": "Calling all EUOC members past and present!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/FB_IMG_1729695236374-1024x683.jpg"
         }
       ]
     },
