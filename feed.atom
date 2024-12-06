@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T06:13:56.280Z</updated>
+    <updated>2024-12-06T12:16:42.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -569,16 +569,6 @@ Team Manager Position Available for Australian Challenge first appeared on Orie
 Learn to Orienteer: coaching information session first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wandsworth Common Night-O, Tuesday 26th November]]></title>
-        <id>https://slow.org.uk/?p=22623</id>
-        <link href="https://slow.org.uk/events/wandsworth-night-nov2024/"/>
-        <updated>2024-11-06T22:47:54.000Z</updated>
-        <summary type="html"><![CDATA[The second race of South London Orienteers’ 2024-2025 Night series takes place on Wandsworth Common, south-west London, on Tuesday 26th November 2024. Race Centre The race will [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
     <entry>
