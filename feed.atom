@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T12:16:42.954Z</updated>
+    <updated>2024-12-06T18:12:26.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coaching Development Day Postponed]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6207</id>
+        <link href="https://www.niorienteering.org.uk/coaching-development-day-postponed/"/>
+        <updated>2024-12-06T12:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Unfortunately due to an Amber Weather Warning, the “Coaching for Coaches” day at Gortin Glen scheduled for 7 December has had to be postponed until the New Year. If you are involved in coaching at any level, or are interested in the area of coaching,...
+The post Coaching Development Day Postponed appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 6 2024]]></title>
         <id>http://news.worldofo.com/?p=20443</id>
@@ -558,17 +569,6 @@ Get ready for the Victorian Sprint Champs – 1 December first appeared on Orien
 Team Manager Position Available for Australian Challenge first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Orienteer: coaching information session]]></title>
-        <id>https://orienteering.asn.au/?p=12426</id>
-        <link href="https://orienteering.asn.au/learn-to-orienteer-coaching-information-session/"/>
-        <updated>2024-11-07T00:27:20.000Z</updated>
-        <summary type="html"><![CDATA[Learn to Orienteer programs are currently running, and more are planned… but we need more coaches! Join us on zoom to discover how to become a Learn to Orienteer coach and what support you will receive.
-Learn to Orienteer: coaching information session first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
     <entry>

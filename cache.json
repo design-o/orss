@@ -511,6 +511,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=6207",
+          "author": "NIOA Secretary",
+          "description": "Unfortunately due to an Amber Weather Warning, the “Coaching for Coaches” day at Gortin Glen scheduled for 7 December has had to be postponed until the New Year. If you are involved in coaching at any level, or are interested in the area of coaching,...\nThe post Coaching Development Day Postponed appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/coaching-development-day-postponed/",
+          "publishedOn": "2024-12-06T12:20:48.000Z",
+          "wordCount": 4292,
+          "title": "Coaching Development Day Postponed",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2016/02/coachingphoto2.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=6203",
           "author": "NIOA Secretary",
           "description": "It’s easy to book an appointment for the final round of the NI Urban Orienteering League at St Luke’s Hospital, Armagh on Sunday afternoon 15 December. All the details are on the LVO event webpage, with entries now open on SI Entries. This excellent terrain...\nThe post Book an Appointment at Hospital appeared first on NI Orienteering Association.",
@@ -615,16 +625,6 @@
           "publishedOn": "2024-11-09T01:28:03.000Z",
           "wordCount": 2300,
           "title": "Team Manager Position Available for Australian Challenge",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12426",
-          "author": "danielstott",
-          "description": "Learn to Orienteer programs are currently running, and more are planned… but we need more coaches! Join us on zoom to discover how to become a Learn to Orienteer coach and what support you will receive.\nLearn to Orienteer: coaching information session first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/learn-to-orienteer-coaching-information-session/",
-          "publishedOn": "2024-11-07T00:27:20.000Z",
-          "wordCount": 2404,
-          "title": "Learn to Orienteer: coaching information session",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
