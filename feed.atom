@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T00:43:58.020Z</updated>
+    <updated>2024-12-07T06:12:13.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 7 2024]]></title>
+        <id>http://news.worldofo.com/?p=20448</id>
+        <link href="https://news.worldofo.com/2024/12/07/route-to-christmas-day-7-2024/"/>
+        <updated>2024-12-07T03:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a spectacular leg from the European Youth Championships (EYOC) organized in Poland this summer. This time the women’s W18 course is chosen.  As you can see from the map, this is quite hilly terrain, with quite a few paths and also some roads that could potentially be ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dates are set for World Orienteering Week 2025]]></title>
         <id>https://orienteering.sport/?p=75188</id>
