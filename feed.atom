@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T18:12:26.813Z</updated>
+    <updated>2024-12-07T00:43:58.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dates are set for World Orienteering Week 2025]]></title>
+        <id>https://orienteering.sport/?p=75188</id>
+        <link href="https://orienteering.sport/dates-are-set-for-world-orienteering-week-2025/"/>
+        <updated>2024-12-06T20:19:36.000Z</updated>
+        <summary type="html"><![CDATA[It’s time to mark the calendar. The world’s largest orienteering event, World Orienteering Week takes place from May 17th to 25th in 2025. Here orienteering clubs, schools and organisations have a chance to set up an orienteering event with tools and materials from the International Orienteering Federation and join the worldwide orienteering festivities. The event was […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coaching Development Day Postponed]]></title>
         <id>https://www.niorienteering.org.uk/?p=6207</id>
