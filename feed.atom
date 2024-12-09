@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T00:47:21.915Z</updated>
+    <updated>2024-12-09T06:14:51.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 9 2024]]></title>
+        <id>http://news.worldofo.com/?p=20465</id>
+        <link href="https://news.worldofo.com/2024/12/09/route-to-christmas-day-9-2024/"/>
+        <updated>2024-12-09T03:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is again taken from one of the nominations for Course of the Year 2024, the very interesting World Cup Sprint race in Italy this spring.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already nearly 40 nominated courses which you can see here. The World ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Have you started orienteering this year? Complete a survey to win!]]></title>
         <id>https://orienteering.asn.au/?p=12680</id>
