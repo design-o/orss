@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T12:18:11.501Z</updated>
+    <updated>2024-12-09T18:12:58.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -597,17 +597,6 @@ The post Anti-Bullying Week appeared first on NI Orienteering Association.]]></s
         <summary type="html"><![CDATA[Individual Events 17th November 2024 Holmbury St Mary Rider’s tracks can be found on the MapRun Event Results page. Note that we use the BMBO [...]]]></summary>
         <author>
             <name>Dave Uglow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get ready for the Victorian Sprint Champs – 1 December]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14124</id>
-        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-victorian-sprint-champs-1-december/"/>
-        <updated>2024-11-10T04:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Tarneit College has been on the radar for a top level sprint event for a long time, and it is finally happening with the Victorian Sprint Championships. This is a fantastic campus for the highlight of the sprint calendar. But remember the Championships is pre entry only.
-Get ready for the Victorian Sprint Champs – 1 December first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
