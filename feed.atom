@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T18:11:16.537Z</updated>
+    <updated>2024-12-09T00:47:21.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Have you started orienteering this year? Complete a survey to win!]]></title>
+        <id>https://orienteering.asn.au/?p=12680</id>
+        <link href="https://orienteering.asn.au/have-you-started-orienteering-this-year-complete-a-survey-to-win/"/>
+        <updated>2024-12-09T00:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Be in with a chance to win a signed Aus O' Top by completing a survey. It will also help us improve the first time orienteering experience.
+Have you started orienteering this year? Complete a survey to win! first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 8 2024]]></title>
         <id>http://news.worldofo.com/?p=20455</id>
@@ -166,6 +177,15 @@ The post Book an Appointment at Hospital appeared first on NI Orienteering Assoc
         <summary type="html"><![CDATA[The 18th edition of the traditional Route to Christmas here at World of O starts with a long, interesting leg from the Italian stage race Cansiglio O-Meeting. Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good look at the day’s leg, decide which route you would have chosen, ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Sheahan]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14258</id>
+        <link href="https://www.vicorienteering.asn.au/john-sheahan/"/>
+        <updated>2024-11-30T22:49:50.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -578,16 +598,6 @@ The post Anti-Bullying Week appeared first on NI Orienteering Association.]]></s
 Get ready for the Victorian Sprint Champs – 1 December first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICS 7 Dunmoyle]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6113</id>
-        <link href="https://www.niorienteering.org.uk/nics-7-dunmoyle/"/>
-        <updated>2024-11-09T10:18:20.000Z</updated>
-        <summary type="html"><![CDATA[The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>admin-finlay</name>
         </author>
     </entry>
     <entry>
