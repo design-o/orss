@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T18:12:58.462Z</updated>
+    <updated>2024-12-10T00:45:33.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Irish Senior Orienteering Squad Gathers for Night and Sprint Training in Dublin]]></title>
+        <id>https://www.orienteering.ie/?p=20310</id>
+        <link href="https://www.orienteering.ie/irish-senior-orienteering-squad-gathers-for-night-and-sprint-training-in-dublin/"/>
+        <updated>2024-12-09T18:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Last Saturday evening, the Irish Senior Orienteering Squad convened for an engaging training session aimed at honing their skills in night navigation and sprint orienteering. The action-packed weekend was meticulously planned and organized by senior squad member Josh, with maps generously provided by 3Rock Orienteering Club and JoshOsh Mapping. Night Orienteering: Compass Bearing Mastery The weekend kicked off […]]]></summary>
+        <author>
+            <name>Senior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 9 2024]]></title>
         <id>http://news.worldofo.com/?p=20465</id>
@@ -577,26 +587,6 @@ The post Anti-Bullying Week appeared first on NI Orienteering Association.]]></s
         <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Official’s Comments It was a great pleasure and privilege organising the OK Nuts [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICS 7 Dunmoyle]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6115</id>
-        <link href="https://www.niorienteering.org.uk/nics-7-dunmoyle-2/"/>
-        <updated>2024-11-10T11:13:20.000Z</updated>
-        <summary type="html"><![CDATA[The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>admin-finlay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBO SCORE RESULTS 2025]]></title>
-        <id>https://slow.org.uk/?p=22581</id>
-        <link href="https://slow.org.uk/racereports/mbo-score-results-2025/"/>
-        <updated>2024-11-10T10:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Individual Events 17th November 2024 Holmbury St Mary Rider’s tracks can be found on the MapRun Event Results page. Note that we use the BMBO [...]]]></summary>
-        <author>
-            <name>Dave Uglow</name>
         </author>
     </entry>
     <entry>

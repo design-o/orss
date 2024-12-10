@@ -287,6 +287,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20310",
+          "author": "Senior",
+          "description": "Last Saturday evening, the Irish Senior Orienteering Squad convened for an engaging training session aimed at honing their skills in night navigation and sprint orienteering. The action-packed weekend was meticulously planned and organized by senior squad member Josh, with maps generously provided by 3Rock Orienteering Club and JoshOsh Mapping. Night Orienteering: Compass Bearing Mastery The weekend kicked off […]",
+          "link": "https://www.orienteering.ie/irish-senior-orienteering-squad-gathers-for-night-and-sprint-training-in-dublin/",
+          "publishedOn": "2024-12-09T18:31:00.000Z",
+          "wordCount": 1064,
+          "title": "Irish Senior Orienteering Squad Gathers for Night and Sprint Training in Dublin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20261",
           "author": "Senior",
           "description": "Orienteering Ireland is proud to announce the Senior Squad for 2025. This talented group of athletes represents the best of Irish orienteering, showcasing dedication, skill, and a passion for the sport. Senior Squad Members 2025: Female Athletes: Male Athletes: We are excited to welcome new members Rosalind Heron, Jack Hanafin, and Adam Gray to the […]",
@@ -352,16 +362,6 @@
           "wordCount": 2794,
           "title": "OK Nuts Results – Hankley Common",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/ok-nuts-results-hankley-common/files/car_park.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22581",
-          "author": "Dave Uglow",
-          "description": "Individual Events 17th November 2024 Holmbury St Mary Rider’s tracks can be found on the MapRun Event Results page. Note that we use the BMBO [...]",
-          "link": "https://slow.org.uk/racereports/mbo-score-results-2025/",
-          "publishedOn": "2024-11-10T10:34:48.000Z",
-          "wordCount": 2285,
-          "title": "MBO SCORE RESULTS 2025",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/mbo-score-results-2025/files/Mickleham900.jpg"
         }
       ]
     },
@@ -599,16 +599,6 @@
           "wordCount": 4246,
           "title": "Anti-Bullying Week",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2016/09/Parents-in-Sport.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6115",
-          "author": "admin-finlay",
-          "description": "The post NICS 7 Dunmoyle appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/nics-7-dunmoyle-2/",
-          "publishedOn": "2024-11-10T11:13:20.000Z",
-          "wordCount": 4202,
-          "title": "NICS 7 Dunmoyle",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/11/5.jpg"
         }
       ]
     },
