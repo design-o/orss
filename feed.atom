@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T00:45:33.526Z</updated>
+    <updated>2024-12-10T06:13:33.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 10 2024]]></title>
+        <id>http://news.worldofo.com/?p=20472</id>
+        <link href="https://news.worldofo.com/2024/12/10/route-to-christmas-day-10-2024/"/>
+        <updated>2024-12-10T03:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is a leg from the legendary “Harry Lagerts” final – a very, very long night orienteering race which is run as a chasing start based on the earlier races in the series. And the chosen leg is of course the longest one. Thanks a lot to Terje Mathisen for the ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Irish Senior Orienteering Squad Gathers for Night and Sprint Training in Dublin]]></title>
         <id>https://www.orienteering.ie/?p=20310</id>
@@ -68,6 +78,16 @@ Have you started orienteering this year? Complete a survey to win! first appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Junior feedback – We are listening!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54773</id>
+        <link href="https://www.scottish-orienteering.org/news/junior-feedback-we-are-listening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-feedback-we-are-listening"/>
+        <updated>2024-12-06T16:11:52.000Z</updated>
+        <summary type="html"><![CDATA[At the 2024 interarea weekend, we held a feedback session for our juniors to express their thoughts and opinions on […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coaching Development Day Postponed]]></title>
         <id>https://www.niorienteering.org.uk/?p=6207</id>
         <link href="https://www.niorienteering.org.uk/coaching-development-day-postponed/"/>
@@ -86,6 +106,16 @@ The post Coaching Development Day Postponed appeared first on NI Orienteering As
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is an interesting leg from one of the large sprint-races in Norway – the Halden O-Meeting Long distance organized in the middle of April. This is typical terrain for the Østfold/Halden area, with quite soft ground, many smaller hills and some paths and roads where you can run faster. ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Event Officials courses]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54769</id>
+        <link href="https://www.scottish-orienteering.org/news/upcoming-event-officials-courses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=upcoming-event-officials-courses"/>
+        <updated>2024-12-05T16:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Events can’t run without volunteers and some of those volunteering roles require a degree of expertise. Come along to one […]]]></summary>
+        <author>
+            <name>suzannerb</name>
         </author>
     </entry>
     <entry>
@@ -587,16 +617,6 @@ The post Anti-Bullying Week appeared first on NI Orienteering Association.]]></s
         <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Official’s Comments It was a great pleasure and privilege organising the OK Nuts [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Success for North at 2024 Junior InterAreas!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54598</id>
-        <link href="https://www.scottish-orienteering.org/news/success-for-north-at-2024-junior-interareas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=success-for-north-at-2024-junior-interareas"/>
-        <updated>2024-11-06T09:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Juniors from all over Scotland headed north for this year’s junior interarea competition that took place on the weekend of […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>

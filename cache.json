@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20472",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas is a leg from the legendary “Harry Lagerts” final – a very, very long night orienteering race which is run as a chasing start based on the earlier races in the series. And the chosen leg is of course the longest one. Thanks a lot to Terje Mathisen for the ...",
+          "link": "https://news.worldofo.com/2024/12/10/route-to-christmas-day-10-2024/",
+          "publishedOn": "2024-12-10T03:00:24.000Z",
+          "wordCount": 1962,
+          "title": "Route to Christmas: Day 10 2024",
+          "imageUrl": null
+        },
+        {
           "id": "http://news.worldofo.com/?p=20465",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas is again taken from one of the nominations for Course of the Year 2024, the very interesting World Cup Sprint race in Italy this spring.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already nearly 40 nominated courses which you can see here. The World ...",
@@ -414,6 +424,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54773",
+          "author": "louise",
+          "description": "At the 2024 interarea weekend, we held a feedback session for our juniors to express their thoughts and opinions on […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-feedback-we-are-listening/?utm_source=rss&utm_medium=rss&utm_campaign=junior-feedback-we-are-listening",
+          "publishedOn": "2024-12-06T16:11:52.000Z",
+          "wordCount": 1884,
+          "title": "Junior feedback – We are listening!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/12/20241026_180030-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54769",
+          "author": "suzannerb",
+          "description": "Events can’t run without volunteers and some of those volunteering roles require a degree of expertise. Come along to one […]",
+          "link": "https://www.scottish-orienteering.org/news/upcoming-event-officials-courses/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-event-officials-courses",
+          "publishedOn": "2024-12-05T16:06:21.000Z",
+          "wordCount": 1694,
+          "title": "Upcoming Event Officials courses",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/12/O-sign-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54759",
           "author": "nikkihoward",
           "description": "The 35th Tinto twin event and the 3rd Nox and Dies event held by St Andrew’s Orienteering Club (Glasgow) (STAG) […]",
@@ -532,16 +562,6 @@
           "wordCount": 1754,
           "title": "October activities at Cuningar Loop, Glasgow",
           "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcUQjToxPBq5TiiqZWHcoJR3OhYsWRW1oQkJltI9VJIDANOrmKRODuNdL-5La_Pwcldy6NJ_TMNsXE7sP8_AUTbnpGnV0pDQ9LQz-hcs0r09Inanu10_mFXaynRKtlBZKXRYaJ69OmJGA3v--P6qbprxGY?key=vG9okiOBajJ5-urJp10fsg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54598",
-          "author": "louise",
-          "description": "Juniors from all over Scotland headed north for this year’s junior interarea competition that took place on the weekend of […]",
-          "link": "https://www.scottish-orienteering.org/news/success-for-north-at-2024-junior-interareas/?utm_source=rss&utm_medium=rss&utm_campaign=success-for-north-at-2024-junior-interareas",
-          "publishedOn": "2024-11-06T09:49:45.000Z",
-          "wordCount": 1950,
-          "title": "Success for North at 2024 Junior InterAreas!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/464489450_1082460043886047_7143005776544488925_n-1-1019x1024.jpg"
         }
       ]
     },
