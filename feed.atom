@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T06:13:33.121Z</updated>
+    <updated>2024-12-10T12:17:31.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NZ orienteering Champs 2025 Bulletin 1 released]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61108</id>
+        <link href="https://www.orienteering.org.nz/news/nz-orienteering-champs-2025-bulletin-1-released/"/>
+        <updated>2024-12-10T10:29:17.000Z</updated>
+        <summary type="html"><![CDATA[PAPO are pleased to announce that Bulletin 1 has been released for the New Zealand Orienteering Champs 2025. Bulletin 1 has information on locations, event organisation, competition information, classes and embargoed area maps. https://ochamps.nz/news/bulletin-1-released/ #bulletin1 #nzoc2025 #nzorienteeringchamps
+NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 10 2024]]></title>
         <id>http://news.worldofo.com/?p=20472</id>
