@@ -83,6 +83,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20474",
+          "author": "Jan Kocbach",
+          "description": "[See all nominations here] Wednesday December 11th is the last chance to add suggestions to “Course of the Year 2024″. We already got more than 40 nominations in the comments to the intro article  – most of these are high quality courses which will be part of the voting in “Course of the Year 2024″. Based on all the selected courses, WorldofO’s ...",
+          "link": "https://news.worldofo.com/2024/12/11/course-of-the-year-2024-last-chance-to-add-suggestions/",
+          "publishedOn": "2024-12-11T04:00:42.000Z",
+          "wordCount": 3990,
+          "title": "Course of the Year 2024: Last chance to add suggestions!",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/a41a6f38b3647ac69cb551646d335e93_l_collage_1-660x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=20480",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is an interesting leg from the build-up to the European Championships in Hungary, at the Spring Spatarcus Cup Long distance race. Note that this is again one of the nominations for Course of the Year 2024 – today is the last day to suggest nominations (already more than 40 courses nominated) The ...",
+          "link": "https://news.worldofo.com/2024/12/11/route-to-christmas-day-11-2024/",
+          "publishedOn": "2024-12-11T03:00:54.000Z",
+          "wordCount": 1914,
+          "title": "Route to Christmas: Day 11 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/sprintspartacuslong_mixed_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20472",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas is a leg from the legendary “Harry Lagerts” final – a very, very long night orienteering race which is run as a chasing start based on the earlier races in the series. And the chosen leg is of course the longest one. Thanks a lot to Terje Mathisen for the ...",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T00:44:38.740Z</updated>
+    <updated>2024-12-11T06:13:44.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Course of the Year 2024: Last chance to add suggestions!]]></title>
+        <id>http://news.worldofo.com/?p=20474</id>
+        <link href="https://news.worldofo.com/2024/12/11/course-of-the-year-2024-last-chance-to-add-suggestions/"/>
+        <updated>2024-12-11T04:00:42.000Z</updated>
+        <summary type="html"><![CDATA[[See all nominations here] Wednesday December 11th is the last chance to add suggestions to “Course of the Year 2024″. We already got more than 40 nominations in the comments to the intro article  – most of these are high quality courses which will be part of the voting in “Course of the Year 2024″. Based on all the selected courses, WorldofO’s ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 11 2024]]></title>
+        <id>http://news.worldofo.com/?p=20480</id>
+        <link href="https://news.worldofo.com/2024/12/11/route-to-christmas-day-11-2024/"/>
+        <updated>2024-12-11T03:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is an interesting leg from the build-up to the European Championships in Hungary, at the Spring Spatarcus Cup Long distance race. Note that this is again one of the nominations for Course of the Year 2024 – today is the last day to suggest nominations (already more than 40 courses nominated) The ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ealing Street-O Results]]></title>
         <id>https://slow.org.uk/?p=22776</id>
