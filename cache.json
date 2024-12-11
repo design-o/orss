@@ -402,16 +402,6 @@
           "wordCount": 2139,
           "title": "Wimbledon Training Day – 24th November",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22644",
-          "author": "Steve Clelland",
-          "description": "Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Official’s Comments It was a great pleasure and privilege organising the OK Nuts [...]",
-          "link": "https://slow.org.uk/racereports/ok-nuts-2024/",
-          "publishedOn": "2024-11-11T22:31:48.000Z",
-          "wordCount": 2794,
-          "title": "OK Nuts Results – Hankley Common",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/ok-nuts-results-hankley-common/files/car_park.jpg"
         }
       ]
     },
@@ -473,6 +463,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54789",
+          "author": "nikkihoward",
+          "description": "This last year has seen the development of a new Strategy for Scottish Orienteering to take the sport forward, secure […]",
+          "link": "https://www.scottish-orienteering.org/news/looking-to-the-future-the-new-four-year-strategy-for-scottish-orienteering-2025-2029/?utm_source=rss&utm_medium=rss&utm_campaign=looking-to-the-future-the-new-four-year-strategy-for-scottish-orienteering-2025-2029",
+          "publishedOn": "2024-12-11T11:17:12.000Z",
+          "wordCount": 2303,
+          "title": "Looking to the Future – the new four-year strategy for Scottish Orienteering 2025-2029",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2017/08/Scottish-Orienteering-Col-1-CMYK.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54773",
           "author": "louise",
