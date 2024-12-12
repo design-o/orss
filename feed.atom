@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T18:13:09.326Z</updated>
+    <updated>2024-12-12T00:44:25.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -657,17 +657,6 @@ Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November
         <summary type="html"><![CDATA[As part of the ‘Increasing Participation’ project overseen by Clyde Gateway at Cuningar Loop Woodland Park in Glasgow, SOA held […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anti-Bullying Week]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6119</id>
-        <link href="https://www.niorienteering.org.uk/anti-bullying-week/"/>
-        <updated>2024-11-12T12:26:13.000Z</updated>
-        <summary type="html"><![CDATA[It’s the NSPCC Anti-Bullying Week, which NI Orienteering endorses. The NSPCC website has very helpful resources. There is of course no place for bullying in orienteering. If you ever experience bullying, or suspect that others in the sport might be, then please contact our Safeguarding...
-The post Anti-Bullying Week appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
