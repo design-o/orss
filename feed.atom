@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T00:44:25.381Z</updated>
+    <updated>2024-12-12T06:14:01.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 12 2024]]></title>
+        <id>http://news.worldofo.com/?p=20492</id>
+        <link href="https://news.worldofo.com/2024/12/12/route-to-christmas-day-12-2024/"/>
+        <updated>2024-12-12T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is another Sprint leg – this time a leg from a high profile event – the World Orienteering Championships (WOC) Knock-Out Sprint.  Thanks a lot to Jon Cross for the suggestion and analysis. Jon writes that it would perhaps be interesting with a leg from the Knock-out Sprint Quarter-Final, which had ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking to the Future – the new four-year strategy for Scottish Orienteering 2025-2029]]></title>
         <id>https://www.scottish-orienteering.org/?p=54789</id>
