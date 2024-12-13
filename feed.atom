@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T00:45:13.383Z</updated>
+    <updated>2024-12-13T06:13:58.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vote for Course of the Year 2024 Now!]]></title>
+        <id>http://news.worldofo.com/?p=20503</id>
+        <link href="https://news.worldofo.com/2024/12/13/vote-for-course-of-the-year-2024-now/"/>
+        <updated>2024-12-13T04:00:09.000Z</updated>
+        <summary type="html"><![CDATA[What was the best orienteering course of 2024? Set up your personal Top 5 List from the nominated maps – and win prizes from our sponsors! The nominated maps have been chosen based on submissions from the WorldofO.com readers and some of the world’s top orienteers. Now YOU can choose “The Course of the Year 2024″ through ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 13 2024]]></title>
+        <id>http://news.worldofo.com/?p=20507</id>
+        <link href="https://news.worldofo.com/2024/12/13/route-to-christmas-day-13-2024/"/>
+        <updated>2024-12-13T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the 2nd Austria Cup of the year – a long distance race in a quite hilly area between Graz and Vienna. Thanks a lot to Martin Veitsberger for the tip – Martin has given many tips for good legs over the years! It is ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries Closing for a Festive Event]]></title>
         <id>https://www.niorienteering.org.uk/?p=6231</id>

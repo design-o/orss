@@ -83,6 +83,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20503",
+          "author": "Jan Kocbach",
+          "description": "What was the best orienteering course of 2024? Set up your personal Top 5 List from the nominated maps – and win prizes from our sponsors! The nominated maps have been chosen based on submissions from the WorldofO.com readers and some of the world’s top orienteers. Now YOU can choose “The Course of the Year 2024″ through ...",
+          "link": "https://news.worldofo.com/2024/12/13/vote-for-course-of-the-year-2024-now/",
+          "publishedOn": "2024-12-13T04:00:09.000Z",
+          "wordCount": 3747,
+          "title": "Vote for Course of the Year 2024 Now!",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/2024-12-12-20_34_43-Omaps.WorldofoO.com_-Course-of-the-year-660x330.png"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=20507",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is a long leg from the 2nd Austria Cup of the year – a long distance race in a quite hilly area between Graz and Vienna. Thanks a lot to Martin Veitsberger for the tip – Martin has given many tips for good legs over the years! It is ...",
+          "link": "https://news.worldofo.com/2024/12/13/route-to-christmas-day-13-2024/",
+          "publishedOn": "2024-12-13T03:00:53.000Z",
+          "wordCount": 2062,
+          "title": "Route to Christmas: Day 13 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/austriacup2_mixed_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20492",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2024 is another Sprint leg – this time a leg from a high profile event – the World Orienteering Championships (WOC) Knock-Out Sprint.  Thanks a lot to Jon Cross for the suggestion and analysis. Jon writes that it would perhaps be interesting with a leg from the Knock-out Sprint Quarter-Final, which had ...",
