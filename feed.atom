@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T18:12:50.371Z</updated>
+    <updated>2024-12-13T00:45:13.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Closing for a Festive Event]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6231</id>
+        <link href="https://www.niorienteering.org.uk/entries-closing-for-a-festive-event/"/>
+        <updated>2024-12-12T22:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Don’t miss out on the final urban event of 2024 in Armagh on Sunday afternoon 15 December. Entries close at midnight on Friday 13 December! Come and enjoy a run though the pleasant, but confusing, grounds of St. Luke’s Hospital. All the details are on...
+The post Entries Closing for a Festive Event appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 12 2024]]></title>
         <id>http://news.worldofo.com/?p=20492</id>
@@ -657,16 +668,6 @@ Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November
         <summary type="html"><![CDATA[The last weekend in October saw Badenoch and Strathspey Orienteering Club (BASOC) hosting the fifth and last Scottish Orienteering League […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October activities at Cuningar Loop, Glasgow]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54584</id>
-        <link href="https://www.scottish-orienteering.org/news/october-activities-at-cuningar-loop-glasgow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=october-activities-at-cuningar-loop-glasgow"/>
-        <updated>2024-11-13T11:25:17.000Z</updated>
-        <summary type="html"><![CDATA[As part of the ‘Increasing Participation’ project overseen by Clyde Gateway at Cuningar Loop Woodland Park in Glasgow, SOA held […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
