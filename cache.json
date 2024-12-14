@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20518",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is from a fun map in a very cool area in Czech Republic: Today we traveli to Czech sandstones – a dream area for orienteering! The leg is from the second stage of the Pekne Prazdniny race, organized this August. Thanks a lot to Toby Heppell for the ...",
+          "link": "https://news.worldofo.com/2024/12/14/route-to-christmas-day-14-2024/",
+          "publishedOn": "2024-12-14T03:00:21.000Z",
+          "wordCount": 1964,
+          "title": "Route to Christmas: Day 14 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/ppstage2_mixed_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20503",
           "author": "Jan Kocbach",
           "description": "What was the best orienteering course of 2024? Set up your personal Top 5 List from the nominated maps – and win prizes from our sponsors! The nominated maps have been chosen based on submissions from the WorldofO.com readers and some of the world’s top orienteers. Now YOU can choose “The Course of the Year 2024″ through ...",
@@ -582,56 +592,6 @@
           "wordCount": 1653,
           "title": "Scottish Student Championships 2024",
           "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuSLAWVC4t_15iQSQ_9veGegKzmauHr-r-d92I4rXP3w7t0MBsDEr1E2OYQuHxn2E6BKOMnY5_JTZLIuCD8-cp0fdB1o_ipDIsxf5EMESV-U2GvJrcZgx_0vG6Jah3_3SFzTF67A?key=VvKJ_zmXFx-dwRaAbxDfGAwp"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54677",
-          "author": "nikkihoward",
-          "description": "This autumn has seen the SOA Lead Welfare Officer, Nikki Howard, talking to Club Welfare Officers, juniors, parents and the […]",
-          "link": "https://www.scottish-orienteering.org/news/soa-welfare-policies-highlighted-this-autumn/?utm_source=rss&utm_medium=rss&utm_campaign=soa-welfare-policies-highlighted-this-autumn",
-          "publishedOn": "2024-11-14T16:03:49.000Z",
-          "wordCount": 1576,
-          "title": "SOA Welfare Policies highlighted this autumn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54675",
-          "author": "nikkihoward",
-          "description": "With lots of calls on all our member’s expenditure at this time of year we are grateful to those who […]",
-          "link": "https://www.scottish-orienteering.org/news/gift-aid-sign-up-so-the-uk-government-gives-the-soa-a-gift-this-festive-season/?utm_source=rss&utm_medium=rss&utm_campaign=gift-aid-sign-up-so-the-uk-government-gives-the-soa-a-gift-this-festive-season",
-          "publishedOn": "2024-11-14T15:33:46.000Z",
-          "wordCount": 1661,
-          "title": "Gift Aid – sign up so the UK government gives the SOA a gift this festive season!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2023/12/download-gift-aid-1024x324.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54667",
-          "author": "nikkihoward",
-          "description": "The Scottish Score Championships hosted by Interlopers Orienteering Club (INT) at Vogrie Country Park outside Edinburgh were the penultimate event […]",
-          "link": "https://www.scottish-orienteering.org/news/penultimate-event-of-the-scottish-inter-club-championship-for-2024/?utm_source=rss&utm_medium=rss&utm_campaign=penultimate-event-of-the-scottish-inter-club-championship-for-2024",
-          "publishedOn": "2024-11-14T15:21:51.000Z",
-          "wordCount": 1612,
-          "title": "Penultimate Event of the Scottish Inter Club Championship for 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54659",
-          "author": "nikkihoward",
-          "description": "The weekend of 9th November saw over 250 orienteers travel to Vogrie Country Park on the south east of Edinburgh […]",
-          "link": "https://www.scottish-orienteering.org/news/interlopers-host-the-2024-scottish-score-championships/?utm_source=rss&utm_medium=rss&utm_campaign=interlopers-host-the-2024-scottish-score-championships",
-          "publishedOn": "2024-11-14T14:52:37.000Z",
-          "wordCount": 1784,
-          "title": "Interlopers host the 2024 Scottish Score Championships",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/IMG_6507.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54652",
-          "author": "nikkihoward",
-          "description": "The last weekend in October saw Badenoch and Strathspey Orienteering Club (BASOC) hosting the fifth and last Scottish Orienteering League […]",
-          "link": "https://www.scottish-orienteering.org/news/last-scottish-orienteering-league-event-of-the-2024-season/?utm_source=rss&utm_medium=rss&utm_campaign=last-scottish-orienteering-league-event-of-the-2024-season",
-          "publishedOn": "2024-11-14T13:26:24.000Z",
-          "wordCount": 1757,
-          "title": "Last Scottish Orienteering League event of the 2024 season",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/image3-768x1024.jpeg"
         }
       ]
     },
