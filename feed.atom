@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T12:15:47.224Z</updated>
+    <updated>2024-12-15T18:11:08.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SOA Annual Training Programme]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54797</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-annual-training-programme/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-annual-training-programme"/>
+        <updated>2024-12-15T13:17:18.000Z</updated>
+        <summary type="html"><![CDATA[In an effort to assist clubs and individuals to plan training to qualify volunteers and keep them up to date, […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Orienteering Australia Elite Rankings]]></title>
         <id>https://orienteering.asn.au/?p=12742</id>
