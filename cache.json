@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20523",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is from a night orienteering race on the legendary urban Venezia map – the VeNotte 2024. Can you find a good way through the labyrinth of small roads and bridges? Thanks a lot for the tip and analysis, Luca Rosato! The leg is as usually first provided without routes – you ...",
+          "link": "https://news.worldofo.com/2024/12/15/route-to-christmas-day-15-2024/",
+          "publishedOn": "2024-12-15T03:00:42.000Z",
+          "wordCount": 2038,
+          "title": "Route to Christmas: Day 15 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/ppstage2_mov_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20518",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2024 is from a fun map in a very cool area in Czech Republic: Today we traveli to Czech sandstones – a dream area for orienteering! The leg is from the second stage of the Pekne Prazdniny race, organized this August. Thanks a lot to Toby Heppell for the ...",
@@ -657,6 +667,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12742",
+          "author": "elizabethl",
+          "description": "The 2024 elite rankings are now available and can be accessed online.\n2024 Orienteering Australia Elite Rankings first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2024-orienteering-australia-elite-rankings/",
+          "publishedOn": "2024-12-15T05:31:42.000Z",
+          "wordCount": 2336,
+          "title": "2024 Orienteering Australia Elite Rankings",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12680",
           "author": "danielstott",

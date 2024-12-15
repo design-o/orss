@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T00:50:16.488Z</updated>
+    <updated>2024-12-15T06:12:24.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Orienteering Australia Elite Rankings]]></title>
+        <id>https://orienteering.asn.au/?p=12742</id>
+        <link href="https://orienteering.asn.au/2024-orienteering-australia-elite-rankings/"/>
+        <updated>2024-12-15T05:31:42.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 elite rankings are now available and can be accessed online.
+2024 Orienteering Australia Elite Rankings first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 15 2024]]></title>
+        <id>http://news.worldofo.com/?p=20523</id>
+        <link href="https://news.worldofo.com/2024/12/15/route-to-christmas-day-15-2024/"/>
+        <updated>2024-12-15T03:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from a night orienteering race on the legendary urban Venezia map – the VeNotte 2024. Can you find a good way through the labyrinth of small roads and bridges? Thanks a lot for the tip and analysis, Luca Rosato! The leg is as usually first provided without routes – you ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OV 2025 Calendar – Start Planning Your Orienteering Year!]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14277</id>
