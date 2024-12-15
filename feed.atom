@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-14T18:10:52.740Z</updated>
+    <updated>2024-12-15T00:50:16.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -45,6 +45,17 @@ OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Or
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the 2nd Austria Cup of the year – a long distance race in a quite hilly area between Graz and Vienna. Thanks a lot to Martin Veitsberger for the tip – Martin has given many tips for good legs over the years! It is ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, December 11 to 17 – Potential Heat Related Changes for Ashwood on Monday 16th]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2024-12-13T01:41:54.000Z</updated>
+        <summary type="html"><![CDATA[With extreme heat forecast for Monday December 16, see what contingencies are in place for the Ashwood event
+Park Street Update, December 11 to 17 – Potential Heat Related Changes for Ashwood on Monday 16th first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -330,6 +341,17 @@ The post Book an Appointment at Hospital appeared first on NI Orienteering Assoc
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 takes us to the long distance race Närkekvartetten in Sweden – the 5th race in this years’ Swedish League. A quite interesting long leg where you have to consider straight versus around. The leg is as usually first provided without routes – you may take a look at ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November – Results]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14154</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-primary-schools-orienteering-championships-brimbank-park-29-november/"/>
+        <updated>2024-12-02T00:39:29.000Z</updated>
+        <summary type="html"><![CDATA[All year 3-6 students are invited to the Victorian Primary School Champs. Get your entry in now.
+Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November – Results first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
