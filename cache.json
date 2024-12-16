@@ -358,16 +358,6 @@
           "wordCount": 1284,
           "title": "Summer Shorts and Sprints Race 6, Deakin Burwood – Results and Maps",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14156",
-          "author": "Margi Freemantle",
-          "description": "Indulge in a triple treat of sprints over the next two weekends with the last two sprint events of Summer Shorts and Sprints Series and the Victorian Sprint Champs.\nTriple Treat of Sprints first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/triple-treat-of-sprints/",
-          "publishedOn": "2024-11-17T00:33:32.000Z",
-          "wordCount": 1155,
-          "title": "Triple Treat of Sprints",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -403,6 +393,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=22793",
+          "author": "Eloise Lardet",
+          "description": "On Sunday 15th December, SLOW members congregated for some festive fun in Reigate Priory Park to run in our 2024 Club Championships. Thanks a lot [...]",
+          "link": "https://slow.org.uk/clubnews/club-champs-2024/",
+          "publishedOn": "2024-12-16T13:32:40.000Z",
+          "wordCount": 2428,
+          "title": "Club Champs 2024",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews-racereports/club-champs-2024/files/20241215_PostClubChamps.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=22776",
           "author": "vinh",

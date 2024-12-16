@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-16T12:18:00.846Z</updated>
+    <updated>2024-12-16T18:12:44.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Club Champs 2024]]></title>
+        <id>https://slow.org.uk/?p=22793</id>
+        <link href="https://slow.org.uk/clubnews/club-champs-2024/"/>
+        <updated>2024-12-16T13:32:40.000Z</updated>
+        <summary type="html"><![CDATA[On Sunday 15th December, SLOW members congregated for some festive fun in Reigate Priory Park to run in our 2024 Club Championships. Thanks a lot [...]]]></summary>
+        <author>
+            <name>Eloise Lardet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 16 2024]]></title>
         <id>http://news.worldofo.com/?p=20513</id>
@@ -682,17 +692,6 @@ Australian Team Announced for the AUS/NZ Challenge at Oceania 2025 first appeare
 The post All Done at Dunmoyle appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triple Treat of Sprints]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14156</id>
-        <link href="https://www.vicorienteering.asn.au/triple-treat-of-sprints/"/>
-        <updated>2024-11-17T00:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Indulge in a triple treat of sprints over the next two weekends with the last two sprint events of Summer Shorts and Sprints Series and the Victorian Sprint Champs.
-Triple Treat of Sprints first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
