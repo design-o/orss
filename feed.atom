@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T06:13:43.948Z</updated>
+    <updated>2024-12-17T12:17:17.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European Youth Orienteering Championships 2025]]></title>
+        <id>https://orienteering.asn.au/?p=12732</id>
+        <link href="https://orienteering.asn.au/european-youth-orienteering-championships-2025/"/>
+        <updated>2024-12-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A team is being assembled for the 2025 European Youth Orienteering Championships. If you are interested in attending, contact Marina Iskhakova.
+European Youth Orienteering Championships 2025 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 17 2024]]></title>
         <id>http://news.worldofo.com/?p=20532</id>
