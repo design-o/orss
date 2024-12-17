@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T00:44:40.389Z</updated>
+    <updated>2024-12-17T06:13:43.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 17 2024]]></title>
+        <id>http://news.worldofo.com/?p=20532</id>
+        <link href="https://news.worldofo.com/2024/12/17/route-to-christmas-day-17-2024/"/>
+        <updated>2024-12-17T03:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long and interesting leg in Slovenian Karst terrain. The chosen leg is the 7th leg from the second stage of Lipica Open – thanks a lot to course setter Ivan Nagy for the tip! The leg is as usually first provided without routes – you may take ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Club Champs 2024]]></title>
         <id>https://slow.org.uk/?p=22793</id>
@@ -692,17 +702,6 @@ Australian Team Announced for the AUS/NZ Challenge at Oceania 2025 first appeare
         <summary type="html"><![CDATA[IOF’s Ski Orienteering Commission is organising an open meeting regarding the changes to Rules and Map Symbols before the start of the new season. The meeting takes place on Sunday, November 24th at 18:30 CET (UTC+1) and everyone is invited to join. Please follow this link to attend the meeting in MS Teams. The updated […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Done at Dunmoyle]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6168</id>
-        <link href="https://www.niorienteering.org.uk/all-done-at-dunmoyle/"/>
-        <updated>2024-11-17T17:21:17.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 NI Colour Series conclued with a most pleasant run on a sunny autumnal day at Dunmoyle Forest, adjacent to the facilites at Todd’s Leap. Thanks to planner Ciara Largey, controller Robbie Bryson and organiser Raymond Finlay for middle distance courses which made the...
-The post All Done at Dunmoyle appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>

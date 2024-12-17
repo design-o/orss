@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20532",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is a long and interesting leg in Slovenian Karst terrain. The chosen leg is the 7th leg from the second stage of Lipica Open – thanks a lot to course setter Ivan Nagy for the tip! The leg is as usually first provided without routes – you may take ...",
+          "link": "https://news.worldofo.com/2024/12/17/route-to-christmas-day-17-2024/",
+          "publishedOn": "2024-12-17T03:00:21.000Z",
+          "wordCount": 2003,
+          "title": "Route to Christmas: Day 17 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/lipicaopen_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20513",
           "author": "Jan Kocbach",
           "description": "In today’s edition of Route to Christmas 2024 we travel to New Zealand to a very interesting leg in steep terrain. Thanks a lot to course setter Jakob Knoef for the tip. Here is Jabob’s intro about the terrain – keep this in mind when considering your route choice on the leg: This map is ...",
@@ -679,16 +689,6 @@
           "wordCount": 4308,
           "title": "Coaching for Coaches",
           "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2015/11/coaching-day-1.jpg?fit=960%2C540&ssl=1"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6168",
-          "author": "NIOA Secretary",
-          "description": "The 2024 NI Colour Series conclued with a most pleasant run on a sunny autumnal day at Dunmoyle Forest, adjacent to the facilites at Todd’s Leap. Thanks to planner Ciara Largey, controller Robbie Bryson and organiser Raymond Finlay for middle distance courses which made the...\nThe post All Done at Dunmoyle appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/all-done-at-dunmoyle/",
-          "publishedOn": "2024-11-17T17:21:17.000Z",
-          "wordCount": 4395,
-          "title": "All Done at Dunmoyle",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/10/Todds-Leap.jpg"
         }
       ]
     },
