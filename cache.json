@@ -83,6 +83,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20536",
+          "author": "Jan Kocbach",
+          "description": "After 5 days of voting, courses from 9 countries are represented in the Top 20 of “Course of the Year 2024″: Italy, Czech Republic, Norway,  Sweden, Portugal, Great Britain, France, Hungary and Finland. Take a look at the courses below – and make your vote if you have not voted yet. Note that the order of the courses ...",
+          "link": "https://news.worldofo.com/2024/12/18/course-of-the-year-2024-overall-top-20-as-of-now/",
+          "publishedOn": "2024-12-18T04:00:36.000Z",
+          "wordCount": 3819,
+          "title": "Course of the Year 2024: Overall Top 20 as of now",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/coursetop20-660x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=20545",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is from a low-profile World Ranking competition in Estonia called Magaziin orienteerumismängud, organized by OK Kobras. Thanks a lot for the tip, Janis Tamuzs! Here is Janis’ take on the terrain: The terrain is typical for the Baltics – green and clearings are generally rather unpleasant, white has a good runnability ...",
+          "link": "https://news.worldofo.com/2024/12/18/route-to-christmas-day-18-2024/",
+          "publishedOn": "2024-12-18T03:00:15.000Z",
+          "wordCount": 2034,
+          "title": "Route to Christmas: Day 18 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/magaziin_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20532",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2024 is a long and interesting leg in Slovenian Karst terrain. The chosen leg is the 7th leg from the second stage of Lipica Open – thanks a lot to course setter Ivan Nagy for the tip! The leg is as usually first provided without routes – you may take ...",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T00:42:54.643Z</updated>
+    <updated>2024-12-18T06:12:56.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Course of the Year 2024: Overall Top 20 as of now]]></title>
+        <id>http://news.worldofo.com/?p=20536</id>
+        <link href="https://news.worldofo.com/2024/12/18/course-of-the-year-2024-overall-top-20-as-of-now/"/>
+        <updated>2024-12-18T04:00:36.000Z</updated>
+        <summary type="html"><![CDATA[After 5 days of voting, courses from 9 countries are represented in the Top 20 of “Course of the Year 2024″: Italy, Czech Republic, Norway,  Sweden, Portugal, Great Britain, France, Hungary and Finland. Take a look at the courses below – and make your vote if you have not voted yet. Note that the order of the courses ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 18 2024]]></title>
+        <id>http://news.worldofo.com/?p=20545</id>
+        <link href="https://news.worldofo.com/2024/12/18/route-to-christmas-day-18-2024/"/>
+        <updated>2024-12-18T03:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from a low-profile World Ranking competition in Estonia called Magaziin orienteerumismängud, organized by OK Kobras. Thanks a lot for the tip, Janis Tamuzs! Here is Janis’ take on the terrain: The terrain is typical for the Baltics – green and clearings are generally rather unpleasant, white has a good runnability ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European Youth Orienteering Championships 2025]]></title>
         <id>https://orienteering.asn.au/?p=12732</id>
