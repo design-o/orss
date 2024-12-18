@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T06:12:56.817Z</updated>
+    <updated>2024-12-18T12:16:35.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -723,16 +723,6 @@ Australian Team Announced for the AUS/NZ Challenge at Oceania 2025 first appeare
         <summary type="html"><![CDATA[This year Stirling University were the hosts of the 2024 Scottish Student Championships with the support of Forth Valley Orienteers. […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open meeting on SkiO Rules and Map symbols on Sunday]]></title>
-        <id>https://orienteering.sport/?p=75120</id>
-        <link href="https://orienteering.sport/open-meeting-on-skio-rules-and-map-symbols-on-sunday/"/>
-        <updated>2024-11-18T21:52:43.000Z</updated>
-        <summary type="html"><![CDATA[IOF’s Ski Orienteering Commission is organising an open meeting regarding the changes to Rules and Map Symbols before the start of the new season. The meeting takes place on Sunday, November 24th at 18:30 CET (UTC+1) and everyone is invited to join. Please follow this link to attend the meeting in MS Teams. The updated […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
