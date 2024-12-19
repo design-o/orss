@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T00:43:21.191Z</updated>
+    <updated>2024-12-19T06:12:58.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 19 2024]]></title>
+        <id>http://news.worldofo.com/?p=20550</id>
+        <link href="https://news.worldofo.com/2024/12/19/route-to-christmas-day-19-2024/"/>
+        <updated>2024-12-19T03:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the long distance race at the World Cup final in Finland – which was also the pre-WOC for next years’ World Orienteering Championships.  The chosen leg is the 3rd leg on the men’s course – one of the most decisive legs on the ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Course of the Year 2024: Overall Top 20 as of now]]></title>
         <id>http://news.worldofo.com/?p=20536</id>
