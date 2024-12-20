@@ -73,6 +73,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20571",
+          "author": "Jan Kocbach",
+          "description": "Today is the last chance to vote in Course of the Year 2024! 24 hours before closing time we find the following in the Top 10: The WOC Sprint in Scotland, Portugal O-Meeting Middle, Finnish Champs Long and Night, European Champs Middle in Hungary, MOM 2024 Middle in Spain, Norwegian Champs Long, Swedish Champs Ultralong ...",
+          "link": "https://news.worldofo.com/2024/12/20/course-of-the-year-2024-last-change-to-vote/",
+          "publishedOn": "2024-12-20T04:00:28.000Z",
+          "wordCount": 3881,
+          "title": "Course of the Year 2024: Last Chance to Vote!",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/top10_collage-660x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=20566",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2024 is a 4.8 km long leg from the Swedish Championships Ultralong. Thanks a lot to Per Forsberg of the course setting team for the tip along with analysis! Note that this was a mass start race – and here is what Per had to say about the race: The ...",
+          "link": "https://news.worldofo.com/2024/12/20/route-to-christmas-day-20-2024/",
+          "publishedOn": "2024-12-20T03:00:09.000Z",
+          "wordCount": 3637,
+          "title": "Route to Christmas: Day 20 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/swedishchampsultra_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20550",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2024 is a long leg from the long distance race at the World Cup final in Finland – which was also the pre-WOC for next years’ World Orienteering Championships.  The chosen leg is the 3rd leg on the men’s course – one of the most decisive legs on the ...",
@@ -593,6 +613,16 @@
         {
           "id": "https://www.orienteering.org.nz/?p=61172",
           "author": "Christo Peters",
+          "description": "Central Otago Orienteering / Dunedin are hosting the 2025 NZ MTBO Championships in Central Otago over the weekend of 1st / 2nd Feb. There will be a sprint in Alexandra on the morning of the 1st followed by middle distance on Matangi Station in the afternoon. The long distance will be in Naseby Forest on 2nd […]\nNew Zealand MTBO champs  |  Entries open! first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/mtbo/nzmtbo-champs-entries/",
+          "publishedOn": "2024-12-19T06:32:18.000Z",
+          "wordCount": 2362,
+          "title": "New Zealand MTBO champs  |  Entries open!",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/9aca09e9-1a4b-5049-57c3-76ee707a3955.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=61172",
+          "author": "Christo Peters",
           "description": "Central Otago Orienteering / Dunedin are hosting the 2025 NZ MTBO Championships in Central Otago over the weekend of 1st / 2nd Feb. There will be a sprint in Alexandra on the morning of the 1st followed by middle distance on Matangi Station in the afternoon. The long distance will be in Naseby Forest on 2nd […]\nAustralian MTBO champs  |  Entries open! first appeared on Orienteering New Zealand.",
           "link": "https://www.orienteering.org.nz/mtbo/australian-mtbo-champs-entries-open/",
           "publishedOn": "2024-12-19T06:32:18.000Z",
@@ -832,16 +862,6 @@
           "wordCount": 1555,
           "title": "Scottish Disability Sport Week- FVO at Donaldson’s Trust",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/School.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54694",
-          "author": "heidi",
-          "description": "This year Stirling University were the hosts of the 2024 Scottish Student Championships with the support of Forth Valley Orienteers. […]",
-          "link": "https://www.scottish-orienteering.org/news/scottish-student-championships-2024/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-student-championships-2024",
-          "publishedOn": "2024-11-20T15:43:41.000Z",
-          "wordCount": 1653,
-          "title": "Scottish Student Championships 2024",
-          "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuSLAWVC4t_15iQSQ_9veGegKzmauHr-r-d92I4rXP3w7t0MBsDEr1E2OYQuHxn2E6BKOMnY5_JTZLIuCD8-cp0fdB1o_ipDIsxf5EMESV-U2GvJrcZgx_0vG6Jah3_3SFzTF67A?key=VvKJ_zmXFx-dwRaAbxDfGAwp"
         }
       ]
     },
