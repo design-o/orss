@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-20T18:11:29.698Z</updated>
+    <updated>2024-12-21T00:40:23.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -930,28 +930,6 @@ Vic MTBO Series Scores and Winner Photos 2024 first appeared on Orienteering Vic
 Summer Shorts and Sprints Race 6, Deakin Burwood – Results and Maps first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Junior Development Camp 2024]]></title>
-        <id>https://orienteering.asn.au/?p=12510</id>
-        <link href="https://orienteering.asn.au/australian-junior-development-camp-2024/"/>
-        <updated>2024-11-21T07:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Junior orienteers aged 14-19 are invited to attend Orienteering Australia’s Junior Development Camp 2024. Entry deadline in 2 days.
-Australian Junior Development Camp 2024 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Team Announced for the AUS/NZ Challenge at Oceania 2025]]></title>
-        <id>https://orienteering.asn.au/?p=12493</id>
-        <link href="https://orienteering.asn.au/australian-team-announced-for-the-aus-nz-challenge-at-oceania-2025/"/>
-        <updated>2024-11-21T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the Australian athletes chosen for the for the AUZ/NZ Challenge at Oceania 2025!
-Australian Team Announced for the AUS/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
