@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T12:13:56.381Z</updated>
+    <updated>2024-12-22T18:10:19.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selection Notice – European Youth Orienteering Championships 2025 (EYOC)]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61209</id>
+        <link href="https://www.orienteering.org.nz/news/selection-notice-european-youth-orienteering-championships-2025-eyoc/"/>
+        <updated>2024-12-22T17:59:54.000Z</updated>
+        <summary type="html"><![CDATA[The European Youth Orienteering Championships (EYOC) 2025 will be held in Brno, Czechia from 17th -21st July 2025. EYOC will consist of a Long distance race, an Individual Sprint, and a Forest Relay. Age classes are W16, M16, W18, M18. New Zealand is allowed to enter 4 athletes in each class. Selection Criteria As per the […]
+Selection Notice – European Youth Orienteering Championships 2025 (EYOC) first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 22 2024]]></title>
         <id>http://news.worldofo.com/?p=20581</id>
