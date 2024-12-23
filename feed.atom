@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T18:10:19.323Z</updated>
+    <updated>2024-12-23T00:42:39.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asian Orienteering Championships off to a great start in Thailand]]></title>
+        <id>https://orienteering.sport/?p=75269</id>
+        <link href="https://orienteering.sport/asian-orienteering-championships-off-to-a-great-start-in-thailand/"/>
+        <updated>2024-12-22T22:02:25.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Asian Orienteering Championships and Asian Youth and Junior Championships got off to a flying start on Sunday morning in Chiang Mai in northern Thailand. Almost 250 athletes from 10 different nations are competing in the championships, which are being held for the seventh time. The first distance of the championships was a sprint […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selection Notice – European Youth Orienteering Championships 2025 (EYOC)]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61209</id>
