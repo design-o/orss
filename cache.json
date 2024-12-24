@@ -514,6 +514,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22838",
+          "author": "Steve Clelland",
+          "description": "The third race of South London Orienteers’ 2024-2025 Night series takes place on Esher Common, on Tuesday 28th January 2025. Race Centre The race will be based [...]",
+          "link": "https://slow.org.uk/events/esher-common-jan25/",
+          "publishedOn": "2024-12-24T10:56:45.000Z",
+          "wordCount": 2417,
+          "title": "Esher Common Night-O, Tuesday 28th January",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22829",
           "author": "vinh",
           "description": "Welcome to the first Street-O race of the new year! This is the fourth race of the 2024-25 Street-O series and will be in the Balham area. [...]",
@@ -572,16 +582,6 @@
           "wordCount": 1945,
           "title": "Wandsworth Common Night-O Results",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wandsworth-results-nov2024/files/Wandsworth_NightO.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22704",
-          "author": "Steve Clelland",
-          "description": "Saturday 18th January 2025 at 11.00am 43rd edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]",
-          "link": "https://slow.org.uk/events/box-hill-2025/",
-          "publishedOn": "2024-11-24T20:07:06.000Z",
-          "wordCount": 2418,
-          "title": "Box Hill Fell Race 2025",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Box_Hill_2022_3-scaled.jpg"
         }
       ]
     },
@@ -940,6 +940,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6248",
+          "author": "NIOA Secretary",
+          "description": "The results are in for the NI Urban League 2024, after the final brain testing event at St Luke’s Hospital at Armagh, with a huge thanks to Graeme Francis. Congratulations to the course winners: Long – Stephanie Pruzina, LVO Middle – Raymond Finlay, FermO Short...\nThe post The Results are in… appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/the-results-are-in-2/",
+          "publishedOn": "2024-12-24T11:56:23.000Z",
+          "wordCount": 4301,
+          "title": "The Results are in…",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2019/11/results.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6231",
           "author": "NIOA Secretary",
