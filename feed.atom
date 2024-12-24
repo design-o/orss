@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T00:41:05.007Z</updated>
+    <updated>2024-12-24T06:12:31.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lucky voters: 27 Christmas presents – check if you got one!?]]></title>
+        <id>http://news.worldofo.com/?p=20664</id>
+        <link href="https://news.worldofo.com/2024/12/24/lucky-voters-27-christmas-presents-check-if-you-got-one/"/>
+        <updated>2024-12-24T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Check here if you are one of winners of the prizes worth more than 7000 Euros in total in your voting or nomination for “The Orienteering Course of 2024″!  To all winners: Please try to bring as many friends as possible to the event you won a prize for – that will make the sponsors happy! Big thanks go ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 24 2024]]></title>
+        <id>http://news.worldofo.com/?p=20588</id>
+        <link href="https://news.worldofo.com/2024/12/24/route-to-christmas-day-24-2024/"/>
+        <updated>2024-12-24T03:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the Finnish Championships long distance. This course is one of the Top 10-finishers in Course of the Year 2024. The leg is as usually first provided without routes – you may take a look at it and think about how you would attack this ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Course of the Year 2024: Maximus O Meeting Middle]]></title>
         <id>http://news.worldofo.com/?p=20604</id>
