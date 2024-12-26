@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T00:41:14.274Z</updated>
+    <updated>2024-12-26T06:13:20.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas 2024: Bonus leg]]></title>
+        <id>http://news.worldofo.com/?p=20558</id>
+        <link href="https://news.worldofo.com/2024/12/26/route-to-christmas-2024-bonus-leg/"/>
+        <updated>2024-12-26T03:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Today we offer a bonus leg in Route to Christmas 2024 – a second leg from the World Cup Final long race. This course was already featured on Day 19 – but the leg to control 13 was interesting enough to make a bonus leg. Especially with this being the area for next year’s World Orienteering Championships! The leg ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Results are in…]]></title>
         <id>https://www.niorienteering.org.uk/?p=6248</id>
@@ -947,16 +957,6 @@ Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 202
         <summary type="html"><![CDATA[Results – pdf SPORTident Live Results WinSplits Routegadget – draw your route!]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amended regulations for IOF Independent Athlete Status]]></title>
-        <id>https://orienteering.sport/?p=75148</id>
-        <link href="https://orienteering.sport/amended-regulations-for-iof-independent-athlete-status/"/>
-        <updated>2024-11-26T14:50:30.000Z</updated>
-        <summary type="html"><![CDATA[IOF Council has amended the regulations for IOF Independent Athlete Status which opens up for independent athlete participation in World Ranking Events, and extended the current application deadline to November 30th. The independent athlete system provide san opening for participation by individual athletes from countries where there is currently no IOF member federation. The approved […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
         </author>
     </entry>
 </feed>
