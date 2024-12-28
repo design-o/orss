@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T18:11:53.423Z</updated>
+    <updated>2024-12-28T00:40:03.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -937,16 +937,6 @@ Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 202
         <summary type="html"><![CDATA[The 16th London City Race takes place on Saturday 20th September 2024. There are accompanying races in London on Friday evening and Sunday. The race [...]]]></summary>
         <author>
             <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Disability Sport Week- FVO at Donaldson’s Trust]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54725</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-disability-sport-week-fvo-at-donaldsons-trust/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-disability-sport-week-fvo-at-donaldsons-trust"/>
-        <updated>2024-11-28T11:18:17.000Z</updated>
-        <summary type="html"><![CDATA[As you may be aware this week is Scottish Disability Sport week. Earlier this week we highlighted some of the […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
 </feed>
