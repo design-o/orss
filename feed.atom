@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-28T06:11:49.513Z</updated>
+    <updated>2024-12-28T12:14:05.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -927,16 +927,6 @@ The post Coaching for Coaches appeared first on NI Orienteering Association.]]><
 Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London City Race 2025]]></title>
-        <id>https://slow.org.uk/?p=22770</id>
-        <link href="https://slow.org.uk/events/london-city-race-2025/"/>
-        <updated>2024-11-28T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The 16th London City Race takes place on Saturday 20th September 2024. There are accompanying races in London on Friday evening and Sunday. The race [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
         </author>
     </entry>
 </feed>
