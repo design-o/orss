@@ -448,16 +448,6 @@
           "wordCount": 1210,
           "title": "Summer Shorts and Sprints Series Winners!",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14251",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/central-highlands-and-ballarat-summer-events/",
-          "publishedOn": "2024-11-30T01:13:25.000Z",
-          "wordCount": 955,
-          "title": "Central Highlands and Ballarat Summer Events",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -773,6 +763,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54818",
+          "author": "nikkihoward",
+          "description": "The fixtures calendar for the next year has been finalised and we are very grateful to all those clubs who […]",
+          "link": "https://www.scottish-orienteering.org/news/2025-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&utm_medium=rss&utm_campaign=2025-scottish-orienteering-fixtures-diaries-at-the-ready",
+          "publishedOn": "2024-12-29T18:07:46.000Z",
+          "wordCount": 1845,
+          "title": "2025 Scottish Orienteering Fixtures –  Diaries at the ready ?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/12/Your-paragraph-text-1024x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54809",
           "author": "nikkihoward",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T12:14:09.990Z</updated>
+    <updated>2024-12-29T18:11:10.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Scottish Orienteering Fixtures –  Diaries at the ready ?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54818</id>
+        <link href="https://www.scottish-orienteering.org/news/2025-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-scottish-orienteering-fixtures-diaries-at-the-ready"/>
+        <updated>2024-12-29T18:07:46.000Z</updated>
+        <summary type="html"><![CDATA[The fixtures calendar for the next year has been finalised and we are very grateful to all those clubs who […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF mourns death of Swiss athlete Pascal Buchs]]></title>
         <id>https://orienteering.sport/?p=75273</id>
@@ -904,15 +914,6 @@ Salesian and Tarneit Wrap Up Summer Shorts and Sprints first appeared on Oriente
         <updated>2024-11-30T07:35:50.000Z</updated>
         <summary type="html"><![CDATA[Presentations for the Summer Shorts and Sprints Series will be held at the Vic Sprint Champs at Tarneit. Congratulations to all!
 Summer Shorts and Sprints Series Winners! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Highlands and Ballarat Summer Events]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14251</id>
-        <link href="https://www.vicorienteering.asn.au/central-highlands-and-ballarat-summer-events/"/>
-        <updated>2024-11-30T01:13:25.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
