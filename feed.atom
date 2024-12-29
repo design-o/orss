@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T00:45:55.959Z</updated>
+    <updated>2024-12-29T06:11:20.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -925,16 +925,6 @@ Summer Shorts and Sprints Series Winners! first appeared on Orienteering Victori
         <summary type="html"><![CDATA[Eirik Langedal Breivik (NOR) took the orienteering world by surprise, when he won the middle distance at the European Orienteering Championships in Hungary in August. It was warm and tough, and the Norwegian steered clear of any mistake in his breakthrough performance, where all the opponents lost time on the technically demanding slopes. In this […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEDS – Scottish Elite and Development Squad]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54732</id>
-        <link href="https://www.scottish-orienteering.org/news/seds-scottish-elite-and-development-squad/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seds-scottish-elite-and-development-squad"/>
-        <updated>2024-11-29T16:38:06.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Elite and Development Squad (SEDS) helps Scottish-based orienteering athletes to reach their potential and promotes top quality training […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
