@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-28T18:10:33.549Z</updated>
+    <updated>2024-12-29T00:45:55.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOF mourns death of Swiss athlete Pascal Buchs]]></title>
+        <id>https://orienteering.sport/?p=75273</id>
+        <link href="https://orienteering.sport/iof-mourns-death-of-swiss-athlete-pascal-buchs/"/>
+        <updated>2024-12-28T21:12:29.000Z</updated>
+        <summary type="html"><![CDATA[It is with great sadness that the International Orienteering Federation learned of the death of Swiss national team athlete Pascal Buchs, who died tragically in an accident at the age of 27 on Friday. Pascal Buchs was a part of Swiss Orienteering’s elite division since 2018 and regularly competed in World Cup races for the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 SOA Coaching and Volunteering Training Opportunities – Are your diaries at the ready?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54809</id>
+        <link href="https://www.scottish-orienteering.org/news/2025-soa-coaching-and-volunteering-training-opportunities-are-your-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-soa-coaching-and-volunteering-training-opportunities-are-your-diaries-at-the-ready"/>
+        <updated>2024-12-28T18:26:10.000Z</updated>
+        <summary type="html"><![CDATA[One of the main skills we use when orienteering is planning.  To allow you to plan for the year ahead […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas 2024: Bonus leg]]></title>
         <id>http://news.worldofo.com/?p=20558</id>
@@ -915,28 +935,6 @@ Summer Shorts and Sprints Series Winners! first appeared on Orienteering Victori
         <summary type="html"><![CDATA[The Scottish Elite and Development Squad (SEDS) helps Scottish-based orienteering athletes to reach their potential and promotes top quality training […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coaching for Coaches]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6195</id>
-        <link href="https://www.niorienteering.org.uk/coaching-for-coaches/"/>
-        <updated>2024-11-29T11:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Coaches need coaching! A special day has been arranged for those involved in coaching or are interested in becoming a coach on Saturday 7 December in the Gortin area, Co Tyrone. Just to be clear that this is not a day for being coached, but...
-The post Coaching for Coaches appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61026</id>
-        <link href="https://www.orienteering.org.nz/news/entries-are-open-for-the-taitonga-south-island-regional-champs-7-8-feb-2025/"/>
-        <updated>2024-11-29T06:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Southland Orienteering Club would like to invite you to attend the 2025 Taitonga (Southern) Regional Championships The event takes place the week after Oceania so we are hoping that may attending Oceania may travel on to Waikaia for the Taitonga Championships. Bulletin One be found here and you can enter here. 
-Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>

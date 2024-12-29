@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75273",
+          "author": "Erling Thisted",
+          "description": "It is with great sadness that the International Orienteering Federation learned of the death of Swiss national team athlete Pascal Buchs, who died tragically in an accident at the age of 27 on Friday. Pascal Buchs was a part of Swiss Orienteering’s elite division since 2018 and regularly competed in World Cup races for the […]",
+          "link": "https://orienteering.sport/iof-mourns-death-of-swiss-athlete-pascal-buchs/",
+          "publishedOn": "2024-12-28T21:12:29.000Z",
+          "wordCount": 1887,
+          "title": "IOF mourns death of Swiss athlete Pascal Buchs",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/12/pascalbuchs.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75269",
           "author": "Erling Thisted",
           "description": "The 2024 Asian Orienteering Championships and Asian Youth and Junior Championships got off to a flying start on Sunday morning in Chiang Mai in northern Thailand. Almost 250 athletes from 10 different nations are competing in the championships, which are being held for the seventh time. The first distance of the championships was a sprint […]",
@@ -759,16 +769,6 @@
           "wordCount": 2237,
           "title": "NZ orienteering Champs 2025 Bulletin 1 released",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/Bulletin-one-image-w-landscape.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=61026",
-          "author": "Christo Peters",
-          "description": "Southland Orienteering Club would like to invite you to attend the 2025 Taitonga (Southern) Regional Championships The event takes place the week after Oceania so we are hoping that may attending Oceania may travel on to Waikaia for the Taitonga Championships. Bulletin One be found here and you can enter here. \nEntries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/entries-are-open-for-the-taitonga-south-island-regional-champs-7-8-feb-2025/",
-          "publishedOn": "2024-11-29T06:39:24.000Z",
-          "wordCount": 2279,
-          "title": "Entries are open for the Taitonga (South Island) Regional Champs | 7 & 8 Feb 2025",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/11/Screenshot-704-1.png"
         }
       ]
     },
@@ -783,6 +783,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54809",
+          "author": "nikkihoward",
+          "description": "One of the main skills we use when orienteering is planning.  To allow you to plan for the year ahead […]",
+          "link": "https://www.scottish-orienteering.org/news/2025-soa-coaching-and-volunteering-training-opportunities-are-your-diaries-at-the-ready/?utm_source=rss&utm_medium=rss&utm_campaign=2025-soa-coaching-and-volunteering-training-opportunities-are-your-diaries-at-the-ready",
+          "publishedOn": "2024-12-28T18:26:10.000Z",
+          "wordCount": 1982,
+          "title": "2025 SOA Coaching and Volunteering Training Opportunities – Are your diaries at the ready?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/Dundee-Jpeg-3-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54804",
           "author": "nikkihoward",
@@ -919,16 +929,6 @@
           "wordCount": 4349,
           "title": "Book an Appointment at Hospital",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2024/12/St-Lukes-Dec-2024.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6195",
-          "author": "NIOA Secretary",
-          "description": "Coaches need coaching! A special day has been arranged for those involved in coaching or are interested in becoming a coach on Saturday 7 December in the Gortin area, Co Tyrone. Just to be clear that this is not a day for being coached, but...\nThe post Coaching for Coaches appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/coaching-for-coaches/",
-          "publishedOn": "2024-11-29T11:15:10.000Z",
-          "wordCount": 4308,
-          "title": "Coaching for Coaches",
-          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2015/11/coaching-day-1.jpg?fit=960%2C540&ssl=1"
         }
       ]
     },
