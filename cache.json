@@ -371,16 +371,6 @@
           "wordCount": 2135,
           "title": "Route To Christmas: Day 2 2024",
           "imageUrl": "http://news.worldofo.com/wp-content/uploads/2024/12/swedishleague5_mixed_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20384",
-          "author": "Jan Kocbach",
-          "description": "The 18th edition of the traditional Route to Christmas here at World of O starts with a long, interesting leg from the Italian stage race Cansiglio O-Meeting. Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good look at the day’s leg, decide which route you would have chosen, ...",
-          "link": "https://news.worldofo.com/2024/12/01/route-to-christmas-day-1-2024/",
-          "publishedOn": "2024-12-01T03:00:38.000Z",
-          "wordCount": 2192,
-          "title": "Route To Christmas: Day 1 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -407,6 +397,16 @@
           "publishedOn": "2024-12-13T01:41:54.000Z",
           "wordCount": 1121,
           "title": "Park Street Update, December 11 to 17 – Potential Heat Related Changes for Ashwood on Monday 16th",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14258",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/john-sheahan/",
+          "publishedOn": "2024-12-10T22:49:50.000Z",
+          "wordCount": 1452,
+          "title": "John Sheahan, 1938-2024",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -743,6 +743,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=54832",
+          "author": "nikkihoward",
+          "description": "Scottish Orienteering is rooted in volunteering and pitching-in, most obviously at club level where countless individuals give up their time […]",
+          "link": "https://www.scottish-orienteering.org/news/celebrating-our-unsung-heroes-thank-you-to-the-soa-volunteers/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-our-unsung-heroes-thank-you-to-the-soa-volunteers",
+          "publishedOn": "2024-12-30T13:10:47.000Z",
+          "wordCount": 1702,
+          "title": "Celebrating Our Unsung Heroes: Thank You to the SOA Volunteers",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/12/image0-1024x1024.jpeg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=54818",
           "author": "nikkihoward",
