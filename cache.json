@@ -438,16 +438,6 @@
           "wordCount": 1127,
           "title": "Salesian and Tarneit Wrap Up Summer Shorts and Sprints",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14258",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/john-sheahan/",
-          "publishedOn": "2024-11-30T22:49:50.000Z",
-          "wordCount": 1039,
-          "title": "John Sheahan",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -860,6 +850,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6252",
+          "author": "NIOA Secretary",
+          "description": "It’s time to check your orienteering memberships! Memberships run on the calendar year and as of 30 December: 92 members have signed up for 2025 membership. These members will shortly receive a thank you email from the membership database. 134 members will have their membership...\nThe post It’s Orienteering Membership Renewal Time appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/its-orienteering-membership-renewal-time/",
+          "publishedOn": "2024-12-30T11:09:48.000Z",
+          "wordCount": 4433,
+          "title": "It’s Orienteering Membership Renewal Time",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2017/12/membership.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6248",
           "author": "NIOA Secretary",
