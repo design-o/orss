@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T00:43:20.768Z</updated>
+    <updated>2024-12-30T06:13:32.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -847,6 +847,17 @@ The post Book an Appointment at Hospital appeared first on NI Orienteering Assoc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Series Winners!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14225</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-series-winners/"/>
+        <updated>2024-12-02T07:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Find out who won the Summer Shorts and Sprints Series in 2024
+Summer Shorts and Sprints Series Winners! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Route To Christmas: Day 2 2024]]></title>
         <id>http://news.worldofo.com/?p=20387</id>
         <link href="https://news.worldofo.com/2024/12/02/route-to-christmas-day-2-2024/"/>
@@ -895,16 +906,6 @@ Salesian and Tarneit Wrap Up Summer Shorts and Sprints first appeared on Oriente
         <updated>2024-11-30T22:49:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Club Championships]]></title>
-        <id>https://slow.org.uk/?p=22737</id>
-        <link href="https://slow.org.uk/clubnight/2024-club-championships/"/>
-        <updated>2024-11-30T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[All club members are invited to our 2024 championships. These are an (almost) annual event where we come together as a club for orienteering conversation, [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
         </author>
     </entry>
 </feed>
