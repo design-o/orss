@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T12:15:57.575Z</updated>
+    <updated>2024-12-31T18:11:43.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -895,38 +895,6 @@ The post Book an Appointment at Hospital appeared first on NI Orienteering Assoc
 Summer Shorts and Sprints Series Winners! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route To Christmas: Day 2 2024]]></title>
-        <id>http://news.worldofo.com/?p=20387</id>
-        <link href="https://news.worldofo.com/2024/12/02/route-to-christmas-day-2-2024/"/>
-        <updated>2024-12-02T03:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 takes us to the long distance race Närkekvartetten in Sweden – the 5th race in this years’ Swedish League. A quite interesting long leg where you have to consider straight versus around. The leg is as usually first provided without routes – you may take a look at ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November – Results]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14154</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-primary-schools-orienteering-championships-brimbank-park-29-november/"/>
-        <updated>2024-12-02T00:39:29.000Z</updated>
-        <summary type="html"><![CDATA[All year 3-6 students are invited to the Victorian Primary School Champs. Get your entry in now.
-Victorian Primary Schools Orienteering Championships, Brimbank Park, 29 November – Results first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesian and Tarneit Wrap Up Summer Shorts and Sprints]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14156</id>
-        <link href="https://www.vicorienteering.asn.au/triple-treat-of-sprints/"/>
-        <updated>2024-12-02T00:33:32.000Z</updated>
-        <summary type="html"><![CDATA[What a way to finish!  Read on to see the results and photos from our Big Finish weekend
-Salesian and Tarneit Wrap Up Summer Shorts and Sprints first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
