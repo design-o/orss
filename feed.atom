@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T06:12:56.987Z</updated>
+    <updated>2024-12-31T12:15:57.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Orienteering 2024 – a thank you for all the hard work behind the scenes]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54849</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-orienteering-2024-a-thank-you-for-all-the-hard-work-behind-the-scenes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-orienteering-2024-a-thank-you-for-all-the-hard-work-behind-the-scenes"/>
+        <updated>2024-12-31T09:18:28.000Z</updated>
+        <summary type="html"><![CDATA[As the year comes to an end it’s always a good time to take stock, and a lot happened in […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrating Our Unsung Heroes: Thank You to the SOA Volunteers]]></title>
         <id>https://www.scottish-orienteering.org/?p=54832</id>
