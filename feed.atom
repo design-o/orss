@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T18:11:43.427Z</updated>
+    <updated>2025-01-01T00:45:14.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -854,47 +854,6 @@ The post Book an Appointment at Hospital appeared first on NI Orienteering Assoc
         <summary type="html"><![CDATA[IOF has started working on updating its communications strategy and is now searching for a professional resource to lead a working group under the IOF Council. The aim of the strategy work is, through the first quarter of 2025, to come up with an easily decipherable and action-oriented communication strategy for the coming years that […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inter Club Championship results finalised at STAG Tinto Twin event]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54759</id>
-        <link href="https://www.scottish-orienteering.org/news/inter-club-championship-results-finalised-at-stag-tinto-twin-event/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inter-club-championship-results-finalised-at-stag-tinto-twin-event"/>
-        <updated>2024-12-02T12:29:24.000Z</updated>
-        <summary type="html"><![CDATA[The 35th Tinto twin event and the 3rd Nox and Dies event held by St Andrew’s Orienteering Club (Glasgow) (STAG) […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Share your love of the Six Days! What excites you most about Deeside 2025?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54753</id>
-        <link href="https://www.scottish-orienteering.org/news/share-your-love-of-the-six-days-what-excites-you-most-about-deeside-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=share-your-love-of-the-six-days-what-excites-you-most-about-deeside-2025"/>
-        <updated>2024-12-02T10:42:22.000Z</updated>
-        <summary type="html"><![CDATA[We all know the Scottish Six Days is an amazing event – can you help us spread the word tonew […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Six Days – Royal Deeside 2025 – Entries Now Open!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54749</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-six-days-royal-deeside-2025-entries-now-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-six-days-royal-deeside-2025-entries-now-open"/>
-        <updated>2024-12-02T10:38:53.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Six Days is one of the greatest orienteering festivals, and certainly thelargest and most exciting event on Scotland’s […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints Series Winners!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14225</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-series-winners/"/>
-        <updated>2024-12-02T07:35:50.000Z</updated>
-        <summary type="html"><![CDATA[Find out who won the Summer Shorts and Sprints Series in 2024
-Summer Shorts and Sprints Series Winners! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
