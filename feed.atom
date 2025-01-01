@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T06:13:11.526Z</updated>
+    <updated>2025-01-01T12:15:18.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -844,16 +844,6 @@ The post Book an Appointment at Hospital appeared first on NI Orienteering Assoc
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 takes us to an interesting leg in French karst terrain at OOCup 2024. Not the longest leg, but still challenging to decide what to do. In the bulletin the terrain was described as hilly terrain, nice mixed forest with many relief details, some boulders and cliffs but overall ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be a part of shaping a new communication strategy for International Orienteering]]></title>
-        <id>https://orienteering.sport/?p=75167</id>
-        <link href="https://orienteering.sport/be-a-part-of-shaping-a-new-communication-strategy-for-international-orienteering/"/>
-        <updated>2024-12-02T20:24:20.000Z</updated>
-        <summary type="html"><![CDATA[IOF has started working on updating its communications strategy and is now searching for a professional resource to lead a working group under the IOF Council. The aim of the strategy work is, through the first quarter of 2025, to come up with an easily decipherable and action-oriented communication strategy for the coming years that […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
