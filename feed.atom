@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T12:15:25.514Z</updated>
+    <updated>2025-01-02T18:12:35.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -801,26 +801,6 @@ The post Coaching Development Day Postponed appeared first on NI Orienteering As
         <link href="https://news.worldofo.com/2024/12/05/route-to-christmas-day-5-2024/"/>
         <updated>2024-12-05T03:00:52.000Z</updated>
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is leg an interesting leg from the long distance competition Maximus O Meeting organized in Spain back in February this year. We look at the men’s super-elite course, and again the forest is fast. Comments from the map-makers from the race Bulletin: This is the terrain with very ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2024: Submit your suggestions!]]></title>
-        <id>http://news.worldofo.com/?p=20392</id>
-        <link href="https://news.worldofo.com/2024/12/04/course-of-the-year-2024-submit-your-suggestions/"/>
-        <updated>2024-12-04T04:00:23.000Z</updated>
-        <summary type="html"><![CDATA[What was the best orienteering course of 2024? World Champs middle distance in Switzerland won in 2023, Pomeranian Sprint Cup won in 2022, WOC Long distance won in 2021, the Norwegian World Champs selection race long distance won in 2019, the World Cup Final Middle in Czech Republic won in 2018 and the World Champs middle distance in Estonia won in 2017. Other winners are a spectacular ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 4 2024]]></title>
-        <id>http://news.worldofo.com/?p=20421</id>
-        <link href="https://news.worldofo.com/2024/12/04/route-to-christmas-day-4-2024/"/>
-        <updated>2024-12-04T03:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the Junior World Orienteering Championships Long distance in Czech Republic. This is what the bulletin said about the terrain: The terrain is mostly hilly with rocks and stones in places high up on the hills. Mostly coniferous forest (spruce), in some parts with ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
         </author>
