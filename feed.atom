@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-03T12:15:29.691Z</updated>
+    <updated>2025-01-03T18:12:22.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -811,16 +811,6 @@ The post Coaching Development Day Postponed appeared first on NI Orienteering As
         <summary type="html"><![CDATA[Events can’t run without volunteers and some of those volunteering roles require a degree of expertise. Come along to one […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 5 2024]]></title>
-        <id>http://news.worldofo.com/?p=20437</id>
-        <link href="https://news.worldofo.com/2024/12/05/route-to-christmas-day-5-2024/"/>
-        <updated>2024-12-05T03:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is leg an interesting leg from the long distance competition Maximus O Meeting organized in Spain back in February this year. We look at the men’s super-elite course, and again the forest is fast. Comments from the map-makers from the race Bulletin: This is the terrain with very ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
