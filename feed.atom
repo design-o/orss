@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-03T00:41:12.512Z</updated>
+    <updated>2025-01-03T06:13:02.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -217,6 +217,15 @@ Selection Notice – European Youth Orienteering Championships 2025 (EYOC) first
         <summary type="html"><![CDATA[Today is the last chance to vote in Course of the Year 2024! 24 hours before closing time we find the following in the Top 10: The WOC Sprint in Scotland, Portugal O-Meeting Middle, Finnish Champs Long and Night, European Champs Middle in Hungary, MOM 2024 Middle in Spain, Norwegian Champs Long, Swedish Champs Ultralong ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready for the 2025 Park Street Champs!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14324</id>
+        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-2025-park-street-champs/"/>
+        <updated>2024-12-20T03:42:58.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
