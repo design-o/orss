@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T00:40:17.397Z</updated>
+    <updated>2025-01-04T06:11:50.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -801,16 +801,6 @@ The post Coaching Development Day Postponed appeared first on NI Orienteering As
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is an interesting leg from one of the large sprint-races in Norway – the Halden O-Meeting Long distance organized in the middle of April. This is typical terrain for the Østfold/Halden area, with quite soft ground, many smaller hills and some paths and roads where you can run faster. ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Event Officials courses]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54769</id>
-        <link href="https://www.scottish-orienteering.org/news/upcoming-event-officials-courses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=upcoming-event-officials-courses"/>
-        <updated>2024-12-05T16:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Events can’t run without volunteers and some of those volunteering roles require a degree of expertise. Come along to one […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
