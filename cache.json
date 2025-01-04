@@ -301,16 +301,6 @@
           "wordCount": 1984,
           "title": "Route to Christmas: Day 7 2024",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/eyoclongwomen_mixed_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20443",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is an interesting leg from one of the large sprint-races in Norway – the Halden O-Meeting Long distance organized in the middle of April. This is typical terrain for the Østfold/Halden area, with quite soft ground, many smaller hills and some paths and roads where you can run faster. ...",
-          "link": "https://news.worldofo.com/2024/12/06/route-to-christmas-day-6-2024/",
-          "publishedOn": "2024-12-06T03:00:50.000Z",
-          "wordCount": 1942,
-          "title": "Route to Christmas: Day 6 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/haldenomeetinglong_mixed_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -807,6 +797,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12864",
+          "author": "danielstott",
+          "description": "The winner of the prize draw for the first time participant survey has been announced.\nCongratulations to the survey winner first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/congratulations-to-the-survey-winner/",
+          "publishedOn": "2025-01-04T13:38:16.000Z",
+          "wordCount": 2304,
+          "title": "Congratulations to the survey winner",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12732",
           "author": "elizabethl",

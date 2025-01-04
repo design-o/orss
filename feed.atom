@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T12:14:23.427Z</updated>
+    <updated>2025-01-04T18:10:41.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Congratulations to the survey winner]]></title>
+        <id>https://orienteering.asn.au/?p=12864</id>
+        <link href="https://orienteering.asn.au/congratulations-to-the-survey-winner/"/>
+        <updated>2025-01-04T13:38:16.000Z</updated>
+        <summary type="html"><![CDATA[The winner of the prize draw for the first time participant survey has been announced.
+Congratulations to the survey winner first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easter in Victoria – Where Else Would You Want To Be?]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14326</id>
@@ -791,16 +802,6 @@ Have you started orienteering this year? Complete a survey to win! first appeare
 The post Coaching Development Day Postponed appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 6 2024]]></title>
-        <id>http://news.worldofo.com/?p=20443</id>
-        <link href="https://news.worldofo.com/2024/12/06/route-to-christmas-day-6-2024/"/>
-        <updated>2024-12-06T03:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is an interesting leg from one of the large sprint-races in Norway – the Halden O-Meeting Long distance organized in the middle of April. This is typical terrain for the Østfold/Halden area, with quite soft ground, many smaller hills and some paths and roads where you can run faster. ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
