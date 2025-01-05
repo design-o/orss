@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T18:10:41.924Z</updated>
+    <updated>2025-01-05T00:44:57.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -791,17 +791,6 @@ Have you started orienteering this year? Complete a survey to win! first appeare
         <summary type="html"><![CDATA[At the 2024 interarea weekend, we held a feedback session for our juniors to express their thoughts and opinions on […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coaching Development Day Postponed]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6207</id>
-        <link href="https://www.niorienteering.org.uk/coaching-development-day-postponed/"/>
-        <updated>2024-12-06T12:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Unfortunately due to an Amber Weather Warning, the “Coaching for Coaches” day at Gortin Glen scheduled for 7 December has had to be postponed until the New Year. If you are involved in coaching at any level, or are interested in the area of coaching,...
-The post Coaching Development Day Postponed appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
