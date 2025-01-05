@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T06:12:23.204Z</updated>
+    <updated>2025-01-05T12:15:31.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -771,16 +771,6 @@ Have you started orienteering this year? Complete a survey to win! first appeare
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a spectacular leg from the European Youth Championships (EYOC) organized in Poland this summer. This time the women’s W18 course is chosen.  As you can see from the map, this is quite hilly terrain, with quite a few paths and also some roads that could potentially be ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dates are set for World Orienteering Week 2025]]></title>
-        <id>https://orienteering.sport/?p=75188</id>
-        <link href="https://orienteering.sport/dates-are-set-for-world-orienteering-week-2025/"/>
-        <updated>2024-12-06T20:19:36.000Z</updated>
-        <summary type="html"><![CDATA[It’s time to mark the calendar. The world’s largest orienteering event, World Orienteering Week takes place from May 17th to 25th in 2025. Here orienteering clubs, schools and organisations have a chance to set up an orienteering event with tools and materials from the International Orienteering Federation and join the worldwide orienteering festivities. The event was […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
