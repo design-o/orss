@@ -271,16 +271,6 @@
           "wordCount": 2031,
           "title": "Route to Christmas: Day 9 2024",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/wcsprintitaly_mixed_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20455",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is taken from one of the nominations for Course of the Year 2024, the Norwegian Long championships organized in the Verdal-area north of Trondheim.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already around 30 nominated courses ...",
-          "link": "https://news.worldofo.com/2024/12/08/route-to-christmas-day-8-2024/",
-          "publishedOn": "2024-12-08T03:00:33.000Z",
-          "wordCount": 2685,
-          "title": "Route to Christmas: Day 8 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/nmlang_mixed_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -346,6 +336,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=20345",
+          "author": "Mark Stephens",
+          "description": "Orienteering Ireland are delighted to announce that we are in a position to hire a Regional Development Officer for the Greater Dublin area. If you or someone you know might be interested in applying for this role, we would love to hear from them. The Role Description can be found at: RDO Vacancy 2025 Jan.pdf […]",
+          "link": "https://www.orienteering.ie/vacancy/",
+          "publishedOn": "2025-01-06T12:59:45.000Z",
+          "wordCount": 852,
+          "title": "We’re hiring!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=20310",
           "author": "Senior",

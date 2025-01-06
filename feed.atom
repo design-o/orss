@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T12:16:26.726Z</updated>
+    <updated>2025-01-06T18:11:49.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We’re hiring!]]></title>
+        <id>https://www.orienteering.ie/?p=20345</id>
+        <link href="https://www.orienteering.ie/vacancy/"/>
+        <updated>2025-01-06T12:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland are delighted to announce that we are in a position to hire a Regional Development Officer for the Greater Dublin area. If you or someone you know might be interested in applying for this role, we would love to hear from them. The Role Description can be found at: RDO Vacancy 2025 Jan.pdf […]]]></summary>
+        <author>
+            <name>Mark Stephens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Congratulations to the survey winner]]></title>
         <id>https://orienteering.asn.au/?p=12864</id>
@@ -751,16 +761,6 @@ NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering N
 Have you started orienteering this year? Complete a survey to win! first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 8 2024]]></title>
-        <id>http://news.worldofo.com/?p=20455</id>
-        <link href="https://news.worldofo.com/2024/12/08/route-to-christmas-day-8-2024/"/>
-        <updated>2024-12-08T03:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is taken from one of the nominations for Course of the Year 2024, the Norwegian Long championships organized in the Verdal-area north of Trondheim.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already around 30 nominated courses ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
