@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T12:16:41.308Z</updated>
+    <updated>2025-01-07T18:12:01.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th]]></title>
+        <id>https://neooc.com/?p=48068</id>
+        <link href="https://neooc.com/new-event-sunny-lake-snow-o-sunny-lake-park-aurora-saturday-january-25th/"/>
+        <updated>2025-01-07T16:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final ASOC-golds for Kazakhstan, Japan and Hong Kong China]]></title>
+        <id>https://orienteering.sport/?p=75382</id>
+        <link href="https://orienteering.sport/final-asoc-golds-for-kazakhstan-japan-and-hong-kong-china/"/>
+        <updated>2025-01-07T13:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Three nations won the gold medals on the final days of the 2024 Asian Orienteering Championships, which took place in the last week of the old year. Thailand hosted the championships, which were run in and around Chiang Mai in the northern part of the country. Both the middle distance and the relay took place […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We’re hiring!]]></title>
         <id>https://www.orienteering.ie/?p=20345</id>
@@ -740,16 +760,6 @@ NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering N
         <summary type="html"><![CDATA[Last Saturday evening, the Irish Senior Orienteering Squad convened for an engaging training session aimed at honing their skills in night navigation and sprint orienteering. The action-packed weekend was meticulously planned and organized by senior squad member Josh, with maps generously provided by 3Rock Orienteering Club and JoshOsh Mapping. Night Orienteering: Compass Bearing Mastery The weekend kicked off […]]]></summary>
         <author>
             <name>Senior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 9 2024]]></title>
-        <id>http://news.worldofo.com/?p=20465</id>
-        <link href="https://news.worldofo.com/2024/12/09/route-to-christmas-day-9-2024/"/>
-        <updated>2024-12-09T03:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is again taken from one of the nominations for Course of the Year 2024, the very interesting World Cup Sprint race in Italy this spring.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already nearly 40 nominated courses which you can see here. The World ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

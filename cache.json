@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75382",
+          "author": "Erling Thisted",
+          "description": "Three nations won the gold medals on the final days of the 2024 Asian Orienteering Championships, which took place in the last week of the old year. Thailand hosted the championships, which were run in and around Chiang Mai in the northern part of the country. Both the middle distance and the relay took place […]",
+          "link": "https://orienteering.sport/final-asoc-golds-for-kazakhstan-japan-and-hong-kong-china/",
+          "publishedOn": "2025-01-07T13:33:13.000Z",
+          "wordCount": 2236,
+          "title": "Final ASOC-golds for Kazakhstan, Japan and Hong Kong China",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2024_asoc_relay_photo-thai_orienteering_federation.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75273",
           "author": "Erling Thisted",
           "description": "It is with great sadness that the International Orienteering Federation learned of the death of Swiss national team athlete Pascal Buchs, who died tragically in an accident at the age of 27 on Friday. Pascal Buchs was a part of Swiss Orienteering’s elite division since 2018 and regularly competed in World Cup races for the […]",
@@ -261,16 +271,6 @@
           "wordCount": 1962,
           "title": "Route to Christmas: Day 10 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20465",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas is again taken from one of the nominations for Course of the Year 2024, the very interesting World Cup Sprint race in Italy this spring.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already nearly 40 nominated courses which you can see here. The World ...",
-          "link": "https://news.worldofo.com/2024/12/09/route-to-christmas-day-9-2024/",
-          "publishedOn": "2024-12-09T03:00:51.000Z",
-          "wordCount": 2031,
-          "title": "Route to Christmas: Day 9 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/wcsprintitaly_mixed_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -636,7 +636,18 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://neooc.com/?p=48068",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th",
+          "link": "https://neooc.com/new-event-sunny-lake-snow-o-sunny-lake-park-aurora-saturday-january-25th/",
+          "publishedOn": "2025-01-07T16:25:19.000Z",
+          "wordCount": 1341,
+          "title": "New Event | Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2025/01/OrienteerSnowSlide.png"
+        }
+      ]
     },
     {
       "title": "Scottish Orienteering Association",
