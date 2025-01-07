@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T06:12:46.286Z</updated>
+    <updated>2025-01-07T12:16:41.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -750,17 +750,6 @@ NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering N
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas is again taken from one of the nominations for Course of the Year 2024, the very interesting World Cup Sprint race in Italy this spring.  Make sure to check out Course of the Year 2024 and submit your nominations in the comment field – there are already nearly 40 nominated courses which you can see here. The World ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you started orienteering this year? Complete a survey to win!]]></title>
-        <id>https://orienteering.asn.au/?p=12680</id>
-        <link href="https://orienteering.asn.au/have-you-started-orienteering-this-year-complete-a-survey-to-win/"/>
-        <updated>2024-12-09T00:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Be in with a chance to win a signed Aus O' Top by completing a survey. It will also help us improve the first time orienteering experience.
-Have you started orienteering this year? Complete a survey to win! first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
