@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T12:16:53.140Z</updated>
+    <updated>2025-01-08T18:12:23.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -741,16 +741,6 @@ The post Entries Closing for a Festive Event appeared first on NI Orienteering A
 NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 10 2024]]></title>
-        <id>http://news.worldofo.com/?p=20472</id>
-        <link href="https://news.worldofo.com/2024/12/10/route-to-christmas-day-10-2024/"/>
-        <updated>2024-12-10T03:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is a leg from the legendary “Harry Lagerts” final – a very, very long night orienteering race which is run as a chasing start based on the earlier races in the series. And the chosen leg is of course the longest one. Thanks a lot to Terje Mathisen for the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
