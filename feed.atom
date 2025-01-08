@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T06:13:19.526Z</updated>
+    <updated>2025-01-08T12:16:53.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -751,26 +751,6 @@ NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering N
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas is a leg from the legendary “Harry Lagerts” final – a very, very long night orienteering race which is run as a chasing start based on the earlier races in the series. And the chosen leg is of course the longest one. Thanks a lot to Terje Mathisen for the ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London City Race 2025]]></title>
-        <id>https://slow.org.uk/?p=22770</id>
-        <link href="https://slow.org.uk/events/london-city-race-2025/"/>
-        <updated>2024-12-09T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The 16th London City Race takes place on Saturday 20th September 2024. There are accompanying races in London on Friday evening and Sunday. The race [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish Senior Orienteering Squad Gathers for Night and Sprint Training in Dublin]]></title>
-        <id>https://www.orienteering.ie/?p=20310</id>
-        <link href="https://www.orienteering.ie/irish-senior-orienteering-squad-gathers-for-night-and-sprint-training-in-dublin/"/>
-        <updated>2024-12-09T18:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Last Saturday evening, the Irish Senior Orienteering Squad convened for an engaging training session aimed at honing their skills in night navigation and sprint orienteering. The action-packed weekend was meticulously planned and organized by senior squad member Josh, with maps generously provided by 3Rock Orienteering Club and JoshOsh Mapping. Night Orienteering: Compass Bearing Mastery The weekend kicked off […]]]></summary>
-        <author>
-            <name>Senior</name>
         </author>
     </entry>
 </feed>
