@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T18:12:23.745Z</updated>
+    <updated>2025-01-09T00:41:30.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup opener to begin in Norway]]></title>
+        <id>https://orienteering.sport/?p=75390</id>
+        <link href="https://orienteering.sport/skio-world-cup-opener-to-begin-in-norway/"/>
+        <updated>2025-01-08T19:04:59.000Z</updated>
+        <summary type="html"><![CDATA[The international Ski Orienteering season begins this weekend in Norway, when Round 1 of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 are held in Sjusjøen. More than 120 athletes from 14 nations are registered for the event, which will be raced over three days from Friday to […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NZ Team for AUS NZ Challenge]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61364</id>
@@ -730,17 +740,6 @@ The post Entries Closing for a Festive Event appeared first on NI Orienteering A
         <updated>2024-12-10T22:49:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZ orienteering Champs 2025 Bulletin 1 released]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61108</id>
-        <link href="https://www.orienteering.org.nz/news/nz-orienteering-champs-2025-bulletin-1-released/"/>
-        <updated>2024-12-10T10:29:17.000Z</updated>
-        <summary type="html"><![CDATA[PAPO are pleased to announce that Bulletin 1 has been released for the New Zealand Orienteering Champs 2025. Bulletin 1 has information on locations, event organisation, competition information, classes and embargoed area maps. https://ochamps.nz/news/bulletin-1-released/ #bulletin1 #nzoc2025 #nzorienteeringchamps
-NZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>

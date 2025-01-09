@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75390",
+          "author": "Erling Thisted",
+          "description": "The international Ski Orienteering season begins this weekend in Norway, when Round 1 of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 are held in Sjusjøen. More than 120 athletes from 14 nations are registered for the event, which will be raced over three days from Friday to […]",
+          "link": "https://orienteering.sport/skio-world-cup-opener-to-begin-in-norway/",
+          "publishedOn": "2025-01-08T19:04:59.000Z",
+          "wordCount": 2196,
+          "title": "SkiO World Cup opener to begin in Norway",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/02/2024_skio_wcf_magdalenaolsson_reigoteervalt-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75382",
           "author": "Erling Thisted",
           "description": "Three nations won the gold medals on the final days of the 2024 Asian Orienteering Championships, which took place in the last week of the old year. Thailand hosted the championships, which were run in and around Chiang Mai in the northern part of the country. Both the middle distance and the relay took place […]",
@@ -599,16 +609,6 @@
           "wordCount": 2369,
           "title": "Business Plan Consultation",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/Annual-Plan-Consultation-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=61108",
-          "author": "Joolz",
-          "description": "PAPO are pleased to announce that Bulletin 1 has been released for the New Zealand Orienteering Champs 2025. Bulletin 1 has information on locations, event organisation, competition information, classes and embargoed area maps. https://ochamps.nz/news/bulletin-1-released/ #bulletin1 #nzoc2025 #nzorienteeringchamps\nNZ orienteering Champs 2025 Bulletin 1 released first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/nz-orienteering-champs-2025-bulletin-1-released/",
-          "publishedOn": "2024-12-10T10:29:17.000Z",
-          "wordCount": 2237,
-          "title": "NZ orienteering Champs 2025 Bulletin 1 released",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/Bulletin-one-image-w-landscape.jpg"
         }
       ]
     },
