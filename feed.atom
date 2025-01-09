@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T06:12:25.395Z</updated>
+    <updated>2025-01-09T12:16:30.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -731,15 +731,6 @@ The post Entries Closing for a Festive Event appeared first on NI Orienteering A
         <summary type="html"><![CDATA[Well done to the ~60 people who came to our festive December Street-O. It was quite a tricky course planned by Duncan. We hope that [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Sheahan, 1938-2024]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14258</id>
-        <link href="https://www.vicorienteering.asn.au/john-sheahan/"/>
-        <updated>2024-12-10T22:49:50.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
