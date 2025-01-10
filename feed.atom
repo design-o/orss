@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T18:12:49.542Z</updated>
+    <updated>2025-01-10T00:42:48.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -702,16 +702,6 @@ The post Entries Closing for a Festive Event appeared first on NI Orienteering A
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is another Sprint leg – this time a leg from a high profile event – the World Orienteering Championships (WOC) Knock-Out Sprint.  Thanks a lot to Jon Cross for the suggestion and analysis. Jon writes that it would perhaps be interesting with a leg from the Knock-out Sprint Quarter-Final, which had ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking to the Future – the new four-year strategy for Scottish Orienteering 2025-2029]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54789</id>
-        <link href="https://www.scottish-orienteering.org/news/looking-to-the-future-the-new-four-year-strategy-for-scottish-orienteering-2025-2029/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=looking-to-the-future-the-new-four-year-strategy-for-scottish-orienteering-2025-2029"/>
-        <updated>2024-12-11T11:17:12.000Z</updated>
-        <summary type="html"><![CDATA[This last year has seen the development of a new Strategy for Scottish Orienteering to take the sport forward, secure […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
