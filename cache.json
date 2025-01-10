@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75424",
+          "author": "Erling Thisted",
+          "description": "The international ski orienteering season began with a close showdown in the men’s race, while it was clearer in the women’s race in Norway on Friday. The sun shone over the terrain at Sjusjøen as the first men were sent off on today’s 3.2 kilometer sprint race, which was also the first race in the […]",
+          "link": "https://orienteering.sport/skio-world-cup-kudre-schnyder-wins-first-race-in-norway-shared-victory-in-mens/",
+          "publishedOn": "2025-01-10T16:21:59.000Z",
+          "wordCount": 2280,
+          "title": "SkiO World Cup: Kudre-Schnyder wins first race in Norway; Shared victory in men’s",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/01/2023_skio_wcr3_blur-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75390",
           "author": "Erling Thisted",
           "description": "The international Ski Orienteering season begins this weekend in Norway, when Round 1 of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 are held in Sjusjøen. More than 120 athletes from 14 nations are registered for the event, which will be raced over three days from Friday to […]",
@@ -241,16 +251,6 @@
           "wordCount": 2062,
           "title": "Route to Christmas: Day 13 2024",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/austriacup2_mixed_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20492",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is another Sprint leg – this time a leg from a high profile event – the World Orienteering Championships (WOC) Knock-Out Sprint.  Thanks a lot to Jon Cross for the suggestion and analysis. Jon writes that it would perhaps be interesting with a leg from the Knock-out Sprint Quarter-Final, which had ...",
-          "link": "https://news.worldofo.com/2024/12/12/route-to-christmas-day-12-2024/",
-          "publishedOn": "2024-12-12T03:00:41.000Z",
-          "wordCount": 2033,
-          "title": "Route to Christmas: Day 12 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/wockosprintqf_mixed_x_blank_s-590x330.jpg"
         }
       ]
     },

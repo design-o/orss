@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T12:16:00.982Z</updated>
+    <updated>2025-01-10T18:11:58.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: Kudre-Schnyder wins first race in Norway; Shared victory in men’s]]></title>
+        <id>https://orienteering.sport/?p=75424</id>
+        <link href="https://orienteering.sport/skio-world-cup-kudre-schnyder-wins-first-race-in-norway-shared-victory-in-mens/"/>
+        <updated>2025-01-10T16:21:59.000Z</updated>
+        <summary type="html"><![CDATA[The international ski orienteering season began with a close showdown in the men’s race, while it was clearer in the women’s race in Norway on Friday. The sun shone over the terrain at Sjusjøen as the first men were sent off on today’s 3.2 kilometer sprint race, which was also the first race in the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Register for the on line Development Conference]]></title>
         <id>https://www.niorienteering.org.uk/?p=6267</id>
@@ -692,16 +702,6 @@ Park Street Update, December 11 to 17 – Potential Heat Related Changes for Ash
 The post Entries Closing for a Festive Event appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 12 2024]]></title>
-        <id>http://news.worldofo.com/?p=20492</id>
-        <link href="https://news.worldofo.com/2024/12/12/route-to-christmas-day-12-2024/"/>
-        <updated>2024-12-12T03:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is another Sprint leg – this time a leg from a high profile event – the World Orienteering Championships (WOC) Knock-Out Sprint.  Thanks a lot to Jon Cross for the suggestion and analysis. Jon writes that it would perhaps be interesting with a leg from the Knock-out Sprint Quarter-Final, which had ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
