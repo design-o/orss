@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75437",
+          "author": "Erling Thisted",
+          "description": "The Norwegian athletes dominated on home turf on the second day of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 in Sjusjøen. Jørgen Baklid and Anna Ulvensøen (both NOR) rose to the top in the senior World Cup-races, while Teodor Mo Hjelseth (NOR) grabbed the U23 gold in […]",
+          "link": "https://orienteering.sport/skio-world-cup-great-norwegian-day-in-the-middle-distance/",
+          "publishedOn": "2025-01-11T14:54:02.000Z",
+          "wordCount": 2218,
+          "title": "SkiO World Cup: Great Norwegian day in the middle distance",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2024_skio_wcr1_sprint_annaulvensoen_terjewpettersen-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75424",
           "author": "Erling Thisted",
           "description": "The international ski orienteering season began with a close showdown in the men’s race, while it was clearer in the women’s race in Norway on Friday. The sun shone over the terrain at Sjusjøen as the first men were sent off on today’s 3.2 kilometer sprint race, which was also the first race in the […]",
@@ -231,26 +241,6 @@
           "wordCount": 1964,
           "title": "Route to Christmas: Day 14 2024",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/ppstage2_mixed_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20503",
-          "author": "Jan Kocbach",
-          "description": "What was the best orienteering course of 2024? Set up your personal Top 5 List from the nominated maps – and win prizes from our sponsors! The nominated maps have been chosen based on submissions from the WorldofO.com readers and some of the world’s top orienteers. Now YOU can choose “The Course of the Year 2024″ through ...",
-          "link": "https://news.worldofo.com/2024/12/13/vote-for-course-of-the-year-2024-now/",
-          "publishedOn": "2024-12-13T04:00:09.000Z",
-          "wordCount": 3747,
-          "title": "Vote for Course of the Year 2024 Now!",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/2024-12-12-20_34_43-Omaps.WorldofoO.com_-Course-of-the-year-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20507",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is a long leg from the 2nd Austria Cup of the year – a long distance race in a quite hilly area between Graz and Vienna. Thanks a lot to Martin Veitsberger for the tip – Martin has given many tips for good legs over the years! It is ...",
-          "link": "https://news.worldofo.com/2024/12/13/route-to-christmas-day-13-2024/",
-          "publishedOn": "2024-12-13T03:00:53.000Z",
-          "wordCount": 2062,
-          "title": "Route to Christmas: Day 13 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/austriacup2_mixed_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -287,16 +277,6 @@
           "publishedOn": "2024-12-14T07:26:19.000Z",
           "wordCount": 957,
           "title": "OV 2025 Calendar – Start Planning Your Orienteering Year!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "With extreme heat forecast for Monday December 16, see what contingencies are in place for the Ashwood event\nPark Street Update, December 11 to 17 – Potential Heat Related Changes for Ashwood on Monday 16th first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2024-12-13T01:41:54.000Z",
-          "wordCount": 1121,
-          "title": "Park Street Update, December 11 to 17 – Potential Heat Related Changes for Ashwood on Monday 16th",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
