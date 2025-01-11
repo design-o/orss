@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-11T06:12:12.955Z</updated>
+    <updated>2025-01-11T12:14:21.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -691,17 +691,6 @@ OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Or
 Park Street Update, December 11 to 17 – Potential Heat Related Changes for Ashwood on Monday 16th first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Closing for a Festive Event]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6231</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-a-festive-event/"/>
-        <updated>2024-12-12T22:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Don’t miss out on the final urban event of 2024 in Armagh on Sunday afternoon 15 December. Entries close at midnight on Friday 13 December! Come and enjoy a run though the pleasant, but confusing, grounds of St. Luke’s Hospital. All the details are on...
-The post Entries Closing for a Festive Event appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
