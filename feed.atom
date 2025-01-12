@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T12:14:12.396Z</updated>
+    <updated>2025-01-12T18:10:51.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: Ulvensøen triumphs in Pursuit; Baklid wins again]]></title>
+        <id>https://orienteering.sport/?p=75444</id>
+        <link href="https://orienteering.sport/skio-world-cup-ulvensoen-triumphs-in-pursuit-baklid-wins-again/"/>
+        <updated>2025-01-12T14:38:09.000Z</updated>
+        <summary type="html"><![CDATA[The athletes at the IOF Ski Orienteering World Cup in Norway once again fought a fierce battle for victory, as Round 1 ended with a Pursuit race Sunday morning. In the men’s event, home favourite Jørgen Baklid once again proved to be the strongest after a close fight with Jonatan Ståhl (SWE). The two shared […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project manager appointed for the ‘Beginner Instruction for Everyone’ project]]></title>
         <id>https://orienteering.asn.au/?p=12965</id>
@@ -682,16 +692,6 @@ European Youth Orienteering Championships 2025 first appeared on Orienteering Au
 OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 14 2024]]></title>
-        <id>http://news.worldofo.com/?p=20518</id>
-        <link href="https://news.worldofo.com/2024/12/14/route-to-christmas-day-14-2024/"/>
-        <updated>2024-12-14T03:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from a fun map in a very cool area in Czech Republic: Today we traveli to Czech sandstones – a dream area for orienteering! The leg is from the second stage of the Pekne Prazdniny race, organized this August. Thanks a lot to Toby Heppell for the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

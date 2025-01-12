@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75444",
+          "author": "Erling Thisted",
+          "description": "The athletes at the IOF Ski Orienteering World Cup in Norway once again fought a fierce battle for victory, as Round 1 ended with a Pursuit race Sunday morning. In the men’s event, home favourite Jørgen Baklid once again proved to be the strongest after a close fight with Jonatan Ståhl (SWE). The two shared […]",
+          "link": "https://orienteering.sport/skio-world-cup-ulvensoen-triumphs-in-pursuit-baklid-wins-again/",
+          "publishedOn": "2025-01-12T14:38:09.000Z",
+          "wordCount": 2191,
+          "title": "SkiO World Cup: Ulvensøen triumphs in Pursuit; Baklid wins again",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2024_skio_wcr1_middle_jorgenbaklid_terjewpettersen-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75437",
           "author": "Erling Thisted",
           "description": "The Norwegian athletes dominated on home turf on the second day of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 in Sjusjøen. Jørgen Baklid and Anna Ulvensøen (both NOR) rose to the top in the senior World Cup-races, while Teodor Mo Hjelseth (NOR) grabbed the U23 gold in […]",
@@ -231,16 +241,6 @@
           "wordCount": 2038,
           "title": "Route to Christmas: Day 15 2024",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/ppstage2_mov_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20518",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is from a fun map in a very cool area in Czech Republic: Today we traveli to Czech sandstones – a dream area for orienteering! The leg is from the second stage of the Pekne Prazdniny race, organized this August. Thanks a lot to Toby Heppell for the ...",
-          "link": "https://news.worldofo.com/2024/12/14/route-to-christmas-day-14-2024/",
-          "publishedOn": "2024-12-14T03:00:21.000Z",
-          "wordCount": 1964,
-          "title": "Route to Christmas: Day 14 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/ppstage2_mixed_x_blank_s-590x330.jpg"
         }
       ]
     },
