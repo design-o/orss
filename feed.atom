@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T00:44:12.044Z</updated>
+    <updated>2025-01-13T06:13:39.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -127,6 +127,17 @@ Congratulations to the survey winner first appeared on Orienteering Australia.]]
         <updated>2025-01-03T01:41:54.000Z</updated>
         <summary type="html"><![CDATA[Welcome to 2025!  This week features a huge six events, including a new map, some great bushland, a former Champs map, and a double header of seaside action
 Park Street Update, January 8 to 14 – Big Week With Six Events first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OV 2025 Calendar – Start Planning Your Orienteering Year!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14277</id>
+        <link href="https://www.vicorienteering.asn.au/ov-2025-calendar-start-planning-your-orienteering-year/"/>
+        <updated>2025-01-02T07:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The OV Calendar for 2025 has been published - where will orienteering take you?
+OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
