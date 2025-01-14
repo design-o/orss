@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T06:11:49.221Z</updated>
+    <updated>2025-01-14T12:15:17.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joey Hadorn nominated for The World Games Athlete of the Year award]]></title>
+        <id>https://orienteering.sport/?p=75454</id>
+        <link href="https://orienteering.sport/joey-hadorn-nominated-for-the-world-games-athlete-of-the-year-award/"/>
+        <updated>2025-01-14T09:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Swiss national team athlete Joey Hadorn has been nominated for the World Games Athlete of the Year 2024 award. It comes after a season where the 27-year old achieved some remarkable results: He started the international season in the best possible way by winning the first race, the World Cup Knock-Out Sprint in Olten on […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SkiO World Cup: Ulvensøen triumphs in Pursuit; Baklid wins again]]></title>
         <id>https://orienteering.sport/?p=75444</id>
@@ -107,6 +117,15 @@ NZ Team for AUS NZ Challenge first appeared on Orienteering New Zealand.]]></sum
         <summary type="html"><![CDATA[Orienteering Ireland are delighted to announce that we are in a position to hire a Regional Development Officer for the Greater Dublin area. If you or someone you know might be interested in applying for this role, we would love to hear from them. The Role Description can be found at: RDO Vacancy 2025 Jan.pdf […]]]></summary>
         <author>
             <name>Mark Stephens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BikeO-75 Summer Series and Vic MTBO Champs – Entries Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14351</id>
+        <link href="https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/"/>
+        <updated>2025-01-05T06:43:07.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

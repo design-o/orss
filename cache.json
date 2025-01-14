@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75454",
+          "author": "Erling Thisted",
+          "description": "Swiss national team athlete Joey Hadorn has been nominated for the World Games Athlete of the Year 2024 award. It comes after a season where the 27-year old achieved some remarkable results: He started the international season in the best possible way by winning the first race, the World Cup Knock-Out Sprint in Olten on […]",
+          "link": "https://orienteering.sport/joey-hadorn-nominated-for-the-world-games-athlete-of-the-year-award/",
+          "publishedOn": "2025-01-14T09:12:23.000Z",
+          "wordCount": 2161,
+          "title": "Joey Hadorn nominated for The World Games Athlete of the Year award",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2024_joeyhadorn_twg_athleteoftheyear2-1024x582.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75444",
           "author": "Erling Thisted",
           "description": "The athletes at the IOF Ski Orienteering World Cup in Norway once again fought a fierce battle for victory, as Round 1 ended with a Pursuit race Sunday morning. In the men’s event, home favourite Jørgen Baklid once again proved to be the strongest after a close fight with Jonatan Ståhl (SWE). The two shared […]",
@@ -239,6 +249,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14351",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/",
+          "publishedOn": "2025-01-05T06:43:07.000Z",
+          "wordCount": 1191,
+          "title": "BikeO-75 Summer Series and Vic MTBO Champs – Entries Open",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
