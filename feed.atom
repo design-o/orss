@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T12:15:17.556Z</updated>
+    <updated>2025-01-14T18:11:17.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -670,16 +670,6 @@ European Youth Orienteering Championships 2025 first appeared on Orienteering Au
         <summary type="html"><![CDATA[On Sunday 15th December, SLOW members congregated for some festive fun in Reigate Priory Park to run in our 2024 Club Championships. Thanks a lot [...]]]></summary>
         <author>
             <name>Eloise Lardet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 16 2024]]></title>
-        <id>http://news.worldofo.com/?p=20513</id>
-        <link href="https://news.worldofo.com/2024/12/16/route-to-christmas-day-16-2024/"/>
-        <updated>2024-12-16T03:00:31.000Z</updated>
-        <summary type="html"><![CDATA[In today’s edition of Route to Christmas 2024 we travel to New Zealand to a very interesting leg in steep terrain. Thanks a lot to course setter Jakob Knoef for the tip. Here is Jabob’s intro about the terrain – keep this in mind when considering your route choice on the leg: This map is ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
