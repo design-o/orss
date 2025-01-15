@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T00:40:29.106Z</updated>
+    <updated>2025-01-15T06:12:07.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering at Scouts Australian Jamboree]]></title>
+        <id>https://orienteering.asn.au/?p=12990</id>
+        <link href="https://orienteering.asn.au/orienteering-at-scouts-australian-jamboree/"/>
+        <updated>2025-01-15T01:27:12.000Z</updated>
+        <summary type="html"><![CDATA[The Australian Jamboree for scouts is concluding after a week of camping, activities and entertainment... with orienteering as one of the ‘Adventure’ activities on offer.
+Orienteering at Scouts Australian Jamboree first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joey Hadorn nominated for The World Games Athlete of the Year award]]></title>
         <id>https://orienteering.sport/?p=75454</id>
@@ -660,16 +671,6 @@ European Youth Orienteering Championships 2025 first appeared on Orienteering Au
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long and interesting leg in Slovenian Karst terrain. The chosen leg is the 7th leg from the second stage of Lipica Open – thanks a lot to course setter Ivan Nagy for the tip! The leg is as usually first provided without routes – you may take ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Club Champs 2024]]></title>
-        <id>https://slow.org.uk/?p=22793</id>
-        <link href="https://slow.org.uk/clubnews/club-champs-2024/"/>
-        <updated>2024-12-16T13:32:40.000Z</updated>
-        <summary type="html"><![CDATA[On Sunday 15th December, SLOW members congregated for some festive fun in Reigate Priory Park to run in our 2024 Club Championships. Thanks a lot [...]]]></summary>
-        <author>
-            <name>Eloise Lardet</name>
         </author>
     </entry>
 </feed>

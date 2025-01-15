@@ -332,16 +332,6 @@
           "wordCount": 2668,
           "title": "Balham Street-O, Tuesday 15 January",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/balham-street-o-tuesday-15-january/files/StreetO_Nov2024_1.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22793",
-          "author": "Eloise Lardet",
-          "description": "On Sunday 15th December, SLOW members congregated for some festive fun in Reigate Priory Park to run in our 2024 Club Championships. Thanks a lot [...]",
-          "link": "https://slow.org.uk/clubnews/club-champs-2024/",
-          "publishedOn": "2024-12-16T13:32:40.000Z",
-          "wordCount": 2428,
-          "title": "Club Champs 2024",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews-racereports/club-champs-2024/files/20241215_PostClubChamps.jpg"
         }
       ]
     },
@@ -678,6 +668,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=12990",
+          "author": "danielstott",
+          "description": "The Australian Jamboree for scouts is concluding after a week of camping, activities and entertainment... with orienteering as one of the ‘Adventure’ activities on offer.\nOrienteering at Scouts Australian Jamboree first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/orienteering-at-scouts-australian-jamboree/",
+          "publishedOn": "2025-01-15T01:27:12.000Z",
+          "wordCount": 2403,
+          "title": "Orienteering at Scouts Australian Jamboree",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=12965",
           "author": "danielstott",
