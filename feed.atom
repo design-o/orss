@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T18:11:21.299Z</updated>
+    <updated>2025-01-16T00:40:03.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | Orienteering 101 | Geauga County | Saturday, February 8, 2025]]></title>
+        <id>https://neooc.com/?p=48109</id>
+        <link href="https://neooc.com/new-event-orienteering-101-geauga-county-saturday-february-8-2025/"/>
+        <updated>2025-01-15T22:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering 101 | Geauga County | Saturday, February 8, 2025]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increased entry numbers for Taitonga SI Champs at Waikaia!]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61434</id>
+        <link href="https://www.orienteering.org.nz/news/increased-entry-numbers-for-taitonga-si-champs-at-waikaia/"/>
+        <updated>2025-01-15T20:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Great News Everyone! We have increased entry numbers for Taitonga SI Champs at Waikaia! If you’ve been dithering as to whether or not you head to Waikaia in February and then found the limit has been reached, relax! Entries still close at midnight on Sunday 19th January but the limit is now 250 competitors per […]
+Increased entry numbers for Taitonga SI Champs at Waikaia! first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian Team Gearing up for the AUS/NZ Challenge at Oceania 2025]]></title>
         <id>https://orienteering.asn.au/?p=12493</id>
@@ -671,17 +692,6 @@ Business Plan Consultation first appeared on Orienteering New Zealand.]]></summa
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from a low-profile World Ranking competition in Estonia called Magaziin orienteerumismängud, organized by OK Kobras. Thanks a lot for the tip, Janis Tamuzs! Here is Janis’ take on the terrain: The terrain is typical for the Baltics – green and clearings are generally rather unpleasant, white has a good runnability ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Youth Orienteering Championships 2025]]></title>
-        <id>https://orienteering.asn.au/?p=12732</id>
-        <link href="https://orienteering.asn.au/european-youth-orienteering-championships-2025/"/>
-        <updated>2024-12-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A team is being assembled for the 2025 European Youth Orienteering Championships. If you are interested in attending, contact Marina Iskhakova.
-European Youth Orienteering Championships 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
