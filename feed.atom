@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T12:15:14.132Z</updated>
+    <updated>2025-01-16T18:11:18.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Box Hill Final Details]]></title>
+        <id>https://slow.org.uk/?p=22891</id>
+        <link href="https://slow.org.uk/events/box-hill-details-2025/"/>
+        <updated>2025-01-16T13:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Competitors should have received the following email on Thursday morning: Congratulations on having secured a place in the 43rd edition of the Box Hill Fell [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon Training Day – 19th January]]></title>
+        <id>https://slow.org.uk/?p=22887</id>
+        <link href="https://slow.org.uk/clubnews/wimbledon-training-jan25/"/>
+        <updated>2025-01-16T12:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Free training session open to all levels of orienteers.  There will be no ranking there, the only purpose of the event is to help everyone [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: Kudre-Schnyder and Baklid lead after Norway]]></title>
+        <id>https://orienteering.sport/?p=75474</id>
+        <link href="https://orienteering.sport/skio-world-cup-kudre-schnyder-and-baklid-lead-after-norway/"/>
+        <updated>2025-01-16T12:39:57.000Z</updated>
+        <summary type="html"><![CDATA[The IOF Ski Orienteering World Cup 2024-2025 and U23 World Cup got off to a great start with three races in Sjusjøen, Norway this past weekend. And it is well-known athlete names who are placed at the top of the World Cup standings after the first of three rounds of the international ski season. The […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | Orienteering 101 | Geauga County | Saturday, February 8, 2025]]></title>
         <id>https://neooc.com/?p=48109</id>
@@ -670,26 +700,6 @@ Business Plan Consultation first appeared on Orienteering New Zealand.]]></summa
         <link href="https://news.worldofo.com/2024/12/19/route-to-christmas-day-19-2024/"/>
         <updated>2024-12-19T03:00:59.000Z</updated>
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the long distance race at the World Cup final in Finland – which was also the pre-WOC for next years’ World Orienteering Championships.  The chosen leg is the 3rd leg on the men’s course – one of the most decisive legs on the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2024: Overall Top 20 as of now]]></title>
-        <id>http://news.worldofo.com/?p=20536</id>
-        <link href="https://news.worldofo.com/2024/12/18/course-of-the-year-2024-overall-top-20-as-of-now/"/>
-        <updated>2024-12-18T04:00:36.000Z</updated>
-        <summary type="html"><![CDATA[After 5 days of voting, courses from 9 countries are represented in the Top 20 of “Course of the Year 2024″: Italy, Czech Republic, Norway,  Sweden, Portugal, Great Britain, France, Hungary and Finland. Take a look at the courses below – and make your vote if you have not voted yet. Note that the order of the courses ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 18 2024]]></title>
-        <id>http://news.worldofo.com/?p=20545</id>
-        <link href="https://news.worldofo.com/2024/12/18/route-to-christmas-day-18-2024/"/>
-        <updated>2024-12-18T03:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from a low-profile World Ranking competition in Estonia called Magaziin orienteerumismängud, organized by OK Kobras. Thanks a lot for the tip, Janis Tamuzs! Here is Janis’ take on the terrain: The terrain is typical for the Baltics – green and clearings are generally rather unpleasant, white has a good runnability ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
         </author>
