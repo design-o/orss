@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75489",
+          "author": "Erling Thisted",
+          "description": "Ski Orienteering will be in great company in the coming days when the discipline is part of the FISU Winter World University Games, taking place in and around Turin, Italy. More than 2,000 athletes from 54 nations are participating in the games, which feature 11 different winter sports disciplines. Ski Orienteering was previously part of […]",
+          "link": "https://orienteering.sport/follow-ski-orienteering-at-fisu-winter-world-university-games/",
+          "publishedOn": "2025-01-17T16:04:19.000Z",
+          "wordCount": 2150,
+          "title": "Follow Ski Orienteering at FISU Winter World University Games",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2025_skioworldcup_r1_sprint_mariahoskari_terjewpettersen-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75474",
           "author": "Erling Thisted",
           "description": "The IOF Ski Orienteering World Cup 2024-2025 and U23 World Cup got off to a great start with three races in Sjusjøen, Norway this past weekend. And it is well-known athlete names who are placed at the top of the World Cup standings after the first of three rounds of the international ski season. The […]",
@@ -201,16 +211,6 @@
           "wordCount": 3637,
           "title": "Route to Christmas: Day 20 2024",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/swedishchampsultra_x_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20550",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is a long leg from the long distance race at the World Cup final in Finland – which was also the pre-WOC for next years’ World Orienteering Championships.  The chosen leg is the 3rd leg on the men’s course – one of the most decisive legs on the ...",
-          "link": "https://news.worldofo.com/2024/12/19/route-to-christmas-day-19-2024/",
-          "publishedOn": "2024-12-19T03:00:59.000Z",
-          "wordCount": 5300,
-          "title": "Route to Christmas: Day 19 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/wclongfinal_x_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -509,66 +509,6 @@
           "wordCount": 2313,
           "title": "2024-2028 High Performance Plan  | Feedback",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2023/12/ONZ-med-logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=61154",
-          "author": "Christo Peters",
-          "description": "Orienteerpod  webinar from November: Training and life of top international elite orienteers with Ralph Street (GBR), Tim Robertson (NZL) and Magnus Dewett (DEN) from “Orienteer Pod”. If you missed the live podcast you can hear about   their training, recent events and how they achieve their orienteering goals in the recent IOF podcast here \nIOF webinars  first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/iof/iof-webinars/",
-          "publishedOn": "2024-12-19T06:07:49.000Z",
-          "wordCount": 2240,
-          "title": "IOF webinars",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2021/10/IOF-logo-2018.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=61151",
-          "author": "Christo Peters",
-          "description": "Orienteers! SOC’s got you covered – or, better still, bandaged! We realised that next year’s Taitonga South Island Champs at Waikaia were looming and just how isolated we would be. Twelve SOC members, plus a few outdoor club ring-ins, recently attended two 2-hour sessions of First Aid. Thanks to Hato Hone St John, this was […]\nFirst Aid Refresh +  | Southland first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/first-aid-refresh-southland/",
-          "publishedOn": "2024-12-19T06:03:41.000Z",
-          "wordCount": 2450,
-          "title": "First Aid Refresh +  | Southland",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/41f271e9-7e50-b945-a11e-e3bdb1fffbc1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=61148",
-          "author": "Christo Peters",
-          "description": "Tony’s family in Australia are asking for more information about him. We found these newspaper clippings from 1974, and have sent them. He was a very enthusiastic orienteer when the sport was still quite young in NZ. If you have more to share,  such as some memories, photos or more print articles, do send info […]\nDid you know Tony Nicholls? first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/did-you-know-tony-nicholls/",
-          "publishedOn": "2024-12-19T06:01:00.000Z",
-          "wordCount": 2270,
-          "title": "Did you know Tony Nicholls?",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/eb2e4aa8-0d91-75a9-d48b-aec3fddac9d1.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=61145",
-          "author": "Christo Peters",
-          "description": "We have openings at ONZ, and we have several positions to fill. Both positions are being trials for the first time in 2025. Major events support:   The major event advisor provides support to major event organisers, linking them to information and resources that make their roles easier. The role does not do the work […]\nOpportunities open at Orienteering NZ  |  Major Events Advisor / Tech Committee support   first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/opportunities-open-at-orienteering-nz-major-events-advisor-tech-committee-support/",
-          "publishedOn": "2024-12-19T05:58:13.000Z",
-          "wordCount": 2420,
-          "title": "Opportunities open at Orienteering NZ  |  Major Events Advisor / Tech Committee support",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/11bec001-2e8c-aaa4-cdbf-bdded1d4dbf0.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=61142",
-          "author": "Christo Peters",
-          "description": "Between the dates 17 -25 May 2025, any activity held can be registered as a World Orienteering Week event. Imagine the world’s largest orienteering event. One where thousands of experienced orienteers, recreational participants and newcomers come together and participate in orienteering activities close to where they live, but at the same time as similar activities all […]\nWorld Orienteering Week   |   17- 25 May 2025 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/iof/world-orienteering-week-17-25-may-2025/",
-          "publishedOn": "2024-12-19T05:53:54.000Z",
-          "wordCount": 2386,
-          "title": "World Orienteering Week   |   17- 25 May 2025",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/Halden-Norway-World-Masters-2003-Bunny-Bert-Ann-Scott-Royce-Mills.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=61139",
-          "author": "Christo Peters",
-          "description": "The recent ONZ Business Planning Meeting took the place of the regular Board Meeting. The Business Plan is ONZ’s Annual Plan that sets the priorities for your national body over the next 12 months. Key elements of the plan include: Before the plan is officially adopted at the first Board Meeting of the Year (at […]\nBusiness Plan Consultation first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/business-plan-consultation/",
-          "publishedOn": "2024-12-19T05:46:43.000Z",
-          "wordCount": 2369,
-          "title": "Business Plan Consultation",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/Annual-Plan-Consultation-Logo.jpg"
         }
       ]
     },

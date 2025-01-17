@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-17T12:15:43.496Z</updated>
+    <updated>2025-01-17T18:11:11.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow Ski Orienteering at FISU Winter World University Games]]></title>
+        <id>https://orienteering.sport/?p=75489</id>
+        <link href="https://orienteering.sport/follow-ski-orienteering-at-fisu-winter-world-university-games/"/>
+        <updated>2025-01-17T16:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Ski Orienteering will be in great company in the coming days when the discipline is part of the FISU Winter World University Games, taking place in and around Turin, Italy. More than 2,000 athletes from 54 nations are participating in the games, which feature 11 different winter sports disciplines. Ski Orienteering was previously part of […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Box Hill Final Details]]></title>
         <id>https://slow.org.uk/?p=22891</id>
@@ -626,82 +636,6 @@ TrailBlaze National Orienteering League  |  2025 Calendar first appeared on O
 2024-2028 High Performance Plan  | Feedback first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF webinars]]></title>
-        <id>https://www.orienteering.org.nz/?p=61154</id>
-        <link href="https://www.orienteering.org.nz/iof/iof-webinars/"/>
-        <updated>2024-12-19T06:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Orienteerpod  webinar from November: Training and life of top international elite orienteers with Ralph Street (GBR), Tim Robertson (NZL) and Magnus Dewett (DEN) from “Orienteer Pod”. If you missed the live podcast you can hear about   their training, recent events and how they achieve their orienteering goals in the recent IOF podcast here 
-IOF webinars  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Aid Refresh +  | Southland]]></title>
-        <id>https://www.orienteering.org.nz/?p=61151</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/first-aid-refresh-southland/"/>
-        <updated>2024-12-19T06:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Orienteers! SOC’s got you covered – or, better still, bandaged! We realised that next year’s Taitonga South Island Champs at Waikaia were looming and just how isolated we would be. Twelve SOC members, plus a few outdoor club ring-ins, recently attended two 2-hour sessions of First Aid. Thanks to Hato Hone St John, this was […]
-First Aid Refresh +  | Southland first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know Tony Nicholls?]]></title>
-        <id>https://www.orienteering.org.nz/?p=61148</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/did-you-know-tony-nicholls/"/>
-        <updated>2024-12-19T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Tony’s family in Australia are asking for more information about him. We found these newspaper clippings from 1974, and have sent them. He was a very enthusiastic orienteer when the sport was still quite young in NZ. If you have more to share,  such as some memories, photos or more print articles, do send info […]
-Did you know Tony Nicholls? first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opportunities open at Orienteering NZ  |  Major Events Advisor / Tech Committee support]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61145</id>
-        <link href="https://www.orienteering.org.nz/news/opportunities-open-at-orienteering-nz-major-events-advisor-tech-committee-support/"/>
-        <updated>2024-12-19T05:58:13.000Z</updated>
-        <summary type="html"><![CDATA[We have openings at ONZ, and we have several positions to fill. Both positions are being trials for the first time in 2025. Major events support:   The major event advisor provides support to major event organisers, linking them to information and resources that make their roles easier. The role does not do the work […]
-Opportunities open at Orienteering NZ  |  Major Events Advisor / Tech Committee support   first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Orienteering Week   |   17- 25 May 2025]]></title>
-        <id>https://www.orienteering.org.nz/?p=61142</id>
-        <link href="https://www.orienteering.org.nz/iof/world-orienteering-week-17-25-may-2025/"/>
-        <updated>2024-12-19T05:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Between the dates 17 -25 May 2025, any activity held can be registered as a World Orienteering Week event. Imagine the world’s largest orienteering event. One where thousands of experienced orienteers, recreational participants and newcomers come together and participate in orienteering activities close to where they live, but at the same time as similar activities all […]
-World Orienteering Week   |   17- 25 May 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Plan Consultation]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61139</id>
-        <link href="https://www.orienteering.org.nz/news/business-plan-consultation/"/>
-        <updated>2024-12-19T05:46:43.000Z</updated>
-        <summary type="html"><![CDATA[The recent ONZ Business Planning Meeting took the place of the regular Board Meeting. The Business Plan is ONZ’s Annual Plan that sets the priorities for your national body over the next 12 months. Key elements of the plan include: Before the plan is officially adopted at the first Board Meeting of the Year (at […]
-Business Plan Consultation first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 19 2024]]></title>
-        <id>http://news.worldofo.com/?p=20550</id>
-        <link href="https://news.worldofo.com/2024/12/19/route-to-christmas-day-19-2024/"/>
-        <updated>2024-12-19T03:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the long distance race at the World Cup final in Finland – which was also the pre-WOC for next years’ World Orienteering Championships.  The chosen leg is the 3rd leg on the men’s course – one of the most decisive legs on the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
