@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T12:13:35.140Z</updated>
+    <updated>2025-01-18T18:10:17.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -475,35 +475,6 @@ Selection Notice – European Youth Orienteering Championships 2025 (EYOC) first
         <summary type="html"><![CDATA[A vital part of SOA’s function is bringing people together across the Scottish orienteering community, and one means of doing […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2024: Last Chance to Vote!]]></title>
-        <id>http://news.worldofo.com/?p=20571</id>
-        <link href="https://news.worldofo.com/2024/12/20/course-of-the-year-2024-last-change-to-vote/"/>
-        <updated>2024-12-20T04:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Today is the last chance to vote in Course of the Year 2024! 24 hours before closing time we find the following in the Top 10: The WOC Sprint in Scotland, Portugal O-Meeting Middle, Finnish Champs Long and Night, European Champs Middle in Hungary, MOM 2024 Middle in Spain, Norwegian Champs Long, Swedish Champs Ultralong ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready for the 2025 Park Street Champs!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14324</id>
-        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-2025-park-street-champs/"/>
-        <updated>2024-12-20T03:42:58.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 20 2024]]></title>
-        <id>http://news.worldofo.com/?p=20566</id>
-        <link href="https://news.worldofo.com/2024/12/20/route-to-christmas-day-20-2024/"/>
-        <updated>2024-12-20T03:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a 4.8 km long leg from the Swedish Championships Ultralong. Thanks a lot to Per Forsberg of the course setting team for the tip along with analysis! Note that this was a mass start race – and here is what Per had to say about the race: The ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
