@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T18:10:17.698Z</updated>
+    <updated>2025-01-19T00:43:26.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Box Hill Results 2025]]></title>
+        <id>https://slow.org.uk/?p=22916</id>
+        <link href="https://slow.org.uk/racereports/box-hill-results-2025/"/>
+        <updated>2025-01-18T21:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Unfortunately we had a problem with direction arrows being maliciously turned the wrong way after the second road crossing. If you were affected we hope [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NI Orienteering AGM and Prizegiving]]></title>
         <id>https://www.niorienteering.org.uk/?p=6269</id>
@@ -149,6 +159,17 @@ Project manager appointed for the ‘Beginner Instruction for Everyone’ projec
         <summary type="html"><![CDATA[The Norwegian athletes dominated on home turf on the second day of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 in Sjusjøen. Jørgen Baklid and Anna Ulvensøen (both NOR) rose to the top in the senior World Cup-races, while Teodor Mo Hjelseth (NOR) grabbed the U23 gold in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready for the 2025 Park Street Champs!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14324</id>
+        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-2025-park-street-champs/"/>
+        <updated>2025-01-11T03:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Online entry is now open for Park and Street's Big Night! Enter the Champs before Sunday January 26
+Get Ready for the 2025 Park Street Champs! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -465,16 +486,6 @@ Selection Notice – European Youth Orienteering Championships 2025 (EYOC) first
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from one of the Top 10 courses in Course of the Year 2024: The World Orienteering Championships Sprint, organized in Edinburgh, Scotland this July. The chosen leg is one of the decisive legs – the leg to the 15th control in the men’s course and the 13th control ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA Community Conversations Programme for 2025 – and sign up now for the first one, on Communications & Marketing]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54804</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-community-conversations-programme-for-2025-and-sign-up-now-for-the-first-one-on-communications-marketing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-community-conversations-programme-for-2025-and-sign-up-now-for-the-first-one-on-communications-marketing"/>
-        <updated>2024-12-20T12:26:02.000Z</updated>
-        <summary type="html"><![CDATA[A vital part of SOA’s function is bringing people together across the Scottish orienteering community, and one means of doing […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
