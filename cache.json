@@ -171,16 +171,6 @@
           "wordCount": 2691,
           "title": "Route to Christmas: Day 23 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20581",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2024 is a quite short leg from the middle distance of the Maximus O Meeting in Spain, organized this February. Here is the terrain description from the bulletin: This terrain offers a fascinating mix of pine and oak forests, enabling high running speeds while demanding flawless technical execution. Additionally, the ...",
-          "link": "https://news.worldofo.com/2024/12/22/route-to-christmas-day-22-2024/",
-          "publishedOn": "2024-12-22T03:00:36.000Z",
-          "wordCount": 4661,
-          "title": "Route to Christmas: Day 22 2024",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/mommiddle_x_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -441,6 +431,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6276",
+          "author": "NIOA Secretary",
+          "description": "On Tuesday 4 February at 19:30, Raymond Finlay, FermO will be hosting a webinar as a refresher and update for all controllers. So if you are a licenced controller, are working towards becoming a controller or are considering working towards controller status then this session...\nThe post Controller Update Webinar appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/controller-update-webinar/",
+          "publishedOn": "2025-01-20T09:56:53.000Z",
+          "wordCount": 4295,
+          "title": "Controller Update Webinar",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/01/A-controller.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6269",
           "author": "NIOA Secretary",
