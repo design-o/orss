@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T12:15:47.318Z</updated>
+    <updated>2025-01-21T18:11:43.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -455,26 +455,6 @@ The post The Results are in… appeared first on NI Orienteering Association.]]>
         <link href="https://news.worldofo.com/2024/12/24/route-to-christmas-day-24-2024/"/>
         <updated>2024-12-24T03:00:19.000Z</updated>
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is a long leg from the Finnish Championships long distance. This course is one of the Top 10-finishers in Course of the Year 2024. The leg is as usually first provided without routes – you may take a look at it and think about how you would attack this ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2024: Maximus O Meeting Middle]]></title>
-        <id>http://news.worldofo.com/?p=20604</id>
-        <link href="https://news.worldofo.com/2024/12/23/course-of-the-year-2024-maximus-o-meeting-middle/"/>
-        <updated>2024-12-23T04:00:31.000Z</updated>
-        <summary type="html"><![CDATA[The “Orienteering Course of the Year 2024″ is a very technical and fast middle distance course in Spain: The Men Superelite course at stage 2 of the Maximus O Meeting 2024! The course offered technical orienteering at high speed – testing a variety of skills.  The terrain – never used for orienteering before – looks like a dream for a course setter: Lots of stone ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 23 2024]]></title>
-        <id>http://news.worldofo.com/?p=20569</id>
-        <link href="https://news.worldofo.com/2024/12/23/route-to-christmas-day-23-2024/"/>
-        <updated>2024-12-23T03:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2024 is from the long distance race Langløpet, organized this November in the Oslo-area. Thanks a lot to Arild Andersen for the tip! This was a mass start event with some big stars on the start line – including Kasper Fosser and the Norwegian Junior Team. We have chosen the ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
         </author>
