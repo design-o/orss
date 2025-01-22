@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T00:40:49.369Z</updated>
+    <updated>2025-01-22T06:12:24.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -35,6 +35,15 @@
 The post Controller Update Webinar appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Orienteer at Princes Park, Feb 1-15]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14362</id>
+        <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-at-princes-park-feb-1-15/"/>
+        <updated>2025-01-20T03:57:02.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -230,6 +239,15 @@ Project manager appointed for the ‘Beginner Instruction for Everyone’ projec
         <updated>2025-01-11T03:42:58.000Z</updated>
         <summary type="html"><![CDATA[Online entry is now open for Park and Street's Big Night! Enter the Champs before Sunday January 26
 Get Ready for the 2025 Park Street Champs! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Sheahan, 1938-2024]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14258</id>
+        <link href="https://www.vicorienteering.asn.au/john-sheahan/"/>
+        <updated>2025-01-10T22:49:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
