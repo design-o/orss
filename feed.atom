@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T18:11:43.802Z</updated>
+    <updated>2025-01-22T00:40:49.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finland won entertaining Sprint Relay at FISU University Games]]></title>
+        <id>https://orienteering.sport/?p=75562</id>
+        <link href="https://orienteering.sport/finland-won-entertaining-sprint-relay-at-fisu-university-games/"/>
+        <updated>2025-01-21T20:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Finland’s relay team with Amanda Yli Futka and Niklas Ekström took a narrow win ahead of Sweden and Switzerland in an ever-changing Sprint Relay on Tuesday at FISU World University Games in Italy. 21 teams on the start line in Pragelato Tuesday afternoon. All photos: Torino 2025 FISU Games Four different teams had the lead […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More sustainable Event Service fees and Anti-Doping Contribution system approved]]></title>
         <id>https://orienteering.sport/?p=75525</id>
