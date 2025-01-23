@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-23T12:15:40.725Z</updated>
+    <updated>2025-01-23T18:11:30.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oceania Championships 2025 begin in New Zealand on Friday]]></title>
+        <id>https://orienteering.sport/?p=75575</id>
+        <link href="https://orienteering.sport/oceania-championships-2025-begin-in-new-zealand-on-friday/"/>
+        <updated>2025-01-23T16:38:52.000Z</updated>
+        <summary type="html"><![CDATA[The first regional FootO championships in 2025, the Oceania Orienteering Championships, begin in New Zealand on Friday. Four races await over four days, Sprint, Middle, Long and Relay in that order and alongside the seniors, Junior and Youth Champions for Oceania will also be crowned. All races take place on the lower North Island. The […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish based young adults enjoy winter training with British Orienteering Squads]]></title>
         <id>https://www.scottish-orienteering.org/?p=54902</id>
