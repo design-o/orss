@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T18:11:56.661Z</updated>
+    <updated>2025-01-23T00:40:13.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -455,27 +455,6 @@ The post It’s Orienteering Membership Renewal Time appeared first on NI Orient
         <summary type="html"><![CDATA[Today we offer a bonus leg in Route to Christmas 2024 – a second leg from the World Cup Final long race. This course was already featured on Day 19 – but the leg to control 13 was interesting enough to make a bonus leg. Especially with this being the area for next year’s World Orienteering Championships! The leg ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Results are in…]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6248</id>
-        <link href="https://www.niorienteering.org.uk/the-results-are-in-2/"/>
-        <updated>2024-12-24T11:56:23.000Z</updated>
-        <summary type="html"><![CDATA[The results are in for the NI Urban League 2024, after the final brain testing event at St Luke’s Hospital at Armagh, with a huge thanks to Graeme Francis. Congratulations to the course winners: Long – Stephanie Pruzina, LVO Middle – Raymond Finlay, FermO Short...
-The post The Results are in… appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Esher Common Night-O, Tuesday 28th January]]></title>
-        <id>https://slow.org.uk/?p=22838</id>
-        <link href="https://slow.org.uk/events/esher-common-jan25/"/>
-        <updated>2024-12-24T10:56:45.000Z</updated>
-        <summary type="html"><![CDATA[The third race of South London Orienteers’ 2024-2025 Night series takes place on Esher Common, on Tuesday 28th January 2025. Race Centre The race will be based [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
