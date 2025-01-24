@@ -141,18 +141,7 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": [
-        {
-          "id": "http://news.worldofo.com/?p=20558",
-          "author": "Jan Kocbach",
-          "description": "Today we offer a bonus leg in Route to Christmas 2024 – a second leg from the World Cup Final long race. This course was already featured on Day 19 – but the leg to control 13 was interesting enough to make a bonus leg. Especially with this being the area for next year’s World Orienteering Championships! The leg ...",
-          "link": "https://news.worldofo.com/2024/12/26/route-to-christmas-2024-bonus-leg/",
-          "publishedOn": "2024-12-26T03:00:57.000Z",
-          "wordCount": 4960,
-          "title": "Route to Christmas 2024: Bonus leg",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2024/12/wclongfinal_x_x13_blank_s-590x330.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News | Orienteering Victoria",

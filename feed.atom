@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T12:15:14.369Z</updated>
+    <updated>2025-01-24T18:11:31.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -507,16 +507,6 @@ The post It’s Orienteering Membership Renewal Time appeared first on NI Orient
         <summary type="html"><![CDATA[One of the main skills we use when orienteering is planning.  To allow you to plan for the year ahead […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas 2024: Bonus leg]]></title>
-        <id>http://news.worldofo.com/?p=20558</id>
-        <link href="https://news.worldofo.com/2024/12/26/route-to-christmas-2024-bonus-leg/"/>
-        <updated>2024-12-26T03:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Today we offer a bonus leg in Route to Christmas 2024 – a second leg from the World Cup Final long race. This course was already featured on Day 19 – but the leg to control 13 was interesting enough to make a bonus leg. Especially with this being the area for next year’s World Orienteering Championships! The leg ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
