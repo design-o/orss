@@ -160,6 +160,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14371",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vics-at-oceania/",
+          "publishedOn": "2025-01-20T11:09:36.000Z",
+          "wordCount": 996,
+          "title": "Vics at Oceania",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14362",
           "author": "Debbie Dodd",
           "description": "",
@@ -300,6 +310,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=61639",
+          "author": "Joolz",
+          "description": "A great start to the Oceania Championships 2025 with a sunny sprint through the Massey University campus. Multiple route choice legs challenged competitors to switch between high-speed running and precise navigation. Joseph Lynch, from New Zealand, showed the sprint prowess that earned him 7th place at last year’s World Championships in Scotland, securing a commanding […]\nFast, Fierce, and Focused: Sprint orienteering results are in! first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/fast-fierce-and-focused-sprint-orienteering-results-are-in/",
+          "publishedOn": "2025-01-24T08:46:21.000Z",
+          "wordCount": 2758,
+          "title": "Fast, Fierce, and Focused: Sprint orienteering results are in!",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/01/Oceania-Sprint-2025-Firsts.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=61480",
           "author": "Christo Peters",
