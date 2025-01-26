@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-25T18:10:30.656Z</updated>
+    <updated>2025-01-26T00:41:23.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kiwis dominate first half of Oceania Championships]]></title>
+        <id>https://orienteering.sport/?p=75593</id>
+        <link href="https://orienteering.sport/kiwis-dominate-first-half-of-ooc/"/>
+        <updated>2025-01-25T20:36:52.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Oceania Orienteering Championships are well underway in New Zealand, where the host nation has performed well in the first two races. Friday’s Sprint at Massey University was won by the defending Oceania champions, Lizzie Ingham and Joseph Lynch (both NZL). Ingham took the Oceanic gold with an impressive 44 second win ahead of […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Middle Distance Sand Dune Champions Crowned – Wins for Ingham and Fa’avae]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61652</id>
+        <link href="https://www.orienteering.org.nz/news/middle-distance-sand-dune-champions-crowned-wins-for-ingham-and-faavae/"/>
+        <updated>2025-01-25T18:18:35.000Z</updated>
+        <summary type="html"><![CDATA[The Oceania orienteering championships continued today in the Santoft forest sand dunes west of Bulls. The courses challenged the competitors both technically and physically. Precise navigation and skilled compass work was called on to handle the alternating challenges of intricate contour detail and vague, featureless areas. Lizzie Ingham continued her winning way in the women’s […]
+Middle Distance Sand Dune Champions Crowned – Wins for Ingham and Fa’avae first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fast, Fierce, and Focused: Sprint orienteering results are in!]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61639</id>
