@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T12:16:08.295Z</updated>
+    <updated>2025-01-27T18:11:30.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Zealand continues golden course at Oceania Championships]]></title>
+        <id>https://orienteering.sport/?p=75614</id>
+        <link href="https://orienteering.sport/new-zealand-continues-golden-course-at-oceania-championships/"/>
+        <updated>2025-01-27T14:12:03.000Z</updated>
+        <summary type="html"><![CDATA[The athletes at the 2025 Oceania Orienteering Championships continued their fight for medals in the coastal terrains of New Zealand’s lower North Island on Sunday and Monday. Compared to Saturday’s hot middle distance, the temperatures were more pleasant on Sunday when the long distance was to be decided in rain. And like the previous days, […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidelines and checklists for organising sustainable events available]]></title>
+        <id>https://orienteering.sport/?p=75606</id>
+        <link href="https://orienteering.sport/guidelines-and-checklists-for-organising-sustainable-events-available/"/>
+        <updated>2025-01-27T13:24:33.000Z</updated>
+        <summary type="html"><![CDATA[What should you consider in relation to e.g. Animals, Catering and Emissions when organising a sustainable orienteering event? A new set of guidelines and checklists, available on orienteering.sport, can help answer this question. The IOF’s Environment and Sustainability Commission has created the tools, which consist of eight digital booklets and are available here (lower section). […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th]]></title>
         <id>https://neooc.com/?p=48163</id>
