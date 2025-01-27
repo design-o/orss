@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T06:12:45.702Z</updated>
+    <updated>2025-01-27T12:16:08.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -546,26 +546,6 @@ The post It’s Orienteering Membership Renewal Time appeared first on NI Orient
         <link href="https://www.scottish-orienteering.org/news/2025-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-scottish-orienteering-fixtures-diaries-at-the-ready"/>
         <updated>2024-12-29T18:07:46.000Z</updated>
         <summary type="html"><![CDATA[The fixtures calendar for the next year has been finalised and we are very grateful to all those clubs who […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF mourns death of Swiss athlete Pascal Buchs]]></title>
-        <id>https://orienteering.sport/?p=75273</id>
-        <link href="https://orienteering.sport/iof-mourns-death-of-swiss-athlete-pascal-buchs/"/>
-        <updated>2024-12-28T21:12:29.000Z</updated>
-        <summary type="html"><![CDATA[It is with great sadness that the International Orienteering Federation learned of the death of Swiss national team athlete Pascal Buchs, who died tragically in an accident at the age of 27 on Friday. Pascal Buchs was a part of Swiss Orienteering’s elite division since 2018 and regularly competed in World Cup races for the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 SOA Coaching and Volunteering Training Opportunities – Are your diaries at the ready?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54809</id>
-        <link href="https://www.scottish-orienteering.org/news/2025-soa-coaching-and-volunteering-training-opportunities-are-your-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-soa-coaching-and-volunteering-training-opportunities-are-your-diaries-at-the-ready"/>
-        <updated>2024-12-28T18:26:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the main skills we use when orienteering is planning.  To allow you to plan for the year ahead […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
