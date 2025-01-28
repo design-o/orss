@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T00:40:20.333Z</updated>
+    <updated>2025-01-28T06:12:14.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -558,16 +558,6 @@ OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Or
 The post It’s Orienteering Membership Renewal Time appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Scottish Orienteering Fixtures –  Diaries at the ready ?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54818</id>
-        <link href="https://www.scottish-orienteering.org/news/2025-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-scottish-orienteering-fixtures-diaries-at-the-ready"/>
-        <updated>2024-12-29T18:07:46.000Z</updated>
-        <summary type="html"><![CDATA[The fixtures calendar for the next year has been finalised and we are very grateful to all those clubs who […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
