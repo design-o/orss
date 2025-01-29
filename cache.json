@@ -293,6 +293,26 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=22964",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident – Live Results WinSplits – to follow Routegadget – draw your route!",
+          "link": "https://slow.org.uk/racereports/esher-results-jan2025/",
+          "publishedOn": "2025-01-28T23:34:55.000Z",
+          "wordCount": 1968,
+          "title": "Esher Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Esher_night_Jan2025_2.jpg"
+        },
+        {
+          "id": "https://slow.org.uk/?p=22956",
+          "author": "Matthias Mahr",
+          "description": "Entries will open at SIEntries in a couple of weeks. The fourth and final race of South London Orienteers’ 2024-2025 Night series takes place on Sheen Common [...]",
+          "link": "https://slow.org.uk/events/sheen-common-night-o-finale-tues-4th-march/",
+          "publishedOn": "2025-01-28T21:27:03.000Z",
+          "wordCount": 2568,
+          "title": "Sheen Common Night-O Finale, Tues 4th March",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/37_big.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=22916",
           "author": "Steve Clelland",
           "description": "Unfortunately we had a problem with direction arrows being maliciously turned the wrong way after the second road crossing. If you were affected we hope [...]",
@@ -539,16 +559,6 @@
           "wordCount": 4296,
           "title": "Register for the on line Development Conference",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/01/Conference.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6252",
-          "author": "NIOA Secretary",
-          "description": "It’s time to check your orienteering memberships! Memberships run on the calendar year and as of 30 December: 92 members have signed up for 2025 membership. These members will shortly receive a thank you email from the membership database. 134 members will have their membership...\nThe post It’s Orienteering Membership Renewal Time appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/its-orienteering-membership-renewal-time/",
-          "publishedOn": "2024-12-30T11:09:48.000Z",
-          "wordCount": 4433,
-          "title": "It’s Orienteering Membership Renewal Time",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2017/12/membership.jpg"
         }
       ]
     },

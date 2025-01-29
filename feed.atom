@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T18:11:29.109Z</updated>
+    <updated>2025-01-29T00:40:24.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Esher Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=22964</id>
+        <link href="https://slow.org.uk/racereports/esher-results-jan2025/"/>
+        <updated>2025-01-28T23:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf SPORTident – Live Results WinSplits – to follow Routegadget – draw your route!]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheen Common Night-O Finale, Tues 4th March]]></title>
+        <id>https://slow.org.uk/?p=22956</id>
+        <link href="https://slow.org.uk/events/sheen-common-night-o-finale-tues-4th-march/"/>
+        <updated>2025-01-28T21:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Entries will open at SIEntries in a couple of weeks. The fourth and final race of South London Orienteers’ 2024-2025 Night series takes place on Sheen Common [...]]]></summary>
+        <author>
+            <name>Matthias Mahr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Score and Night Championships]]></title>
         <id>https://www.niorienteering.org.uk/?p=6282</id>
@@ -579,17 +599,6 @@ OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Or
         <summary type="html"><![CDATA[Scottish Orienteering is rooted in volunteering and pitching-in, most obviously at club level where countless individuals give up their time […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Orienteering Membership Renewal Time]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6252</id>
-        <link href="https://www.niorienteering.org.uk/its-orienteering-membership-renewal-time/"/>
-        <updated>2024-12-30T11:09:48.000Z</updated>
-        <summary type="html"><![CDATA[It’s time to check your orienteering memberships! Memberships run on the calendar year and as of 30 December: 92 members have signed up for 2025 membership. These members will shortly receive a thank you email from the membership database. 134 members will have their membership...
-The post It’s Orienteering Membership Renewal Time appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
