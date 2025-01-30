@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-29T18:11:22.372Z</updated>
+    <updated>2025-01-30T00:39:29.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -579,16 +579,6 @@ OV 2025 Calendar – Start Planning Your Orienteering Year! first appeared on Or
         <updated>2025-01-01T07:33:32.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Orienteering 2024 – a thank you for all the hard work behind the scenes]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54849</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-orienteering-2024-a-thank-you-for-all-the-hard-work-behind-the-scenes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-orienteering-2024-a-thank-you-for-all-the-hard-work-behind-the-scenes"/>
-        <updated>2024-12-31T09:18:28.000Z</updated>
-        <summary type="html"><![CDATA[As the year comes to an end it’s always a good time to take stock, and a lot happened in […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
