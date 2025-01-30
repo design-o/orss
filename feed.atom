@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T06:12:09.872Z</updated>
+    <updated>2025-01-30T12:15:46.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 NZ MTBO Startlists]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61711</id>
+        <link href="https://www.orienteering.org.nz/news/2025-nz-mtbo-startlists/"/>
+        <updated>2025-01-30T08:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Startlists are available for the NZ MTBO champs in Otago. Head to the programme page on the NZ MTBO champs website here Dunedin Orienteering and Central Otago Orienteers look forward to welcoming mountain bikers and orienteers very soon to the NZ MTB Orienteering Champs in Central Otago on 1st, 2nd & 3rd February 2025. 
+2025 NZ MTBO Startlists first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Esher Common Night-O Results]]></title>
         <id>https://slow.org.uk/?p=22964</id>
