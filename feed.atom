@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T06:12:11.665Z</updated>
+    <updated>2025-01-31T12:15:18.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Donard is GO, AGM is GO, Castlewellan is NO]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6285</id>
+        <link href="https://www.niorienteering.org.uk/donard-is-go-agm-is-go-castlewellan-is-no/"/>
+        <updated>2025-01-31T11:27:34.000Z</updated>
+        <summary type="html"><![CDATA[As promised we are able to update on implications for the NI Score and Night Championships following Storm Éowyn. Remarkably Donard Forest, the venue for the Score Champs has escaped relatively unscathed, largely due to the shelter provided by Slieve Donard. However Castlewellan Forest Park...
+The post Donard is GO, AGM is GO, Castlewellan is NO appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 NZ MTBO Startlists]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61711</id>
