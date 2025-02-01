@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T06:11:04.660Z</updated>
+    <updated>2025-02-01T12:13:34.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The First Australian Orienteering Team (1971)]]></title>
+        <id>https://orienteering.asn.au/?p=13103</id>
+        <link href="https://orienteering.asn.au/the-first-australian-orienteering-team-1971/"/>
+        <updated>2025-02-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Biographies of the first Australian Orienteering Team, 1971, created to take on New Zealand.
+The First Australian Orienteering Team (1971) first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2025 West Woods Classic | Saturday, March 8, 2025]]></title>
         <id>https://neooc.com/?p=48203</id>

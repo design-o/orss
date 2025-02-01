@@ -568,6 +568,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=13103",
+          "author": "elizabethl",
+          "description": "Biographies of the first Australian Orienteering Team, 1971, created to take on New Zealand.\nThe First Australian Orienteering Team (1971) first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/the-first-australian-orienteering-team-1971/",
+          "publishedOn": "2025-02-01T08:00:00.000Z",
+          "wordCount": 2701,
+          "title": "The First Australian Orienteering Team (1971)",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=13035",
           "author": "elizabethl",
           "description": "Orienteering Australia is seeking volunteers to fill Team Leader positions for upcoming 2025 events: WOC, JWOC, World Games and KB weekend.\nExpression of Interest for Team Leaders first appeared on Orienteering Australia.",
