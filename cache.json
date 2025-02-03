@@ -504,6 +504,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=54940",
+          "author": "suzannerb",
+          "description": "Our wonderful sport relies heavily on volunteers who have built up loads of experience over the years in a multitude […]",
+          "link": "https://www.scottish-orienteering.org/news/mentoring-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=mentoring-workshops",
+          "publishedOn": "2025-02-03T11:31:37.000Z",
+          "wordCount": 1461,
+          "title": "Mentoring Workshops",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/mentoring-1024x784.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=54910",
           "author": "nikkihoward",
           "description": "A big thank you to everyone who participated in our first monthly online Community Conversation of the year, held earlier […]",
@@ -588,6 +598,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=13127",
+          "author": "elizabethl",
+          "description": "Oceania Orienteering Championships 2025 was held across four days, from 24 - 27 January 2025 in New Zealand. Here is a recap of the days, results and featuring an interview with Brodie Nankervis.\nOceania Championships 2025 Results and Recap first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/oceania-championships-2025-results-and-recap/",
+          "publishedOn": "2025-02-03T11:06:13.000Z",
+          "wordCount": 5356,
+          "title": "Oceania Championships 2025 Results and Recap",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=13103",
           "author": "elizabethl",
           "description": "Biographies of the first Australian Orienteering Team, 1971, created to take on New Zealand.\nThe First Australian Orienteering Team (1971) first appeared on Orienteering Australia.",
@@ -665,16 +685,6 @@
           "publishedOn": "2025-01-12T01:53:22.000Z",
           "wordCount": 2594,
           "title": "Project manager appointed for the ‘Beginner Instruction for Everyone’ project",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12864",
-          "author": "danielstott",
-          "description": "The winner of the prize draw for the first time participant survey has been announced.\nCongratulations to the survey winner first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/congratulations-to-the-survey-winner/",
-          "publishedOn": "2025-01-04T13:38:16.000Z",
-          "wordCount": 2304,
-          "title": "Congratulations to the survey winner",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
