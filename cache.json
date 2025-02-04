@@ -247,16 +247,6 @@
           "wordCount": 1219,
           "title": "Easter and Anzac Weekend in Victoria – Where Else Would You Want To Be? Entries Now Open",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14351",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/",
-          "publishedOn": "2025-01-05T06:43:07.000Z",
-          "wordCount": 1191,
-          "title": "BikeO-75 Summer Series and Vic MTBO Champs – Entries Open",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -456,6 +446,26 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=48212",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "2025 Girdled Road Score | Lake County | Saturday, April 12, 2025",
+          "link": "https://neooc.com/new-event-2025-girdled-road-score-lake-county-saturday-april-12-2025/",
+          "publishedOn": "2025-02-04T00:39:09.000Z",
+          "wordCount": 1324,
+          "title": "New Event | 2025 Girdled Road Score | Lake County | Saturday, April 12, 2025",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2025/01/Girdled-Road-Banner.jpg"
+        },
+        {
+          "id": "https://neooc.com/?p=48209",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Orienteering 101 | Lake County | Saturday, March 22, 2025",
+          "link": "https://neooc.com/new-event-orienteering-101-lake-county-saturday-march-22-2025/",
+          "publishedOn": "2025-02-04T00:33:08.000Z",
+          "wordCount": 1347,
+          "title": "New Event | Orienteering 101 | Lake County | Saturday, March 22, 2025",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2023/08/ld_map-and-compass-1-scaled.jpg"
+        },
         {
           "id": "https://neooc.com/?p=48203",
           "author": "Northeast Ohio Orienteering Club",
