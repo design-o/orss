@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T00:40:28.454Z</updated>
+    <updated>2025-02-04T06:12:59.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -182,6 +182,17 @@ New Zealand dominate Oceania Relays first appeared on Orienteering New Zealand.]
         <summary type="html"><![CDATA[What should you consider in relation to e.g. Animals, Catering and Emissions when organising a sustainable orienteering event? A new set of guidelines and checklists, available on orienteering.sport, can help answer this question. The IOF’s Environment and Sustainability Commission has created the tools, which consist of eight digital booklets and are available here (lower section). […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BikeO-75 Summer Series and Vic MTBO Champs – Entries Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14351</id>
+        <link href="https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/"/>
+        <updated>2025-01-27T06:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Get ready for the 2025 MTBO season, with the first BikeO-75 event on 1st February! Entries are open now
+BikeO-75 Summer Series and Vic MTBO Champs – Entries Open first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
