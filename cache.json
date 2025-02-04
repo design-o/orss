@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=75697",
+          "author": "Erling Thisted",
+          "description": "Sweden will also welcome the world’s best orienteers in 2027, where one of the year’s World Cup Rounds will be held in the Hälsingland-region. There will be three forest races: Long, Middle and Relay in the forests around the town of Alfta. The preliminary dates for the races are 3 – 6 June, 2027. “We […]",
+          "link": "https://orienteering.sport/sweden-to-host-world-cup-round-in-2027/",
+          "publishedOn": "2025-02-04T09:30:03.000Z",
+          "wordCount": 2026,
+          "title": "Sweden to host World Cup Round in 2027",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/02/2021_owc_idre_relay_williamhollowell-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=74903",
           "author": "Erling Thisted",
           "description": "The world’s best orienteers may well start preparing for Iberian terrains for 2028 as the European Orienteering Championships will be held in Portugal. EOC will at the same time serve as the final in the 2028 World Cup. This was decided by IOF’s Council at its meeting on October 4, 2024 following a proposal from […]",
@@ -178,6 +188,26 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14396",
+          "author": "Debbie Dodd",
+          "description": "The BendiGo ToDay weekend returns for its 18th year!  Get your entry in and enjoy this popular kickstarter to 2025\nBendiGo ToDay is Back!  February 15-16 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/bendigo-today-is-back-february-15-16/",
+          "publishedOn": "2025-02-04T08:00:32.000Z",
+          "wordCount": 1127,
+          "title": "BendiGo ToDay is Back!  February 15-16",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14402",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/tatterson-tangle-saturday-evening-sprint-february-22/",
+          "publishedOn": "2025-02-02T08:05:10.000Z",
+          "wordCount": 1123,
+          "title": "Tatterson Tangle, Saturday Evening Sprint, February 22",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14351",
           "author": "Debbie Dodd",
@@ -560,6 +590,26 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6294",
+          "author": "NIOA Secretary",
+          "description": "Raymond Finlay, FermO, our only Grade A controller will be leading our Controllers Refresher Update, an informal session on Zoom to discuss all things controlling on Tuesday 4 Feb at 7:30pm Those who are licenced controllers or who are working to become a controller have...\nThe post Controllers Update Webinar – Tue 4 Feb appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/controllers-update-webinar-tue-4-feb/",
+          "publishedOn": "2025-02-04T11:22:38.000Z",
+          "wordCount": 4345,
+          "title": "Controllers Update Webinar – Tue 4 Feb",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2014/08/logo-slogan2.png?fit=397%2C110&ssl=1"
+        },
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6291",
+          "author": "NIOA Secretary",
+          "description": "Raymond Finlay, FermO, our only Grade A controller will be leading our Controllers Refresher Update, an informal session on Zoom to discuss all things controlling on Tuesday 4 Feb at 7:30pm Those who are licenced controllers or who are working to become a controller have...\nThe post Controllers Webinar Tuesday 4 February appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/controllers-webinar-tuesday-4-february/",
+          "publishedOn": "2025-02-04T11:05:01.000Z",
+          "wordCount": 4337,
+          "title": "Controllers Webinar Tuesday 4 February",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/01/A-controller.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6285",
           "author": "NIOA Secretary",
