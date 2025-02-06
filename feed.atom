@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T18:11:52.297Z</updated>
+    <updated>2025-02-06T00:41:00.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Night Championships runners get to eat cake and urban runners storm around Musselburgh]]></title>
+        <id>https://www.scottish-orienteering.org/?p=54947</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-night-championships-entries-get-to-eat-cake-and-urban-runners-storm-around-musselburgh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-night-championships-entries-get-to-eat-cake-and-urban-runners-storm-around-musselburgh"/>
+        <updated>2025-02-05T19:33:47.000Z</updated>
+        <summary type="html"><![CDATA[This year’s Scottish Night Championships gave everyone the opportunity to practise their headtorch orienteering skills prior to the British Night […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Portugal appointed as CX80 EMTBOC 2026 host, WMTBOC 2027 to be held in Latvia]]></title>
         <id>https://orienteering.sport/?p=75734</id>
