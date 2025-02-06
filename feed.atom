@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T00:41:00.288Z</updated>
+    <updated>2025-02-06T06:12:45.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -709,26 +709,6 @@ The post Register for the on line Development Conference appeared first on NI Or
 NZ Team for AUS NZ Challenge first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th]]></title>
-        <id>https://neooc.com/?p=48068</id>
-        <link href="https://neooc.com/new-event-sunny-lake-snow-o-sunny-lake-park-aurora-saturday-january-25th/"/>
-        <updated>2025-01-07T16:25:19.000Z</updated>
-        <summary type="html"><![CDATA[Sunny Lake – Snow-O | Sunny Lake Park – Aurora | Saturday, January 25th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final ASOC-golds for Kazakhstan, Japan and Hong Kong China]]></title>
-        <id>https://orienteering.sport/?p=75382</id>
-        <link href="https://orienteering.sport/final-asoc-golds-for-kazakhstan-japan-and-hong-kong-china/"/>
-        <updated>2025-01-07T13:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Three nations won the gold medals on the final days of the 2024 Asian Orienteering Championships, which took place in the last week of the old year. Thailand hosted the championships, which were run in and around Chiang Mai in the northern part of the country. Both the middle distance and the relay took place […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
