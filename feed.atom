@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T06:12:45.534Z</updated>
+    <updated>2025-02-06T12:16:06.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -698,17 +698,6 @@ The post Register for the on line Development Conference appeared first on NI Or
         <summary type="html"><![CDATA[The international Ski Orienteering season begins this weekend in Norway, when Round 1 of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 are held in Sjusjøen. More than 120 athletes from 14 nations are registered for the event, which will be raced over three days from Friday to […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZ Team for AUS NZ Challenge]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61364</id>
-        <link href="https://www.orienteering.org.nz/news/nz-team-for-aus-nz-challenge/"/>
-        <updated>2025-01-07T20:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Below is the provisional team for the AUS-NZL Challenge taking part as part of the Oceania Championships 2025, 24-27 January in New Zealand. The team has been selected by the ONZ Senior Selection Panel in accordance with ONZ Selection Policy. Any concerns about selections should be raised to the Senior Selection Convenor within 48hrs of […]
-NZ Team for AUS NZ Challenge first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
