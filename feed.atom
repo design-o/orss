@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T06:12:57.276Z</updated>
+    <updated>2025-02-07T12:15:21.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -688,16 +688,6 @@ Get Ready for the 2025 Park Street Champs! first appeared on Orienteering Victor
 The post Register for the on line Development Conference appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup opener to begin in Norway]]></title>
-        <id>https://orienteering.sport/?p=75390</id>
-        <link href="https://orienteering.sport/skio-world-cup-opener-to-begin-in-norway/"/>
-        <updated>2025-01-08T19:04:59.000Z</updated>
-        <summary type="html"><![CDATA[The international Ski Orienteering season begins this weekend in Norway, when Round 1 of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 are held in Sjusjøen. More than 120 athletes from 14 nations are registered for the event, which will be raced over three days from Friday to […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
