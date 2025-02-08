@@ -639,16 +639,6 @@
           "wordCount": 4338,
           "title": "NI Orienteering AGM and Prizegiving",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2016/04/AGM2.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6267",
-          "author": "NIOA Secretary",
-          "description": "Check out the sessions for the 2025 British orienteering Development Conference. With 11 webinars between 9 January and 2 February, there is bound to be something of interest for every orienter. Be sure to register for the sessions that appeal.\nThe post Register for the on line Development Conference appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/register-for-the-on-line-development-conference/",
-          "publishedOn": "2025-01-09T18:08:55.000Z",
-          "wordCount": 4296,
-          "title": "Register for the on line Development Conference",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/01/Conference.jpg"
         }
       ]
     },
@@ -657,6 +647,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13186",
+          "author": "elizabethl",
+          "description": "Everyone is invited to attend the World Orienteering Week Webinar on 20 February, a seminar to give ideas to plan 9 events in 1 WOW week.\nWorld Orienteering Week Webinar first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-orienteering-week-webinar/",
+          "publishedOn": "2025-02-08T05:05:24.000Z",
+          "wordCount": null,
+          "title": "World Orienteering Week Webinar",
+          "imageUrl": null
+        },
         {
           "id": "https://orienteering.asn.au/?p=13174",
           "author": "elizabethl",

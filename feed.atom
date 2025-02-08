@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T00:39:44.604Z</updated>
+    <updated>2025-02-08T06:11:36.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Week Webinar]]></title>
+        <id>https://orienteering.asn.au/?p=13186</id>
+        <link href="https://orienteering.asn.au/world-orienteering-week-webinar/"/>
+        <updated>2025-02-08T05:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is invited to attend the World Orienteering Week Webinar on 20 February, a seminar to give ideas to plan 9 events in 1 WOW week.
+World Orienteering Week Webinar first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t miss out on the selection opportunities in 2025 – VHI’s, SHI’s and all the junior selection opportunities outlined here]]></title>
         <id>https://www.scottish-orienteering.org/?p=55007</id>
@@ -707,17 +718,6 @@ Get Ready for the 2025 Park Street Champs! first appeared on Orienteering Victor
         <summary type="html"><![CDATA[The international ski orienteering season began with a close showdown in the men’s race, while it was clearer in the women’s race in Norway on Friday. The sun shone over the terrain at Sjusjøen as the first men were sent off on today’s 3.2 kilometer sprint race, which was also the first race in the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Register for the on line Development Conference]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6267</id>
-        <link href="https://www.niorienteering.org.uk/register-for-the-on-line-development-conference/"/>
-        <updated>2025-01-09T18:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Check out the sessions for the 2025 British orienteering Development Conference. With 11 webinars between 9 January and 2 February, there is bound to be something of interest for every orienter. Be sure to register for the sessions that appeal.
-The post Register for the on line Development Conference appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
