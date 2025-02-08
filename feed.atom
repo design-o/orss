@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T12:13:47.215Z</updated>
+    <updated>2025-02-08T18:10:15.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NI Orienteering 2025 Prizegiving andAGM]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6321</id>
+        <link href="https://www.niorienteering.org.uk/ni-orienteering-2025-prizegiving-andagm/"/>
+        <updated>2025-02-08T17:45:43.000Z</updated>
+        <summary type="html"><![CDATA[All members are encouraged to attend the NI Orienteering Prizegiving and AGM, to be held on Saturday 15 February at 4pm . This will be shortly after the NI Score Championships at Donard Forest. (Regretfully the NI Night Championships which were to be held afterwards...
+The post NI Orienteering 2025 Prizegiving andAGM appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Orienteering Week Webinar]]></title>
         <id>https://orienteering.asn.au/?p=13186</id>
