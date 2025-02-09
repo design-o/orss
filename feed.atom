@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T00:43:36.203Z</updated>
+    <updated>2025-02-09T06:10:52.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -719,16 +719,6 @@ Get Ready for the 2025 Park Street Champs! first appeared on Orienteering Victor
         <updated>2025-01-10T22:49:50.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup: Kudre-Schnyder wins first race in Norway; Shared victory in men’s]]></title>
-        <id>https://orienteering.sport/?p=75424</id>
-        <link href="https://orienteering.sport/skio-world-cup-kudre-schnyder-wins-first-race-in-norway-shared-victory-in-mens/"/>
-        <updated>2025-01-10T16:21:59.000Z</updated>
-        <summary type="html"><![CDATA[The international ski orienteering season began with a close showdown in the men’s race, while it was clearer in the women’s race in Norway on Friday. The sun shone over the terrain at Sjusjøen as the first men were sent off on today’s 3.2 kilometer sprint race, which was also the first race in the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
