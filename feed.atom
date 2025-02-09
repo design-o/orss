@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T12:13:46.968Z</updated>
+    <updated>2025-02-09T18:09:55.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -886,17 +886,6 @@ Project manager appointed for the ‘Beginner Instruction for Everyone’ projec
         <summary type="html"><![CDATA[The Norwegian athletes dominated on home turf on the second day of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 in Sjusjøen. Jørgen Baklid and Anna Ulvensøen (both NOR) rose to the top in the senior World Cup-races, while Teodor Mo Hjelseth (NOR) grabbed the U23 gold in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready for the 2025 Park Street Champs!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14324</id>
-        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-2025-park-street-champs/"/>
-        <updated>2025-01-11T03:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Online entry is now open for Park and Street's Big Night! Enter the Champs before Sunday January 26
-Get Ready for the 2025 Park Street Champs! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
