@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T12:15:58.773Z</updated>
+    <updated>2025-02-10T18:11:39.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -887,17 +887,6 @@ Orienteering at Scouts Australian Jamboree first appeared on Orienteering Austra
         <summary type="html"><![CDATA[The athletes at the IOF Ski Orienteering World Cup in Norway once again fought a fierce battle for victory, as Round 1 ended with a Pursuit race Sunday morning. In the men’s event, home favourite Jørgen Baklid once again proved to be the strongest after a close fight with Jonatan Ståhl (SWE). The two shared […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project manager appointed for the ‘Beginner Instruction for Everyone’ project]]></title>
-        <id>https://orienteering.asn.au/?p=12965</id>
-        <link href="https://orienteering.asn.au/project-manager-appointed-for-the-beginner-instruction-for-everyone-project/"/>
-        <updated>2025-01-12T01:53:22.000Z</updated>
-        <summary type="html"><![CDATA[David Stocks of the ACT will be the project manager for the new ‘Beginner Instruction for Everyone’ project.
-Project manager appointed for the ‘Beginner Instruction for Everyone’ project first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
