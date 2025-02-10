@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T18:09:55.720Z</updated>
+    <updated>2025-02-10T00:42:13.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Closing for the NI Score Champs at Donard Forest]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6332</id>
+        <link href="https://www.niorienteering.org.uk/entries-closing-for-the-ni-score-champs-at-donard-forest/"/>
+        <updated>2025-02-09T21:31:29.000Z</updated>
+        <summary type="html"><![CDATA[The entries for the Score Championships at Donard Forest, Newcastle, Co Down on Saturday 15 February are about to close on Monday 10 February at 23:59. Please do enter on SI Entries and enjoy orienteering in a forest which has largely escaped from the recent...
+The post Entries Closing for the NI Score Champs at Donard Forest appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[View from the Chair | January 2025]]></title>
         <id>https://www.orienteering.org.nz/?p=61972</id>
@@ -589,6 +600,17 @@ Park Street Update, January 29 to February 4 first appeared on Orienteering Vict
 Fast, Fierce, and Focused: Sprint orienteering results are in! first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Champs – All The Results!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14324</id>
+        <link href="https://www.vicorienteering.asn.au/get-ready-for-the-2025-park-street-champs/"/>
+        <updated>2025-01-24T03:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Please read this update on events this week at Notting Hill, and the Champs at Stirling Hill
+Park Street Champs – All The Results! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
