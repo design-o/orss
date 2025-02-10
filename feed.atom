@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T00:42:13.453Z</updated>
+    <updated>2025-02-10T06:12:53.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -898,16 +898,6 @@ Orienteering at Scouts Australian Jamboree first appeared on Orienteering Austra
 Project manager appointed for the ‘Beginner Instruction for Everyone’ project first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup: Great Norwegian day in the middle distance]]></title>
-        <id>https://orienteering.sport/?p=75437</id>
-        <link href="https://orienteering.sport/skio-world-cup-great-norwegian-day-in-the-middle-distance/"/>
-        <updated>2025-01-11T14:54:02.000Z</updated>
-        <summary type="html"><![CDATA[The Norwegian athletes dominated on home turf on the second day of the IOF Ski Orienteering World Cup 2024-2025 and the World U23 Ski Orienteering Championships 2025 in Sjusjøen. Jørgen Baklid and Anna Ulvensøen (both NOR) rose to the top in the senior World Cup-races, while Teodor Mo Hjelseth (NOR) grabbed the U23 gold in […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
