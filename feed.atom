@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T00:40:56.792Z</updated>
+    <updated>2025-02-11T06:12:34.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -885,16 +885,6 @@ Orienteering at Scouts Australian Jamboree first appeared on Orienteering Austra
         <link href="https://orienteering.sport/joey-hadorn-nominated-for-the-world-games-athlete-of-the-year-award/"/>
         <updated>2025-01-14T09:12:23.000Z</updated>
         <summary type="html"><![CDATA[Swiss national team athlete Joey Hadorn has been nominated for the World Games Athlete of the Year 2024 award. It comes after a season where the 27-year old achieved some remarkable results: He started the international season in the best possible way by winning the first race, the World Cup Knock-Out Sprint in Olten on […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup: Ulvensøen triumphs in Pursuit; Baklid wins again]]></title>
-        <id>https://orienteering.sport/?p=75444</id>
-        <link href="https://orienteering.sport/skio-world-cup-ulvensoen-triumphs-in-pursuit-baklid-wins-again/"/>
-        <updated>2025-01-12T14:38:09.000Z</updated>
-        <summary type="html"><![CDATA[The athletes at the IOF Ski Orienteering World Cup in Norway once again fought a fierce battle for victory, as Round 1 ended with a Pursuit race Sunday morning. In the men’s event, home favourite Jørgen Baklid once again proved to be the strongest after a close fight with Jonatan Ståhl (SWE). The two shared […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
