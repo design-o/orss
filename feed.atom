@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T06:12:54.672Z</updated>
+    <updated>2025-02-12T12:15:58.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easter 2025 Preparations]]></title>
+        <id>https://orienteering.asn.au/?p=13218</id>
+        <link href="https://orienteering.asn.au/easter-2025-preparations/"/>
+        <updated>2025-02-12T06:55:49.000Z</updated>
+        <summary type="html"><![CDATA[New information regarding preparation for the 2025 Australian 3 Day Carnival has been released.
+Easter 2025 Preparations first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK Nuts 2025 – Pasture Wood & Leith Hill]]></title>
         <id>https://slow.org.uk/?p=22984</id>
