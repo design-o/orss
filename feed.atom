@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T06:12:30.337Z</updated>
+    <updated>2025-02-13T12:16:00.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup resumes in Germany]]></title>
+        <id>https://orienteering.sport/?p=75811</id>
+        <link href="https://orienteering.sport/skio-world-cup-resumes-in-germany/"/>
+        <updated>2025-02-13T09:45:55.000Z</updated>
+        <summary type="html"><![CDATA[World Cup leaders Daisy Kudre Schnyder, Estonia and Jørgen Baklid, Norway will face strong competition in the three races comprising the second round, starting on Saturday in Ruhpolding, Germany, a small town in the Alps very close to the border with Austria. Kudre Schnyder is hard-pressed in the World Cup standings by Norway’s Anna Ulvensøen […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[75 organisers and advisers met to improve major IOF events]]></title>
         <id>https://orienteering.sport/?p=75803</id>
