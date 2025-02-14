@@ -263,6 +263,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23027",
+          "author": "vinh",
+          "description": "The next race of the 2024-25 Street-O series is in the Raynes Park/ Wimbledon area. The format is a 1 hour time limit to find [...]",
+          "link": "https://slow.org.uk/streeto/raynes-park-street-o-24/",
+          "publishedOn": "2025-02-13T23:50:48.000Z",
+          "wordCount": 2739,
+          "title": "Raynes Park Street-O, Tuesday 11 March",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/21875/files/Wandsworth_StreetO_2024_1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23020",
           "author": "vinh",
           "description": "London Orienteering Klubb organised a great event in leafy Chalk Farm and Primrose Hill. Results and planner comments are on their website: results. Series results after [...]",
@@ -331,16 +341,6 @@
           "wordCount": 2174,
           "title": "Wimbledon Training Day – 19th January",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=22861",
-          "author": "vinh",
-          "description": "This post will be updated in the upcoming days. There was a great turn out for our first Street-O in the new year. I hope [...]",
-          "link": "https://slow.org.uk/streeto/balham-street-o-24-results/",
-          "publishedOn": "2025-01-15T07:30:00.000Z",
-          "wordCount": 2061,
-          "title": "Balham Street-O Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/balham-street-o-24-results/files/StreetO_Jan2025_1.jpg"
         }
       ]
     },
@@ -915,16 +915,6 @@
           "publishedOn": "2025-01-20T00:55:17.000Z",
           "wordCount": 2345,
           "title": "OA AWARDS FOR COACHING AND EVENT MANAGEMENT – CLOSING DATE FOR NOMINATIONS EXTENDED",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=12493",
-          "author": "elizabethl",
-          "description": "Congratulations to the Australian athletes chosen for the AUZ/NZ Challenge at Oceania 2025!\nAustralian Team Gearing up for the AUS/NZ Challenge at Oceania 2025 first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/australian-team-announced-for-the-aus-nz-challenge-at-oceania-2025/",
-          "publishedOn": "2025-01-15T09:45:00.000Z",
-          "wordCount": 2456,
-          "title": "Australian Team Gearing up for the AUS/NZ Challenge at Oceania 2025",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
