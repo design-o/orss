@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T06:12:15.645Z</updated>
+    <updated>2025-02-14T12:15:36.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -875,27 +875,6 @@ The post NI Orienteering AGM and Prizegiving appeared first on NI Orienteering A
         <summary type="html"><![CDATA[The IOF Ski Orienteering World Cup 2024-2025 and U23 World Cup got off to a great start with three races in Sjusjøen, Norway this past weekend. And it is well-known athlete names who are placed at the top of the World Cup standings after the first of three rounds of the international ski season. The […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Orienteering 101 | Geauga County | Saturday, February 8, 2025]]></title>
-        <id>https://neooc.com/?p=48109</id>
-        <link href="https://neooc.com/new-event-orienteering-101-geauga-county-saturday-february-8-2025/"/>
-        <updated>2025-01-15T22:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering 101 | Geauga County | Saturday, February 8, 2025]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increased entry numbers for Taitonga SI Champs at Waikaia!]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61434</id>
-        <link href="https://www.orienteering.org.nz/news/increased-entry-numbers-for-taitonga-si-champs-at-waikaia/"/>
-        <updated>2025-01-15T20:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Great News Everyone! We have increased entry numbers for Taitonga SI Champs at Waikaia! If you’ve been dithering as to whether or not you head to Waikaia in February and then found the limit has been reached, relax! Entries still close at midnight on Sunday 19th January but the limit is now 250 competitors per […]
-Increased entry numbers for Taitonga SI Champs at Waikaia! first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
