@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T18:11:24.998Z</updated>
+    <updated>2025-02-15T00:40:34.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -865,16 +865,6 @@ The post NI Orienteering AGM and Prizegiving appeared first on NI Orienteering A
         <summary type="html"><![CDATA[Free training session open to all levels of orienteers.  There will be no ranking there, the only purpose of the event is to help everyone [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup: Kudre-Schnyder and Baklid lead after Norway]]></title>
-        <id>https://orienteering.sport/?p=75474</id>
-        <link href="https://orienteering.sport/skio-world-cup-kudre-schnyder-and-baklid-lead-after-norway/"/>
-        <updated>2025-01-16T12:39:57.000Z</updated>
-        <summary type="html"><![CDATA[The IOF Ski Orienteering World Cup 2024-2025 and U23 World Cup got off to a great start with three races in Sjusjøen, Norway this past weekend. And it is well-known athlete names who are placed at the top of the World Cup standings after the first of three rounds of the international ski season. The […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
