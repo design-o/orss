@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T00:40:34.782Z</updated>
+    <updated>2025-02-15T06:11:25.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -845,26 +845,6 @@ The post NI Orienteering AGM and Prizegiving appeared first on NI Orienteering A
         <summary type="html"><![CDATA[Ski Orienteering will be in great company in the coming days when the discipline is part of the FISU Winter World University Games, taking place in and around Turin, Italy. More than 2,000 athletes from 54 nations are participating in the games, which feature 11 different winter sports disciplines. Ski Orienteering was previously part of […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box Hill Final Details]]></title>
-        <id>https://slow.org.uk/?p=22891</id>
-        <link href="https://slow.org.uk/events/box-hill-details-2025/"/>
-        <updated>2025-01-16T13:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Competitors should have received the following email on Thursday morning: Congratulations on having secured a place in the 43rd edition of the Box Hill Fell [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon Training Day – 19th January]]></title>
-        <id>https://slow.org.uk/?p=22887</id>
-        <link href="https://slow.org.uk/clubnews/wimbledon-training-jan25/"/>
-        <updated>2025-01-16T12:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Free training session open to all levels of orienteers.  There will be no ranking there, the only purpose of the event is to help everyone [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
