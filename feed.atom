@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T18:09:54.529Z</updated>
+    <updated>2025-02-16T00:44:53.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Donard High Start]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6367</id>
+        <link href="https://www.niorienteering.org.uk/donard-high-start/"/>
+        <updated>2025-02-15T22:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Wasn’t it good to be orienteering in a forest! Thanks to the team of planner George Savell, organiser Kieran Rocks and controller Geoffrey Collins for an engaging 2025 NI Score Champs. With a start for seniors 50m higher than the finish the challege was to...
+The post Donard High Start appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SkiO World Cup round 2: Favourites win Sprint]]></title>
         <id>https://orienteering.sport/?p=75826</id>
