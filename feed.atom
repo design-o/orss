@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T12:16:30.271Z</updated>
+    <updated>2025-02-16T18:10:15.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SkiO Middle Distance wins for Olsson and Baklid]]></title>
+        <id>https://orienteering.sport/?p=75841</id>
+        <link href="https://orienteering.sport/skio-middle-distance-wins-for-olsson-and-baklid/"/>
+        <updated>2025-02-16T16:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Magdalena Olsson, Sweden returned to winning ways today, finishing 1 minute quicker than her compatriot Frida Sandberg. Men’s World Cup leader, Norwegian Jørgen Baklid, lost time early in the men’s race but came back strongly to win by 20 seconds. Frida Sandberg, Sweden was the fastest in the early stages of the women’s race, with […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donard High Start]]></title>
         <id>https://www.niorienteering.org.uk/?p=6367</id>
