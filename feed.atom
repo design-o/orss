@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T18:10:15.640Z</updated>
+    <updated>2025-02-17T00:43:24.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -866,17 +866,6 @@ OA AWARDS FOR COACHING AND EVENT MANAGEMENT – CLOSING DATE FOR NOMINATIONS EXT
         <summary type="html"><![CDATA[Unfortunately we had a problem with direction arrows being maliciously turned the wrong way after the second road crossing. If you were affected we hope [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Orienteering AGM and Prizegiving]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6269</id>
-        <link href="https://www.niorienteering.org.uk/ni-orienteering-agm-and-prizegiving/"/>
-        <updated>2025-01-18T11:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Notice is given of the 2025 Annual General Meeting of NI Orienteering to be held in the Kilmeggan Centre, 91 Main St, Castlewellan BT31 9DH on Saturday 14 February at 16:00. This meeting will be held between the NI Score Championships at Donard Forest and...
-The post NI Orienteering AGM and Prizegiving appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
