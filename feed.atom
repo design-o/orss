@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T06:13:03.034Z</updated>
+    <updated>2025-02-17T12:16:35.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: Olsson and Riisanen win Mass Start races]]></title>
+        <id>https://orienteering.sport/?p=75851</id>
+        <link href="https://orienteering.sport/skio-world-cup-olsson-and-riisanen-win-mass-start-races/"/>
+        <updated>2025-02-17T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A convincing win for Magdalena Olsson, Sweden by 1.52 and a tight 3-second victory for Finn Pyry Riisanen were the outcomes of today’s Mass Start races, the final day of the second round of the 2025 SkiO World Cup, held at Reit im Winkl in the German Alps. The races consisted of three loops, with […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SkiO Middle Distance wins for Olsson and Baklid]]></title>
         <id>https://orienteering.sport/?p=75841</id>
@@ -856,16 +866,6 @@ OA AWARDS FOR COACHING AND EVENT MANAGEMENT – CLOSING DATE FOR NOMINATIONS EXT
         <summary type="html"><![CDATA[The first Ski Orienteering gold medals at the 2025 FISU World University Games in Turin, Italy went to Amanda Yli Futka (FIN) and Teodor Mo Hjelseth (NOR) after Sunday’s sprint. Here, newly crowned U23 World Champion Hjelseth took a narrow win, just two seconds ahead of Sweden’s Jonatan Ståhl, who showed great form in last […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box Hill Results 2025]]></title>
-        <id>https://slow.org.uk/?p=22916</id>
-        <link href="https://slow.org.uk/racereports/box-hill-results-2025/"/>
-        <updated>2025-01-18T21:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Unfortunately we had a problem with direction arrows being maliciously turned the wrong way after the second road crossing. If you were affected we hope [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
