@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T12:16:24.274Z</updated>
+    <updated>2025-02-18T18:12:22.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The SOA Development Officers]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55044</id>
+        <link href="https://www.scottish-orienteering.org/news/the-soa-development-officers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-soa-development-officers"/>
+        <updated>2025-02-18T16:48:36.000Z</updated>
+        <summary type="html"><![CDATA[As you are aware the SOA has opted to move from three regional development officers to two development officers with […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup: Olsson and Baklid head standings after second round]]></title>
+        <id>https://orienteering.sport/?p=75868</id>
+        <link href="https://orienteering.sport/skio-world-cup-olsson-and-baklid-head-standings-after-second-round/"/>
+        <updated>2025-02-18T16:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Magdalena Olsson, Sweden leads by 94 points, whilst Norwegian Jørgen Baklid is 158 points in front after winning 5 of the 6 races held. Olsson won the World Cup overall last year – and Baklid has achieved this feat for the last three years! With 3 races to come in this year’s World Cup, the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swiss National broadcaster SRG acquires TV rights for WOC until 2028]]></title>
         <id>https://orienteering.sport/?p=75818</id>
@@ -836,36 +856,6 @@ The post Controller Update Webinar appeared first on NI Orienteering Association
         <updated>2025-01-20T06:46:07.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Orienteer at Princes Park, Feb 1-15]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14362</id>
-        <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-at-princes-park-feb-1-15/"/>
-        <updated>2025-01-20T03:57:02.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OA AWARDS FOR COACHING AND EVENT MANAGEMENT – CLOSING DATE FOR NOMINATIONS EXTENDED]]></title>
-        <id>https://orienteering.asn.au/?p=13023</id>
-        <link href="https://orienteering.asn.au/oa-awards-for-coaching-and-event-management-closing-date-for-nominations-extended/"/>
-        <updated>2025-01-20T00:55:17.000Z</updated>
-        <summary type="html"><![CDATA[As no nominations were received by the closing date of 14 January, the closing date fornominations for the Silva Award for Services to Coaching and the David Hogg Medal forServices to Event Management has been extended to 10 February 2025.Can you think of anyone who has given exceptional service in either of these areas, eitherrecently […]
-OA AWARDS FOR COACHING AND EVENT MANAGEMENT – CLOSING DATE FOR NOMINATIONS EXTENDED first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>arpadk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering is one of the top 5 hobbies to pick up this year]]></title>
-        <id>https://www.orienteering.org.nz/?p=61480</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/orienteering-is-one-of-the-top-5-hobbies-to-pick-up-this-year/"/>
-        <updated>2025-01-20T00:31:57.000Z</updated>
-        <summary type="html"><![CDATA[As quoted in the Dominion Post and The Press papers last weekend, Orienteering is number 5 in the article titled “The top 5 hobbies to pick up this year.” It states that orienteering is “It’s tramping, it’s problem solving, it’s a bit like a treasure hunt with no treasure. Count us in” . Actually orienteers]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
