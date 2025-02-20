@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T00:41:32.336Z</updated>
+    <updated>2025-02-20T06:12:36.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bridget Uppill joins Orienteering Australia to expand KID-O]]></title>
+        <id>https://orienteering.asn.au/?p=13284</id>
+        <link href="https://orienteering.asn.au/bridget-uppill-joins-orienteering-australia-to-expand-kid-o/"/>
+        <updated>2025-02-20T03:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Bridget Uppill has joined Orienteering Australia to spearhead the expansion of the innovative KID-O program, which introduces orienteering to young children across Australia.
+Bridget Uppill joins Orienteering Australia to expand KID-O first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOA Development Fund 2025 – Applications are now open!]]></title>
         <id>https://www.scottish-orienteering.org/?p=55064</id>
