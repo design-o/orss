@@ -144,16 +144,6 @@
           "wordCount": 2192,
           "title": "Oceania Championships 2025 begin in New Zealand on Friday",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/logotype-white-shadow-retina.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=75562",
-          "author": "Erling Thisted",
-          "description": "Finland’s relay team with Amanda Yli Futka and Niklas Ekström took a narrow win ahead of Sweden and Switzerland in an ever-changing Sprint Relay on Tuesday at FISU World University Games in Italy. 21 teams on the start line in Pragelato Tuesday afternoon. All photos: Torino 2025 FISU Games Four different teams had the lead […]",
-          "link": "https://orienteering.sport/finland-won-entertaining-sprint-relay-at-fisu-university-games/",
-          "publishedOn": "2025-01-21T20:29:20.000Z",
-          "wordCount": 2122,
-          "title": "Finland won entertaining Sprint Relay at FISU University Games",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2025_fisu_wug_sprintrelay1-1024x683.jpg"
         }
       ]
     },
@@ -235,6 +225,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=20589",
+          "author": "Operations Manager",
+          "description": "Roisín Hickey has joined our team as our new RDO for the Greater Dublin area. Roisín has spent over ten years as Cycling Ireland’s (CI) Coach Education & Development Administrator, and has also coordinated programmes and events for CI across the country. For over ten years, Roisín has also developed and delivered programmes to promote cycling […]",
+          "link": "https://www.orienteering.ie/meet-our-new-rdo/",
+          "publishedOn": "2025-02-20T11:52:24.000Z",
+          "wordCount": 860,
+          "title": "Meet our new RDO",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=20525",
           "author": "Deirdre",
