@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T12:14:05.070Z</updated>
+    <updated>2025-02-23T18:10:28.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries for Learmount Closing]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6382</id>
+        <link href="https://www.niorienteering.org.uk/entries-for-learmount-closing/"/>
+        <updated>2025-02-23T15:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Entries for the NI Colour Series 1 at Learmount Forest at Park, near Claudy/Dungiven on Saturday 1 March close this evening (Sunday 23rd February 2025) at 21:30. All the details are on the North West Orienteering Club website with entries on SI Entries. Be sure...
+The post Entries for Learmount Closing appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embargoed areas – Pokapu Champs 2025]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62100</id>
@@ -795,17 +806,6 @@ Repeat victories for Ingham and Fa’avae at the Oceania Long Distance first app
 Middle Distance Sand Dune Champions Crowned – Wins for Ingham and Fa’avae first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, January 29 to February 4]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-01-25T01:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to 2025!  This week features a huge six events, including a new map, some great bushland, a former Champs map, and a double header of seaside action
-Park Street Update, January 29 to February 4 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
