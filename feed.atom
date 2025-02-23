@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T18:09:59.138Z</updated>
+    <updated>2025-02-23T00:44:36.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -795,17 +795,6 @@ Middle Distance Sand Dune Champions Crowned – Wins for Ingham and Fa’avae fi
 Park Street Update, January 29 to February 4 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast, Fierce, and Focused: Sprint orienteering results are in!]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61639</id>
-        <link href="https://www.orienteering.org.nz/news/fast-fierce-and-focused-sprint-orienteering-results-are-in/"/>
-        <updated>2025-01-24T08:46:21.000Z</updated>
-        <summary type="html"><![CDATA[A great start to the Oceania Championships 2025 with a sunny sprint through the Massey University campus. Multiple route choice legs challenged competitors to switch between high-speed running and precise navigation. Joseph Lynch, from New Zealand, showed the sprint prowess that earned him 7th place at last year’s World Championships in Scotland, securing a commanding […]
-Fast, Fierce, and Focused: Sprint orienteering results are in! first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
