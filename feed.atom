@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T00:44:36.416Z</updated>
+    <updated>2025-02-23T06:11:10.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Embargoed areas – Pokapu Champs 2025]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62100</id>
+        <link href="https://www.orienteering.org.nz/news/embargoed-areas-pokapu-champs-2025/"/>
+        <updated>2025-02-23T05:50:39.000Z</updated>
+        <summary type="html"><![CDATA[As venues for the Pokapu Champs 2025, the following areas are embargoed from today, February 23rd, until the day of the appropriate race at Labour Weekend, October 25-27 2025. Santoft Forest (1) The area south-eastward from Turakina Beach, bounded by farmland to the north and east, by Whitehead Road to the south and by the […]
+Embargoed areas – Pokapu Champs 2025 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Malcolm Ingham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet our new RDO]]></title>
         <id>https://www.orienteering.ie/?p=20589</id>
