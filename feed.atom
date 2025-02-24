@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T00:43:09.356Z</updated>
+    <updated>2025-02-24T06:13:31.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Provisional JWOC & EYOC Teams announced]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62131</id>
+        <link href="https://www.orienteering.org.nz/news/2025-provisional-jwoc-eyoc-teams-announced/"/>
+        <updated>2025-02-24T06:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Thank you to everyone for your patience. We know there were a number of families wanting to purchase flights but in the efforts of getting things correct, and against the backdrop of last year’s appeal, ONZ’s Executive Committee sort additional information from the convenor of selectors before teams were named. At the bottom of this […]
+2025 Provisional JWOC & EYOC Teams announced first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries for Learmount Closing]]></title>
         <id>https://www.niorienteering.org.uk/?p=6382</id>
