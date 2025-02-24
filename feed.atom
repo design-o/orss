@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T12:16:45.385Z</updated>
+    <updated>2025-02-24T18:12:27.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TAY pull out the stops for the CompassSport qualifier]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55075</id>
+        <link href="https://www.scottish-orienteering.org/news/tay-pull-out-the-stops-for-the-compasssport-qualifier/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tay-pull-out-the-stops-for-the-compasssport-qualifier"/>
+        <updated>2025-02-24T12:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Well February is always a bit of a mixed bag when it comes to weather and this year’s CompassSport Cup/ […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Provisional JWOC & EYOC Teams announced]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62131</id>
