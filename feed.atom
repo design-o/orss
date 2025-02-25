@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T18:12:27.969Z</updated>
+    <updated>2025-02-25T00:42:22.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -804,17 +804,6 @@ BikeO-75 Summer Series and Vic MTBO Champs – Entries Open first appeared on Or
         <summary type="html"><![CDATA[A big thank you to everyone who participated in our first monthly online Community Conversation of the year, held earlier […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repeat victories for Ingham and Fa’avae at the Oceania Long Distance]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61658</id>
-        <link href="https://www.orienteering.org.nz/news/repeat-victories-for-ingham-and-faavae-at-the-oceania-long-distance/"/>
-        <updated>2025-01-26T10:14:50.000Z</updated>
-        <summary type="html"><![CDATA[New Zealanders, Lizzie Ingham and Zefa Fa’avae were both too strong for their opposition today, powering their ways to repeat victories, each with around a minute and a half gap to second place. Challenging courses set by former world champion, Yvette Baker required accurate compass and speed variation to find the controls in the intricate […]
-Repeat victories for Ingham and Fa’avae at the Oceania Long Distance first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
