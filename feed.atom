@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T06:12:38.717Z</updated>
+    <updated>2025-02-25T12:16:48.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OA Brings Full Livelox Access to All Members]]></title>
+        <id>https://orienteering.asn.au/?p=13324</id>
+        <link href="https://orienteering.asn.au/oa-brings-full-livelox-access-to-all-members/"/>
+        <updated>2025-02-25T09:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is excited to announce the purchase of a full subscription to Livelox, giving all members free access to the complete range of features!
+OA Brings Full Livelox Access to All Members  first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double Header Bush Weekend, March 8 and 9]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14456</id>
+        <link href="https://www.vicorienteering.asn.au/double-header-bush-weekend-march-8-and-9/"/>
+        <updated>2025-02-25T07:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy a double header of classic Victorian forest terrain over the March long weekend. Entries are now open!
+Double Header Bush Weekend, March 8 and 9 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First MelbushO for 2025 at Darebin Parklands, Sunday March 16]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14453</id>
+        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
+        <updated>2025-02-25T07:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the first MelbushO for the year at Darebin Parklands - entries now open
+First MelbushO for 2025 at Darebin Parklands, Sunday March 16 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TAY pull out the stops for the CompassSport qualifier]]></title>
         <id>https://www.scottish-orienteering.org/?p=55075</id>
@@ -119,6 +152,15 @@ The post Learmount is Still Standing appeared first on NI Orienteering Associati
         <summary type="html"><![CDATA[Magdalena Olsson, Sweden leads by 94 points, whilst Norwegian Jørgen Baklid is 158 points in front after winning 5 of the 6 races held. Olsson won the World Cup overall last year – and Baklid has achieved this feat for the last three years! With 3 races to come in this year’s World Cup, the […]]]></summary>
         <author>
             <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bush Training Day at Chewton, Saturday March 22]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14459</id>
+        <link href="https://www.vicorienteering.asn.au/bush-training-day-at-chewton-saturday-march-22/"/>
+        <updated>2025-02-18T07:48:56.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

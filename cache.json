@@ -139,6 +139,36 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14456",
+          "author": "Debbie Dodd",
+          "description": "Enjoy a double header of classic Victorian forest terrain over the March long weekend. Entries are now open!\nDouble Header Bush Weekend, March 8 and 9 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/double-header-bush-weekend-march-8-and-9/",
+          "publishedOn": "2025-02-25T07:45:51.000Z",
+          "wordCount": 1040,
+          "title": "Double Header Bush Weekend, March 8 and 9",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14453",
+          "author": "Debbie Dodd",
+          "description": "Enjoy the first MelbushO for the year at Darebin Parklands - entries now open\nFirst MelbushO for 2025 at Darebin Parklands, Sunday March 16 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
+          "publishedOn": "2025-02-25T07:28:52.000Z",
+          "wordCount": 1051,
+          "title": "First MelbushO for 2025 at Darebin Parklands, Sunday March 16",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14459",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bush-training-day-at-chewton-saturday-march-22/",
+          "publishedOn": "2025-02-18T07:48:56.000Z",
+          "wordCount": 1115,
+          "title": "Bush Training Day at Chewton, Saturday March 22",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
           "description": "",
@@ -747,6 +777,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13324",
+          "author": "danielstott",
+          "description": "Orienteering Australia is excited to announce the purchase of a full subscription to Livelox, giving all members free access to the complete range of features!\nOA Brings Full Livelox Access to All Members  first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/oa-brings-full-livelox-access-to-all-members/",
+          "publishedOn": "2025-02-25T09:52:31.000Z",
+          "wordCount": 2457,
+          "title": "OA Brings Full Livelox Access to All Members",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=13284",
           "author": "danielstott",
