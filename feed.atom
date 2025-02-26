@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T06:13:04.631Z</updated>
+    <updated>2025-02-26T12:16:42.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Embargoed areas – 2026 Kings Birthday]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62144</id>
+        <link href="https://www.orienteering.org.nz/news/embargoed-areas-2026-kings-birthday/"/>
+        <updated>2025-02-26T09:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Please take note of the out-of-bounds areas reserved for competition for the 2026 Kings Birthday Championships (incorporating the Auckland Triple Crown Championships) This is a multi-day event held from 30th May to the 1st Jun 2026. This will be a cumulative time event over the 3 days in the same format as the Auckland Triple Crown in […]
+Embargoed areas – 2026 Kings Birthday first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWOC Team finalised, EYOC team still provisional]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62142</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-team-finalised-eyoc-team-still-provisional/"/>
+        <updated>2025-02-26T09:09:15.000Z</updated>
+        <summary type="html"><![CDATA[JWOC 2025 ONZ is pleased to finalise the JWOC Team: The Orienteering New Zealand Senior Selection Panel has named the following team to attend the Junior World Orienteering Championships (JWOC) in Trentino, Italy 26th June – 3rd July. Men Sam Carryer (Auckland) Riley Croxford (Tasman) Felix Hunt (Canterbury) Jacob Knoef (Canterbury) Jake McLellan (Wellington) Eddie Swain (Tasman) […]
+JWOC Team finalised, EYOC team still provisional first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OA Brings Full Livelox Access to All Members]]></title>
         <id>https://orienteering.asn.au/?p=13324</id>
