@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T00:41:56.842Z</updated>
+    <updated>2025-02-26T06:13:04.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -24,6 +24,17 @@ OA Brings Full Livelox Access to All Members  first appeared on Orienteering Au
         <updated>2025-02-25T07:45:51.000Z</updated>
         <summary type="html"><![CDATA[Enjoy a double header of classic Victorian forest terrain over the March long weekend. Entries are now open!
 Double Header Bush Weekend, March 8 and 9 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BikeO-75 Summer Series at Silvan, and Vic MTBO Champs – Entries Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14351</id>
+        <link href="https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/"/>
+        <updated>2025-02-25T07:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy fantastic riding amongst the towering timbers of Silvan, on Saturday 1st March!
+BikeO-75 Summer Series at Silvan, and Vic MTBO Champs – Entries Open first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
@@ -793,26 +804,6 @@ New Zealand dominate Oceania Relays first appeared on Orienteering New Zealand.]
         <link href="https://orienteering.sport/portugal-to-host-forest-eoc-in-2028/"/>
         <updated>2025-01-28T08:00:03.000Z</updated>
         <summary type="html"><![CDATA[The world’s best orienteers may well start preparing for Iberian terrains for 2028 as the European Orienteering Championships will be held in Portugal. EOC will at the same time serve as the final in the 2028 World Cup. This was decided by IOF’s Council at its meeting on October 4, 2024 following a proposal from […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Zealand continues golden course at Oceania Championships]]></title>
-        <id>https://orienteering.sport/?p=75614</id>
-        <link href="https://orienteering.sport/new-zealand-continues-golden-course-at-oceania-championships/"/>
-        <updated>2025-01-27T14:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The athletes at the 2025 Oceania Orienteering Championships continued their fight for medals in the coastal terrains of New Zealand’s lower North Island on Sunday and Monday. Compared to Saturday’s hot middle distance, the temperatures were more pleasant on Sunday when the long distance was to be decided in rain. And like the previous days, […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidelines and checklists for organising sustainable events available]]></title>
-        <id>https://orienteering.sport/?p=75606</id>
-        <link href="https://orienteering.sport/guidelines-and-checklists-for-organising-sustainable-events-available/"/>
-        <updated>2025-01-27T13:24:33.000Z</updated>
-        <summary type="html"><![CDATA[What should you consider in relation to e.g. Animals, Catering and Emissions when organising a sustainable orienteering event? A new set of guidelines and checklists, available on orienteering.sport, can help answer this question. The IOF’s Environment and Sustainability Commission has created the tools, which consist of eight digital booklets and are available here (lower section). […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
