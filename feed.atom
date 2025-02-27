@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T18:12:23.066Z</updated>
+    <updated>2025-02-27T00:42:03.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -806,38 +806,6 @@ The post Donard is GO, AGM is GO, Castlewellan is NO appeared first on NI Orient
         <summary type="html"><![CDATA[Entries will open at SIEntries in a couple of weeks. The fourth and final race of South London Orienteers’ 2024-2025 Night series takes place on Sheen Common [...]]]></summary>
         <author>
             <name>Matthias Mahr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Score and Night Championships]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6282</id>
-        <link href="https://www.niorienteering.org.uk/score-and-night-championships/"/>
-        <updated>2025-01-28T11:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Please keep the date of Saturday 15 February in your diary for the NI Score Championships and Night Championships with the NI Orienteering AGM in between. The events are scheduled for Donard Forest and Castlewellan Forest Park, however the areas are still to be assessed...
-The post Score and Night Championships appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Zealand dominate Oceania Relays]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61687</id>
-        <link href="https://www.orienteering.org.nz/news/new-zealand-dominate-oceania-relays/"/>
-        <updated>2025-01-28T09:02:46.000Z</updated>
-        <summary type="html"><![CDATA[The Oceania Championships concluded with the relay events, set in some of the most intricate and challenging terrain of the weekend. Multi-Oceania champion Lizzie Ingham, serving as the course planner, delivered a demanding finale where almost no competitor escaped without a mistake or two. New Zealand completely dominated the elite grades, securing the gold and […]
-New Zealand dominate Oceania Relays first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portugal to host forest EOC in 2028]]></title>
-        <id>https://orienteering.sport/?p=74903</id>
-        <link href="https://orienteering.sport/portugal-to-host-forest-eoc-in-2028/"/>
-        <updated>2025-01-28T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The world’s best orienteers may well start preparing for Iberian terrains for 2028 as the European Orienteering Championships will be held in Portugal. EOC will at the same time serve as the final in the 2028 World Cup. This was decided by IOF’s Council at its meeting on October 4, 2024 following a proposal from […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
