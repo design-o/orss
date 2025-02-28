@@ -196,6 +196,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20610",
+          "author": "Operations Manager",
+          "description": "",
+          "link": "https://www.orienteering.ie/nominations-for-mac-tire-award/",
+          "publishedOn": "2025-02-28T12:14:09.000Z",
+          "wordCount": 958,
+          "title": "Nominations for Mac Tíre Award",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20589",
           "author": "Operations Manager",
           "description": "Roisín Hickey has joined our team as our new RDO for the Greater Dublin area. Roisín has spent over ten years as Cycling Ireland’s (CI) Coach Education & Development Administrator, and has also coordinated programmes and events for CI across the country. For over ten years, Roisín has also developed and delivered programmes to promote cycling […]",
@@ -259,6 +269,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=62173",
+          "author": "Christo Peters",
+          "description": "In accordance with the Orienteering New Zealand Constitution, ONZ wishes to advise members of the following dates: Mon 17th March – Final day for AGM Items of business to be given to the General Manager  Mon 31 March – AGM Agenda and Agenda Items circulated to clubs Wed 30 April – ONZ Annual General Meeting will take […]\n2025 Orienteering New Zealand Annual General Meeting (AGM) first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2025-orienteering-new-zealand-annual-general-meeting-agm/",
+          "publishedOn": "2025-02-28T08:45:56.000Z",
+          "wordCount": 2573,
+          "title": "2025 Orienteering New Zealand Annual General Meeting (AGM)",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/02/2025-AGM-Logo.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=62144",
           "author": "Christo Peters",
@@ -543,6 +563,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55094",
+          "author": "louise",
+          "description": "The third installment of the 2025 Community Conversation programme is on Monday 3rd March at 1930 and you can now […]",
+          "link": "https://www.scottish-orienteering.org/news/march-community-conversation-development-for-progression-and-retention/?utm_source=rss&utm_medium=rss&utm_campaign=march-community-conversation-development-for-progression-and-retention",
+          "publishedOn": "2025-02-28T11:08:54.000Z",
+          "wordCount": 1670,
+          "title": "March Community Conversation – Development for Progression and Retention",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/Monday-3rd-March-1-1024x1024.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55088",
           "author": "louise",
