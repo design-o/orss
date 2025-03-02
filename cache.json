@@ -270,6 +270,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=62177",
+          "author": "Joolz",
+          "description": "The embargo for the National Sprint League Knock Out event has been released and is effective as of 02/03/2025. The following areas are embargoed:• University of Lincoln• University of Canterbury Dovedale Campus• University of Canterbury HallsDetailed areas can be viewed on Google Maps on the programme page of the Nationals website linked below.The use of orienteering maps and […]\nKnock Out embargo for Nationals follow-on event first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/knock-out-embargo-for-nationals-follow-on-event/",
+          "publishedOn": "2025-03-02T00:38:57.000Z",
+          "wordCount": 2598,
+          "title": "Knock Out embargo for Nationals follow-on event",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/03/All-3-Knock-out-embargoes.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=62173",
           "author": "Christo Peters",
           "description": "In accordance with the Orienteering New Zealand Constitution, ONZ wishes to advise members of the following dates: Mon 17th March – Final day for AGM Items of business to be given to the General Manager  Mon 31 March – AGM Agenda and Agenda Items circulated to clubs Wed 30 April – ONZ Annual General Meeting will take […]\n2025 Orienteering New Zealand Annual General Meeting (AGM) first appeared on Orienteering New Zealand.",
@@ -739,16 +749,6 @@
           "wordCount": 4337,
           "title": "Controllers Webinar Tuesday 4 February",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/01/A-controller.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6285",
-          "author": "NIOA Secretary",
-          "description": "As promised we are able to update on implications for the NI Score and Night Championships following Storm Éowyn. Remarkably Donard Forest, the venue for the Score Champs has escaped relatively unscathed, largely due to the shelter provided by Slieve Donard. However Castlewellan Forest Park...\nThe post Donard is GO, AGM is GO, Castlewellan is NO appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/donard-is-go-agm-is-go-castlewellan-is-no/",
-          "publishedOn": "2025-01-31T11:27:34.000Z",
-          "wordCount": 4463,
-          "title": "Donard is GO, AGM is GO, Castlewellan is NO",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/01/NI-Score-Champs-Feb25-Ad.png"
         }
       ]
     },
