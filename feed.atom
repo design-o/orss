@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T12:13:56.779Z</updated>
+    <updated>2025-03-02T18:10:33.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learmount is Rescued]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6393</id>
+        <link href="https://www.niorienteering.org.uk/learmount-is-rescued/"/>
+        <updated>2025-03-02T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to North West Orienteering Club and in particular planner Charlie Reid, controller Ruth Blair and organiser Rachel Reid for rescuring the first Colour Series of 2025 at Learmount Forest. Following the devistation of Storm Eowyn, courses were redesigned to avoid the most damaged area...
+The post Learmount is Rescued appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organisers’ workshops]]></title>
         <id>https://www.scottish-orienteering.org/?p=55099</id>
