@@ -778,6 +778,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=13302",
+          "author": "elizabethl",
+          "description": "Read the March edition of The Australian Orienteer, available online now. The magazine features reports about local and international orienteering events so there should be something of interest to everyone.\nThe Australian Orienteer: March Edition Now Online first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/the-australian-orienteer-march-edition-now-online/",
+          "publishedOn": "2025-03-02T08:00:00.000Z",
+          "wordCount": 2210,
+          "title": "The Australian Orienteer: March Edition Now Online",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=13324",
           "author": "danielstott",
           "description": "Orienteering Australia is excited to announce the purchase of a full subscription to Livelox, giving all members free access to the complete range of features!\nOA Brings Full Livelox Access to All Members  first appeared on Orienteering Australia.",
@@ -835,16 +845,6 @@
           "publishedOn": "2025-02-03T11:06:13.000Z",
           "wordCount": 5356,
           "title": "Oceania Championships 2025 Results and Recap",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=13103",
-          "author": "elizabethl",
-          "description": "Biographies of the first Australian Orienteering Team, 1971, created to take on New Zealand.\nThe First Australian Orienteering Team (1971) first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/the-first-australian-orienteering-team-1971/",
-          "publishedOn": "2025-02-01T08:00:00.000Z",
-          "wordCount": 2701,
-          "title": "The First Australian Orienteering Team (1971)",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]

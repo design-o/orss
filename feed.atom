@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T18:10:33.465Z</updated>
+    <updated>2025-03-03T00:44:14.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -35,6 +35,17 @@ The post Learmount is Rescued appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[IOF’s Environment and Sustainability Commission has published the “Climate Transition Action Plan to Net Zero.” The plan was approved and adopted by the IOF Council during its meetings in January. The plan reviews IOF’s commitment to reducing greenhouse gas emissions and promoting environmental sustainability within the sport of orienteering. In line with the Sports for […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Australian Orienteer: March Edition Now Online]]></title>
+        <id>https://orienteering.asn.au/?p=13302</id>
+        <link href="https://orienteering.asn.au/the-australian-orienteer-march-edition-now-online/"/>
+        <updated>2025-03-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the March edition of The Australian Orienteer, available online now. The magazine features reports about local and international orienteering events so there should be something of interest to everyone.
+The Australian Orienteer: March Edition Now Online first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
         </author>
     </entry>
     <entry>
@@ -815,17 +826,6 @@ Learn to Orienteer at Princes Park, Feb 1-15 first appeared on Orienteering Vict
         <updated>2025-02-02T08:05:10.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The First Australian Orienteering Team (1971)]]></title>
-        <id>https://orienteering.asn.au/?p=13103</id>
-        <link href="https://orienteering.asn.au/the-first-australian-orienteering-team-1971/"/>
-        <updated>2025-02-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Biographies of the first Australian Orienteering Team, 1971, created to take on New Zealand.
-The First Australian Orienteering Team (1971) first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
