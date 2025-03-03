@@ -564,6 +564,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=55104",
+          "author": "suzannerb",
+          "description": "It’s that time when British Orienteering recognise the contribution that all our wonderful volunteers have made to the sport during […]",
+          "link": "https://www.scottish-orienteering.org/news/bof-club-coach-and-volunteer-awards-2024/?utm_source=rss&utm_medium=rss&utm_campaign=bof-club-coach-and-volunteer-awards-2024",
+          "publishedOn": "2025-03-03T12:09:30.000Z",
+          "wordCount": 1628,
+          "title": "BOF Club, Coach and Volunteer Awards 2024",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/03/organising.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=55099",
           "author": "suzannerb",
           "description": "Organising seems to strike fear into the hearts of the most stout orienteers but is an essential job for all […]",
@@ -777,6 +787,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13417",
+          "author": "elizabethl",
+          "description": "Eventor will be offline at 23:00AEDT for approximately 2 hours on Wednesday 5 March due to a server update.\nEventor Australia Server Switch – Eventor Offline Notification first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/eventor-australia-server-switch-eventor-offline-notification/",
+          "publishedOn": "2025-03-03T09:59:05.000Z",
+          "wordCount": 2326,
+          "title": "Eventor Australia Server Switch – Eventor Offline Notification",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=13302",
           "author": "elizabethl",

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-03T06:13:38.303Z</updated>
+    <updated>2025-03-03T12:17:04.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BOF Club, Coach and Volunteer Awards 2024]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55104</id>
+        <link href="https://www.scottish-orienteering.org/news/bof-club-coach-and-volunteer-awards-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bof-club-coach-and-volunteer-awards-2024"/>
+        <updated>2025-03-03T12:09:30.000Z</updated>
+        <summary type="html"><![CDATA[It’s that time when British Orienteering recognise the contribution that all our wonderful volunteers have made to the sport during […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eventor Australia Server Switch – Eventor Offline Notification]]></title>
+        <id>https://orienteering.asn.au/?p=13417</id>
+        <link href="https://orienteering.asn.au/eventor-australia-server-switch-eventor-offline-notification/"/>
+        <updated>2025-03-03T09:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Eventor will be offline at 23:00AEDT for approximately 2 hours on Wednesday 5 March due to a server update.
+Eventor Australia Server Switch – Eventor Offline Notification first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learmount is Rescued]]></title>
         <id>https://www.niorienteering.org.uk/?p=6393</id>
