@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T00:43:00.972Z</updated>
+    <updated>2025-03-04T06:12:43.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -279,6 +279,17 @@ Bridget Uppill joins Orienteering Australia to expand KID-O first appeared on Or
 The post Learmount is Still Standing appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tatterson Tangle, Saturday Evening Sprint, March 22 (new date)]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14402</id>
+        <link href="https://www.vicorienteering.asn.au/tatterson-tangle-saturday-evening-sprint-february-22/"/>
+        <updated>2025-02-19T08:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Due to some extreme weather forecast for the original date, this event has been rescheduled for Saturday 22 March. Same great venue!
+Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
