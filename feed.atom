@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T12:16:28.027Z</updated>
+    <updated>2025-03-04T18:12:19.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -981,28 +981,6 @@ BendiGo ToDay is Back!  February 15-16 first appeared on Orienteering Victoria.]
 Oceania Championships 2025 Results and Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 World Cup Round 1  |  Selection Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61757</id>
-        <link href="https://www.orienteering.org.nz/news/2025-world-cup-round-1-selection-notice/"/>
-        <updated>2025-02-03T04:12:01.000Z</updated>
-        <summary type="html"><![CDATA[The first round of the 2025 IOF World Cup will be held in Idre Fjäll, Sweden from 18-22 June 2025, and will consist of a long distance, middle distance and a relay.  New Zealand is entitled to enter up to 9 men and 9 women. Selection will be based on known form. All athletes interested […]
-2025 World Cup Round 1  |  Selection Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 World Games Selection Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=61753</id>
-        <link href="https://www.orienteering.org.nz/news/2025-world-games-selection/"/>
-        <updated>2025-02-03T04:06:38.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 World Games will be held in Chengdu, China from 8-11 August 2025, and will consist of a middle distance, individual sprint and sprint relay. New Zealand is entitled to enter up to 2 men and 2 women. Selection will be based on known form. All athletes interested in selection for the 2025 World […]
-2025 World Games Selection Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
