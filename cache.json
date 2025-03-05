@@ -196,6 +196,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20615",
+          "author": "Operations Manager",
+          "description": "2025 Senior Squad Selection Policy for WOC (Finland)",
+          "link": "https://www.orienteering.ie/woc-squad-selection-policy/",
+          "publishedOn": "2025-03-05T15:44:56.000Z",
+          "wordCount": 735,
+          "title": "WOC Squad Selection Policy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20610",
           "author": "Operations Manager",
           "description": "",
@@ -655,28 +665,7 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": [
-        {
-          "id": "https://neooc.com/?p=48212",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2025 Girdled Road Score | Lake County | Saturday, April 12, 2025",
-          "link": "https://neooc.com/new-event-2025-girdled-road-score-lake-county-saturday-april-12-2025/",
-          "publishedOn": "2025-02-04T00:39:09.000Z",
-          "wordCount": 1324,
-          "title": "New Event | 2025 Girdled Road Score | Lake County | Saturday, April 12, 2025",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2025/01/Girdled-Road-Banner.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=48209",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Orienteering 101 | Lake County | Saturday, March 22, 2025",
-          "link": "https://neooc.com/new-event-orienteering-101-lake-county-saturday-march-22-2025/",
-          "publishedOn": "2025-02-04T00:33:08.000Z",
-          "wordCount": 1347,
-          "title": "New Event | Orienteering 101 | Lake County | Saturday, March 22, 2025",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2023/08/ld_map-and-compass-1-scaled.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Scottish Orienteering Association",
