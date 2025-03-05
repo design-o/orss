@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T18:12:19.203Z</updated>
+    <updated>2025-03-05T00:42:50.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -960,27 +960,6 @@ BendiGo ToDay is Back!  February 15-16 first appeared on Orienteering Victoria.]
         <summary type="html"><![CDATA[Orienteering 101 | Lake County | Saturday, March 22, 2025]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mentoring Workshops]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54940</id>
-        <link href="https://www.scottish-orienteering.org/news/mentoring-workshops/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mentoring-workshops"/>
-        <updated>2025-02-03T11:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Our wonderful sport relies heavily on volunteers who have built up loads of experience over the years in a multitude […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania Championships 2025 Results and Recap]]></title>
-        <id>https://orienteering.asn.au/?p=13127</id>
-        <link href="https://orienteering.asn.au/oceania-championships-2025-results-and-recap/"/>
-        <updated>2025-02-03T11:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Oceania Orienteering Championships 2025 was held across four days, from 24 - 27 January 2025 in New Zealand. Here is a recap of the days, results and featuring an interview with Brodie Nankervis.
-Oceania Championships 2025 Results and Recap first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
