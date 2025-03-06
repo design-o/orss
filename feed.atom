@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T18:12:44.627Z</updated>
+    <updated>2025-03-06T00:42:59.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sheen Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=23070</id>
+        <link href="https://slow.org.uk/racereports/sheen-results-mar25/"/>
+        <updated>2025-03-05T21:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Provisional series results: Long Champions – Matthias Mahr + Iris Lueke Short Champions [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC Squad Selection Policy]]></title>
         <id>https://www.orienteering.ie/?p=20615</id>
@@ -907,49 +917,6 @@ World Orienteering Week Webinar first appeared on Orienteering Australia.]]></su
 NOMINATIONS FOR EUROPEAN YOUTH ORIENTEERING CHAMPIONSHIPS first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controllers Update Webinar – Tue 4 Feb]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6294</id>
-        <link href="https://www.niorienteering.org.uk/controllers-update-webinar-tue-4-feb/"/>
-        <updated>2025-02-04T11:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Raymond Finlay, FermO, our only Grade A controller will be leading our Controllers Refresher Update, an informal session on Zoom to discuss all things controlling on Tuesday 4 Feb at 7:30pm Those who are licenced controllers or who are working to become a controller have...
-The post Controllers Update Webinar – Tue 4 Feb appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controllers Webinar Tuesday 4 February]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6291</id>
-        <link href="https://www.niorienteering.org.uk/controllers-webinar-tuesday-4-february/"/>
-        <updated>2025-02-04T11:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Raymond Finlay, FermO, our only Grade A controller will be leading our Controllers Refresher Update, an informal session on Zoom to discuss all things controlling on Tuesday 4 Feb at 7:30pm Those who are licenced controllers or who are working to become a controller have...
-The post Controllers Webinar Tuesday 4 February appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweden to host World Cup Round in 2027]]></title>
-        <id>https://orienteering.sport/?p=75697</id>
-        <link href="https://orienteering.sport/sweden-to-host-world-cup-round-in-2027/"/>
-        <updated>2025-02-04T09:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Sweden will also welcome the world’s best orienteers in 2027, where one of the year’s World Cup Rounds will be held in the Hälsingland-region. There will be three forest races: Long, Middle and Relay in the forests around the town of Alfta. The preliminary dates for the races are 3 – 6 June, 2027. “We […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BendiGo ToDay is Back!  February 15-16]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14396</id>
-        <link href="https://www.vicorienteering.asn.au/bendigo-today-is-back-february-15-16/"/>
-        <updated>2025-02-04T08:00:32.000Z</updated>
-        <summary type="html"><![CDATA[The BendiGo ToDay weekend returns for its 18th year!  Get your entry in and enjoy this popular kickstarter to 2025
-BendiGo ToDay is Back!  February 15-16 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
