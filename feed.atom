@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T06:13:23.639Z</updated>
+    <updated>2025-03-07T12:15:55.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ted Lucey RIP]]></title>
+        <id>https://www.orienteering.ie/?p=20636</id>
+        <link href="https://www.orienteering.ie/ted-lucey-rip/"/>
+        <updated>2025-03-07T10:05:05.000Z</updated>
+        <summary type="html"><![CDATA[It is with great sadness that Orienteering Ireland has learned of the passing of Ted Lucey (BOC). Ted, a well known orienteer, made a massive contribution to orienteering in Cork & across Munster over the years. We would like to extend our deepest sympathy to Annemarie, Sharon, Jonathan and all the Lucey family at this […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigation Games | Orienteer-in-Residence Program]]></title>
+        <id>https://www.orienteering.org.nz/?p=62324</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/navigation-games-orienteer-in-residence-program/"/>
+        <updated>2025-03-07T06:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Who is Navigation Games?Navigation Games is a 501(c)3 not-for-profit organization with the mission to develop, share anddeliver navigation education for children, engage families and enable access to the sport oforienteering, and promote public health through outdoor exercise. We believe orienteering is one ofthe best ways to not only encourage map navigation and outdoor physical activity […]
+Navigation Games | Orienteer-in-Residence Program first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do we encourage people to continue orienteering?]]></title>
         <id>https://www.scottish-orienteering.org/?p=55147</id>
@@ -896,16 +917,6 @@ World Orienteering Week Webinar first appeared on Orienteering Australia.]]></su
         <summary type="html"><![CDATA[Cork Orienteering Club are pleased to announce that they will be returning to the Sheep’s Head Peninsula, West Cork, to host the Irish Orienteering Championships on the May Bank Holiday weekend in 2026. In accordance with Orienteering Ireland rules, this area will be embargoed for orienteering and training from now (February 2025) until the end […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Night Championships runners get to eat cake and urban runners storm around Musselburgh]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54947</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-night-championships-entries-get-to-eat-cake-and-urban-runners-storm-around-musselburgh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-night-championships-entries-get-to-eat-cake-and-urban-runners-storm-around-musselburgh"/>
-        <updated>2025-02-05T19:33:47.000Z</updated>
-        <summary type="html"><![CDATA[This year’s Scottish Night Championships gave everyone the opportunity to practise their headtorch orienteering skills prior to the British Night […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>

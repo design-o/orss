@@ -166,6 +166,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20636",
+          "author": "Operations Manager",
+          "description": "It is with great sadness that Orienteering Ireland has learned of the passing of Ted Lucey (BOC). Ted, a well known orienteer, made a massive contribution to orienteering in Cork & across Munster over the years. We would like to extend our deepest sympathy to Annemarie, Sharon, Jonathan and all the Lucey family at this […]",
+          "link": "https://www.orienteering.ie/ted-lucey-rip/",
+          "publishedOn": "2025-03-07T10:05:05.000Z",
+          "wordCount": 790,
+          "title": "Ted Lucey RIP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20615",
           "author": "Operations Manager",
           "description": "2025 Senior Squad Selection Policy for WOC (Finland)",
@@ -259,6 +269,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=62324",
+          "author": "Christo Peters",
+          "description": "Who is Navigation Games?Navigation Games is a 501(c)3 not-for-profit organization with the mission to develop, share anddeliver navigation education for children, engage families and enable access to the sport oforienteering, and promote public health through outdoor exercise. We believe orienteering is one ofthe best ways to not only encourage map navigation and outdoor physical activity […]\nNavigation Games | Orienteer-in-Residence Program first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/uncategorized/navigation-games-orienteer-in-residence-program/",
+          "publishedOn": "2025-03-07T06:52:39.000Z",
+          "wordCount": 3232,
+          "title": "Navigation Games | Orienteer-in-Residence Program",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/03/Screenshot-503.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=62320",
           "author": "Christo Peters",
@@ -761,16 +781,6 @@
           "wordCount": 3875,
           "title": "What works for attracting newcomers to orienteering? Find out what was discussed at our February Community Conversation!",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/AD_4nXeoHNh_6oN1t4s2OcK42PyqNB75XvA_asna6hoEV3QIV_Q8JcxblIzTia7EZbVUZCOYXFyQrbDBnBa4yYhnvY0GeO3p1LW-sv8MQD8LGBsbEtLSeHnhcRyfBetWNDDQYliivIuVcA.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=54947",
-          "author": "nikkihoward",
-          "description": "This year’s Scottish Night Championships gave everyone the opportunity to practise their headtorch orienteering skills prior to the British Night […]",
-          "link": "https://www.scottish-orienteering.org/news/scottish-night-championships-entries-get-to-eat-cake-and-urban-runners-storm-around-musselburgh/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-night-championships-entries-get-to-eat-cake-and-urban-runners-storm-around-musselburgh",
-          "publishedOn": "2025-02-05T19:33:47.000Z",
-          "wordCount": 1926,
-          "title": "Scottish Night Championships runners get to eat cake and urban runners storm around Musselburgh",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/475687728_1383511149704716_1403459660049340699_n-1-1024x771.jpg"
         }
       ]
     },
