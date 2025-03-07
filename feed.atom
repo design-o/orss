@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T00:43:05.834Z</updated>
+    <updated>2025-03-07T06:13:23.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -906,16 +906,6 @@ World Orienteering Week Webinar first appeared on Orienteering Australia.]]></su
         <summary type="html"><![CDATA[This year’s Scottish Night Championships gave everyone the opportunity to practise their headtorch orienteering skills prior to the British Night […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portugal appointed as CX80 EMTBOC 2026 host, WMTBOC 2027 to be held in Latvia]]></title>
-        <id>https://orienteering.sport/?p=75734</id>
-        <link href="https://orienteering.sport/portugal-appointed-as-cx80-emtboc-2026-host-wmtboc-2027-to-be-held-in-latvia/"/>
-        <updated>2025-02-05T13:00:43.000Z</updated>
-        <summary type="html"><![CDATA[The IOF Council has appointed the hosts of two international MTBO championships in the coming years following the recommendations from the MTBO Commission. The 2026 CX80 European MTBO Championships and European Junior and Youth MTBO Championships will be held in Portugal. The city of Ourém, north of the capital Lisbon, is the venue of the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
