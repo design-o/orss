@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T18:12:25.064Z</updated>
+    <updated>2025-03-07T00:43:05.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -916,17 +916,6 @@ World Orienteering Week Webinar first appeared on Orienteering Australia.]]></su
         <summary type="html"><![CDATA[The IOF Council has appointed the hosts of two international MTBO championships in the coming years following the recommendations from the MTBO Commission. The 2026 CX80 European MTBO Championships and European Junior and Youth MTBO Championships will be held in Portugal. The city of Ourém, north of the capital Lisbon, is the venue of the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOMINATIONS FOR EUROPEAN YOUTH ORIENTEERING CHAMPIONSHIPS]]></title>
-        <id>https://orienteering.asn.au/?p=13174</id>
-        <link href="https://orienteering.asn.au/european-youth-orienteering-championships/"/>
-        <updated>2025-02-05T09:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia will select an Australian EYOC Squad to compete in the championships. Nominations close on 17 March 2025.
-NOMINATIONS FOR EUROPEAN YOUTH ORIENTEERING CHAMPIONSHIPS first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
