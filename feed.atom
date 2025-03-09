@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T00:37:54.725Z</updated>
+    <updated>2025-03-09T06:09:50.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -908,36 +908,6 @@ World Orienteering Week Webinar first appeared on Orienteering Australia.]]></su
         <updated>2025-02-08T01:41:54.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t miss out on the selection opportunities in 2025 – VHI’s, SHI’s and all the junior selection opportunities outlined here]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55007</id>
-        <link href="https://www.scottish-orienteering.org/news/dont-miss-out-on-the-selection-opportunities-in-2025-vhis-shis-and-all-the-junior-selection-opportunities-outlined-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dont-miss-out-on-the-selection-opportunities-in-2025-vhis-shis-and-all-the-junior-selection-opportunities-outlined-here"/>
-        <updated>2025-02-07T17:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Make sure you don’t miss out on any selection opportunities this year. We have gathered them all together in one […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What works for attracting newcomers to orienteering? Find out what was discussed at our February Community Conversation!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=54998</id>
-        <link href="https://www.scottish-orienteering.org/news/what-works-for-attracting-newcomers-to-orienteering-find-out-what-was-discussed-at-our-february-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-works-for-attracting-newcomers-to-orienteering-find-out-what-was-discussed-at-our-february-community-conversation"/>
-        <updated>2025-02-07T16:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Community conversations bring members together each month to share experiences, successes, challenges and ideas on an allocated topic. This month’s […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOC 2026 – Area Embargo]]></title>
-        <id>https://www.orienteering.ie/?p=20525</id>
-        <link href="https://www.orienteering.ie/ioc-2026-area-embargo/"/>
-        <updated>2025-02-07T13:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Cork Orienteering Club are pleased to announce that they will be returning to the Sheep’s Head Peninsula, West Cork, to host the Irish Orienteering Championships on the May Bank Holiday weekend in 2026. In accordance with Orienteering Ireland rules, this area will be embargoed for orienteering and training from now (February 2025) until the end […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
