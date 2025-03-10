@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T00:36:54.582Z</updated>
+    <updated>2025-03-10T06:11:24.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -898,17 +898,6 @@ Technical Committee Support Role | Paid part time position  first appeared on O
 Major Events Support Role | Paid part time position   first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Orienteering 2025 Prizegiving andAGM]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6321</id>
-        <link href="https://www.niorienteering.org.uk/ni-orienteering-2025-prizegiving-andagm/"/>
-        <updated>2025-02-08T17:45:43.000Z</updated>
-        <summary type="html"><![CDATA[All members are encouraged to attend the NI Orienteering Prizegiving and AGM, to be held on Saturday 15 February at 4pm . This will be shortly after the NI Score Championships at Donard Forest. (Regretfully the NI Night Championships which were to be held afterwards...
-The post NI Orienteering 2025 Prizegiving andAGM appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
