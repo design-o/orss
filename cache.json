@@ -99,6 +99,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Grab a brand new Winter Fixture, and start planning your Park Street schedule for the next 6 months\nPark Street Update, March 5-11 – Winter Fixture Now Available first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-03-03T01:41:54.000Z",
+          "wordCount": 1112,
+          "title": "Park Street Update, March 5-11 – Winter Fixture Now Available",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14456",
           "author": "Debbie Dodd",
           "description": "Enjoy a double header of classic Victorian forest terrain over the March long weekend. Entries are now open!\nDouble Header Bush Weekend, March 8 and 9 first appeared on Orienteering Victoria.",
@@ -645,7 +655,18 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://neooc.com/?p=48271",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Results 2025 West Woods Results Livelox Many Thanks to our Volunteers Event Director: Jonathan Boyer Overall setup, Admin, Check-in: Jay Smink, Kathy Christy, Kara McDivitt Course Design: Jonathan Course Setting: Jonathan, Jay Instruction: Howard Montgomery, Kathy, Jay Control Collection: Jay, Jonathan, Kathy, Kara, Fred Mailey Park Liaison: Jonathan Park Administrator Trevor Wearstler: Outdoor Education Specialist, […]",
+          "link": "https://neooc.com/results-2025-west-woods-classic-saturday-march-8-2025/",
+          "publishedOn": "2025-03-09T20:19:20.000Z",
+          "wordCount": 1507,
+          "title": "Results | 2025 West Woods Classic | Saturday, March 8, 2025",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2024/09/ControlAtTheWestWoods.png"
+        }
+      ]
     },
     {
       "title": "Scottish Orienteering Association",

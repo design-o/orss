@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T18:08:40.242Z</updated>
+    <updated>2025-03-10T00:36:54.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results | 2025 West Woods Classic | Saturday, March 8, 2025]]></title>
+        <id>https://neooc.com/?p=48271</id>
+        <link href="https://neooc.com/results-2025-west-woods-classic-saturday-march-8-2025/"/>
+        <updated>2025-03-09T20:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Results 2025 West Woods Results Livelox Many Thanks to our Volunteers Event Director: Jonathan Boyer Overall setup, Admin, Check-in: Jay Smink, Kathy Christy, Kara McDivitt Course Design: Jonathan Course Setting: Jonathan, Jay Instruction: Howard Montgomery, Kathy, Jay Control Collection: Jay, Jonathan, Kathy, Kara, Fred Mailey Park Liaison: Jonathan Park Administrator Trevor Wearstler: Outdoor Education Specialist, […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apply Now: Exciting orienteering jobs to enhance participation]]></title>
         <id>https://orienteering.asn.au/?p=13435</id>
@@ -262,6 +272,17 @@ EYOC Team finalised and Team Management named for JWOC, EYOC, and WOC first appe
 Eventor Australia Server Switch – Eventor Offline Notification first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, March 5-11 – Winter Fixture Now Available]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2025-03-03T01:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Grab a brand new Winter Fixture, and start planning your Park Street schedule for the next 6 months
+Park Street Update, March 5-11 – Winter Fixture Now Available first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
