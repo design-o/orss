@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T06:11:24.999Z</updated>
+    <updated>2025-03-10T12:16:54.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[May Day, May Day, May Day!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6407</id>
+        <link href="https://www.niorienteering.org.uk/may-day-may-day-may-day/"/>
+        <updated>2025-03-10T10:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Are the dates of 1-5 May in your diary? It’s the Irish 5 Day, including the Irish Orienteering Championships which comes to home turf at Ballymena, Coleraine and Magilligan. Don’t miss out on an excellent 5 days of orienteering! Early bird entries are available until...
+The post May Day, May Day, May Day! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | 2025 West Woods Classic | Saturday, March 8, 2025]]></title>
         <id>https://neooc.com/?p=48271</id>
