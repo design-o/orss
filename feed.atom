@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T00:43:15.414Z</updated>
+    <updated>2025-03-11T06:13:02.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -357,6 +357,15 @@ The Australian Orienteer: March Edition Now Online first appeared on Orienteerin
 Knock Out embargo for Nationals follow-on event first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14501</id>
+        <link href="https://www.vicorienteering.asn.au/maxi-score-event-at-tunnel-hill-chewton-sunday-23-march/"/>
+        <updated>2025-03-01T01:11:41.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
