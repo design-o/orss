@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T06:13:02.380Z</updated>
+    <updated>2025-03-11T12:17:21.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -730,17 +730,6 @@ Easter 2025 Preparations first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[Sunday 30th March 2025 The OK Nuts 2025 South London Orienteers invite you to run in a Level C event on Pasture Wood and Leith [...]]]></summary>
         <author>
             <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Closing for the NI Score Champs at Donard Forest]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6332</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-the-ni-score-champs-at-donard-forest/"/>
-        <updated>2025-02-09T21:31:29.000Z</updated>
-        <summary type="html"><![CDATA[The entries for the Score Championships at Donard Forest, Newcastle, Co Down on Saturday 15 February are about to close on Monday 10 February at 23:59. Please do enter on SI Entries and enjoy orienteering in a forest which has largely escaped from the recent...
-The post Entries Closing for the NI Score Champs at Donard Forest appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
