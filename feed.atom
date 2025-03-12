@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T18:12:34.578Z</updated>
+    <updated>2025-03-12T00:42:40.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raynes Park Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=23086</id>
+        <link href="https://slow.org.uk/streeto/raynes-park-street-o-24-results/"/>
+        <updated>2025-03-12T00:40:51.000Z</updated>
+        <summary type="html"><![CDATA[A big thank you to Simon for planning his first Street-O event. It was very well organised and quite a tricky course! Also a big [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fred Calnan RIP]]></title>
         <id>https://www.orienteering.ie/?p=20643</id>

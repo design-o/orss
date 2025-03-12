@@ -233,6 +233,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23086",
+          "author": "vinh",
+          "description": "A big thank you to Simon for planning his first Street-O event. It was very well organised and quite a tricky course! Also a big [...]",
+          "link": "https://slow.org.uk/streeto/raynes-park-street-o-24-results/",
+          "publishedOn": "2025-03-12T00:40:51.000Z",
+          "wordCount": 2087,
+          "title": "Raynes Park Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/raynes-park-street-o-24-results/files/StreetO_Mar2025_1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23070",
           "author": "Steve Clelland",
           "description": "Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Provisional series results: Long Champions – Matthias Mahr + Iris Lueke Short Champions [...]",
