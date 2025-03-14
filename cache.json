@@ -74,16 +74,6 @@
           "wordCount": 1708,
           "title": "SkiO World Cup resumes in Germany",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/09/skio-wc-2025-2-ger-logo-1024x634.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=75803",
-          "author": "Erling Thisted",
-          "description": "IOF has an intense focus to constantly improve the quality and fairness for our World Championships and World Cups. With that purpose in mind, 75 event organisers and Senior Event Advisers from 22 countries met in Budapest, Hungary during the previous weekend for the annual High Level Event Seminar for Foot Orienteering. The aim is […]",
-          "link": "https://orienteering.sport/75-organisers-and-advisers-met-to-improve-major-iof-events/",
-          "publishedOn": "2025-02-12T19:55:20.000Z",
-          "wordCount": 1984,
-          "title": "75 organisers and advisers met to improve major IOF events",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/02/hles_2025_1.jpeg"
         }
       ]
     },
@@ -533,6 +523,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55266",
+          "author": "heidi",
+          "description": "Largely thanks to funding from the Orienteering Foundation some of our clubs employ club development officers including; MOR, MAROC, ESOC, […]",
+          "link": "https://www.scottish-orienteering.org/news/club-development-officers-forum/?utm_source=rss&utm_medium=rss&utm_campaign=club-development-officers-forum",
+          "publishedOn": "2025-03-14T10:48:15.000Z",
+          "wordCount": 1891,
+          "title": "Club Development Officers Forum",
+          "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLRU6FUZh5sKFl5B4PKSyyPUs7cUTGQ29Ne9HwoPtbPJWFDFnqn8EtXynf-Uz9KK1J7gjmPduueff2ngWJxYVeBFWn01G3cf4bSZhGj5q4cM5lRg1F0C2auTcxFT04QYzBvAk-MA?key=zQtBkY2vMu3Nz17gYEwdO8Lv"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55258",
+          "author": "nikkihoward",
+          "description": "The 6-Day Company is pleased to announce that a further payment to Scottish clubs will be made from the surplus […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-orienteering-6-day-event-company/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-orienteering-6-day-event-company",
+          "publishedOn": "2025-03-14T10:22:34.000Z",
+          "wordCount": 2138,
+          "title": "Scottish Orienteering 6-Day Event Company",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/03/53096407863_ba381bb5fe_o-1024x427.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55181",
           "author": "heidi",

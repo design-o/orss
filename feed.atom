@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T06:12:55.686Z</updated>
+    <updated>2025-03-14T12:16:18.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Club Development Officers Forum]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55266</id>
+        <link href="https://www.scottish-orienteering.org/news/club-development-officers-forum/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=club-development-officers-forum"/>
+        <updated>2025-03-14T10:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Largely thanks to funding from the Orienteering Foundation some of our clubs employ club development officers including; MOR, MAROC, ESOC, […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Orienteering 6-Day Event Company]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55258</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-orienteering-6-day-event-company/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-orienteering-6-day-event-company"/>
+        <updated>2025-03-14T10:22:34.000Z</updated>
+        <summary type="html"><![CDATA[The 6-Day Company is pleased to announce that a further payment to Scottish clubs will be made from the surplus […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th]]></title>
         <id>https://neooc.com/?p=48331</id>
@@ -719,16 +739,6 @@ The post NI Orienteering AGM appeared first on NI Orienteering Association.]]></
         <summary type="html"><![CDATA[World Cup leaders Daisy Kudre Schnyder, Estonia and Jørgen Baklid, Norway will face strong competition in the three races comprising the second round, starting on Saturday in Ruhpolding, Germany, a small town in the Alps very close to the border with Austria. Kudre Schnyder is hard-pressed in the World Cup standings by Norway’s Anna Ulvensøen […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[75 organisers and advisers met to improve major IOF events]]></title>
-        <id>https://orienteering.sport/?p=75803</id>
-        <link href="https://orienteering.sport/75-organisers-and-advisers-met-to-improve-major-iof-events/"/>
-        <updated>2025-02-12T19:55:20.000Z</updated>
-        <summary type="html"><![CDATA[IOF has an intense focus to constantly improve the quality and fairness for our World Championships and World Cups. With that purpose in mind, 75 event organisers and Senior Event Advisers from 22 countries met in Budapest, Hungary during the previous weekend for the annual High Level Event Seminar for Foot Orienteering. The aim is […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
