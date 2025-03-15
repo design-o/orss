@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T18:12:39.569Z</updated>
+    <updated>2025-03-15T00:42:18.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -729,16 +729,6 @@ The post NI Orienteering AGM appeared first on NI Orienteering Association.]]></
         <summary type="html"><![CDATA[The next race of the 2024-25 Street-O series is in the Raynes Park/ Wimbledon area. The format is a 1 hour time limit to find [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup resumes in Germany]]></title>
-        <id>https://orienteering.sport/?p=75811</id>
-        <link href="https://orienteering.sport/skio-world-cup-resumes-in-germany/"/>
-        <updated>2025-02-13T09:45:55.000Z</updated>
-        <summary type="html"><![CDATA[World Cup leaders Daisy Kudre Schnyder, Estonia and Jørgen Baklid, Norway will face strong competition in the three races comprising the second round, starting on Saturday in Ruhpolding, Germany, a small town in the Alps very close to the border with Austria. Kudre Schnyder is hard-pressed in the World Cup standings by Norway’s Anna Ulvensøen […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
