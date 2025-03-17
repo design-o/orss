@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76012",
+          "author": "Erling Thisted",
+          "description": "The international Ski Orienteering season will reach its peak this week when the European Ski Orienteering Championships and Ski Orienteering World Cup finals are held in Posio, Finland. The four races from Thursday to Sunday also host the Junior World SkiO Championships and the European Youth SkiO Championships. For the seniors, a mixed sprint relay, […]",
+          "link": "https://orienteering.sport/european-ski-orienteering-medals-at-stake-in-finland/",
+          "publishedOn": "2025-03-17T11:36:10.000Z",
+          "wordCount": 2075,
+          "title": "European Ski Orienteering medals at stake in Finland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/03/skio_world_cup_terjewpettersen-1024x682.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=76004",
+          "author": "Erling Thisted",
+          "description": "IOF Ethics Panel Chairperson since 2018, Bob Dredge was interviewed by the Swiss Orienteering Magazine for its first issue in 2025 about the work of the panel. We have been given permission to bring the Q&A interview here: Before Bob Dredge answered the interview questions, he made it clear that these are his personal thoughts […]",
+          "link": "https://orienteering.sport/doing-the-right-and-just-thing-qa-with-ethics-panel-chairperson-bob-dredge/",
+          "publishedOn": "2025-03-17T08:26:45.000Z",
+          "wordCount": 1884,
+          "title": "“Doing the right and just thing” – Q&A with Ethics Panel Chairperson Bob Dredge",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_control_william_hollowell-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=75989",
           "author": "Erling Thisted",
           "description": "IOF’s Environment and Sustainability Commission has published the “Climate Transition Action Plan to Net Zero.” The plan was approved and adopted by the IOF Council during its meetings in January. The plan reviews IOF’s commitment to reducing greenhouse gas emissions and promoting environmental sustainability within the sport of orienteering. In line with the Sports for […]",
@@ -679,16 +699,6 @@
           "wordCount": 4349,
           "title": "Learmount is Still Standing",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/02/Learmount-NICS.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6367",
-          "author": "NIOA Secretary",
-          "description": "Wasn’t it good to be orienteering in a forest! Thanks to the team of planner George Savell, organiser Kieran Rocks and controller Geoffrey Collins for an engaging 2025 NI Score Champs. With a start for seniors 50m higher than the finish the challege was to...\nThe post Donard High Start appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/donard-high-start/",
-          "publishedOn": "2025-02-15T22:17:33.000Z",
-          "wordCount": 4390,
-          "title": "Donard High Start",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/02/Donard-Forest.jpeg"
         }
       ]
     },

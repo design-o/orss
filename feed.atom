@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T06:13:48.082Z</updated>
+    <updated>2025-03-17T12:17:22.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European Ski Orienteering medals at stake in Finland]]></title>
+        <id>https://orienteering.sport/?p=76012</id>
+        <link href="https://orienteering.sport/european-ski-orienteering-medals-at-stake-in-finland/"/>
+        <updated>2025-03-17T11:36:10.000Z</updated>
+        <summary type="html"><![CDATA[The international Ski Orienteering season will reach its peak this week when the European Ski Orienteering Championships and Ski Orienteering World Cup finals are held in Posio, Finland. The four races from Thursday to Sunday also host the Junior World SkiO Championships and the European Youth SkiO Championships. For the seniors, a mixed sprint relay, […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Doing the right and just thing” – Q&A with Ethics Panel Chairperson Bob Dredge]]></title>
+        <id>https://orienteering.sport/?p=76004</id>
+        <link href="https://orienteering.sport/doing-the-right-and-just-thing-qa-with-ethics-panel-chairperson-bob-dredge/"/>
+        <updated>2025-03-17T08:26:45.000Z</updated>
+        <summary type="html"><![CDATA[IOF Ethics Panel Chairperson since 2018, Bob Dredge was interviewed by the Swiss Orienteering Magazine for its first issue in 2025 about the work of the panel. We have been given permission to bring the Q&A interview here: Before Bob Dredge answered the interview questions, he made it clear that these are his personal thoughts […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coaching for Coaches]]></title>
         <id>https://www.niorienteering.org.uk/?p=6436</id>
@@ -708,17 +728,6 @@ Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on
         <summary type="html"><![CDATA[Magdalena Olsson, Sweden returned to winning ways today, finishing 1 minute quicker than her compatriot Frida Sandberg. Men’s World Cup leader, Norwegian Jørgen Baklid, lost time early in the men’s race but came back strongly to win by 20 seconds. Frida Sandberg, Sweden was the fastest in the early stages of the women’s race, with […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donard High Start]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6367</id>
-        <link href="https://www.niorienteering.org.uk/donard-high-start/"/>
-        <updated>2025-02-15T22:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Wasn’t it good to be orienteering in a forest! Thanks to the team of planner George Savell, organiser Kieran Rocks and controller Geoffrey Collins for an engaging 2025 NI Score Champs. With a start for seniors 50m higher than the finish the challege was to...
-The post Donard High Start appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
