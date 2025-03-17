@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T18:11:48.950Z</updated>
+    <updated>2025-03-17T00:45:57.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -717,27 +717,6 @@ Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on
         <updated>2025-02-15T22:17:33.000Z</updated>
         <summary type="html"><![CDATA[Wasn’t it good to be orienteering in a forest! Thanks to the team of planner George Savell, organiser Kieran Rocks and controller Geoffrey Collins for an engaging 2025 NI Score Champs. With a start for seniors 50m higher than the finish the challege was to...
 The post Donard High Start appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO World Cup round 2: Favourites win Sprint]]></title>
-        <id>https://orienteering.sport/?p=75826</id>
-        <link href="https://orienteering.sport/skio-world-cup-round-2-favourites-win-sprint/"/>
-        <updated>2025-02-15T12:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Norwegians Anna Ulvensøen and Jørgen Baklid took the first victories in the 3-day World Cup round in Germany, Ulvensøen winning comfortably by 19 seconds, whereas only Baklid’s fast finish gave him the win, by 4 seconds. Baklid was closely challenged by his compatriot Styrk Kamstaag, who before today was placed 7th in the World Cup […]]]></summary>
-        <author>
-            <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Orienteering AGM]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6342</id>
-        <link href="https://www.niorienteering.org.uk/ni-orienteering-agm-2/"/>
-        <updated>2025-02-15T08:20:31.000Z</updated>
-        <summary type="html"><![CDATA[For your easy reference, here are the papers for the AGM at 4pm at Kilmeggan Centre, 91 Main St, Castlewellan, BT31 9DH Agenda 2024 AGM Minutes 2024 EGM Minutes Draft Accounts Apr-Dec 2024 The room will be open for lunch from 3pm so please come...
-The post NI Orienteering AGM appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
         </author>
