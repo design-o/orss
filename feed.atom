@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T06:13:27.016Z</updated>
+    <updated>2025-03-18T12:17:22.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Take it easy, Take it easy, Take it nice and slow, Does your mother know?]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6443</id>
+        <link href="https://www.niorienteering.org.uk/take-it-easy-take-it-easy-take-it-nice-and-slow-does-your-mother-know/"/>
+        <updated>2025-03-18T09:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Slow and steady is likely to be a good strategy for NI Colour Series 2 at Carlingford on 30 March. The open mountain terrain of Slieve Foye is probably the most taxing orienteering terrain on the island of Ireland north of Co Cork. Do note...
+The post Take it easy, Take it easy, Take it nice and slow, Does your mother know? appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European Ski Orienteering medals at stake in Finland]]></title>
         <id>https://orienteering.sport/?p=76012</id>
@@ -35,6 +46,15 @@
 The post Coaching for Coaches appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easter and Anzac Weekend News – Find Out The Latest!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14511</id>
+        <link href="https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/"/>
+        <updated>2025-03-16T06:45:28.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

@@ -79,6 +79,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14511",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/",
+          "publishedOn": "2025-03-16T06:45:28.000Z",
+          "wordCount": 1660,
+          "title": "Easter and Anzac Weekend News – Find Out The Latest!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
           "description": "Grab a brand new Winter Fixture, and start planning your Park Street schedule for the next 6 months\nPark Street Update, March 5-11 – Winter Fixture Now Available first appeared on Orienteering Victoria.",
@@ -640,6 +650,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6443",
+          "author": "NIOA Secretary",
+          "description": "Slow and steady is likely to be a good strategy for NI Colour Series 2 at Carlingford on 30 March. The open mountain terrain of Slieve Foye is probably the most taxing orienteering terrain on the island of Ireland north of Co Cork. Do note...\nThe post Take it easy, Take it easy, Take it nice and slow, Does your mother know? appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/take-it-easy-take-it-easy-take-it-nice-and-slow-does-your-mother-know/",
+          "publishedOn": "2025-03-18T09:37:43.000Z",
+          "wordCount": 4426,
+          "title": "Take it easy, Take it easy, Take it nice and slow, Does your mother know?",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/03/Carlingford.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6436",
           "author": "NIOA Secretary",
