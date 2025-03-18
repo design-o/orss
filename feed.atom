@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T00:43:15.656Z</updated>
+    <updated>2025-03-18T06:13:27.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -716,16 +716,6 @@ Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on
         <link href="https://orienteering.sport/skio-world-cup-olsson-and-riisanen-win-mass-start-races/"/>
         <updated>2025-02-17T11:58:00.000Z</updated>
         <summary type="html"><![CDATA[A convincing win for Magdalena Olsson, Sweden by 1.52 and a tight 3-second victory for Finn Pyry Riisanen were the outcomes of today’s Mass Start races, the final day of the second round of the 2025 SkiO World Cup, held at Reit im Winkl in the German Alps. The races consisted of three loops, with […]]]></summary>
-        <author>
-            <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkiO Middle Distance wins for Olsson and Baklid]]></title>
-        <id>https://orienteering.sport/?p=75841</id>
-        <link href="https://orienteering.sport/skio-middle-distance-wins-for-olsson-and-baklid/"/>
-        <updated>2025-02-16T16:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Magdalena Olsson, Sweden returned to winning ways today, finishing 1 minute quicker than her compatriot Frida Sandberg. Men’s World Cup leader, Norwegian Jørgen Baklid, lost time early in the men’s race but came back strongly to win by 20 seconds. Frida Sandberg, Sweden was the fastest in the early stages of the women’s race, with […]]]></summary>
         <author>
             <name>Clive</name>
         </author>
