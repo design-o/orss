@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T00:44:19.440Z</updated>
+    <updated>2025-03-19T06:13:43.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -728,16 +728,6 @@ Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on
         <updated>2025-02-18T07:48:56.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swiss National broadcaster SRG acquires TV rights for WOC until 2028]]></title>
-        <id>https://orienteering.sport/?p=75818</id>
-        <link href="https://orienteering.sport/swiss-national-broadcaster-srg-acquires-tv-rights-for-woc-until-2028/"/>
-        <updated>2025-02-17T13:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Swiss TV viewers will have great opportunities to follow the world’s most prestigious orienteering competitions for the next four years.    The national broadcaster SRG has acquired the TV rights for the World Orienteering Championships for the period 2025 – 2028.  Before that, SRG has had the rights to broadcast the annual Swiss round of Orienteering […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
