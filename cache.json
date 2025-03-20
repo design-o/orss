@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76048",
+          "author": "Erling Thisted",
+          "description": "Sweden won the first gold medal at the European Ski Orienteering Championships in Finland, which began on Thursday morning with the Sprint Relay in the Kohtilathi terrain at Posio. The Swedish team with Magdalena Olsson and Jonatan Ståhl delivered some solid performances and led the relay almost the entire way through the six legs. A […]",
+          "link": "https://orienteering.sport/sweden-claims-first-esoc-gold-in-finland/",
+          "publishedOn": "2025-03-20T11:11:17.000Z",
+          "wordCount": 1707,
+          "title": "Sweden claims first ESOC-gold in Finland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/03/2025_esoc_sprintrelay1_timomikkola-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76012",
           "author": "Erling Thisted",
           "description": "The international Ski Orienteering season will reach its peak this week when the European Ski Orienteering Championships and Ski Orienteering World Cup finals are held in Posio, Finland. The four races from Thursday to Sunday also host the Junior World SkiO Championships and the European Youth SkiO Championships. For the seniors, a mixed sprint relay, […]",
@@ -192,6 +202,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23143",
+          "author": "vinh",
+          "description": "The 2024-25 Street-O series finale will be in Bethnal Green. The format is a 1 hour time limit to find as many checkpoints as you [...]",
+          "link": "https://slow.org.uk/streeto/bethnal-green-street-o-24/",
+          "publishedOn": "2025-03-20T11:18:53.000Z",
+          "wordCount": 2746,
+          "title": "Bethnal Green Street-O, Tuesday 13 May",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/clapham-street-o-results/files/Clapham_StreetO_2024_5.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23106",
           "author": "Steve Clelland",

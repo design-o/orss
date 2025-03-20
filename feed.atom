@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T06:13:54.565Z</updated>
+    <updated>2025-03-20T12:17:16.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bethnal Green Street-O, Tuesday 13 May]]></title>
+        <id>https://slow.org.uk/?p=23143</id>
+        <link href="https://slow.org.uk/streeto/bethnal-green-street-o-24/"/>
+        <updated>2025-03-20T11:18:53.000Z</updated>
+        <summary type="html"><![CDATA[The 2024-25 Street-O series finale will be in Bethnal Green. The format is a 1 hour time limit to find as many checkpoints as you [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweden claims first ESOC-gold in Finland]]></title>
+        <id>https://orienteering.sport/?p=76048</id>
+        <link href="https://orienteering.sport/sweden-claims-first-esoc-gold-in-finland/"/>
+        <updated>2025-03-20T11:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Sweden won the first gold medal at the European Ski Orienteering Championships in Finland, which began on Thursday morning with the Sprint Relay in the Kohtilathi terrain at Posio. The Swedish team with Magdalena Olsson and Jonatan Ståhl delivered some solid performances and led the relay almost the entire way through the six legs. A […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Help Shape the Future]]></title>
         <id>https://www.niorienteering.org.uk/?p=6451</id>
