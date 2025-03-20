@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T18:13:36.613Z</updated>
+    <updated>2025-03-20T00:43:13.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -730,15 +730,6 @@ Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on
         <summary type="html"><![CDATA[Magdalena Olsson, Sweden leads by 94 points, whilst Norwegian Jørgen Baklid is 158 points in front after winning 5 of the 6 races held. Olsson won the World Cup overall last year – and Baklid has achieved this feat for the last three years! With 3 races to come in this year’s World Cup, the […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bush Training Day at Chewton, Saturday March 22]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14459</id>
-        <link href="https://www.vicorienteering.asn.au/bush-training-day-at-chewton-saturday-march-22/"/>
-        <updated>2025-02-18T07:48:56.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
