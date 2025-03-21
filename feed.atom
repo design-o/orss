@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T12:16:33.647Z</updated>
+    <updated>2025-03-21T18:12:13.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ajax Orienteering and Hill Running Club – the small club with big ideas]]></title>
+        <id>https://www.orienteering.ie/?p=20674</id>
+        <link href="https://www.orienteering.ie/ajax-orienteering-and-hill-running-club-the-small-club-with-big-ideas/"/>
+        <updated>2025-03-21T15:59:26.000Z</updated>
+        <summary type="html"><![CDATA[It seems fitting that the lifespan of Ajax Orienteering and Hill Running Club was bookended by the club running two successful Leinster Orienteering Championships – in the Vale of Clara in February 2025 and in Aughavannagh in 1980 (which was the club’s first time hosting an event). Ajax Orienteering and Athletic Club was founded in […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European SkiO Sprint Champions: Olsson and Ekstrӧm in close races]]></title>
+        <id>https://orienteering.sport/?p=76069</id>
+        <link href="https://orienteering.sport/european-sprint-champions-olsson-and-ekstr%d3%a7m-in-close-races/"/>
+        <updated>2025-03-21T15:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Closely-fought Sprint races in sunny Finland ended with victory for Magdalena Olsson, Sweden and home athlete Niklas Ekstrӧm. This was Olsson’s second gold medal in two days, whilst Ekstrӧm enjoyed his first win in this World Cup season. In the women’s race, Sweden’s Frida Sandberg was fastest through to control 2 but then made a […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian 3 Days – What to Expect & Entry Fees Refunded]]></title>
         <id>https://orienteering.asn.au/?p=13509</id>
@@ -718,17 +738,6 @@ Embargoed areas – Pokapu Champs 2025 first appeared on Orienteering New Zealan
         <summary type="html"><![CDATA[Roisín Hickey has joined our team as our new RDO for the Greater Dublin area. Roisín has spent over ten years as Cycling Ireland’s (CI) Coach Education & Development Administrator, and has also coordinated programmes and events for CI across the country. For over ten years, Roisín has also developed and delivered programmes to promote cycling […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridget Uppill joins Orienteering Australia to expand KID-O]]></title>
-        <id>https://orienteering.asn.au/?p=13284</id>
-        <link href="https://orienteering.asn.au/bridget-uppill-joins-orienteering-australia-to-expand-kid-o/"/>
-        <updated>2025-02-20T03:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Bridget Uppill has joined Orienteering Australia to spearhead the expansion of the innovative KID-O program, which introduces orienteering to young children across Australia.
-Bridget Uppill joins Orienteering Australia to expand KID-O first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>

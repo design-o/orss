@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76069",
+          "author": "Clive",
+          "description": "Closely-fought Sprint races in sunny Finland ended with victory for Magdalena Olsson, Sweden and home athlete Niklas Ekstrӧm. This was Olsson’s second gold medal in two days, whilst Ekstrӧm enjoyed his first win in this World Cup season. In the women’s race, Sweden’s Frida Sandberg was fastest through to control 2 but then made a […]",
+          "link": "https://orienteering.sport/european-sprint-champions-olsson-and-ekstr%d3%a7m-in-close-races/",
+          "publishedOn": "2025-03-21T15:31:46.000Z",
+          "wordCount": 1900,
+          "title": "European SkiO Sprint Champions: Olsson and Ekstrӧm in close races",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/03/niklas-ekstrom-sprint-21-3-25-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76048",
           "author": "Erling Thisted",
           "description": "Sweden won the first gold medal at the European Ski Orienteering Championships in Finland, which began on Thursday morning with the Sprint Relay in the Kohtilathi terrain at Posio. The Swedish team with Magdalena Olsson and Jonatan Ståhl delivered some solid performances and led the relay almost the entire way through the six legs. A […]",
@@ -145,6 +155,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=20674",
+          "author": "Deirdre",
+          "description": "It seems fitting that the lifespan of Ajax Orienteering and Hill Running Club was bookended by the club running two successful Leinster Orienteering Championships – in the Vale of Clara in February 2025 and in Aughavannagh in 1980 (which was the club’s first time hosting an event). Ajax Orienteering and Athletic Club was founded in […]",
+          "link": "https://www.orienteering.ie/ajax-orienteering-and-hill-running-club-the-small-club-with-big-ideas/",
+          "publishedOn": "2025-03-21T15:59:26.000Z",
+          "wordCount": 1688,
+          "title": "Ajax Orienteering and Hill Running Club – the small club with big ideas",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=20643",
           "author": "Operations Manager",
@@ -745,16 +765,6 @@
           "publishedOn": "2025-02-25T09:52:31.000Z",
           "wordCount": 2457,
           "title": "OA Brings Full Livelox Access to All Members",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=13284",
-          "author": "danielstott",
-          "description": "Bridget Uppill has joined Orienteering Australia to spearhead the expansion of the innovative KID-O program, which introduces orienteering to young children across Australia.\nBridget Uppill joins Orienteering Australia to expand KID-O first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/bridget-uppill-joins-orienteering-australia-to-expand-kid-o/",
-          "publishedOn": "2025-02-20T03:05:23.000Z",
-          "wordCount": 2500,
-          "title": "Bridget Uppill joins Orienteering Australia to expand KID-O",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
         }
       ]
