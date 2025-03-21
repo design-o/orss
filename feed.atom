@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T06:14:47.305Z</updated>
+    <updated>2025-03-21T12:16:33.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian 3 Days – What to Expect & Entry Fees Refunded]]></title>
+        <id>https://orienteering.asn.au/?p=13509</id>
+        <link href="https://orienteering.asn.au/australian-3-days-what-to-expect-entry-fees-refunded/"/>
+        <updated>2025-03-21T08:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Learn about what you can expect at the 2025 Australian 3 Day Carnival and how one lucky winner will get their entry fees refunded.
+Australian 3 Days – What to Expect & Entry Fees Refunded first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrating Neurodiversity Awareness Week]]></title>
         <id>https://www.scottish-orienteering.org/?p=55288</id>
