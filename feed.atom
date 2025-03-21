@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T18:12:54.360Z</updated>
+    <updated>2025-03-21T00:43:54.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -727,28 +727,6 @@ Bridget Uppill joins Orienteering Australia to expand KID-O first appeared on Or
         <summary type="html"><![CDATA[We all know the Scottish Six Days is an amazing event – can you help us spread the word to […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learmount is Still Standing]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6374</id>
-        <link href="https://www.niorienteering.org.uk/learmount-is-still-standing/"/>
-        <updated>2025-02-19T10:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Entries are now open for the NI Colour Series 1 at Learmount Forest at Park, near Claudy/Dungiven on Saturday 1 March. With a number of forests suffering significant damage, do take this opportunity for quality forest orienteering in this lovely area on the banks of...
-The post Learmount is Still Standing appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tatterson Tangle, Saturday Evening Sprint, March 22 (new date)]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14402</id>
-        <link href="https://www.vicorienteering.asn.au/tatterson-tangle-saturday-evening-sprint-february-22/"/>
-        <updated>2025-02-19T08:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Due to some extreme weather forecast for the original date, this event has been rescheduled for Saturday 22 March. Same great venue!
-Tatterson Tangle, Saturday Evening Sprint, March 22 (new date) first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
