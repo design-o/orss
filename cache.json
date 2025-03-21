@@ -59,6 +59,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14402",
+          "author": "Debbie Dodd",
+          "description": "Don't miss this fantastic sprint at Tatterson Park next Saturday - and Kids Run Free! Online entry extended until 5pm Frdiay 21 March, and entry on the day is also available\nTatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/tatterson-tangle-saturday-evening-sprint-february-22/",
+          "publishedOn": "2025-03-18T06:05:10.000Z",
+          "wordCount": 1122,
+          "title": "Tatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14511",
           "author": "Debbie Dodd",
           "description": "",
@@ -612,26 +622,6 @@
           "wordCount": 1809,
           "title": "TAY pull out the stops for the CompassSport qualifier",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/IMG_0195-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55064",
-          "author": "louise",
-          "description": "2024 saw Edinburgh hosting elite athletes from across the globe for the Sprint World Championships in an event that has […]",
-          "link": "https://www.scottish-orienteering.org/news/soa-development-fund-2025-applications-are-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=soa-development-fund-2025-applications-are-now-open",
-          "publishedOn": "2025-02-19T15:53:56.000Z",
-          "wordCount": 1847,
-          "title": "SOA Development Fund 2025 – Applications are now open!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/11/School.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55057",
-          "author": "nikkihoward",
-          "description": "We all know the Scottish Six Days is an amazing event – can you help us spread the word to […]",
-          "link": "https://www.scottish-orienteering.org/news/can-you-help-explain-to-newcomers-what-makes-the-scottish-6-days-such-a-great-experience/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-help-explain-to-newcomers-what-makes-the-scottish-6-days-such-a-great-experience",
-          "publishedOn": "2025-02-19T12:49:07.000Z",
-          "wordCount": 1615,
-          "title": "Can you help explain to newcomers what makes the Scottish 6 Days such a great experience?",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/36267015755_e7d0138755_o-1024x683.jpg"
         }
       ]
     },
