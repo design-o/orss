@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T18:12:13.113Z</updated>
+    <updated>2025-03-22T00:42:36.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -728,16 +728,6 @@ The post Entries for Learmount Closing appeared first on NI Orienteering Associa
 Embargoed areas – Pokapu Champs 2025 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Malcolm Ingham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet our new RDO]]></title>
-        <id>https://www.orienteering.ie/?p=20589</id>
-        <link href="https://www.orienteering.ie/meet-our-new-rdo/"/>
-        <updated>2025-02-20T11:52:24.000Z</updated>
-        <summary type="html"><![CDATA[Roisín Hickey has joined our team as our new RDO for the Greater Dublin area. Roisín has spent over ten years as Cycling Ireland’s (CI) Coach Education & Development Administrator, and has also coordinated programmes and events for CI across the country. For over ten years, Roisín has also developed and delivered programmes to promote cycling […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
 </feed>
