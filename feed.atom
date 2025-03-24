@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-23T18:10:52.156Z</updated>
+    <updated>2025-03-24T00:45:36.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extended One Week | 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Until Sunday, March 30th]]></title>
+        <id>https://neooc.com/?p=48378</id>
+        <link href="https://neooc.com/extended-one-week-2025-richfield-self-serve-event-at-richfield-heritage-preserve-until-sunday-march-30th/"/>
+        <updated>2025-03-23T23:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Extended One Week – Until Sunday, March 30th 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ESOC Long: favourites Olsson and Ståhl, Sweden, win and take World Cup titles]]></title>
         <id>https://orienteering.sport/?p=76095</id>
