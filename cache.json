@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76110",
+          "author": "Clive",
+          "description": "Sweden was by far the most successful nation at ESOC, winning all but two of the gold medals. Magdalena Olsson won two individual golds, and Jonatan Ståhl and young Ella Turesson won one each. Home nation Finland (Niklas Ekstrӧm and Aapo Viippola) won the other two individual golds. Sweden took home ten individual medals in […]",
+          "link": "https://orienteering.sport/european-skio-championships-a-high-quality-end-to-the-skio-season/",
+          "publishedOn": "2025-03-24T11:24:57.000Z",
+          "wordCount": 2026,
+          "title": "European SkiO Championships: a high-quality end to the SkiO season",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/03/stahl-olsson-podium-24-3-25-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76095",
           "author": "Clive",
           "description": "Sweden’s Magdalena Olsson (pictured above) and Jonatan Ståhl were back to their best form today, both winning their races by convincing margins – and ending as World Cup winners for this season. After taking the Sprint Relay gold on Day 1 together, Olsson has won two further ESOC golds, and Ståhl one gold and one […]",
@@ -757,6 +767,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13533",
+          "author": "elizabethl",
+          "description": "We’re thrilled to announce the launch of the refreshed Orienteering Australia Elite Rankings website! \nRefreshed Elite Rankings website first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/refreshed-elite-rankings-website/",
+          "publishedOn": "2025-03-24T11:54:17.000Z",
+          "wordCount": 2252,
+          "title": "Refreshed Elite Rankings website",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/OAopenGraph.jpg"
+        },
         {
           "id": "https://orienteering.asn.au/?p=13509",
           "author": "elizabethl",
