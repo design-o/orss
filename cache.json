@@ -99,6 +99,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14525",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bendigo-orienteering-at-browns-reef-saturday-march-29/",
+          "publishedOn": "2025-03-21T01:21:20.000Z",
+          "wordCount": 1004,
+          "title": "Bendigo Orienteering at Browns Reef, Saturday March 29",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14402",
           "author": "Debbie Dodd",
           "description": "Don't miss this fantastic sprint at Tatterson Park next Saturday - and Kids Run Free! Online entry extended until 5pm Frdiay 21 March, and entry on the day is also available\nTatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free! first appeared on Orienteering Victoria.",
@@ -769,16 +779,6 @@
           "wordCount": 4328,
           "title": "Learmount is Rescued",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/11/Learmount.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6382",
-          "author": "NIOA Secretary",
-          "description": "Entries for the NI Colour Series 1 at Learmount Forest at Park, near Claudy/Dungiven on Saturday 1 March close this evening (Sunday 23rd February 2025) at 21:30. All the details are on the North West Orienteering Club website with entries on SI Entries. Be sure...\nThe post Entries for Learmount Closing appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/entries-for-learmount-closing/",
-          "publishedOn": "2025-02-23T15:38:19.000Z",
-          "wordCount": 4330,
-          "title": "Entries for Learmount Closing",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/02/Learmount-NICS.jpg"
         }
       ]
     },
