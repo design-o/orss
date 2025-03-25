@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T12:17:09.312Z</updated>
+    <updated>2025-03-25T18:12:43.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Inter Club Championships 2025]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55328</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-inter-club-championships-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-inter-club-championships-2025"/>
+        <updated>2025-03-25T12:41:39.000Z</updated>
+        <summary type="html"><![CDATA[This year, having sought feedback again at the end of 2024 , the Scottish Inter Club Championships will again be […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Early Bird catches the Discounted Entry Fees]]></title>
         <id>https://www.niorienteering.org.uk/?p=6457</id>
@@ -808,17 +818,6 @@ First MelbushO for 2025 at Darebin Parklands, Sunday March 16 first appeared on 
         <summary type="html"><![CDATA[Well February is always a bit of a mixed bag when it comes to weather and this year’s CompassSport Cup/ […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Provisional JWOC & EYOC Teams announced]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62131</id>
-        <link href="https://www.orienteering.org.nz/news/2025-provisional-jwoc-eyoc-teams-announced/"/>
-        <updated>2025-02-24T06:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Thank you to everyone for your patience. We know there were a number of families wanting to purchase flights but in the efforts of getting things correct, and against the backdrop of last year’s appeal, ONZ’s Executive Committee sort additional information from the convenor of selectors before teams were named. At the bottom of this […]
-2025 Provisional JWOC & EYOC Teams announced first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
