@@ -594,6 +594,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=55359",
+          "author": "nikkihoward",
+          "description": "The PVG scheme helps ensure that people who are unsuitable to work with children and protected adults cannot do regulated […]",
+          "link": "https://www.scottish-orienteering.org/news/changes-to-the-pvg-system-come-into-effect-from-1st-april/?utm_source=rss&utm_medium=rss&utm_campaign=changes-to-the-pvg-system-come-into-effect-from-1st-april",
+          "publishedOn": "2025-03-27T16:35:59.000Z",
+          "wordCount": 1979,
+          "title": "Changes to the PVG system come into effect from 1st April",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55352",
+          "author": "suzannerb",
+          "description": "Report by Katherine Ivory Are you getting the most as a coach from your planning software?  Technical competency can really […]",
+          "link": "https://www.scottish-orienteering.org/news/conquering-condes-for-coaching-tools-and-tips-from-the-latest-soa-coach-cpd-forum/?utm_source=rss&utm_medium=rss&utm_campaign=conquering-condes-for-coaching-tools-and-tips-from-the-latest-soa-coach-cpd-forum",
+          "publishedOn": "2025-03-27T12:27:36.000Z",
+          "wordCount": 2063,
+          "title": "Conquering Condes for Coaching! – Tools and Tips from the latest SOA Coach CPD Forum",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/03/image.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=55328",
           "author": "nikkihoward",
           "description": "This year, having sought feedback again at the end of 2024 , the Scottish Inter Club Championships will again be […]",
@@ -720,6 +740,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6463",
+          "author": "NIOA Secretary",
+          "description": "Entries close on Thursday 27 March at 22:00 for NI Colour Series 2 on Sunday 30 March at Slieve Foye, Co Louth. The date, times (note also the clocks change to summer time) and venue have been changed following storm damage at Carnearney Forest. All...\nThe post Mamma Mia, How Can I Resist It? appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/mamma-mia-how-can-i-resist-it/",
+          "publishedOn": "2025-03-27T12:23:13.000Z",
+          "wordCount": 4356,
+          "title": "Mamma Mia, How Can I Resist It?",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/03/Carlingford.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6457",
           "author": "NIOA Secretary",
