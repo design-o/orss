@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T00:43:57.224Z</updated>
+    <updated>2025-03-27T06:13:31.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apply now: Jobs to develop Controller learning resources]]></title>
+        <id>https://orienteering.asn.au/?p=13548</id>
+        <link href="https://orienteering.asn.au/apply-now-jobs-to-develop-controller-learning-resources/"/>
+        <updated>2025-03-27T03:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Applications can still be submitted for the paid positions to develop Controller accreditation learning resources.
+Apply now: Jobs to develop Controller learning resources first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Course Setter of the Year Goes to Halloween Event]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14527</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-course-setter-of-the-year-goes-to-halloween-event/"/>
+        <updated>2025-03-27T03:28:30.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Andrew Turner for winning this year's Michael Hubbert Park Street Course Setter of the Year!  Read about the 2025 Awards Night.
+Park Street Course Setter of the Year Goes to Halloween Event first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Inter Club Championships 2025]]></title>
         <id>https://www.scottish-orienteering.org/?p=55328</id>
@@ -14,6 +36,17 @@
         <summary type="html"><![CDATA[This year, having sought feedback again at the end of 2024 , the Scottish Inter Club Championships will again be […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO at Cardinia Reservoir, Sunday 30 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14453</id>
+        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
+        <updated>2025-03-24T23:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Come along to Cardinia next Sunday for the second MelbushO event of 2025
+MelBushO at Cardinia Reservoir, Sunday 30 March first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -118,6 +151,15 @@ Selection Notice | 2025 MTBO World Championships first appeared on Orienteering 
         <summary type="html"><![CDATA[21-year-old Ella Turesson, Sweden and home athlete Aapo Viippola are the Middle Distance champions after today’s races on technically challenging courses in varied terrain. Sweden won all the women’s medals and Finland all the men’s. Ella Turesson followed up her third place in Middle in the second round of the World Cup with a convincing […]]]></summary>
         <author>
             <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic MTBO Champs Weekend, 12-13 April]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14351</id>
+        <link href="https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/"/>
+        <updated>2025-03-22T00:43:07.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
