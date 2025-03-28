@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76133",
+          "author": "Erling Thisted",
+          "description": "Danish music artist MØ has spent the last 15 years creating monster hits like “Lean On” and “Final Song”, won several awards and toured the world with her music. But what you probably don’t know is that she is also a passionate orienteer, who took up the sport as a child and rediscovered the joy […]",
+          "link": "https://orienteering.sport/podcast-mo-on-orienteering-and-music-racing-maja-alm-in-their-youth-and-struggling-with-the-compass/",
+          "publishedOn": "2025-03-27T19:48:21.000Z",
+          "wordCount": 1480,
+          "title": "Podcast: MØ – on orienteering and music, racing Maja Alm in their youth and struggling with the compass",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/03/2024_paaskeloeb_mo_thomasjensen-1024x768.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76110",
           "author": "Clive",
           "description": "Sweden was by far the most successful nation at ESOC, winning all but two of the gold medals. Magdalena Olsson won two individual golds, and Jonatan Ståhl and young Ella Turesson won one each. Home nation Finland (Niklas Ekstrӧm and Aapo Viippola) won the other two individual golds. Sweden took home ten individual medals in […]",
@@ -508,26 +518,6 @@
           "wordCount": 2573,
           "title": "2025 Orienteering New Zealand Annual General Meeting (AGM)",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/02/2025-AGM-Logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=62144",
-          "author": "Christo Peters",
-          "description": "Please take note of the out-of-bounds areas reserved for competition for the 2026 Kings Birthday Championships (incorporating the Auckland Triple Crown Championships) This is a multi-day event held from 30th May to the 1st Jun 2026. This will be a cumulative time event over the 3 days in the same format as the Auckland Triple Crown in […]\nEmbargoed areas – 2026 Kings Birthday first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/embargoed-areas-2026-kings-birthday/",
-          "publishedOn": "2025-02-26T09:39:55.000Z",
-          "wordCount": 2544,
-          "title": "Embargoed areas – 2026 Kings Birthday",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/02/2026-Kings-Birthday-Wkd-of-O-logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=62142",
-          "author": "Christo Peters",
-          "description": "JWOC 2025 ONZ is pleased to finalise the JWOC Team: The Orienteering New Zealand Senior Selection Panel has named the following team to attend the Junior World Orienteering Championships (JWOC) in Trentino, Italy 26th June – 3rd July. Men Sam Carryer (Auckland) Riley Croxford (Tasman) Felix Hunt (Canterbury) Jacob Knoef (Canterbury) Jake McLellan (Wellington) Eddie Swain (Tasman) […]\nJWOC Team finalised, EYOC team still provisional first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/jwoc-team-finalised-eyoc-team-still-provisional/",
-          "publishedOn": "2025-02-26T09:09:15.000Z",
-          "wordCount": 2467,
-          "title": "JWOC Team finalised, EYOC team still provisional",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/02/image.jpg"
         }
       ]
     },
