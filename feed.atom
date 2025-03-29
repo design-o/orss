@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-28T18:12:50.300Z</updated>
+    <updated>2025-03-29T00:43:25.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t be an April Fool!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6466</id>
+        <link href="https://www.niorienteering.org.uk/dont-be-an-april-fool/"/>
+        <updated>2025-03-28T18:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Don’t wait until April to enter the events of the fantastic Irish 5 Day on 1-5 May in Northern Ireland. The early bird entry fees end on Monday 31 March, so don’t delay – enter today! The extended bank holiday weekend comprises: Thursday 1 May:...
+The post Don’t be an April Fool! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: MØ – on orienteering and music, racing Maja Alm in their youth and struggling with the compass]]></title>
         <id>https://orienteering.sport/?p=76133</id>
