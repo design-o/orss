@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T18:11:32.310Z</updated>
+    <updated>2025-03-30T00:49:12.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ballymena is First Event in the 2025 NI Urban League]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6470</id>
+        <link href="https://www.niorienteering.org.uk/ballymena-is-first-event-in-the-2025-ni-urban-league/"/>
+        <updated>2025-03-29T19:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Cunning planner Richard Vasey has constructed courses in such a way that the Ballymena Urban event on Thursday May 1 will be the first outing of the 2025 NI Urban League. This is achieved by selecting certain common legs from the courses as below: NI...
+The post Ballymena is First Event in the 2025 NI Urban League appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t be an April Fool!]]></title>
         <id>https://www.niorienteering.org.uk/?p=6466</id>
@@ -805,36 +816,6 @@ Knock Out embargo for Nationals follow-on event first appeared on Orienteering N
         <updated>2025-03-01T01:11:41.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations for Mac Tíre Award]]></title>
-        <id>https://www.orienteering.ie/?p=20610</id>
-        <link href="https://www.orienteering.ie/nominations-for-mac-tire-award/"/>
-        <updated>2025-02-28T12:14:09.000Z</updated>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March Community Conversation – Development for Progression and Retention]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55094</id>
-        <link href="https://www.scottish-orienteering.org/news/march-community-conversation-development-for-progression-and-retention/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=march-community-conversation-development-for-progression-and-retention"/>
-        <updated>2025-02-28T11:08:54.000Z</updated>
-        <summary type="html"><![CDATA[The third installment of the 2025 Community Conversation programme is on Monday 3rd March at 1930 and you can now […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Orienteering New Zealand Annual General Meeting (AGM)]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62173</id>
-        <link href="https://www.orienteering.org.nz/news/2025-orienteering-new-zealand-annual-general-meeting-agm/"/>
-        <updated>2025-02-28T08:45:56.000Z</updated>
-        <summary type="html"><![CDATA[In accordance with the Orienteering New Zealand Constitution, ONZ wishes to advise members of the following dates: Mon 17th March – Final day for AGM Items of business to be given to the General Manager  Mon 31 March – AGM Agenda and Agenda Items circulated to clubs Wed 30 April – ONZ Annual General Meeting will take […]
-2025 Orienteering New Zealand Annual General Meeting (AGM) first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
