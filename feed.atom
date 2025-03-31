@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T06:14:20.189Z</updated>
+    <updated>2025-03-31T12:17:39.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beware the End of March]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6481</id>
+        <link href="https://www.niorienteering.org.uk/beware-the-end-of-march/"/>
+        <updated>2025-03-31T08:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Monday 31 March is the last day to enter the events of the Irish 5 Day over the May Bank Holiday weekend in Northern Ireland. Thursday 1 May: Urban event at Ballymena Friday 2 May: Irish Sprint Champs at Ulster University Coleraine Saturday 3 May:...
+The post Beware the End of March appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View from the Chair | March 2025]]></title>
+        <id>https://www.orienteering.org.nz/?p=62501</id>
+        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-march-2025/"/>
+        <updated>2025-03-31T07:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Now we are only weeks away from Nationals in Christchurch – woohoo see some of you there. Our Board meeting for March will be in early April but as a Board in March we have considered the updated constitution and the 2024 annual report – wow we have some great figures in there showing the […]
+View from the Chair | March 2025 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OK Nuts 2025 Results]]></title>
+        <id>https://slow.org.uk/?p=23189</id>
+        <link href="https://slow.org.uk/racereports/ok-nuts-2025-results/"/>
+        <updated>2025-03-31T07:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Trophy Winners Officials’ Comments Organiser – Mike Garvin Well done to the trophy winners and to everyone who completed their courses. As with SLOW’s 2022 [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katoa Po 2025  | 45th edition!]]></title>
+        <id>https://www.orienteering.org.nz/?p=62498</id>
+        <link href="https://www.orienteering.org.nz/rogaining/katoa-po-2025-45th-edition/"/>
+        <updated>2025-03-31T07:37:22.000Z</updated>
+        <summary type="html"><![CDATA[The 45th Katoa Po and Explorer events took place from the night of March 8th to 9th, 2025, under perfect cool and clear weather. The new/old map, Hoanga/Ngahiwi featured steep terrain, cliffs, and native bush that challenged competitors, especially in the dark. Around 120 competitors took part in the relay, 40 in the Explorer, and […]
+Katoa Po 2025  | 45th edition! first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save the Sanctuary | Fundraising fun]]></title>
+        <id>https://www.orienteering.org.nz/?p=62494</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/save-the-sanctuary-fundraising-fun/"/>
+        <updated>2025-03-31T07:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Sanctuary Mountain Maungatautari is New Zealand’s largest pest-proof fenced eco-sanctuary. The Waikato forest is home to much of New Zealand’s unique and endangered wildlife. After hearing that the Sanctuary was in a financial crisis Orienteering Waikato decided to organise a fundraising Rogaine on the Maunga. Aidan Boswell, Andrew de Groot and Mark Gray designed 3 courses (2,4 & […]
+Save the Sanctuary | Fundraising fun first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NZ School Rogaine Champs & NZ Short Course Championships  |   Entries close Wed 2 April]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62491</id>
+        <link href="https://www.orienteering.org.nz/news/nz-school-rogaine-champs-nz-short-course-championships-entries-close-wed-2-april/"/>
+        <updated>2025-03-31T07:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Both events will be held concurrently on Sunday 6th April at Waikoha Station, Karamu. This is within half an hour of Hamilton. Waikoha Station is a large sheep and beef farm. The map includes open farmland, native bush, pine trees, scattered rocks, steep hills and great views of Mt Pirongia and the surrounding countryside. The […]
+NZ School Rogaine Champs & NZ Short Course Championships  |   Entries close Wed 2 April first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backend  |   Points system gets a makeover]]></title>
+        <id>https://www.orienteering.org.nz/?p=62487</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/backend-points-system-gets-a-makeover/"/>
+        <updated>2025-03-31T07:19:45.000Z</updated>
+        <summary type="html"><![CDATA[After taking over the role of PAPO OY statistician, in 2021, Ryan started developing a new OY points system to account for the new OY rules for that year. The new system was designed to calculate points automatically as opposed to manually having to update the points in a spreadsheet, and also had a web […]
+Backend  |   Points system gets a makeover first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An orienteering adventure|  From Swedish forest to NZ bush]]></title>
+        <id>https://www.orienteering.org.nz/?p=62484</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/an-orienteering-adventure-from-swedish-forest-to-nz-bush/"/>
+        <updated>2025-03-31T07:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Around this time last year, Linus Wernström and Filippa Braun sent in an application for a working holiday visa to New Zealand, which filled them with excitement and anticipation. They had no idea what lay ahead – but adventure was awaiting. Their southern hemisphere orienteering story is here: “The first step was choosing a city to […]
+An orienteering adventure|  From Swedish forest to NZ bush first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dunedin Orienteering – School Series 2025]]></title>
+        <id>https://www.orienteering.org.nz/?p=62477</id>
+        <link href="https://www.orienteering.org.nz/schools/dunedin-orienteering-school-series-2025/"/>
+        <updated>2025-03-31T07:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Over the last two months the Dunedin Orienteering Club has run its annual school series. Introduction to orienteering day – Sunday 16 February This year we started the series with a dedicated introduction to orienteering day at Otago Boys’ High School. The idea of this event to support new or novice students to understand not […]
+Dunedin Orienteering – School Series 2025 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O-Zone  |  Help shape its future]]></title>
+        <id>https://www.orienteering.org.nz/?p=62474</id>
+        <link href="https://www.orienteering.org.nz/orienteering-nz/o-zone-help-shape-its-future/"/>
+        <updated>2025-03-31T06:41:18.000Z</updated>
+        <summary type="html"><![CDATA[Late last year we shared news in Compass Point of a new technology initiative and central hub known as O-Zone. We hope this will offer NZ orienteers an enhanced experience of accessing digital information on events, results, athletes and more. We are pleased to let you know development of the hub has taken strides thanks […]
+O-Zone  |  Help shape its future first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to orienteering  |  Nelson]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62471</id>
+        <link href="https://www.orienteering.org.nz/news/intro-to-orienteering-nelson/"/>
+        <updated>2025-03-31T06:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Nelson Orienteering Club is looking to host a Controllers Clinic in Nelson in August. A date has not been set but either 2-3 or 23-24 August 2025. Please reply to Richard Dunn at if you are interested and which weekend you prefer and we will see if we can get someone to deliver the course. […]
+Intro to orienteering  |  Nelson first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 ONZ Annual General Meeting (AGM)]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62468</id>
+        <link href="https://www.orienteering.org.nz/news/2025-onz-annual-general-meeting-agm/"/>
+        <updated>2025-03-31T06:25:46.000Z</updated>
+        <summary type="html"><![CDATA[In accordance with the Orienteering New Zealand Constitution, please take note of the following dates: Please register your attendance at the AGM here.
+2025 ONZ Annual General Meeting (AGM) first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Provisional Team Selection | WOC 2025]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62464</id>
