@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T12:17:39.028Z</updated>
+    <updated>2025-03-31T18:13:01.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -949,17 +949,6 @@ The post Learmount is Rescued appeared first on NI Orienteering Association.]]><
 The Australian Orienteer: March Edition Now Online first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knock Out embargo for Nationals follow-on event]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62177</id>
-        <link href="https://www.orienteering.org.nz/news/knock-out-embargo-for-nationals-follow-on-event/"/>
-        <updated>2025-03-02T00:38:57.000Z</updated>
-        <summary type="html"><![CDATA[The embargo for the National Sprint League Knock Out event has been released and is effective as of 02/03/2025. The following areas are embargoed:• University of Lincoln• University of Canterbury Dovedale Campus• University of Canterbury HallsDetailed areas can be viewed on Google Maps on the programme page of the Nationals website linked below.The use of orienteering maps and […]
-Knock Out embargo for Nationals follow-on event first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
