@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T18:11:04.362Z</updated>
+    <updated>2025-03-31T00:48:17.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -354,6 +354,17 @@ The post Take it easy, Take it easy, Take it nice and slow, Does your mother kno
         <updated>2025-03-18T06:05:10.000Z</updated>
         <summary type="html"><![CDATA[Don't miss this fantastic sprint at Tatterson Park next Saturday - and Kids Run Free! Online entry extended until 5pm Frdiay 21 March, and entry on the day is also available
 Tatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14501</id>
+        <link href="https://www.vicorienteering.asn.au/maxi-score-event-at-tunnel-hill-chewton-sunday-23-march/"/>
+        <updated>2025-03-18T01:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Maximise the fun at this year's Maxi Score event.  Choose a 90 minute or 180 minute option, and collect as many points as you can. Entries close Thursday 20 March
+Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
