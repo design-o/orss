@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T12:17:55.302Z</updated>
+    <updated>2025-04-01T18:13:01.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -907,17 +907,6 @@ EYOC Team finalised and Team Management named for JWOC, EYOC, and WOC first appe
 Eventor Australia Server Switch – Eventor Offline Notification first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, March 5-11 – Winter Fixture Now Available]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-03-03T01:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Grab a brand new Winter Fixture, and start planning your Park Street schedule for the next 6 months
-Park Street Update, March 5-11 – Winter Fixture Now Available first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
