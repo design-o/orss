@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76142",
+          "author": "Erling Thisted",
+          "description": "Last week, the highest level of orienteering event in China, the National Orienteering Championships were held in the Yanshan district. The championships opened on Monday and are actually the 2024 edition because it was postponed from last year. The competition attracted 117 teams and 912 athletes from 25 provinces, autonomous regions, municipalities directly under the […]",
+          "link": "https://orienteering.sport/chinese-championships-with-huichang-punching-system/",
+          "publishedOn": "2025-04-02T07:20:10.000Z",
+          "wordCount": 1575,
+          "title": "Chinese championships with Huichang punching system",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/03/2025_chinesechamps2-1024x676.jpeg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76133",
           "author": "Erling Thisted",
           "description": "Danish music artist MØ has spent the last 15 years creating monster hits like “Lean On” and “Final Song”, won several awards and toured the world with her music. But what you probably don’t know is that she is also a passionate orienteer, who took up the sport as a child and rediscovered the joy […]",
@@ -800,6 +810,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6496",
+          "author": "NIOA Secretary",
+          "description": "Testing orienteering was experienced on Carlingford Mountain for the second outing of the NI Colour Series, held in conjuntion with 3ROC and the Leinster League, following storm damage to the original venue of Carneaney Forest.  Even on a beautiful sunny day, error free runs were...\nThe post Challenging Carlingford appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/challenging-carlingford/",
+          "publishedOn": "2025-04-02T08:57:35.000Z",
+          "wordCount": 4320,
+          "title": "Challenging Carlingford",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/04/Carlingford-map.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6481",
           "author": "NIOA Secretary",
