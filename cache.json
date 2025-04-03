@@ -497,6 +497,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=48493",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Orienteering For Beginners",
+          "link": "https://neooc.com/new-event-orienteering-for-beginners-sippo-lake-sunday-april-13th/",
+          "publishedOn": "2025-04-03T01:54:47.000Z",
+          "wordCount": 1654,
+          "title": "New Event | Orienteering For Beginners | Sippo Lake | Sunday, April 13th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
+        {
           "id": "https://neooc.com/?p=48378",
           "author": "Northeast Ohio Orienteering Club",
           "description": "Extended One Week – Until Sunday, March 30th 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T00:44:03.182Z</updated>
+    <updated>2025-04-03T06:14:30.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | Orienteering For Beginners | Sippo Lake | Sunday, April 13th]]></title>
+        <id>https://neooc.com/?p=48493</id>
+        <link href="https://neooc.com/new-event-orienteering-for-beginners-sippo-lake-sunday-april-13th/"/>
+        <updated>2025-04-03T01:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering For Beginners]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Challenging Carlingford]]></title>
         <id>https://www.niorienteering.org.uk/?p=6496</id>
