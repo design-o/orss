@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T06:14:20.345Z</updated>
+    <updated>2025-04-04T12:16:53.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -805,16 +805,6 @@ Navigation Games | Orienteer-in-Residence Program first appeared on Orienteering
         <summary type="html"><![CDATA[An overview of the March Community Conversation! Community conversations bring members together each month to share experiences, successes, challenges and […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheen Common Night-O Results]]></title>
-        <id>https://slow.org.uk/?p=23070</id>
-        <link href="https://slow.org.uk/racereports/sheen-results-mar25/"/>
-        <updated>2025-03-05T21:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Provisional series results: Long Champions – Matthias Mahr + Iris Lueke Short Champions [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
