@@ -274,16 +274,6 @@
           "wordCount": 790,
           "title": "Ted Lucey RIP",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=20615",
-          "author": "Operations Manager",
-          "description": "2025 Senior Squad Selection Policy for WOC (Finland)",
-          "link": "https://www.orienteering.ie/woc-squad-selection-policy/",
-          "publishedOn": "2025-03-05T15:44:56.000Z",
-          "wordCount": 735,
-          "title": "WOC Squad Selection Policy",
-          "imageUrl": null
         }
       ]
     },
@@ -506,6 +496,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=48509",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "It was sent in error.",
+          "link": "https://neooc.com/please-disregard-the-last-email-2025-fry-family-park-self-serve-orienteering/",
+          "publishedOn": "2025-04-04T01:04:18.000Z",
+          "wordCount": 1630,
+          "title": "Please Disregard the Last Email | 2025 Fry Family Park Self Serve Orienteering",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
         {
           "id": "https://neooc.com/?p=48406",
           "author": "Jay Smink",
