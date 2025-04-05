@@ -246,6 +246,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20733",
+          "author": "Operations Manager",
+          "description": "Our selectors have released this years Selection Policy for SHI squads 2025. Find out more here!",
+          "link": "https://www.orienteering.ie/shi-selection-policy/",
+          "publishedOn": "2025-04-05T10:21:47.000Z",
+          "wordCount": 734,
+          "title": "SHI Selection Policy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20674",
           "author": "Deirdre",
           "description": "It seems fitting that the lifespan of Ajax Orienteering and Hill Running Club was bookended by the club running two successful Leinster Orienteering Championships – in the Vale of Clara in February 2025 and in Aughavannagh in 1980 (which was the club’s first time hosting an event). Ajax Orienteering and Athletic Club was founded in […]",
