@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T18:13:21.608Z</updated>
+    <updated>2025-04-05T00:43:25.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -795,16 +795,6 @@ Apply Now: Exciting orienteering jobs to enhance participation first appeared on
 Navigation Games | Orienteer-in-Residence Program first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do we encourage people to continue orienteering?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55147</id>
-        <link href="https://www.scottish-orienteering.org/news/how-do-we-encourage-people-to-continue-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-do-we-encourage-people-to-continue-orienteering"/>
-        <updated>2025-03-06T10:18:10.000Z</updated>
-        <summary type="html"><![CDATA[An overview of the March Community Conversation! Community conversations bring members together each month to share experiences, successes, challenges and […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
 </feed>
