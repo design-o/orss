@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T18:11:33.470Z</updated>
+    <updated>2025-04-06T00:48:36.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -784,27 +784,6 @@ Apply Now: Exciting orienteering jobs to enhance participation first appeared on
         <summary type="html"><![CDATA[For every year, for more than a century the 8th March is recognised as International Women’s Day. International Women’s Day […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ted Lucey RIP]]></title>
-        <id>https://www.orienteering.ie/?p=20636</id>
-        <link href="https://www.orienteering.ie/ted-lucey-rip/"/>
-        <updated>2025-03-07T10:05:05.000Z</updated>
-        <summary type="html"><![CDATA[It is with great sadness that Orienteering Ireland has learned of the passing of Ted Lucey (BOC). Ted, a well known orienteer, made a massive contribution to orienteering in Cork & across Munster over the years. We would like to extend our deepest sympathy to Annemarie, Sharon, Jonathan and all the Lucey family at this […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigation Games | Orienteer-in-Residence Program]]></title>
-        <id>https://www.orienteering.org.nz/?p=62324</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/navigation-games-orienteer-in-residence-program/"/>
-        <updated>2025-03-07T06:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Who is Navigation Games?Navigation Games is a 501(c)3 not-for-profit organization with the mission to develop, share anddeliver navigation education for children, engage families and enable access to the sport oforienteering, and promote public health through outdoor exercise. We believe orienteering is one ofthe best ways to not only encourage map navigation and outdoor physical activity […]
-Navigation Games | Orienteer-in-Residence Program first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
