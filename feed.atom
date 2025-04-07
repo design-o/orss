@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T06:14:59.219Z</updated>
+    <updated>2025-04-07T12:17:51.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -774,17 +774,6 @@ The post May Day, May Day, May Day! appeared first on NI Orienteering Associatio
         <summary type="html"><![CDATA[Results 2025 West Woods Results Livelox Many Thanks to our Volunteers Event Director: Jonathan Boyer Overall setup, Admin, Check-in: Jay Smink, Kathy Christy, Kara McDivitt Course Design: Jonathan Course Setting: Jonathan, Jay Instruction: Howard Montgomery, Kathy, Jay Control Collection: Jay, Jonathan, Kathy, Kara, Fred Mailey Park Liaison: Jonathan Park Administrator Trevor Wearstler: Outdoor Education Specialist, […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply Now: Exciting orienteering jobs to enhance participation]]></title>
-        <id>https://orienteering.asn.au/?p=13435</id>
-        <link href="https://orienteering.asn.au/apply-now-exciting-orienteering-jobs-to-enhance-participation/"/>
-        <updated>2025-03-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia (OA) is calling on orienteers to apply for a series of key contractor positions designed to enhance the organisation's operations and increase participation in the sport.
-Apply Now: Exciting orienteering jobs to enhance participation first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
