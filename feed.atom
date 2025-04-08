@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T06:14:28.165Z</updated>
+    <updated>2025-04-08T12:17:50.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home International Selection]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6510</id>
+        <link href="https://www.niorienteering.org.uk/home-international-selection/"/>
+        <updated>2025-04-08T08:43:46.000Z</updated>
+        <summary type="html"><![CDATA[Would you like to run on the Ireland Home International Team for the 2025 events? The please check carefully the selection policies which are now available for at About>International Representation and contacts for the team manager. The dates for this year are: Seniors 27-28/09/25 Lake...
+The post Home International Selection appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 AGM | Updated documentation]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62818</id>
+        <link href="https://www.orienteering.org.nz/news/2025-agm-updated-documentation/"/>
+        <updated>2025-04-08T06:29:52.000Z</updated>
+        <summary type="html"><![CDATA[Below are the links to the documentation to the 2025 ONZ AGM. Please note that the Annual Report has been updated 1 April when it was originally sent out to clubs and registered AGM attendees. The Annual Report update was primarily to change figures and graphs through the document because we received additional event information […]
+2025 AGM | Updated documentation first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian 3 Days Promotion Winner]]></title>
         <id>https://orienteering.asn.au/?p=13650</id>
@@ -764,16 +786,6 @@ The post Coaching for Coaches appeared first on NI Orienteering Association.]]><
 The post May Day, May Day, May Day! appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | 2025 West Woods Classic | Saturday, March 8, 2025]]></title>
-        <id>https://neooc.com/?p=48271</id>
-        <link href="https://neooc.com/results-2025-west-woods-classic-saturday-march-8-2025/"/>
-        <updated>2025-03-09T20:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Results 2025 West Woods Results Livelox Many Thanks to our Volunteers Event Director: Jonathan Boyer Overall setup, Admin, Check-in: Jay Smink, Kathy Christy, Kara McDivitt Course Design: Jonathan Course Setting: Jonathan, Jay Instruction: Howard Montgomery, Kathy, Jay Control Collection: Jay, Jonathan, Kathy, Kara, Fred Mailey Park Liaison: Jonathan Park Administrator Trevor Wearstler: Outdoor Education Specialist, […]]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
