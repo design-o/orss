@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T00:44:25.392Z</updated>
+    <updated>2025-04-09T06:14:41.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -765,16 +765,6 @@ The post Coaching for Coaches appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[A big thank you to Simon for planning his first Street-O event. It was very well organised and quite a tricky course! Also a big [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fred Calnan RIP]]></title>
-        <id>https://www.orienteering.ie/?p=20643</id>
-        <link href="https://www.orienteering.ie/fred-calnan-rip/"/>
-        <updated>2025-03-10T17:39:08.000Z</updated>
-        <summary type="html"><![CDATA[It is with great sadness that Orienteering Ireland has learned of the passing of Fred Calnan (CorkO). Fred, was a founding member of CorkO who continued to orienteer into his 90s. We would like to extend our deepest sympathy to Pat and Fred’s family. Fred’s funeral arrangements can be found on RIP.ie; https://rip.ie/death-notice/fred-calnan-cork-rosscarbery-587581 Ar dheis […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
 </feed>
