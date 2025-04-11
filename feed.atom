@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T06:13:56.057Z</updated>
+    <updated>2025-04-11T12:17:24.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Ireland AGM 2025]]></title>
+        <id>https://www.orienteering.ie/?p=20788</id>
+        <link href="https://www.orienteering.ie/orienteering-ireland-agm-2025/"/>
+        <updated>2025-04-11T09:09:28.000Z</updated>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ANNUAL GENERAL MEETING – MONDAY 14 APRIL]]></title>
         <id>https://orienteering.asn.au/?p=13714</id>
@@ -776,16 +785,6 @@ The post Coaching for Coaches appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night Series Results 2024-25]]></title>
-        <id>https://slow.org.uk/?p=23106</id>
-        <link href="https://slow.org.uk/racereports/night-series-results-2025/"/>
-        <updated>2025-03-12T23:27:53.000Z</updated>
-        <summary type="html"><![CDATA[Long – champions Matthias Mahr & Iris Lueke Short – champions Angela Darley and Simon Carswell Thank you to everyone involved in helping the series [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>

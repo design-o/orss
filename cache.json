@@ -256,6 +256,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20788",
+          "author": "Operations Manager",
+          "description": "",
+          "link": "https://www.orienteering.ie/orienteering-ireland-agm-2025/",
+          "publishedOn": "2025-04-11T09:09:28.000Z",
+          "wordCount": 825,
+          "title": "Orienteering Ireland AGM 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20733",
           "author": "Operations Manager",
           "description": "Our selectors have released this years Selection Policy for SHI squads 2025. Find out more here!",
@@ -301,16 +311,6 @@
           "wordCount": 2746,
           "title": "Bethnal Green Street-O, Tuesday 13 May",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/clapham-street-o-results/files/Clapham_StreetO_2024_5.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=23106",
-          "author": "Steve Clelland",
-          "description": "Long – champions Matthias Mahr & Iris Lueke Short – champions Angela Darley and Simon Carswell Thank you to everyone involved in helping the series [...]",
-          "link": "https://slow.org.uk/racereports/night-series-results-2025/",
-          "publishedOn": "2025-03-12T23:27:53.000Z",
-          "wordCount": 2050,
-          "title": "Night Series Results 2024-25",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/richmond_dusk-scaled.jpg"
         }
       ]
     },
