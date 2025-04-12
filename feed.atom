@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T06:11:57.417Z</updated>
+    <updated>2025-04-12T12:14:56.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Closing for Irish Champs Weekend]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6514</id>
+        <link href="https://www.niorienteering.org.uk/entries-closing-for-irish-champs-weekend/"/>
+        <updated>2025-04-12T08:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Don’t miss out in getting your entry in for the Irish Championship Weekend. The final deadline for entries is Sunday 13 April. All the info is on the Irish Champs website. Entries are on SI Entries. Enter as many events as you can! (Tick the...
+The post Entries Closing for Irish Champs Weekend appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Street-O series results after race 7]]></title>
         <id>https://slow.org.uk/?p=23243</id>
