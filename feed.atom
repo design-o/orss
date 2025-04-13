@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T06:12:56.377Z</updated>
+    <updated>2025-04-13T12:15:42.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Week 2025]]></title>
+        <id>https://orienteering.asn.au/?p=13719</id>
+        <link href="https://orienteering.asn.au/world-orienteering-week-2025/"/>
+        <updated>2025-04-13T06:24:59.000Z</updated>
+        <summary type="html"><![CDATA[In May 2025, between 17-25 May, any activity held can be registered as a World Orienteering Week event. Organise a WOW event today!
+World Orienteering Week 2025 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | 2025 Girdled Road Score | Lake County | Saturday, April 12, 2025]]></title>
         <id>https://neooc.com/?p=48562</id>
