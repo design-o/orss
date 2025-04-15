@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T12:17:39.033Z</updated>
+    <updated>2025-04-15T18:12:01.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Open NOW for the Scottish Schools Festival!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55513</id>
+        <link href="https://www.scottish-orienteering.org/news/entries-open-now-for-the-scottish-schools-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=entries-open-now-for-the-scottish-schools-festival"/>
+        <updated>2025-04-15T15:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Hopefully by now, you’ve got the date in your diary for this year’s Scottish Schools Orienteering Festival. If not, here’s […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FVO spoil us with a new forest area and Tea and Cakes in Limeriggs]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55496</id>
+        <link href="https://www.scottish-orienteering.org/news/fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs"/>
+        <updated>2025-04-15T15:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Issues with permissions might have meant that we headed for Airdrie for our 2nd Scottish Orienteering League (SOL) event of […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourth event in the Scottish Inter Club Championships sees no change]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55512</id>
+        <link href="https://www.scottish-orienteering.org/news/fourth-event-in-the-scottish-inter-club-championships-sees-no-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fourth-event-in-the-scottish-inter-club-championships-sees-no-change"/>
+        <updated>2025-04-15T15:21:25.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Scottish Sprint Championship was the 4th event in this years Scottish Inter Club Championships and saw no change […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprints in the Roxburgh sunshine]]></title>
         <id>https://www.scottish-orienteering.org/?p=55467</id>

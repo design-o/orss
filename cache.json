@@ -584,6 +584,36 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=55513",
+          "author": "louise",
+          "description": "Hopefully by now, you’ve got the date in your diary for this year’s Scottish Schools Orienteering Festival. If not, here’s […]",
+          "link": "https://www.scottish-orienteering.org/news/entries-open-now-for-the-scottish-schools-festival/?utm_source=rss&utm_medium=rss&utm_campaign=entries-open-now-for-the-scottish-schools-festival",
+          "publishedOn": "2025-04-15T15:40:06.000Z",
+          "wordCount": 1679,
+          "title": "Entries Open NOW for the Scottish Schools Festival!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/Screenshot-2025-04-15-162637-2.png"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55496",
+          "author": "nikkihoward",
+          "description": "Issues with permissions might have meant that we headed for Airdrie for our 2nd Scottish Orienteering League (SOL) event of […]",
+          "link": "https://www.scottish-orienteering.org/news/fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs/?utm_source=rss&utm_medium=rss&utm_campaign=fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs",
+          "publishedOn": "2025-04-15T15:22:54.000Z",
+          "wordCount": 1782,
+          "title": "FVO spoil us with a new forest area and Tea and Cakes in Limeriggs",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/69491B84-AAB5-472D-A6D8-41EB4D1640FD-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55512",
+          "author": "nikkihoward",
+          "description": "The 2025 Scottish Sprint Championship was the 4th event in this years Scottish Inter Club Championships and saw no change […]",
+          "link": "https://www.scottish-orienteering.org/news/fourth-event-in-the-scottish-inter-club-championships-sees-no-change/?utm_source=rss&utm_medium=rss&utm_campaign=fourth-event-in-the-scottish-inter-club-championships-sees-no-change",
+          "publishedOn": "2025-04-15T15:21:25.000Z",
+          "wordCount": 1665,
+          "title": "Fourth event in the Scottish Inter Club Championships sees no change",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=55467",
           "author": "nikkihoward",
           "description": "For some the 2025 Scottish Sprint Championship and 3rd Scottish Orienteering Urban League (SOUL) event of the year was the […]",
