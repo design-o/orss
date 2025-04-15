@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T00:46:24.313Z</updated>
+    <updated>2025-04-15T06:13:49.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easter and Anzac Weekend News]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14511</id>
+        <link href="https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/"/>
+        <updated>2025-04-14T07:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Download the all important Bulletin 2, check Eventor for start lists, and get all your other Easter-Anzac news here!
+Easter and Anzac Weekend News first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coach & Manager Applications | Southern Cross Challenge – NZ Schools Team]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63079</id>
@@ -253,6 +264,15 @@ WC1 and WOC Teams Finalised first appeared on Orienteering New Zealand.]]></summ
         <updated>2025-04-01T05:59:51.000Z</updated>
         <summary type="html"><![CDATA[Make sure you enter this fantastic triple header Champs weekend - normal entries close this Friday April 4
 Anzac Weekend Entries Closing Soon first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kooyoora WOC 85 Revisited, April 22-24]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14579</id>
+        <link href="https://www.vicorienteering.asn.au/kooyoora-woc-85-revisited-april-22-24/"/>
+        <updated>2025-04-01T00:25:30.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
@@ -780,17 +800,6 @@ Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March first appeared on Orie
         <summary type="html"><![CDATA[IOF Ethics Panel Chairperson since 2018, Bob Dredge was interviewed by the Swiss Orienteering Magazine for its first issue in 2025 about the work of the panel. We have been given permission to bring the Q&A interview here: Before Bob Dredge answered the interview questions, he made it clear that these are his personal thoughts […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coaching for Coaches]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6436</id>
-        <link href="https://www.niorienteering.org.uk/coaching-for-coaches-2/"/>
-        <updated>2025-03-16T16:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Sixteen qualified and prospective coaches gathered at the Glenpark Estate in Gortin on Saturday 15 March to be “coached as coaches”. After an introductory session, most of the morning was spent outdoors on coaching excercises. The first batch of excercises were on the Glenpark Estate...
-The post Coaching for Coaches appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>

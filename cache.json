@@ -129,6 +129,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14511",
+          "author": "Debbie Dodd",
+          "description": "Download the all important Bulletin 2, check Eventor for start lists, and get all your other Easter-Anzac news here!\nEaster and Anzac Weekend News first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/",
+          "publishedOn": "2025-04-14T07:45:28.000Z",
+          "wordCount": 1647,
+          "title": "Easter and Anzac Weekend News",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14557",
           "author": "Debbie Dodd",
           "description": "Gold mining on Saturday, granite on Sunday - the perfect preparation for Easter and Anzac weekend\nDouble Header Weekend of Bush Orienteering in Ballarat, April 5-6 first appeared on Orienteering Victoria.",
@@ -146,6 +156,16 @@
           "publishedOn": "2025-04-01T05:59:51.000Z",
           "wordCount": 1010,
           "title": "Anzac Weekend Entries Closing Soon",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14579",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/kooyoora-woc-85-revisited-april-22-24/",
+          "publishedOn": "2025-04-01T00:25:30.000Z",
+          "wordCount": 1029,
+          "title": "Kooyoora WOC 85 Revisited, April 22-24",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -739,16 +759,6 @@
           "wordCount": 4426,
           "title": "Take it easy, Take it easy, Take it nice and slow, Does your mother know?",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/03/Carlingford.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6436",
-          "author": "NIOA Secretary",
-          "description": "Sixteen qualified and prospective coaches gathered at the Glenpark Estate in Gortin on Saturday 15 March to be “coached as coaches”. After an introductory session, most of the morning was spent outdoors on coaching excercises. The first batch of excercises were on the Glenpark Estate...\nThe post Coaching for Coaches appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/coaching-for-coaches-2/",
-          "publishedOn": "2025-03-16T16:39:23.000Z",
-          "wordCount": 4386,
-          "title": "Coaching for Coaches",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/03/Coaching-Day.jpg"
         }
       ]
     },
