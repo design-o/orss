@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T06:14:33.376Z</updated>
+    <updated>2025-04-16T12:17:56.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOF TV gathers all 10Mila viewers]]></title>
+        <id>https://orienteering.sport/?p=76232</id>
+        <link href="https://orienteering.sport/iof-tv-gathers-all-10mila-viewers/"/>
+        <updated>2025-04-16T06:41:36.000Z</updated>
+        <summary type="html"><![CDATA[When the prestigious 10Mila club relays are run on the weekend of May 3-4, everyone can follow the intense competitions on IOF TV. This year, all three commentary languages: English, Swedish and Finnish are gathered in one place – IOF TV, where you can freely choose between the languages ​​once you have bought your ticket. […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries Open NOW for the Scottish Schools Festival!]]></title>
         <id>https://www.scottish-orienteering.org/?p=55513</id>
