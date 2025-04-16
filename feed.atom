@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T18:12:01.546Z</updated>
+    <updated>2025-04-16T00:46:09.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -820,26 +820,6 @@ Tatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free! first a
 Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Ski Orienteering medals at stake in Finland]]></title>
-        <id>https://orienteering.sport/?p=76012</id>
-        <link href="https://orienteering.sport/european-ski-orienteering-medals-at-stake-in-finland/"/>
-        <updated>2025-03-17T11:36:10.000Z</updated>
-        <summary type="html"><![CDATA[The international Ski Orienteering season will reach its peak this week when the European Ski Orienteering Championships and Ski Orienteering World Cup finals are held in Posio, Finland. The four races from Thursday to Sunday also host the Junior World SkiO Championships and the European Youth SkiO Championships. For the seniors, a mixed sprint relay, […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Doing the right and just thing” – Q&A with Ethics Panel Chairperson Bob Dredge]]></title>
-        <id>https://orienteering.sport/?p=76004</id>
-        <link href="https://orienteering.sport/doing-the-right-and-just-thing-qa-with-ethics-panel-chairperson-bob-dredge/"/>
-        <updated>2025-03-17T08:26:45.000Z</updated>
-        <summary type="html"><![CDATA[IOF Ethics Panel Chairperson since 2018, Bob Dredge was interviewed by the Swiss Orienteering Magazine for its first issue in 2025 about the work of the panel. We have been given permission to bring the Q&A interview here: Before Bob Dredge answered the interview questions, he made it clear that these are his personal thoughts […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
