@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T00:44:55.385Z</updated>
+    <updated>2025-04-17T06:13:49.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -787,16 +787,6 @@ Australian 3 Days – What to Expect & Entry Fees Refunded first appeared on Ori
 The post Help Shape the Future appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th]]></title>
-        <id>https://neooc.com/?p=48360</id>
-        <link href="https://neooc.com/results-2025-richfield-self-serve-event-at-richfield-heritage-preserve-saturday-mar-15th-thru-23th/"/>
-        <updated>2025-03-18T14:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Ongoing Overall Results Here! Submit your own Results here! (If you skipped the Tech) Registration and Map Download here! (Open til Sunday, March 23rd) See you out there!]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
