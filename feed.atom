@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T18:14:01.841Z</updated>
+    <updated>2025-04-17T00:44:55.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -797,39 +797,6 @@ The post Help Shape the Future appeared first on NI Orienteering Association.]]>
         <summary type="html"><![CDATA[Ongoing Overall Results Here! Submit your own Results here! (If you skipped the Tech) Registration and Map Download here! (Open til Sunday, March 23rd) See you out there!]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take it easy, Take it easy, Take it nice and slow, Does your mother know?]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6443</id>
-        <link href="https://www.niorienteering.org.uk/take-it-easy-take-it-easy-take-it-nice-and-slow-does-your-mother-know/"/>
-        <updated>2025-03-18T09:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Slow and steady is likely to be a good strategy for NI Colour Series 2 at Carlingford on 30 March. The open mountain terrain of Slieve Foye is probably the most taxing orienteering terrain on the island of Ireland north of Co Cork. Do note...
-The post Take it easy, Take it easy, Take it nice and slow, Does your mother know? appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14402</id>
-        <link href="https://www.vicorienteering.asn.au/tatterson-tangle-saturday-evening-sprint-february-22/"/>
-        <updated>2025-03-18T06:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss this fantastic sprint at Tatterson Park next Saturday - and Kids Run Free! Online entry extended until 5pm Frdiay 21 March, and entry on the day is also available
-Tatterson Tangle, Saturday Afternoon Sprint, March 22 – Kids Run Free! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14501</id>
-        <link href="https://www.vicorienteering.asn.au/maxi-score-event-at-tunnel-hill-chewton-sunday-23-march/"/>
-        <updated>2025-03-18T01:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Maximise the fun at this year's Maxi Score event.  Choose a 90 minute or 180 minute option, and collect as many points as you can. Entries close Thursday 20 March
-Maxi Score Event at Tunnel Hill, Chewton, Sunday 23 March first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
