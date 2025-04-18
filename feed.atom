@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T00:44:36.650Z</updated>
+    <updated>2025-04-18T06:13:39.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -786,17 +786,6 @@ Australian 3 Days – What to Expect & Entry Fees Refunded first appeared on Ori
         <summary type="html"><![CDATA[Sweden won the first gold medal at the European Ski Orienteering Championships in Finland, which began on Thursday morning with the Sprint Relay in the Kohtilathi terrain at Posio. The Swedish team with Magdalena Olsson and Jonatan Ståhl delivered some solid performances and led the relay almost the entire way through the six legs. A […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help Shape the Future]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6451</id>
-        <link href="https://www.niorienteering.org.uk/help-shape-the-future/"/>
-        <updated>2025-03-19T12:44:48.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering Foundation have launched a survey to help develop our sport, focusing on the input of our many volunteers. If you have spent decades officiating, have helped once as an on the day helper, or especially have never volunteered at all in the sport...
-The post Help Shape the Future appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
