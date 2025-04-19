@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T00:43:50.951Z</updated>
+    <updated>2025-04-19T06:13:06.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Map Downloads Active | 2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></title>
+        <id>https://neooc.com/?p=48620</id>
+        <link href="https://neooc.com/map-downloads-active-2025-fry-family-park-self-serve-stark-county-saturday-april-19th-thru-27th/"/>
+        <updated>2025-04-19T01:11:43.000Z</updated>
+        <summary type="html"><![CDATA[2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free! No Charge! | 2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></title>
         <id>https://neooc.com/?p=48593</id>
@@ -756,16 +766,6 @@ Australian 3 Days – What to Expect & Entry Fees Refunded first appeared on Ori
         <updated>2025-03-21T01:21:20.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating Neurodiversity Awareness Week]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55288</id>
-        <link href="https://www.scottish-orienteering.org/news/celebrating-neurodiversity-awareness-week/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=celebrating-neurodiversity-awareness-week"/>
-        <updated>2025-03-20T16:45:21.000Z</updated>
-        <summary type="html"><![CDATA[This week marks Neurodiversity Awareness Week, an important time to raise awareness and celebrate the unique strengths and skills of […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
