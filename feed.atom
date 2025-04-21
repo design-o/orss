@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T00:49:36.863Z</updated>
+    <updated>2025-04-21T06:14:54.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -222,6 +222,17 @@ The post Home International Selection appeared first on NI Orienteering Associat
 Australian 3 Days Promotion Winner first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic MTBO Champs Weekend, 12-13 April]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14351</id>
+        <link href="https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/"/>
+        <updated>2025-04-06T01:43:07.000Z</updated>
+        <summary type="html"><![CDATA[The Victorian MTBO Champs Triple Header weekend is coming up fast - enter now!
+Vic MTBO Champs Weekend, 12-13 April first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -707,16 +718,6 @@ Provisional Team Selection – World Cup Round One first appeared on Orienteerin
 Selection Notice | 2025 MTBO World Championships first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESOC Middle Distance: Wins for Ella Turesson and Aapo Viippola]]></title>
-        <id>https://orienteering.sport/?p=76084</id>
-        <link href="https://orienteering.sport/esoc-middle-distance-wins-for-ella-turesson-and-aapo-viippola/"/>
-        <updated>2025-03-22T14:57:30.000Z</updated>
-        <summary type="html"><![CDATA[21-year-old Ella Turesson, Sweden and home athlete Aapo Viippola are the Middle Distance champions after today’s races on technically challenging courses in varied terrain. Sweden won all the women’s medals and Finland all the men’s. Ella Turesson followed up her third place in Middle in the second round of the World Cup with a convincing […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
