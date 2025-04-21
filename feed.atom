@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T18:11:53.576Z</updated>
+    <updated>2025-04-21T00:49:36.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -717,15 +717,6 @@ Selection Notice | 2025 MTBO World Championships first appeared on Orienteering 
         <summary type="html"><![CDATA[21-year-old Ella Turesson, Sweden and home athlete Aapo Viippola are the Middle Distance champions after today’s races on technically challenging courses in varied terrain. Sweden won all the women’s medals and Finland all the men’s. Ella Turesson followed up her third place in Middle in the second round of the World Cup with a convincing […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Champs Weekend, 12-13 April]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14351</id>
-        <link href="https://www.vicorienteering.asn.au/bikeo-75-summer-series-and-vic-mtbo-champs-entries-open/"/>
-        <updated>2025-03-22T00:43:07.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
