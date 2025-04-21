@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T12:17:56.167Z</updated>
+    <updated>2025-04-21T18:13:51.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -706,28 +706,6 @@ Refreshed Elite Rankings website first appeared on Orienteering Australia.]]></s
         <updated>2025-03-23T06:28:18.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provisional Team Selection – World Cup Round One]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62446</id>
-        <link href="https://www.orienteering.org.nz/news/provisional-team-selection-world-cup-round-one/"/>
-        <updated>2025-03-23T05:16:51.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering New Zealand Senior Selection Panel has named the following team to attend the Round One of the World Cup in Idre Fjäll, Poland 19-22 June 2025. Information on when these teams will be finalised can be found at the bottom of this email. MEN Zefa Fa’avae Joe Lynch Fergus O’Neill Jonty Oram Tim Robertson […]
-Provisional Team Selection – World Cup Round One first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Notice | 2025 MTBO World Championships]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62441</id>
-        <link href="https://www.orienteering.org.nz/news/selection-notice-2025-mtbo-world-championships/"/>
-        <updated>2025-03-23T04:17:35.000Z</updated>
-        <summary type="html"><![CDATA[2025 Mountain Bike Orienteering World Championships and Junior World Championships, Warsaw, Poland  11-17 August 2025. There will be no specific trial event. Athletes wishing to be considered for selection must be current financial members of an ONZ club and have no outstanding debts to ONZ. Selection will be based on all known recent form with […]
-Selection Notice | 2025 MTBO World Championships first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
