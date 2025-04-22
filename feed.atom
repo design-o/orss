@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T06:13:55.647Z</updated>
+    <updated>2025-04-22T12:17:53.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -677,16 +677,6 @@ Refreshed Elite Rankings website first appeared on Orienteering Australia.]]></s
         <summary type="html"><![CDATA[Sweden was by far the most successful nation at ESOC, winning all but two of the gold medals. Magdalena Olsson won two individual golds, and Jonatan Ståhl and young Ella Turesson won one each. Home nation Finland (Niklas Ekstrӧm and Aapo Viippola) won the other two individual golds. Sweden took home ten individual medals in […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extended One Week | 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Until Sunday, March 30th]]></title>
-        <id>https://neooc.com/?p=48378</id>
-        <link href="https://neooc.com/extended-one-week-2025-richfield-self-serve-event-at-richfield-heritage-preserve-until-sunday-march-30th/"/>
-        <updated>2025-03-23T23:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Extended One Week – Until Sunday, March 30th 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
