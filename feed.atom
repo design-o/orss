@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T00:45:42.803Z</updated>
+    <updated>2025-04-22T06:13:55.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -687,16 +687,6 @@ Refreshed Elite Rankings website first appeared on Orienteering Australia.]]></s
         <summary type="html"><![CDATA[Extended One Week – Until Sunday, March 30th 2025 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, Mar 15th thru 23th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESOC Long: favourites Olsson and Ståhl, Sweden, win and take World Cup titles]]></title>
-        <id>https://orienteering.sport/?p=76095</id>
-        <link href="https://orienteering.sport/esoc-long-favourites-olsson-and-stahl-sweden-win-and-take-world-cup-titles/"/>
-        <updated>2025-03-23T14:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Sweden’s Magdalena Olsson (pictured above) and Jonatan Ståhl were back to their best form today, both winning their races by convincing margins – and ending as World Cup winners for this season. After taking the Sprint Relay gold on Day 1 together, Olsson has won two further ESOC golds, and Ståhl one gold and one […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
