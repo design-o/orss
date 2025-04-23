@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T06:14:38.200Z</updated>
+    <updated>2025-04-23T12:18:25.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -635,17 +635,6 @@ Park Street Course Setter of the Year Goes to Halloween Event first appeared on 
 MelBushO at Cardinia Reservoir, Sunday 30 March first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Early Bird catches the Discounted Entry Fees]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6457</id>
-        <link href="https://www.niorienteering.org.uk/the-early-bird-catches-the-discounted-entry-fees/"/>
-        <updated>2025-03-24T19:14:40.000Z</updated>
-        <summary type="html"><![CDATA[The early bird entry prices for the Irish 5 Day, ends on 31 March. All the details are on the special IOC website. The events are all in Northern Ireland on 1 -5 May at Ballymena, Coleraine and Magilligan. Get your entry in now on SI...
-The post The Early Bird catches the Discounted Entry Fees appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
