@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T18:13:37.506Z</updated>
+    <updated>2025-04-23T00:46:09.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -656,37 +656,6 @@ The post The Early Bird catches the Discounted Entry Fees appeared first on NI O
         <summary type="html"><![CDATA[After the sunshine in Dallaschyle, we were treated to the orienteer’s dream and the east end of Culbin. A vast […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlands bask in sunshine for the Scottish Middle Championships]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55300</id>
-        <link href="https://www.scottish-orienteering.org/news/highlands-bask-in-sunshine-for-the-scottish-middle-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=highlands-bask-in-sunshine-for-the-scottish-middle-championships"/>
-        <updated>2025-03-24T12:21:20.000Z</updated>
-        <summary type="html"><![CDATA[This weekend saw a double header in the Highlands with Inverness Orienteering Club (INVOC) hosting the Scottish Middle Distance Championships […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refreshed Elite Rankings website]]></title>
-        <id>https://orienteering.asn.au/?p=13533</id>
-        <link href="https://orienteering.asn.au/refreshed-elite-rankings-website/"/>
-        <updated>2025-03-24T11:54:17.000Z</updated>
-        <summary type="html"><![CDATA[We’re thrilled to announce the launch of the refreshed Orienteering Australia Elite Rankings website! 
-Refreshed Elite Rankings website first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European SkiO Championships: a high-quality end to the SkiO season]]></title>
-        <id>https://orienteering.sport/?p=76110</id>
-        <link href="https://orienteering.sport/european-skio-championships-a-high-quality-end-to-the-skio-season/"/>
-        <updated>2025-03-24T11:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Sweden was by far the most successful nation at ESOC, winning all but two of the gold medals. Magdalena Olsson won two individual golds, and Jonatan Ståhl and young Ella Turesson won one each. Home nation Finland (Niklas Ekstrӧm and Aapo Viippola) won the other two individual golds. Sweden took home ten individual medals in […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
