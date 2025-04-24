@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T00:46:23.457Z</updated>
+    <updated>2025-04-24T06:14:29.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -612,17 +612,6 @@ Apply now: Jobs to develop Controller learning resources first appeared on Orien
         <updated>2025-03-27T03:28:30.000Z</updated>
         <summary type="html"><![CDATA[Congratulations to Andrew Turner for winning this year's Michael Hubbert Park Street Course Setter of the Year!  Read about the 2025 Awards Night.
 Park Street Course Setter of the Year Goes to Halloween Event first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO at Cardinia Reservoir, Sunday 30 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14453</id>
-        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
-        <updated>2025-03-24T23:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Come along to Cardinia next Sunday for the second MelbushO event of 2025
-MelBushO at Cardinia Reservoir, Sunday 30 March first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
