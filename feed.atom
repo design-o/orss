@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T06:14:29.338Z</updated>
+    <updated>2025-04-24T12:18:25.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -24,6 +24,15 @@
         <summary type="html"><![CDATA[With delegations from nearly 60 countries and regions, and close to 4,000 participants – including almost 3,000 young athletes – the ISF U15 Gymnasiade 2025 marks the largest edition in the event’s history. Young athletes under 15 years of age gathered to participate in their own sport and watching other sports. The School Sports Games […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians Feature in Annual Orienteering Australia Awards]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14605</id>
+        <link href="https://www.vicorienteering.asn.au/victorians-feature-in-annual-orienteering-australia-awards/"/>
+        <updated>2025-04-19T07:46:05.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -159,6 +168,17 @@ World Orienteering Week 2025 first appeared on Orienteering Australia.]]></summa
 The post Entries Closing for Irish Champs Weekend appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO at Granite Hills, Sunday 4 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14453</id>
+        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
+        <updated>2025-04-12T00:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Come along to Cardinia next Sunday for the second MelbushO event of 2025
+MelBushO at Granite Hills, Sunday 4 May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

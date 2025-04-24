@@ -79,6 +79,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14605",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorians-feature-in-annual-orienteering-australia-awards/",
+          "publishedOn": "2025-04-19T07:46:05.000Z",
+          "wordCount": 1216,
+          "title": "Victorians Feature in Annual Orienteering Australia Awards",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14511",
           "author": "Debbie Dodd",
           "description": "Download the all important Bulletin 2, check Eventor for start lists, and get all your other Easter-Anzac news here!\nEaster and Anzac Weekend News first appeared on Orienteering Victoria.",
@@ -86,6 +96,16 @@
           "publishedOn": "2025-04-14T07:45:28.000Z",
           "wordCount": 1647,
           "title": "Easter and Anzac Weekend News",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14453",
+          "author": "Debbie Dodd",
+          "description": "Come along to Cardinia next Sunday for the second MelbushO event of 2025\nMelBushO at Granite Hills, Sunday 4 May first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
+          "publishedOn": "2025-04-12T00:28:52.000Z",
+          "wordCount": 990,
+          "title": "MelBushO at Granite Hills, Sunday 4 May",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
