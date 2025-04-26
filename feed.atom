@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T18:13:49.423Z</updated>
+    <updated>2025-04-26T00:44:21.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -641,49 +641,6 @@ The post Don’t be an April Fool! appeared first on NI Orienteering Association
         <summary type="html"><![CDATA[The PVG scheme helps ensure that people who are unsuitable to work with children and protected adults cannot do regulated […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conquering Condes for Coaching! – Tools and Tips from the latest SOA Coach CPD Forum]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55352</id>
-        <link href="https://www.scottish-orienteering.org/news/conquering-condes-for-coaching-tools-and-tips-from-the-latest-soa-coach-cpd-forum/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=conquering-condes-for-coaching-tools-and-tips-from-the-latest-soa-coach-cpd-forum"/>
-        <updated>2025-03-27T12:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Report by Katherine Ivory Are you getting the most as a coach from your planning software?  Technical competency can really […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mamma Mia, How Can I Resist It?]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6463</id>
-        <link href="https://www.niorienteering.org.uk/mamma-mia-how-can-i-resist-it/"/>
-        <updated>2025-03-27T12:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Entries close on Thursday 27 March at 22:00 for NI Colour Series 2 on Sunday 30 March at Slieve Foye, Co Louth. The date, times (note also the clocks change to summer time) and venue have been changed following storm damage at Carnearney Forest. All...
-The post Mamma Mia, How Can I Resist It? appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply now: Jobs to develop Controller learning resources]]></title>
-        <id>https://orienteering.asn.au/?p=13548</id>
-        <link href="https://orienteering.asn.au/apply-now-jobs-to-develop-controller-learning-resources/"/>
-        <updated>2025-03-27T03:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Applications can still be submitted for the paid positions to develop Controller accreditation learning resources.
-Apply now: Jobs to develop Controller learning resources first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Course Setter of the Year Goes to Halloween Event]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14527</id>
-        <link href="https://www.vicorienteering.asn.au/park-street-course-setter-of-the-year-goes-to-halloween-event/"/>
-        <updated>2025-03-27T03:28:30.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Andrew Turner for winning this year's Michael Hubbert Park Street Course Setter of the Year!  Read about the 2025 Awards Night.
-Park Street Course Setter of the Year Goes to Halloween Event first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
