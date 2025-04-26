@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T00:44:21.339Z</updated>
+    <updated>2025-04-26T06:13:02.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -218,6 +218,15 @@ World Orienteering Week 2025 first appeared on Orienteering Australia.]]></summa
 The post Entries Closing for Irish Champs Weekend appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millennium Club Milestones Reached]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14527</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-course-setter-of-the-year-goes-to-halloween-event/"/>
+        <updated>2025-04-12T04:28:30.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -631,16 +640,6 @@ The post Don’t be an April Fool! appeared first on NI Orienteering Association
         <summary type="html"><![CDATA[Danish music artist MØ has spent the last 15 years creating monster hits like “Lean On” and “Final Song”, won several awards and toured the world with her music. But what you probably don’t know is that she is also a passionate orienteer, who took up the sport as a child and rediscovered the joy […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes to the PVG system come into effect from 1st April]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55359</id>
-        <link href="https://www.scottish-orienteering.org/news/changes-to-the-pvg-system-come-into-effect-from-1st-april/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=changes-to-the-pvg-system-come-into-effect-from-1st-april"/>
-        <updated>2025-03-27T16:35:59.000Z</updated>
-        <summary type="html"><![CDATA[The PVG scheme helps ensure that people who are unsuitable to work with children and protected adults cannot do regulated […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
