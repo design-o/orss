@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T12:15:41.805Z</updated>
+    <updated>2025-04-27T18:12:41.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -619,17 +619,6 @@ Provisional Team Selection | WOC 2025 first appeared on Orienteering New Zealand
 The post Ballymena is First Event in the 2025 NI Urban League appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, April 2-8 – Top Weekend Coming Up!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-03-29T01:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss our annual Awards Night this Wednesday at TallyHo, and come along to the first CakeO next Saturday at Bellbird Dell
-Park Street Update, April 2-8 – Top Weekend Coming Up! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
