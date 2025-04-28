@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T06:21:44.603Z</updated>
+    <updated>2025-04-28T12:17:49.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -617,17 +617,6 @@ Intro to orienteering  |  Nelson first appeared on Orienteering New Zealand.]]
 Provisional Team Selection | WOC 2025 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballymena is First Event in the 2025 NI Urban League]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6470</id>
-        <link href="https://www.niorienteering.org.uk/ballymena-is-first-event-in-the-2025-ni-urban-league/"/>
-        <updated>2025-03-29T19:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Cunning planner Richard Vasey has constructed courses in such a way that the Ballymena Urban event on Thursday May 1 will be the first outing of the 2025 NI Urban League. This is achieved by selecting certain common legs from the courses as below: NI...
-The post Ballymena is First Event in the 2025 NI Urban League appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
