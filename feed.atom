@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T18:13:52.128Z</updated>
+    <updated>2025-04-29T00:46:21.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -604,17 +604,6 @@ Intro to orienteering  |  Nelson first appeared on Orienteering New Zealand.]]
         <updated>2025-03-31T06:25:46.000Z</updated>
         <summary type="html"><![CDATA[In accordance with the Orienteering New Zealand Constitution, please take note of the following dates: Please register your attendance at the AGM here.
 2025 ONZ Annual General Meeting (AGM) first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provisional Team Selection | WOC 2025]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62464</id>
-        <link href="https://www.orienteering.org.nz/news/provisional-team-selection-woc-2025/"/>
-        <updated>2025-03-30T10:39:11.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering New Zealand Senior Selection Panel has named the following team to attend the World Orienteering Championships (WOC) in Kuopio, Finland – 7th-12th July 2005. Information on when these teams will be finalised can be found at the bottom of this post. (races shown in brackets) Women Katherine Babington (Middle)   Rachel Baker (Middle)  Lizzie Ingham […]
-Provisional Team Selection | WOC 2025 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
         </author>
