@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T06:14:16.277Z</updated>
+    <updated>2025-04-30T12:17:34.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Livelox Webinar Recording Now Available]]></title>
+        <id>https://orienteering.asn.au/?p=13872</id>
+        <link href="https://orienteering.asn.au/livelox-webinar-recording-now-available/"/>
+        <updated>2025-04-30T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[The webinar introducing Livelox is now available to view on the Orienteering Australia YouTube channel. It explores viewing and uploading routes using real examples from the 2025 Australian 3 Days.
+Livelox Webinar Recording Now Available first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get the 2025 VIP Pass for IOF TV]]></title>
         <id>https://orienteering.sport/?p=76290</id>
