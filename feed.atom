@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T18:13:14.084Z</updated>
+    <updated>2025-05-01T00:53:00.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: 10Mila 2025 preview with expert commentator Jonas Merz]]></title>
+        <id>https://orienteering.sport/?p=76305</id>
+        <link href="https://orienteering.sport/podcast-10mila-2025-preview-with-expert-commentator-jonas-merz/"/>
+        <updated>2025-04-30T19:56:56.000Z</updated>
+        <summary type="html"><![CDATA[It’s 10Mila time and you can follow all the action from Finspång, Sweden in the weekend 3-4 May, 2025 on IOF TV. Together with expert commentator Jonas Merz, we look into the terrain, the format and who are the favorites for this year’s relays. Go to IOF TV – tv.orienteering.sport – to get your ticket […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Livelox Webinar Recording Now Available]]></title>
         <id>https://orienteering.asn.au/?p=13872</id>
@@ -96,6 +106,17 @@ Livelox Webinar Recording Now Available first appeared on Orienteering Australia
         <summary type="html"><![CDATA[Run, Hike, or Bike! —————— Search for 68 locations marked on an OCAD Orienteering map of Cuyahoga Falls & Silver Lake. Only a few streets are labeled, so stay aware of where you are! Answer a simple question at each checkpoint (e.g., house number with windmill in front yard). Free Family Downtown Version is available! […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14547</id>
+        <link href="https://www.vicorienteering.asn.au/anzac-weekend-entries-closing-soon/"/>
+        <updated>2025-04-22T06:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Make sure you are up to date with all the latest info for Anzac Weekend, including Bulletin 2, start lists, and entry on the day options
+Anzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

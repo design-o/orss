@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76305",
+          "author": "Erling Thisted",
+          "description": "It’s 10Mila time and you can follow all the action from Finspång, Sweden in the weekend 3-4 May, 2025 on IOF TV. Together with expert commentator Jonas Merz, we look into the terrain, the format and who are the favorites for this year’s relays. Go to IOF TV – tv.orienteering.sport – to get your ticket […]",
+          "link": "https://orienteering.sport/podcast-10mila-2025-preview-with-expert-commentator-jonas-merz/",
+          "publishedOn": "2025-04-30T19:56:56.000Z",
+          "wordCount": 1439,
+          "title": "Podcast: 10Mila 2025 preview with expert commentator Jonas Merz",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/04/10mila_peterholgersson_-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76290",
           "author": "Erling Thisted",
           "description": "Don’t miss a second of the biggest international orienteering competitions in 2025 with the new VIP Pass for IOF TV. The pass grants you access to all broadcasts in 2025 for a reduced price. The events included in the IOF TV VIP Pass are: 10Mila, Sweden 3-4 May Jukola/Venla, Finland, 14-15 June Orienteering World Cup […]",
@@ -88,6 +98,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14547",
+          "author": "Debbie Dodd",
+          "description": "Make sure you are up to date with all the latest info for Anzac Weekend, including Bulletin 2, start lists, and entry on the day options\nAnzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/anzac-weekend-entries-closing-soon/",
+          "publishedOn": "2025-04-22T06:59:51.000Z",
+          "wordCount": 1090,
+          "title": "Anzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14605",
           "author": "Debbie Dodd",
