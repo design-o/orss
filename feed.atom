@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T12:17:36.332Z</updated>
+    <updated>2025-05-02T18:13:10.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunny Start to the IOC Weekend at Ballymena]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6530</id>
+        <link href="https://www.niorienteering.org.uk/sunny-start-to-the-ioc-weekend-at-ballymena/"/>
+        <updated>2025-05-02T14:45:24.000Z</updated>
+        <summary type="html"><![CDATA[The results are in after Day 1 of the Irish 5 Day with the urban race at Ballymena held in sunny conditions. The results are at the IOC website and at Fixtures & Results>2025 Results. Congratulations to NI podium placed competitors: George Savell, 1st Mens...
+The post Sunny Start to the IOC Weekend at Ballymena appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hall of Fame Inductees]]></title>
         <id>https://orienteering.asn.au/?p=13882</id>
@@ -543,16 +554,6 @@ Vic MTBO Champs Weekend, 12-13 April first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[At its latest meeting, the IOF Council appointed a number of hosts for upcoming international and regional championships. USA was appointed to host the World Trail Orienteering Championships 2027 with the preliminary dates 9-14 November 2027. WTOC is held every other year and the 2027 edition will be the first time that the WTOC is […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Orienteering For Beginners | Sippo Lake | Sunday, April 13th]]></title>
-        <id>https://neooc.com/?p=48493</id>
-        <link href="https://neooc.com/new-event-orienteering-for-beginners-sippo-lake-sunday-april-13th/"/>
-        <updated>2025-04-03T01:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering For Beginners]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>

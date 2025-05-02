@@ -415,16 +415,6 @@
           "wordCount": 3044,
           "title": "2025 Fry Family Park Self Serve Orienteering",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=48493",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Orienteering For Beginners",
-          "link": "https://neooc.com/new-event-orienteering-for-beginners-sippo-lake-sunday-april-13th/",
-          "publishedOn": "2025-04-03T01:54:47.000Z",
-          "wordCount": 1654,
-          "title": "New Event | Orienteering For Beginners | Sippo Lake | Sunday, April 13th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
     },
@@ -500,6 +490,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6530",
+          "author": "NIOA Secretary",
+          "description": "The results are in after Day 1 of the Irish 5 Day with the urban race at Ballymena held in sunny conditions. The results are at the IOC website and at Fixtures & Results>2025 Results. Congratulations to NI podium placed competitors: George Savell, 1st Mens...\nThe post Sunny Start to the IOC Weekend at Ballymena appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/sunny-start-to-the-ioc-weekend-at-ballymena/",
+          "publishedOn": "2025-05-02T14:45:24.000Z",
+          "wordCount": 4350,
+          "title": "Sunny Start to the IOC Weekend at Ballymena",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Slemish.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6524",
           "author": "NIOA Secretary",
