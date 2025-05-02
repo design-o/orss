@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T18:13:12.605Z</updated>
+    <updated>2025-05-02T00:47:27.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -465,27 +465,6 @@ Vic MTBO Champs Weekend, 12-13 April first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[Orienteering For Beginners]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenging Carlingford]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6496</id>
-        <link href="https://www.niorienteering.org.uk/challenging-carlingford/"/>
-        <updated>2025-04-02T08:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Testing orienteering was experienced on Carlingford Mountain for the second outing of the NI Colour Series, held in conjuntion with 3ROC and the Leinster League, following storm damage to the original venue of Carneaney Forest.  Even on a beautiful sunny day, error free runs were...
-The post Challenging Carlingford appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese championships with Huichang punching system]]></title>
-        <id>https://orienteering.sport/?p=76142</id>
-        <link href="https://orienteering.sport/chinese-championships-with-huichang-punching-system/"/>
-        <updated>2025-04-02T07:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Last week, the highest level of orienteering event in China, the National Orienteering Championships were held in the Yanshan district. The championships opened on Monday and are actually the 2024 edition because it was postponed from last year. The competition attracted 117 teams and 912 athletes from 25 provinces, autonomous regions, municipalities directly under the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
