@@ -462,16 +462,6 @@
           "wordCount": 1711,
           "title": "Sprints in the Roxburgh sunshine",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/20250405_115341-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55411",
-          "author": "louise",
-          "description": "We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]",
-          "link": "https://www.scottish-orienteering.org/news/supporting-growth-through-the-2025-development-fund-awards/?utm_source=rss&utm_medium=rss&utm_campaign=supporting-growth-through-the-2025-development-fund-awards",
-          "publishedOn": "2025-04-03T16:07:10.000Z",
-          "wordCount": 1956,
-          "title": "Supporting Growth through the 2025 Development Fund Awards",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/Motivational-Quote-instagram-Post-2-1024x1024.png"
         }
       ]
     },
@@ -527,6 +517,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13888",
+          "author": "elizabethl",
+          "description": "Congratulations to Henry McNulty who has been announced as the 2024 Orienteering Australia Athlete of the Year.\nHenry McNulty: 2024 Athlete of the Year first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/henry-mcnulty-2024-athlete-of-the-year/",
+          "publishedOn": "2025-05-03T05:00:00.000Z",
+          "wordCount": 2449,
+          "title": "Henry McNulty: 2024 Athlete of the Year",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=13882",
           "author": "elizabethl",

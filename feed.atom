@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T00:44:52.325Z</updated>
+    <updated>2025-05-03T06:12:28.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Henry McNulty: 2024 Athlete of the Year]]></title>
+        <id>https://orienteering.asn.au/?p=13888</id>
+        <link href="https://orienteering.asn.au/henry-mcnulty-2024-athlete-of-the-year/"/>
+        <updated>2025-05-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Henry McNulty who has been announced as the 2024 Orienteering Australia Athlete of the Year.
+Henry McNulty: 2024 Athlete of the Year first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunny Start to the IOC Weekend at Ballymena]]></title>
         <id>https://www.niorienteering.org.uk/?p=6530</id>
@@ -534,16 +545,6 @@ Vic MTBO Champs Weekend, 12-13 April first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[Registration and Course Map Downloads will be active Friday evening, April 18 Overview NEOOC, in partnership with Stark Parks, is pleased to offer this self-serve orienteering event for exercise and fun.  This 360-acre property has beautiful rolling topography with a mixture of grasslands, hardwood forests, a pond, wetlands, and significant stream and wooded riparian corridor.  […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting Growth through the 2025 Development Fund Awards]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55411</id>
-        <link href="https://www.scottish-orienteering.org/news/supporting-growth-through-the-2025-development-fund-awards/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=supporting-growth-through-the-2025-development-fund-awards"/>
-        <updated>2025-04-03T16:07:10.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
