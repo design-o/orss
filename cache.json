@@ -395,16 +395,6 @@
           "wordCount": 1630,
           "title": "Please Disregard the Last Email | 2025 Fry Family Park Self Serve Orienteering",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=48406",
-          "author": "Jay Smink",
-          "description": "Registration and Course Map Downloads will be active Friday evening, April 18 Overview NEOOC, in partnership with Stark Parks, is pleased to offer this self-serve orienteering event for exercise and fun.  This 360-acre property has beautiful rolling topography with a mixture of grasslands, hardwood forests, a pond, wetlands, and significant stream and wooded riparian corridor.  […]",
-          "link": "https://neooc.com/2025-fry-family-park-self-serve-orienteering/",
-          "publishedOn": "2025-04-03T21:02:19.000Z",
-          "wordCount": 3044,
-          "title": "2025 Fry Family Park Self Serve Orienteering",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
     },
@@ -471,6 +461,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=6541",
+          "author": "NIOA Secretary",
+          "description": "The results are in for the Irish Sprint Championships at Coleraine. Did you spot the doors especially open with the permission of Ulster University? The results are at the IOC website and at Fixtures & Results>2025 Results. Thanks to the key officals Allan Bogle planner, Rachel Reid organiser...\nThe post An Open or Shut Case? appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/an-open-or-shut-case/",
+          "publishedOn": "2025-05-03T07:18:22.000Z",
+          "wordCount": 4357,
+          "title": "An Open or Shut Case?",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/IOC-2025-UUC.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=6530",
           "author": "NIOA Secretary",
           "description": "The results are in after Day 1 of the Irish 5 Day with the urban race at Ballymena held in sunny conditions. The results are at the IOC website and at Fixtures & Results>2025 Results. Congratulations to NI podium placed competitors: George Savell, 1st Mens...\nThe post Sunny Start to the IOC Weekend at Ballymena appeared first on NI Orienteering Association.",
@@ -517,6 +517,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13901",
+          "author": "elizabethl",
+          "description": "The selection panel has met and decided on the Australian JWOC team to compete in the 2025 Junior World Championships (JWOC), held in Trentino, Italy, from 26 June to 4 July.\n2025 JWOC Team Selection first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2025-jwoc-team-selection/",
+          "publishedOn": "2025-05-03T10:17:16.000Z",
+          "wordCount": 2341,
+          "title": "2025 JWOC Team Selection",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=13888",
           "author": "elizabethl",
