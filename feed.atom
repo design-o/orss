@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T18:13:10.646Z</updated>
+    <updated>2025-05-03T00:44:52.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -544,16 +544,6 @@ Vic MTBO Champs Weekend, 12-13 April first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future hosts for WTOC, SAOC and NAOC appointed]]></title>
-        <id>https://orienteering.sport/?p=76160</id>
-        <link href="https://orienteering.sport/future-hosts-for-wtoc-saoc-and-naoc-appointed/"/>
-        <updated>2025-04-03T12:25:32.000Z</updated>
-        <summary type="html"><![CDATA[At its latest meeting, the IOF Council appointed a number of hosts for upcoming international and regional championships. USA was appointed to host the World Trail Orienteering Championships 2027 with the preliminary dates 9-14 November 2027. WTOC is held every other year and the 2027 edition will be the first time that the WTOC is […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
