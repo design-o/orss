@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T18:13:29.289Z</updated>
+    <updated>2025-05-07T00:47:15.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race, Ravenscourt Park, Tuesday 10 June]]></title>
+        <id>https://slow.org.uk/?p=23277</id>
+        <link href="https://slow.org.uk/uncategorized/park-race-ravenscourt-park-tuesday-10-june/"/>
+        <updated>2025-05-06T20:22:53.000Z</updated>
+        <summary type="html"><![CDATA[The 4th race of the London 2025 Park Series will take place in Ravenscourt Park in West London on Tuesday 10 June. Join us for [...]]]></summary>
+        <author>
+            <name>Matthias Mahr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Winning Team!]]></title>
         <id>https://www.niorienteering.org.uk/?p=6567</id>

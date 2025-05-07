@@ -183,6 +183,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23277",
+          "author": "Matthias Mahr",
+          "description": "The 4th race of the London 2025 Park Series will take place in Ravenscourt Park in West London on Tuesday 10 June. Join us for [...]",
+          "link": "https://slow.org.uk/uncategorized/park-race-ravenscourt-park-tuesday-10-june/",
+          "publishedOn": "2025-05-06T20:22:53.000Z",
+          "wordCount": 2456,
+          "title": "Park Race, Ravenscourt Park, Tuesday 10 June",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/The-Friends-of-Ravenscourt-Park-Archess.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23243",
           "author": "vinh",
           "description": "Dartford Orienteers organised the penultimate (seventh) race in the Street-O series. It was in Greenwich and the Isle of Dogs. It was a great evening, [...]",
