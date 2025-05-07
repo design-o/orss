@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T06:14:21.024Z</updated>
+    <updated>2025-05-07T12:18:44.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paid Position REOI: Manager, Coaching and Athlete Development]]></title>
+        <id>https://orienteering.asn.au/?p=13922</id>
+        <link href="https://orienteering.asn.au/paid-position-reoi-manager-coaching-and-athlete-development/"/>
+        <updated>2025-05-07T10:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is currently inviting Expressions of Interests (EOIs) for the paid role of Manager, Coaching and Athlete Development.
+Paid Position REOI: Manager, Coaching and Athlete Development first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race, Ravenscourt Park, Tuesday 10 June]]></title>
         <id>https://slow.org.uk/?p=23277</id>
