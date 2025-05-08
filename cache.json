@@ -156,6 +156,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20887",
+          "author": "Mark Stephens",
+          "description": "Orienteering Ireland are happy to announce Niamh O’Boyle as the new High Performance Manager for the Senior squad. Niamh has an incredible amount of knowledge on the topic with a very impressive list of results to back it up. We wish her all the best in this role! Niamh will be assisted in this role […]",
+          "link": "https://www.orienteering.ie/new-high-performance-manager/",
+          "publishedOn": "2025-05-08T12:19:11.000Z",
+          "wordCount": 787,
+          "title": "New High Performance Manager",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20837",
           "author": "Operations Manager",
           "description": "Our AGM in Limavady on 04 May 2025 will be our first AGM as a Limited Company (CLG). At the AGM all five of our directors are required to stand down from the Board and their positions will become vacant for election. This will not preclude the former directors from standing for re-election, but new members […]",
@@ -433,6 +443,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55588",
+          "author": "louise",
+          "description": "The Jamie Stevenson Trophy is an annual inter-club competition for junior orienteers in Scotland. This year the competition will take […]",
+          "link": "https://www.scottish-orienteering.org/news/jamie-stevenson-trophy-2025/?utm_source=rss&utm_medium=rss&utm_campaign=jamie-stevenson-trophy-2025",
+          "publishedOn": "2025-05-08T15:39:35.000Z",
+          "wordCount": 1871,
+          "title": "Jamie Stevenson Trophy 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/20180617_113411-2-1024x628.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55576",
+          "author": "louise",
+          "description": "This Easter, more than 2,600 orienteers from 140 clubs and 28 countries descended on South Yorkshire for the JK International […]",
+          "link": "https://www.scottish-orienteering.org/news/easter-done-right-the-jk-festival-2025/?utm_source=rss&utm_medium=rss&utm_campaign=easter-done-right-the-jk-festival-2025",
+          "publishedOn": "2025-05-08T14:21:16.000Z",
+          "wordCount": 2500,
+          "title": "Easter done right – the JK Festival 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/54461559312_8898e823d7_c.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55529",
           "author": "nikkihoward",
