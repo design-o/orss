@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T18:14:32.021Z</updated>
+    <updated>2025-05-08T00:47:52.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -624,28 +624,6 @@ ANNUAL GENERAL MEETING – MONDAY 14 APRIL first appeared on Orienteering Austra
         <summary type="html"><![CDATA[A few weeks ago, disagreements arose between the organisers of WMOC 2025 and some of the owners of the “Rupit” area, which was to be used as the venue for the Forest Long distance Final race on the last day of WMOC 2025. Despite prior confirmations and lengthy negotiations, unfortunately the organisers have not been […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home International Selection]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6510</id>
-        <link href="https://www.niorienteering.org.uk/home-international-selection/"/>
-        <updated>2025-04-08T08:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Would you like to run on the Ireland Home International Team for the 2025 events? The please check carefully the selection policies which are now available for at About>International Representation and contacts for the team manager. The dates for this year are: Seniors 27-28/09/25 Lake...
-The post Home International Selection appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 AGM | Updated documentation]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=62818</id>
-        <link href="https://www.orienteering.org.nz/news/2025-agm-updated-documentation/"/>
-        <updated>2025-04-08T06:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Below are the links to the documentation to the 2025 ONZ AGM. Please note that the Annual Report has been updated 1 April when it was originally sent out to clubs and registered AGM attendees. The Annual Report update was primarily to change figures and graphs through the document because we received additional event information […]
-2025 AGM | Updated documentation first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
