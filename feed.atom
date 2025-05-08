@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T06:14:17.520Z</updated>
+    <updated>2025-05-08T12:17:56.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Register for 2025 WMOC]]></title>
+        <id>https://orienteering.asn.au/?p=13914</id>
+        <link href="https://orienteering.asn.au/register-for-2025-wmoc/"/>
+        <updated>2025-05-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The World Masters Orienteering Championships will be held from 8-15 August 2025 in Girona, Spain. Registration closes 30 June 2025.
+Register for 2025 WMOC first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paid Position REOI: Manager, Coaching and Athlete Development]]></title>
         <id>https://orienteering.asn.au/?p=13922</id>
