@@ -193,6 +193,26 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23253",
+          "author": "James Gjertsen",
+          "description": "The second race in the 2025 Park Race series will be at Roehampton University, south-west London, on Tuesday 27th May. Race Centre The race is [...]",
+          "link": "https://slow.org.uk/events/park-roehampton-may25/",
+          "publishedOn": "2025-05-08T20:49:48.000Z",
+          "wordCount": 2341,
+          "title": "Park Race – Roehampton University, Tuesday 27th May",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/roehampton-park-race-2022-results/files/Roehampton2022_7.jpg"
+        },
+        {
+          "id": "https://slow.org.uk/?p=23277",
+          "author": "Matthias Mahr",
+          "description": "The 4th race of the London 2025 Park Series will take place in Ravenscourt Park in West London on Tuesday 10 June. Join us for [...]",
+          "link": "https://slow.org.uk/events/park-race-ravenscourt-park-tuesday-10-june/",
+          "publishedOn": "2025-05-06T20:22:53.000Z",
+          "wordCount": 2457,
+          "title": "Park Race, Ravenscourt Park, Tuesday 10 June",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/The-Friends-of-Ravenscourt-Park-Archess.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23277",
           "author": "Matthias Mahr",
           "description": "The 4th race of the London 2025 Park Series will take place in Ravenscourt Park in West London on Tuesday 10 June. Join us for [...]",
