@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T18:13:01.391Z</updated>
+    <updated>2025-05-10T00:44:34.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -685,16 +685,6 @@ ANNUAL GENERAL MEETING – MONDAY 14 APRIL first appeared on Orienteering Austra
         <summary type="html"><![CDATA[2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMOC 2025 Forest Long Final – change of venue]]></title>
-        <id>https://orienteering.sport/?p=76220</id>
-        <link href="https://orienteering.sport/wmoc-2025-forest-long-final-change-of-venue/"/>
-        <updated>2025-04-10T12:00:50.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago, disagreements arose between the organisers of WMOC 2025 and some of the owners of the “Rupit” area, which was to be used as the venue for the Forest Long distance Final race on the last day of WMOC 2025. Despite prior confirmations and lengthy negotiations, unfortunately the organisers have not been […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
