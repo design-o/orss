@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T12:15:28.329Z</updated>
+    <updated>2025-05-10T18:11:46.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -664,17 +664,6 @@ MelBushO at Granite Hills, Sunday 4 May first appeared on Orienteering Victoria.
         <updated>2025-04-11T09:09:28.000Z</updated>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANNUAL GENERAL MEETING – MONDAY 14 APRIL]]></title>
-        <id>https://orienteering.asn.au/?p=13714</id>
-        <link href="https://orienteering.asn.au/annual-general-meeting-monday-14-april/"/>
-        <updated>2025-04-11T04:24:52.000Z</updated>
-        <summary type="html"><![CDATA[STARTING AT 19:30 AGENDA Register on Eventor HERE Join the meeting via Zoom  
-ANNUAL GENERAL MEETING – MONDAY 14 APRIL first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>arpadk</name>
         </author>
     </entry>
 </feed>
