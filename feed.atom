@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T06:12:11.437Z</updated>
+    <updated>2025-05-10T12:15:28.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -675,16 +675,6 @@ MelBushO at Granite Hills, Sunday 4 May first appeared on Orienteering Victoria.
 ANNUAL GENERAL MEETING – MONDAY 14 APRIL first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>arpadk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | 2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></title>
-        <id>https://neooc.com/?p=48547</id>
-        <link href="https://neooc.com/new-event-2025-fry-family-park-self-serve-stark-county-saturday-april-19th-thru-27th/"/>
-        <updated>2025-04-10T23:21:55.000Z</updated>
-        <summary type="html"><![CDATA[2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
