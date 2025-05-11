@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T06:12:41.576Z</updated>
+    <updated>2025-05-11T12:16:28.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -665,16 +665,6 @@ The post Entries Closing for Irish Champs Weekend appeared first on NI Orienteer
 MelBushO at Granite Hills, Sunday 4 May first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Street-O series results after race 7]]></title>
-        <id>https://slow.org.uk/?p=23243</id>
-        <link href="https://slow.org.uk/streeto/streeto-2425-race-7/"/>
-        <updated>2025-04-11T22:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Dartford Orienteers organised the penultimate (seventh) race in the Street-O series. It was in Greenwich and the Isle of Dogs. It was a great evening, [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
