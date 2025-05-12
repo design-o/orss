@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T06:14:54.224Z</updated>
+    <updated>2025-05-12T12:18:43.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Volunteer week 2-8 June 2025]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55595</id>
+        <link href="https://www.scottish-orienteering.org/news/volunteer-week-2-8-june-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-2-8-june-2025"/>
+        <updated>2025-05-12T12:14:56.000Z</updated>
+        <summary type="html"><![CDATA[To celebrate national Volunteer Week we would like to once more invite you to let us know who your stalwarts […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[International MTBO News – Victorian Selections for World Champs, and World Masters Success!]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14613</id>
