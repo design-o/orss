@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76389",
+          "author": "Erling Thisted",
+          "description": "Competitors who have a permanent disability that significantly reduces their ability to participate in orienteering events are eligible to be entered for the P class in Trail orienteering. Three impairment types will be considered: mobility (MI), cardiac/cardiopulmonary (CP), and neurological (NI). Starting in 2025, athletes who wish to gain or renew their classification status, should […]",
+          "link": "https://orienteering.sport/new-procedure-for-p-class-eligibility-in-trailo/",
+          "publishedOn": "2025-05-13T11:07:23.000Z",
+          "wordCount": 1625,
+          "title": "New procedure for P class eligibility in TrailO",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/symbol-trail-orienteering_wide.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=76379",
+          "author": "Erling Thisted",
+          "description": "The international MTBO season gets underway this week when the Apresport European MTBO Championships begin on Thursday in Lithuania. It also marks the start of the 2025 CX80 MTBO World Cup and includes the European Junior and Youth MTBO Championships. The first competition at the championships is a mass start, followed by middle, sprint and […]",
+          "link": "https://orienteering.sport/european-mtbo-titles-on-the-line-in-lithuania-this-week/",
+          "publishedOn": "2025-05-13T09:51:00.000Z",
+          "wordCount": 1834,
+          "title": "European MTBO titles on the line in Lithuania this week",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/emtboc2025-logo.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=76305",
           "author": "Erling Thisted",
           "description": "It’s 10Mila time and you can follow all the action from Finspång, Sweden in the weekend 3-4 May, 2025 on IOF TV. Together with expert commentator Jonas Merz, we look into the terrain, the format and who are the favorites for this year’s relays. Go to IOF TV – tv.orienteering.sport – to get your ticket […]",
@@ -348,26 +368,6 @@
           "wordCount": 4186,
           "title": "Mapping matters  |  Australian notes",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/05/4dcc5827-1ec8-c5c8-b93c-fa69e363d759.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63079",
-          "author": "Christo Peters",
-          "description": "Coach and Manager Roles ONZ intends to send two national secondary school teams to compete for the Southern Cross Trophy held as part of the Australian Orienteering Festival. We are seeking expressions of interest for the coach and manager roles. With forty athletes taking part in two teams, we are looking for two to three coaches and two […]\nCoach & Manager Applications | Southern Cross Challenge – NZ Schools Team first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/coach-manager-applications-southern-cross-challenge/",
-          "publishedOn": "2025-04-13T21:19:24.000Z",
-          "wordCount": 2654,
-          "title": "Coach & Manager Applications | Southern Cross Challenge – NZ Schools Team",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2023/04/news-southern-cross-manager-coach-positions-2023.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63077",
-          "author": "Christo Peters",
-          "description": "This year, two teams of equal ability will be selected to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital Territory in the 2025 Australian Schools Championships. The championships will be held in Queensland near Brisbane as part of the Australian Championships carnival which runs from 27 September to […]\nSelection Notice | Southern Cross Challenge – NZ Schools Team first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-southern-cross-challenge-nz-schools-team/",
-          "publishedOn": "2025-04-13T21:02:09.000Z",
-          "wordCount": 3089,
-          "title": "Selection Notice | Southern Cross Challenge – NZ Schools Team",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/07/Southern-X-Challenge.jpeg"
         }
       ]
     },
