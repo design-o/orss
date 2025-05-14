@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T18:13:48.091Z</updated>
+    <updated>2025-05-14T00:47:33.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Videos to Showcase Orienteering]]></title>
+        <id>https://orienteering.asn.au/?p=13939</id>
+        <link href="https://orienteering.asn.au/new-videos-to-showcase-orienteering/"/>
+        <updated>2025-05-13T22:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia (OA) is thrilled to announce the release of two brand-new videos celebrating the sport of orienteering. The videos have just been released on the OA YouTube channel.
+New Videos to Showcase Orienteering first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New procedure for P class eligibility in TrailO]]></title>
         <id>https://orienteering.sport/?p=76389</id>
@@ -630,17 +641,6 @@ Anzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day first appear
         <summary type="html"><![CDATA[For some the 2025 Scottish Sprint Championship and 3rd Scottish Orienteering Urban League (SOUL) event of the year was the […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easter and Anzac Weekend News]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14511</id>
-        <link href="https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/"/>
-        <updated>2025-04-14T07:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Download the all important Bulletin 2, check Eventor for start lists, and get all your other Easter-Anzac news here!
-Easter and Anzac Weekend News first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

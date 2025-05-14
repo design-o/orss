@@ -167,16 +167,6 @@
           "wordCount": 1216,
           "title": "Victorians Feature in Annual Orienteering Australia Awards",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14511",
-          "author": "Debbie Dodd",
-          "description": "Download the all important Bulletin 2, check Eventor for start lists, and get all your other Easter-Anzac news here!\nEaster and Anzac Weekend News first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/",
-          "publishedOn": "2025-04-14T07:45:28.000Z",
-          "wordCount": 1647,
-          "title": "Easter and Anzac Weekend News",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -587,6 +577,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=13939",
+          "author": "danielstott",
+          "description": "Orienteering Australia (OA) is thrilled to announce the release of two brand-new videos celebrating the sport of orienteering. The videos have just been released on the OA YouTube channel.\nNew Videos to Showcase Orienteering first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/new-videos-to-showcase-orienteering/",
+          "publishedOn": "2025-05-13T22:25:35.000Z",
+          "wordCount": 2501,
+          "title": "New Videos to Showcase Orienteering",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=13914",
           "author": "elizabethl",
