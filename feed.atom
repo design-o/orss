@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T12:18:00.767Z</updated>
+    <updated>2025-05-14T18:12:31.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Feedback]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55599</id>
+        <link href="https://www.scottish-orienteering.org/news/junior-feedback/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-feedback"/>
+        <updated>2025-05-14T14:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Back in October at the Junior Inter Area weekend, SOA asked for junior feedback. Since then we have been working […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bethnal Green Street-O Results]]></title>
         <id>https://slow.org.uk/?p=23288</id>
