@@ -89,6 +89,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14631",
+          "author": "Margi Freemantle",
+          "description": "Did you get into the bush orienteering groove over the Easter carnival? It’s now time for more and to keep your skills honed. The VIC Series 3 event is on Sunday 25th May at Spring Gully. Don’t miss it.\nVic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vic-series-3-at-spring-gully-on-25-may/",
+          "publishedOn": "2025-05-15T01:40:18.000Z",
+          "wordCount": 1068,
+          "title": "Vic Series 3 at Spring Gully on 25 May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14613",
           "author": "Debbie Dodd",
           "description": "Victorians are enjoying success at the World Masters MTBO Champs in Spain, while three Vics are off to Poland to represent Australia in August\nInternational MTBO News – Victorian Selections for World Champs, and World Masters Success! first appeared on Orienteering Victoria.",
@@ -512,36 +522,6 @@
           "wordCount": 1936,
           "title": "The Future of the Scottish 6 Days Events? Join the Next Members’ Community Conversation (Mon 5th May)",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/Communications-and-Marketing-3-1024x1024.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55513",
-          "author": "louise",
-          "description": "Hopefully by now, you’ve got the date in your diary for this year’s Scottish Schools Orienteering Festival. If not, here’s […]",
-          "link": "https://www.scottish-orienteering.org/news/entries-open-now-for-the-scottish-schools-festival/?utm_source=rss&utm_medium=rss&utm_campaign=entries-open-now-for-the-scottish-schools-festival",
-          "publishedOn": "2025-04-15T15:40:06.000Z",
-          "wordCount": 1679,
-          "title": "Entries Open NOW for the Scottish Schools Festival!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/Screenshot-2025-04-15-162637-2.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55496",
-          "author": "nikkihoward",
-          "description": "Issues with permissions might have meant that we headed for Airdrie for our 2nd Scottish Orienteering League (SOL) event of […]",
-          "link": "https://www.scottish-orienteering.org/news/fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs/?utm_source=rss&utm_medium=rss&utm_campaign=fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs",
-          "publishedOn": "2025-04-15T15:22:54.000Z",
-          "wordCount": 1782,
-          "title": "FVO spoil us with a new forest area and Tea and Cakes in Limeriggs",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/04/69491B84-AAB5-472D-A6D8-41EB4D1640FD-768x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55512",
-          "author": "nikkihoward",
-          "description": "The 2025 Scottish Sprint Championship was the 4th event in this years Scottish Inter Club Championships and saw no change […]",
-          "link": "https://www.scottish-orienteering.org/news/fourth-event-in-the-scottish-inter-club-championships-sees-no-change/?utm_source=rss&utm_medium=rss&utm_campaign=fourth-event-in-the-scottish-inter-club-championships-sees-no-change",
-          "publishedOn": "2025-04-15T15:21:25.000Z",
-          "wordCount": 1665,
-          "title": "Fourth event in the Scottish Inter Club Championships sees no change",
-          "imageUrl": null
         }
       ]
     },

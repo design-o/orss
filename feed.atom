@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T00:46:44.025Z</updated>
+    <updated>2025-05-15T06:14:20.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vic Series 3 at Spring Gully on 25 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14631</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-3-at-spring-gully-on-25-may/"/>
+        <updated>2025-05-15T01:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Did you get into the bush orienteering groove over the Easter carnival? It’s now time for more and to keep your skills honed. The VIC Series 3 event is on Sunday 25th May at Spring Gully. Don’t miss it.
+Vic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Feedback]]></title>
         <id>https://www.scottish-orienteering.org/?p=55599</id>
@@ -653,36 +664,6 @@ Easter 2025 – It’s A Wrap! first appeared on Orienteering Victoria.]]></summ
         <summary type="html"><![CDATA[When the prestigious 10Mila club relays are run on the weekend of May 3-4, everyone can follow the intense competitions on IOF TV. This year, all three commentary languages: English, Swedish and Finnish are gathered in one place – IOF TV, where you can freely choose between the languages ​​once you have bought your ticket. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Open NOW for the Scottish Schools Festival!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55513</id>
-        <link href="https://www.scottish-orienteering.org/news/entries-open-now-for-the-scottish-schools-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=entries-open-now-for-the-scottish-schools-festival"/>
-        <updated>2025-04-15T15:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Hopefully by now, you’ve got the date in your diary for this year’s Scottish Schools Orienteering Festival. If not, here’s […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FVO spoil us with a new forest area and Tea and Cakes in Limeriggs]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55496</id>
-        <link href="https://www.scottish-orienteering.org/news/fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fvo-spoil-us-with-a-new-forest-area-and-tea-and-cakes-in-limeriggs"/>
-        <updated>2025-04-15T15:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Issues with permissions might have meant that we headed for Airdrie for our 2nd Scottish Orienteering League (SOL) event of […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fourth event in the Scottish Inter Club Championships sees no change]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55512</id>
-        <link href="https://www.scottish-orienteering.org/news/fourth-event-in-the-scottish-inter-club-championships-sees-no-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fourth-event-in-the-scottish-inter-club-championships-sees-no-change"/>
-        <updated>2025-04-15T15:21:25.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 Scottish Sprint Championship was the 4th event in this years Scottish Inter Club Championships and saw no change […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
