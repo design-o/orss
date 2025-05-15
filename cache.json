@@ -196,6 +196,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=20917",
+          "author": "Operations Manager",
+          "description": "The selection policies for World Cup, EOC & WOC are now live. Congratulations to Ciara Largey who has recently joined the selection panel as a selector. World Cup – https://www.orienteering.ie/wp-content/uploads/2025/05/World-Cup-2025-Selection-Policy.pdf EOC – https://www.orienteering.ie/wp-content/uploads/2025/05/EOC-2025-Selection-Policy.pdf WOC – https://www.orienteering.ie/wp-content/uploads/2025/05/WOC-2025-Selection-Policy.pdf",
+          "link": "https://www.orienteering.ie/senior-squad-selection-policies-2025/",
+          "publishedOn": "2025-05-15T06:49:36.000Z",
+          "wordCount": 759,
+          "title": "Senior Squad Selection Policies 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=20904",
           "author": "Mark Stephens",
           "description": "The selectors met last Friday night, and spent several days deliberating over the selections for this summer’s internationals. The following teams have been selected: European Youth Orienteering Championships – Team for 2025 W16Aoife MastersonDeirbhile HassettFionnula RoweNiamh Browne M16Eoin SimpsonFionn BuckleyJames EwartLiam O’Donnell W18Ellie SimpsonEve BuckleySadhbh Hassett M18Aidan McKennaEoin O’DonnellGerry BrowneLiam Casey Junior World Orienteering Championships […]",
@@ -473,6 +483,46 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55617",
+          "author": "louise",
+          "description": "This Mental Health Awareness Week, we’re highlighting the powerful impact of orienteering on mental well-being — backed by research and […]",
+          "link": "https://www.scottish-orienteering.org/news/orienteering-a-path-to-better-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-a-path-to-better-mental-health",
+          "publishedOn": "2025-05-15T11:46:34.000Z",
+          "wordCount": 1892,
+          "title": "Orienteering: A Path to Better Mental Health",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/54463755623_d3e7636f8d_c.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55547",
+          "author": "nikkihoward",
+          "description": "The SOA Board got together last Saturday for one of their regular Board meetings. As a group they meet in […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-board-convene-in-dunblane/?utm_source=rss&utm_medium=rss&utm_campaign=soa-board-convene-in-dunblane",
+          "publishedOn": "2025-05-15T11:27:28.000Z",
+          "wordCount": 1581,
+          "title": "SOA Board convene in Dunblane",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/IMG_0429-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55607",
+          "author": "nikkihoward",
+          "description": "The fifth session in the SOA’s monthly online Community Conversations series this year took a deep dive into the future […]",
+          "link": "https://www.scottish-orienteering.org/news/community-conversations-follow-up-the-future-of-the-scottish-six-days/?utm_source=rss&utm_medium=rss&utm_campaign=community-conversations-follow-up-the-future-of-the-scottish-six-days",
+          "publishedOn": "2025-05-15T11:20:50.000Z",
+          "wordCount": 2387,
+          "title": "Community Conversations Follow-Up: The Future of the Scottish Six Days",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/02/36267015755_e7d0138755_o-1024x683.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55603",
+          "author": "nikkihoward",
+          "description": "The April session in the SOA’s monthly online Community Conversations series brought together club members from across Scotland to talk […]",
+          "link": "https://www.scottish-orienteering.org/news/community-conversations-follow-up-supporting-club-coaching-and-development/?utm_source=rss&utm_medium=rss&utm_campaign=community-conversations-follow-up-supporting-club-coaching-and-development",
+          "publishedOn": "2025-05-15T09:51:46.000Z",
+          "wordCount": 1990,
+          "title": "Community Conversations Follow-Up: Supporting Club Coaching and Development",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/05/Dundee-JPEG-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55599",
           "author": "heidi",
