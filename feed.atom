@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T12:18:19.944Z</updated>
+    <updated>2025-05-15T18:13:31.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australia Celebrates World Orienteering Week with Events Nationwide]]></title>
+        <id>https://orienteering.asn.au/?p=13963</id>
+        <link href="https://orienteering.asn.au/australia-celebrates-world-orienteering-week-with-events-nationwide/"/>
+        <updated>2025-05-15T12:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Australia will join the global orienteering community in celebrating World Orienteering Week. Find a local event near you!
+Australia Celebrates World Orienteering Week with Events Nationwide first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keith Dawson issues heartfelt thanks to the orienteering community : Pickups for Peace Update]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55631</id>
+        <link href="https://www.scottish-orienteering.org/news/keith-dawson-issues-heartfelt-thanks-to-the-orienteering-community-pickups-for-peace-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keith-dawson-issues-heartfelt-thanks-to-the-orienteering-community-pickups-for-peace-update"/>
+        <updated>2025-05-15T12:38:47.000Z</updated>
+        <summary type="html"><![CDATA[A wee update for those SOA members who have donated in a number of ways to our Ukrainian registered charity […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aprésport European MTBO Championships: first golds to Denmark and Finland]]></title>
+        <id>https://orienteering.sport/?p=76417</id>
+        <link href="https://orienteering.sport/apresport-european-mtbo-championships-first-golds-to-denmark-and-finland/"/>
+        <updated>2025-05-15T12:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Danish rider Nikoline Splittorff and Samuel Pokala, Finland are the two gold medalists in today’s Mass Start event, Pokala winning by just 8 seconds and Splittorff by an impressive 4.16. Splittorff, world champion in Mass start and clear winner in the CX80 MTBO World Cup last year, made a strong start to the new season, […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Countdown to the 2026 World Masters Mountain Bike Orienteering Champs has begun]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55618</id>
+        <link href="https://www.scottish-orienteering.org/news/countdown-to-the-2026-world-masters-mountain-bike-orienteering-champs-has-begun/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=countdown-to-the-2026-world-masters-mountain-bike-orienteering-champs-has-begun"/>
+        <updated>2025-05-15T12:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Our former chair and keen Mountain Bike Orienteer, Keith Dawson, attended the 2025 World Masters Mountain Bike Orienteering Championship in […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering: A Path to Better Mental Health]]></title>
         <id>https://www.scottish-orienteering.org/?p=55617</id>
