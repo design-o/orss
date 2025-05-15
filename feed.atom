@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T18:12:31.916Z</updated>
+    <updated>2025-05-15T00:46:44.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -681,16 +681,6 @@ Easter 2025 – It’s A Wrap! first appeared on Orienteering Victoria.]]></summ
         <link href="https://www.scottish-orienteering.org/news/fourth-event-in-the-scottish-inter-club-championships-sees-no-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fourth-event-in-the-scottish-inter-club-championships-sees-no-change"/>
         <updated>2025-04-15T15:21:25.000Z</updated>
         <summary type="html"><![CDATA[The 2025 Scottish Sprint Championship was the 4th event in this years Scottish Inter Club Championships and saw no change […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sprints in the Roxburgh sunshine]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55467</id>
-        <link href="https://www.scottish-orienteering.org/news/sprints-in-the-roxburgh-sunshine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sprints-in-the-roxburgh-sunshine"/>
-        <updated>2025-04-15T11:13:52.000Z</updated>
-        <summary type="html"><![CDATA[For some the 2025 Scottish Sprint Championship and 3rd Scottish Orienteering Urban League (SOUL) event of the year was the […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
