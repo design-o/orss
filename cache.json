@@ -74,16 +74,6 @@
           "wordCount": 2205,
           "title": "Orienteering part of ISF Gymnasiade in Serbian winter-like weather",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/04/2025_isf_gymnasiade_mix_team_front-1024x576.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76232",
-          "author": "Erling Thisted",
-          "description": "When the prestigious 10Mila club relays are run on the weekend of May 3-4, everyone can follow the intense competitions on IOF TV. This year, all three commentary languages: English, Swedish and Finnish are gathered in one place – IOF TV, where you can freely choose between the languages ​​once you have bought your ticket. […]",
-          "link": "https://orienteering.sport/iof-tv-gathers-all-10mila-viewers/",
-          "publishedOn": "2025-04-16T06:41:36.000Z",
-          "wordCount": 1708,
-          "title": "IOF TV gathers all 10Mila viewers",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/04/10mila_peterholgersson-1024x682.jpg"
         }
       ]
     },
@@ -610,6 +600,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6592",
+          "author": "NIOA Secretary",
+          "description": "Just when you thought you were ‘orienteered’ out, the challenging terrain of Gortalughany awaits you on Saturday 24 May! All the details are on the Fermanagh Orienteers website. Entries are open at SiEntries.\nThe post NICS 3 appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/nics-3/",
+          "publishedOn": "2025-05-15T23:24:49.000Z",
+          "wordCount": 4253,
+          "title": "NICS 3",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Sean-flyer.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6567",
           "author": "NIOA Secretary",
