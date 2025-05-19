@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T06:15:08.118Z</updated>
+    <updated>2025-05-19T12:18:52.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Splittorff and Maišelis lead in CX80 MTBO World Cup]]></title>
+        <id>https://orienteering.sport/?p=76480</id>
+        <link href="https://orienteering.sport/splittorff-and-maiselis-lead-in-cx80-mtbo-world-cup/"/>
+        <updated>2025-05-19T10:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark has maximum points and Lithuanian Jonas Maišelis is ahead of last year’s runner-up, the Czech rider Vojtech Ludvik, by 31 points after Round 1 of the CX80 World Cup just completed in Lithuania. Splittorff was the queen of the Aprèsport European Championships, winning all three individual gold medals, whilst Maišelis won the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selection Announcement]]></title>
+        <id>https://www.orienteering.ie/?p=20924</id>
+        <link href="https://www.orienteering.ie/selection-announcement/"/>
+        <updated>2025-05-19T10:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to the following athletes who have been selected to compete for Ireland in upcoming international races: Orienteering World Cup Round 1 – Idre Fjäll, Sweden, 18-22nd June: Rosalind Heron (3ROC) European Orienteering Championships – Hasselt, Belgium, 27-31st August: Aoife McCavana (GEN) and Josh O’Sullivan Hourihan (CorkO) There will be further selections later in the summer […]]]></summary>
+        <author>
+            <name>Mark Stephens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 WOC Team Selected]]></title>
+        <id>https://orienteering.asn.au/?p=14009</id>
+        <link href="https://orienteering.asn.au/2025-woc-team-selected/"/>
+        <updated>2025-05-19T09:41:19.000Z</updated>
+        <summary type="html"><![CDATA[The selection panel has met and decided on the Australian WOC team to compete in the 2025 World Championships (WOC) held in Kuopio, Finland from 7-12 July.
+2025 WOC Team Selected first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>elizabethl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Victoria AGM Friday 23rd May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14642</id>
+        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-agm-friday-23rd-may/"/>
+        <updated>2025-05-19T06:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The Orienteering Victoria AGM is to be held on Friday 23rd May at 7.30pm via Zoom. All orienteering Victoria members are welcome to join this meeting.
+Orienteering Victoria AGM Friday 23rd May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aprèsport European MTBO Championships: Mixed Relay won by Czechia]]></title>
         <id>https://orienteering.sport/?p=76464</id>
