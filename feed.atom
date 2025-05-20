@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T12:19:00.750Z</updated>
+    <updated>2025-05-20T18:13:50.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC reaches large TV audience this year]]></title>
+        <id>https://orienteering.sport/?p=76492</id>
+        <link href="https://orienteering.sport/woc-reaches-large-tv-audience-this-year/"/>
+        <updated>2025-05-20T17:07:54.000Z</updated>
+        <summary type="html"><![CDATA[When the world’s best orienteers meet in Kuopio, Finland to compete at this year’s World Orienteering Championships, the three medal races will receive great attention. Seven national broadcasters have acquired the rights to show the prestigious races live when they take place from July 9-12, 2025. These are YLE (Finland), NRK (Norway), SVT (Sweden), SRG […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 WORLD GAMES TEAM SELECTED]]></title>
         <id>https://orienteering.asn.au/?p=14016</id>
