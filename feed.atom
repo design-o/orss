@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T18:13:48.660Z</updated>
+    <updated>2025-05-20T00:49:47.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changes to World Ranking in TrailO with new PreO Sprint format]]></title>
+        <id>https://orienteering.sport/?p=76487</id>
+        <link href="https://orienteering.sport/changes-to-world-ranking-in-trailo-with-new-preo-sprint-format/"/>
+        <updated>2025-05-19T19:55:38.000Z</updated>
+        <summary type="html"><![CDATA[The new PreO Sprint format is the equivalent of a “middle distance” orienteering event. PreO Sprint is a fast format with a focus on accurate decisions. Course length and decision times are much shorter than a classic PreO, but the number of correct decisions is still the primary classifier. Making fast decisions on whether a […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Splittorff and Maišelis lead in CX80 MTBO World Cup]]></title>
         <id>https://orienteering.sport/?p=76480</id>
@@ -838,17 +848,6 @@ Anzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day first appear
         <summary type="html"><![CDATA[With delegations from nearly 60 countries and regions, and close to 4,000 participants – including almost 3,000 young athletes – the ISF U15 Gymnasiade 2025 marks the largest edition in the event’s history. Young athletes under 15 years of age gathered to participate in their own sport and watching other sports. The School Sports Games […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easter 2025 – It’s A Wrap!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14511</id>
-        <link href="https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/"/>
-        <updated>2025-04-20T07:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Easter is over, but the Anzac Weekend is still to come!
-Easter 2025 – It’s A Wrap! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

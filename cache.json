@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76487",
+          "author": "Erling Thisted",
+          "description": "The new PreO Sprint format is the equivalent of a “middle distance” orienteering event. PreO Sprint is a fast format with a focus on accurate decisions. Course length and decision times are much shorter than a classic PreO, but the number of correct decisions is still the primary classifier. Making fast decisions on whether a […]",
+          "link": "https://orienteering.sport/changes-to-world-ranking-in-trailo-with-new-preo-sprint-format/",
+          "publishedOn": "2025-05-19T19:55:38.000Z",
+          "wordCount": 1718,
+          "title": "Changes to World Ranking in TrailO with new PreO Sprint format",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/preosprint.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=76480",
           "author": "Clive",
           "description": "Nikoline Splittorff, Denmark has maximum points and Lithuanian Jonas Maišelis is ahead of last year’s runner-up, the Czech rider Vojtech Ludvik, by 31 points after Round 1 of the CX80 World Cup just completed in Lithuania. Splittorff was the queen of the Aprèsport European Championships, winning all three individual gold medals, whilst Maišelis won the […]",
@@ -226,16 +236,6 @@
           "publishedOn": "2025-04-22T06:59:51.000Z",
           "wordCount": 1090,
           "title": "Anzac Weekend Updates – Bulletin 2, Start Lists, Entry on the Day",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14511",
-          "author": "Debbie Dodd",
-          "description": "Easter is over, but the Anzac Weekend is still to come!\nEaster 2025 – It’s A Wrap! first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/easter-and-anzac-weekend-news-find-out-the-latest/",
-          "publishedOn": "2025-04-20T07:45:28.000Z",
-          "wordCount": 1369,
-          "title": "Easter 2025 – It’s A Wrap!",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
