@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T12:18:36.377Z</updated>
+    <updated>2025-05-21T18:13:53.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O-Ringen Academy 2025 is waiting for your application]]></title>
+        <id>https://orienteering.sport/?p=76503</id>
+        <link href="https://orienteering.sport/o-ringen-academy-2025-is-waiting-for-your-application/"/>
+        <updated>2025-05-21T12:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Applications are now open for the annual O-Ringen Academy, which takes place in Jönköping, Sweden in the end of July 2025 in conjunction with the world’s largest orienteering event O-Ringen. The academy is organised by the Park World Tour Organisation in cooperation with the International Orienteering Federation and O-Ringen, and it provides a unique opportunity […]]]></summary>
+        <author>
+            <name>Sondre Sande Gullord</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC reaches large TV audience this year]]></title>
         <id>https://orienteering.sport/?p=76492</id>
