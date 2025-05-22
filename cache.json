@@ -505,16 +505,6 @@
           "wordCount": 1716,
           "title": "Ongoing Results | 2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2019/04/StarkFryHilltopLodge.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=48634",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Run, Hike, or Bike! —————— Search for 68 locations marked on an OCAD Orienteering map of Cuyahoga Falls & Silver Lake. Only a few streets are labeled, so stay aware of where you are! Answer a simple question at each checkpoint (e.g., house number with windmill in front yard). Free Family Downtown Version is available! […]",
-          "link": "https://neooc.com/new-event-fallsquest-2025-cuyahoga-falls-oh-sunday-may-25th/",
-          "publishedOn": "2025-04-22T14:45:59.000Z",
-          "wordCount": 1733,
-          "title": "New Event | FallsQuest 2025 | Cuyahoga Falls, OH | Sunday, May 25th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2016/04/map-board.jpg"
         }
       ]
     },
@@ -747,6 +737,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14023",
+          "author": "danielstott",
+          "description": "Volunteers keep our sport alive! Show your thanks by giving them 3 cheers and put them on the map this National Volunteer Week.\n3 Cheers for Orienteering Volunteers first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/3-cheers-for-orienteering-volunteers/",
+          "publishedOn": "2025-05-22T05:35:55.000Z",
+          "wordCount": 2524,
+          "title": "3 Cheers for Orienteering Volunteers",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14016",
           "author": "elizabethl",

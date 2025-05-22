@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T00:47:52.119Z</updated>
+    <updated>2025-05-22T06:14:51.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Cheers for Orienteering Volunteers]]></title>
+        <id>https://orienteering.asn.au/?p=14023</id>
+        <link href="https://orienteering.asn.au/3-cheers-for-orienteering-volunteers/"/>
+        <updated>2025-05-22T05:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Volunteers keep our sport alive! Show your thanks by giving them 3 cheers and put them on the map this National Volunteer Week.
+3 Cheers for Orienteering Volunteers first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O-Ringen Academy 2025 is waiting for your application]]></title>
         <id>https://orienteering.sport/?p=76503</id>
@@ -848,16 +859,6 @@ MelBushO at Macedon, Sunday 18 May first appeared on Orienteering Victoria.]]></
         <updated>2025-04-23T07:46:05.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | FallsQuest 2025 | Cuyahoga Falls, OH | Sunday, May 25th]]></title>
-        <id>https://neooc.com/?p=48634</id>
-        <link href="https://neooc.com/new-event-fallsquest-2025-cuyahoga-falls-oh-sunday-may-25th/"/>
-        <updated>2025-04-22T14:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Run, Hike, or Bike! —————— Search for 68 locations marked on an OCAD Orienteering map of Cuyahoga Falls & Silver Lake. Only a few streets are labeled, so stay aware of where you are! Answer a simple question at each checkpoint (e.g., house number with windmill in front yard). Free Family Downtown Version is available! […]]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
