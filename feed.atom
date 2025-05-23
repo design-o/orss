@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T18:13:30.033Z</updated>
+    <updated>2025-05-23T00:48:15.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Week finishing with a great weekend of orienteering]]></title>
+        <id>https://orienteering.asn.au/?p=14030</id>
+        <link href="https://orienteering.asn.au/world-orienteering-week-finishing-with-a-great-weekend-of-orienteering/"/>
+        <updated>2025-05-22T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Parks, schools, forests and beaches have already hosted over 1500 orienteers during World Orienteering Week. It concludes with a weekend full of great events.
+World Orienteering Week finishing with a great weekend of orienteering first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>danielstott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postponed | Kent State Masters | Classic Orienteering at Kent State U | Sunday, June 8th]]></title>
+        <id>https://neooc.com/?p=48722</id>
+        <link href="https://neooc.com/postponed-kent-state-masters-classic-orienteering-at-kent-state-u-sunday-june-8th/"/>
+        <updated>2025-05-22T19:43:58.000Z</updated>
+        <summary type="html"><![CDATA[We are sorry to announce, that this event is POSTPONED to a later date… We will update our schedule and upcoming events pages when we know of further details…. Kent State Masters | Classic Orienteering at Kent State U | Sunday, June 8th]]></summary>
+        <author>
+            <name>Frederick Mailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Cheers for Orienteering Volunteers]]></title>
         <id>https://orienteering.asn.au/?p=14023</id>
@@ -848,15 +869,6 @@ Livelox Webinar Recording Now Available first appeared on Orienteering Australia
         <updated>2025-04-24T00:28:52.000Z</updated>
         <summary type="html"><![CDATA[Come along to Cardinia next Sunday for the second MelbushO event of 2025
 MelBushO at Macedon, Sunday 18 May first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians Feature in Annual Orienteering Australia Awards]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14605</id>
-        <link href="https://www.vicorienteering.asn.au/victorians-feature-in-annual-orienteering-australia-awards/"/>
-        <updated>2025-04-23T07:46:05.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
