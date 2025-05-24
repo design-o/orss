@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T00:45:31.960Z</updated>
+    <updated>2025-05-24T06:12:23.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -831,46 +831,6 @@ Livelox Webinar Recording Now Available first appeared on Orienteering Australia
         <updated>2025-04-25T05:09:04.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of the Scottish 6 Days Events? Join the Next Members’ Community Conversation (Mon 5th May)]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55529</id>
-        <link href="https://www.scottish-orienteering.org/news/the-future-of-the-scottish-6-days-events-join-the-next-members-community-conversation-mon-5th-may/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-future-of-the-scottish-6-days-events-join-the-next-members-community-conversation-mon-5th-may"/>
-        <updated>2025-04-24T16:58:43.000Z</updated>
-        <summary type="html"><![CDATA[The next members’ monthly online Community Conversation is on Monday 5th May (7.30-8.30pm), and you can now sign up to […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Mapping Weekend | Big Creek Park – Geauga County | Friday, May 9th thru May 12th]]></title>
-        <id>https://neooc.com/?p=48659</id>
-        <link href="https://neooc.com/new-event-mapping-weekend-big-creek-park-geauga-county-friday-may-9th-thru-may-12th/"/>
-        <updated>2025-04-24T15:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Interested in helping NEOOC with map making or field checking? Join us during this 4-day mapping weekend to help with our next orienteering venue: Big Creek Park in Geauga County. 2025 Mapping Weekend | Big Creek Park – Geauga County | Friday, May 9th thru May 12th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ongoing Results | 2025 Fry Family Park Self Serve | Stark County | Saturday, April 19th thru 27th]]></title>
-        <id>https://neooc.com/?p=48656</id>
-        <link href="https://neooc.com/ongoing-results-2025-fry-family-park-self-serve-stark-county-saturday-april-19th-thru-27th/"/>
-        <updated>2025-04-24T15:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Only Four Days left! Ongoing Results here! Submit your results here! (If you skipped the Tech) Details and Map Download Here! (Open til Sunday, April 27th)]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Austria and Hungary take inclusion steps with Flex-O]]></title>
-        <id>https://orienteering.sport/?p=76283</id>
-        <link href="https://orienteering.sport/austria-and-hungary-take-inclusion-steps-with-flex-o/"/>
-        <updated>2025-04-24T12:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Supported by the EU in the Erasmus+ programme and inspired by earlier Swedish initiatives, a cooperating team from the Austrian and Hungarian orienteering communities have started an educational project connected to a series of events for people with special needs. The aim was to offer people with mental health issues the opportunity to participate in […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
