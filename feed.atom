@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T06:15:19.822Z</updated>
+    <updated>2025-05-26T12:18:37.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Next Generation: Protecting and supporting young athletes during Clean Sport Week, 19 – 23 May.]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55688</id>
+        <link href="https://www.scottish-orienteering.org/news/the-next-generation-protecting-and-supporting-young-athletes-during-clean-sport-week-19-23-may/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-next-generation-protecting-and-supporting-young-athletes-during-clean-sport-week-19-23-may"/>
+        <updated>2025-05-26T09:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Scottish Orienteering Association is committed to clean sport and supported UK Anti-Doping’s (UKAD’s) Clean Sport Week campaign from 19 – […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wet Wet Wet]]></title>
         <id>https://www.niorienteering.org.uk/?p=6614</id>
