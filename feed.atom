@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T18:12:54.721Z</updated>
+    <updated>2025-05-27T00:46:55.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -843,17 +843,6 @@ Livelox Webinar Recording Now Available first appeared on Orienteering Australia
         <summary type="html"><![CDATA[Don’t miss a second of the biggest international orienteering competitions in 2025 with the new VIP Pass for IOF TV. The pass grants you access to all broadcasts in 2025 for a reduced price. The events included in the IOF TV VIP Pass are: 10Mila, Sweden 3-4 May Jukola/Venla, Finland, 14-15 June Orienteering World Cup […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 National MTBO Team Announced]]></title>
-        <id>https://orienteering.asn.au/?p=13845</id>
-        <link href="https://orienteering.asn.au/2025-national-mtbo-team-announced/"/>
-        <updated>2025-04-27T06:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Selections for the national MTBO team are complete. Congratulations to these four individuals who have been selected for the 2025 National MTBO Team.
-2025 National MTBO Team Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
