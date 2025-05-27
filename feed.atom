@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T12:18:53.220Z</updated>
+    <updated>2025-05-27T18:12:22.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[June Community Conversation: Supporting Inclusion and Welfare]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55713</id>
+        <link href="https://www.scottish-orienteering.org/news/june-community-conversation-supporting-inclusion-and-welfare/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=june-community-conversation-supporting-inclusion-and-welfare"/>
+        <updated>2025-05-27T17:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Inclusivity is a fundamental principle of Sportscotland strategy and one which as a sport we are in terms of our […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[King’s Birthday Weekend start lists]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63435</id>
