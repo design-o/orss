@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T00:46:55.189Z</updated>
+    <updated>2025-05-27T06:14:21.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mountain Bike Orienteering at Woodlands, Sunday 1 June]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14676</id>
+        <link href="https://www.vicorienteering.asn.au/mountain-bike-orienteering-at-woodlands-sunday-1-june/"/>
+        <updated>2025-05-27T01:04:11.000Z</updated>
+        <summary type="html"><![CDATA[A mountain bike event ideal for those new to MTBO.  Why not give it a try and/or bring your friends?
+Mountain Bike Orienteering at Woodlands, Sunday 1 June first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | FallsQuest 2025 | Cuyahoga Falls, OH | Sunday, May 25th]]></title>
         <id>https://neooc.com/?p=48725</id>
@@ -38,6 +49,15 @@ The post Wet Wet Wet appeared first on NI Orienteering Association.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Captains Gully – Eureka Classic, Sunday 1 June]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14679</id>
+        <link href="https://www.vicorienteering.asn.au/captains-gully-eureka-classic-sunday-1-june/"/>
+        <updated>2025-05-23T01:05:24.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[World Orienteering Week finishing with a great weekend of orienteering]]></title>
         <id>https://orienteering.asn.au/?p=14030</id>
         <link href="https://orienteering.asn.au/world-orienteering-week-finishing-with-a-great-weekend-of-orienteering/"/>
@@ -67,6 +87,15 @@ World Orienteering Week finishing with a great weekend of orienteering first app
 3 Cheers for Orienteering Volunteers first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>danielstott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian Orienteering Training Camp for 8-18 Year Olds, June Long Weekend, Daylesford]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14684</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-orienteering-training-camp-for-8-18-year-olds-june-long-weekend-daylesford/"/>
+        <updated>2025-05-22T01:12:00.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
