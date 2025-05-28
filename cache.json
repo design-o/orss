@@ -293,6 +293,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23322",
+          "author": "James Gjertsen",
+          "description": "Results – SPORTident WinSplits",
+          "link": "https://slow.org.uk/racereports/roehampton-university-park-race-results/",
+          "publishedOn": "2025-05-27T21:02:38.000Z",
+          "wordCount": 1977,
+          "title": "Roehampton University Park Race – Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/roehampton-park-race-2022-results/files/Roehampton2022_3.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23288",
           "author": "vinh",
           "description": "It was another great turn out for our Street-O event, the last in the 2024-25 series. Thanks Iris and helpers for putting on the event. [...]",
