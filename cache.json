@@ -534,6 +534,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=55717",
+          "author": "heidi",
+          "description": "Last week was World Orienteering which aims to increase the visibility and accessibility of orienteering to young people. We are […]",
+          "link": "https://www.scottish-orienteering.org/news/world-orienteering-week-2/?utm_source=rss&utm_medium=rss&utm_campaign=world-orienteering-week-2",
+          "publishedOn": "2025-05-29T12:47:59.000Z",
+          "wordCount": 2005,
+          "title": "World Orienteering Week",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/499285503_1473592017363295_727099962353167957_n-1024x771.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=55713",
           "author": "nikkihoward",
           "description": "Inclusivity is a fundamental principle of Sportscotland strategy and one which as a sport we are in terms of our […]",
