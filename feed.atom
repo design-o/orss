@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T06:14:33.603Z</updated>
+    <updated>2025-05-29T12:18:21.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The League Standings are Calculated]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6648</id>
+        <link href="https://www.niorienteering.org.uk/the-league-standings-are-calculated/"/>
+        <updated>2025-05-29T08:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Following the third NI Colour Series event at Gortalughany, the League standings are now published,thanks to Alan. With three events over, only one competitor has scored the optimal 100 points and as Moire O’Sullivan is assistant planner for the upcoming forth event at Slievenagore on...
+The post The League Standings are Calculated appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embargo |  Tūāraki North Regional Orienteering Championships 2025]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63442</id>
