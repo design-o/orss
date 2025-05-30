@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T06:14:14.199Z</updated>
+    <updated>2025-05-30T12:18:15.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -936,16 +936,6 @@ Mapping matters  |  Australian notes first appeared on Orienteering New Zeala
 The post The Irish 5 Day is GO! appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: 10Mila 2025 preview with expert commentator Jonas Merz]]></title>
-        <id>https://orienteering.sport/?p=76305</id>
-        <link href="https://orienteering.sport/podcast-10mila-2025-preview-with-expert-commentator-jonas-merz/"/>
-        <updated>2025-04-30T19:56:56.000Z</updated>
-        <summary type="html"><![CDATA[It’s 10Mila time and you can follow all the action from Finspång, Sweden in the weekend 3-4 May, 2025 on IOF TV. Together with expert commentator Jonas Merz, we look into the terrain, the format and who are the favorites for this year’s relays. Go to IOF TV – tv.orienteering.sport – to get your ticket […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
