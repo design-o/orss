@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T18:13:24.583Z</updated>
+    <updated>2025-05-30T00:48:18.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wild Cards for WTOC 2025]]></title>
+        <id>https://orienteering.sport/?p=76517</id>
+        <link href="https://orienteering.sport/wild-cards-for-wtoc-2025/"/>
+        <updated>2025-05-29T20:33:04.000Z</updated>
+        <summary type="html"><![CDATA[According to the rules, please se rule §6.6 for full details, the following persons has qualified for a personal Wild Card to participate in addition to a country’s normal quota. PreO O-class and TempO: Name Country Krystian Petersburski Poland Laura Eliza Lapina Latvia Anders Höije Sweden Pinja Mäkinen Finland Antti Rusanen Finland Marcello Lambertini Italy […]]]></summary>
+        <author>
+            <name>Martin Fredholm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Orienteering Week]]></title>
         <id>https://www.scottish-orienteering.org/?p=55717</id>
@@ -936,17 +946,6 @@ The post The Irish 5 Day is GO! appeared first on NI Orienteering Association.]]
         <summary type="html"><![CDATA[It’s 10Mila time and you can follow all the action from Finspång, Sweden in the weekend 3-4 May, 2025 on IOF TV. Together with expert commentator Jonas Merz, we look into the terrain, the format and who are the favorites for this year’s relays. Go to IOF TV – tv.orienteering.sport – to get your ticket […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Livelox Webinar Recording Now Available]]></title>
-        <id>https://orienteering.asn.au/?p=13872</id>
-        <link href="https://orienteering.asn.au/livelox-webinar-recording-now-available/"/>
-        <updated>2025-04-30T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[The webinar introducing Livelox is now available to view on the Orienteering Australia YouTube channel. It explores viewing and uploading routes using real examples from the 2025 Australian 3 Days.
-Livelox Webinar Recording Now Available first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
