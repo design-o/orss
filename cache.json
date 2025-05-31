@@ -283,6 +283,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23351",
+          "author": "Steve Clelland",
+          "description": "Part of the Greater London Orienteering Summer Series (GLOSS), a series of races run by the clubs in and around London. The GLOSS events are perfect [...]",
+          "link": "https://slow.org.uk/events/gloss-2025-northala-fields/",
+          "publishedOn": "2025-05-31T17:19:42.000Z",
+          "wordCount": 2365,
+          "title": "GLOSS – Northala Fields, Sunday 22 June",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/gloss-northala-fields-22nd-june/files/Northala2_L.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23322",
           "author": "James Gjertsen",
           "description": "Results – SPORTident WinSplits",
