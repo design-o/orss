@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T00:59:45.778Z</updated>
+    <updated>2025-06-01T06:13:33.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1023,17 +1023,6 @@ The post An Open or Shut Case? appeared first on NI Orienteering Association.]]>
 Henry McNulty: 2024 Athlete of the Year first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunny Start to the IOC Weekend at Ballymena]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6530</id>
-        <link href="https://www.niorienteering.org.uk/sunny-start-to-the-ioc-weekend-at-ballymena/"/>
-        <updated>2025-05-02T14:45:24.000Z</updated>
-        <summary type="html"><![CDATA[The results are in after Day 1 of the Irish 5 Day with the urban race at Ballymena held in sunny conditions. The results are at the IOC website and at Fixtures & Results>2025 Results. Congratulations to NI podium placed competitors: George Savell, 1st Mens...
-The post Sunny Start to the IOC Weekend at Ballymena appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
