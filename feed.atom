@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T12:16:51.927Z</updated>
+    <updated>2025-06-01T18:12:13.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1023,17 +1023,6 @@ Nationals 2025   |  Weathering through Easter  first appeared on Orienteeri
 The post An Open or Shut Case? appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Henry McNulty: 2024 Athlete of the Year]]></title>
-        <id>https://orienteering.asn.au/?p=13888</id>
-        <link href="https://orienteering.asn.au/henry-mcnulty-2024-athlete-of-the-year/"/>
-        <updated>2025-05-03T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Henry McNulty who has been announced as the 2024 Orienteering Australia Athlete of the Year.
-Henry McNulty: 2024 Athlete of the Year first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
