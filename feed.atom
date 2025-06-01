@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T06:13:33.631Z</updated>
+    <updated>2025-06-01T12:16:51.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 World Cup Round 1 Team Selected]]></title>
+        <id>https://orienteering.asn.au/?p=14124</id>
+        <link href="https://orienteering.asn.au/2025-world-cup-round-1-team-selected/"/>
+        <updated>2025-06-01T07:35:04.000Z</updated>
+        <summary type="html"><![CDATA[The selection panel has met and decided on the Australian World Cup Round 1 team to compete in the 2025 Orienteering World Cup held in Idre Fjäll, Sweden from 19-22 June 2025.
+2025 World Cup Round 1 Team Selected first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GLOSS – Northala Fields, Sunday 22 June]]></title>
         <id>https://slow.org.uk/?p=23351</id>
