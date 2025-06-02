@@ -584,6 +584,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=55739",
+          "author": "suzannerb",
+          "description": "Jim McCormack We start off volunteer week by celebrating the life of someone who contributed a huge amount to orienteering […]",
+          "link": "https://www.scottish-orienteering.org/news/volunteer-week-2025/?utm_source=rss&utm_medium=rss&utm_campaign=volunteer-week-2025",
+          "publishedOn": "2025-06-02T13:50:08.000Z",
+          "wordCount": 1867,
+          "title": "Volunteer Week 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/Jim-McC-on-the-hills-2-768x1024.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=55717",
           "author": "heidi",
           "description": "Last week was World Orienteering which aims to increase the visibility and accessibility of orienteering to young people. We are […]",
@@ -750,6 +760,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6652",
+          "author": "NIOA Secretary",
+          "description": "Have you checked out the benefits of your orienteering membership recently? The various discounts on offer are at on the Membership Discounts page the British Orienteering website, also with a link on About>Join NI Orienteering. For example a 15% discount is offered on many Decathalon...\nThe post Are You Making the Most of Membership appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/are-you-making-the-most-of-membership/",
+          "publishedOn": "2025-06-02T17:56:26.000Z",
+          "wordCount": 4346,
+          "title": "Are You Making the Most of Membership",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Decathalon-300x169.png"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6655",
           "author": "NIOA Secretary",
