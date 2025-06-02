@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T18:12:13.137Z</updated>
+    <updated>2025-06-02T00:51:59.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1001,28 +1001,6 @@ Keen for knockouts! | Fast pace finish to Nationals first appeared on Oriente
 Nationals 2025   |  Weathering through Easter  first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 JWOC Team Selection]]></title>
-        <id>https://orienteering.asn.au/?p=13901</id>
-        <link href="https://orienteering.asn.au/2025-jwoc-team-selection/"/>
-        <updated>2025-05-03T10:17:16.000Z</updated>
-        <summary type="html"><![CDATA[The selection panel has met and decided on the Australian JWOC team to compete in the 2025 Junior World Championships (JWOC), held in Trentino, Italy, from 26 June to 4 July.
-2025 JWOC Team Selection first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Open or Shut Case?]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6541</id>
-        <link href="https://www.niorienteering.org.uk/an-open-or-shut-case/"/>
-        <updated>2025-05-03T07:18:22.000Z</updated>
-        <summary type="html"><![CDATA[The results are in for the Irish Sprint Championships at Coleraine. Did you spot the doors especially open with the permission of Ulster University? The results are at the IOC website and at Fixtures & Results>2025 Results. Thanks to the key officals Allan Bogle planner, Rachel Reid organiser...
-The post An Open or Shut Case? appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
