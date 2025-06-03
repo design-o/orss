@@ -227,16 +227,6 @@
           "wordCount": 1098,
           "title": "Park Street Update, May 13-19",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14609",
-          "author": "Margi Freemantle",
-          "description": "The Orienteering Victoria AGM will be a zoom meeting at 730pm  on 23rd May. \nOrienteering Victoria Annual General Meeting –  Much better for you than a democracy sausage first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/23-may-orienteering-victoria-annual-general-meeting-much-better-for-you-than-a-democracy-sausage/",
-          "publishedOn": "2025-05-05T01:30:22.000Z",
-          "wordCount": 1064,
-          "title": "Orienteering Victoria Annual General Meeting –  Much better for you than a democracy sausage",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -583,6 +573,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55746",
+          "author": "suzannerb",
+          "description": "Today we celebrate two members, both Davids, who have a wide reaching commitment to many aspects of orienteering, fulfilling multiple […]",
+          "link": "https://www.scottish-orienteering.org/news/volunteer-week-2025-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=volunteer-week-2025-day-2",
+          "publishedOn": "2025-06-03T16:14:51.000Z",
+          "wordCount": 1801,
+          "title": "Volunteer week 2025- day 2",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/David-Esson2-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55739",
           "author": "suzannerb",
