@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-02T18:13:48.299Z</updated>
+    <updated>2025-06-03T00:50:07.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -956,17 +956,6 @@ The post Magic Magilligan appeared first on NI Orienteering Association.]]></sum
 Orienteering Victoria Annual General Meeting –  Much better for you than a democracy sausage first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compass Point – April 2025]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63427</id>
-        <link href="https://mailchi.mp/orienteering.org.nz/compass-point-april-2025#new_tab"/>
-        <updated>2025-05-04T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[A P R I L 2 0 2 5M e m b e r n e w s & v i e w s | A P R I L 2 0 2 5Banner image 📷 Andy Johnstone captured Nathan Borton at the NZOC25 RelayU p d a t e* Notes from the GM* View […]
-Compass Point – April 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
