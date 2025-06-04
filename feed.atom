@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T06:14:35.806Z</updated>
+    <updated>2025-06-04T12:19:07.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Langrenn.com acquires Norwegian TV rights for the entire international season]]></title>
+        <id>https://orienteering.sport/?p=76582</id>
+        <link href="https://orienteering.sport/langrenn-com-acquires-norwegian-tv-rights-for-the-entire-international-season/"/>
+        <updated>2025-06-04T10:00:43.000Z</updated>
+        <summary type="html"><![CDATA[All the international orienteering races of 2025 will be available to Norwegian viewers with commentary in Norwegian through the digital newssite langrenn.com That is the result of a new agreement between the International Orienteering Federation and Wsportsmedia, that acquires the exclusive broadcasting rights to the Orienteering World Cup for langrenn.com on the Norwegian market. The […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jessie Mulligan gets ‘good vibes’ after taking part in orienteering]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63539</id>
@@ -953,17 +963,6 @@ The post A Winning Team! appeared first on NI Orienteering Association.]]></summ
 Orienteering Australia Invests in meshO first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Magilligan]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6558</id>
-        <link href="https://www.niorienteering.org.uk/magic-magilligan/"/>
-        <updated>2025-05-05T23:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Magilligan certainly lived up to its reputation hosting three days of competition in fast and furious adjacent terrain in sunny if sometimes windy weather. Thanks to planners Des Fletcher, Steven Linton, Anthony McGonigle, David Blair and Graeme Francis, Organisers Gerry Meehan, Ric Gamble and Murray...
-The post Magic Magilligan appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
