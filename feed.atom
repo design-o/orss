@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T18:13:34.172Z</updated>
+    <updated>2025-06-05T00:49:17.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Games Team Finalised]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63554</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-teams-finalised/"/>
+        <updated>2025-06-04T18:53:38.000Z</updated>
+        <summary type="html"><![CDATA[The following selections for the 2025 World Games in Chengdu, China, 8th-11th August have been finalised subject to participants being current members of their respective Orienteering Clubs and therefore affiliated members of ONZ. MenJoseph LynchTim Robertson Reserve: Matt Ogden Women Kaia JoergensenLaura Robertson Reserve: Zara Stewart Manager/CoachMatt Ogden
+World Games Team Finalised first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Langrenn.com acquires Norwegian TV rights for the entire international season]]></title>
         <id>https://orienteering.sport/?p=76582</id>
@@ -941,17 +952,6 @@ Paid Position REOI: Manager, Coaching and Athlete Development first appeared on 
         <summary type="html"><![CDATA[The 4th race of the London 2025 Park Series will take place in Ravenscourt Park in West London on Tuesday 10 June. Join us for [...]]]></summary>
         <author>
             <name>Matthias Mahr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Winning Team!]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6567</id>
-        <link href="https://www.niorienteering.org.uk/a-winning-team-2/"/>
-        <updated>2025-05-06T07:56:03.000Z</updated>
-        <summary type="html"><![CDATA[The team that brought you a supurb IOC 2025 included 5 organisers, 8 planners and 5 controllers, supported by mappers, access, entries, equipment, towers, starters, results, prizes, entertainment and many on the day helpers, all expertly coordinated by Anthony McGonigle. The results for the weekend...
-The post A Winning Team! appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
