@@ -584,6 +584,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=55829",
+          "author": "suzannerb",
+          "description": "Yesterday we celebrated the contributions of some longstanding members – today, at the opposite end of the spectrum, we look […]",
+          "link": "https://www.scottish-orienteering.org/news/volunteer-week-day-5-2/?utm_source=rss&utm_medium=rss&utm_campaign=volunteer-week-day-5-2",
+          "publishedOn": "2025-06-06T17:20:14.000Z",
+          "wordCount": 1605,
+          "title": "Volunteer Week – day 5",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/holly-with-STUOC.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55797",
+          "author": "louise",
+          "description": "On Thursday June 5, Pittencrieff Park in Dunfermline welcomed pupils from all across Scotland, hosting the much-anticipated Scottish Schools Orienteering […]",
+          "link": "https://www.scottish-orienteering.org/news/celebrating-success-at-the-2025-scottish-schools-orienteering-festival/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-success-at-the-2025-scottish-schools-orienteering-festival",
+          "publishedOn": "2025-06-06T15:54:27.000Z",
+          "wordCount": 2263,
+          "title": "Celebrating Success at the 2025 Scottish Schools Orienteering Festival",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/1000011262-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=55755",
           "author": "suzannerb",
           "description": "Today we are celebrating the contribution of two long standing members who have fulfilled a huge variety of roles in […]",
@@ -887,6 +907,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14150",
+          "author": "Elizabeth L",
+          "description": "2025 ACT & NSW Ski-Orienteering Championship will be held at Perisher Valley on Sunday 17th August.\n2025 ACT & NSW Ski-Orienteering Championship first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2025-act-nsw-ski-orienteering-championship/",
+          "publishedOn": "2025-06-06T12:25:11.000Z",
+          "wordCount": 2545,
+          "title": "2025 ACT & NSW Ski-Orienteering Championship",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14143",
           "author": "Daniel Stott",
