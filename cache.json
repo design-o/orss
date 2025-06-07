@@ -330,6 +330,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=63573",
+          "author": "Malcolm Ingham",
+          "description": "Looking for something extra over our newest long weekend? Wellington and Red Kiwis OC bring you a Matariki Special. Saturday 21 June: 2 x sprints in Levin, including one on a map used only once previously (for a NSL race in 2022). Three courses at each event. Sunday 22 June: test yourself with a return […]\nMatariki Weekend Events first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/matariki-weekend-events/",
+          "publishedOn": "2025-06-07T03:31:16.000Z",
+          "wordCount": 2219,
+          "title": "Matariki Weekend Events",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/matariki-1.jpeg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=63554",
           "author": "Christo Peters",
           "description": "The following selections for the 2025 World Games in Chengdu, China, 8th-11th August have been finalised subject to participants being current members of their respective Orienteering Clubs and therefore affiliated members of ONZ. MenJoseph LynchTim Robertson Reserve: Matt Ogden Women Kaia JoergensenLaura Robertson Reserve: Zara Stewart Manager/CoachMatt Ogden\nWorld Games Team Finalised first appeared on Orienteering New Zealand.",
@@ -772,26 +782,6 @@
           "wordCount": 1574,
           "title": "Volunteer week 2-8 June 2025",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/image.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55588",
-          "author": "louise",
-          "description": "The Jamie Stevenson Trophy is an annual inter-club competition for junior orienteers in Scotland. This year the competition will take […]",
-          "link": "https://www.scottish-orienteering.org/news/jamie-stevenson-trophy-2025/?utm_source=rss&utm_medium=rss&utm_campaign=jamie-stevenson-trophy-2025",
-          "publishedOn": "2025-05-08T15:39:35.000Z",
-          "wordCount": 1871,
-          "title": "Jamie Stevenson Trophy 2025",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/20180617_113411-2-1024x628.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55576",
-          "author": "louise",
-          "description": "This Easter, more than 2,600 orienteers from 140 clubs and 28 countries descended on South Yorkshire for the JK International […]",
-          "link": "https://www.scottish-orienteering.org/news/easter-done-right-the-jk-festival-2025/?utm_source=rss&utm_medium=rss&utm_campaign=easter-done-right-the-jk-festival-2025",
-          "publishedOn": "2025-05-08T14:21:16.000Z",
-          "wordCount": 2500,
-          "title": "Easter done right – the JK Festival 2025",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/54461559312_8898e823d7_c.jpg"
         }
       ]
     },

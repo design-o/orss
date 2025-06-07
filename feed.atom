@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T00:48:17.860Z</updated>
+    <updated>2025-06-07T06:13:01.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matariki Weekend Events]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63573</id>
+        <link href="https://www.orienteering.org.nz/news/matariki-weekend-events/"/>
+        <updated>2025-06-07T03:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Looking for something extra over our newest long weekend? Wellington and Red Kiwis OC bring you a Matariki Special. Saturday 21 June: 2 x sprints in Levin, including one on a map used only once previously (for a NSL race in 2022). Three courses at each event. Sunday 22 June: test yourself with a return […]
+Matariki Weekend Events first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Malcolm Ingham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volunteer Week – day 5]]></title>
         <id>https://www.scottish-orienteering.org/?p=55829</id>
@@ -964,26 +975,6 @@ International MTBO News – Victorian Selections for World Champs, and World Mas
         <summary type="html"><![CDATA[The second race in the 2025 Park Race series will be at Roehampton University, south-west London, on Tuesday 27th May. Race Centre The race is [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamie Stevenson Trophy 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55588</id>
-        <link href="https://www.scottish-orienteering.org/news/jamie-stevenson-trophy-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jamie-stevenson-trophy-2025"/>
-        <updated>2025-05-08T15:39:35.000Z</updated>
-        <summary type="html"><![CDATA[The Jamie Stevenson Trophy is an annual inter-club competition for junior orienteers in Scotland. This year the competition will take […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easter done right – the JK Festival 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55576</id>
-        <link href="https://www.scottish-orienteering.org/news/easter-done-right-the-jk-festival-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=easter-done-right-the-jk-festival-2025"/>
-        <updated>2025-05-08T14:21:16.000Z</updated>
-        <summary type="html"><![CDATA[This Easter, more than 2,600 orienteers from 140 clubs and 28 countries descended on South Yorkshire for the JK International […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
