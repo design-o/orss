@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T06:13:01.521Z</updated>
+    <updated>2025-06-07T12:16:10.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -965,16 +965,6 @@ International MTBO News – Victorian Selections for World Champs, and World Mas
         <summary type="html"><![CDATA[Kent State Masters | Classic Orienteering at Kent State U | Sunday, June 8th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Roehampton University, Tuesday 27th May]]></title>
-        <id>https://slow.org.uk/?p=23253</id>
-        <link href="https://slow.org.uk/events/park-roehampton-may25/"/>
-        <updated>2025-05-08T20:49:48.000Z</updated>
-        <summary type="html"><![CDATA[The second race in the 2025 Park Race series will be at Roehampton University, south-west London, on Tuesday 27th May. Race Centre The race is [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
 </feed>
