@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T18:13:55.991Z</updated>
+    <updated>2025-06-07T00:48:17.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -984,27 +984,6 @@ International MTBO News – Victorian Selections for World Champs, and World Mas
         <summary type="html"><![CDATA[This Easter, more than 2,600 orienteers from 140 clubs and 28 countries descended on South Yorkshire for the JK International […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New High Performance Manager]]></title>
-        <id>https://www.orienteering.ie/?p=20887</id>
-        <link href="https://www.orienteering.ie/new-high-performance-manager/"/>
-        <updated>2025-05-08T12:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland are happy to announce Niamh O’Boyle as the new High Performance Manager for the Senior squad. Niamh has an incredible amount of knowledge on the topic with a very impressive list of results to back it up. We wish her all the best in this role! Niamh will be assisted in this role […]]]></summary>
-        <author>
-            <name>Mark Stephens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Register for 2025 WMOC]]></title>
-        <id>https://orienteering.asn.au/?p=13914</id>
-        <link href="https://orienteering.asn.au/register-for-2025-wmoc/"/>
-        <updated>2025-05-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The World Masters Orienteering Championships will be held from 8-15 August 2025 in Girona, Spain. Registration closes 30 June 2025.
-Register for 2025 WMOC first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
