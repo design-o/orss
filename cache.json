@@ -227,16 +227,6 @@
           "wordCount": 1076,
           "title": "Vic Series at Fryerstown, Sunday May 25",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2025-05-10T02:41:54.000Z",
-          "wordCount": 1098,
-          "title": "Park Street Update, May 13-19",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -867,6 +857,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14154",
+          "author": "Elizabeth L",
+          "description": "Read the June edition of The Australian Orienteer, available online now. The magazine features reports about local and international orienteering events so there should be something of interest to everyone.\nThe Australian Orienteer: June Edition Now Online first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/the-australian-orienteer-june-edition-now-online-2/",
+          "publishedOn": "2025-06-08T12:47:30.000Z",
+          "wordCount": 2356,
+          "title": "The Australian Orienteer: June Edition Now Online",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14150",
           "author": "Elizabeth L",
