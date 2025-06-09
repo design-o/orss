@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76637",
+          "author": "Erling Thisted",
+          "description": "The European Orienteering Championships will return to Switzerland in 2027, with Thun as the host city. Switzerland was appointed as host during the latest meeting in the IOF Council in May. The 2027 edition of EOC is a sprint championship with three disciplines: Sprint, Sprint Relay and Knock-Out Sprint, held from September 29 to October […]",
+          "link": "https://orienteering.sport/eoc-2027-will-be-held-in-thun-switzerland/",
+          "publishedOn": "2025-06-08T21:54:01.000Z",
+          "wordCount": 1518,
+          "title": "EOC 2027 will be held in Thun, Switzerland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2024_owcr1_kosprint_simon_buser-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76582",
           "author": "Erling Thisted",
           "description": "All the international orienteering races of 2025 will be available to Norwegian viewers with commentary in Norwegian through the digital newssite langrenn.com That is the result of a new agreement between the International Orienteering Federation and Wsportsmedia, that acquires the exclusive broadcasting rights to the Orienteering World Cup for langrenn.com on the Norwegian market. The […]",
@@ -138,6 +148,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-05-28T02:41:54.000Z",
+          "wordCount": 1092,
+          "title": "Park Street Update, June 3-9",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14676",
           "author": "Debbie Dodd",
