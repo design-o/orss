@@ -320,6 +320,26 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=63601",
+          "author": "Christo Peters",
+          "description": "The second round of the 2025 IOF World Cup will be held in Hasselt, Belgium from 27-31st August 2025, and will consist of a Sprint Relay, a Knock-out Sprint, and an Individual Sprint. New Zealand is entitled to enter up to 8 men and 8 women in the Knock-out Sprint and the Individual Sprint Races, and […]\nWorld Cup 2 | Selection Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/world-cup-2-selection-notice/",
+          "publishedOn": "2025-06-10T12:10:00.000Z",
+          "wordCount": 2258,
+          "title": "World Cup 2 | Selection Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/Screenshot-523.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=63594",
+          "author": "Christo Peters",
+          "description": "ONZ is re-advertising the part-time paid Technical Committee Support position. This position is intended to aid the volunteer Technical Committee to provide better support for clubs. The position is fundamental ensure that we maintain and enhance the technical systems that enable us to continue to deliver quality events run by suitably skilled individuals.  The position will be […]\nTechnical Committee Support Position | Paid Role first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/technical-committee-support-role-paid-role/",
+          "publishedOn": "2025-06-10T10:10:27.000Z",
+          "wordCount": 2262,
+          "title": "Technical Committee Support Position | Paid Role",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/d3237013-df54-7fa2-4434-44e080c98a4c.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=63573",
           "author": "Malcolm Ingham",
           "description": "Looking for something extra over our newest long weekend? Wellington and Red Kiwis OC bring you a Matariki Special. Saturday 21 June: 2 x sprints in Levin, including one on a map used only once previously (for a NSL race in 2022). Three courses at each event. Sunday 22 June: test yourself with a return […]\nMatariki Weekend Events first appeared on Orienteering New Zealand.",
@@ -867,6 +887,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14159",
+          "author": "Elizabeth L",
+          "description": "Check out the latest Orienteering Australia Elite Rankings.\nOrienteering Australia Elite Rankings – June 2025 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/orienteering-australia-elite-rankings-june-2025/",
+          "publishedOn": "2025-06-10T09:00:00.000Z",
+          "wordCount": 2456,
+          "title": "Orienteering Australia Elite Rankings – June 2025",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14154",
           "author": "Elizabeth L",

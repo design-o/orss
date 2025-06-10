@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T06:14:38.378Z</updated>
+    <updated>2025-06-10T12:19:39.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup 2 | Selection Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63601</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-2-selection-notice/"/>
+        <updated>2025-06-10T12:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The second round of the 2025 IOF World Cup will be held in Hasselt, Belgium from 27-31st August 2025, and will consist of a Sprint Relay, a Knock-out Sprint, and an Individual Sprint. New Zealand is entitled to enter up to 8 men and 8 women in the Knock-out Sprint and the Individual Sprint Races, and […]
+World Cup 2 | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Committee Support Position | Paid Role]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63594</id>
+        <link href="https://www.orienteering.org.nz/news/technical-committee-support-role-paid-role/"/>
+        <updated>2025-06-10T10:10:27.000Z</updated>
+        <summary type="html"><![CDATA[ONZ is re-advertising the part-time paid Technical Committee Support position. This position is intended to aid the volunteer Technical Committee to provide better support for clubs. The position is fundamental ensure that we maintain and enhance the technical systems that enable us to continue to deliver quality events run by suitably skilled individuals.  The position will be […]
+Technical Committee Support Position | Paid Role first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Australia Elite Rankings – June 2025]]></title>
+        <id>https://orienteering.asn.au/?p=14159</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-elite-rankings-june-2025/"/>
+        <updated>2025-06-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the latest Orienteering Australia Elite Rankings.
+Orienteering Australia Elite Rankings – June 2025 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2027 will be held in Thun, Switzerland]]></title>
         <id>https://orienteering.sport/?p=76637</id>
