@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T12:19:39.155Z</updated>
+    <updated>2025-06-10T18:13:41.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We are hiring!]]></title>
+        <id>https://www.orienteering.ie/?p=21002</id>
+        <link href="https://www.orienteering.ie/we-are-hiring/"/>
+        <updated>2025-06-10T13:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland is recruiting for a Regional Development Officer. Location: remote, with a focus on designated areas in the west, midlands and border counties. The role description can be found at: RDO Vacancy If you or someone you know might be interested in applying for this role, we would love to hear from you. Why […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup 2 | Selection Notice]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63601</id>
