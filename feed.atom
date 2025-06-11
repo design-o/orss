@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T18:13:41.695Z</updated>
+    <updated>2025-06-11T00:50:03.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ravenscourt Park Race – Results]]></title>
+        <id>https://slow.org.uk/?p=23395</id>
+        <link href="https://slow.org.uk/racereports/ravenscourt-park-race-results/"/>
+        <updated>2025-06-10T22:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for joining us for the fourth race in the series. Results from the event: Results – SPORTident WinSplits Routegadget]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We are hiring!]]></title>
         <id>https://www.orienteering.ie/?p=21002</id>
@@ -998,16 +1008,6 @@ New Videos to Showcase Orienteering first appeared on Orienteering Australia.]]>
 MelBushO at Westerfolds, Sunday 22 June first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volunteer week 2-8 June 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55595</id>
-        <link href="https://www.scottish-orienteering.org/news/volunteer-week-2-8-june-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-2-8-june-2025"/>
-        <updated>2025-05-12T12:14:56.000Z</updated>
-        <summary type="html"><![CDATA[To celebrate national Volunteer Week we would like to once more invite you to let us know who your stalwarts […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
