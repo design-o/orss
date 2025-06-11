@@ -237,16 +237,6 @@
           "wordCount": 1068,
           "title": "Vic Series 3 at Spring Gully on 25 May",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14453",
-          "author": "Debbie Dodd",
-          "description": "Come along to Macedon next Sunday for the next MelbushO event of 2025\nMelBushO at Westerfolds, Sunday 22 June first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
-          "publishedOn": "2025-05-13T00:28:52.000Z",
-          "wordCount": 1030,
-          "title": "MelBushO at Westerfolds, Sunday 22 June",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -255,6 +245,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21014",
+          "author": "Deirdre",
+          "description": "The team has been announced for the World Orienteering Championships 2025 taking place in Kuopio, Finland 7 – 12 July 2025 Senior Squad Selection RACE WOMEN MEN Middle Distance Clodagh Moran (3ROC) Paul Pruzina (LVO) Aoife McCavana (GEN) Ruairi Short (CNOC) Rosalind Heron (3ROC) Colm Moran (3ROC) Long Distance Aoife McCavana (GEN) Ruairi Short (CNOC) […]",
+          "link": "https://www.orienteering.ie/team-announced-for-woc-2025/",
+          "publishedOn": "2025-06-11T15:11:45.000Z",
+          "wordCount": 789,
+          "title": "Team announced for WOC 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=21002",
           "author": "Deirdre",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T12:19:14.581Z</updated>
+    <updated>2025-06-11T18:14:06.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Team announced for WOC 2025]]></title>
+        <id>https://www.orienteering.ie/?p=21014</id>
+        <link href="https://www.orienteering.ie/team-announced-for-woc-2025/"/>
+        <updated>2025-06-11T15:11:45.000Z</updated>
+        <summary type="html"><![CDATA[The team has been announced for the World Orienteering Championships 2025 taking place in Kuopio, Finland 7 – 12 July 2025 Senior Squad Selection RACE WOMEN MEN Middle Distance Clodagh Moran (3ROC) Paul Pruzina (LVO) Aoife McCavana (GEN) Ruairi Short (CNOC) Rosalind Heron (3ROC) Colm Moran (3ROC) Long Distance Aoife McCavana (GEN) Ruairi Short (CNOC) […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup 3 | Selection Notice]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63609</id>
@@ -1018,17 +1028,6 @@ New Videos to Showcase Orienteering first appeared on Orienteering Australia.]]>
         <summary type="html"><![CDATA[The international MTBO season gets underway this week when the Apresport European MTBO Championships begin on Thursday in Lithuania. It also marks the start of the 2025 CX80 MTBO World Cup and includes the European Junior and Youth MTBO Championships. The first competition at the championships is a mass start, followed by middle, sprint and […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO at Westerfolds, Sunday 22 June]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14453</id>
-        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
-        <updated>2025-05-13T00:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Come along to Macedon next Sunday for the next MelbushO event of 2025
-MelBushO at Westerfolds, Sunday 22 June first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
