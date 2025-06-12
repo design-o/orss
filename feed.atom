@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T06:15:08.738Z</updated>
+    <updated>2025-06-12T12:18:41.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1008,17 +1008,6 @@ Vic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.]
 2025 NOL Awards first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Videos to Showcase Orienteering]]></title>
-        <id>https://orienteering.asn.au/?p=13939</id>
-        <link href="https://orienteering.asn.au/new-videos-to-showcase-orienteering/"/>
-        <updated>2025-05-13T22:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia (OA) is thrilled to announce the release of two brand-new videos celebrating the sport of orienteering. The videos have just been released on the OA YouTube channel.
-New Videos to Showcase Orienteering first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
