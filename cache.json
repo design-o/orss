@@ -124,26 +124,6 @@
           "wordCount": 1838,
           "title": "Aprésport European MTBO Championships: first golds to Denmark and Finland",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/emtboc-2025-mass-start-8706_donatas_lazauskas_1-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76389",
-          "author": "Erling Thisted",
-          "description": "Competitors who have a permanent disability that significantly reduces their ability to participate in orienteering events are eligible to be entered for the P class in Trail orienteering. Three impairment types will be considered: mobility (MI), cardiac/cardiopulmonary (CP), and neurological (NI). Starting in 2025, athletes who wish to gain or renew their classification status, should […]",
-          "link": "https://orienteering.sport/new-procedure-for-p-class-eligibility-in-trailo/",
-          "publishedOn": "2025-05-13T11:07:23.000Z",
-          "wordCount": 1625,
-          "title": "New procedure for P class eligibility in TrailO",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/symbol-trail-orienteering_wide.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76379",
-          "author": "Erling Thisted",
-          "description": "The international MTBO season gets underway this week when the Apresport European MTBO Championships begin on Thursday in Lithuania. It also marks the start of the 2025 CX80 MTBO World Cup and includes the European Junior and Youth MTBO Championships. The first competition at the championships is a mass start, followed by middle, sprint and […]",
-          "link": "https://orienteering.sport/european-mtbo-titles-on-the-line-in-lithuania-this-week/",
-          "publishedOn": "2025-05-13T09:51:00.000Z",
-          "wordCount": 1834,
-          "title": "European MTBO titles on the line in Lithuania this week",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/emtboc2025-logo.png"
         }
       ]
     },
@@ -158,6 +138,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14453",
+          "author": "Debbie Dodd",
+          "description": "Come along to Macedon next Sunday for the next MelbushO event of 2025\nMelBushO at Westerfolds, Sunday 22 June first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
+          "publishedOn": "2025-06-09T00:28:52.000Z",
+          "wordCount": 1094,
+          "title": "MelBushO at Westerfolds, Sunday 22 June",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14709",
           "author": "Debbie Dodd",
