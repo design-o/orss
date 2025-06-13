@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T12:18:41.505Z</updated>
+    <updated>2025-06-13T00:50:00.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -977,37 +977,6 @@ Vic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.]
         <summary type="html"><![CDATA[Back in October at the Junior Inter Area weekend, SOA asked for junior feedback. Since then we have been working […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethnal Green Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=23288</id>
-        <link href="https://slow.org.uk/streeto/bethnal-green-street-o-24-results/"/>
-        <updated>2025-05-14T12:17:26.000Z</updated>
-        <summary type="html"><![CDATA[It was another great turn out for our Street-O event, the last in the 2024-25 series. Thanks Iris and helpers for putting on the event. [...]]]></summary>
-        <author>
-            <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EYOC and JWOC Team Selection]]></title>
-        <id>https://www.orienteering.ie/?p=20904</id>
-        <link href="https://www.orienteering.ie/eyoc-and-jwoc-team-selection/"/>
-        <updated>2025-05-14T09:23:55.000Z</updated>
-        <summary type="html"><![CDATA[The selectors met last Friday night, and spent several days deliberating over the selections for this summer’s internationals. The following teams have been selected: European Youth Orienteering Championships – Team for 2025 W16Aoife MastersonDeirbhile HassettFionnula RoweNiamh Browne M16Eoin SimpsonFionn BuckleyJames EwartLiam O’Donnell W18Ellie SimpsonEve BuckleySadhbh Hassett M18Aidan McKennaEoin O’DonnellGerry BrowneLiam Casey Junior World Orienteering Championships […]]]></summary>
-        <author>
-            <name>Mark Stephens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 NOL Awards]]></title>
-        <id>https://orienteering.asn.au/?p=13968</id>
-        <link href="https://orienteering.asn.au/2025-nol-awards/"/>
-        <updated>2025-05-14T07:27:23.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 NOL Awards were presented at the NOL dinner on Saturday 10 May. Congratulations to the award recipients!
-2025 NOL Awards first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
