@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T00:50:00.293Z</updated>
+    <updated>2025-06-13T06:14:43.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -967,16 +967,6 @@ Australia Celebrates World Orienteering Week with Events Nationwide first appear
 Vic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Feedback]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55599</id>
-        <link href="https://www.scottish-orienteering.org/news/junior-feedback/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-feedback"/>
-        <updated>2025-05-14T14:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Back in October at the Junior Inter Area weekend, SOA asked for junior feedback. Since then we have been working […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
 </feed>
