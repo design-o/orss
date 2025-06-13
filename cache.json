@@ -227,16 +227,6 @@
           "wordCount": 1041,
           "title": "Orienteering Victoria AGM Friday 23rd May",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14631",
-          "author": "Margi Freemantle",
-          "description": "Did you get into the bush orienteering groove over the Easter carnival? It’s now time for more and to keep your skills honed. The VIC Series 3 event is on Sunday 25th May at Spring Gully. Don’t miss it.\nVic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vic-series-3-at-spring-gully-on-25-may/",
-          "publishedOn": "2025-05-15T01:40:18.000Z",
-          "wordCount": 1068,
-          "title": "Vic Series 3 at Spring Gully on 25 May",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -603,6 +593,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55855",
+          "author": "louise",
+          "description": "In recent years, orienteering clubs across Scotland have been exploring creative ways to raise awareness of the sport, attract new […]",
+          "link": "https://www.scottish-orienteering.org/news/orienteering-meets-parkrun-do-club-takeovers-boost-visibility-and-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-meets-parkrun-do-club-takeovers-boost-visibility-and-engagement",
+          "publishedOn": "2025-06-13T14:40:53.000Z",
+          "wordCount": 2514,
+          "title": "Orienteering meets Parkrun: Do Club Takeovers Boost Visibility and Engagement?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/IMG_1866-1-1-1-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55829",
           "author": "suzannerb",

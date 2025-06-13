@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T12:18:56.656Z</updated>
+    <updated>2025-06-13T18:13:31.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering meets Parkrun: Do Club Takeovers Boost Visibility and Engagement?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55855</id>
+        <link href="https://www.scottish-orienteering.org/news/orienteering-meets-parkrun-do-club-takeovers-boost-visibility-and-engagement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-meets-parkrun-do-club-takeovers-boost-visibility-and-engagement"/>
+        <updated>2025-06-13T14:40:53.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, orienteering clubs across Scotland have been exploring creative ways to raise awareness of the sport, attract new […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF TV commentators pick their favourites for Jukola]]></title>
         <id>https://orienteering.sport/?p=76685</id>
@@ -966,17 +976,6 @@ Australia Celebrates World Orienteering Week with Events Nationwide first appear
         <summary type="html"><![CDATA[The selection policies for World Cup, EOC & WOC are now live. Congratulations to Ciara Largey who has recently joined the selection panel as a selector. World Cup – https://www.orienteering.ie/wp-content/uploads/2025/05/World-Cup-2025-Selection-Policy.pdf EOC – https://www.orienteering.ie/wp-content/uploads/2025/05/EOC-2025-Selection-Policy.pdf WOC – https://www.orienteering.ie/wp-content/uploads/2025/05/WOC-2025-Selection-Policy.pdf]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 3 at Spring Gully on 25 May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14631</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-3-at-spring-gully-on-25-may/"/>
-        <updated>2025-05-15T01:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Did you get into the bush orienteering groove over the Easter carnival? It’s now time for more and to keep your skills honed. The VIC Series 3 event is on Sunday 25th May at Spring Gully. Don’t miss it.
-Vic Series 3 at Spring Gully on 25 May first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
