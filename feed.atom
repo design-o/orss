@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T00:47:06.447Z</updated>
+    <updated>2025-06-14T06:13:10.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -906,17 +906,6 @@ The post Take 5 Minutes Out of the Sun appeared first on NI Orienteering Associa
 The post NICS 3 appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia Celebrates World Orienteering Week with Events Nationwide]]></title>
-        <id>https://orienteering.asn.au/?p=13963</id>
-        <link href="https://orienteering.asn.au/australia-celebrates-world-orienteering-week-with-events-nationwide/"/>
-        <updated>2025-05-15T12:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Australia will join the global orienteering community in celebrating World Orienteering Week. Find a local event near you!
-Australia Celebrates World Orienteering Week with Events Nationwide first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
