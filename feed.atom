@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T18:12:10.933Z</updated>
+    <updated>2025-06-16T06:16:10.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Latvia to host EYOC in 2027]]></title>
+        <id>https://orienteering.sport/?p=76821</id>
+        <link href="https://orienteering.sport/latvia-to-host-eyoc-in-2027/"/>
+        <updated>2025-06-15T20:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Many of Europe’s most talented young orienteers will head to Latvia in 2027. The country will host the 2027 European Youth Orienteering Championships after Latvia was selected as host at the latest IOF Council meeting in May. The championships will be held in the coastal town of Liepaja in the southwest corner of the country […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries closing for Warrenpoint and Slievenagore]]></title>
         <id>https://www.niorienteering.org.uk/?p=6684</id>
@@ -856,16 +866,6 @@ Orienteering Victoria AGM Friday 23rd May first appeared on Orienteering Victori
 The post Take 5 Minutes Out of the Sun appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aprèsport European MTBO Championships: Third gold for Splittorff, Bettega won men’s title]]></title>
-        <id>https://orienteering.sport/?p=76451</id>
-        <link href="https://orienteering.sport/apresport-european-mtbo-championships-third-gold-for-splittorff-bettega-won-mens-title/"/>
-        <updated>2025-05-17T14:25:01.000Z</updated>
-        <summary type="html"><![CDATA[Nikoline Splittorff (DEN) took a crushing victory in today’s sprint, winning her third gold medal in three days at the European MTBO Championships and CX80 MTBO World Cup in Lithuania. In the men’s event, Italian Fabiano Bettega won his first gold medal at an international championship by a large margin. Splittorff was not the fastest […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
