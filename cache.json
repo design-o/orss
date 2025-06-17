@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=76842",
+          "author": "Erling Thisted",
+          "description": "It was raining on Idre Fjäll in Sweden on August 14, 2021, when 19-year-old Hanna Lundberg was the first to start in the middle distance race at the orienteering World Cup. And after a largely flawless race, she sat in the leader’s chair and waited. And waited and waited, because all the favorites lost time […]",
+          "link": "https://orienteering.sport/podcast-hanna-lundberg-and-the-shock-win-in-idre-in-2021/",
+          "publishedOn": "2025-06-16T22:30:38.000Z",
+          "wordCount": 1468,
+          "title": "Podcast: Hanna Lundberg and the shock win in Idre in 2021",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2021_owc_r2_hannalundberg_williamhollowell-1024x683.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=76832",
+          "author": "Erling Thisted",
+          "description": "The national kits have been gathering dust in drawers around the world for over 250 days since the World Cup final in Finland last September, but now it’s finally time to see them again. The 2025 Orienteering World Cup begins this week in Idre Fjäll, Sweden with three forest distances. After the qualification race on […]",
+          "link": "https://orienteering.sport/the-new-world-cup-season-kicks-off-in-sweden/",
+          "publishedOn": "2025-06-16T20:28:59.000Z",
+          "wordCount": 1733,
+          "title": "The new World Cup season kicks off in Sweden",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2024_owcf_relay_jonisolonen-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=76821",
           "author": "Erling Thisted",
           "description": "Many of Europe’s most talented young orienteers will head to Latvia in 2027. The country will host the 2027 European Youth Orienteering Championships after Latvia was selected as host at the latest IOF Council meeting in May. The championships will be held in the coastal town of Liepaja in the southwest corner of the country […]",
@@ -769,16 +789,6 @@
           "wordCount": 4291,
           "title": "Wet Wet Wet",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Gortalughany.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6597",
-          "author": "NIOA Secretary",
-          "description": "The sunny and hot weather may not last to next weekend, but the running conditions are set to be good for NI Colour Series 3 at Gortalughany, Co Fermanagh on Saturday 24 May! Gortalughany offers challenging open moorland navigation, a perfect challenge for this time...\nThe post Take 5 Minutes Out of the Sun appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/take-5-minutes-out-of-the-sun/",
-          "publishedOn": "2025-05-18T08:45:13.000Z",
-          "wordCount": 4333,
-          "title": "Take 5 Minutes Out of the Sun",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Sean-flyer.jpg"
         }
       ]
     },
