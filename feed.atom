@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T00:49:54.015Z</updated>
+    <updated>2025-06-17T06:15:04.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Provisional Southern Cross teams announced]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63617</id>
+        <link href="https://www.orienteering.org.nz/news/2025-provisional-southern-cross-teams-announced/"/>
+        <updated>2025-06-17T05:28:06.000Z</updated>
+        <summary type="html"><![CDATA[New Zealand Schools Selections 2025 The ONZ selection panel has named this year’s teams to contest the Southern Cross Trophy in Australia: Karahiwi Senior Boys: Oscar Burns, Arya Chebbi, Jake McLellan, Solomon Randerson, William Wood (subject to fitness) Senior Girls: Anna Batcheler, Ami McGowan, Morag McLellan, Amy Nicoll (subject to fitness), Greta Prince Junior Boys: […]
+2025 Provisional Southern Cross teams announced first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Hanna Lundberg and the shock win in Idre in 2021]]></title>
         <id>https://orienteering.sport/?p=76842</id>
@@ -865,16 +876,6 @@ World Orienteering Week finishing with a great weekend of orienteering first app
 Orienteering Victoria AGM Friday 23rd May first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aprèsport European MTBO Championships: Mixed Relay won by Czechia]]></title>
-        <id>https://orienteering.sport/?p=76464</id>
-        <link href="https://orienteering.sport/apresport-european-mtbo-championships-mixed-relay-won-by-czechia/"/>
-        <updated>2025-05-18T14:24:22.000Z</updated>
-        <summary type="html"><![CDATA[After a neck-and-neck race for much of the last leg, Czechia took gold ahead of home nation Lithuania, with Sweden overcoming an early mistake to take bronze. Krystof Bogar for Czechia and home rider Ignas Ambrazas were together for a large part of the final leg, and at the spectator passage there was no telling […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>

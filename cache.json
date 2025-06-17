@@ -124,16 +124,6 @@
           "wordCount": 1602,
           "title": "Splittorff and Maišelis lead in CX80 MTBO World Cup",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/emtboc-2025-middle-1853_donatas_lazauskas-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76464",
-          "author": "Clive",
-          "description": "After a neck-and-neck race for much of the last leg, Czechia took gold ahead of home nation Lithuania, with Sweden overcoming an early mistake to take bronze. Krystof Bogar for Czechia and home rider Ignas Ambrazas were together for a large part of the final leg, and at the spectator passage there was no telling […]",
-          "link": "https://orienteering.sport/apresport-european-mtbo-championships-mixed-relay-won-by-czechia/",
-          "publishedOn": "2025-05-18T14:24:22.000Z",
-          "wordCount": 1864,
-          "title": "Aprèsport European MTBO Championships: Mixed Relay won by Czechia",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/emtboc-2025-mixedrelay-6544_donatas_lazauskas-1024x682.jpg"
         }
       ]
     },
@@ -329,6 +319,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=63617",
+          "author": "Christo Peters",
+          "description": "New Zealand Schools Selections 2025 The ONZ selection panel has named this year’s teams to contest the Southern Cross Trophy in Australia: Karahiwi Senior Boys: Oscar Burns, Arya Chebbi, Jake McLellan, Solomon Randerson, William Wood (subject to fitness) Senior Girls: Anna Batcheler, Ami McGowan, Morag McLellan, Amy Nicoll (subject to fitness), Greta Prince Junior Boys: […]\n2025 Provisional Southern Cross teams announced first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2025-provisional-southern-cross-teams-announced/",
+          "publishedOn": "2025-06-17T05:28:06.000Z",
+          "wordCount": 2608,
+          "title": "2025 Provisional Southern Cross teams announced",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/Southern-X-Challenge.jpeg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=63609",
           "author": "Christo Peters",
