@@ -131,7 +131,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=20679",
+          "author": "Jan Kocbach",
+          "description": "The 2025 Orienteering World Cup season starts off in Swedish Idre Fjäll on Wednesday June 18th with a shortened long distance Qualification race. The action continues with three TV-broadcast forest races from Thursday to Sunday: Long Thursday, Middle Saturday and Relay Sunday. Idre Fjäll offered great races with tricky orienteering when the orienteering World Cup visited the ...",
+          "link": "https://news.worldofo.com/2025/06/18/world-cup-opening-2025-idre-all-you-need-to-know/",
+          "publishedOn": "2025-06-18T03:00:20.000Z",
+          "wordCount": 4468,
+          "title": "World Cup Opening 2025 Idre: All You Need To Know",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/06/idre-660x330.png"
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
@@ -196,6 +207,16 @@
           "publishedOn": "2025-05-24T05:09:04.000Z",
           "wordCount": 970,
           "title": "Victorians Selected to National Teams",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14642",
+          "author": "Margi Freemantle",
+          "description": "Find out who won Orienteering Victoria's awards for 2024, announced at the AGM, including Course Setter of the Year, and Club Volunteer Awards\nOrienteering Victoria Awards for 2024 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/orienteering-victoria-agm-friday-23rd-may/",
+          "publishedOn": "2025-05-23T06:43:56.000Z",
+          "wordCount": 1508,
+          "title": "Orienteering Victoria Awards for 2024",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {

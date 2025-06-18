@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T00:50:17.789Z</updated>
+    <updated>2025-06-18T06:14:56.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Opening 2025 Idre: All You Need To Know]]></title>
+        <id>http://news.worldofo.com/?p=20679</id>
+        <link href="https://news.worldofo.com/2025/06/18/world-cup-opening-2025-idre-all-you-need-to-know/"/>
+        <updated>2025-06-18T03:00:20.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Orienteering World Cup season starts off in Swedish Idre Fjäll on Wednesday June 18th with a shortened long distance Qualification race. The action continues with three TV-broadcast forest races from Thursday to Sunday: Long Thursday, Middle Saturday and Relay Sunday. Idre Fjäll offered great races with tricky orienteering when the orienteering World Cup visited the ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to follow the World Cup in Idre Fjäll, Sweden]]></title>
         <id>https://orienteering.sport/?p=76849</id>
@@ -753,6 +763,17 @@ The post Wet Wet Wet appeared first on NI Orienteering Association.]]></summary>
         <updated>2025-05-24T05:09:04.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Victoria Awards for 2024]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14642</id>
+        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-agm-friday-23rd-may/"/>
+        <updated>2025-05-23T06:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Find out who won Orienteering Victoria's awards for 2024, announced at the AGM, including Course Setter of the Year, and Club Volunteer Awards
+Orienteering Victoria Awards for 2024 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
