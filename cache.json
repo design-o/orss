@@ -114,16 +114,6 @@
           "wordCount": 1727,
           "title": "WOC reaches large TV audience this year",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/2024_wcf_relay_joni_solonen-233-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76487",
-          "author": "Erling Thisted",
-          "description": "The new PreO Sprint format is the equivalent of a “middle distance” orienteering event. PreO Sprint is a fast format with a focus on accurate decisions. Course length and decision times are much shorter than a classic PreO, but the number of correct decisions is still the primary classifier. Making fast decisions on whether a […]",
-          "link": "https://orienteering.sport/changes-to-world-ranking-in-trailo-with-new-preo-sprint-format/",
-          "publishedOn": "2025-05-19T19:55:38.000Z",
-          "wordCount": 1718,
-          "title": "Changes to World Ranking in TrailO with new PreO Sprint format",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/05/preosprint.png"
         }
       ]
     },
@@ -604,6 +594,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55852",
+          "author": "louise",
+          "description": "By Louise Adams – SOA Development Officer The 2025 Scottish Schools Orienteering Festival brought together over 350 pupils from across […]",
+          "link": "https://www.scottish-orienteering.org/news/schools-reflect-on-the-2025-scottish-schools-orienteering-festival/?utm_source=rss&utm_medium=rss&utm_campaign=schools-reflect-on-the-2025-scottish-schools-orienteering-festival",
+          "publishedOn": "2025-06-18T09:14:17.000Z",
+          "wordCount": 2338,
+          "title": "Schools Reflect on the 2025 Scottish Schools Orienteering Festival",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/1000011142-1-1024x635.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55855",
           "author": "louise",

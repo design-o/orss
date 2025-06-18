@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T06:14:56.534Z</updated>
+    <updated>2025-06-18T12:19:23.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Schools Reflect on the 2025 Scottish Schools Orienteering Festival]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55852</id>
+        <link href="https://www.scottish-orienteering.org/news/schools-reflect-on-the-2025-scottish-schools-orienteering-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=schools-reflect-on-the-2025-scottish-schools-orienteering-festival"/>
+        <updated>2025-06-18T09:14:17.000Z</updated>
+        <summary type="html"><![CDATA[By Louise Adams – SOA Development Officer The 2025 Scottish Schools Orienteering Festival brought together over 350 pupils from across […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Opening 2025 Idre: All You Need To Know]]></title>
         <id>http://news.worldofo.com/?p=20679</id>
@@ -855,16 +865,6 @@ World Orienteering Week finishing with a great weekend of orienteering first app
 2025 WORLD GAMES TEAM SELECTED first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>elizabethl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes to World Ranking in TrailO with new PreO Sprint format]]></title>
-        <id>https://orienteering.sport/?p=76487</id>
-        <link href="https://orienteering.sport/changes-to-world-ranking-in-trailo-with-new-preo-sprint-format/"/>
-        <updated>2025-05-19T19:55:38.000Z</updated>
-        <summary type="html"><![CDATA[The new PreO Sprint format is the equivalent of a “middle distance” orienteering event. PreO Sprint is a fast format with a focus on accurate decisions. Course length and decision times are much shorter than a classic PreO, but the number of correct decisions is still the primary classifier. Making fast decisions on whether a […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
