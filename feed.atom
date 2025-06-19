@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T06:15:12.057Z</updated>
+    <updated>2025-06-19T12:19:17.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Additional reserve | Provisional announcement]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63625</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-additional-reserve-provisional-announcement/"/>
+        <updated>2025-06-19T09:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Team selections are subject to the ONZ Appeals Policy Under this policy
+JWOC Additional reserve | Provisional announcement first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Orienteering World Cup Round 1 Information]]></title>
         <id>https://orienteering.asn.au/?p=14266</id>
