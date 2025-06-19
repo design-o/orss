@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T00:50:58.238Z</updated>
+    <updated>2025-06-19T06:15:12.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Orienteering World Cup Round 1 Information]]></title>
+        <id>https://orienteering.asn.au/?p=14266</id>
+        <link href="https://orienteering.asn.au/2025-orienteering-world-cup-round-1-information/"/>
+        <updated>2025-06-19T00:11:06.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Orienteering World Cup Round 1 in Idre Fjäll, Sweden is from 18-22 June.
+2025 Orienteering World Cup Round 1 Information first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 2025 World Cup off to a good start in Sweden]]></title>
         <id>https://orienteering.sport/?p=77597</id>
@@ -854,27 +865,6 @@ World Orienteering Week finishing with a great weekend of orienteering first app
         <summary type="html"><![CDATA[Applications are now open for the annual O-Ringen Academy, which takes place in Jönköping, Sweden in the end of July 2025 in conjunction with the world’s largest orienteering event O-Ringen. The academy is organised by the Park World Tour Organisation in cooperation with the International Orienteering Federation and O-Ringen, and it provides a unique opportunity […]]]></summary>
         <author>
             <name>Sondre Sande Gullord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC reaches large TV audience this year]]></title>
-        <id>https://orienteering.sport/?p=76492</id>
-        <link href="https://orienteering.sport/woc-reaches-large-tv-audience-this-year/"/>
-        <updated>2025-05-20T17:07:54.000Z</updated>
-        <summary type="html"><![CDATA[When the world’s best orienteers meet in Kuopio, Finland to compete at this year’s World Orienteering Championships, the three medal races will receive great attention. Seven national broadcasters have acquired the rights to show the prestigious races live when they take place from July 9-12, 2025. These are YLE (Finland), NRK (Norway), SVT (Sweden), SRG […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 WORLD GAMES TEAM SELECTED]]></title>
-        <id>https://orienteering.asn.au/?p=14016</id>
-        <link href="https://orienteering.asn.au/2025-world-games-team-selected/"/>
-        <updated>2025-05-20T11:21:10.000Z</updated>
-        <summary type="html"><![CDATA[The selection panel has met and decided on the World Games team to compete in The World Games held in Chengdu, China from 7-17 August.
-2025 WORLD GAMES TEAM SELECTED first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>elizabethl</name>
         </author>
     </entry>
 </feed>
