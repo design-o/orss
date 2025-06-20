@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=77622",
+          "author": "Erling Thisted",
+          "description": "Favourites Kasper Fosser (NOR) and Tove Alexandersson (SWE) secured clear victories as the 2025 Orienteering World Cup found its first winners in the long distance in Idre Fjäll, Sweden. In the women’s event, Alexandersson won by just over three minutes over last year’s overall World Cup winner, Simona Aebersold (SUI), while Andrine Benjaminsen (NOR) came […]",
+          "link": "https://orienteering.sport/world-cup-fosser-and-alexandersson-best-in-tough-long-distance/",
+          "publishedOn": "2025-06-19T19:36:07.000Z",
+          "wordCount": 1862,
+          "title": "World Cup: Fosser and Alexandersson best in tough long distance",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2025_owcr1long_kasperfosser_teromarjamaki-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=77597",
           "author": "Erling Thisted",
           "description": "The more than 300 participants in the first Orienteering World Cup round of the year tried their hand at Swedish mountain terrain when the qualification race took place on Wednesday afternoon in Idre Fjäll. Women and men were divided into three heats each and had to complete a shortened long distance of approximately 7.5 kilometers […]",
@@ -104,16 +114,6 @@
           "wordCount": 1423,
           "title": "Wild Cards for WTOC 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://orienteering.sport/?p=76503",
-          "author": "Sondre Sande Gullord",
-          "description": "Applications are now open for the annual O-Ringen Academy, which takes place in Jönköping, Sweden in the end of July 2025 in conjunction with the world’s largest orienteering event O-Ringen. The academy is organised by the Park World Tour Organisation in cooperation with the International Orienteering Federation and O-Ringen, and it provides a unique opportunity […]",
-          "link": "https://orienteering.sport/o-ringen-academy-2025-is-waiting-for-your-application/",
-          "publishedOn": "2025-05-21T12:36:26.000Z",
-          "wordCount": 1548,
-          "title": "O-Ringen Academy 2025 is waiting for your application",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/02/ora-1024x623.png"
         }
       ]
     },

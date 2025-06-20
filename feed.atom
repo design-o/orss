@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T18:13:33.304Z</updated>
+    <updated>2025-06-20T00:49:53.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Fosser and Alexandersson best in tough long distance]]></title>
+        <id>https://orienteering.sport/?p=77622</id>
+        <link href="https://orienteering.sport/world-cup-fosser-and-alexandersson-best-in-tough-long-distance/"/>
+        <updated>2025-06-19T19:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Favourites Kasper Fosser (NOR) and Tove Alexandersson (SWE) secured clear victories as the 2025 Orienteering World Cup found its first winners in the long distance in Idre Fjäll, Sweden. In the women’s event, Alexandersson won by just over three minutes over last year’s overall World Cup winner, Simona Aebersold (SUI), while Andrine Benjaminsen (NOR) came […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Juniors see Jamie Stevenson success at Hill of Alyth]]></title>
         <id>https://www.scottish-orienteering.org/?p=55898</id>
@@ -896,16 +906,6 @@ World Orienteering Week finishing with a great weekend of orienteering first app
         <updated>2025-05-22T01:12:00.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O-Ringen Academy 2025 is waiting for your application]]></title>
-        <id>https://orienteering.sport/?p=76503</id>
-        <link href="https://orienteering.sport/o-ringen-academy-2025-is-waiting-for-your-application/"/>
-        <updated>2025-05-21T12:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Applications are now open for the annual O-Ringen Academy, which takes place in Jönköping, Sweden in the end of July 2025 in conjunction with the world’s largest orienteering event O-Ringen. The academy is organised by the Park World Tour Organisation in cooperation with the International Orienteering Federation and O-Ringen, and it provides a unique opportunity […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
         </author>
     </entry>
 </feed>
