@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-20T12:18:46.891Z</updated>
+    <updated>2025-06-20T18:13:30.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -896,26 +896,6 @@ World Orienteering Week finishing with a great weekend of orienteering first app
         <summary type="html"><![CDATA[We are sorry to announce, that this event is POSTPONED to a later date… We will update our schedule and upcoming events pages when we know of further details…. Kent State Masters | Classic Orienteering at Kent State U | Sunday, June 8th]]></summary>
         <author>
             <name>Frederick Mailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Cheers for Orienteering Volunteers]]></title>
-        <id>https://orienteering.asn.au/?p=14023</id>
-        <link href="https://orienteering.asn.au/3-cheers-for-orienteering-volunteers/"/>
-        <updated>2025-05-22T05:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Volunteers keep our sport alive! Show your thanks by giving them 3 cheers and put them on the map this National Volunteer Week.
-3 Cheers for Orienteering Volunteers first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Orienteering Training Camp for 8-18 Year Olds, June Long Weekend, Daylesford]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14684</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-orienteering-training-camp-for-8-18-year-olds-june-long-weekend-daylesford/"/>
-        <updated>2025-05-22T01:12:00.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
