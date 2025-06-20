@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-20T00:49:53.646Z</updated>
+    <updated>2025-06-20T06:15:07.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Idre 2025 Long: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=20695</id>
+        <link href="https://news.worldofo.com/2025/06/20/world-cup-idre-2025-long-maps-and-results/"/>
+        <updated>2025-06-20T03:00:49.000Z</updated>
+        <summary type="html"><![CDATA[The two big favourites – Kasper Harlem Fosser (NOR) and Tove Alexandersson (SWE) – won the World Cup Long distance race in Idre Fjäll, Sweden. Both won with a big margin – Fosser by 4:04 ahead of Matthias Kyburz (SUI), while Alexandersson took the women’s race with a 3:12 margin over Simona Aebersold (SUI). The ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup: Fosser and Alexandersson best in tough long distance]]></title>
         <id>https://orienteering.sport/?p=77622</id>
