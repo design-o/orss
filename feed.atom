@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T06:13:10.392Z</updated>
+    <updated>2025-06-21T12:16:18.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -886,27 +886,6 @@ Orienteering Victoria Awards for 2024 first appeared on Orienteering Victoria.]]
         <updated>2025-05-23T01:05:24.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Orienteering Week finishing with a great weekend of orienteering]]></title>
-        <id>https://orienteering.asn.au/?p=14030</id>
-        <link href="https://orienteering.asn.au/world-orienteering-week-finishing-with-a-great-weekend-of-orienteering/"/>
-        <updated>2025-05-22T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Parks, schools, forests and beaches have already hosted over 1500 orienteers during World Orienteering Week. It concludes with a weekend full of great events.
-World Orienteering Week finishing with a great weekend of orienteering first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postponed | Kent State Masters | Classic Orienteering at Kent State U | Sunday, June 8th]]></title>
-        <id>https://neooc.com/?p=48722</id>
-        <link href="https://neooc.com/postponed-kent-state-masters-classic-orienteering-at-kent-state-u-sunday-june-8th/"/>
-        <updated>2025-05-22T19:43:58.000Z</updated>
-        <summary type="html"><![CDATA[We are sorry to announce, that this event is POSTPONED to a later date… We will update our schedule and upcoming events pages when we know of further details…. Kent State Masters | Classic Orienteering at Kent State U | Sunday, June 8th]]></summary>
-        <author>
-            <name>Frederick Mailey</name>
         </author>
     </entry>
 </feed>
