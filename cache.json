@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78256",
+          "author": "Erling Thisted",
+          "description": "People will be talking about control 8 for a long time. On both the men’s and women’s courses at Saturday’s Orienteering World Cup Middle distance race in Idre Fjäll, Sweden, that control point proved very decisive. Placed on a slope after a relatively long leg, the control cost so much time that many positions were […]",
+          "link": "https://orienteering.sport/world-cup-first-win-for-bejmer-alexandersson-takes-another/",
+          "publishedOn": "2025-06-21T19:54:56.000Z",
+          "wordCount": 1930,
+          "title": "World Cup: First victory for Bejmer, Alexandersson takes another win",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2025_owcr1_middle_maxpeterbejmer_teromarjamaki-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=77622",
           "author": "Erling Thisted",
           "description": "Favourites Kasper Fosser (NOR) and Tove Alexandersson (SWE) secured clear victories as the 2025 Orienteering World Cup found its first winners in the long distance in Idre Fjäll, Sweden. In the women’s event, Alexandersson won by just over three minutes over last year’s overall World Cup winner, Simona Aebersold (SUI), while Andrine Benjaminsen (NOR) came […]",
@@ -218,16 +228,6 @@
           "wordCount": 970,
           "title": "Victorians Selected to National Teams",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14642",
-          "author": "Margi Freemantle",
-          "description": "Find out who won Orienteering Victoria's awards for 2024, announced at the AGM, including Course Setter of the Year, and Club Volunteer Awards\nOrienteering Victoria Awards for 2024 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/orienteering-victoria-agm-friday-23rd-may/",
-          "publishedOn": "2025-05-23T06:43:56.000Z",
-          "wordCount": 1508,
-          "title": "Orienteering Victoria Awards for 2024",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -310,6 +310,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=63640",
+          "author": "Christo Peters",
+          "description": "To encourage people who were close to Southern Cross selection to go under the Development Team banner, parent Jenni Adams is looking to put together a squad to go to Australia. Please note that while Orienteering New Zealand supports providing opportunities for students to gain international experience, this is not an official national team or […]\nNZ Schools Development Squad to Australia first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nz-schools-development-squad-to-australia/",
+          "publishedOn": "2025-06-21T23:32:30.000Z",
+          "wordCount": 2481,
+          "title": "NZ Schools Development Squad to Australia",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/NZ-Schools-Development-Squad-to-Australia-1.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=63625",
           "author": "Christo Peters",
@@ -577,6 +587,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=48788",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20",
+          "link": "https://neooc.com/new-event-2025-paddle-o-deer-creek-reservoir-stark-parks-sunday-july-20/",
+          "publishedOn": "2025-06-21T20:06:56.000Z",
+          "wordCount": 1647,
+          "title": "New Event | 2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2018/07/CanoeO2018_19_TheRaceIsOn05.jpg"
+        },
         {
           "id": "https://neooc.com/?p=48725",
           "author": "Northeast Ohio Orienteering Club",
