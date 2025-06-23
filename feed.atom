@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T06:16:18.782Z</updated>
+    <updated>2025-06-23T12:19:54.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -927,17 +927,6 @@ Mountain Bike Orienteering at Woodlands, Sunday 1 June first appeared on Oriente
         <summary type="html"><![CDATA[Scottish Orienteering Association is committed to clean sport and supported UK Anti-Doping’s (UKAD’s) Clean Sport Week campaign from 19 – […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wet Wet Wet]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6614</id>
-        <link href="https://www.niorienteering.org.uk/wet-wet-wet/"/>
-        <updated>2025-05-24T19:22:52.000Z</updated>
-        <summary type="html"><![CDATA[After a long dry spell, the FermO team had organised strange wet stuff to fall from the sky to make the ground nice and soft for the competitors at NI Colour Series 3 at Gortalughany on Saturday 24 May. Thanks to Planner Robbie Bryson, Controller Raymond Finlay...
-The post Wet Wet Wet appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
