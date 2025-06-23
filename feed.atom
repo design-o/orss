@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T18:12:25.643Z</updated>
+    <updated>2025-06-23T00:53:50.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GLOSS Results – Northala Fields]]></title>
+        <id>https://slow.org.uk/?p=23470</id>
+        <link href="https://slow.org.uk/racereports/gloss-results-2025/"/>
+        <updated>2025-06-22T19:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Planner’s Comments It’s been 8 years since we last held an orienteering race [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup: Swiss women and Swedish men claimed the relay wins on Sunday]]></title>
         <id>https://orienteering.sport/?p=78292</id>
