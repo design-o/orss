@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20756",
+          "author": "Jan Kocbach",
+          "description": "Sweden (Men) and Switzerland (Women) won the relay events as the first World Cup round of 2025 concluded in Idre Fjäll, Sweden – the last test ahead of the World Orienteering Championships in Finland in a few weeks’ time. Switzerland (Paula Gross, Natalia Gemperle, Simona Aebersold) won ahead of Norway and Finland in the women’s ...",
+          "link": "https://news.worldofo.com/2025/06/23/world-cup-idre-2025-relay-maps-results-analysis/",
+          "publishedOn": "2025-06-23T03:00:16.000Z",
+          "wordCount": 3718,
+          "title": "World Cup Idre 2025 Relay: Maps, Results & Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/06/map-men-relay-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20719",
           "author": "Jan Kocbach",
           "description": "Swedish success in tricky World Cup Midde distance in Idre Fjäll: Max Peter Bejmer and Tove Alexandersson won the World Cup  Middle distance on home ground in the Swedish mountains in a race where we saw a lot of big mistakes by top runners. Bejmer won ahead of three (!) other Swedish runners – Anton Johansson, Gustav Bergman and ...",
@@ -607,6 +617,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=48790",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "There were 21 participants who ran in either the Introductory course or the 3-hour Score course.  Three of the 3-hour runners choose to exchange their maps the the finish and continue on to the Introductory course, thus combining both courses. Sojourner (MVOC) won the event by a wide margin, getting all but 2 controls (70 […]",
+          "link": "https://neooc.com/results-2025-tuscazoar-score-3-hour-score-saturday-june-21/",
+          "publishedOn": "2025-06-23T02:15:50.000Z",
+          "wordCount": 1756,
+          "title": "Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2021/04/CT_Stockade.jpg"
+        },
         {
           "id": "https://neooc.com/?p=48788",
           "author": "Northeast Ohio Orienteering Club",
