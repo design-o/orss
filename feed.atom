@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T06:15:48.140Z</updated>
+    <updated>2025-06-24T12:19:29.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bejmer and Alexandersson lead World Cup after Idre Fjäll]]></title>
+        <id>https://orienteering.sport/?p=78387</id>
+        <link href="https://orienteering.sport/bejmer-and-alexandersson-lead-world-cup-after-idre-fjall/"/>
+        <updated>2025-06-24T08:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Swedish dominance at the top of the 2025 Orienteering World Cup after the first round, which was held in Idre Fjäll, Sweden last week. In the men’s category, it is Saturday’s winner of the middle distance, Max Peter Bejmer, who has taken the lead at the top of the standings, which are dominated by Swedish […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Busy June]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6713</id>
+        <link href="https://www.niorienteering.org.uk/a-busy-june/"/>
+        <updated>2025-06-24T08:27:20.000Z</updated>
+        <summary type="html"><![CDATA[It’s been an active June with no less than 5 Northern Ireland events on 3 successive weekends. The Fixtures & Results>2024 Results page has been updated with all the links including the updated NI Colour Series League standings and NI Urban League standings, calculated by...
+The post A Busy June appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Southern Cross Teams | Only Junior Boys and Junior Girls categories finalised to date]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63656</id>
+        <link href="https://www.orienteering.org.nz/news/2025-southern-cross-teams-only-junior-boys-and-junior-girls-categories-finalised-to-date/"/>
+        <updated>2025-06-24T08:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering New Zealand can confirm that the Junior Boys and Junior Girls categories for the Southern Cross Challenge have been finalised. The Senior Boys and Senior Girls teams are currently being appealed and cannot be finalised until this process has been completed. The ONZ Board has been informed of the appeals and will now convene […]
+2025 Southern Cross Teams | Only Junior Boys and Junior Girls categories finalised to date first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Idre 2025 Relay: Maps, Results & Analysis]]></title>
         <id>http://news.worldofo.com/?p=20756</id>
@@ -249,6 +281,15 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <summary type="html"><![CDATA[Many of Europe’s most talented young orienteers will head to Latvia in 2027. The country will host the 2027 European Youth Orienteering Championships after Latvia was selected as host at the latest IOF Council meeting in May. The championships will be held in the coastal town of Liepaja in the southwest corner of the country […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Our Juniors at JWOC, June 28 to July 3]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14616</id>
+        <link href="https://www.vicorienteering.asn.au/milla-and-henri-off-to-jwoc/"/>
+        <updated>2025-06-15T05:09:04.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
