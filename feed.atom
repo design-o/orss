@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T12:19:28.991Z</updated>
+    <updated>2025-06-25T18:14:15.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Updated Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21]]></title>
+        <id>https://neooc.com/?p=48800</id>
+        <link href="https://neooc.com/updated-results-2025-tuscazoar-score-3-hour-score-saturday-june-21/"/>
+        <updated>2025-06-25T16:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannizaro Park Race – Results]]></title>
         <id>https://slow.org.uk/?p=23495</id>
@@ -947,17 +957,6 @@ Orienteering Australia Embraces National Reconciliation Week by Sharing Draft Re
 King’s Birthday Weekend start lists first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mountain Bike Orienteering at Woodlands, Sunday 1 June]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14676</id>
-        <link href="https://www.vicorienteering.asn.au/mountain-bike-orienteering-at-woodlands-sunday-1-june/"/>
-        <updated>2025-05-27T01:04:11.000Z</updated>
-        <summary type="html"><![CDATA[A mountain bike event ideal for those new to MTBO.  Why not give it a try and/or bring your friends?
-Mountain Bike Orienteering at Woodlands, Sunday 1 June first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

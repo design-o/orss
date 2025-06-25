@@ -258,16 +258,6 @@
           "wordCount": 1092,
           "title": "Park Street Update, June 3-9",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14676",
-          "author": "Debbie Dodd",
-          "description": "A mountain bike event ideal for those new to MTBO.  Why not give it a try and/or bring your friends?\nMountain Bike Orienteering at Woodlands, Sunday 1 June first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/mountain-bike-orienteering-at-woodlands-sunday-1-june/",
-          "publishedOn": "2025-05-27T01:04:11.000Z",
-          "wordCount": 1176,
-          "title": "Mountain Bike Orienteering at Woodlands, Sunday 1 June",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -657,6 +647,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=48800",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21",
+          "link": "https://neooc.com/updated-results-2025-tuscazoar-score-3-hour-score-saturday-june-21/",
+          "publishedOn": "2025-06-25T16:29:34.000Z",
+          "wordCount": 1624,
+          "title": "Updated Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
         {
           "id": "https://neooc.com/?p=48790",
           "author": "Northeast Ohio Orienteering Club",
