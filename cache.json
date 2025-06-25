@@ -304,6 +304,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23495",
+          "author": "James Gjertsen",
+          "description": "Thanks for joining us for the sixth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadget Series results after [...]",
+          "link": "https://slow.org.uk/racereports/cannizaro-park-race-results/",
+          "publishedOn": "2025-06-24T22:10:32.000Z",
+          "wordCount": 2225,
+          "title": "Cannizaro Park Race – Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/cannizaro-park-race-results/files/IMG_6659-2.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23470",
           "author": "Steve Clelland",
           "description": "Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Planner’s Comments It’s been 8 years since we last held an orienteering race [...]",
@@ -813,16 +823,6 @@
           "wordCount": 1547,
           "title": "June Community Conversation: Supporting Inclusion and Welfare",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/Communications-and-Marketing-4-1024x1024.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55688",
-          "author": "nikkihoward",
-          "description": "Scottish Orienteering Association is committed to clean sport and supported UK Anti-Doping’s (UKAD’s) Clean Sport Week campaign from 19 – […]",
-          "link": "https://www.scottish-orienteering.org/news/the-next-generation-protecting-and-supporting-young-athletes-during-clean-sport-week-19-23-may/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-generation-protecting-and-supporting-young-athletes-during-clean-sport-week-19-23-may",
-          "publishedOn": "2025-05-26T09:12:02.000Z",
-          "wordCount": 1759,
-          "title": "The Next Generation: Protecting and supporting young athletes during Clean Sport Week, 19 – 23 May.",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/05/Untitled-design-1-1019x1024.png"
         }
       ]
     },

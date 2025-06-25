@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T18:14:08.643Z</updated>
+    <updated>2025-06-25T00:51:20.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannizaro Park Race – Results]]></title>
+        <id>https://slow.org.uk/?p=23495</id>
+        <link href="https://slow.org.uk/racereports/cannizaro-park-race-results/"/>
+        <updated>2025-06-24T22:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for joining us for the sixth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadget Series results after [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bejmer and Alexandersson lead World Cup after Idre Fjäll]]></title>
         <id>https://orienteering.sport/?p=78387</id>
@@ -958,16 +968,6 @@ Mountain Bike Orienteering at Woodlands, Sunday 1 June first appeared on Oriente
         <summary type="html"><![CDATA[A total of 46 explored the streets of Cuyahoga Falls on a cool, partly cloudy Sunday.  There were 7 starts for solo or team bike and 20 starts for solo or team hike/run/foot. After a mass start from the Pavilion Plaza at 11 am, the runners and bikers had 4 or 3 hours respectively to […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Generation: Protecting and supporting young athletes during Clean Sport Week, 19 – 23 May.]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55688</id>
-        <link href="https://www.scottish-orienteering.org/news/the-next-generation-protecting-and-supporting-young-athletes-during-clean-sport-week-19-23-may/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-next-generation-protecting-and-supporting-young-athletes-during-clean-sport-week-19-23-may"/>
-        <updated>2025-05-26T09:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Scottish Orienteering Association is committed to clean sport and supported UK Anti-Doping’s (UKAD’s) Clean Sport Week campaign from 19 – […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
