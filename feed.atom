@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T18:14:15.369Z</updated>
+    <updated>2025-06-26T00:50:28.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow the JWOC 2025 on IOF TV from Saturday]]></title>
+        <id>https://orienteering.sport/?p=78457</id>
+        <link href="https://orienteering.sport/follow-the-jwoc-2025-on-iof-tv-from-saturday/"/>
+        <updated>2025-06-25T21:20:10.000Z</updated>
+        <summary type="html"><![CDATA[More than 350 of the world’s best junior orienteers are gathered in Trentino in northern Italy for this year’s Junior World Orienteering Championships next week. Five distances await here – first the fast disciplines Sprint Relay and Sprint on Saturday and Sunday before the competitions move into the forest from Monday, where the hilly long […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Dulwich Park]]></title>
+        <id>https://slow.org.uk/?p=23509</id>
+        <link href="https://slow.org.uk/events/park-race-dulwich-park/"/>
+        <updated>2025-06-25T19:05:49.000Z</updated>
+        <summary type="html"><![CDATA[The eighth race in the 2025 Park Race series will be at Dulwich Park, south London, for the first time in several years. Join us on [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updated Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21]]></title>
         <id>https://neooc.com/?p=48800</id>
@@ -946,17 +966,6 @@ Orienteering Australia Embraces National Reconciliation Week by Sharing Draft Re
         <summary type="html"><![CDATA[Inclusivity is a fundamental principle of Sportscotland strategy and one which as a sport we are in terms of our […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King’s Birthday Weekend start lists]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63435</id>
-        <link href="https://www.orienteering.org.nz/news/kings-birthday-weekend-start-lists/"/>
-        <updated>2025-05-27T09:51:59.000Z</updated>
-        <summary type="html"><![CDATA[The start lists and updated event bulletin are now available for a long weekend of King’s Birthday events! Head over to oevents.nz/kb25 to check your start times, check out your competition, and make sure you have all the event details. Hawke’s Bay Orienteering Club is excited to welcome you for a fantastic weekend of competition […]
-King’s Birthday Weekend start lists first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
