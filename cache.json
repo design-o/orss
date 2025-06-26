@@ -362,16 +362,6 @@
           "wordCount": 2365,
           "title": "GLOSS – Northala Fields, Sunday 22 June",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/gloss-northala-fields-22nd-june/files/Northala2_L.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=23322",
-          "author": "James Gjertsen",
-          "description": "Results – SPORTident WinSplits",
-          "link": "https://slow.org.uk/racereports/roehampton-university-park-race-results/",
-          "publishedOn": "2025-05-27T21:02:38.000Z",
-          "wordCount": 1977,
-          "title": "Roehampton University Park Race – Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/roehampton-park-race-2022-results/files/Roehampton2022_3.jpg"
         }
       ]
     },
@@ -694,6 +684,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55923",
+          "author": "heidi",
+          "description": "Yearly, at the Interareas weekend SOA gets the opportunity to ask most of the juniors in Scotland for feedback on […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-feedback-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=junior-feedback-june-2025",
+          "publishedOn": "2025-06-26T08:06:32.000Z",
+          "wordCount": 1731,
+          "title": "Junior Feedback June 2025",
+          "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGI6zAP8m51VtZaR5AxO0QiYe19aFFM3ul0WfdAqS1LW3z8krrdsT31vrC3L2x0jxNg9lIGwmFu9CjzHCNrBNar6QtAW_DOvVXHwhMuilDGZCcyqwvhMppyEknVZr4BhHpqZH9bg?key=N9PWJn7-xdQBWWxPDGCSeA"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55898",
           "author": "nikkihoward",
