@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T18:14:04.565Z</updated>
+    <updated>2025-06-27T00:51:06.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -468,6 +468,17 @@ Orienteering Australia Elite Rankings – June 2025 first appeared on Orienteeri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Park Street Update, June 23-30]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2025-06-10T00:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
+Park Street Update, June 23-30 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MelBushO at Westerfolds, Sunday 22 June]]></title>
         <id>https://www.vicorienteering.asn.au/?p=14453</id>
         <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
@@ -925,28 +936,6 @@ The post The League Standings are Calculated appeared first on NI Orienteering A
 Embargo |  Tūāraki North Regional Orienteering Championships 2025 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries open for NI Sprint and Middle Distance Champs]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6634</id>
-        <link href="https://www.niorienteering.org.uk/entries-open-for-ni-sprint-and-middle-distance-champs/"/>
-        <updated>2025-05-28T12:01:51.000Z</updated>
-        <summary type="html"><![CDATA[The NI Sprint Champs are to be held in Enniskillen Town on Sunday 8 June with the NI Middle Distance to follow at Crosmurrin. All the details are on the Fermanagh Orienteers Website. Entries are at SI Entries, with entries closing on Wednesday 4 June.
-The post Entries open for NI Sprint and Middle Distance Champs appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia Embraces National Reconciliation Week by Sharing Draft Reconciliation Action Plan]]></title>
-        <id>https://orienteering.asn.au/?p=14101</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-embraces-national-reconciliation-week-by-sharing-draft-reconciliation-action-plan/"/>
-        <updated>2025-05-28T07:02:31.000Z</updated>
-        <summary type="html"><![CDATA[National Reconciliation Week is here and this years theme is 'Bridging Now to Next'. Orienteering Australia is sharing the draft Reconciliation Action Plan to take the next toward reconciliation.
-Orienteering Australia Embraces National Reconciliation Week by Sharing Draft Reconciliation Action Plan first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>danielstott</name>
         </author>
     </entry>
 </feed>
