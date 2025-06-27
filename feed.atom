@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T06:15:27.817Z</updated>
+    <updated>2025-06-27T12:18:44.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -331,6 +331,15 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <summary type="html"><![CDATA[Many of Europe’s most talented young orienteers will head to Latvia in 2027. The country will host the 2027 European Youth Orienteering Championships after Latvia was selected as host at the latest IOF Council meeting in May. The championships will be held in the coastal town of Liepaja in the southwest corner of the country […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rob and Aislinn Top National League Participation: Milla Tops Junior Women Rankings]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14781</id>
+        <link href="https://www.vicorienteering.asn.au/rob-and-aislinn-top-national-league-participation-milla-tops-junior-women-rankings/"/>
+        <updated>2025-06-15T08:06:47.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
