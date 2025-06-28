@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-28T12:16:44.470Z</updated>
+    <updated>2025-06-28T18:12:25.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Czechia won JWOC Sprint Relay]]></title>
+        <id>https://orienteering.sport/?p=78478</id>
+        <link href="https://orienteering.sport/czechia-won-jwoc-sprint-relay/"/>
+        <updated>2025-06-28T16:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Czechia took the first set of gold medals at the Junior World Orienteering Championships Saturday afternoon in Trentino, Italy. The team, consisting of Hana Vitkova, Daniel Bolehovsky, Tomas Urbanek and Lucie Dittrichova was among the leading teams all through the relay and on the final leg, Dittrichova was sent out with a small lead. After […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Feedback June 2025]]></title>
         <id>https://www.scottish-orienteering.org/?p=55923</id>
