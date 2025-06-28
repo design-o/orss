@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T18:13:39.619Z</updated>
+    <updated>2025-06-28T00:48:22.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -913,27 +913,6 @@ Kings Birthday Weekend Wrap first appeared on Orienteering Victoria.]]></summary
         <summary type="html"><![CDATA[According to the rules, please se rule §6.6 for full details, the following persons has qualified for a personal Wild Card to participate in addition to a country’s normal quota. PreO O-class and TempO: Name Country Krystian Petersburski Poland Laura Eliza Lapina Latvia Anders Höije Sweden Pinja Mäkinen Finland Antti Rusanen Finland Marcello Lambertini Italy […]]]></summary>
         <author>
             <name>Martin Fredholm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Orienteering Week]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55717</id>
-        <link href="https://www.scottish-orienteering.org/news/world-orienteering-week-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-orienteering-week-2"/>
-        <updated>2025-05-29T12:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Last week was World Orienteering which aims to increase the visibility and accessibility of orienteering to young people. We are […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The League Standings are Calculated]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6648</id>
-        <link href="https://www.niorienteering.org.uk/the-league-standings-are-calculated/"/>
-        <updated>2025-05-29T08:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Following the third NI Colour Series event at Gortalughany, the League standings are now published,thanks to Alan. With three events over, only one competitor has scored the optimal 100 points and as Moire O’Sullivan is assistant planner for the upcoming forth event at Slievenagore on...
-The post The League Standings are Calculated appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
