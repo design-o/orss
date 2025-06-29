@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78487",
+          "author": "Erling Thisted",
+          "description": "The athletes competing at the Junior World Orienteering Championships in Northern Italy had another warm race day on Sunday morning’s individual Sprint. Today’s race took place in the small picturesque Dolomite town of Cembra and featured a course that constantly offered route choice-challenges in the asymmetrical streets between the stone houses. Jonas Fenne Ingierd (NOR) […]",
+          "link": "https://orienteering.sport/jwoc-sprint-golds-for-sannwald-sui-and-ingierd-nor/",
+          "publishedOn": "2025-06-29T14:19:25.000Z",
+          "wordCount": 1542,
+          "title": "JWOC Sprint: Golds for Sannwald (SUI) and Ingierd (NOR)",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/jwoc_2025_news-1024x548.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78478",
           "author": "Erling Thisted",
           "description": "Czechia took the first set of gold medals at the Junior World Orienteering Championships Saturday afternoon in Trentino, Italy. The team, consisting of Hana Vitkova, Daniel Bolehovsky, Tomas Urbanek and Lucie Dittrichova was among the leading teams all through the relay and on the final leg, Dittrichova was sent out with a small lead. After […]",
@@ -267,16 +277,6 @@
           "publishedOn": "2025-06-08T02:24:03.000Z",
           "wordCount": 1019,
           "title": "Victorian Schools Orienteering Sprint, Monash Clayton, Monday 30 June – Entries Close June 16",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14631",
-          "author": "Margi Freemantle",
-          "description": "Find out how to enter on the day for the three Kings Birthday events, June 7-9, in Daylesford and Creswick - the heart of Victoria\nKings Birthday Weekend Wrap first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vic-series-3-at-spring-gully-on-25-may/",
-          "publishedOn": "2025-05-31T01:40:18.000Z",
-          "wordCount": 1265,
-          "title": "Kings Birthday Weekend Wrap",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]

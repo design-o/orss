@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T12:17:02.818Z</updated>
+    <updated>2025-06-29T18:12:37.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Sprint: Golds for Sannwald (SUI) and Ingierd (NOR)]]></title>
+        <id>https://orienteering.sport/?p=78487</id>
+        <link href="https://orienteering.sport/jwoc-sprint-golds-for-sannwald-sui-and-ingierd-nor/"/>
+        <updated>2025-06-29T14:19:25.000Z</updated>
+        <summary type="html"><![CDATA[The athletes competing at the Junior World Orienteering Championships in Northern Italy had another warm race day on Sunday morning’s individual Sprint. Today’s race took place in the small picturesque Dolomite town of Cembra and featured a course that constantly offered route choice-challenges in the asymmetrical streets between the stone houses. Jonas Fenne Ingierd (NOR) […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Czechia won JWOC Sprint Relay]]></title>
         <id>https://orienteering.sport/?p=78478</id>
@@ -902,17 +912,6 @@ Special General Meeting  |  Update of ONZ constitution  first appeared on 
 How to choose the right course  |  ONZ website resources  first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kings Birthday Weekend Wrap]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14631</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-3-at-spring-gully-on-25-may/"/>
-        <updated>2025-05-31T01:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Find out how to enter on the day for the three Kings Birthday events, June 7-9, in Daylesford and Creswick - the heart of Victoria
-Kings Birthday Weekend Wrap first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
