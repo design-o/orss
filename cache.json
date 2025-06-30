@@ -709,6 +709,26 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=14305",
+          "author": "Elizabeth L",
+          "description": "In Day 2 of JWOC 2025, our 12 junior athletes once again showed the rest of the world that we are aiming for podium positions.\nJWOC 2025 INDIVIDUAL SPRINT first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/jwoc-2025-individual-sprint/",
+          "publishedOn": "2025-06-30T10:00:00.000Z",
+          "wordCount": 2663,
+          "title": "JWOC 2025 INDIVIDUAL SPRINT",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
+          "id": "https://orienteering.asn.au/?p=14298",
+          "author": "Elizabeth L",
+          "description": "JWOC 2025 in Trentino, Italy got off to a fantastic start for the Australian junior team. Our first team finished in 6th place.\nJWOC 2025 SPRINT RELAY first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/jwoc-2025-sprint-relay/",
+          "publishedOn": "2025-06-30T06:50:27.000Z",
+          "wordCount": 2670,
+          "title": "JWOC 2025 SPRINT RELAY",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=14266",
           "author": "Elizabeth L",
           "description": "The 2025 Orienteering World Cup Round 1 in Idre Fjäll, Sweden is from 18-22 June.\n2025 Orienteering World Cup Round 1 Information first appeared on Orienteering Australia.",

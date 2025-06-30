@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T06:15:57.539Z</updated>
+    <updated>2025-06-30T12:19:06.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2025 INDIVIDUAL SPRINT]]></title>
+        <id>https://orienteering.asn.au/?p=14305</id>
+        <link href="https://orienteering.asn.au/jwoc-2025-individual-sprint/"/>
+        <updated>2025-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Day 2 of JWOC 2025, our 12 junior athletes once again showed the rest of the world that we are aiming for podium positions.
+JWOC 2025 INDIVIDUAL SPRINT first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2025 SPRINT RELAY]]></title>
+        <id>https://orienteering.asn.au/?p=14298</id>
+        <link href="https://orienteering.asn.au/jwoc-2025-sprint-relay/"/>
+        <updated>2025-06-30T06:50:27.000Z</updated>
+        <summary type="html"><![CDATA[JWOC 2025 in Trentino, Italy got off to a fantastic start for the Australian junior team. Our first team finished in 6th place.
+JWOC 2025 SPRINT RELAY first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preregistration Open | 2025 Python Adventure Race | Saturday September 20]]></title>
         <id>https://neooc.com/?p=48822</id>
