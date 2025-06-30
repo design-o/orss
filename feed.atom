@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T00:54:08.715Z</updated>
+    <updated>2025-06-30T06:15:57.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -725,16 +725,6 @@ The post Are You Making the Most of Membership appeared first on NI Orienteering
 2025 World Cup Round 1 Team Selected first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLOSS – Northala Fields, Sunday 22 June]]></title>
-        <id>https://slow.org.uk/?p=23351</id>
-        <link href="https://slow.org.uk/events/gloss-2025-northala-fields/"/>
-        <updated>2025-05-31T17:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Part of the Greater London Orienteering Summer Series (GLOSS), a series of races run by the clubs in and around London. The GLOSS events are perfect [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
