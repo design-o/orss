@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T18:13:56.421Z</updated>
+    <updated>2025-07-01T00:57:10.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Long: Golds for Hjerne (SWE) and Bolehovsky (CZE)]]></title>
+        <id>https://orienteering.sport/?p=78495</id>
+        <link href="https://orienteering.sport/jwoc-long-golds-for-hjerne-swe-and-bolehovsky-cze/"/>
+        <updated>2025-06-30T19:32:30.000Z</updated>
+        <summary type="html"><![CDATA[The athletes at the Junior World Orienteering Championships said goodbye to the sprint disciplines and started the forest distances on Monday morning. Here the tough long distance awaited – 8.0 kilometers with 410 meters of climb and 10.0 kilometers (500 meters climb) for the women and men respectively. It was perhaps a few degrees colder […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC 2025 INDIVIDUAL SPRINT]]></title>
         <id>https://orienteering.asn.au/?p=14305</id>
@@ -736,17 +746,6 @@ The post Are You Making the Most of Membership appeared first on NI Orienteering
         <summary type="html"><![CDATA[Jim McCormack We start off volunteer week by celebrating the life of someone who contributed a huge amount to orienteering […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 World Cup Round 1 Team Selected]]></title>
-        <id>https://orienteering.asn.au/?p=14124</id>
-        <link href="https://orienteering.asn.au/2025-world-cup-round-1-team-selected/"/>
-        <updated>2025-06-01T07:35:04.000Z</updated>
-        <summary type="html"><![CDATA[The selection panel has met and decided on the Australian World Cup Round 1 team to compete in the 2025 Orienteering World Cup held in Idre Fjäll, Sweden from 19-22 June 2025.
-2025 World Cup Round 1 Team Selected first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
