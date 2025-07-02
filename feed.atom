@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T06:15:40.538Z</updated>
+    <updated>2025-07-02T12:18:59.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Juniors Shine at the 2025 Jamie Stevenson Trophy]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55919</id>
+        <link href="https://www.scottish-orienteering.org/news/juniors-shine-at-the-2025-jamie-stevenson-trophy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juniors-shine-at-the-2025-jamie-stevenson-trophy"/>
+        <updated>2025-07-02T11:51:59.000Z</updated>
+        <summary type="html"><![CDATA[By Louise Adams – SOA Lead Development Officer Scotland’s junior orienteers turned out in force for the annual Jamie Stevenson […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join the Scottish Orienteering Leadership Team: Seeking Nominations to the SOA And Six Days’ Boards]]></title>
         <id>https://www.scottish-orienteering.org/?p=55930</id>
