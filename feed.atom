@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T00:51:07.424Z</updated>
+    <updated>2025-07-02T06:15:40.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -940,27 +940,6 @@ Jessie Mulligan gets ‘good vibes’ after taking part in orienteering first ap
         <link href="https://www.scottish-orienteering.org/news/volunteer-week-2025-day-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-2025-day-2"/>
         <updated>2025-06-03T16:14:51.000Z</updated>
         <summary type="html"><![CDATA[Today we celebrate two members, both Davids, who have a wide reaching commitment to many aspects of orienteering, fulfilling multiple […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are You Making the Most of Membership]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6652</id>
-        <link href="https://www.niorienteering.org.uk/are-you-making-the-most-of-membership/"/>
-        <updated>2025-06-02T17:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Have you checked out the benefits of your orienteering membership recently? The various discounts on offer are at on the Membership Discounts page the British Orienteering website, also with a link on About>Join NI Orienteering. For example a 15% discount is offered on many Decathalon...
-The post Are You Making the Most of Membership appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volunteer Week 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55739</id>
-        <link href="https://www.scottish-orienteering.org/news/volunteer-week-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-2025"/>
-        <updated>2025-06-02T13:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Jim McCormack We start off volunteer week by celebrating the life of someone who contributed a huge amount to orienteering […]]]></summary>
         <author>
             <name>suzannerb</name>
         </author>
