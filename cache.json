@@ -909,6 +909,26 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=14315",
+          "author": "Elizabeth L",
+          "description": "In Day 4 of JWOC 2025, our junior athletes see continued success in the middle distance championship race.\nJWOC 2025 MIDDLE first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/jwoc-2025-middle/",
+          "publishedOn": "2025-07-03T10:00:00.000Z",
+          "wordCount": 2525,
+          "title": "JWOC 2025 MIDDLE",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
+          "id": "https://orienteering.asn.au/?p=14311",
+          "author": "Elizabeth L",
+          "description": "In Day 3 of JWOC 2025, our junior athletes made a huge leap forward for the Australian team in the long championship race.\nJWOC 2025 LONG first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/jwoc-2025-long/",
+          "publishedOn": "2025-07-03T08:34:22.000Z",
+          "wordCount": 2692,
+          "title": "JWOC 2025 LONG",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=14305",
           "author": "Elizabeth L",
           "description": "In Day 2 of JWOC 2025, our 12 junior athletes once again showed the rest of the world that we are aiming for podium positions.\nJWOC 2025 INDIVIDUAL SPRINT first appeared on Orienteering Australia.",

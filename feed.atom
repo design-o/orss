@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T06:15:33.068Z</updated>
+    <updated>2025-07-03T12:19:29.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2025 MIDDLE]]></title>
+        <id>https://orienteering.asn.au/?p=14315</id>
+        <link href="https://orienteering.asn.au/jwoc-2025-middle/"/>
+        <updated>2025-07-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Day 4 of JWOC 2025, our junior athletes see continued success in the middle distance championship race.
+JWOC 2025 MIDDLE first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2025 LONG]]></title>
+        <id>https://orienteering.asn.au/?p=14311</id>
+        <link href="https://orienteering.asn.au/jwoc-2025-long/"/>
+        <updated>2025-07-03T08:34:22.000Z</updated>
+        <summary type="html"><![CDATA[In Day 3 of JWOC 2025, our junior athletes made a huge leap forward for the Australian team in the long championship race.
+JWOC 2025 LONG first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC Middle: Csoboth (HUN) and Skachova (CZE) won exciting races]]></title>
         <id>https://orienteering.sport/?p=78505</id>
