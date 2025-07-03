@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78521",
+          "author": "Erling Thisted",
+          "description": "The 2025 Junior World Orienteering Championships (JWOC) concluded on a high note in Baselga di Piné, Italy, with Sweden and Switzerland claiming the final relay titles in the men’s and women’s events after a week-long festival of youth sport with 350 athletes from 41 nations. In the men’s Forest Relay, Sweden’s Hannes Mogensen delivered a […]",
+          "link": "https://orienteering.sport/jwoc-relay-sweden-and-switzerland-take-final-golds-in-trentino/",
+          "publishedOn": "2025-07-03T15:29:49.000Z",
+          "wordCount": 1612,
+          "title": "JWOC Relay: Sweden and Switzerland take final golds in Trentino",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/2025_jwoc_relaym-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78505",
           "author": "Erling Thisted",
           "description": "On the last individual race day at the 2025 Junior World Orienteering Championships, Hungary’s Marton Csoboth and the Czechia’s Viktorie Skachova emerged as the strongest competitors in the demanding middle distance race. The area around the Laghestel Biotope near Baselga di Piné set the stage for a dramatic contest in the somewhat dense and technical […]",
@@ -669,16 +679,6 @@
           "wordCount": 2234,
           "title": "World Games Team Finalised",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/05/Screenshot-517.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63539",
-          "author": "Joolz",
-          "description": "Hear everything about orienteering as Jessie Mulligan and crew had many questions for coach Llew McGivern after participating in the King’s Birthday weekend events on spectacular Hawkes Bay terrain. Jessie explained that the events had a “good vibe” and that seeing so many families and people outside has “so much that was ‘right’ about sport.” […]\nJessie Mulligan gets ‘good vibes’ after taking part in orienteering first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/jessie-mulligan-gets-good-vibes-after-taking-part-in-orienteering/",
-          "publishedOn": "2025-06-04T03:19:22.000Z",
-          "wordCount": 2400,
-          "title": "Jessie Mulligan gets ‘good vibes’ after taking part in orienteering",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/Llew-image.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T12:19:29.113Z</updated>
+    <updated>2025-07-03T18:13:39.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC Relay: Sweden and Switzerland take final golds in Trentino]]></title>
+        <id>https://orienteering.sport/?p=78521</id>
+        <link href="https://orienteering.sport/jwoc-relay-sweden-and-switzerland-take-final-golds-in-trentino/"/>
+        <updated>2025-07-03T15:29:49.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Junior World Orienteering Championships (JWOC) concluded on a high note in Baselga di Piné, Italy, with Sweden and Switzerland claiming the final relay titles in the men’s and women’s events after a week-long festival of youth sport with 350 athletes from 41 nations. In the men’s Forest Relay, Sweden’s Hannes Mogensen delivered a […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC 2025 MIDDLE]]></title>
         <id>https://orienteering.asn.au/?p=14315</id>
@@ -963,17 +973,6 @@ World Games Team Finalised first appeared on Orienteering New Zealand.]]></summa
         <summary type="html"><![CDATA[All the international orienteering races of 2025 will be available to Norwegian viewers with commentary in Norwegian through the digital newssite langrenn.com That is the result of a new agreement between the International Orienteering Federation and Wsportsmedia, that acquires the exclusive broadcasting rights to the Orienteering World Cup for langrenn.com on the Norwegian market. The […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jessie Mulligan gets ‘good vibes’ after taking part in orienteering]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63539</id>
-        <link href="https://www.orienteering.org.nz/news/jessie-mulligan-gets-good-vibes-after-taking-part-in-orienteering/"/>
-        <updated>2025-06-04T03:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Hear everything about orienteering as Jessie Mulligan and crew had many questions for coach Llew McGivern after participating in the King’s Birthday weekend events on spectacular Hawkes Bay terrain. Jessie explained that the events had a “good vibe” and that seeing so many families and people outside has “so much that was ‘right’ about sport.” […]
-Jessie Mulligan gets ‘good vibes’ after taking part in orienteering first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
