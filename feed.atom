@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T06:15:18.016Z</updated>
+    <updated>2025-07-04T12:19:00.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -972,17 +972,6 @@ The post NI Colour Series at Slievenagore appeared first on NI Orienteering Asso
 The post Two Buses Come Along at Once appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Games Team Finalised]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63554</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-teams-finalised/"/>
-        <updated>2025-06-04T18:53:38.000Z</updated>
-        <summary type="html"><![CDATA[The following selections for the 2025 World Games in Chengdu, China, 8th-11th August have been finalised subject to participants being current members of their respective Orienteering Clubs and therefore affiliated members of ONZ. MenJoseph LynchTim Robertson Reserve: Matt Ogden Women Kaia JoergensenLaura Robertson Reserve: Zara Stewart Manager/CoachMatt Ogden
-World Games Team Finalised first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
