@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T18:13:39.440Z</updated>
+    <updated>2025-07-04T00:50:11.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kayak Rental | 2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20]]></title>
+        <id>https://neooc.com/?p=48842</id>
+        <link href="https://neooc.com/kayak-rental-2025-paddle-o-deer-creek-reservoir-stark-parks-sunday-july-20/"/>
+        <updated>2025-07-03T20:23:46.000Z</updated>
+        <summary type="html"><![CDATA[15 Rental Kayaks will be available on site Provided by Stark Parks with paddles and life jackets $15 rental fee per kayak Contact jay@neooc.com to reserve your kayak 2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Championships kick off in Finland on Tuesday]]></title>
+        <id>https://orienteering.sport/?p=78513</id>
+        <link href="https://orienteering.sport/world-orienteering-championships-kick-off-in-finland-on-tuesday/"/>
+        <updated>2025-07-03T20:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Finally, it’s time for the highlight of the 2025 international orienteering season, when the World Orienteering Championships begin in Kuopio, Finland on Tuesday. 274 athletes from 45 nations are ready to compete for the most prestigious titles in the world of orienteering over three forest distances during the week. In the technically and physically demanding […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC Relay: Sweden and Switzerland take final golds in Trentino]]></title>
         <id>https://orienteering.sport/?p=78521</id>
@@ -963,16 +983,6 @@ The post Two Buses Come Along at Once appeared first on NI Orienteering Associat
 World Games Team Finalised first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Langrenn.com acquires Norwegian TV rights for the entire international season]]></title>
-        <id>https://orienteering.sport/?p=76582</id>
-        <link href="https://orienteering.sport/langrenn-com-acquires-norwegian-tv-rights-for-the-entire-international-season/"/>
-        <updated>2025-06-04T10:00:43.000Z</updated>
-        <summary type="html"><![CDATA[All the international orienteering races of 2025 will be available to Norwegian viewers with commentary in Norwegian through the digital newssite langrenn.com That is the result of a new agreement between the International Orienteering Federation and Wsportsmedia, that acquires the exclusive broadcasting rights to the Orienteering World Cup for langrenn.com on the Norwegian market. The […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
