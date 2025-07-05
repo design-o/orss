@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T18:13:22.369Z</updated>
+    <updated>2025-07-05T00:47:33.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -951,27 +951,6 @@ The post NI Colour Series at Slievenagore appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[Today we are celebrating the contribution of two long standing members who have fulfilled a huge variety of roles in […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volunteer week – day 3]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55750</id>
-        <link href="https://www.scottish-orienteering.org/news/volunteer-week-day-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteer-week-day-3"/>
-        <updated>2025-06-05T09:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Tara Black The INVOC President’s Quaich for services to the club was awarded to Tara Black at the last AGM. […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Buses Come Along at Once]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6675</id>
-        <link href="https://www.niorienteering.org.uk/two-buses-come-along-at-once/"/>
-        <updated>2025-06-05T07:57:31.000Z</updated>
-        <summary type="html"><![CDATA[So you’ve been waiting for a while after the Ballymena Urban event for an other excuse to go back onto the streets and now, just like buses, two come along within the same week! A recent but very welcome late addition is the announcment of...
-The post Two Buses Come Along at Once appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
