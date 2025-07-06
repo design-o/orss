@@ -879,6 +879,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=14321",
+          "author": "Elizabeth L",
+          "description": "JWOC 2025 comes to a close with a spirited effort in the relay competition.\nJWOC 2025 FOREST RELAY first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/jwoc-2025-forest-relay/",
+          "publishedOn": "2025-07-05T23:00:00.000Z",
+          "wordCount": 2581,
+          "title": "JWOC 2025 FOREST RELAY",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=14315",
           "author": "Elizabeth L",
           "description": "In Day 4 of JWOC 2025, our junior athletes see continued success in the middle distance championship race.\nJWOC 2025 MIDDLE first appeared on Orienteering Australia.",
@@ -946,16 +956,6 @@
           "publishedOn": "2025-06-08T12:47:30.000Z",
           "wordCount": 2356,
           "title": "The Australian Orienteer: June Edition Now Online",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14150",
-          "author": "Elizabeth L",
-          "description": "2025 ACT & NSW Ski-Orienteering Championship will be held at Perisher Valley on Sunday 17th August.\n2025 ACT & NSW Ski-Orienteering Championship first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2025-act-nsw-ski-orienteering-championship/",
-          "publishedOn": "2025-06-06T12:25:11.000Z",
-          "wordCount": 2545,
-          "title": "2025 ACT & NSW Ski-Orienteering Championship",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

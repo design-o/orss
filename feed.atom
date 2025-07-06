@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T18:12:42.922Z</updated>
+    <updated>2025-07-06T00:55:43.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2025 FOREST RELAY]]></title>
+        <id>https://orienteering.asn.au/?p=14321</id>
+        <link href="https://orienteering.asn.au/jwoc-2025-forest-relay/"/>
+        <updated>2025-07-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JWOC 2025 comes to a close with a spirited effort in the relay competition.
+JWOC 2025 FOREST RELAY first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Southern Cross Team Finalised]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63836</id>
@@ -919,17 +930,6 @@ Matariki Weekend Events first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[On Thursday June 5, Pittencrieff Park in Dunfermline welcomed pupils from all across Scotland, hosting the much-anticipated Scottish Schools Orienteering […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 ACT & NSW Ski-Orienteering Championship]]></title>
-        <id>https://orienteering.asn.au/?p=14150</id>
-        <link href="https://orienteering.asn.au/2025-act-nsw-ski-orienteering-championship/"/>
-        <updated>2025-06-06T12:25:11.000Z</updated>
-        <summary type="html"><![CDATA[2025 ACT & NSW Ski-Orienteering Championship will be held at Perisher Valley on Sunday 17th August.
-2025 ACT & NSW Ski-Orienteering Championship first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
