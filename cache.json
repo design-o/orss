@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78538",
+          "author": "Erling Thisted",
+          "description": "The 2025 World Orienteering Championships in Finland are just around the corner and can be followed through IOF LIVE and IOF TV. In the IOF Podcast, we had a chance to talk to home nation’s Ida Haapala about qualifying for the championships on home soil, having Thierry Gueorgiou as coach and her expectations for the […]",
+          "link": "https://orienteering.sport/podcast-ida-haapala-on-running-home-woc-and-having-thierry-gueorgiou-as-a-coach/",
+          "publishedOn": "2025-07-06T13:26:01.000Z",
+          "wordCount": 1438,
+          "title": "Podcast: Ida Haapala on running home WOC and having Thierry Gueorgiou as a coach",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/2025_owcr1_idahaapala_podcast_erlingthisted-1024x640.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78513",
           "author": "Erling Thisted",
           "description": "Finally, it’s time for the highlight of the 2025 international orienteering season, when the World Orienteering Championships begin in Kuopio, Finland on Tuesday. 274 athletes from 45 nations are ready to compete for the most prestigious titles in the world of orienteering over three forest distances during the week. In the technically and physically demanding […]",
@@ -669,16 +679,6 @@
           "wordCount": 2262,
           "title": "Technical Committee Support Position | Paid Role",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/d3237013-df54-7fa2-4434-44e080c98a4c.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63573",
-          "author": "Malcolm Ingham",
-          "description": "Looking for something extra over our newest long weekend? Wellington and Red Kiwis OC bring you a Matariki Special. Saturday 21 June: 2 x sprints in Levin, including one on a map used only once previously (for a NSL race in 2022). Three courses at each event. Sunday 22 June: test yourself with a return […]\nMatariki Weekend Events first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/matariki-weekend-events/",
-          "publishedOn": "2025-06-07T03:31:16.000Z",
-          "wordCount": 2219,
-          "title": "Matariki Weekend Events",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/matariki-1.jpeg"
         }
       ]
     },

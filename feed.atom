@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T12:17:32.058Z</updated>
+    <updated>2025-07-06T18:13:09.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Ida Haapala on running home WOC and having Thierry Gueorgiou as a coach]]></title>
+        <id>https://orienteering.sport/?p=78538</id>
+        <link href="https://orienteering.sport/podcast-ida-haapala-on-running-home-woc-and-having-thierry-gueorgiou-as-a-coach/"/>
+        <updated>2025-07-06T13:26:01.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 World Orienteering Championships in Finland are just around the corner and can be followed through IOF LIVE and IOF TV. In the IOF Podcast, we had a chance to talk to home nation’s Ida Haapala about qualifying for the championships on home soil, having Thierry Gueorgiou as coach and her expectations for the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWOC 2025 FOREST RELAY]]></title>
         <id>https://orienteering.asn.au/?p=14321</id>
@@ -899,17 +909,6 @@ The Australian Orienteer: June Edition Now Online first appeared on Orienteering
         <updated>2025-06-08T02:24:03.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matariki Weekend Events]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63573</id>
-        <link href="https://www.orienteering.org.nz/news/matariki-weekend-events/"/>
-        <updated>2025-06-07T03:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Looking for something extra over our newest long weekend? Wellington and Red Kiwis OC bring you a Matariki Special. Saturday 21 June: 2 x sprints in Levin, including one on a map used only once previously (for a NSL race in 2022). Three courses at each event. Sunday 22 June: test yourself with a return […]
-Matariki Weekend Events first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Malcolm Ingham</name>
         </author>
     </entry>
 </feed>
