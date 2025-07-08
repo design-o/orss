@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78607",
+          "author": "Erling Thisted",
+          "description": "The World Orienteering Championships in Finland kicked off on Tuesday morning with the qualification for Wednesday’s middle distance. Here, the athletes were divided into three heats per gender with the goal of finishing in the top 15 to qualify for the final. And from the start, they were thrown into demanding Finnish terrain in the […]",
+          "link": "https://orienteering.sport/woc-2025-qualification-kicked-off-the-championships-in-finland/",
+          "publishedOn": "2025-07-08T11:23:38.000Z",
+          "wordCount": 1599,
+          "title": "WOC 2025: Qualification kicked off the championships in Finland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/2025_woc_mq_timosild_kristinalindgren-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78545",
           "author": "Erling Thisted",
           "description": "Over the next week, the world’s most prestigious orienteering competition will take place – the World Orienteering Championships in Kuopio, Finland. And you have great opportunities to follow it whether you are at the arenas in Kuopio or at home. At the arenas: Find the program and tickets for the arenas on the WOC 2025 […]",
@@ -204,16 +214,6 @@
           "wordCount": 1809,
           "title": "Follow the Jukola relays on IOF TV this weekend",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2024_jukola_venla_jaakko_sorvisto-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76637",
-          "author": "Erling Thisted",
-          "description": "The European Orienteering Championships will return to Switzerland in 2027, with Thun as the host city. Switzerland was appointed as host during the latest meeting in the IOF Council in May. The 2027 edition of EOC is a sprint championship with three disciplines: Sprint, Sprint Relay and Knock-Out Sprint, held from September 29 to October […]",
-          "link": "https://orienteering.sport/eoc-2027-will-be-held-in-thun-switzerland/",
-          "publishedOn": "2025-06-08T21:54:01.000Z",
-          "wordCount": 1518,
-          "title": "EOC 2027 will be held in Thun, Switzerland",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2024_owcr1_kosprint_simon_buser-1024x682.jpg"
         }
       ]
     },
@@ -279,6 +279,26 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14829",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne-in-august/",
+          "publishedOn": "2025-07-02T07:33:54.000Z",
+          "wordCount": 1163,
+          "title": "Learn to Orienteer in Melbourne in August",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14819",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vale-bill-johnson/",
+          "publishedOn": "2025-07-01T07:17:30.000Z",
+          "wordCount": 929,
+          "title": "Vale Bill Johnson",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14769",
           "author": "Margi Freemantle",
