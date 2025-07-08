@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T00:50:48.772Z</updated>
+    <updated>2025-07-08T06:15:59.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 World Orienteering Championships – Schedule]]></title>
+        <id>https://orienteering.asn.au/?p=14328</id>
+        <link href="https://orienteering.asn.au/2025-world-orienteering-championships-schedule/"/>
+        <updated>2025-07-08T01:01:39.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 World Orienteering Championships in Kuopio, Finland begin this week.
+2025 World Orienteering Championships – Schedule first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Arpad Kocsik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to follow the World Orienteering Championships]]></title>
         <id>https://orienteering.sport/?p=78545</id>
