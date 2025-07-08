@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T18:13:54.914Z</updated>
+    <updated>2025-07-08T00:50:48.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -645,6 +645,15 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorian Schools Orienteering Sprint, Monash Clayton, Monday 30 June]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14709</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-schools-orienteering-sprint-monash-clayton-monday-30-june-entries-close-june-16/"/>
+        <updated>2025-06-19T02:24:03.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025 Orienteering World Cup Round 1 Information]]></title>
         <id>https://orienteering.asn.au/?p=14266</id>
         <link href="https://orienteering.asn.au/2025-orienteering-world-cup-round-1-information/"/>
@@ -909,17 +918,6 @@ MelBushO at Westerfolds, Sunday 22 June first appeared on Orienteering Victoria.
         <summary type="html"><![CDATA[The European Orienteering Championships will return to Switzerland in 2027, with Thun as the host city. Switzerland was appointed as host during the latest meeting in the IOF Council in May. The 2027 edition of EOC is a sprint championship with three disciplines: Sprint, Sprint Relay and Knock-Out Sprint, held from September 29 to October […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Australian Orienteer: June Edition Now Online]]></title>
-        <id>https://orienteering.asn.au/?p=14154</id>
-        <link href="https://orienteering.asn.au/the-australian-orienteer-june-edition-now-online-2/"/>
-        <updated>2025-06-08T12:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Read the June edition of The Australian Orienteer, available online now. The magazine features reports about local and international orienteering events so there should be something of interest to everyone.
-The Australian Orienteer: June Edition Now Online first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
