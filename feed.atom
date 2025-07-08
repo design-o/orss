@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T12:19:50.438Z</updated>
+    <updated>2025-07-08T18:14:43.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -934,17 +934,6 @@ Orienteering Australia Elite Rankings – June 2025 first appeared on Orienteeri
         <updated>2025-06-10T00:41:54.000Z</updated>
         <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
 Park Street Update, June 23-30 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO at Westerfolds, Sunday 22 June]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14453</id>
-        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
-        <updated>2025-06-09T00:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Come along to Macedon next Sunday for the next MelbushO event of 2025
-MelBushO at Westerfolds, Sunday 22 June first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
