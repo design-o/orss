@@ -223,6 +223,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20785",
+          "author": "Jan Kocbach",
+          "description": "The 2025 World Orienteering Championships started off on Tuesday in Kuopio, Finland with a challenging Middle distance qualification at the Tahko ski resort Tuesday morning. All the big favorites made it safely through to Wednesday’s final, but the technical Finnish terrain served up lots of challenging orienteering.  The final will use different very terrain from the ...",
+          "link": "https://news.worldofo.com/2025/07/08/woc-2025-middle-qual-maps-and-results/",
+          "publishedOn": "2025-07-08T20:30:46.000Z",
+          "wordCount": 2814,
+          "title": "WOC 2025 Middle Qual: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/07/mapmenq1-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20768",
           "author": "Jan Kocbach",
           "description": "Interesting and varied orienteering is expected when the 2025 World Orienteering Championship starts in Kuopio, Finland on Tuesday July 8th with a Middle Qualification race. The action continues with three TV-broadcast forest races from Wednesday to Saturday: Middle Final on Wednesday, Long Final on Thursday and Relay on Saturday. The Kuopio region in Northern Savonia offers classic ...",
@@ -320,6 +330,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14453",
+          "author": "Debbie Dodd",
+          "description": "We hope you had a great day at Westerfolds - and if you were unable to keep your map, read on to find a link where you can download a copy.\nMelBushO at Westerfolds – What A Day! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
+          "publishedOn": "2025-06-20T00:28:52.000Z",
+          "wordCount": 1280,
+          "title": "MelBushO at Westerfolds – What A Day!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14709",
           "author": "Debbie Dodd",
           "description": "",
@@ -394,6 +414,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23518",
+          "author": "James Gjertsen",
+          "description": "Thanks for joining us for the eighth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadet Series results after [...]",
+          "link": "https://slow.org.uk/racereports/dulwich-park-race-results/",
+          "publishedOn": "2025-07-08T21:37:33.000Z",
+          "wordCount": 2004,
+          "title": "Dulwich Park Race – Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/WalpolePark_20240702_2.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23509",
           "author": "James Gjertsen",
           "description": "The eighth race in the 2025 Park Race series will be at Dulwich Park, south London, for the first time in several years. Join us on [...]",
@@ -450,6 +480,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=63844",
+          "author": "Christo Peters",
+          "description": "Dick and his wife Trish were very involved in orienteering in New Zealand in the 1970s and were key members of the what is now Orienteering Bay of Plenty (formerly Rotorua). Dick made many of the early maps for the area including a map for the New Zealand Championship and the Australian v New Zealand Challenge. […]\nPassing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/uncategorized/passing-of-richard-carmichael-burbridge/",
+          "publishedOn": "2025-07-08T23:30:33.000Z",
+          "wordCount": 2386,
+          "title": "Passing of Richard Carmichael (Burbridge)",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/Screenshot-537.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=63836",
           "author": "Christo Peters",

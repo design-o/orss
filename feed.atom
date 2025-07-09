@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T18:14:43.616Z</updated>
+    <updated>2025-07-09T00:52:40.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Passing of Richard Carmichael (Burbridge)]]></title>
+        <id>https://www.orienteering.org.nz/?p=63844</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/passing-of-richard-carmichael-burbridge/"/>
+        <updated>2025-07-08T23:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Dick and his wife Trish were very involved in orienteering in New Zealand in the 1970s and were key members of the what is now Orienteering Bay of Plenty (formerly Rotorua). Dick made many of the early maps for the area including a map for the New Zealand Championship and the Australian v New Zealand Challenge. […]
+Passing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dulwich Park Race – Results]]></title>
+        <id>https://slow.org.uk/?p=23518</id>
+        <link href="https://slow.org.uk/racereports/dulwich-park-race-results/"/>
+        <updated>2025-07-08T21:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for joining us for the eighth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadet Series results after [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOC 2025 Middle Qual: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=20785</id>
+        <link href="https://news.worldofo.com/2025/07/08/woc-2025-middle-qual-maps-and-results/"/>
+        <updated>2025-07-08T20:30:46.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 World Orienteering Championships started off on Tuesday in Kuopio, Finland with a challenging Middle distance qualification at the Tahko ski resort Tuesday morning. All the big favorites made it safely through to Wednesday’s final, but the technical Finnish terrain served up lots of challenging orienteering.  The final will use different very terrain from the ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2025: Qualification kicked off the championships in Finland]]></title>
         <id>https://orienteering.sport/?p=78607</id>
@@ -630,6 +661,17 @@ Bendigo Bush Orienteering in July first appeared on Orienteering Victoria.]]></s
         <summary type="html"><![CDATA[The two big favourites – Kasper Harlem Fosser (NOR) and Tove Alexandersson (SWE) – won the World Cup Long distance race in Idre Fjäll, Sweden. Both won with a big margin – Fosser by 4:04 ahead of Matthias Kyburz (SUI), while Alexandersson took the women’s race with a 3:12 margin over Simona Aebersold (SUI). The ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO at Westerfolds – What A Day!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14453</id>
+        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
+        <updated>2025-06-20T00:28:52.000Z</updated>
+        <summary type="html"><![CDATA[We hope you had a great day at Westerfolds - and if you were unable to keep your map, read on to find a link where you can download a copy.
+MelBushO at Westerfolds – What A Day! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
