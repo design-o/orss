@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T12:20:13.549Z</updated>
+    <updated>2025-07-09T18:14:42.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC Middle: First gold for Langedal Breivik, 22nd for Alexandersson]]></title>
+        <id>https://orienteering.sport/?p=78645</id>
+        <link href="https://orienteering.sport/woc-middle-first-gold-for-langedal-breivik-22nd-for-alexandersson/"/>
+        <updated>2025-07-09T17:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Norway’s Eirik Langedal Breivik and Sweden’s Tove Alexandersson won the first gold medals at the World Orienteering Championships in Finland, when the middle distance was run on Wednesday afternoon. It took place in the forest terrain of Neulamäki close to the host city of Kuopio in a technically demanding terrain with many details to keep […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Passing of Richard Carmichael (Burbridge)]]></title>
         <id>https://www.orienteering.org.nz/?p=63844</id>
@@ -967,17 +977,6 @@ Technical Committee Support Position | Paid Role first appeared on Orienteering 
 Orienteering Australia Elite Rankings – June 2025 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, June 23-30]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-06-10T00:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
-Park Street Update, June 23-30 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

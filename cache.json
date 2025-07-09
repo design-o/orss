@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78645",
+          "author": "Erling Thisted",
+          "description": "Norway’s Eirik Langedal Breivik and Sweden’s Tove Alexandersson won the first gold medals at the World Orienteering Championships in Finland, when the middle distance was run on Wednesday afternoon. It took place in the forest terrain of Neulamäki close to the host city of Kuopio in a technically demanding terrain with many details to keep […]",
+          "link": "https://orienteering.sport/woc-middle-first-gold-for-langedal-breivik-22nd-for-alexandersson/",
+          "publishedOn": "2025-07-09T17:08:29.000Z",
+          "wordCount": 1888,
+          "title": "WOC Middle: First gold for Langedal Breivik, 22nd for Alexandersson",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/2025_woc_middle_eiriklangedalbreivik_kristinalindgren-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78607",
           "author": "Erling Thisted",
           "description": "The World Orienteering Championships in Finland kicked off on Tuesday morning with the qualification for Wednesday’s middle distance. Here, the athletes were divided into three heats per gender with the goal of finishing in the top 15 to qualify for the final. And from the start, they were thrown into demanding Finnish terrain in the […]",
@@ -367,16 +377,6 @@
           "publishedOn": "2025-06-15T05:09:04.000Z",
           "wordCount": 1112,
           "title": "Follow Our Juniors at JWOC, June 28 to July 3",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Find out what's on at this week's Park Street events\nPark Street Update, June 23-30 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2025-06-10T00:41:54.000Z",
-          "wordCount": 1091,
-          "title": "Park Street Update, June 23-30",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
