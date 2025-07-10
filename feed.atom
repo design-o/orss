@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T12:20:13.907Z</updated>
+    <updated>2025-07-10T18:15:10.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC: Aebersold takes super narrow win, third long distance gold for Fosser]]></title>
+        <id>https://orienteering.sport/?p=78672</id>
+        <link href="https://orienteering.sport/woc-aebersold-takes-super-narrow-win-third-long-distance-gold-for-fosser/"/>
+        <updated>2025-07-10T17:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Both Simona Aebersold (SUI) and Kasper Fosser (NOR) defended their long distance world championships on Thursday afternoon in Kuopio, but it happened in very different ways. In the women’s event, it was a razor-sharp decision between the favorites Aebersold and Tove Alexandersson (SWE), which made all the spectators in the well-attended arena in Neulamäki hold […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2025 Middle: Maps, Results and Analysis]]></title>
         <id>http://news.worldofo.com/?p=20817</id>
