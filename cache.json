@@ -233,6 +233,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20817",
+          "author": "Jan Kocbach",
+          "description": "Eirik Langedal Breivik (Norway) and Tove Alexandersson (Sweden) won the World Orienteering Championships (WOC) Middle distance in Kuopio, Finland on Wednesday.  This was a big day for Sweden and Norway with four Swedish and two Norwegian medals. All three medals in the women’s class went to Sweden – Sanna Fast taking her first international championships ...",
+          "link": "https://news.worldofo.com/2025/07/10/woc-2025-middle-maps-results-and-analysis/",
+          "publishedOn": "2025-07-10T03:00:42.000Z",
+          "wordCount": 2322,
+          "title": "WOC 2025 Middle: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/07/leg_01-535x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20785",
           "author": "Jan Kocbach",
           "description": "The 2025 World Orienteering Championships started off on Tuesday in Kuopio, Finland with a challenging Middle distance qualification at the Tahko ski resort Tuesday morning. All the big favorites made it safely through to Wednesday’s final, but the technical Finnish terrain served up lots of challenging orienteering.  The final will use different very terrain from the ...",
@@ -404,16 +414,6 @@
           "publishedOn": "2025-06-11T15:11:45.000Z",
           "wordCount": 789,
           "title": "Team announced for WOC 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21002",
-          "author": "Deirdre",
-          "description": "Orienteering Ireland is recruiting for a Regional Development Officer. Location: remote, with a focus on designated areas in the west, midlands and border counties. The role description can be found at: RDO Vacancy If you or someone you know might be interested in applying for this role, we would love to hear from you. Why […]",
-          "link": "https://www.orienteering.ie/we-are-hiring/",
-          "publishedOn": "2025-06-10T13:55:51.000Z",
-          "wordCount": 849,
-          "title": "We are hiring!",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T00:51:59.265Z</updated>
+    <updated>2025-07-10T06:15:51.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2025 Middle: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=20817</id>
+        <link href="https://news.worldofo.com/2025/07/10/woc-2025-middle-maps-results-and-analysis/"/>
+        <updated>2025-07-10T03:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Eirik Langedal Breivik (Norway) and Tove Alexandersson (Sweden) won the World Orienteering Championships (WOC) Middle distance in Kuopio, Finland on Wednesday.  This was a big day for Sweden and Norway with four Swedish and two Norwegian medals. All three medals in the women’s class went to Sweden – Sanna Fast taking her first international championships ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC Middle: First gold for Langedal Breivik, 22nd for Alexandersson]]></title>
         <id>https://orienteering.sport/?p=78645</id>
@@ -945,16 +955,6 @@ World Cup 3 | Selection Notice first appeared on Orienteering New Zealand.]]></s
         <summary type="html"><![CDATA[Thanks for joining us for the fourth race in the series. Results from the event: Results – SPORTident WinSplits Routegadget]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are hiring!]]></title>
-        <id>https://www.orienteering.ie/?p=21002</id>
-        <link href="https://www.orienteering.ie/we-are-hiring/"/>
-        <updated>2025-06-10T13:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland is recruiting for a Regional Development Officer. Location: remote, with a focus on designated areas in the west, midlands and border counties. The role description can be found at: RDO Vacancy If you or someone you know might be interested in applying for this role, we would love to hear from you. Why […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
