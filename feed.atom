@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T18:14:42.138Z</updated>
+    <updated>2025-07-10T00:51:59.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -197,6 +197,17 @@ JWOC 2025 LONG first appeared on Orienteering Australia.]]></summary>
         <id>https://www.vicorienteering.asn.au/?p=14829</id>
         <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne-in-august/"/>
         <updated>2025-07-02T07:33:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, July 8-14]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2025-07-02T00:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
+Park Street Update, July 8-14 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
@@ -944,39 +955,6 @@ World Cup 3 | Selection Notice first appeared on Orienteering New Zealand.]]></s
         <summary type="html"><![CDATA[Orienteering Ireland is recruiting for a Regional Development Officer. Location: remote, with a focus on designated areas in the west, midlands and border counties. The role description can be found at: RDO Vacancy If you or someone you know might be interested in applying for this role, we would love to hear from you. Why […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 2 | Selection Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63601</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-2-selection-notice/"/>
-        <updated>2025-06-10T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The second round of the 2025 IOF World Cup will be held in Hasselt, Belgium from 27-31st August 2025, and will consist of a Sprint Relay, a Knock-out Sprint, and an Individual Sprint. New Zealand is entitled to enter up to 8 men and 8 women in the Knock-out Sprint and the Individual Sprint Races, and […]
-World Cup 2 | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical Committee Support Position | Paid Role]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63594</id>
-        <link href="https://www.orienteering.org.nz/news/technical-committee-support-role-paid-role/"/>
-        <updated>2025-06-10T10:10:27.000Z</updated>
-        <summary type="html"><![CDATA[ONZ is re-advertising the part-time paid Technical Committee Support position. This position is intended to aid the volunteer Technical Committee to provide better support for clubs. The position is fundamental ensure that we maintain and enhance the technical systems that enable us to continue to deliver quality events run by suitably skilled individuals.  The position will be […]
-Technical Committee Support Position | Paid Role first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia Elite Rankings – June 2025]]></title>
-        <id>https://orienteering.asn.au/?p=14159</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-elite-rankings-june-2025/"/>
-        <updated>2025-06-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out the latest Orienteering Australia Elite Rankings.
-Orienteering Australia Elite Rankings – June 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
