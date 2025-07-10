@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T06:15:51.358Z</updated>
+    <updated>2025-07-10T12:20:13.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -945,16 +945,6 @@ World Cup 3 | Selection Notice first appeared on Orienteering New Zealand.]]></s
         <summary type="html"><![CDATA[This weekend it is time for the second of the year’s most prestigious club relays, when the Jukola relays are run in southern Finland. In total, more than 3000 teams are registered for the two relays, which start early Saturday afternoon and run until Sunday morning. This year’s event takes place in the forests around […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravenscourt Park Race – Results]]></title>
-        <id>https://slow.org.uk/?p=23395</id>
-        <link href="https://slow.org.uk/racereports/ravenscourt-park-race-results/"/>
-        <updated>2025-06-10T22:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Thanks for joining us for the fourth race in the series. Results from the event: Results – SPORTident WinSplits Routegadget]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
 </feed>
