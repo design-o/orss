@@ -233,6 +233,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=20937",
+          "author": "Jan Kocbach",
+          "description": "[Including comparisons for all legs] Reigning World Champions Simona Aebersold (Switzerland) and Kasper Fosser (Norway) both defended their titles from Switzerland in 2023 over the long distance at the 2025 World Orienteering Championships (WOC) in Kuopio, Finland. For Aebersold the margin was only 9 seconds after a thriller finish – while Fosser’s margin increased meter ...",
+          "link": "https://news.worldofo.com/2025/07/11/woc-2025-long-maps-results-and-analysis/",
+          "publishedOn": "2025-07-11T03:00:09.000Z",
+          "wordCount": 2649,
+          "title": "WOC 2025 Long: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/07/wocwomen2025long-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=20817",
           "author": "Jan Kocbach",
           "description": "Eirik Langedal Breivik (Norway) and Tove Alexandersson (Sweden) won the World Orienteering Championships (WOC) Middle distance in Kuopio, Finland on Wednesday.  This was a big day for Sweden and Norway with four Swedish and two Norwegian medals. All three medals in the women’s class went to Sweden – Sanna Fast taking her first international championships ...",
@@ -405,18 +415,7 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": [
-        {
-          "id": "https://www.orienteering.ie/?p=21014",
-          "author": "Deirdre",
-          "description": "The team has been announced for the World Orienteering Championships 2025 taking place in Kuopio, Finland 7 – 12 July 2025 Senior Squad Selection RACE WOMEN MEN Middle Distance Clodagh Moran (3ROC) Paul Pruzina (LVO) Aoife McCavana (GEN) Ruairi Short (CNOC) Rosalind Heron (3ROC) Colm Moran (3ROC) Long Distance Aoife McCavana (GEN) Ruairi Short (CNOC) […]",
-          "link": "https://www.orienteering.ie/team-announced-for-woc-2025/",
-          "publishedOn": "2025-06-11T15:11:45.000Z",
-          "wordCount": 789,
-          "title": "Team announced for WOC 2025",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "South London Orienteers",
@@ -784,6 +783,36 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55971",
+          "author": "suzannerb",
+          "description": "We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]",
+          "link": "https://www.scottish-orienteering.org/news/55971/?utm_source=rss&utm_medium=rss&utm_campaign=55971",
+          "publishedOn": "2025-07-10T17:11:51.000Z",
+          "wordCount": 2843,
+          "title": "Organisers’ workshops – autumn / winter 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55967",
+          "author": "nikkihoward",
+          "description": "The June session in the SOA’s monthly online Community Conversations series focused on supporting inclusion and wellbeing. The session was […]",
+          "link": "https://www.scottish-orienteering.org/news/june-community-conversation-follow-up-supporting-inclusion-wellbeing/?utm_source=rss&utm_medium=rss&utm_campaign=june-community-conversation-follow-up-supporting-inclusion-wellbeing",
+          "publishedOn": "2025-07-10T12:14:20.000Z",
+          "wordCount": 2172,
+          "title": "June Community Conversation Follow-Up: Supporting Inclusion & Wellbeing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=55964",
+          "author": "nikkihoward",
+          "description": "The 6th event of the 2025 Scottish Inter Club Championships saw Inverness Orienteering Club (INVOC) host a regional event in […]",
+          "link": "https://www.scottish-orienteering.org/news/northern-event-sees-movement-in-the-inter-club-champs-rankings/?utm_source=rss&utm_medium=rss&utm_campaign=northern-event-sees-movement-in-the-inter-club-champs-rankings",
+          "publishedOn": "2025-07-10T11:19:10.000Z",
+          "wordCount": 1787,
+          "title": "Northern event sees movement in the Inter Club Champs rankings",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=55919",
           "author": "louise",

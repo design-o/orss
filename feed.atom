@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T00:52:53.483Z</updated>
+    <updated>2025-07-11T06:15:27.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2025 Long: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=20937</id>
+        <link href="https://news.worldofo.com/2025/07/11/woc-2025-long-maps-results-and-analysis/"/>
+        <updated>2025-07-11T03:00:09.000Z</updated>
+        <summary type="html"><![CDATA[[Including comparisons for all legs] Reigning World Champions Simona Aebersold (Switzerland) and Kasper Fosser (Norway) both defended their titles from Switzerland in 2023 over the long distance at the 2025 World Orienteering Championships (WOC) in Kuopio, Finland. For Aebersold the margin was only 9 seconds after a thriller finish – while Fosser’s margin increased meter ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC: Aebersold takes super narrow win, third long distance gold for Fosser]]></title>
         <id>https://orienteering.sport/?p=78672</id>
@@ -14,6 +24,36 @@
         <summary type="html"><![CDATA[Both Simona Aebersold (SUI) and Kasper Fosser (NOR) defended their long distance world championships on Thursday afternoon in Kuopio, but it happened in very different ways. In the women’s event, it was a razor-sharp decision between the favorites Aebersold and Tove Alexandersson (SWE), which made all the spectators in the well-attended arena in Neulamäki hold […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organisers’ workshops – autumn / winter 2025]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55971</id>
+        <link href="https://www.scottish-orienteering.org/news/55971/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=55971"/>
+        <updated>2025-07-10T17:11:51.000Z</updated>
+        <summary type="html"><![CDATA[We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June Community Conversation Follow-Up: Supporting Inclusion & Wellbeing]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55967</id>
+        <link href="https://www.scottish-orienteering.org/news/june-community-conversation-follow-up-supporting-inclusion-wellbeing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=june-community-conversation-follow-up-supporting-inclusion-wellbeing"/>
+        <updated>2025-07-10T12:14:20.000Z</updated>
+        <summary type="html"><![CDATA[The June session in the SOA’s monthly online Community Conversations series focused on supporting inclusion and wellbeing. The session was […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northern event sees movement in the Inter Club Champs rankings]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55964</id>
+        <link href="https://www.scottish-orienteering.org/news/northern-event-sees-movement-in-the-inter-club-champs-rankings/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=northern-event-sees-movement-in-the-inter-club-champs-rankings"/>
+        <updated>2025-07-10T11:19:10.000Z</updated>
+        <summary type="html"><![CDATA[The 6th event of the 2025 Scottish Inter Club Championships saw Inverness Orienteering Club (INVOC) host a regional event in […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
@@ -924,16 +964,6 @@ The post Entries closing for Warrenpoint and Slievenagore appeared first on NI O
         <summary type="html"><![CDATA[One of the absolute highlights of the orienteering calendar takes place this weekend at the traditional Jukola relays, which together have over 3000 registered teams. On IOF TV you will get around 15 hours of live, high-quality broadcast from the forests of Mikkeli in Finland and commentary in both English and Swedish. Go to IOF […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Team announced for WOC 2025]]></title>
-        <id>https://www.orienteering.ie/?p=21014</id>
-        <link href="https://www.orienteering.ie/team-announced-for-woc-2025/"/>
-        <updated>2025-06-11T15:11:45.000Z</updated>
-        <summary type="html"><![CDATA[The team has been announced for the World Orienteering Championships 2025 taking place in Kuopio, Finland 7 – 12 July 2025 Senior Squad Selection RACE WOMEN MEN Middle Distance Clodagh Moran (3ROC) Paul Pruzina (LVO) Aoife McCavana (GEN) Ruairi Short (CNOC) Rosalind Heron (3ROC) Colm Moran (3ROC) Long Distance Aoife McCavana (GEN) Ruairi Short (CNOC) […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
