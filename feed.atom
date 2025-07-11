@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T18:15:10.806Z</updated>
+    <updated>2025-07-11T00:52:53.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -934,27 +934,6 @@ The post Entries closing for Warrenpoint and Slievenagore appeared first on NI O
         <summary type="html"><![CDATA[The team has been announced for the World Orienteering Championships 2025 taking place in Kuopio, Finland 7 – 12 July 2025 Senior Squad Selection RACE WOMEN MEN Middle Distance Clodagh Moran (3ROC) Paul Pruzina (LVO) Aoife McCavana (GEN) Ruairi Short (CNOC) Rosalind Heron (3ROC) Colm Moran (3ROC) Long Distance Aoife McCavana (GEN) Ruairi Short (CNOC) […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 3 | Selection Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63609</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-3-selection-notice/"/>
-        <updated>2025-06-11T09:12:31.000Z</updated>
-        <summary type="html"><![CDATA[The final round of the 2025 IOF World Cup will be held in Uster, Switzerland from 26-28th September 2025, and will consist of an Individual Sprint, a Sprint Relay, and a Knock-out Sprint. New Zealand is entitled to enter up to 8 men and 8 women in the Knock-out Sprint and the Individual Sprint Races, and 4 teams […]
-World Cup 3 | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow the Jukola relays on IOF TV this weekend]]></title>
-        <id>https://orienteering.sport/?p=76657</id>
-        <link href="https://orienteering.sport/follow-the-jukola-relays-on-iof-tv-this-weekend/"/>
-        <updated>2025-06-11T08:30:56.000Z</updated>
-        <summary type="html"><![CDATA[This weekend it is time for the second of the year’s most prestigious club relays, when the Jukola relays are run in southern Finland. In total, more than 3000 teams are registered for the two relays, which start early Saturday afternoon and run until Sunday morning. This year’s event takes place in the forests around […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
