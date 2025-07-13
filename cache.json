@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78710",
+          "author": "Erling Thisted",
+          "description": "Sweden’s women and Norway’s men became world champions when the relays concluded the World Orienteering Championships in Finland on Saturday afternoon. Under a blazing sun, the women set off first below the ski jump hills and the iconic Puijo Tower and began a physically demanding relay. Sweden was the pre-favourite and first-leg runner Hanna Lundberg […]",
+          "link": "https://orienteering.sport/woc-sweden-and-norway-took-relay-golds-in-kuopio/",
+          "publishedOn": "2025-07-12T18:45:14.000Z",
+          "wordCount": 1938,
+          "title": "WOC: Sweden and Norway took relay golds in Kuopio",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/2025_woc_relaystart_kristinalindgren-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78672",
           "author": "Erling Thisted",
           "description": "Both Simona Aebersold (SUI) and Kasper Fosser (NOR) defended their long distance world championships on Thursday afternoon in Kuopio, but it happened in very different ways. In the women’s event, it was a razor-sharp decision between the favorites Aebersold and Tove Alexandersson (SWE), which made all the spectators in the well-attended arena in Neulamäki hold […]",
@@ -214,16 +224,6 @@
           "wordCount": 1397,
           "title": "Latvia to host EYOC in 2027",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/06/2023_eyoc_sprint-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=76685",
-          "author": "Erling Thisted",
-          "description": "One of the absolute highlights of the orienteering calendar takes place this weekend at the traditional Jukola relays, which together have over 3000 registered teams. On IOF TV you will get around 15 hours of live, high-quality broadcast from the forests of Mikkeli in Finland and commentary in both English and Swedish. Go to IOF […]",
-          "link": "https://orienteering.sport/iof-tv-commentators-pick-their-favourites-for-jukola/",
-          "publishedOn": "2025-06-13T07:07:21.000Z",
-          "wordCount": 2099,
-          "title": "IOF TV commentators pick their favourites for Jukola",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/04/jonas_katherine-1-1024x683.jpg"
         }
       ]
     },

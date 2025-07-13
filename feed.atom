@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T18:13:22.382Z</updated>
+    <updated>2025-07-13T00:58:17.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC: Sweden and Norway took relay golds in Kuopio]]></title>
+        <id>https://orienteering.sport/?p=78710</id>
+        <link href="https://orienteering.sport/woc-sweden-and-norway-took-relay-golds-in-kuopio/"/>
+        <updated>2025-07-12T18:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Sweden’s women and Norway’s men became world champions when the relays concluded the World Orienteering Championships in Finland on Saturday afternoon. Under a blazing sun, the women set off first below the ski jump hills and the iconic Puijo Tower and began a physically demanding relay. Sweden was the pre-favourite and first-leg runner Hanna Lundberg […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2025 Long: Maps, Results and Analysis]]></title>
         <id>http://news.worldofo.com/?p=20937</id>
@@ -954,16 +964,6 @@ The post Entries closing for Warrenpoint and Slievenagore appeared first on NI O
         <summary type="html"><![CDATA[In recent years, orienteering clubs across Scotland have been exploring creative ways to raise awareness of the sport, attract new […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF TV commentators pick their favourites for Jukola]]></title>
-        <id>https://orienteering.sport/?p=76685</id>
-        <link href="https://orienteering.sport/iof-tv-commentators-pick-their-favourites-for-jukola/"/>
-        <updated>2025-06-13T07:07:21.000Z</updated>
-        <summary type="html"><![CDATA[One of the absolute highlights of the orienteering calendar takes place this weekend at the traditional Jukola relays, which together have over 3000 registered teams. On IOF TV you will get around 15 hours of live, high-quality broadcast from the forests of Mikkeli in Finland and commentary in both English and Swedish. Go to IOF […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
