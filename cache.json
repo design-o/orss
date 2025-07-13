@@ -433,6 +433,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23524",
+          "author": "James Gjertsen",
+          "description": "The tenth race in the 2025 Park Race series will be at Clapham Common, south London on 22nd July. Join us for the finale of the [...]",
+          "link": "https://slow.org.uk/events/park-race-clapham-common/",
+          "publishedOn": "2025-07-13T13:31:40.000Z",
+          "wordCount": 2363,
+          "title": "Park Race – Clapham Common",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/events/clapham2016/files/Clapham_Common_bandstand.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23518",
           "author": "James Gjertsen",
           "description": "Thanks for joining us for the eighth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadet Series results after [...]",
