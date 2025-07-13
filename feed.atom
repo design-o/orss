@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T00:58:17.116Z</updated>
+    <updated>2025-07-13T06:14:59.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Championships 2025 – Results]]></title>
+        <id>https://orienteering.asn.au/?p=14347</id>
+        <link href="https://orienteering.asn.au/world-orienteering-championships-2025-results/"/>
+        <updated>2025-07-13T03:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Competition results from the World Orienteering Championships 2025, held in Kuopio, Finland.
+World Orienteering Championships 2025 – Results first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOC 2025 Relay: Maps and Results]]></title>
+        <id>http://news.worldofo.com/?p=21089</id>
+        <link href="https://news.worldofo.com/2025/07/13/woc-2025-relay-maps-and-results/"/>
+        <updated>2025-07-13T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Swedens’s women and Norway’s men took clear victories in the relay that finished off the World Orienteering Championships 2025 in Kuopio, Finland. The battle for silver and bronze was a lot closer, with Norway beating Switzerland in a tight battle on the last leg in the women’s leg, while the Swiss men took silver, with ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC: Sweden and Norway took relay golds in Kuopio]]></title>
         <id>https://orienteering.sport/?p=78710</id>
