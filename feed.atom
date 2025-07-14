@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T12:19:55.184Z</updated>
+    <updated>2025-07-14T18:15:42.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -953,15 +953,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <id>https://www.vicorienteering.asn.au/?p=14781</id>
         <link href="https://www.vicorienteering.asn.au/rob-and-aislinn-top-national-league-participation-milla-tops-junior-women-rankings/"/>
         <updated>2025-06-15T08:06:47.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow Our Juniors at JWOC, June 28 to July 3]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14616</id>
-        <link href="https://www.vicorienteering.asn.au/milla-and-henri-off-to-jwoc/"/>
-        <updated>2025-06-15T05:09:04.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
