@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T00:55:57.957Z</updated>
+    <updated>2025-07-14T06:17:04.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -964,27 +964,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <updated>2025-06-15T05:09:04.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries closing for Warrenpoint and Slievenagore]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6684</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-warrenpoint-and-slievenagore/"/>
-        <updated>2025-06-14T18:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Entries are about to close for the NI Urban League event at Warrenpoint and the NI Colour Series event at Slievenagore, both part of the Tollymore Festival of Orienteering. Entries are at SiEntries, with entries closing on Monday 16 June.  
-The post Entries closing for Warrenpoint and Slievenagore appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering meets Parkrun: Do Club Takeovers Boost Visibility and Engagement?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55855</id>
-        <link href="https://www.scottish-orienteering.org/news/orienteering-meets-parkrun-do-club-takeovers-boost-visibility-and-engagement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-meets-parkrun-do-club-takeovers-boost-visibility-and-engagement"/>
-        <updated>2025-06-13T14:40:53.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, orienteering clubs across Scotland have been exploring creative ways to raise awareness of the sport, attract new […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
