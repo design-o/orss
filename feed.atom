@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T18:15:42.877Z</updated>
+    <updated>2025-07-15T00:53:48.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -593,6 +593,17 @@ JWOC 2025 SPRINT RELAY first appeared on Orienteering Australia.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorians on the World Stage – JWOC and WOC Results]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14616</id>
+        <link href="https://www.vicorienteering.asn.au/milla-and-henri-off-to-jwoc/"/>
+        <updated>2025-06-27T05:09:04.000Z</updated>
+        <summary type="html"><![CDATA[It's JWOC time!  Follow Henri and Milla's progress as they race in the Sprint, Middle Distance, Long Distance, and Relays, in Trentino, Italy. The Aussies kicked off their campaign in fine style, placing 6th in the exciting Sprint Relay, led out by Milla.
+Victorians on the World Stage – JWOC and WOC Results first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Junior Feedback June 2025]]></title>
         <id>https://www.scottish-orienteering.org/?p=55923</id>
         <link href="https://www.scottish-orienteering.org/news/junior-feedback-june-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-feedback-june-2025"/>
@@ -946,15 +957,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <summary type="html"><![CDATA[Many of Europe’s most talented young orienteers will head to Latvia in 2027. The country will host the 2027 European Youth Orienteering Championships after Latvia was selected as host at the latest IOF Council meeting in May. The championships will be held in the coastal town of Liepaja in the southwest corner of the country […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rob and Aislinn Top National League Participation: Milla Tops Junior Women Rankings]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14781</id>
-        <link href="https://www.vicorienteering.asn.au/rob-and-aislinn-top-national-league-participation-milla-tops-junior-women-rankings/"/>
-        <updated>2025-06-15T08:06:47.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
