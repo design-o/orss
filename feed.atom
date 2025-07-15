@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T06:16:06.081Z</updated>
+    <updated>2025-07-15T12:20:31.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -945,16 +945,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <link href="https://orienteering.sport/the-new-world-cup-season-kicks-off-in-sweden/"/>
         <updated>2025-06-16T20:28:59.000Z</updated>
         <summary type="html"><![CDATA[The national kits have been gathering dust in drawers around the world for over 250 days since the World Cup final in Finland last September, but now it’s finally time to see them again. The 2025 Orienteering World Cup begins this week in Idre Fjäll, Sweden with three forest distances. After the qualification race on […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latvia to host EYOC in 2027]]></title>
-        <id>https://orienteering.sport/?p=76821</id>
-        <link href="https://orienteering.sport/latvia-to-host-eyoc-in-2027/"/>
-        <updated>2025-06-15T20:53:49.000Z</updated>
-        <summary type="html"><![CDATA[Many of Europe’s most talented young orienteers will head to Latvia in 2027. The country will host the 2027 European Youth Orienteering Championships after Latvia was selected as host at the latest IOF Council meeting in May. The championships will be held in the coastal town of Liepaja in the southwest corner of the country […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
