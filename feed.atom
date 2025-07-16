@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T12:20:14.466Z</updated>
+    <updated>2025-07-16T18:14:47.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adult Beginner Day Edinburgh]]></title>
+        <id>https://www.scottish-orienteering.org/?p=55997</id>
+        <link href="https://www.scottish-orienteering.org/news/adult-beginner-day-edinburgh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=adult-beginner-day-edinburgh"/>
+        <updated>2025-07-16T14:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Looking to improve your navigation skills or try a new sport? Scottish Orienteering are organising an adult beginner day at […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow EYOC from Friday to Sunday]]></title>
+        <id>https://orienteering.sport/?p=78804</id>
+        <link href="https://orienteering.sport/follow-eyoc-from-friday-to-sunday/"/>
+        <updated>2025-07-16T14:26:25.000Z</updated>
+        <summary type="html"><![CDATA[The international championships are coming like pearls on a string these weeks, and already on Friday the European Youth Orienteering Championships in Brno, Czechia begin. The championships feature a long distance, a sprint and a relay, all run around Brno in the Moravia region in the southeastern corner of Czechia. There are more than 400 […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Clapham Common]]></title>
         <id>https://slow.org.uk/?p=23524</id>
@@ -916,17 +936,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <summary type="html"><![CDATA[Once again, the best orienteers in the world will gather when the 2025 Orienteering World Cup kicks off in Idre Fjäll, Sweden from Wednesday June 18 to Sunday June 22. And you can follow the competitions up close – whether you’re in the arena in the Swedish mountains or watching from home. TV All three […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Provisional Southern Cross teams announced]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63617</id>
-        <link href="https://www.orienteering.org.nz/news/2025-provisional-southern-cross-teams-announced/"/>
-        <updated>2025-06-17T05:28:06.000Z</updated>
-        <summary type="html"><![CDATA[New Zealand Schools Selections 2025 The ONZ selection panel has named this year’s teams to contest the Southern Cross Trophy in Australia: Karahiwi Senior Boys: Oscar Burns, Arya Chebbi, Jake McLellan, Solomon Randerson, William Wood (subject to fitness) Senior Girls: Anna Batcheler, Ami McGowan, Morag McLellan, Amy Nicoll (subject to fitness), Greta Prince Junior Boys: […]
-2025 Provisional Southern Cross teams announced first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
