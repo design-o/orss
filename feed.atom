@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T06:16:13.539Z</updated>
+    <updated>2025-07-16T12:20:14.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -927,26 +927,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
 2025 Provisional Southern Cross teams announced first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Hanna Lundberg and the shock win in Idre in 2021]]></title>
-        <id>https://orienteering.sport/?p=76842</id>
-        <link href="https://orienteering.sport/podcast-hanna-lundberg-and-the-shock-win-in-idre-in-2021/"/>
-        <updated>2025-06-16T22:30:38.000Z</updated>
-        <summary type="html"><![CDATA[It was raining on Idre Fjäll in Sweden on August 14, 2021, when 19-year-old Hanna Lundberg was the first to start in the middle distance race at the orienteering World Cup. And after a largely flawless race, she sat in the leader’s chair and waited. And waited and waited, because all the favorites lost time […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new World Cup season kicks off in Sweden]]></title>
-        <id>https://orienteering.sport/?p=76832</id>
-        <link href="https://orienteering.sport/the-new-world-cup-season-kicks-off-in-sweden/"/>
-        <updated>2025-06-16T20:28:59.000Z</updated>
-        <summary type="html"><![CDATA[The national kits have been gathering dust in drawers around the world for over 250 days since the World Cup final in Finland last September, but now it’s finally time to see them again. The 2025 Orienteering World Cup begins this week in Idre Fjäll, Sweden with three forest distances. After the qualification race on […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
