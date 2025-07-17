@@ -281,16 +281,6 @@
           "wordCount": 2174,
           "title": "World Cup Idre 2025 Long: Maps, Results and Analysis",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/06/map_part-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20679",
-          "author": "Jan Kocbach",
-          "description": "The 2025 Orienteering World Cup season starts off in Swedish Idre Fjäll on Wednesday June 18th with a shortened long distance Qualification race. The action continues with three TV-broadcast forest races from Thursday to Sunday: Long Thursday, Middle Saturday and Relay Sunday. Idre Fjäll offered great races with tricky orienteering when the orienteering World Cup visited the ...",
-          "link": "https://news.worldofo.com/2025/06/18/world-cup-opening-2025-idre-all-you-need-to-know/",
-          "publishedOn": "2025-06-18T03:00:20.000Z",
-          "wordCount": 4468,
-          "title": "World Cup Opening 2025 Idre: All You Need To Know",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/06/idre-660x330.png"
         }
       ]
     },
@@ -743,6 +733,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56017",
+          "author": "nikkihoward",
+          "description": "Make sure you have the date in the diary for this year’s Club Networking Day taking place between 10am and […]",
+          "link": "https://www.scottish-orienteering.org/news/sharing-and-learning-from-each-other-at-the-club-networking-day/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-and-learning-from-each-other-at-the-club-networking-day",
+          "publishedOn": "2025-07-17T13:32:13.000Z",
+          "wordCount": 1613,
+          "title": "Sharing and learning from each other at the Club Networking Day",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/group-2-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56011",
           "author": "nikkihoward",
