@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T00:53:25.551Z</updated>
+    <updated>2025-07-17T06:16:08.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -926,16 +926,6 @@ JWOC Additional reserve | Provisional announcement first appeared on Orienteerin
         <summary type="html"><![CDATA[The 2025 Orienteering World Cup season starts off in Swedish Idre Fjäll on Wednesday June 18th with a shortened long distance Qualification race. The action continues with three TV-broadcast forest races from Thursday to Sunday: Long Thursday, Middle Saturday and Relay Sunday. Idre Fjäll offered great races with tricky orienteering when the orienteering World Cup visited the ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to follow the World Cup in Idre Fjäll, Sweden]]></title>
-        <id>https://orienteering.sport/?p=76849</id>
-        <link href="https://orienteering.sport/how-to-follow-the-world-cup-in-idre-fjall-sweden/"/>
-        <updated>2025-06-17T15:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Once again, the best orienteers in the world will gather when the 2025 Orienteering World Cup kicks off in Idre Fjäll, Sweden from Wednesday June 18 to Sunday June 22. And you can follow the competitions up close – whether you’re in the arena in the Swedish mountains or watching from home. TV All three […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
