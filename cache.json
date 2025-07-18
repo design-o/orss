@@ -365,7 +365,18 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21176",
+          "author": "Operations Manager",
+          "description": "The squad to represent Ireland at the European Orienteering Championships 2025 being held in Belgium from 27-31 August has been selected. Knock Out Sprint and Individual Sprint:Women: Aoife McCavana (GEN), Niamh Corbett (CorkO), Clodagh Moran (3ROC), EmerPerkins (BOC)Men: Josh O’Sullivan-Hourihan (CorkO), Kevin O’Boyle (CNOC), Liam Cotter (UCCO), NiallMcCarthy (BOC). Reserve: Aidan McCullough (3ROC) Sprint Relay […]",
+          "link": "https://www.orienteering.ie/senior-squad-announcement-eoc25/",
+          "publishedOn": "2025-07-18T09:52:18.000Z",
+          "wordCount": 872,
+          "title": "Senior Squad Announcement – EOC25",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "South London Orienteers",
@@ -955,16 +966,6 @@
           "publishedOn": "2025-06-30T06:50:27.000Z",
           "wordCount": 2670,
           "title": "JWOC 2025 SPRINT RELAY",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14266",
-          "author": "Elizabeth L",
-          "description": "The 2025 Orienteering World Cup Round 1 in Idre Fjäll, Sweden is from 18-22 June.\n2025 Orienteering World Cup Round 1 Information first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2025-orienteering-world-cup-round-1-information/",
-          "publishedOn": "2025-06-19T00:11:06.000Z",
-          "wordCount": 2472,
-          "title": "2025 Orienteering World Cup Round 1 Information",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
