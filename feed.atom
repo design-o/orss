@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-19T12:17:28.399Z</updated>
+    <updated>2025-07-19T18:13:07.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -853,27 +853,6 @@ Bendigo Bush Orienteering in July first appeared on Orienteering Victoria.]]></s
         <id>https://www.vicorienteering.asn.au/?p=14798</id>
         <link href="https://www.vicorienteering.asn.au/vic-series-irishtown-july-27-entries-now-open/"/>
         <updated>2025-06-20T07:08:35.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Idre 2025 Long: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=20695</id>
-        <link href="https://news.worldofo.com/2025/06/20/world-cup-idre-2025-long-maps-and-results/"/>
-        <updated>2025-06-20T03:00:49.000Z</updated>
-        <summary type="html"><![CDATA[The two big favourites – Kasper Harlem Fosser (NOR) and Tove Alexandersson (SWE) – won the World Cup Long distance race in Idre Fjäll, Sweden. Both won with a big margin – Fosser by 4:04 ahead of Matthias Kyburz (SUI), while Alexandersson took the women’s race with a 3:12 margin over Simona Aebersold (SUI). The ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO at Westerfolds – What A Day!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14453</id>
-        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
-        <updated>2025-06-20T00:28:52.000Z</updated>
-        <summary type="html"><![CDATA[We hope you had a great day at Westerfolds - and if you were unable to keep your map, read on to find a link where you can download a copy.
-MelBushO at Westerfolds – What A Day! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
