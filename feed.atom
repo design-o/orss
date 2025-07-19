@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T18:14:27.747Z</updated>
+    <updated>2025-07-19T00:51:35.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -916,17 +916,6 @@ MelBushO at Westerfolds – What A Day! first appeared on Orienteering Victoria.
         <summary type="html"><![CDATA[Looking back to our fabulous volunteers we had to mention all those involved in staging the 2024 Sprint World Championships […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Additional reserve | Provisional announcement]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63625</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc-additional-reserve-provisional-announcement/"/>
-        <updated>2025-06-19T09:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Team selections are subject to the ONZ Appeals Policy Under this policy
-JWOC Additional reserve | Provisional announcement first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
