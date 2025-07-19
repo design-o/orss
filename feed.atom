@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-19T06:14:08.635Z</updated>
+    <updated>2025-07-19T12:17:28.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -876,16 +876,6 @@ Bendigo Bush Orienteering in July first appeared on Orienteering Victoria.]]></s
 MelBushO at Westerfolds – What A Day! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Fosser and Alexandersson best in tough long distance]]></title>
-        <id>https://orienteering.sport/?p=77622</id>
-        <link href="https://orienteering.sport/world-cup-fosser-and-alexandersson-best-in-tough-long-distance/"/>
-        <updated>2025-06-19T19:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Favourites Kasper Fosser (NOR) and Tove Alexandersson (SWE) secured clear victories as the 2025 Orienteering World Cup found its first winners in the long distance in Idre Fjäll, Sweden. In the women’s event, Alexandersson won by just over three minutes over last year’s overall World Cup winner, Simona Aebersold (SUI), while Andrine Benjaminsen (NOR) came […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
