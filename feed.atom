@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T12:17:58.660Z</updated>
+    <updated>2025-07-20T18:12:53.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -868,17 +868,6 @@ NZ Schools Development Squad to Australia first appeared on Orienteering New Zea
         <summary type="html"><![CDATA[People will be talking about control 8 for a long time. On both the men’s and women’s courses at Saturday’s Orienteering World Cup Middle distance race in Idre Fjäll, Sweden, that control point proved very decisive. Placed on a slope after a relatively long leg, the control cost so much time that many positions were […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendigo Bush Orienteering in July]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14769</id>
-        <link href="https://www.vicorienteering.asn.au/bendigo-bush-orienteering-in-july/"/>
-        <updated>2025-06-21T03:22:51.000Z</updated>
-        <summary type="html"><![CDATA[It’s a quiet time for Bush Orienteering in July in Victoria, but If you want to get out on a course head up to Bendigo. The Bendigo Bush-O series continues in July with two events, one at Mosquito Creek, and one at Kimbolton.
-Bendigo Bush Orienteering in July first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
