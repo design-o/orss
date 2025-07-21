@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T12:20:54.345Z</updated>
+    <updated>2025-07-21T18:15:16.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Organisers’ workshops autumn/winter 2025/26]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56023</id>
+        <link href="https://www.scottish-orienteering.org/news/organisers-workshops-autumn-winter-2025-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=organisers-workshops-autumn-winter-2025-26"/>
+        <updated>2025-07-21T14:45:46.000Z</updated>
+        <summary type="html"><![CDATA[We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EYOC 2025 – SPRINT]]></title>
         <id>https://orienteering.asn.au/?p=14378</id>
@@ -838,16 +848,6 @@ The post A Busy June appeared first on NI Orienteering Association.]]></summary>
         <summary type="html"><![CDATA[Switzerland’s women and Sweden’s men took the relay victories as the first World Cup Round of 2025 concluded on Sunday afternoon in Idre Fjäll, Sweden. Sunday was the warmest day of the week and the 40 teams in the women’s relay started out in sunshine in what was to prove to be an intense relay. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Idre 2025 Middle: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=20719</id>
-        <link href="https://news.worldofo.com/2025/06/22/world-cup-idre-2025-middle-maps-results-and-analysis/"/>
-        <updated>2025-06-22T03:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Swedish success in tricky World Cup Midde distance in Idre Fjäll: Max Peter Bejmer and Tove Alexandersson won the World Cup  Middle distance on home ground in the Swedish mountains in a race where we saw a lot of big mistakes by top runners. Bejmer won ahead of three (!) other Swedish runners – Anton Johansson, Gustav Bergman and ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

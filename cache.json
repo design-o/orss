@@ -231,16 +231,6 @@
           "wordCount": 3718,
           "title": "World Cup Idre 2025 Relay: Maps, Results & Analysis",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/06/map-men-relay-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20719",
-          "author": "Jan Kocbach",
-          "description": "Swedish success in tricky World Cup Midde distance in Idre Fjäll: Max Peter Bejmer and Tove Alexandersson won the World Cup  Middle distance on home ground in the Swedish mountains in a race where we saw a lot of big mistakes by top runners. Bejmer won ahead of three (!) other Swedish runners – Anton Johansson, Gustav Bergman and ...",
-          "link": "https://news.worldofo.com/2025/06/22/world-cup-idre-2025-middle-maps-results-and-analysis/",
-          "publishedOn": "2025-06-22T03:00:58.000Z",
-          "wordCount": 2329,
-          "title": "World Cup Idre 2025 Middle: Maps, Results and Analysis",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/06/map_men_middle-660x330.png"
         }
       ]
     },
@@ -654,6 +644,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56023",
+          "author": "suzannerb",
+          "description": "We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]",
+          "link": "https://www.scottish-orienteering.org/news/organisers-workshops-autumn-winter-2025-26/?utm_source=rss&utm_medium=rss&utm_campaign=organisers-workshops-autumn-winter-2025-26",
+          "publishedOn": "2025-07-21T14:45:46.000Z",
+          "wordCount": 1766,
+          "title": "Organisers’ workshops autumn/winter 2025/26",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/O-sign-2-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56017",
           "author": "nikkihoward",
