@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T06:17:08.021Z</updated>
+    <updated>2025-07-21T12:20:54.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -848,37 +848,6 @@ The post A Busy June appeared first on NI Orienteering Association.]]></summary>
         <summary type="html"><![CDATA[Swedish success in tricky World Cup Midde distance in Idre Fjäll: Max Peter Bejmer and Tove Alexandersson won the World Cup  Middle distance on home ground in the Swedish mountains in a race where we saw a lot of big mistakes by top runners. Bejmer won ahead of three (!) other Swedish runners – Anton Johansson, Gustav Bergman and ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZ Schools Development Squad to Australia]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63640</id>
-        <link href="https://www.orienteering.org.nz/news/nz-schools-development-squad-to-australia/"/>
-        <updated>2025-06-21T23:32:30.000Z</updated>
-        <summary type="html"><![CDATA[To encourage people who were close to Southern Cross selection to go under the Development Team banner, parent Jenni Adams is looking to put together a squad to go to Australia. Please note that while Orienteering New Zealand supports providing opportunities for students to gain international experience, this is not an official national team or […]
-NZ Schools Development Squad to Australia first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | 2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20]]></title>
-        <id>https://neooc.com/?p=48788</id>
-        <link href="https://neooc.com/new-event-2025-paddle-o-deer-creek-reservoir-stark-parks-sunday-july-20/"/>
-        <updated>2025-06-21T20:06:56.000Z</updated>
-        <summary type="html"><![CDATA[2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: First victory for Bejmer, Alexandersson takes another win]]></title>
-        <id>https://orienteering.sport/?p=78256</id>
-        <link href="https://orienteering.sport/world-cup-first-win-for-bejmer-alexandersson-takes-another/"/>
-        <updated>2025-06-21T19:54:56.000Z</updated>
-        <summary type="html"><![CDATA[People will be talking about control 8 for a long time. On both the men’s and women’s courses at Saturday’s Orienteering World Cup Middle distance race in Idre Fjäll, Sweden, that control point proved very decisive. Placed on a slope after a relatively long leg, the control cost so much time that many positions were […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
