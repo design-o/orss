@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T00:53:11.841Z</updated>
+    <updated>2025-07-22T06:16:16.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]]]></summary>
         <author>
             <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelBushO In August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14453</id>
+        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
+        <updated>2025-07-20T00:28:52.000Z</updated>
+        <summary type="html"><![CDATA[There are two more fantastic MelbushO events coming up in August, at Jells Park and Yarra Flats. Don't miss them!
+MelBushO In August first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -838,16 +849,6 @@ The post A Busy June appeared first on NI Orienteering Association.]]></summary>
         <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Planner’s Comments It’s been 8 years since we last held an orienteering race [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Swiss women and Swedish men claimed the relay wins on Sunday]]></title>
-        <id>https://orienteering.sport/?p=78292</id>
-        <link href="https://orienteering.sport/world-cup-swiss-women-and-swedish-men-claimed-the-relay-wins-on-sunday/"/>
-        <updated>2025-06-22T15:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Switzerland’s women and Sweden’s men took the relay victories as the first World Cup Round of 2025 concluded on Sunday afternoon in Idre Fjäll, Sweden. Sunday was the warmest day of the week and the 40 teams in the women’s relay started out in sunshine in what was to prove to be an intense relay. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

@@ -154,16 +154,6 @@
           "wordCount": 1693,
           "title": "Bejmer and Alexandersson lead World Cup after Idre Fjäll",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2025_bejmer_alexandersson_teromarjamaki-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=78292",
-          "author": "Erling Thisted",
-          "description": "Switzerland’s women and Sweden’s men took the relay victories as the first World Cup Round of 2025 concluded on Sunday afternoon in Idre Fjäll, Sweden. Sunday was the warmest day of the week and the 40 teams in the women’s relay started out in sunshine in what was to prove to be an intense relay. […]",
-          "link": "https://orienteering.sport/world-cup-swiss-women-and-swedish-men-claimed-the-relay-wins-on-sunday/",
-          "publishedOn": "2025-06-22T15:19:19.000Z",
-          "wordCount": 1846,
-          "title": "World Cup: Swiss women and Swedish men claimed the relay wins on Sunday",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2025_owc_r1__relay_womenspodium_teromarjamaki-1024x682.jpg"
         }
       ]
     },
@@ -239,6 +229,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14453",
+          "author": "Debbie Dodd",
+          "description": "There are two more fantastic MelbushO events coming up in August, at Jells Park and Yarra Flats. Don't miss them!\nMelBushO In August first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
+          "publishedOn": "2025-07-20T00:28:52.000Z",
+          "wordCount": 1023,
+          "title": "MelBushO In August",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14798",
           "author": "Debbie Dodd",
