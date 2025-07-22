@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T06:16:16.373Z</updated>
+    <updated>2025-07-22T12:20:29.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -839,16 +839,6 @@ The post A Busy June appeared first on NI Orienteering Association.]]></summary>
         <summary type="html"><![CDATA[There were 21 participants who ran in either the Introductory course or the 3-hour Score course.  Three of the 3-hour runners choose to exchange their maps the the finish and continue on to the Introductory course, thus combining both courses. Sojourner (MVOC) won the event by a wide margin, getting all but 2 controls (70 […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLOSS Results – Northala Fields]]></title>
-        <id>https://slow.org.uk/?p=23470</id>
-        <link href="https://slow.org.uk/racereports/gloss-results-2025/"/>
-        <updated>2025-06-22T19:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf Results – SPORTident WinSplits Routegadget – draw your route! Planner’s Comments It’s been 8 years since we last held an orienteering race [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
