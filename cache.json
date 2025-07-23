@@ -361,6 +361,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=63899",
+          "author": "Christo Peters",
+          "description": "The ONZ Senior Selection Panel have named the following athletes to compete in WC3 in Uster, Switerland, September 26-28 2025: Women Amber Riddle Laura Robertson Men Jakob Knoef Tim Robertson Will Tidswell Team selections are subject to the ONZ Appeals Policy Under this policy:\nWorld Cup 3 | Provisional Team named first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/world-cup-3-provisional-team-named/",
+          "publishedOn": "2025-07-23T07:43:06.000Z",
+          "wordCount": 2235,
+          "title": "World Cup 3 | Provisional Team named",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/Screenshot-538.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?p=63844",
           "author": "Christo Peters",
           "description": "Dick and his wife Trish were very involved in orienteering in New Zealand in the 1970s and were key members of the what is now Orienteering Bay of Plenty (formerly Rotorua). Dick made many of the early maps for the area including a map for the New Zealand Championship and the Australian v New Zealand Challenge. […]\nPassing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zealand.",
@@ -614,6 +624,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56029",
+          "author": "nikkihoward",
+          "description": "We are notifying all members of our intended Annual General Meeting date of Monday 22nd September 2025. The Annual General Meeting will be […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-agm/?utm_source=rss&utm_medium=rss&utm_campaign=soa-agm",
+          "publishedOn": "2025-07-23T11:27:47.000Z",
+          "wordCount": 1475,
+          "title": "SOA AGM",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/Add-a-heading-819x1024.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56023",
           "author": "suzannerb",
