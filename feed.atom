@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T18:14:23.289Z</updated>
+    <updated>2025-07-24T00:53:31.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clapham Common Park Race – Results]]></title>
+        <id>https://slow.org.uk/?p=23551</id>
+        <link href="https://slow.org.uk/racereports/clapham-common-park-race-results/"/>
+        <updated>2025-07-23T20:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to all those that came for the finale of the 2025 park race series. It was a fast paced end to the series, that [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feedback wanted: Introduction of Junior class at TrailO championships?]]></title>
+        <id>https://orienteering.sport/?p=78845</id>
+        <link href="https://orienteering.sport/feedback-wanted-introduction-of-junior-class-at-trailo-championships/"/>
+        <updated>2025-07-23T19:54:07.000Z</updated>
+        <summary type="html"><![CDATA[The TrailO Commission invites feedback on a proposal for the introduction of a separate class for U20 athletes at major TrailO championships from 2026 onwards. While TrailO allows competitors with any physical ability, gender and age to compete on equal terms, awarding prizes in different classes encourages representation. While the introduction of additional start places […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | 2025 Paddle-O | Deer Creek Reservoir – Stark Parks | Sunday, July 20]]></title>
         <id>https://neooc.com/?p=48870</id>
@@ -818,38 +838,6 @@ Victorians on the World Stage – JWOC and WOC Results first appeared on Oriente
         <summary type="html"><![CDATA[Thanks for joining us for the sixth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadget Series results after [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bejmer and Alexandersson lead World Cup after Idre Fjäll]]></title>
-        <id>https://orienteering.sport/?p=78387</id>
-        <link href="https://orienteering.sport/bejmer-and-alexandersson-lead-world-cup-after-idre-fjall/"/>
-        <updated>2025-06-24T08:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Swedish dominance at the top of the 2025 Orienteering World Cup after the first round, which was held in Idre Fjäll, Sweden last week. In the men’s category, it is Saturday’s winner of the middle distance, Max Peter Bejmer, who has taken the lead at the top of the standings, which are dominated by Swedish […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Busy June]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6713</id>
-        <link href="https://www.niorienteering.org.uk/a-busy-june/"/>
-        <updated>2025-06-24T08:27:20.000Z</updated>
-        <summary type="html"><![CDATA[It’s been an active June with no less than 5 Northern Ireland events on 3 successive weekends. The Fixtures & Results>2024 Results page has been updated with all the links including the updated NI Colour Series League standings and NI Urban League standings, calculated by...
-The post A Busy June appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Southern Cross Teams | Only Junior Boys and Junior Girls categories finalised to date]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63656</id>
-        <link href="https://www.orienteering.org.nz/news/2025-southern-cross-teams-only-junior-boys-and-junior-girls-categories-finalised-to-date/"/>
-        <updated>2025-06-24T08:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering New Zealand can confirm that the Junior Boys and Junior Girls categories for the Southern Cross Challenge have been finalised. The Senior Boys and Senior Girls teams are currently being appealed and cannot be finalised until this process has been completed. The ONZ Board has been informed of the appeals and will now convene […]
-2025 Southern Cross Teams | Only Junior Boys and Junior Girls categories finalised to date first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>

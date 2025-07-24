@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78845",
+          "author": "Erling Thisted",
+          "description": "The TrailO Commission invites feedback on a proposal for the introduction of a separate class for U20 athletes at major TrailO championships from 2026 onwards. While TrailO allows competitors with any physical ability, gender and age to compete on equal terms, awarding prizes in different classes encourages representation. While the introduction of additional start places […]",
+          "link": "https://orienteering.sport/feedback-wanted-introduction-of-junior-class-at-trailo-championships/",
+          "publishedOn": "2025-07-23T19:54:07.000Z",
+          "wordCount": 1523,
+          "title": "Feedback wanted: Introduction of Junior class at TrailO championships?",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/wtoc2023_tempo_dandvoracek-1024x683.jpeg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78804",
           "author": "Erling Thisted",
           "description": "The international championships are coming like pearls on a string these weeks, and already on Friday the European Youth Orienteering Championships in Brno, Czechia begin. The championships feature a long distance, a sprint and a relay, all run around Brno in the Moravia region in the southeastern corner of Czechia. There are more than 400 […]",
@@ -144,16 +154,6 @@
           "wordCount": 1693,
           "title": "Follow the JWOC 2025 on IOF TV from Saturday",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/jwoc_2025_news-1024x548.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=78387",
-          "author": "Erling Thisted",
-          "description": "Swedish dominance at the top of the 2025 Orienteering World Cup after the first round, which was held in Idre Fjäll, Sweden last week. In the men’s category, it is Saturday’s winner of the middle distance, Max Peter Bejmer, who has taken the lead at the top of the standings, which are dominated by Swedish […]",
-          "link": "https://orienteering.sport/bejmer-and-alexandersson-lead-world-cup-after-idre-fjall/",
-          "publishedOn": "2025-06-24T08:48:54.000Z",
-          "wordCount": 1693,
-          "title": "Bejmer and Alexandersson lead World Cup after Idre Fjäll",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/2025_bejmer_alexandersson_teromarjamaki-1024x682.jpg"
         }
       ]
     },
@@ -313,6 +313,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23551",
+          "author": "James Gjertsen",
+          "description": "Thanks to all those that came for the finale of the 2025 park race series. It was a fast paced end to the series, that [...]",
+          "link": "https://slow.org.uk/racereports/clapham-common-park-race-results/",
+          "publishedOn": "2025-07-23T20:35:43.000Z",
+          "wordCount": 2128,
+          "title": "Clapham Common Park Race – Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/clapham-common-park-race-results/files/ClaphamCommonO_Aug22.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23524",
           "author": "James Gjertsen",
@@ -569,16 +579,6 @@
           "wordCount": 4686,
           "title": "Euro MTBO journal – part 2  |  Deb Bain & Sally Dickson",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/Deb-sally-part-2-banner.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63656",
-          "author": "Christo Peters",
-          "description": "Orienteering New Zealand can confirm that the Junior Boys and Junior Girls categories for the Southern Cross Challenge have been finalised. The Senior Boys and Senior Girls teams are currently being appealed and cannot be finalised until this process has been completed. The ONZ Board has been informed of the appeals and will now convene […]\n2025 Southern Cross Teams | Only Junior Boys and Junior Girls categories finalised to date first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2025-southern-cross-teams-only-junior-boys-and-junior-girls-categories-finalised-to-date/",
-          "publishedOn": "2025-06-24T08:01:09.000Z",
-          "wordCount": 2491,
-          "title": "2025 Southern Cross Teams | Only Junior Boys and Junior Girls categories finalised to date",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/thumbnail_June25-SthnX-Team-selection.jpg"
         }
       ]
     },
@@ -760,18 +760,7 @@
       "title": "NI Orienteering Association",
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
-      "articles": [
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6713",
-          "author": "NIOA Secretary",
-          "description": "It’s been an active June with no less than 5 Northern Ireland events on 3 successive weekends. The Fixtures & Results>2024 Results page has been updated with all the links including the updated NI Colour Series League standings and NI Urban League standings, calculated by...\nThe post A Busy June appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/a-busy-june/",
-          "publishedOn": "2025-06-24T08:27:20.000Z",
-          "wordCount": 4378,
-          "title": "A Busy June",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2019/11/results.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Orienteering Australia",
