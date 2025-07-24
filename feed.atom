@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T06:16:15.946Z</updated>
+    <updated>2025-07-24T12:20:33.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -828,16 +828,6 @@ Victorians on the World Stage – JWOC and WOC Results first appeared on Oriente
         <summary type="html"><![CDATA[Results | 2025 Tuscazoar Score | 3-Hour Score | Saturday June 21]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannizaro Park Race – Results]]></title>
-        <id>https://slow.org.uk/?p=23495</id>
-        <link href="https://slow.org.uk/racereports/cannizaro-park-race-results/"/>
-        <updated>2025-06-24T22:10:32.000Z</updated>
-        <summary type="html"><![CDATA[Thanks for joining us for the sixth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadget Series results after [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
 </feed>
