@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T12:20:33.959Z</updated>
+    <updated>2025-07-24T18:15:05.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three New Event Controllers Appointed]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6725</id>
+        <link href="https://www.niorienteering.org.uk/three-new-event-controllers-appointed/"/>
+        <updated>2025-07-24T14:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Ciara Largey FermO, Ric Gamble LVO and George Savell LVO who have all met the requirements to be approved to hold a Event Controller Grade C Licence. This is the requirement to act as controller for Grade C events, which are NI Colour...
+The post Three New Event Controllers Appointed appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clapham Common Park Race – Results]]></title>
         <id>https://slow.org.uk/?p=23551</id>
