@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T06:16:16.557Z</updated>
+    <updated>2025-07-25T12:19:45.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -839,26 +839,6 @@ Victorians on the World Stage – JWOC and WOC Results first appeared on Oriente
         <summary type="html"><![CDATA[Yearly, at the Interareas weekend SOA gets the opportunity to ask most of the juniors in Scotland for feedback on […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow the JWOC 2025 on IOF TV from Saturday]]></title>
-        <id>https://orienteering.sport/?p=78457</id>
-        <link href="https://orienteering.sport/follow-the-jwoc-2025-on-iof-tv-from-saturday/"/>
-        <updated>2025-06-25T21:20:10.000Z</updated>
-        <summary type="html"><![CDATA[More than 350 of the world’s best junior orienteers are gathered in Trentino in northern Italy for this year’s Junior World Orienteering Championships next week. Five distances await here – first the fast disciplines Sprint Relay and Sprint on Saturday and Sunday before the competitions move into the forest from Monday, where the hilly long […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Dulwich Park]]></title>
-        <id>https://slow.org.uk/?p=23509</id>
-        <link href="https://slow.org.uk/events/park-race-dulwich-park/"/>
-        <updated>2025-06-25T19:05:49.000Z</updated>
-        <summary type="html"><![CDATA[The eighth race in the 2025 Park Race series will be at Dulwich Park, south London, for the first time in several years. Join us on [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
 </feed>
