@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=78866",
+          "author": "Erling Thisted",
+          "description": "The 2025 European Universities Orienteering Championships kick off Friday morning in Lodz, Poland. 146 athletes from 15 different countries are participating in the championships, which are being organized by the Polish organizers and the local club in Lodz and are being held under the auspices of EUSA – University Sports Europe, where orienteering has been […]",
+          "link": "https://orienteering.sport/euoc-2025-kick-off-friday-morning-i-poland/",
+          "publishedOn": "2025-07-24T22:14:45.000Z",
+          "wordCount": 1436,
+          "title": "EUOC 2025 kick off Friday morning in Poland",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/euoc2025_logo-1024x576.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=78851",
+          "author": "Erling Thisted",
+          "description": "The third edition of the IOF Young Leaders Academy (YLA) took place in mid-July alongside the popular 5 Days Italy orienteering event, bringing together 29 young leaders from 17 different nations. Designed for orienteers aged 16–25, the YLA offers a unique blend of competitive experience, leadership training, and international networking. Each day, participants competed in […]",
+          "link": "https://orienteering.sport/yla-2025-brought-together-29-young-orienteering-leaders-from-17-nations/",
+          "publishedOn": "2025-07-24T20:34:59.000Z",
+          "wordCount": 1489,
+          "title": "YLA 2025 brought together 29 young leaders",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/yla2025-1-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=78845",
           "author": "Erling Thisted",
           "description": "The TrailO Commission invites feedback on a proposal for the introduction of a separate class for U20 athletes at major TrailO championships from 2026 onwards. While TrailO allows competitors with any physical ability, gender and age to compete on equal terms, awarding prizes in different classes encourages representation. While the introduction of additional start places […]",
@@ -577,6 +597,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=48903",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Orienteering 101 | Richfield Heritage Preserve – Summit County | Saturday, August 16th",
+          "link": "https://neooc.com/new-event-orienteering-101-richfield-heritage-preserve-summit-county-saturday-august-16th/",
+          "publishedOn": "2025-07-24T19:15:16.000Z",
+          "wordCount": 1528,
+          "title": "New Event | Orienteering 101 | Richfield Heritage Preserve – Summit County | Saturday, August 16th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
         {
           "id": "https://neooc.com/?p=48870",
           "author": "Northeast Ohio Orienteering Club",

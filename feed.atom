@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T18:15:05.491Z</updated>
+    <updated>2025-07-25T00:53:20.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EUOC 2025 kick off Friday morning in Poland]]></title>
+        <id>https://orienteering.sport/?p=78866</id>
+        <link href="https://orienteering.sport/euoc-2025-kick-off-friday-morning-i-poland/"/>
+        <updated>2025-07-24T22:14:45.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 European Universities Orienteering Championships kick off Friday morning in Lodz, Poland. 146 athletes from 15 different countries are participating in the championships, which are being organized by the Polish organizers and the local club in Lodz and are being held under the auspices of EUSA – University Sports Europe, where orienteering has been […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YLA 2025 brought together 29 young leaders]]></title>
+        <id>https://orienteering.sport/?p=78851</id>
+        <link href="https://orienteering.sport/yla-2025-brought-together-29-young-orienteering-leaders-from-17-nations/"/>
+        <updated>2025-07-24T20:34:59.000Z</updated>
+        <summary type="html"><![CDATA[The third edition of the IOF Young Leaders Academy (YLA) took place in mid-July alongside the popular 5 Days Italy orienteering event, bringing together 29 young leaders from 17 different nations. Designed for orienteers aged 16–25, the YLA offers a unique blend of competitive experience, leadership training, and international networking. Each day, participants competed in […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Event | Orienteering 101 | Richfield Heritage Preserve – Summit County | Saturday, August 16th]]></title>
+        <id>https://neooc.com/?p=48903</id>
+        <link href="https://neooc.com/new-event-orienteering-101-richfield-heritage-preserve-summit-county-saturday-august-16th/"/>
+        <updated>2025-07-24T19:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering 101 | Richfield Heritage Preserve – Summit County | Saturday, August 16th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three New Event Controllers Appointed]]></title>
         <id>https://www.niorienteering.org.uk/?p=6725</id>
