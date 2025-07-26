@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T12:17:50.984Z</updated>
+    <updated>2025-07-26T18:13:48.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -838,17 +838,6 @@ JWOC 2025 SPRINT RELAY first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[Czechia took the first set of gold medals at the Junior World Orienteering Championships Saturday afternoon in Trentino, Italy. The team, consisting of Hana Vitkova, Daniel Bolehovsky, Tomas Urbanek and Lucie Dittrichova was among the leading teams all through the relay and on the final leg, Dittrichova was sent out with a small lead. After […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians on the World Stage – JWOC and WOC Results]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14616</id>
-        <link href="https://www.vicorienteering.asn.au/milla-and-henri-off-to-jwoc/"/>
-        <updated>2025-06-27T05:09:04.000Z</updated>
-        <summary type="html"><![CDATA[It's JWOC time!  Follow Henri and Milla's progress as they race in the Sprint, Middle Distance, Long Distance, and Relays, in Trentino, Italy. The Aussies kicked off their campaign in fine style, placing 6th in the exciting Sprint Relay, led out by Milla.
-Victorians on the World Stage – JWOC and WOC Results first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
