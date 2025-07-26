@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T06:14:10.657Z</updated>
+    <updated>2025-07-26T12:17:50.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup 3 | Team Finalised]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63905</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-3-team-finalised/"/>
+        <updated>2025-07-26T08:00:36.000Z</updated>
+        <summary type="html"><![CDATA[The ONZ Senior Selection Panel have named the following athletes to compete in WC3 in Uster, Switerland, September 26-28 2025 has now been finalised: Women Amber Riddle Laura Robertson Men Jakob Knoef Tim Robertson Will Tidswell
+World Cup 3 | Team Finalised first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUOC 2025 kick off Friday morning in Poland]]></title>
         <id>https://orienteering.sport/?p=78866</id>
