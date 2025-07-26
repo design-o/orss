@@ -230,6 +230,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14819",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vale-allan-miller/",
+          "publishedOn": "2025-07-20T07:17:30.000Z",
+          "wordCount": 972,
+          "title": "Vale Allan Miller (1936-2025)",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14453",
           "author": "Debbie Dodd",
           "description": "There are two more fantastic MelbushO events coming up in August, at Jells Park and Yarra Flats. Don't miss them!\nMelBushO In August first appeared on Orienteering Victoria.",
@@ -733,16 +743,6 @@
           "wordCount": 2419,
           "title": "Join the Scottish Orienteering Leadership Team: Seeking Nominations to the SOA And Six Days’ Boards",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/Orienteering-flag-compass-and-map-1024x683-1.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55923",
-          "author": "heidi",
-          "description": "Yearly, at the Interareas weekend SOA gets the opportunity to ask most of the juniors in Scotland for feedback on […]",
-          "link": "https://www.scottish-orienteering.org/news/junior-feedback-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=junior-feedback-june-2025",
-          "publishedOn": "2025-06-26T08:06:32.000Z",
-          "wordCount": 1731,
-          "title": "Junior Feedback June 2025",
-          "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGI6zAP8m51VtZaR5AxO0QiYe19aFFM3ul0WfdAqS1LW3z8krrdsT31vrC3L2x0jxNg9lIGwmFu9CjzHCNrBNar6QtAW_DOvVXHwhMuilDGZCcyqwvhMppyEknVZr4BhHpqZH9bg?key=N9PWJn7-xdQBWWxPDGCSeA"
         }
       ]
     },
