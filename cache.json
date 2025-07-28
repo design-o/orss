@@ -164,16 +164,6 @@
           "wordCount": 1542,
           "title": "JWOC Sprint: Golds for Sannwald (SUI) and Ingierd (NOR)",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/jwoc_2025_news-1024x548.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=78478",
-          "author": "Erling Thisted",
-          "description": "Czechia took the first set of gold medals at the Junior World Orienteering Championships Saturday afternoon in Trentino, Italy. The team, consisting of Hana Vitkova, Daniel Bolehovsky, Tomas Urbanek and Lucie Dittrichova was among the leading teams all through the relay and on the final leg, Dittrichova was sent out with a small lead. After […]",
-          "link": "https://orienteering.sport/czechia-won-jwoc-sprint-relay/",
-          "publishedOn": "2025-06-28T16:40:30.000Z",
-          "wordCount": 1449,
-          "title": "Czechia won JWOC Sprint Relay",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/06/jwoc_2025_news-1024x548.jpg"
         }
       ]
     },
@@ -239,6 +229,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14892",
+          "author": "Debbie Dodd",
+          "description": "Diamonds are forever!  Vic Series 7 sees the first Australian use of a diamond forking system. This is your chance to try this fantastic new format\nVic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vic-series-7-sunday-august-17-nuggety-range-maldon-diamonds-are-forever/",
+          "publishedOn": "2025-07-28T04:31:10.000Z",
+          "wordCount": 1154,
+          "title": "Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14819",
           "author": "Debbie Dodd",
