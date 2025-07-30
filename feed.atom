@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T06:17:55.572Z</updated>
+    <updated>2025-07-30T12:21:05.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -817,16 +817,6 @@ ACT Champs  |  18-19 October 2025 first appeared on Orienteering New Zealand.
 Euro MTBO journal – part 2  |  Deb Bain & Sally Dickson first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Long: Golds for Hjerne (SWE) and Bolehovsky (CZE)]]></title>
-        <id>https://orienteering.sport/?p=78495</id>
-        <link href="https://orienteering.sport/jwoc-long-golds-for-hjerne-swe-and-bolehovsky-cze/"/>
-        <updated>2025-06-30T19:32:30.000Z</updated>
-        <summary type="html"><![CDATA[The athletes at the Junior World Orienteering Championships said goodbye to the sprint disciplines and started the forest distances on Monday morning. Here the tough long distance awaited – 8.0 kilometers with 410 meters of climb and 10.0 kilometers (500 meters climb) for the women and men respectively. It was perhaps a few degrees colder […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
