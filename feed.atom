@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T18:14:52.735Z</updated>
+    <updated>2025-07-31T00:54:24.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -620,15 +620,6 @@ Park Street Update, July 8-14 first appeared on Orienteering Victoria.]]></summa
         <summary type="html"><![CDATA[Strong governance is the essential foundation of the success and sustainability of Scottish Orienteering and so our sport. It’s vital […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale Bill Johnson]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14819</id>
-        <link href="https://www.vicorienteering.asn.au/vale-bill-johnson/"/>
-        <updated>2025-07-01T07:17:30.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
