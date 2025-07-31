@@ -278,16 +278,6 @@
           "wordCount": 1163,
           "title": "Learn to Orienteer in Melbourne in August",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Find out what's on at this week's Park Street events\nPark Street Update, July 8-14 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2025-07-02T00:41:54.000Z",
-          "wordCount": 1096,
-          "title": "Park Street Update, July 8-14",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -296,6 +286,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21300",
+          "author": "Deirdre",
+          "description": "August 11th – 17th 2025 Her Outdoors Week celebrates and encourages females to get out and enjoy the benefits of the outdoors! It’s a fantastic week for Orienteering Ireland to engage with our clubs and the network of local sports partnerships. Our wonderful team of regional development officers and instructors deliver on a variety of […]",
+          "link": "https://www.orienteering.ie/her-outdoors-week-2025/",
+          "publishedOn": "2025-07-31T17:30:27.000Z",
+          "wordCount": 927,
+          "title": "Her Outdoors Week 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=21176",
           "author": "Operations Manager",
