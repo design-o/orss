@@ -230,6 +230,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Find out what's on at this week's Park Street events\nPark Street Update, July 29-August 3 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-07-27T00:41:54.000Z",
+          "wordCount": 1082,
+          "title": "Park Street Update, July 29-August 3",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14819",
           "author": "Debbie Dodd",
           "description": "",
@@ -267,16 +277,6 @@
           "publishedOn": "2025-07-05T03:22:51.000Z",
           "wordCount": 1017,
           "title": "Bendigo Bush Orienteering in July",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14829",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne-in-august/",
-          "publishedOn": "2025-07-02T07:33:54.000Z",
-          "wordCount": 1163,
-          "title": "Learn to Orienteer in Melbourne in August",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -713,16 +713,6 @@
           "wordCount": 1787,
           "title": "Northern event sees movement in the Inter Club Champs rankings",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55919",
-          "author": "louise",
-          "description": "By Louise Adams – SOA Lead Development Officer Scotland’s junior orienteers turned out in force for the annual Jamie Stevenson […]",
-          "link": "https://www.scottish-orienteering.org/news/juniors-shine-at-the-2025-jamie-stevenson-trophy/?utm_source=rss&utm_medium=rss&utm_campaign=juniors-shine-at-the-2025-jamie-stevenson-trophy",
-          "publishedOn": "2025-07-02T11:51:59.000Z",
-          "wordCount": 2363,
-          "title": "Juniors Shine at the 2025 Jamie Stevenson Trophy",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/508169170_1276053631193353_5513909703566073796_n-1024x768.jpg"
         }
       ]
     },

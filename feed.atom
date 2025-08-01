@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T18:15:27.837Z</updated>
+    <updated>2025-08-01T01:00:41.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -252,6 +252,17 @@ Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever f
         <summary type="html"><![CDATA[The IOF’s IT Commission is planning an open meeting on the use of technology in orienteering. The meeting is scheduled to be held in October 2025 as an on-line meeting, so you can participate from anywhere in the world. The agenda is planned to have 5-10 topics and last a couple of hours.  Topics can […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, July 29-August 3]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2025-07-27T00:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
+Park Street Update, July 29-August 3 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -777,25 +788,6 @@ JWOC 2025 LONG first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[On the last individual race day at the 2025 Junior World Orienteering Championships, Hungary’s Marton Csoboth and the Czechia’s Viktorie Skachova emerged as the strongest competitors in the demanding middle distance race. The area around the Laghestel Biotope near Baselga di Piné set the stage for a dramatic contest in the somewhat dense and technical […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juniors Shine at the 2025 Jamie Stevenson Trophy]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55919</id>
-        <link href="https://www.scottish-orienteering.org/news/juniors-shine-at-the-2025-jamie-stevenson-trophy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juniors-shine-at-the-2025-jamie-stevenson-trophy"/>
-        <updated>2025-07-02T11:51:59.000Z</updated>
-        <summary type="html"><![CDATA[By Louise Adams – SOA Lead Development Officer Scotland’s junior orienteers turned out in force for the annual Jamie Stevenson […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Orienteer in Melbourne in August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14829</id>
-        <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne-in-august/"/>
-        <updated>2025-07-02T07:33:54.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
