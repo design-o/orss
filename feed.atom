@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T06:19:05.030Z</updated>
+    <updated>2025-08-01T12:20:34.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -222,6 +222,17 @@ Levelling the playing field | Orienteering analysis first appeared on Orienteeri
 Embargo Notice | 2025 Tūāraki Regional Champs first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Orienteer in Melbourne in August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14829</id>
+        <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne-in-august/"/>
+        <updated>2025-07-29T05:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Sign up for our 4 week Learn To Orienteer program, over 4 weekends in August
+Learn to Orienteer in Melbourne in August first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -778,16 +789,6 @@ JWOC 2025 MIDDLE first appeared on Orienteering Australia.]]></summary>
 JWOC 2025 LONG first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Middle: Csoboth (HUN) and Skachova (CZE) won exciting races]]></title>
-        <id>https://orienteering.sport/?p=78505</id>
-        <link href="https://orienteering.sport/jwoc-middle-csoboth-hun-and-skachova-cze-won-exciting-races/"/>
-        <updated>2025-07-02T19:18:07.000Z</updated>
-        <summary type="html"><![CDATA[On the last individual race day at the 2025 Junior World Orienteering Championships, Hungary’s Marton Csoboth and the Czechia’s Viktorie Skachova emerged as the strongest competitors in the demanding middle distance race. The area around the Laghestel Biotope near Baselga di Piné set the stage for a dramatic contest in the somewhat dense and technical […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
