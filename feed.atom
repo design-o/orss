@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T00:51:42.914Z</updated>
+    <updated>2025-08-02T06:14:07.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -755,16 +755,6 @@ Bendigo Bush Orienteering in July first appeared on Orienteering Victoria.]]></s
         <link href="https://orienteering.sport/world-orienteering-championships-kick-off-in-finland-on-tuesday/"/>
         <updated>2025-07-03T20:09:36.000Z</updated>
         <summary type="html"><![CDATA[Finally, it’s time for the highlight of the 2025 international orienteering season, when the World Orienteering Championships begin in Kuopio, Finland on Tuesday. 274 athletes from 45 nations are ready to compete for the most prestigious titles in the world of orienteering over three forest distances during the week. In the technically and physically demanding […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Relay: Sweden and Switzerland take final golds in Trentino]]></title>
-        <id>https://orienteering.sport/?p=78521</id>
-        <link href="https://orienteering.sport/jwoc-relay-sweden-and-switzerland-take-final-golds-in-trentino/"/>
-        <updated>2025-07-03T15:29:49.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 Junior World Orienteering Championships (JWOC) concluded on a high note in Baselga di Piné, Italy, with Sweden and Switzerland claiming the final relay titles in the men’s and women’s events after a week-long festival of youth sport with 350 athletes from 41 nations. In the men’s Forest Relay, Sweden’s Hannes Mogensen delivered a […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
