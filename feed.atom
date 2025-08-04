@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T06:22:24.816Z</updated>
+    <updated>2025-08-04T12:21:22.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -726,17 +726,6 @@ Vic Series, Irishtown, July 27 – Entries Now Open first appeared on Orienteeri
         <summary type="html"><![CDATA[The 2025 World Orienteering Championships in Finland are just around the corner and can be followed through IOF LIVE and IOF TV. In the IOF Podcast, we had a chance to talk to home nation’s Ida Haapala about qualifying for the championships on home soil, having Thierry Gueorgiou as coach and her expectations for the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC 2025 FOREST RELAY]]></title>
-        <id>https://orienteering.asn.au/?p=14321</id>
-        <link href="https://orienteering.asn.au/jwoc-2025-forest-relay/"/>
-        <updated>2025-07-05T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JWOC 2025 comes to a close with a spirited effort in the relay competition.
-JWOC 2025 FOREST RELAY first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
