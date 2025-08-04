@@ -180,6 +180,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14769",
+          "author": "Margi Freemantle",
+          "description": "Enjoy the beautiful Bendigo bush on a Saturday afternoon\nBendigo Bush Orienteering, August 9 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/bendigo-bush-orienteering-in-july/",
+          "publishedOn": "2025-08-01T03:22:51.000Z",
+          "wordCount": 1017,
+          "title": "Bendigo Bush Orienteering, August 9",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14829",
           "author": "Debbie Dodd",
           "description": "Sign up for our 4 week Learn To Orienteer program, over 4 weekends in August\nLearn to Orienteer in Melbourne in August first appeared on Orienteering Victoria.",
@@ -539,16 +549,6 @@
           "wordCount": 2386,
           "title": "Passing of Richard Carmichael (Burbridge)",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/Screenshot-537.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63836",
-          "author": "Christo Peters",
-          "description": "ONZ is pleased to be able to confirm that the full Southern Cross Team has been finalised. Please note that new reserves have been added for the Senior Boys and Junior Girls. Full Southern Cross Team Team Management: Managers: Susy Carryer, Lara Malloy, Kathryn Chrystal Coaches: Tane Cambridge, Michael Croxford, Nathan Borton Karahiwi Senior Boys: […]\nFull Southern Cross Team Finalised first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/full-southern-cross-team-finalised/",
-          "publishedOn": "2025-07-05T07:00:07.000Z",
-          "wordCount": 2322,
-          "title": "Full Southern Cross Team Finalised",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/06/thumbnail_June25-SthnX-Team-selection.jpg"
         }
       ]
     },
