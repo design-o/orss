@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T00:55:45.552Z</updated>
+    <updated>2025-08-05T06:18:33.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -716,16 +716,6 @@ Vic Series, Irishtown, July 27 – Entries Now Open first appeared on Orienteeri
         <summary type="html"><![CDATA[Interesting and varied orienteering is expected when the 2025 World Orienteering Championship starts in Kuopio, Finland on Tuesday July 8th with a Middle Qualification race. The action continues with three TV-broadcast forest races from Wednesday to Saturday: Middle Final on Wednesday, Long Final on Thursday and Relay on Saturday. The Kuopio region in Northern Savonia offers classic ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Ida Haapala on running home WOC and having Thierry Gueorgiou as a coach]]></title>
-        <id>https://orienteering.sport/?p=78538</id>
-        <link href="https://orienteering.sport/podcast-ida-haapala-on-running-home-woc-and-having-thierry-gueorgiou-as-a-coach/"/>
-        <updated>2025-07-06T13:26:01.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 World Orienteering Championships in Finland are just around the corner and can be followed through IOF LIVE and IOF TV. In the IOF Podcast, we had a chance to talk to home nation’s Ida Haapala about qualifying for the championships on home soil, having Thierry Gueorgiou as coach and her expectations for the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
