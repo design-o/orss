@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T06:18:33.406Z</updated>
+    <updated>2025-08-05T12:21:33.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet our new RDO]]></title>
+        <id>https://www.orienteering.ie/?p=21331</id>
+        <link href="https://www.orienteering.ie/meet-our-new-rdo-2/"/>
+        <updated>2025-08-05T07:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sara Mason has joined our team as our new RDO for the Border, Midland & Western area. Sara is an active member of FermO and enjoys any time she spends on a map! Sara has also previously delivered many OI programmes such as Ready To Go and ParkO as a Level 1 Orienteering Instructor over the […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONZ CHAMPIONSHIPS 2026 – EMBARGOED AREAS]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64032</id>
