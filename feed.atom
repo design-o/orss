@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T12:21:33.423Z</updated>
+    <updated>2025-08-05T18:16:37.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -716,16 +716,6 @@ Passing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zea
 Vic Series, Irishtown, July 27 – Entries Now Open first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2025: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=20768</id>
-        <link href="https://news.worldofo.com/2025/07/07/woc-2025-all-you-need-to-know/"/>
-        <updated>2025-07-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interesting and varied orienteering is expected when the 2025 World Orienteering Championship starts in Kuopio, Finland on Tuesday July 8th with a Middle Qualification race. The action continues with three TV-broadcast forest races from Wednesday to Saturday: Middle Final on Wednesday, Long Final on Thursday and Relay on Saturday. The Kuopio region in Northern Savonia offers classic ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
