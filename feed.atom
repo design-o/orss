@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T18:16:37.765Z</updated>
+    <updated>2025-08-06T00:54:41.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -695,27 +695,6 @@ Passing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zea
 2025 World Orienteering Championships – Schedule first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Arpad Kocsik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to follow the World Orienteering Championships]]></title>
-        <id>https://orienteering.sport/?p=78545</id>
-        <link href="https://orienteering.sport/how-to-follow-the-world-orienteering-championships-2/"/>
-        <updated>2025-07-07T07:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Over the next week, the world’s most prestigious orienteering competition will take place – the World Orienteering Championships in Kuopio, Finland. And you have great opportunities to follow it whether you are at the arenas in Kuopio or at home. At the arenas: Find the program and tickets for the arenas on the WOC 2025 […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series, Irishtown, July 27 – Entries Now Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14798</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-irishtown-july-27-entries-now-open/"/>
-        <updated>2025-07-07T07:08:35.000Z</updated>
-        <summary type="html"><![CDATA[The next Vic Series is at Irishtown on Sunday 27 July. Get your entry in!
-Vic Series, Irishtown, July 27 – Entries Now Open first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
