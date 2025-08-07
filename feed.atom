@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T06:17:49.306Z</updated>
+    <updated>2025-08-07T12:21:39.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -675,26 +675,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
 Passing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dulwich Park Race – Results]]></title>
-        <id>https://slow.org.uk/?p=23518</id>
-        <link href="https://slow.org.uk/racereports/dulwich-park-race-results/"/>
-        <updated>2025-07-08T21:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Thanks for joining us for the eighth race in the series. Results from the event: Results (pdf) Results – SPORTident WinSplits Routegadet Series results after [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2025 Middle Qual: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=20785</id>
-        <link href="https://news.worldofo.com/2025/07/08/woc-2025-middle-qual-maps-and-results/"/>
-        <updated>2025-07-08T20:30:46.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 World Orienteering Championships started off on Tuesday in Kuopio, Finland with a challenging Middle distance qualification at the Tahko ski resort Tuesday morning. All the big favorites made it safely through to Wednesday’s final, but the technical Finnish terrain served up lots of challenging orienteering.  The final will use different very terrain from the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
