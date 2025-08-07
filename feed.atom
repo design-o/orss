@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T12:21:39.459Z</updated>
+    <updated>2025-08-07T18:15:52.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -664,17 +664,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
         <summary type="html"><![CDATA[Norway’s Eirik Langedal Breivik and Sweden’s Tove Alexandersson won the first gold medals at the World Orienteering Championships in Finland, when the middle distance was run on Wednesday afternoon. It took place in the forest terrain of Neulamäki close to the host city of Kuopio in a technically demanding terrain with many details to keep […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passing of Richard Carmichael (Burbridge)]]></title>
-        <id>https://www.orienteering.org.nz/?p=63844</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/passing-of-richard-carmichael-burbridge/"/>
-        <updated>2025-07-08T23:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Dick and his wife Trish were very involved in orienteering in New Zealand in the 1970s and were key members of the what is now Orienteering Bay of Plenty (formerly Rotorua). Dick made many of the early maps for the area including a map for the New Zealand Championship and the Australian v New Zealand Challenge. […]
-Passing of Richard Carmichael (Burbridge) first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
