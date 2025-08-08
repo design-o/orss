@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T00:55:00.665Z</updated>
+    <updated>2025-08-08T06:17:52.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -654,16 +654,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
         <summary type="html"><![CDATA[Eirik Langedal Breivik (Norway) and Tove Alexandersson (Sweden) won the World Orienteering Championships (WOC) Middle distance in Kuopio, Finland on Wednesday.  This was a big day for Sweden and Norway with four Swedish and two Norwegian medals. All three medals in the women’s class went to Sweden – Sanna Fast taking her first international championships ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC Middle: First gold for Langedal Breivik, 22nd for Alexandersson]]></title>
-        <id>https://orienteering.sport/?p=78645</id>
-        <link href="https://orienteering.sport/woc-middle-first-gold-for-langedal-breivik-22nd-for-alexandersson/"/>
-        <updated>2025-07-09T17:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Norway’s Eirik Langedal Breivik and Sweden’s Tove Alexandersson won the first gold medals at the World Orienteering Championships in Finland, when the middle distance was run on Wednesday afternoon. It took place in the forest terrain of Neulamäki close to the host city of Kuopio in a technically demanding terrain with many details to keep […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
