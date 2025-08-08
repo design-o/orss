@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79087",
+          "author": "Erling Thisted",
+          "description": "Three “new” nations can boast of having won a World Games medal in orienteering after Friday’s middle distance race kicked off the Games in Chengdu, China. Slovakia, Italy and Canada joined the exclusive club on a day when the gold medals went to Swiss Riccardo Rancan and Simona Aebersold, who received the very first golds […]",
+          "link": "https://orienteering.sport/first-ever-world-games-medals-in-orienteering-for-canada-slovakia-and-italy/",
+          "publishedOn": "2025-08-08T11:24:42.000Z",
+          "wordCount": 1777,
+          "title": "First ever World Games medals in orienteering for Canada, Slovakia and Italy",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_twg_middle_riccardo_rancan_erlingthisted_-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79011",
           "author": "Erling Thisted",
           "description": "80 athletes from 24 different federations will have a huge experience this week, where orienteering is once again part of the World Games, which this year takes place in Chengdu, China. From August 7th to 17th, around 4000 athletes are gathered in the Chinese city of millions, where they will compete in 34 different sports […]",
@@ -648,6 +658,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14407",
+          "author": "Elizabeth L",
+          "description": "Our Aussie team of Caitlin Young, Milla Key, Angus Haines, Alastair George and Ben Rattray (Team Leader) have arrived in Chengdu, China to compete in the 2025 World Games.\nWorld Games 2025 Has Begun! first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-games-2025-has-begun/",
+          "publishedOn": "2025-08-08T11:24:27.000Z",
+          "wordCount": 2403,
+          "title": "World Games 2025 Has Begun!",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14378",
           "author": "Elizabeth L",
