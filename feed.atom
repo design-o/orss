@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T12:20:56.943Z</updated>
+    <updated>2025-08-08T18:12:54.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Statement on Injured Orienteering Athlete – The World Games 2025]]></title>
+        <id>https://orienteering.sport/?p=79099</id>
+        <link href="https://orienteering.sport/statement-on-injured-orienteering-athlete-the-world-games-2025/"/>
+        <updated>2025-08-08T15:31:31.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation (IOF), the Local Organising Committee (LOC), and the International World Games Association (IWGA) are carefully monitoring the incident involving athlete Mattia Debertolis (ITA). We are following closely the situation and will communicate further in due course. The athlete is currently receiving the best treatment from experts from one of the top […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Masters Orienteering Championships 2025 kick off in Girona]]></title>
+        <id>https://orienteering.sport/?p=79096</id>
+        <link href="https://orienteering.sport/world-masters-orienteering-championships-2025-kick-off-in-girona/"/>
+        <updated>2025-08-08T15:13:57.000Z</updated>
+        <summary type="html"><![CDATA[The city of Girona in Spain is set to welcome orienteering enthusiasts from around the globe as the World Masters Orienteering Championships (WMOC) 2025 officially begin this Saturday, August 9. More than 2300 athletes aged 35 and over arriving from 47 countries, the historic Catalan city will become the epicenter of international masters-level orienteering for […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First ever World Games medals in orienteering for Canada, Slovakia and Italy]]></title>
         <id>https://orienteering.sport/?p=79087</id>
@@ -665,16 +685,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
         <summary type="html"><![CDATA[The 6th event of the 2025 Scottish Inter Club Championships saw Inverness Orienteering Club (INVOC) host a regional event in […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2025 Middle: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=20817</id>
-        <link href="https://news.worldofo.com/2025/07/10/woc-2025-middle-maps-results-and-analysis/"/>
-        <updated>2025-07-10T03:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Eirik Langedal Breivik (Norway) and Tove Alexandersson (Sweden) won the World Orienteering Championships (WOC) Middle distance in Kuopio, Finland on Wednesday.  This was a big day for Sweden and Norway with four Swedish and two Norwegian medals. All three medals in the women’s class went to Sweden – Sanna Fast taking her first international championships ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79099",
+          "author": "Erling Thisted",
+          "description": "The International Orienteering Federation (IOF), the Local Organising Committee (LOC), and the International World Games Association (IWGA) are carefully monitoring the incident involving athlete Mattia Debertolis (ITA). We are following closely the situation and will communicate further in due course. The athlete is currently receiving the best treatment from experts from one of the top […]",
+          "link": "https://orienteering.sport/statement-on-injured-orienteering-athlete-the-world-games-2025/",
+          "publishedOn": "2025-08-08T15:31:31.000Z",
+          "wordCount": 1386,
+          "title": "Statement on Injured Orienteering Athlete – The World Games 2025",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=79096",
+          "author": "Erling Thisted",
+          "description": "The city of Girona in Spain is set to welcome orienteering enthusiasts from around the globe as the World Masters Orienteering Championships (WMOC) 2025 officially begin this Saturday, August 9. More than 2300 athletes aged 35 and over arriving from 47 countries, the historic Catalan city will become the epicenter of international masters-level orienteering for […]",
+          "link": "https://orienteering.sport/world-masters-orienteering-championships-2025-kick-off-in-girona/",
+          "publishedOn": "2025-08-08T15:13:57.000Z",
+          "wordCount": 1509,
+          "title": "World Masters Orienteering Championships 2025 kick off in Girona",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2022/10/logo_wmoc25_spain-1024x1024.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79087",
           "author": "Erling Thisted",
           "description": "Three “new” nations can boast of having won a World Games medal in orienteering after Friday’s middle distance race kicked off the Games in Chengdu, China. Slovakia, Italy and Canada joined the exclusive club on a day when the gold medals went to Swiss Riccardo Rancan and Simona Aebersold, who received the very first golds […]",
@@ -121,16 +141,6 @@
           "wordCount": 2649,
           "title": "WOC 2025 Long: Maps, Results and Analysis",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/07/wocwomen2025long-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=20817",
-          "author": "Jan Kocbach",
-          "description": "Eirik Langedal Breivik (Norway) and Tove Alexandersson (Sweden) won the World Orienteering Championships (WOC) Middle distance in Kuopio, Finland on Wednesday.  This was a big day for Sweden and Norway with four Swedish and two Norwegian medals. All three medals in the women’s class went to Sweden – Sanna Fast taking her first international championships ...",
-          "link": "https://news.worldofo.com/2025/07/10/woc-2025-middle-maps-results-and-analysis/",
-          "publishedOn": "2025-07-10T03:00:42.000Z",
-          "wordCount": 2322,
-          "title": "WOC 2025 Middle: Maps, Results and Analysis",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/07/leg_01-535x330.jpg"
         }
       ]
     },
