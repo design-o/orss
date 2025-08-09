@@ -623,26 +623,6 @@
           "wordCount": 2843,
           "title": "Organisers’ workshops – autumn / winter 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55967",
-          "author": "nikkihoward",
-          "description": "The June session in the SOA’s monthly online Community Conversations series focused on supporting inclusion and wellbeing. The session was […]",
-          "link": "https://www.scottish-orienteering.org/news/june-community-conversation-follow-up-supporting-inclusion-wellbeing/?utm_source=rss&utm_medium=rss&utm_campaign=june-community-conversation-follow-up-supporting-inclusion-wellbeing",
-          "publishedOn": "2025-07-10T12:14:20.000Z",
-          "wordCount": 2172,
-          "title": "June Community Conversation Follow-Up: Supporting Inclusion & Wellbeing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=55964",
-          "author": "nikkihoward",
-          "description": "The 6th event of the 2025 Scottish Inter Club Championships saw Inverness Orienteering Club (INVOC) host a regional event in […]",
-          "link": "https://www.scottish-orienteering.org/news/northern-event-sees-movement-in-the-inter-club-champs-rankings/?utm_source=rss&utm_medium=rss&utm_campaign=northern-event-sees-movement-in-the-inter-club-champs-rankings",
-          "publishedOn": "2025-07-10T11:19:10.000Z",
-          "wordCount": 1787,
-          "title": "Northern event sees movement in the Inter Club Champs rankings",
-          "imageUrl": null
         }
       ]
     },
@@ -668,6 +648,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14401",
+          "author": "Elizabeth L",
+          "description": "The Australia trio is on their way to Poland for the World MTBO Championships from 11-17 August.\nWorld MTBO Championships first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/world-mtbo-championships/",
+          "publishedOn": "2025-08-09T00:00:00.000Z",
+          "wordCount": 2571,
+          "title": "World MTBO Championships",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14407",
           "author": "Elizabeth L",

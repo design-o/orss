@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T18:12:54.091Z</updated>
+    <updated>2025-08-09T00:49:32.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World MTBO Championships]]></title>
+        <id>https://orienteering.asn.au/?p=14401</id>
+        <link href="https://orienteering.asn.au/world-mtbo-championships/"/>
+        <updated>2025-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Australia trio is on their way to Poland for the World MTBO Championships from 11-17 August.
+World MTBO Championships first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statement on Injured Orienteering Athlete – The World Games 2025]]></title>
         <id>https://orienteering.sport/?p=79099</id>
@@ -665,26 +676,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
         <summary type="html"><![CDATA[We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June Community Conversation Follow-Up: Supporting Inclusion & Wellbeing]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55967</id>
-        <link href="https://www.scottish-orienteering.org/news/june-community-conversation-follow-up-supporting-inclusion-wellbeing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=june-community-conversation-follow-up-supporting-inclusion-wellbeing"/>
-        <updated>2025-07-10T12:14:20.000Z</updated>
-        <summary type="html"><![CDATA[The June session in the SOA’s monthly online Community Conversations series focused on supporting inclusion and wellbeing. The session was […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northern event sees movement in the Inter Club Champs rankings]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55964</id>
-        <link href="https://www.scottish-orienteering.org/news/northern-event-sees-movement-in-the-inter-club-champs-rankings/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=northern-event-sees-movement-in-the-inter-club-champs-rankings"/>
-        <updated>2025-07-10T11:19:10.000Z</updated>
-        <summary type="html"><![CDATA[The 6th event of the 2025 Scottish Inter Club Championships saw Inverness Orienteering Club (INVOC) host a regional event in […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
