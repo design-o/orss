@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T12:17:55.576Z</updated>
+    <updated>2025-08-09T18:13:29.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -657,16 +657,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
         <summary type="html"><![CDATA[Sweden’s women and Norway’s men became world champions when the relays concluded the World Orienteering Championships in Finland on Saturday afternoon. Under a blazing sun, the women set off first below the ski jump hills and the iconic Puijo Tower and began a physically demanding relay. Sweden was the pre-favourite and first-leg runner Hanna Lundberg […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2025 Long: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=20937</id>
-        <link href="https://news.worldofo.com/2025/07/11/woc-2025-long-maps-results-and-analysis/"/>
-        <updated>2025-07-11T03:00:09.000Z</updated>
-        <summary type="html"><![CDATA[[Including comparisons for all legs] Reigning World Champions Simona Aebersold (Switzerland) and Kasper Fosser (Norway) both defended their titles from Switzerland in 2023 over the long distance at the 2025 World Orienteering Championships (WOC) in Kuopio, Finland. For Aebersold the margin was only 9 seconds after a thriller finish – while Fosser’s margin increased meter ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
