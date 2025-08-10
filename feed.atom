@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T06:14:41.121Z</updated>
+    <updated>2025-08-10T12:18:18.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Games: Sprint medals for Hungary and Spain, while Aebersold and Michiels claimed golds]]></title>
+        <id>https://orienteering.sport/?p=79122</id>
+        <link href="https://orienteering.sport/79122-2/"/>
+        <updated>2025-08-10T11:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Sunday’s sprint at the World Games in Chengdu, China, featured several surprises. Both Hungary and Spain won orienteering medals for the first time in World Games history, while gold medals went to Simona Aebersold (SUI) and Yannick Michiels (BEL). It was rainy and cooler than the previous days in Chengdu when the athletes started the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries are open for Tūāraki Regional Champs]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64051</id>
