@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T06:17:43.911Z</updated>
+    <updated>2025-08-11T12:20:38.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -667,16 +667,6 @@ World Orienteering Championships 2025 – Results first appeared on Orienteering
         <summary type="html"><![CDATA[Swedens’s women and Norway’s men took clear victories in the relay that finished off the World Orienteering Championships 2025 in Kuopio, Finland. The battle for silver and bronze was a lot closer, with Norway beating Switzerland in a tight battle on the last leg in the women’s leg, while the Swiss men took silver, with ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC: Sweden and Norway took relay golds in Kuopio]]></title>
-        <id>https://orienteering.sport/?p=78710</id>
-        <link href="https://orienteering.sport/woc-sweden-and-norway-took-relay-golds-in-kuopio/"/>
-        <updated>2025-07-12T18:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Sweden’s women and Norway’s men became world champions when the relays concluded the World Orienteering Championships in Finland on Saturday afternoon. Under a blazing sun, the women set off first below the ski jump hills and the iconic Puijo Tower and began a physically demanding relay. Sweden was the pre-favourite and first-leg runner Hanna Lundberg […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
