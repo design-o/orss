@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T12:20:38.553Z</updated>
+    <updated>2025-08-11T18:15:02.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Games: Narrow Swiss win in Sprint Relay]]></title>
+        <id>https://orienteering.sport/?p=79150</id>
+        <link href="https://orienteering.sport/world-games-narrow-swiss-win-in-thrilling-sprint-relay/"/>
+        <updated>2025-08-11T12:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Switzerland defended its World Games title in the Sprint Relay ahead of Sweden and the Czechia as the athletes in Chengdu, China ran the final orienteering competition on Monday morning. And the competition, which, like Sunday’s sprint, took place in the Jiangxi River Ecological Greenway Park, was an exciting and ever-changing affair. Yesterday’s surprise bronze […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MTBO stars head for CX80 World Championships in Warsaw]]></title>
         <id>https://orienteering.sport/?p=79116</id>
@@ -646,27 +656,6 @@ European Youth Orienteering Championships 2025 first appeared on Orienteering Au
         <summary type="html"><![CDATA[The tenth race in the 2025 Park Race series will be at Clapham Common, south London on 22nd July. Join us for the finale of the [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Orienteering Championships 2025 – Results]]></title>
-        <id>https://orienteering.asn.au/?p=14347</id>
-        <link href="https://orienteering.asn.au/world-orienteering-championships-2025-results/"/>
-        <updated>2025-07-13T03:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Competition results from the World Orienteering Championships 2025, held in Kuopio, Finland.
-World Orienteering Championships 2025 – Results first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2025 Relay: Maps and Results]]></title>
-        <id>http://news.worldofo.com/?p=21089</id>
-        <link href="https://news.worldofo.com/2025/07/13/woc-2025-relay-maps-and-results/"/>
-        <updated>2025-07-13T03:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Swedens’s women and Norway’s men took clear victories in the relay that finished off the World Orienteering Championships 2025 in Kuopio, Finland. The battle for silver and bronze was a lot closer, with Norway beating Switzerland in a tight battle on the last leg in the women’s leg, while the Swiss men took silver, with ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
