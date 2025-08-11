@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T18:12:54.538Z</updated>
+    <updated>2025-08-11T00:55:58.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MTBO stars head for CX80 World Championships in Warsaw]]></title>
+        <id>https://orienteering.sport/?p=79116</id>
+        <link href="https://orienteering.sport/mtbo-stars-head-for-cx80-world-championships-in-warsaw/"/>
+        <updated>2025-08-10T20:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Danish rider Nikoline Splittorff will be going all out to repeat her set of three individual European Championship wins this year when the international MTBO stars meet up for the CX80 World MTBO Championships, being held this week in Warsaw, Poland. 134 riders from 24 nations will be taking part. Splittorff has already established an […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Games: Sprint medals for Hungary and Spain, while Aebersold and Michiels claimed golds]]></title>
         <id>https://orienteering.sport/?p=79122</id>
