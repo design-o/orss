@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T12:20:08.199Z</updated>
+    <updated>2025-08-12T18:15:50.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 WMTBOC: first gold medals to Finland and Czechia]]></title>
+        <id>https://orienteering.sport/?p=79196</id>
+        <link href="https://orienteering.sport/cx80-wmtboc-first-gold-medals-to-finland-and-czechia/"/>
+        <updated>2025-08-12T17:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Ruska Saarela, Finland and Krystof Bogar, Czechia won the Sprints on challenging courses in Poland today; the lead changed several times in both races. Saarela finished fastest by 0.25, whilst Bogar’s win was by an impressive 1.14. Saarela, second in the World Cup standings, had a difficult start – 27th at the first TV timing […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF mourns death of Italian athlete Mattia Debertolis]]></title>
         <id>https://orienteering.sport/?p=79182</id>
