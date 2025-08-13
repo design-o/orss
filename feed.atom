@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T00:51:16.041Z</updated>
+    <updated>2025-08-13T06:15:58.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Golden Bay Revisited – Amazing locations]]></title>
+        <id>https://www.orienteering.org.nz/?p=64062</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/golden-bay-revisited-amazing-locations/"/>
+        <updated>2025-08-13T05:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Nelson Orienteering Club invites all orienteers, from New Zealand and abroad, to celebrate top-quality orienteering on the South Island of New Zealand. Would you like to revisit those stunning locations from King’s Birthday 2024? Did you miss out, hear all the wonderful stories, and wish you had been there? Alternatively, if you would like some […]
+Golden Bay Revisited – Amazing locations first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CX80 WMTBOC: first gold medals to Finland and Czechia]]></title>
         <id>https://orienteering.sport/?p=79196</id>
