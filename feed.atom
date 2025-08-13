@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T12:19:46.845Z</updated>
+    <updated>2025-08-13T18:14:43.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MTBO Middle Distance: gold again for CZE and FIN, but new names]]></title>
+        <id>https://orienteering.sport/?p=79215</id>
+        <link href="https://orienteering.sport/mtbo-middle-distance-gold-again-for-cze-and-fin-but-new-names/"/>
+        <updated>2025-08-13T16:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Martina Tichovska, Czechia and Andre Haga, Finland are the gold medalists at the end of a tough Middle race in the CX80 World MTBO Championships in Poland. In a very tight men’s race it was a Finnish masterclass, with the first four places all taken by Finnish riders. 39-year-old Tichovska, world-ranked number 4, has won […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golden Bay Revisited – Amazing locations]]></title>
         <id>https://www.orienteering.org.nz/?p=64062</id>
