@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79227",
+          "author": "Clive",
+          "description": "Nikoline Splittorff, Denmark was back at her best today, winning the Mass Start by 3.21, whilst Czech rider Vojtech Ludvik won by 2 seconds in a thrilling men’s finish where second place was tied. The men’s race in sunny Warsaw, Poland was led early on by Ludvik, no stranger to world championship medals, but he […]",
+          "link": "https://orienteering.sport/mtbo-mass-start-splittorff-back-to-winning-ways-sprint-finish-for-mens-medals/",
+          "publishedOn": "2025-08-14T13:40:31.000Z",
+          "wordCount": 1884,
+          "title": "MTBO Mass Start: Splittorff back to winning ways, sprint finish for men’s medals",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wmtboc-womens-mass-start-14-8-25-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79215",
           "author": "Clive",
           "description": "Martina Tichovska, Czechia and Andre Haga, Finland are the gold medalists at the end of a tough Middle race in the CX80 World MTBO Championships in Poland. In a very tight men’s race it was a Finnish masterclass, with the first four places all taken by Finnish riders. 39-year-old Tichovska, world-ranked number 4, has won […]",
@@ -593,6 +603,36 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56043",
+          "author": "nikkihoward",
+          "description": "Following a break for the summer, the next members’ monthly online Community Conversation is on Monday 8th September (7.30 to […]",
+          "link": "https://www.scottish-orienteering.org/news/september-community-conversation-supporting-clubs-event-access-and-permissions/?utm_source=rss&utm_medium=rss&utm_campaign=september-community-conversation-supporting-clubs-event-access-and-permissions",
+          "publishedOn": "2025-08-14T14:53:14.000Z",
+          "wordCount": 1465,
+          "title": "September Community Conversation: Supporting Clubs – Event Access and Permissions",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/08/Communications-and-Marketing-6-1024x1024.png"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56039",
+          "author": "nikkihoward",
+          "description": "Club Networking Day taking place between 10am and 4pm on 6th September 2025 at North Inch Community Campus in Perth. Book […]",
+          "link": "https://www.scottish-orienteering.org/news/club-networking-day-join-the-discussion-about-creating-lifelong-pathways/?utm_source=rss&utm_medium=rss&utm_campaign=club-networking-day-join-the-discussion-about-creating-lifelong-pathways",
+          "publishedOn": "2025-08-14T14:40:45.000Z",
+          "wordCount": 1828,
+          "title": "Club Networking Day – Join the discussion about creating Lifelong Pathways",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/group-2-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56036",
+          "author": "nikkihoward",
+          "description": "The SOA Board is responsible for the governance of orienteering in Scotland. Much of the work is behind the scenes, […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-orienteering-board-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-orienteering-board-opportunities",
+          "publishedOn": "2025-08-14T13:23:13.000Z",
+          "wordCount": 1678,
+          "title": "Scottish Orienteering Board Opportunities",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56033",
           "author": "heidi",
