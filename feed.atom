@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T00:51:37.589Z</updated>
+    <updated>2025-08-15T06:15:50.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -768,26 +768,6 @@ EYOC 2025 – LONG first appeared on Orienteering Australia.]]></summary>
 European Youth Orienteering Championships 2025 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adult Beginner Day Edinburgh]]></title>
-        <id>https://www.scottish-orienteering.org/?p=55997</id>
-        <link href="https://www.scottish-orienteering.org/news/adult-beginner-day-edinburgh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=adult-beginner-day-edinburgh"/>
-        <updated>2025-07-16T14:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Looking to improve your navigation skills or try a new sport? Scottish Orienteering are organising an adult beginner day at […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow EYOC from Friday to Sunday]]></title>
-        <id>https://orienteering.sport/?p=78804</id>
-        <link href="https://orienteering.sport/follow-eyoc-from-friday-to-sunday/"/>
-        <updated>2025-07-16T14:26:25.000Z</updated>
-        <summary type="html"><![CDATA[The international championships are coming like pearls on a string these weeks, and already on Friday the European Youth Orienteering Championships in Brno, Czechia begin. The championships feature a long distance, a sprint and a relay, all run around Brno in the Moravia region in the southeastern corner of Czechia. There are more than 400 […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
