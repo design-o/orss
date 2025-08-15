@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79247",
+          "author": "Martin Fredholm",
+          "description": "The IOF TrailO and Rules commissions, in collaboration with the WTOC 2025 organisers, welcome participants to a TrailO Event Advisers’ Clinic in Slovakia. The main objective of this IOF Trail Orienteering Event Advisers’ Clinic is to prepare participants to be licensed IOF Trail Orienteering Event Advisers. The clinic is also recommended for already licensed Event […]",
+          "link": "https://orienteering.sport/trailo-event-adviser-clinic-at-wtoc-2025/",
+          "publishedOn": "2025-08-15T00:30:10.000Z",
+          "wordCount": 1389,
+          "title": "TrailO Event Adviser Clinic at WTOC 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://orienteering.sport/?p=79227",
           "author": "Clive",
           "description": "Nikoline Splittorff, Denmark was back at her best today, winning the Mass Start by 3.21, whilst Czech rider Vojtech Ludvik won by 2 seconds in a thrilling men’s finish where second place was tied. The men’s race in sunny Warsaw, Poland was led early on by Ludvik, no stranger to world championship medals, but he […]",
@@ -312,6 +322,26 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23606",
+          "author": "vinh",
+          "description": "The second race in the 2025-26 Street-O series and the first event organised by SLOW will be in leafy Richmond. The format is a 1 [...]",
+          "link": "https://slow.org.uk/streeto/richmond-street-o-25/",
+          "publishedOn": "2025-08-14T22:21:42.000Z",
+          "wordCount": 2692,
+          "title": "Richmond Street-O, Tuesday 14 October",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/balham-street-o-tuesday-15-january/files/StreetO_Nov2024_1.jpg"
+        },
+        {
+          "id": "https://slow.org.uk/?p=23604",
+          "author": "vinh",
+          "description": "Welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a pub around [...]",
+          "link": "https://slow.org.uk/streeto/series2526/",
+          "publishedOn": "2025-08-14T22:09:29.000Z",
+          "wordCount": 2410,
+          "title": "Street-O Series 2025-26",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/21875/files/Wandsworth_StreetO_2024_1.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23551",
           "author": "James Gjertsen",

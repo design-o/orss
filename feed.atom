@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T18:14:54.971Z</updated>
+    <updated>2025-08-15T00:51:37.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TrailO Event Adviser Clinic at WTOC 2025]]></title>
+        <id>https://orienteering.sport/?p=79247</id>
+        <link href="https://orienteering.sport/trailo-event-adviser-clinic-at-wtoc-2025/"/>
+        <updated>2025-08-15T00:30:10.000Z</updated>
+        <summary type="html"><![CDATA[The IOF TrailO and Rules commissions, in collaboration with the WTOC 2025 organisers, welcome participants to a TrailO Event Advisers’ Clinic in Slovakia. The main objective of this IOF Trail Orienteering Event Advisers’ Clinic is to prepare participants to be licensed IOF Trail Orienteering Event Advisers. The clinic is also recommended for already licensed Event […]]]></summary>
+        <author>
+            <name>Martin Fredholm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richmond Street-O, Tuesday 14 October]]></title>
+        <id>https://slow.org.uk/?p=23606</id>
+        <link href="https://slow.org.uk/streeto/richmond-street-o-25/"/>
+        <updated>2025-08-14T22:21:42.000Z</updated>
+        <summary type="html"><![CDATA[The second race in the 2025-26 Street-O series and the first event organised by SLOW will be in leafy Richmond. The format is a 1 [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street-O Series 2025-26]]></title>
+        <id>https://slow.org.uk/?p=23604</id>
+        <link href="https://slow.org.uk/streeto/series2526/"/>
+        <updated>2025-08-14T22:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a pub around [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September Community Conversation: Supporting Clubs – Event Access and Permissions]]></title>
         <id>https://www.scottish-orienteering.org/?p=56043</id>
