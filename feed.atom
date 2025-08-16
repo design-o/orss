@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T00:47:31.640Z</updated>
+    <updated>2025-08-16T06:13:56.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -737,16 +737,6 @@ EYOC 2025 – LONG first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[The squad to represent Ireland at the European Orienteering Championships 2025 being held in Belgium from 27-31 August has been selected. Knock Out Sprint and Individual Sprint:Women: Aoife McCavana (GEN), Niamh Corbett (CorkO), Clodagh Moran (3ROC), EmerPerkins (BOC)Men: Josh O’Sullivan-Hourihan (CorkO), Kevin O’Boyle (CNOC), Liam Cotter (UCCO), NiallMcCarthy (BOC). Reserve: Aidan McCullough (3ROC) Sprint Relay […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing and learning from each other at the Club Networking Day]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56017</id>
-        <link href="https://www.scottish-orienteering.org/news/sharing-and-learning-from-each-other-at-the-club-networking-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sharing-and-learning-from-each-other-at-the-club-networking-day"/>
-        <updated>2025-07-17T13:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Make sure you have the date in the diary for this year’s Club Networking Day taking place between 10am and […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
