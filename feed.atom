@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T18:14:38.835Z</updated>
+    <updated>2025-08-16T00:47:31.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -747,37 +747,6 @@ EYOC 2025 – LONG first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[Make sure you have the date in the diary for this year’s Club Networking Day taking place between 10am and […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applications for SOA Development Fund sought for September 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56011</id>
-        <link href="https://www.scottish-orienteering.org/news/applications-for-soa-development-fund-sought-for-september-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applications-for-soa-development-fund-sought-for-september-2025"/>
-        <updated>2025-07-17T11:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Over the years the SOA Development Fund has supported Scottish clubs wishing to undertake projects with the aim of developing […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESW & Planners’ workshops – autumn / winter 2025/26]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56000</id>
-        <link href="https://www.scottish-orienteering.org/news/esws-planners-workshops-autumn-winter-2025-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=esws-planners-workshops-autumn-winter-2025-26"/>
-        <updated>2025-07-17T10:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Planners and future planners – we have offerings for you as well. Our tried and tested Planners’ workshops series ( […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Youth Orienteering Championships 2025]]></title>
-        <id>https://orienteering.asn.au/?p=14355</id>
-        <link href="https://orienteering.asn.au/european-youth-orienteering-championships-2025-2/"/>
-        <updated>2025-07-17T08:12:47.000Z</updated>
-        <summary type="html"><![CDATA[European Youth Orienteering Championships 2025 is held from 17 – 20 July 2025 in Brno, Czechia. The Australian team is made up of 14 athletes and 4 team leaders.
-European Youth Orienteering Championships 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
