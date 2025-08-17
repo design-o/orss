@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T00:55:10.615Z</updated>
+    <updated>2025-08-17T06:14:13.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The World Games 2025 Results & Recap]]></title>
+        <id>https://orienteering.asn.au/?p=14431</id>
+        <link href="https://orienteering.asn.au/the-world-games-2025-results-recap/"/>
+        <updated>2025-08-17T03:38:55.000Z</updated>
+        <summary type="html"><![CDATA[Australia had a strong team representing in The World Games 2025: Caitlin Young, Milla Key, Angus Haines, Alastair George and Ben Rattray (team leader).
+The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MTBO Long Distance: second golds for Saarela and Ludvik]]></title>
         <id>https://orienteering.sport/?p=79261</id>
