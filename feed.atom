@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T18:12:02.003Z</updated>
+    <updated>2025-08-17T00:55:10.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -737,16 +737,6 @@ EYOC 2025 – SPRINT first appeared on Orienteering Australia.]]></summary>
 EYOC 2025 – LONG first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Squad Announcement – EOC25]]></title>
-        <id>https://www.orienteering.ie/?p=21176</id>
-        <link href="https://www.orienteering.ie/senior-squad-announcement-eoc25/"/>
-        <updated>2025-07-18T09:52:18.000Z</updated>
-        <summary type="html"><![CDATA[The squad to represent Ireland at the European Orienteering Championships 2025 being held in Belgium from 27-31 August has been selected. Knock Out Sprint and Individual Sprint:Women: Aoife McCavana (GEN), Niamh Corbett (CorkO), Clodagh Moran (3ROC), EmerPerkins (BOC)Men: Josh O’Sullivan-Hourihan (CorkO), Kevin O’Boyle (CNOC), Liam Cotter (UCCO), NiallMcCarthy (BOC). Reserve: Aidan McCullough (3ROC) Sprint Relay […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
 </feed>
