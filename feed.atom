@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T12:17:43.782Z</updated>
+    <updated>2025-08-17T18:13:06.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 WMTBOC: Czechia wins both relays after thrilling action]]></title>
+        <id>https://orienteering.sport/?p=79274</id>
+        <link href="https://orienteering.sport/cx80-wmtboc-czechia-wins-both-relays-after-thrilling-action/"/>
+        <updated>2025-08-17T17:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Czechia delivered a strong finish to an already great series of Czech achievements at CX80 MTBO World Championship by winning both the women’s and men’s relays on Sunday morning. The MTBO athletes’ final competition in Poland took place a little further north in terrain that was flatter and faster than the other forest distances. Strong […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The World Games 2025 Results & Recap]]></title>
         <id>https://orienteering.asn.au/?p=14431</id>
