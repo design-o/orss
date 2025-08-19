@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T06:15:19.139Z</updated>
+    <updated>2025-08-19T12:18:50.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Splittorff and Ludvik lead CX80 MTBO World Cup after WMTBOC]]></title>
+        <id>https://orienteering.sport/?p=79340</id>
+        <link href="https://orienteering.sport/splittorff-and-ludvik-lead-cx80-mtbo-world-cup-after-wmtboc/"/>
+        <updated>2025-08-19T09:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Everything is in place for an exciting end to this year’s CX80 MTBO World Cup in Bulgaria in September after last week’s World Championships in Poland. The four races of the championships also counted towards this year’s World Cup and also revealed who has the best chance of grabbing the overall World Cup titles this […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Survey Season: Volunteering in Orienteering]]></title>
+        <id>https://orienteering.asn.au/?p=14427</id>
+        <link href="https://orienteering.asn.au/survey-season-volunteering-in-orienteering/"/>
+        <updated>2025-08-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To prepare for the creation of a National Volunteer Strategy, have your say! Share insight into the current state of volunteering in orienteering.
+Survey Season: Volunteering in Orienteering first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extra Ordinary General Meeting]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6732</id>
+        <link href="https://www.niorienteering.org.uk/extra-ordinary-general-meeting/"/>
+        <updated>2025-08-19T08:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Notice is given of a Extra Ordinary General Meeting of NI Orienteering on Tuesday 30 September at 19:30. The short meeting will take place on Zoom. Please register with the Hon Secretary for the link to the meeting which will be issued closer to the...
+The post Extra Ordinary General Meeting appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Masters Orienteering Championships 2025 conclude in Girona]]></title>
         <id>https://orienteering.sport/?p=79304</id>
