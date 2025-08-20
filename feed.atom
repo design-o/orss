@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T00:46:00.910Z</updated>
+    <updated>2025-08-20T06:15:17.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -373,6 +373,17 @@ World Games 2025 Has Begun! first appeared on Orienteering Australia.]]></summar
 ONZ CHAMPIONSHIPS 2026 – EMBARGOED AREAS first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Malcolm Ingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series, Joyces Creek Sandon, Sunday August 31]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14798</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-irishtown-july-27-entries-now-open/"/>
+        <updated>2025-08-01T07:08:35.000Z</updated>
+        <summary type="html"><![CDATA[The next Vic Series is at Irishtown on Sunday 27 July. Get your entry in!
+Vic Series, Joyces Creek Sandon, Sunday August 31 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -766,16 +777,6 @@ The post Three New Event Controllers Appointed appeared first on NI Orienteering
 World Cup 3 | Provisional Team named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organisers’ workshops autumn/winter 2025/26]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56023</id>
-        <link href="https://www.scottish-orienteering.org/news/organisers-workshops-autumn-winter-2025-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=organisers-workshops-autumn-winter-2025-26"/>
-        <updated>2025-07-21T14:45:46.000Z</updated>
-        <summary type="html"><![CDATA[We are always looking for ways to help you – our hardworking volunteers – and one of our offerings is […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
 </feed>
