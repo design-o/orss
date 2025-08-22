@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79376",
+          "author": "Erling Thisted",
+          "description": "IOF events have seen an increase in extreme heat conditions due to the effects of global climate change. This has become a significant factor in event planning. Heat mitigation strategies have been implemented at many events in the past few years. The IOF Council has now decided that specific rules are required to help organisers […]",
+          "link": "https://orienteering.sport/iof-to-institute-specific-rules-related-to-heat-conditions-at-iof-events/",
+          "publishedOn": "2025-08-22T10:18:48.000Z",
+          "wordCount": 1498,
+          "title": "IOF to institute specific rules related to heat conditions at IOF events",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79340",
           "author": "Erling Thisted",
           "description": "Everything is in place for an exciting end to this year’s CX80 MTBO World Cup in Bulgaria in September after last week’s World Championships in Poland. The four races of the championships also counted towards this year’s World Cup and also revealed who has the best chance of grabbing the overall World Cup titles this […]",
@@ -204,16 +214,6 @@
           "wordCount": 1489,
           "title": "YLA 2025 brought together 29 young leaders",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/07/yla2025-1-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=78845",
-          "author": "Erling Thisted",
-          "description": "The TrailO Commission invites feedback on a proposal for the introduction of a separate class for U20 athletes at major TrailO championships from 2026 onwards. While TrailO allows competitors with any physical ability, gender and age to compete on equal terms, awarding prizes in different classes encourages representation. While the introduction of additional start places […]",
-          "link": "https://orienteering.sport/feedback-wanted-introduction-of-junior-class-at-trailo-championships/",
-          "publishedOn": "2025-07-23T19:54:07.000Z",
-          "wordCount": 1523,
-          "title": "Feedback wanted: Introduction of Junior class at TrailO championships?",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/05/wtoc2023_tempo_dandvoracek-1024x683.jpeg"
         }
       ]
     },
@@ -381,16 +381,6 @@
           "wordCount": 2410,
           "title": "Street-O Series 2025-26",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/21875/files/Wandsworth_StreetO_2024_1.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=23551",
-          "author": "James Gjertsen",
-          "description": "Thanks to all those that came for the finale of the 2025 park race series. It was a fast paced end to the series, that [...]",
-          "link": "https://slow.org.uk/racereports/clapham-common-park-race-results/",
-          "publishedOn": "2025-07-23T20:35:43.000Z",
-          "wordCount": 2128,
-          "title": "Clapham Common Park Race – Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/clapham-common-park-race-results/files/ClaphamCommonO_Aug22.jpg"
         }
       ]
     },
@@ -727,6 +717,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14448",
+          "author": "Elizabeth L",
+          "description": "Read the September edition of The Australian Orienteer, available online now.\nThe Australian Orienteer: September Edition Now Online first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/the-australian-orienteer-september-edition-now-online/",
+          "publishedOn": "2025-08-22T07:32:53.000Z",
+          "wordCount": 2322,
+          "title": "The Australian Orienteer: September Edition Now Online",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14427",
           "author": "Elizabeth L",
