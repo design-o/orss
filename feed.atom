@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T18:14:08.750Z</updated>
+    <updated>2025-08-22T00:46:55.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -756,27 +756,6 @@ The post Three New Event Controllers Appointed appeared first on NI Orienteering
         <summary type="html"><![CDATA[There was a fantastic turn out at this brand new venue! Big Thanks to Stark Parks for sponsoring us at this beautiful park! And thanks to all of our Volunteers! Event Director – Sanae Rogers Course Designer and mapping – Jay Smink, Bob Boltz Setting – Jay, Bob Check-in – Kathy Christy Head Cook – […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA AGM]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56029</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-agm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-agm"/>
-        <updated>2025-07-23T11:27:47.000Z</updated>
-        <summary type="html"><![CDATA[We are notifying all members of our intended Annual General Meeting date of Monday 22nd September 2025. The Annual General Meeting will be […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 3 | Provisional Team named]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63899</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-3-provisional-team-named/"/>
-        <updated>2025-07-23T07:43:06.000Z</updated>
-        <summary type="html"><![CDATA[The ONZ Senior Selection Panel have named the following athletes to compete in WC3 in Uster, Switerland, September 26-28 2025: Women Amber Riddle Laura Robertson Men Jakob Knoef Tim Robertson Will Tidswell Team selections are subject to the ONZ Appeals Policy Under this policy:
-World Cup 3 | Provisional Team named first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
