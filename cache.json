@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79392",
+          "author": "Clive",
+          "description": "The 2025 World TrailO Championships begin with two PreO days in Hungary – and then Slovakia takes over, organizing the Relay and TempO competitions. 170 competitors from 24 nations will be taking part in the championships, which run from Tuesday until Sunday. This year’s top TrailO event has attracted 41 physically challenged competitors (P class) […]",
+          "link": "https://orienteering.sport/world-trailo-championships-competition-in-two-countries/",
+          "publishedOn": "2025-08-24T10:02:26.000Z",
+          "wordCount": 1827,
+          "title": "World TrailO Championships – competition in two countries",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wtoc_2025_logo.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79381",
           "author": "Erling Thisted",
           "description": "Next week, the world’s best orienteers will compete for medals and World Cup points on Belgian soil for the first time when the European Orienteering Championships take place in the towns around Hasselt in the northeastern corner of the country. The races, which are also part of the 2025 Orienteering World Cup, feature a Sprint […]",
@@ -687,6 +697,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14461",
+          "author": "Elizabeth L",
+          "description": "The 2024 Annual Report of OA has now been published and is available for reading on the OA website.\n2024 Annual Report Published first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2024-annual-report-published/",
+          "publishedOn": "2025-08-24T10:06:23.000Z",
+          "wordCount": 2318,
+          "title": "2024 Annual Report Published",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14448",
           "author": "Elizabeth L",

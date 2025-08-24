@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T06:13:48.878Z</updated>
+    <updated>2025-08-24T12:16:31.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Annual Report Published]]></title>
+        <id>https://orienteering.asn.au/?p=14461</id>
+        <link href="https://orienteering.asn.au/2024-annual-report-published/"/>
+        <updated>2025-08-24T10:06:23.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 Annual Report of OA has now been published and is available for reading on the OA website.
+2024 Annual Report Published first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World TrailO Championships – competition in two countries]]></title>
+        <id>https://orienteering.sport/?p=79392</id>
+        <link href="https://orienteering.sport/world-trailo-championships-competition-in-two-countries/"/>
+        <updated>2025-08-24T10:02:26.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 World TrailO Championships begin with two PreO days in Hungary – and then Slovakia takes over, organizing the Relay and TempO competitions. 170 competitors from 24 nations will be taking part in the championships, which run from Tuesday until Sunday. This year’s top TrailO event has attracted 41 physically challenged competitors (P class) […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Back in the fast shoes: European Championships kick off in Belgium]]></title>
         <id>https://orienteering.sport/?p=79381</id>
