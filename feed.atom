@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T12:19:08.656Z</updated>
+    <updated>2025-08-25T18:14:30.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -23,6 +23,16 @@
         <link href="https://orienteering.sport/how-to-follow-the-2025-european-orienteering-championships/"/>
         <updated>2025-08-25T10:09:31.000Z</updated>
         <summary type="html"><![CDATA[Spectacular and audience-friendly orienteering experiences await when the 2025 European Orienteering Championships take place in Belgium from Wednesday to Sunday this week. Whether you follow the competitions, which also count towards the 2025 Orienteering World Cup, at the arenas in Hasselt, Geel and Lier or from home, you are guaranteed good entertainment. Follow from arenas […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here is the international 2025-2026 Ski Orienteering Season]]></title>
+        <id>https://orienteering.sport/?p=79419</id>
+        <link href="https://orienteering.sport/here-is-the-international-2025-2026-ski-orienteering-season/"/>
+        <updated>2025-08-25T07:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation (IOF) is excited to announce that the events and competition calendar for the 2025-2026 International Ski Orienteering season now has been confirmed by the IOF Council. The IOF Ski Orienteering World Cup 2026 will feature three thrilling rounds: World Cup Round 1 (WC1) – Batak, Bulgaria, January 21–25, 2026 Organized in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
@@ -746,17 +756,6 @@ Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever f
         <summary type="html"><![CDATA[The IOF’s IT Commission is planning an open meeting on the use of technology in orienteering. The meeting is scheduled to be held in October 2025 as an on-line meeting, so you can participate from anywhere in the world. The agenda is planned to have 5-10 topics and last a couple of hours.  Topics can […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, July 29-August 3]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-07-27T00:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
-Park Street Update, July 29-August 3 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
