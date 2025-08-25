@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79412",
+          "author": "Erling Thisted",
+          "description": "Spectacular and audience-friendly orienteering experiences await when the 2025 European Orienteering Championships take place in Belgium from Wednesday to Sunday this week. Whether you follow the competitions, which also count towards the 2025 Orienteering World Cup, at the arenas in Hasselt, Geel and Lier or from home, you are guaranteed good entertainment. Follow from arenas […]",
+          "link": "https://orienteering.sport/how-to-follow-the-2025-european-orienteering-championships/",
+          "publishedOn": "2025-08-25T10:09:31.000Z",
+          "wordCount": 1738,
+          "title": "How to follow the 2025 European Orienteering Championships",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2024_woc_kosprint_audience_w-1024x614.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79396",
           "author": "Erling Thisted",
           "description": "Belgium is hosting its first major IOF championship, as the 2025 European Orienteering Championships and World Cup Round 2 takes place this week. Newly crowned World Games sprint champion Yannick Michiels and 21-year-old Tille de Smul share their local insigths and expectations for the championships. Find all you need to follow the EOC 2025 in […]",
@@ -697,6 +707,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14466",
+          "author": "Elizabeth L",
+          "description": "The selection panel has met and decided on the Australian team to compete in the 2025 European Sprint Orienteering Championships held in Hasselt, Belgium from 27-31 August 2025.\n2025 European Sprint Orienteering Championships Team Selection & Information first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2025-european-sprint-orienteering-championships-team-selection-information/",
+          "publishedOn": "2025-08-25T12:05:31.000Z",
+          "wordCount": 2453,
+          "title": "2025 European Sprint Orienteering Championships Team Selection & Information",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14461",
           "author": "Elizabeth L",
