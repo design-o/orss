@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79396",
+          "author": "Erling Thisted",
+          "description": "Belgium is hosting its first major IOF championship, as the 2025 European Orienteering Championships and World Cup Round 2 takes place this week. Newly crowned World Games sprint champion Yannick Michiels and 21-year-old Tille de Smul share their local insigths and expectations for the championships. Find all you need to follow the EOC 2025 in […]",
+          "link": "https://orienteering.sport/podcast-yannick-michiels-and-tille-de-smul-eoc-2025-preview/",
+          "publishedOn": "2025-08-24T21:25:21.000Z",
+          "wordCount": 1398,
+          "title": "Podcast: Yannick Michiels and Tille de Smul – EOC 2025 preview",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_podcast_eoc2025-1024x614.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79392",
           "author": "Clive",
           "description": "The 2025 World TrailO Championships begin with two PreO days in Hungary – and then Slovakia takes over, organizing the Relay and TempO competitions. 170 competitors from 24 nations will be taking part in the championships, which run from Tuesday until Sunday. This year’s top TrailO event has attracted 41 physically challenged competitors (P class) […]",
@@ -598,16 +608,6 @@
           "wordCount": 2521,
           "title": "Embargo Notice | 2025 Tūāraki Regional Champs",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/NORTH-Regional-champs-logo-new-date-scaled.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63905",
-          "author": "Christo Peters",
-          "description": "The ONZ Senior Selection Panel have named the following athletes to compete in WC3 in Uster, Switerland, September 26-28 2025 has now been finalised: Women Amber Riddle Laura Robertson Men Jakob Knoef Tim Robertson Will Tidswell\nWorld Cup 3 | Team Finalised first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/world-cup-3-team-finalised/",
-          "publishedOn": "2025-07-26T08:00:36.000Z",
-          "wordCount": 2141,
-          "title": "World Cup 3 | Team Finalised",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/Screenshot-538.png"
         }
       ]
     },
