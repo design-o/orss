@@ -234,16 +234,6 @@
           "wordCount": 1789,
           "title": "Orienteering at the World Games kick off Friday morning",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/twgmodelmiddle-64-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=78877",
-          "author": "Erling Thisted",
-          "description": "The IOF’s IT Commission is planning an open meeting on the use of technology in orienteering. The meeting is scheduled to be held in October 2025 as an on-line meeting, so you can participate from anywhere in the world. The agenda is planned to have 5-10 topics and last a couple of hours.  Topics can […]",
-          "link": "https://orienteering.sport/help-develop-technology-in-orienteering/",
-          "publishedOn": "2025-07-27T21:26:23.000Z",
-          "wordCount": 1427,
-          "title": "Help develop technology in orienteering",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_control_william_hollowell-1024x576.jpg"
         }
       ]
     },
@@ -721,6 +711,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6742",
+          "author": "NIOA Secretary",
+          "description": "There is time for at least one more trip to the beach for a dip at Portstewart Strand after NI Colour Series 5 at Portstewart Dunes on Saturday 6 September. Don’t miss this chance to orienteer on a superb sand dune area. All the details...\nThe post Summer’s Not Over Yet appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/summers-not-over-yet/",
+          "publishedOn": "2025-08-26T08:48:06.000Z",
+          "wordCount": 4300,
+          "title": "Summer’s Not Over Yet",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2021/09/Portstewart-map.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6732",
           "author": "NIOA Secretary",
