@@ -251,7 +251,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21099",
+          "author": "Jan Kocbach",
+          "description": "Fast orienteering in flat city centers – probably with many artificial barriers – await the runners when the European Orienteering Championship (EOC) starts in Belgium on Wednesday with the Sprint Relay, and continues with Knock-Out Sprint and Individual Sprint the rest of the week. The championship is organized in the Flemish cities of Hasselt, Geel and Lier, with nearly 300 athletes ...",
+          "link": "https://news.worldofo.com/2025/08/26/eoc-2025-all-you-need-to-know/",
+          "publishedOn": "2025-08-26T03:00:46.000Z",
+          "wordCount": 2924,
+          "title": "EOC 2025: All You Need To Know",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/2025-08-26-01_52_27-World-of-O-Runners-660x330.png"
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
