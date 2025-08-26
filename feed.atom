@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T12:21:07.160Z</updated>
+    <updated>2025-08-26T18:13:15.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -775,17 +775,6 @@ Learn to Orienteer in Melbourne in August first appeared on Orienteering Victori
         <id>https://www.vicorienteering.asn.au/?p=14896</id>
         <link href="https://www.vicorienteering.asn.au/rumble-in-the-bungal-mtbo-saturday-august-2/"/>
         <updated>2025-07-29T05:45:50.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14892</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-7-sunday-august-17-nuggety-range-maldon-diamonds-are-forever/"/>
-        <updated>2025-07-28T04:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Diamonds are forever!  Vic Series 7 sees the first Australian use of a diamond forking system. This is your chance to try this fantastic new format
-Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
