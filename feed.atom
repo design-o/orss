@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T12:18:10.635Z</updated>
+    <updated>2025-08-27T18:13:25.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -768,26 +768,6 @@ Levelling the playing field | Orienteering analysis first appeared on Orienteeri
 Embargo Notice | 2025 Tūāraki Regional Champs first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Orienteer in Melbourne in August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14829</id>
-        <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne-in-august/"/>
-        <updated>2025-07-29T05:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Sign up for our 4 week Learn To Orienteer program, over 4 weekends in August
-Learn to Orienteer in Melbourne in August first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rumble in the Bungal, MTBO, Saturday August 2]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14896</id>
-        <link href="https://www.vicorienteering.asn.au/rumble-in-the-bungal-mtbo-saturday-august-2/"/>
-        <updated>2025-07-29T05:45:50.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
