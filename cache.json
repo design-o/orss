@@ -6,6 +6,26 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79495",
+          "author": "Erling Thisted",
+          "description": "The European Orienteering Championships in Belgium kicked off on Wednesday evening with a sprint relay in the city of Hasselt, where Norway took the gold medals ahead of Switzerland and Sweden after an ever-changing and nerve-wracking competition. Teams from 27 nations were ready at the starting line at 19.00 on Wednesday when the championships began […]",
+          "link": "https://orienteering.sport/eoc-2025-norway-wins-first-sprint-relay-title/",
+          "publishedOn": "2025-08-27T21:54:46.000Z",
+          "wordCount": 1791,
+          "title": "EOC 2025: Norway wins first Sprint Relay title",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/eoc2025_sprintrelay_silkevanrooyjpg-1024x682.jpg"
+        },
+        {
+          "id": "https://orienteering.sport/?p=79493",
+          "author": "Clive",
+          "description": "Jonatan Furucz, Slovakia (still a junior) and Michael Johansson, Sweden lead the Open and Physically Challenged classes respectively at the end of Day 1 in the PreO competition, held on a hot and sunny day in the area of an old basalt mine near Sümeg, Hungary. Many of the top stars in the Open class […]",
+          "link": "https://orienteering.sport/world-trailo-championships-close-results-after-preo-day-1/",
+          "publishedOn": "2025-08-27T20:11:17.000Z",
+          "wordCount": 1447,
+          "title": "World TrailO Championships: close results after PreO Day 1",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wtoc_2025_logo.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79412",
           "author": "Erling Thisted",
           "description": "Spectacular and audience-friendly orienteering experiences await when the 2025 European Orienteering Championships take place in Belgium from Wednesday to Sunday this week. Whether you follow the competitions, which also count towards the 2025 Orienteering World Cup, at the arenas in Hasselt, Geel and Lier or from home, you are guaranteed good entertainment. Follow from arenas […]",
@@ -599,16 +619,6 @@
           "wordCount": 3210,
           "title": "Levelling the playing field | Orienteering analysis",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/fc207a03-2c37-0656-d989-bdebd0d0f06b.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=63941",
-          "author": "Christo Peters",
-          "description": "On behalf of Orienteering Bay of Plenty and Taupo Orienteering and, hosts of the Tūāraki NorthRegional Orienteering Championships 2025, we advise the following embargoes applying tocompetition areas. An embargo restricts athletes access to competition areas prior to the competition taking place, toensure unfair advantage is not gained by people visiting the area prior to competition. […]\nEmbargo Notice | 2025 Tūāraki Regional Champs first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/embargo-notice-2025-tuaraki-regional-champs/",
-          "publishedOn": "2025-07-29T08:21:47.000Z",
-          "wordCount": 2521,
-          "title": "Embargo Notice | 2025 Tūāraki Regional Champs",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/07/NORTH-Regional-champs-logo-new-date-scaled.png"
         }
       ]
     },

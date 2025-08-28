@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T18:13:25.490Z</updated>
+    <updated>2025-08-28T00:44:55.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC 2025: Norway wins first Sprint Relay title]]></title>
+        <id>https://orienteering.sport/?p=79495</id>
+        <link href="https://orienteering.sport/eoc-2025-norway-wins-first-sprint-relay-title/"/>
+        <updated>2025-08-27T21:54:46.000Z</updated>
+        <summary type="html"><![CDATA[The European Orienteering Championships in Belgium kicked off on Wednesday evening with a sprint relay in the city of Hasselt, where Norway took the gold medals ahead of Switzerland and Sweden after an ever-changing and nerve-wracking competition. Teams from 27 nations were ready at the starting line at 19.00 on Wednesday when the championships began […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World TrailO Championships: close results after PreO Day 1]]></title>
+        <id>https://orienteering.sport/?p=79493</id>
+        <link href="https://orienteering.sport/world-trailo-championships-close-results-after-preo-day-1/"/>
+        <updated>2025-08-27T20:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Jonatan Furucz, Slovakia (still a junior) and Michael Johansson, Sweden lead the Open and Physically Challenged classes respectively at the end of Day 1 in the PreO competition, held on a hot and sunny day in the area of an old basalt mine near Sümeg, Hungary. Many of the top stars in the Open class […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer’s Not Over Yet]]></title>
         <id>https://www.niorienteering.org.uk/?p=6742</id>
@@ -757,17 +777,6 @@ Levelling the playing field | Orienteering analysis first appeared on Orienteeri
         <summary type="html"><![CDATA[Quail Score-O | Quail Hollow (Stark Parks) | Sunday, August 24, 2025]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embargo Notice | 2025 Tūāraki Regional Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63941</id>
-        <link href="https://www.orienteering.org.nz/news/embargo-notice-2025-tuaraki-regional-champs/"/>
-        <updated>2025-07-29T08:21:47.000Z</updated>
-        <summary type="html"><![CDATA[On behalf of Orienteering Bay of Plenty and Taupo Orienteering and, hosts of the Tūāraki NorthRegional Orienteering Championships 2025, we advise the following embargoes applying tocompetition areas. An embargo restricts athletes access to competition areas prior to the competition taking place, toensure unfair advantage is not gained by people visiting the area prior to competition. […]
-Embargo Notice | 2025 Tūāraki Regional Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
