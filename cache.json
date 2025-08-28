@@ -263,6 +263,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21126",
+          "author": "Jan Kocbach",
+          "description": "The 2025 European Orienteering Championships opened with lots of drama in the Belgian city of Hasselt, when Norway claimed their first ever Championships Sprint Relay title. Finland’s anchor run first into the finish, but what should have been Finland’s moment of glory transformed into Norwegian celebration when Maija Sianoja’s jumped penultimate control cost her team the ...",
+          "link": "https://news.worldofo.com/2025/08/28/eoc-2025-sprint-relay-maps-results-and-analysis/",
+          "publishedOn": "2025-08-28T03:00:18.000Z",
+          "wordCount": 2456,
+          "title": "EOC 2025 Sprint Relay: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/EOC2025_SR_leg14-660x330.gif"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21099",
           "author": "Jan Kocbach",
           "description": "Fast orienteering in flat city centers – probably with many artificial barriers – await the runners when the European Orienteering Championship (EOC) starts in Belgium on Wednesday with the Sprint Relay, and continues with Knock-Out Sprint and Individual Sprint the rest of the week. The championship is organized in the Flemish cities of Hasselt, Geel and Lier, with nearly 300 athletes ...",

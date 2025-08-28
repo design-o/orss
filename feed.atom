@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T00:44:55.919Z</updated>
+    <updated>2025-08-28T06:15:13.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC 2025 Sprint Relay: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=21126</id>
+        <link href="https://news.worldofo.com/2025/08/28/eoc-2025-sprint-relay-maps-results-and-analysis/"/>
+        <updated>2025-08-28T03:00:18.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 European Orienteering Championships opened with lots of drama in the Belgian city of Hasselt, when Norway claimed their first ever Championships Sprint Relay title. Finland’s anchor run first into the finish, but what should have been Finland’s moment of glory transformed into Norwegian celebration when Maija Sianoja’s jumped penultimate control cost her team the ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2025: Norway wins first Sprint Relay title]]></title>
         <id>https://orienteering.sport/?p=79495</id>
