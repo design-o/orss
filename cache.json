@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=79562",
+          "author": "Erling Thisted",
+          "description": "The European Orienteering Championships in Belgium continued on Thursday afternoon in Geel, where the athletes raced the qualification for Friday’s Knock-Out Sprint finals. On challenging courses in the southern end of the city, the target was to finish among the 12 fastest in their respective heat. Athletes from 18 different nations managed to fulfill that […]",
+          "link": "https://orienteering.sport/eoc-2025-athletes-from-18-nations-advance-to-ko-sprint-finals/",
+          "publishedOn": "2025-08-28T16:19:27.000Z",
+          "wordCount": 1702,
+          "title": "EOC 2025: Athletes from 18 nations advance to KO Sprint finals",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/©eoc2025_ko_qualification-22-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79495",
           "author": "Erling Thisted",
           "description": "The European Orienteering Championships in Belgium kicked off on Wednesday evening with a sprint relay in the city of Hasselt, where Norway took the gold medals ahead of Switzerland and Sweden after an ever-changing and nerve-wracking competition. Teams from 27 nations were ready at the starting line at 19.00 on Wednesday when the championships began […]",
@@ -738,6 +748,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14484",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "This is your chance to share your ideas, hopes and visions for what orienteering in Australia could look like in 2030.\nYou’re Invited: Help Shape the Future of Orienteering first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/youre-invited-help-shape-the-future-of-orienteering/",
+          "publishedOn": "2025-08-28T13:07:14.000Z",
+          "wordCount": 2447,
+          "title": "You’re Invited: Help Shape the Future of Orienteering",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14466",
           "author": "Elizabeth L",
