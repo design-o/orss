@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T00:45:12.568Z</updated>
+    <updated>2025-08-29T06:15:25.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -818,16 +818,6 @@ Levelling the playing field | Orienteering analysis first appeared on Orienteeri
         <updated>2025-07-31T07:17:30.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Quail Score-O | Quail Hollow (Stark Parks) | Sunday, August 24, 2025]]></title>
-        <id>https://neooc.com/?p=48925</id>
-        <link href="https://neooc.com/new-event-quail-score-o-quail-hollow-stark-parks-sunday-august-24-2025/"/>
-        <updated>2025-07-30T16:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Quail Score-O | Quail Hollow (Stark Parks) | Sunday, August 24, 2025]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
