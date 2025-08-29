@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T18:13:34.279Z</updated>
+    <updated>2025-08-29T00:45:12.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th]]></title>
+        <id>https://neooc.com/?p=48996</id>
+        <link href="https://neooc.com/new-event-ksu-scare-o-evening-o-at-kent-state-campus-sunday-october-19th/"/>
+        <updated>2025-08-28T23:12:03.000Z</updated>
+        <summary type="html"><![CDATA[KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World TrailO Championships, PreO: two gold medals for Sweden]]></title>
+        <id>https://orienteering.sport/?p=79570</id>
+        <link href="https://orienteering.sport/world-trailo-championships-preo-two-gold-medals-for-sweden/"/>
+        <updated>2025-08-28T18:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Michael Johansson, Physically Challenged (P) class, and Anders Hӧije, Open (O) class, were gold medalists at the end of Day 2. Hӧije scored full points and spent only 115 seconds on four timed controls (three tasks in each), and won by 12 seconds. With 20 competitors scoring full points on Day 1, aiming for the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2025: Athletes from 18 nations advance to KO Sprint finals]]></title>
         <id>https://orienteering.sport/?p=79562</id>
