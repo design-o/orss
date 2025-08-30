@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T06:12:15.368Z</updated>
+    <updated>2025-08-30T12:16:03.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Forget to Enter for Portstewart]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6744</id>
+        <link href="https://www.niorienteering.org.uk/dont-forget-to-enter-for-portstewart/"/>
+        <updated>2025-08-30T09:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Don’t forget to enter for NI Colour Series 5 at Portstewart on Saturday 6 September. Entries close on Sunday 31 August at 21.30. All the details are on the event page on the North West Orienteering website with entries at SiEntries.  
+The post Don’t Forget to Enter for Portstewart appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[View from the Chair – September 2025]]></title>
         <id>https://www.orienteering.org.nz/?p=64152</id>
