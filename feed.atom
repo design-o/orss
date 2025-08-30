@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T18:13:06.737Z</updated>
+    <updated>2025-08-30T00:42:47.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC: Calandry and Mollén take KO Sprint titles in Geel]]></title>
+        <id>https://orienteering.sport/?p=79891</id>
+        <link href="https://orienteering.sport/eoc-calandry-and-mollen-take-ko-sprint-titles-in-geel/"/>
+        <updated>2025-08-29T20:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Cecile Calandry (FRA) and August Mollén (SWE) are European Champions in Knock-Out Sprint after an exciting Friday afternoon in Geel, Belgium. With the central Maarkt square as a packed arena for all of the afternoon’s races, the Belgian organizers created an atmospheric finish to all 20 races in today’s Knock-Out races. Starting with the quarterfinals […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th]]></title>
         <id>https://neooc.com/?p=48996</id>
@@ -622,202 +632,6 @@ Park Street Update, August 19-25 first appeared on Orienteering Victoria.]]></su
         <summary type="html"><![CDATA[August 11th – 17th 2025 Her Outdoors Week celebrates and encourages females to get out and enjoy the benefits of the outdoors! It’s a fantastic week for Orienteering Ireland to engage with our clubs and the network of local sports partnerships. Our wonderful team of regional development officers and instructors deliver on a variety of […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair | July 2025]]></title>
-        <id>https://www.orienteering.org.nz/?p=64020</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-july-2025/"/>
-        <updated>2025-07-31T10:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Over the last month there has been a lot of orienteering. We have had national teams competing at WOC, JWOC and EYOC, with a great contingent of people supporting them in person. Zefa, Tim and Joe all had exceptional runs in the WOC relay resulting in 9th – New Zealand’s best ever WOC relay result. […]
-View from the Chair | July 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be a sponsored athlete!  |  Trailblaze ambassador]]></title>
-        <id>https://www.orienteering.org.nz/?p=64017</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/be-a-sponsored-athlete-trailblaze-ambassador/"/>
-        <updated>2025-07-31T10:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Trailblaze is starting a new Ambassador & Sponsorship Programme that will run from now until August 2026. This program is centred around promoting the sport, improving your own performance, and a little bit of product promotion along the way. Whether you are a high performing athlete, an up & coming star or your everyday adventurer […]
-Be a sponsored athlete!  |  Trailblaze ambassador first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2025 | Event Review]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64014</id>
-        <link href="https://www.orienteering.org.nz/news/woc-2025-event-review/"/>
-        <updated>2025-07-31T10:20:46.000Z</updated>
-        <summary type="html"><![CDATA[World Orienteering Champs 2025 |  Kuopio, FinlandA very successful WOC from the NZ team with a few NZ records in the history book from the men’s team. It was also exciting to see our junior step up into competing on the world stage.  WOC Qualification rounds: Zefa the boss, Tim seals it, Rachel is smooth & […]
-WOC 2025 | Event Review first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC 2025 | Event Review]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64011</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc-2025-event-review/"/>
-        <updated>2025-07-31T10:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Sprint relay  – NZL team 2 just pips team 1!JWOC kicked off in Levico Terme, a picturesque spa town on the shores of the Lake Levico. The town was buzzing with excitement as residents prepared to host the event, proudly displaying orienteering flags on balconies and street signs in anticipation of the races. The terrain […]
-JWOC 2025 | Event Review first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZSS Champs 2025 | Event Review]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64005</id>
-        <link href="https://www.orienteering.org.nz/news/nzss-champs-2025-event-review/"/>
-        <updated>2025-07-31T10:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Sprint – St Cuthbert’s CollegeThe sprint event turned into a true test – even for the hardy Blunt umbrellas – as torrential rain, wild winds, and saturated conditions made for a challenging day. Despite the weather, 13 marshals were stationed around the course, joined by many dedicated club and family members who braved the elements […]
-NZSS Champs 2025 | Event Review first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EYOC 2025  | Event Review]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64002</id>
-        <link href="https://www.orienteering.org.nz/news/european-youth-orienteering-champs-2025-czech-republic/"/>
-        <updated>2025-07-31T10:06:12.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 edition of European Youth Orienteering Champs took the NZ Team to the Czech Republic and the Moravian Karst area north of Brno. A committed support crew were there to help Jenni and Carsten, who ably managed and coached the team so soon after their WOC commitments. While we could have expected temperatures up […]
-EYOC 2025  | Event Review first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controller’s course  |  Auckland]]></title>
-        <id>https://www.orienteering.org.nz/?p=63999</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/controllers-course-auckland/"/>
-        <updated>2025-07-31T10:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Nine people attended the Controller’s Course in Auckland for both days, at least in part. We had 10 on Saturday, but Imogene Scott was in labour on Sunday – she gets full marks for working right up until birth! Callum Wishart was also there adding to his technical knowledge, just before his new role at ONZ […]
-Controller’s course  |  Auckland first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World Games  |  Chengdu, China]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63996</id>
-        <link href="https://www.orienteering.org.nz/news/the-world-games-chengdu-china/"/>
-        <updated>2025-07-31T09:57:27.000Z</updated>
-        <summary type="html"><![CDATA[The World Games started in 1981 as multi-sport events for sports and disciplines that are not contested in the Olympic Games. Orienteering first appeared in 2001. In 2025 we have our largest NZ team attending the World Games in Chengdu, China. You can watch the orienteering action from 8–11 August 2025 all free of charge.  […]
-The World Games  |  Chengdu, China first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nationals 2026  |  Wairarapa]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63993</id>
-        <link href="https://www.orienteering.org.nz/news/nationals-2026-wairarapa/"/>
-        <updated>2025-07-31T09:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Nationals 2026 planning is underway. The event is being brought to you by the Orienteering Hutt Valley, Orienteering Wellington, Red Kiwis, and the Wairarapa Orienteering Club, with Orienteering Wellington as the leading the organisation.The weekend will contain the usual Sprint, Middle, Long, and Relay events. All will be based in the Wairarapa, with new maps […]
-Nationals 2026  |  Wairarapa first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taupō Orienteering’s 50th!  |  Celebrations]]></title>
-        <id>https://www.orienteering.org.nz/?p=63990</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/taupo-orienteerings-50th-celebrations/"/>
-        <updated>2025-07-31T09:46:47.000Z</updated>
-        <summary type="html"><![CDATA[50 years is a long time to survive and thrive these days so to celebrate this momentous occasion Taupō Orienteering (Incorporating Pinelands Orienteering Club) have an open invitation to invite you to their 50th Anniversary Celebration dinner.  When: From 4.30 -6.30pm, 13 September 2025. St Andrews Church Lounge, 91 Titiraupenga Street  Cost: $45 (pay on the night ) but RSVP before […]
-Taupō Orienteering’s 50th!  |  Celebrations first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Rogaining Champs |  Spain]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63987</id>
-        <link href="https://www.orienteering.org.nz/news/world-rogaining-champs-spain/"/>
-        <updated>2025-07-31T09:42:09.000Z</updated>
-        <summary type="html"><![CDATA[The 19th World Rogaine Championship were held the 1st weekend of July in the of the tourist path northern Spanish town of Quintanar de la Sierra. With Europe in a heatwave the temperatures could have been brutal but were a somewhat pleasant high 20s and forest cover for about 80% of the very hilly and […]
-World Rogaining Champs |  Spain first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Weka is back, more Wily than ever!  | 31 August, Cable Bay]]></title>
-        <id>https://www.orienteering.org.nz/?p=63984</id>
-        <link href="https://www.orienteering.org.nz/blog/the-weka-is-back-more-wily-than-ever-31-august-cable-bay/"/>
-        <updated>2025-07-31T09:37:40.000Z</updated>
-        <summary type="html"><![CDATA[This year’s event will again be a big one, on an updated map at the ever challenging Cable Bay Adventure Park, which means you get the best courses and will be testing your limits! This is our big yearly event for the club and helps us pay for new maps and equipment. If you like what […]
-The Weka is back, more Wily than ever!  | 31 August, Cable Bay first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taupō’s big Day Out  |  School orienteering]]></title>
-        <id>https://www.orienteering.org.nz/?p=63981</id>
-        <link href="https://www.orienteering.org.nz/schools/taupos-big-day-out-school-orienteering/"/>
-        <updated>2025-07-31T09:34:21.000Z</updated>
-        <summary type="html"><![CDATA[Around 450 Primary and Intermediate school students from ten schools in the Taupo and surrounding districts took part in an Orienteering Big Day Out with rogaining events at Owen Delany Park on 25th June. This was a suitable finishing finale to the series of in-school orienteering training sessions held by the Taupo Orienteering Club in […]
-Taupō’s big Day Out  |  School orienteering first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum Wishart | Joins the technical team as support]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=63977</id>
-        <link href="https://www.orienteering.org.nz/news/callum-wishart-joins-the-technical-team-as-support/"/>
-        <updated>2025-07-31T09:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Callllum Wishart  has accepted the technical supports role within Orienteering NZ so it is time to talk to Callum and find out more about him: 1. What is your earliest orienteering memory?I remember running around Cornwall Park and getting lost in the fairy garden – Hopefully I’ve improved since then! 2. What is one orienteering event you […]
-Callum Wishart | Joins the technical team as support first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Permanent course |  Info & how to set-up]]></title>
-        <id>https://www.orienteering.org.nz/?p=63973</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/technical/permanent-course-info-how-to-set-up/"/>
-        <updated>2025-07-31T09:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering NZ have a guide that outlines various methods for setting up permanent orienteering courses for schools and clubs, ranging from low-tech to high-tech solutions. Options include using permanent checkpoint plates without codes, or with simple written codes to help verify location and support learning—often without the need for checking. For more formal or fair […]
-Permanent course |  Info & how to set-up first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology in orienteering  |  IOF open meeting]]></title>
-        <id>https://www.orienteering.org.nz/?p=63970</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/technology-in-orienteering-iof-open-meeting/"/>
-        <updated>2025-07-31T09:14:50.000Z</updated>
-        <summary type="html"><![CDATA[The IOF’s IT Commission is planning an open meeting on the use of technology in orienteering. The meeting is scheduled to be held in October 2025 as an on-line meeting, so you can participate from anywhere in the world. The agenda is planned to have 5-10 topics and last a couple of hours. Topics can have […]
-Technology in orienteering  |  IOF open meeting first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levelling the playing field | Orienteering analysis]]></title>
-        <id>https://www.orienteering.org.nz/?p=63967</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/levelling-the-playing-field-orienteering-analysis/"/>
-        <updated>2025-07-31T09:08:42.000Z</updated>
-        <summary type="html"><![CDATA[With a growing interest in orienteering analysis, we have reproduced this article from the SA orienteering magazine with a few NZ references… many thanks to Frank Burden for this discussion. About 10 years ago, after resuming running and orienteering after a 25-year injury-enforced break, I wanted to find out how fast I should expect to run. […]
-Levelling the playing field | Orienteering analysis first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale Allan Miller (1936-2025)]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14819</id>
-        <link href="https://www.vicorienteering.asn.au/vale-allan-miller/"/>
-        <updated>2025-07-31T07:17:30.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
