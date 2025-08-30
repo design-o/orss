@@ -293,6 +293,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21152",
+          "author": "Jan Kocbach",
+          "description": "August Mollén secured his first international championship title with a smart route choice in the final meters, leading a Swedish 1-2 ahead of Jonatan Gustafsson, while Cécile Calandry claimed her first major title in the women’s race at the European Championships Knock-Out Sprint in Geel, Belgium. The Market Square in Geel provided the arena for ...",
+          "link": "https://news.worldofo.com/2025/08/30/eoc-2025-knock-out-sprint-maps-results-and-analysis/",
+          "publishedOn": "2025-08-30T03:00:09.000Z",
+          "wordCount": 3884,
+          "title": "EOC 2025 Knock-Out Sprint: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/KOfinal-660x330.gif"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21126",
           "author": "Jan Kocbach",
           "description": "The 2025 European Orienteering Championships opened with lots of drama in the Belgian city of Hasselt, when Norway claimed their first ever Championships Sprint Relay title. Finland’s anchor run first into the finish, but what should have been Finland’s moment of glory transformed into Norwegian celebration when Maija Sianoja’s jumped penultimate control cost her team the ...",
@@ -405,16 +415,6 @@
           "wordCount": 841,
           "title": "Meet our new RDO",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21300",
-          "author": "Deirdre",
-          "description": "August 11th – 17th 2025 Her Outdoors Week celebrates and encourages females to get out and enjoy the benefits of the outdoors! It’s a fantastic week for Orienteering Ireland to engage with our clubs and the network of local sports partnerships. Our wonderful team of regional development officers and instructors deliver on a variety of […]",
-          "link": "https://www.orienteering.ie/her-outdoors-week-2025/",
-          "publishedOn": "2025-07-31T17:30:27.000Z",
-          "wordCount": 927,
-          "title": "Her Outdoors Week 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -450,6 +450,176 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=64152",
+          "author": "Christo Peters",
+          "description": "As a Board we are focused on refreshing our strategy as the current one runs through to the end of the year. We are currently finalising a draft which will be sent to members in the next week or so, with an invitation to join us in about late September to a club forum to get your […]\nView from the Chair – September 2025 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-september-2025/",
+          "publishedOn": "2025-08-30T05:04:47.000Z",
+          "wordCount": 2241,
+          "title": "View from the Chair – September 2025",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/ed16c343-919e-d6c1-4b31-36d1d0387099.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64147",
+          "author": "Christo Peters",
+          "description": "Sprint Orienteering has developed a great deal in Belgium, and this year is the first time the country has ever hosted a World Cup. We expect some excitement around this event after Belgian runner Yannick Michiels has become newly crowned World Games sprint champion. Yannick lives in the area around the World cup events and was […]\nWorld Cup 2 & EOC  |  27- 31 August, Belgium first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/world-cup-2-eoc-27-31-august-belgium/",
+          "publishedOn": "2025-08-30T05:01:46.000Z",
+          "wordCount": 2471,
+          "title": "World Cup 2 & EOC  |  27- 31 August, Belgium",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/936d58ea-6ad6-53fc-b1c9-abdb1f15b403.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64144",
+          "author": "Christo Peters",
+          "description": "The Aims games is the largest junior sporting event in Australasia and kicks off in Tauranga very soon. The AIMS Games Trust started as a strategic partnership between the four founding intermediate schools (Otumoetai Intermediate, Mount Maunganui Intermediate, Tauranga Intermediate and Te Puke Intermediate), Sport Bay of Plenty and Tauranga City Council. Advisory Trustees from Sport […]\nZespri AIMS Games |1-2 September first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/zespri-aims-games-1-2-september/",
+          "publishedOn": "2025-08-30T04:57:39.000Z",
+          "wordCount": 2285,
+          "title": "Zespri AIMS Games |1-2 September",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/6925d54f-da8e-f43f-7206-4018a94cc6cc.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64141",
+          "author": "Christo Peters",
+          "description": "Orienteering BOP and the Taupō Orienteering Club are delighted to announce that entries are now open for the Tūāraki (Northern) Regional Champs, taking place in and around Rotorua and Taupō on 8–9 November 2025. We are excited to showcase some amazing courses and terrain, including a resurrection of the famous Ōpepe map, and an exciting […]\nTūāraki (Northern) Regional Champs  8-9 November |  Entries open first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/tuaraki-northern-regional-champs-8-9-november-entries-open/",
+          "publishedOn": "2025-08-30T04:54:27.000Z",
+          "wordCount": 2120,
+          "title": "Tūāraki (Northern) Regional Champs  8-9 November |  Entries open",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/97c0002d-de7c-fc91-3113-623527567b63.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64138",
+          "author": "Christo Peters",
+          "description": "Saturday 25 Oct – Middle Distance:  Knottingly – Santoft ForestMature coastal pine forest, mainly open and runnable with  subtle topography Saturday 25 Oct (evening) – Night Sprint: Victoria Esplanade – Palmerston NorthPublic park Sunday 26 OctLong Distance: Koitiata – Santoft Forest  Mature coastal pine forest, mainly open and runnable with  subtle topography Sunday 27 OctSprint: Pit […]\nPokapū (Central) Regional Champs 2025  |  Labour weekend first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/pokapu-central-regional-champs-2025-labour-weekend/",
+          "publishedOn": "2025-08-30T04:49:23.000Z",
+          "wordCount": 2075,
+          "title": "Pokapū (Central) Regional Champs 2025  |  Labour weekend",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/5f8f8b91-4820-6705-c128-7c6dde25b0d0.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64135",
+          "author": "Christo Peters",
+          "description": "All AusChamps events are within an easy drive of the capital. In keeping with the Run the River theme. Maps range from the upper Brisbane River at Wivenhoe, to the lazy bends around the UQ campus at St Lucia. Warm-up events: Come via granite rich Stanthorpe for the Queensland Middle Distance Champs and a classic […]\nAustralian Champs 2025 | Entries close 31 August  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/event-news/australian-champs-2025-entries-close-31-august/",
+          "publishedOn": "2025-08-30T04:42:56.000Z",
+          "wordCount": 2149,
+          "title": "Australian Champs 2025 | Entries close 31 August",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/6891fb18-5c9e-afce-8b06-1b788b9f7de9.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64132",
+          "author": "Christo Peters",
+          "description": "We are pleased to confirm that the 2025 Junior Camp will take place at Houghtons Bush Camp, Murawai, Auckland between Thu 11 and Tue 16 December. The camp is being hosted by Auckland Orienteering Club.  The Junior Camp website will be updated from 1 September and includes a link to the registration form. As we […]\n2025 Junior Camp  |  Registrations open 1 Sep first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2025-junior-camp-registrations-open-1-sep/",
+          "publishedOn": "2025-08-30T04:38:59.000Z",
+          "wordCount": 2187,
+          "title": "2025 Junior Camp  |  Registrations open 1 Sep",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/f421278f-2333-e5f3-2a46-933c7288bd0c.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64129",
+          "author": "Christo Peters",
+          "description": "A handful of Kiwis ventured to Spain/Catalunya for the World Masters Orienteering Championships held in Girona and hour North of Barcelona. Girona is also to be the host of the 2028 Sprint WOC. Right on cue Spain dialled up the heat with what is now known to be their “hottest” heatwave since at least 1950. For […]\nWorld Masters 2025  |  Girona first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/high-performance/world-masters/world-masters-2025-girona/",
+          "publishedOn": "2025-08-30T04:35:18.000Z",
+          "wordCount": 2453,
+          "title": "World Masters 2025  |  Girona",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/d7d89f02-0037-bb11-ea5c-61cfdd39c69e.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64126",
+          "author": "Christo Peters",
+          "description": "If you haven’t been to O-Ringen before, it is the world’s largest multi-day orienteering event, held annually in July in Sweden. It features five stages of orienteering races, each on a different map. It’s a truly iconic experience for orienteers of all ages and levels as you are in amongst the largest orienteering competition globally. Here is a brief run-down […]\nO-Ringen  | Jönköping 2025 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/o-ringen-jonkoping-2025/",
+          "publishedOn": "2025-08-30T04:31:15.000Z",
+          "wordCount": 3117,
+          "title": "O-Ringen  | Jönköping 2025",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/94d5a0a6-af03-0b4e-2c97-3b5cf75e35d1.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64123",
+          "author": "Christo Peters",
+          "description": "This is the 7th time that orienteering is represented in the 12th edition of The World Games. In 2025, 80 athletes from 24 Federations participated, assisted by 32 team coaches. The IOF with IWGA and local organisers worked extensively on providing well-organised, exciting competitions. Middle event  |  Friday 8 August – Racing in 35°C heat  After a spectacular opening […]\nNZ at the World Games 2025  | Chengdu, China first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nz-at-the-world-games-2025-chengdu-china/",
+          "publishedOn": "2025-08-30T04:26:17.000Z",
+          "wordCount": 2628,
+          "title": "NZ at the World Games 2025  | Chengdu, China",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/33042abe-9b66-a707-0e6e-9d35c3a84efe.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64120",
+          "author": "Christo Peters",
+          "description": "Orienteering New Zealand would like to acknowledge the untimely passing of Italian orienteer Mattia Debertolis at the World Games in August 2025. It has deeply impacted all orienteers. Born: 4 August 1996, in Feltre, Italy, as a youngster he enjoyed cross-country skiing and playing soccer before dedicating himself to orienteering. In 2017, he won two golds (sprint and […]\nIn memoriam  |  Mattia Debertolis first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/uncategorized/in-memoriam-mattia-debertolis/",
+          "publishedOn": "2025-08-30T04:21:31.000Z",
+          "wordCount": 2314,
+          "title": "In memoriam  |  Mattia Debertolis",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/40956fc3-df9e-f27e-639c-4d488c8e3c7f.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64114",
+          "author": "Christo Peters",
+          "description": "Orienteering announced the management team in July for Southern Cross this year including Managers: Susy Carryer, Lara Malloy, Kathryn Chrystal and the coaches: Tane Cambridge, Michael Croxford, Nathan Borton, We have spoken to a few  new orienteers jining the Southern cross leadership team this year: Kathryn Chrystal |  Manager  I started orienteering late only after my three girls (Sofia, Katelin […]\nMeet the Southern Cross Challenge Leaders first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/meet-the-southern-cross-challenge-leaders/",
+          "publishedOn": "2025-08-30T04:17:20.000Z",
+          "wordCount": 2682,
+          "title": "Meet the Southern Cross Challenge Leaders",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/370c4558-1cb9-5226-4ef5-f93f50208bbe.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64111",
+          "author": "Christo Peters",
+          "description": "Organised in conjunction with the New Zealand Rogaine Association, it followis on from the success of the 15hr National Rogaine Champs at Tekapo 2 years ago. Highland Events are organising the 2025 event with a course area that will loosely cover the high areas of Mt Pisa between Meg hut and Lake McKay. Hash houses will be […]\nNational Rogaine Champs  |  Mt Pisa – 22nd/23rd November  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/rogaining/national-rogaine-champs-mt-pisa-22nd-23rd-november/",
+          "publishedOn": "2025-08-30T04:09:57.000Z",
+          "wordCount": 2173,
+          "title": "National Rogaine Champs  |  Mt Pisa – 22nd/23rd November",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/c5b38083-574e-77c1-8a24-ffe276132243.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64108",
+          "author": "Christo Peters",
+          "description": "Plzen MTBO 5 Days, Czech RepublicOur final competition was the biennial Plzen 5 Days mountain bike orienteering event. We did it in 2017 and it was a major reason for our return trip in 2025. We’re delighted to say that the level of technical riding, social aspects and [some] of our results did not disappoint! […]\nEuro journal – part 3 & final  | Deb Bain & Sally Dickson first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/mtbo/euro-journal-part-3-final-deb-bain-sally-dickson/",
+          "publishedOn": "2025-08-30T04:06:35.000Z",
+          "wordCount": 4513,
+          "title": "Euro journal – part 3 & final  | Deb Bain & Sally Dickson",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/0de4456e-5aea-9efb-da25-3d5a21d949c2.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64101",
+          "author": "Christo Peters",
+          "description": "Lots of NZ athletes feature in the latest Australian Orienteer magazine, but special mention to Rachel Baker not only on the cover of the latest issue, but also the page 7 girl. Some Kiwis are pictured and mentioned in the Trewin report with Zefa Fa’avae on page 6 and Tim Robertson pictured on page 10, and a […]\nAustralian Orienteer Magazine |  September issue first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/high-performance/world-cup/australian-orienteer-magazine-september-issue/",
+          "publishedOn": "2025-08-30T04:01:24.000Z",
+          "wordCount": 2188,
+          "title": "Australian Orienteer Magazine |  September issue",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/title-1.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64098",
+          "author": "Christo Peters",
+          "description": "IOF is hosting a FootO Event Advisers’ Clinic in Brisbane as part of the Australian Schools Championships on the 3rd of October. This clinic is aimed at experienced controllers who are looking to further develop their skills. The programme will cover: • Foot Orienteering competition rules• ISOM 2017-2 and ISSprOM 2019-2 mapping standard• Control description• […]\nIOF Foot O Event Advisers’ Clinic – Brisbane, 3 October first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/iof-foot-o-event-advisers-clinic-brisbane-3-october/",
+          "publishedOn": "2025-08-30T03:50:40.000Z",
+          "wordCount": 2149,
+          "title": "IOF Foot O Event Advisers’ Clinic – Brisbane, 3 October",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/23d3e99a-4289-c637-50ae-87a6f053f84a.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64094",
+          "author": "Christo Peters",
+          "description": "Orienteering NZ wishes for our sport to continue to be a respectful, safe, and fair sport. To this end, we would like to remind everyone involved in our sport that all club members, coaches, managers, and supporters are bound by our sport’s code of conduct. This document outlines expectations for everyone involved in our sport […]\nONZ Policy guide  |  Code of conduct first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/rogaining/onz-policy-guide-code-of-conduct/",
+          "publishedOn": "2025-08-30T03:37:51.000Z",
+          "wordCount": 2164,
+          "title": "ONZ Policy guide  |  Code of conduct",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/08/Sports-Standards-logo.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=64062",
           "author": "Christo Peters",
