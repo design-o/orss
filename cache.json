@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80018",
+          "author": "Clive",
+          "description": "Czechia and Ukraine are the new World Champions in O and P class respectively in the Relay, with the Open class resolved in a tense and exciting climax at the final spectator TempO station. Both Italy and Slovakia finished within 2 minutes of the Czech score. The Relay competition for teams of three consists of […]",
+          "link": "https://orienteering.sport/world-trailo-championships-czechia-and-ukraine-are-world-champions-in-relay/",
+          "publishedOn": "2025-08-30T19:49:27.000Z",
+          "wordCount": 1849,
+          "title": "World TrailO Championships: Czechia and Ukraine are world champions in Relay",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wtoc_2025_logo.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=79891",
           "author": "Erling Thisted",
           "description": "Cecile Calandry (FRA) and August Mollén (SWE) are European Champions in Knock-Out Sprint after an exciting Friday afternoon in Geel, Belgium. With the central Maarkt square as a packed arena for all of the afternoon’s races, the Belgian organizers created an atmospheric finish to all 20 races in today’s Knock-Out races. Starting with the quarterfinals […]",
@@ -330,6 +340,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Find out what's on at this week's Park Street events\nPark Street Update, August 26-September 1 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-08-23T00:41:54.000Z",
+          "wordCount": 1051,
+          "title": "Park Street Update, August 26-September 1",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14453",
           "author": "Debbie Dodd",
           "description": "The next MelbushO is at Yarra Flats on Sunday August 24. Enter online now.\nMelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open first appeared on Orienteering Victoria.",
@@ -357,16 +377,6 @@
           "publishedOn": "2025-08-07T10:07:20.000Z",
           "wordCount": 1020,
           "title": "Ted Wins Silver At WMOC",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14798",
-          "author": "Debbie Dodd",
-          "description": "The next Vic Series is at Irishtown on Sunday 27 July. Get your entry in!\nVic Series, Joyces Creek Sandon, Sunday August 31 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vic-series-irishtown-july-27-entries-now-open/",
-          "publishedOn": "2025-08-01T07:08:35.000Z",
-          "wordCount": 990,
-          "title": "Vic Series, Joyces Creek Sandon, Sunday August 31",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
