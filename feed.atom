@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T00:50:13.386Z</updated>
+    <updated>2025-08-31T06:13:08.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -438,6 +438,17 @@ Park Street Update, August 26-September 1 first appeared on Orienteering Victori
 The Australian Orienteer: September Edition Now Online first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double Down This Weekend in Sandon]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14798</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-irishtown-july-27-entries-now-open/"/>
+        <updated>2025-08-21T07:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Two big events, one epic weekend!
+Double Down This Weekend in Sandon first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
