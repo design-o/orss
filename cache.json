@@ -333,6 +333,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21169",
+          "author": "Jan Kocbach",
+          "description": "Pia Young Vik (Norway) and Barros Vallet (France) won surprise gold medals when the 2025 European Orienteering Championships (EOC) concluded on Sunday with thrilling individual sprint finals in Lier, Belgium. Some tricky long route choices challenged the pre-race favourites – with many runners losing significant time.  France’s Mathias Barros Vallet produced the performance of his career to ...",
+          "link": "https://news.worldofo.com/2025/09/01/eoc-2025-sprint-maps-results-and-analysis/",
+          "publishedOn": "2025-09-01T03:00:35.000Z",
+          "wordCount": 3575,
+          "title": "EOC 2025 Sprint: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/09/sprintindmen-660x330.gif"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21152",
           "author": "Jan Kocbach",
           "description": "August Mollén secured his first international championship title with a smart route choice in the final meters, leading a Swedish 1-2 ahead of Jonatan Gustafsson, while Cécile Calandry claimed her first major title in the women’s race at the European Championships Knock-Out Sprint in Geel, Belgium. The Market Square in Geel provided the arena for ...",
@@ -798,6 +808,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14492",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Orienteering Australia (OA) is currently inviting Expressions of Interests (EOIs) for two paid roles: Manager, Coaching Development and Manager, Athlete Development.\nOpen Now: OA Paid Manager Positions first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/open-now-oa-paid-manager-positions/",
+          "publishedOn": "2025-09-01T04:33:08.000Z",
+          "wordCount": 2525,
+          "title": "Open Now: OA Paid Manager Positions",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14484",
           "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
