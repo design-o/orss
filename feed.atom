@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T12:19:07.670Z</updated>
+    <updated>2025-09-01T18:12:50.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -869,17 +869,6 @@ Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever f
         <summary type="html"><![CDATA[Sara Mason has joined our team as our new RDO for the Border, Midland & Western area. Sara is an active member of FermO and enjoys any time she spends on a map! Sara has also previously delivered many OI programmes such as Ready To Go and ParkO as a Level 1 Orienteering Instructor over the […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONZ CHAMPIONSHIPS 2026 – EMBARGOED AREAS]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64032</id>
-        <link href="https://www.orienteering.org.nz/news/onz-championships-2026-embargoed-areas/"/>
-        <updated>2025-08-03T00:54:59.000Z</updated>
-        <summary type="html"><![CDATA[(1) ONZ Sprint Distance – Friday 3 April 2026 – Rathkeale College, Willow Park Drive, Masterton All building and grounds at Rathkeale College are embargoed to all orienteers until the day of the event. Exception is for genuine educational purposes. (2) ONZ Middle Distance – Saturday 4 April 2026 – Rewanui Forest Park, Blairlogie The […]
-ONZ CHAMPIONSHIPS 2026 – EMBARGOED AREAS first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Malcolm Ingham</name>
         </author>
     </entry>
 </feed>
