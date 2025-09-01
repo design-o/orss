@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T18:11:35.977Z</updated>
+    <updated>2025-09-01T00:56:15.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC: Sprint titles for Young Vik and Barros Vallet]]></title>
+        <id>https://orienteering.sport/?p=80088</id>
+        <link href="https://orienteering.sport/eoc-sprint-titles-for-young-vik-and-barros-vallet/"/>
+        <updated>2025-08-31T19:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Both the women’s and men’s titles saw new faces at the top of the podium, as the European Championships in Belgium concluded with the individual sprint in Lier on Sunday afternoon. In the men’s category, France’s Mathias Barros Vallet won ahead of Norwegians Kasper Fosser and Eirik Langedal Breivik, while Norway took gold in the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World TrailO Championships: Marcello Lambertini, Italy is 2025 TempO World Champion]]></title>
+        <id>https://orienteering.sport/?p=80086</id>
+        <link href="https://orienteering.sport/world-trailo-championships-marcello-lambertini-italy-is-2025-tempo-world-champion/"/>
+        <updated>2025-08-31T19:03:44.000Z</updated>
+        <summary type="html"><![CDATA[In a tense final with the result in doubt right to the end, Marcello Lambertini emerged victorious after a long and agonising wait for the best qualifiers to finish – he was tenth in his heat. He was not the fastest in the Final, but made only 2 mistakes on the technically difficult course, compared […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC: 92 athletes ready for Sprint finals]]></title>
         <id>https://orienteering.sport/?p=80044</id>
