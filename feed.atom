@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T12:18:03.241Z</updated>
+    <updated>2025-09-05T18:12:54.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -919,16 +919,6 @@ Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever f
         <updated>2025-08-07T10:07:20.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering at the World Games kick off Friday morning]]></title>
-        <id>https://orienteering.sport/?p=79011</id>
-        <link href="https://orienteering.sport/orienteering-at-the-world-games-kick-off-friday-morning/"/>
-        <updated>2025-08-07T04:45:05.000Z</updated>
-        <summary type="html"><![CDATA[80 athletes from 24 different federations will have a huge experience this week, where orienteering is once again part of the World Games, which this year takes place in Chengdu, China. From August 7th to 17th, around 4000 athletes are gathered in the Chinese city of millions, where they will compete in 34 different sports […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
