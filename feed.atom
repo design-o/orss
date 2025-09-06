@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T18:12:54.967Z</updated>
+    <updated>2025-09-06T00:42:54.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -908,15 +908,6 @@ World Games 2025 Has Begun! first appeared on Orienteering Australia.]]></summar
         <updated>2025-08-08T04:31:10.000Z</updated>
         <summary type="html"><![CDATA[Diamonds are forever!  Vic Series 7 sees the first Australian use of a diamond forking system. This is your chance to try this fantastic new format
 Vic Series 7, Sunday August 17, Nuggety Range, Maldon – Diamonds Are Forever first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ted Wins Silver At WMOC]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14940</id>
-        <link href="https://www.vicorienteering.asn.au/ted-wins-silver-at-wmoc/"/>
-        <updated>2025-08-07T10:07:20.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
