@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T06:12:57.052Z</updated>
+    <updated>2025-09-06T12:15:44.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Australia Elite Rankings – September 2025]]></title>
+        <id>https://orienteering.asn.au/?p=14515</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-elite-rankings-september-2025/"/>
+        <updated>2025-09-06T04:42:31.000Z</updated>
+        <summary type="html"><![CDATA[The latest Orienteering Australia Elite Rankings are published.
+Orienteering Australia Elite Rankings – September 2025 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AUSTRALIAN MTBO CHAMPIONSHIPS]]></title>
         <id>https://orienteering.asn.au/?p=14511</id>
