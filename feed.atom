@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T06:13:37.205Z</updated>
+    <updated>2025-09-07T12:15:36.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -868,17 +868,6 @@ MelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open first a
 Entries are open for Tūāraki Regional Champs first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World MTBO Championships]]></title>
-        <id>https://orienteering.asn.au/?p=14401</id>
-        <link href="https://orienteering.asn.au/world-mtbo-championships/"/>
-        <updated>2025-08-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australia trio is on their way to Poland for the World MTBO Championships from 11-17 August.
-World MTBO Championships first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
