@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T18:11:04.543Z</updated>
+    <updated>2025-09-07T00:49:16.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup: Aebersold takes the lead after EOC, Bejmer stays in top]]></title>
+        <id>https://orienteering.sport/?p=80162</id>
+        <link href="https://orienteering.sport/world-cup-aebersold-takes-the-lead-after-eoc-bejmer-stays-in-top/"/>
+        <updated>2025-09-06T20:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Simona Aebersold (SUI) and Max Peter Bejmer (SWE) lead the World Cup standings after last week’s European Orienteering Championships in Belgium, which was also Round 2 of this year’s Orienteering World Cup. And an exciting finish is set for the World Cup final, which will be held in Uster, Switzerland later this month. Reigning champion […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Australia Elite Rankings – September 2025]]></title>
         <id>https://orienteering.asn.au/?p=14515</id>
@@ -889,27 +899,6 @@ World MTBO Championships first appeared on Orienteering Australia.]]></summary>
         <summary type="html"><![CDATA[The city of Girona in Spain is set to welcome orienteering enthusiasts from around the globe as the World Masters Orienteering Championships (WMOC) 2025 officially begin this Saturday, August 9. More than 2300 athletes aged 35 and over arriving from 47 countries, the historic Catalan city will become the epicenter of international masters-level orienteering for […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First ever World Games medals in orienteering for Canada, Slovakia and Italy]]></title>
-        <id>https://orienteering.sport/?p=79087</id>
-        <link href="https://orienteering.sport/first-ever-world-games-medals-in-orienteering-for-canada-slovakia-and-italy/"/>
-        <updated>2025-08-08T11:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Three “new” nations can boast of having won a World Games medal in orienteering after Friday’s middle distance race kicked off the Games in Chengdu, China. Slovakia, Italy and Canada joined the exclusive club on a day when the gold medals went to Swiss Riccardo Rancan and Simona Aebersold, who received the very first golds […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Games 2025 Has Begun!]]></title>
-        <id>https://orienteering.asn.au/?p=14407</id>
-        <link href="https://orienteering.asn.au/world-games-2025-has-begun/"/>
-        <updated>2025-08-08T11:24:27.000Z</updated>
-        <summary type="html"><![CDATA[Our Aussie team of Caitlin Young, Milla Key, Angus Haines, Alastair George and Ben Rattray (Team Leader) have arrived in Chengdu, China to compete in the 2025 World Games.
-World Games 2025 Has Begun! first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>

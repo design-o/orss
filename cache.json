@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80162",
+          "author": "Erling Thisted",
+          "description": "Simona Aebersold (SUI) and Max Peter Bejmer (SWE) lead the World Cup standings after last week’s European Orienteering Championships in Belgium, which was also Round 2 of this year’s Orienteering World Cup. And an exciting finish is set for the World Cup final, which will be held in Uster, Switzerland later this month. Reigning champion […]",
+          "link": "https://orienteering.sport/world-cup-aebersold-takes-the-lead-after-eoc-bejmer-stays-in-top/",
+          "publishedOn": "2025-09-06T20:23:40.000Z",
+          "wordCount": 1781,
+          "title": "World Cup: Aebersold takes the lead after EOC, Bejmer stays in top",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_eocsprint_simonaaebersold_silkevanrooy-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80157",
           "author": "Erling Thisted",
           "description": "This week, more than 500 orienteers will meet in Bulgaria for the 13th edition of the South East European Championships, which also includes Masters championships classes. The championships will be held in central Bulgaria and will feature Middle, Long, Relay and Sprint races from Thursday to Sunday. Athletes from the 13 countries that are part […]",
@@ -314,16 +324,6 @@
           "wordCount": 1509,
           "title": "World Masters Orienteering Championships 2025 kick off in Girona",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2022/10/logo_wmoc25_spain-1024x1024.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=79087",
-          "author": "Erling Thisted",
-          "description": "Three “new” nations can boast of having won a World Games medal in orienteering after Friday’s middle distance race kicked off the Games in Chengdu, China. Slovakia, Italy and Canada joined the exclusive club on a day when the gold medals went to Swiss Riccardo Rancan and Simona Aebersold, who received the very first golds […]",
-          "link": "https://orienteering.sport/first-ever-world-games-medals-in-orienteering-for-canada-slovakia-and-italy/",
-          "publishedOn": "2025-08-08T11:24:42.000Z",
-          "wordCount": 1777,
-          "title": "First ever World Games medals in orienteering for Canada, Slovakia and Italy",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_twg_middle_riccardo_rancan_erlingthisted_-1024x683.jpg"
         }
       ]
     },
@@ -926,16 +926,6 @@
           "publishedOn": "2025-08-09T00:00:00.000Z",
           "wordCount": 2571,
           "title": "World MTBO Championships",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14407",
-          "author": "Elizabeth L",
-          "description": "Our Aussie team of Caitlin Young, Milla Key, Angus Haines, Alastair George and Ben Rattray (Team Leader) have arrived in Chengdu, China to compete in the 2025 World Games.\nWorld Games 2025 Has Begun! first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/world-games-2025-has-begun/",
-          "publishedOn": "2025-08-08T11:24:27.000Z",
-          "wordCount": 2403,
-          "title": "World Games 2025 Has Begun!",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
