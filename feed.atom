@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T18:11:12.893Z</updated>
+    <updated>2025-09-08T00:47:32.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -857,17 +857,6 @@ MelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open first a
         <summary type="html"><![CDATA[Sunday’s sprint at the World Games in Chengdu, China, featured several surprises. Both Hungary and Spain won orienteering medals for the first time in World Games history, while gold medals went to Simona Aebersold (SUI) and Yannick Michiels (BEL). It was rainy and cooler than the previous days in Chengdu when the athletes started the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries are open for Tūāraki Regional Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64051</id>
-        <link href="https://www.orienteering.org.nz/news/entries-are-open-for-tuaraki-regional-champs/"/>
-        <updated>2025-08-09T06:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering BOP and the Taupō Orienteering Club are delighted to announce that entries are now open for the Tūāraki North Regional Champs, taking place in and around Rotorua and Taupō on 8–9 November 2025.We are excited to showcase some amazing courses and terrain, including a resurrection of the famous Ōpepe map, and an exciting new […]
-Entries are open for Tūāraki Regional Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
 </feed>
