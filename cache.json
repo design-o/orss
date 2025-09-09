@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80169",
+          "author": "Erling Thisted",
+          "description": "During a meeting on 1 September 2025, the IOF Council agreed to appoint an Independent Investigation Panel following the tragic death of Italian athlete Mattia Debertolis. The panel will be tasked to investigate and assess to Middle distance competition at the The World Games in Chengdu, China in August 2025. The investigation should encompass the […]",
+          "link": "https://orienteering.sport/iof-establishes-independent-investigation-panel-following-tragedy/",
+          "publishedOn": "2025-09-09T11:32:36.000Z",
+          "wordCount": 1452,
+          "title": "IOF establishes Independent Investigation Panel following tragedy",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80162",
           "author": "Erling Thisted",
           "description": "Simona Aebersold (SUI) and Max Peter Bejmer (SWE) lead the World Cup standings after last week’s European Orienteering Championships in Belgium, which was also Round 2 of this year’s Orienteering World Cup. And an exciting finish is set for the World Cup final, which will be held in Uster, Switzerland later this month. Reigning champion […]",
@@ -284,16 +294,6 @@
           "wordCount": 1573,
           "title": "World Games: Narrow Swiss win in Sprint Relay",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_twg_sprintrelay_start_klement_kelen-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=79116",
-          "author": "Clive",
-          "description": "Danish rider Nikoline Splittorff will be going all out to repeat her set of three individual European Championship wins this year when the international MTBO stars meet up for the CX80 World MTBO Championships, being held this week in Warsaw, Poland. 134 riders from 24 nations will be taking part. Splittorff has already established an […]",
-          "link": "https://orienteering.sport/mtbo-stars-head-for-cx80-world-championships-in-warsaw/",
-          "publishedOn": "2025-08-10T20:43:50.000Z",
-          "wordCount": 1786,
-          "title": "MTBO stars head for CX80 World Championships in Warsaw",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wmtboc_2025_logo_red_bgpng.png"
         }
       ]
     },
