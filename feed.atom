@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T06:14:30.724Z</updated>
+    <updated>2025-09-10T12:17:27.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -827,16 +827,6 @@ MelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open first a
         <summary type="html"><![CDATA[The International World Games Association (IWGA), Local Organising Committee (LOC) of The World Games 2025 Chengdu and the International Orienteering Federation (IOF) confirm with great sadness the passing of Italian orienteering athlete, Mattia Debertolis. Mattia Debertolis was found unconscious during the Men’s Middle Distance competition of Orienteering on the morning of Friday, 8 August 2025 […]]]></summary>
         <author>
             <name>Sondre Sande Gullord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint Statement from IWGA, LOC 2025 Chengdu and IOF]]></title>
-        <id>https://orienteering.sport/?p=79174</id>
-        <link href="https://orienteering.sport/joint-statement-from-iwga-loc-2025-chengdu-and-iof/"/>
-        <updated>2025-08-12T00:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The International World Games Association (IWGA), Local Organising Committee (LOC) of The World Games 2025 Chengdu and the International Orienteering Federation (IOF) confirm with great sadness the passing of Italian orienteering athlete, Mattia Debertolis. Mattia Debertolis was found unconscious during the Men’s Middle Distance competition of Orienteering on the morning of Friday, 8 August 2025 […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
