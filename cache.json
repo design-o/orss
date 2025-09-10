@@ -264,16 +264,6 @@
           "wordCount": 1817,
           "title": "CX80 WMTBOC: first gold medals to Finland and Czechia",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_wtmboc_sprint_photo1-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=79182",
-          "author": "Sondre Sande Gullord",
-          "description": "The International World Games Association (IWGA), Local Organising Committee (LOC) of The World Games 2025 Chengdu and the International Orienteering Federation (IOF) confirm with great sadness the passing of Italian orienteering athlete, Mattia Debertolis. Mattia Debertolis was found unconscious during the Men’s Middle Distance competition of Orienteering on the morning of Friday, 8 August 2025 […]",
-          "link": "https://orienteering.sport/iof-mourns-death-of-italian-athlete-mattia-debertolis/",
-          "publishedOn": "2025-08-12T00:47:25.000Z",
-          "wordCount": 1654,
-          "title": "IOF mourns death of Italian athlete Mattia Debertolis",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_mattiadebertolis_woc_mq-1024x512.jpg"
         }
       ]
     },
@@ -377,16 +367,6 @@
           "publishedOn": "2025-08-19T07:24:06.000Z",
           "wordCount": 919,
           "title": "Vic Series Winners",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14453",
-          "author": "Debbie Dodd",
-          "description": "The next MelbushO is at Yarra Flats on Sunday August 24. Enter online now.\nMelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/",
-          "publishedOn": "2025-08-12T05:45:52.000Z",
-          "wordCount": 1159,
-          "title": "MelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -654,6 +634,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56058",
+          "author": "nikkihoward",
+          "description": "Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]",
+          "link": "https://www.scottish-orienteering.org/news/lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts",
+          "publishedOn": "2025-09-10T15:28:24.000Z",
+          "wordCount": 1616,
+          "title": "Let’s celebrate those who deserve to be recognised for their efforts!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/IMG_0481-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56072",
+          "author": "nikkihoward",
+          "description": "The SOA accounts for the year to 31st December 2024 have now been finalised and approved. They are available to […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september/?utm_source=rss&utm_medium=rss&utm_campaign=soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september",
+          "publishedOn": "2025-09-10T15:11:29.000Z",
+          "wordCount": 1578,
+          "title": "SOA Accounts to 31st December 2024 available to view before AGM on Monday 22nd September",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56067",
           "author": "louise",

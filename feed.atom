@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T12:17:27.374Z</updated>
+    <updated>2025-09-10T18:13:37.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let’s celebrate those who deserve to be recognised for their efforts!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56058</id>
+        <link href="https://www.scottish-orienteering.org/news/lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts"/>
+        <updated>2025-09-10T15:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOA Accounts to 31st December 2024 available to view before AGM on Monday 22nd September]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56072</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september"/>
+        <updated>2025-09-10T15:11:29.000Z</updated>
+        <summary type="html"><![CDATA[The SOA accounts for the year to 31st December 2024 have now been finalised and approved. They are available to […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF establishes Independent Investigation Panel following tragedy]]></title>
         <id>https://orienteering.sport/?p=80169</id>
@@ -806,27 +826,6 @@ Golden Bay Revisited – Amazing locations first appeared on Orienteering New Ze
         <summary type="html"><![CDATA[Ruska Saarela, Finland and Krystof Bogar, Czechia won the Sprints on challenging courses in Poland today; the lead changed several times in both races. Saarela finished fastest by 0.25, whilst Bogar’s win was by an impressive 1.14. Saarela, second in the World Cup standings, had a difficult start – 27th at the first TV timing […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14453</id>
-        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
-        <updated>2025-08-12T05:45:52.000Z</updated>
-        <summary type="html"><![CDATA[The next MelbushO is at Yarra Flats on Sunday August 24. Enter online now.
-MelBushO at Yarra Flats Park, Sunday 24 August – Online Entry Now Open first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF mourns death of Italian athlete Mattia Debertolis]]></title>
-        <id>https://orienteering.sport/?p=79182</id>
-        <link href="https://orienteering.sport/iof-mourns-death-of-italian-athlete-mattia-debertolis/"/>
-        <updated>2025-08-12T00:47:25.000Z</updated>
-        <summary type="html"><![CDATA[The International World Games Association (IWGA), Local Organising Committee (LOC) of The World Games 2025 Chengdu and the International Orienteering Federation (IOF) confirm with great sadness the passing of Italian orienteering athlete, Mattia Debertolis. Mattia Debertolis was found unconscious during the Men’s Middle Distance competition of Orienteering on the morning of Friday, 8 August 2025 […]]]></summary>
-        <author>
-            <name>Sondre Sande Gullord</name>
         </author>
     </entry>
 </feed>
