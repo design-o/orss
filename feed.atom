@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T12:17:19.675Z</updated>
+    <updated>2025-09-11T18:11:06.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -826,17 +826,6 @@ The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]
         <summary type="html"><![CDATA[Martina Tichovska, Czechia and Andre Haga, Finland are the gold medalists at the end of a tough Middle race in the CX80 World MTBO Championships in Poland. In a very tight men’s race it was a Finnish masterclass, with the first four places all taken by Finnish riders. 39-year-old Tichovska, world-ranked number 4, has won […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golden Bay Revisited – Amazing locations]]></title>
-        <id>https://www.orienteering.org.nz/?p=64062</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/golden-bay-revisited-amazing-locations/"/>
-        <updated>2025-08-13T05:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Nelson Orienteering Club invites all orienteers, from New Zealand and abroad, to celebrate top-quality orienteering on the South Island of New Zealand. Would you like to revisit those stunning locations from King’s Birthday 2024? Did you miss out, hear all the wonderful stories, and wish you had been there? Alternatively, if you would like some […]
-Golden Bay Revisited – Amazing locations first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
