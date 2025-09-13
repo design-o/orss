@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-13T12:15:30.868Z</updated>
+    <updated>2025-09-13T18:10:54.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -746,16 +746,6 @@ The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]
         <summary type="html"><![CDATA[The European Orienteering Championships (EOC) will take place in Belgium at the end of August.There is a strong Irish team of eight athletes travelling. Ahead of the championships, we caught up with two of the athletes. For Emer Perkins, fromBishopstown Orienteering Club, it will be her first time to represent Ireland at senior level.She will […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrailO Event Adviser Clinic at WTOC 2025]]></title>
-        <id>https://orienteering.sport/?p=79247</id>
-        <link href="https://orienteering.sport/trailo-event-adviser-clinic-at-wtoc-2025/"/>
-        <updated>2025-08-15T00:30:10.000Z</updated>
-        <summary type="html"><![CDATA[The IOF TrailO and Rules commissions, in collaboration with the WTOC 2025 organisers, welcome participants to a TrailO Event Advisers’ Clinic in Slovakia. The main objective of this IOF Trail Orienteering Event Advisers’ Clinic is to prepare participants to be licensed IOF Trail Orienteering Event Advisers. The clinic is also recommended for already licensed Event […]]]></summary>
-        <author>
-            <name>Martin Fredholm</name>
         </author>
     </entry>
 </feed>
