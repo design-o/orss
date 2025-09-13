@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-13T00:40:52.282Z</updated>
+    <updated>2025-09-13T06:12:12.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -776,46 +776,6 @@ The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]
         <summary type="html"><![CDATA[Welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a pub around [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September Community Conversation: Supporting Clubs – Event Access and Permissions]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56043</id>
-        <link href="https://www.scottish-orienteering.org/news/september-community-conversation-supporting-clubs-event-access-and-permissions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=september-community-conversation-supporting-clubs-event-access-and-permissions"/>
-        <updated>2025-08-14T14:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Following a break for the summer, the next members’ monthly online Community Conversation is on Monday 8th September (7.30 to […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Club Networking Day – Join the discussion about creating Lifelong Pathways]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56039</id>
-        <link href="https://www.scottish-orienteering.org/news/club-networking-day-join-the-discussion-about-creating-lifelong-pathways/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=club-networking-day-join-the-discussion-about-creating-lifelong-pathways"/>
-        <updated>2025-08-14T14:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Club Networking Day taking place between 10am and 4pm on 6th September 2025 at North Inch Community Campus in Perth. Book […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTBO Mass Start: Splittorff back to winning ways, sprint finish for men’s medals]]></title>
-        <id>https://orienteering.sport/?p=79227</id>
-        <link href="https://orienteering.sport/mtbo-mass-start-splittorff-back-to-winning-ways-sprint-finish-for-mens-medals/"/>
-        <updated>2025-08-14T13:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Nikoline Splittorff, Denmark was back at her best today, winning the Mass Start by 3.21, whilst Czech rider Vojtech Ludvik won by 2 seconds in a thrilling men’s finish where second place was tied. The men’s race in sunny Warsaw, Poland was led early on by Ludvik, no stranger to world championship medals, but he […]]]></summary>
-        <author>
-            <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Orienteering Board Opportunities]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56036</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-orienteering-board-opportunities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-orienteering-board-opportunities"/>
-        <updated>2025-08-14T13:23:13.000Z</updated>
-        <summary type="html"><![CDATA[The SOA Board is responsible for the governance of orienteering in Scotland. Much of the work is behind the scenes, […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
