@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-13T18:10:54.883Z</updated>
+    <updated>2025-09-14T00:48:05.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -736,16 +736,6 @@ The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]
         <summary type="html"><![CDATA[Ruska Saarela, Finland and Vojtech Ludvik, Czechia both recorded their second victory in the CX80 WMTBOC today, Saarela by 18 seconds and Ludvik by just over 3 minutes. Czechia’s men were wholly dominant, packing four riders into the top six. The women’s race, over 28.9 km with 360 m climb, was a fascinating contest between […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-European Championships interviews]]></title>
-        <id>https://www.orienteering.ie/?p=21408</id>
-        <link href="https://www.orienteering.ie/pre-european-championships-interviews/"/>
-        <updated>2025-08-15T08:32:16.000Z</updated>
-        <summary type="html"><![CDATA[The European Orienteering Championships (EOC) will take place in Belgium at the end of August.There is a strong Irish team of eight athletes travelling. Ahead of the championships, we caught up with two of the athletes. For Emer Perkins, fromBishopstown Orienteering Club, it will be her first time to represent Ireland at senior level.She will […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
