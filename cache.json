@@ -594,6 +594,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56088",
+          "author": "nikkihoward",
+          "description": "The September session in the SOA’s monthly online Community Conversations series focused on access to orienteering areas and navigating permissions. […]",
+          "link": "https://www.scottish-orienteering.org/news/orienteering-access-and-navigating-permissions-september-community-conversation/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-access-and-navigating-permissions-september-community-conversation",
+          "publishedOn": "2025-09-15T13:29:19.000Z",
+          "wordCount": 2162,
+          "title": "Orienteering Access and Navigating Permissions: September Community Conversation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56058",
           "author": "nikkihoward",
           "description": "Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]",
@@ -765,16 +775,6 @@
           "publishedOn": "2025-08-19T09:00:00.000Z",
           "wordCount": 2341,
           "title": "Survey Season: Volunteering in Orienteering",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14431",
-          "author": "Elizabeth L",
-          "description": "Australia had a strong team representing in The World Games 2025: Caitlin Young, Milla Key, Angus Haines, Alastair George and Ben Rattray (team leader).\nThe World Games 2025 Results & Recap first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/the-world-games-2025-results-recap/",
-          "publishedOn": "2025-08-17T03:38:55.000Z",
-          "wordCount": 2897,
-          "title": "The World Games 2025 Results & Recap",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

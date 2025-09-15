@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T12:18:23.501Z</updated>
+    <updated>2025-09-15T18:13:46.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Access and Navigating Permissions: September Community Conversation]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56088</id>
+        <link href="https://www.scottish-orienteering.org/news/orienteering-access-and-navigating-permissions-september-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-access-and-navigating-permissions-september-community-conversation"/>
+        <updated>2025-09-15T13:29:19.000Z</updated>
+        <summary type="html"><![CDATA[The September session in the SOA’s monthly online Community Conversations series focused on access to orienteering areas and navigating permissions. […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEEOC 2025 in Bulgaria ended successfully]]></title>
         <id>https://orienteering.sport/?p=80184</id>
@@ -735,17 +745,6 @@ The post Extra Ordinary General Meeting appeared first on NI Orienteering Associ
         <summary type="html"><![CDATA[Czechia delivered a strong finish to an already great series of Czech achievements at CX80 MTBO World Championship by winning both the women’s and men’s relays on Sunday morning. The MTBO athletes’ final competition in Poland took place a little further north in terrain that was flatter and faster than the other forest distances. Strong […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World Games 2025 Results & Recap]]></title>
-        <id>https://orienteering.asn.au/?p=14431</id>
-        <link href="https://orienteering.asn.au/the-world-games-2025-results-recap/"/>
-        <updated>2025-08-17T03:38:55.000Z</updated>
-        <summary type="html"><![CDATA[Australia had a strong team representing in The World Games 2025: Caitlin Young, Milla Key, Angus Haines, Alastair George and Ben Rattray (team leader).
-The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
