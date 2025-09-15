@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T18:11:04.129Z</updated>
+    <updated>2025-09-15T00:48:36.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEEOC 2025 in Bulgaria ended successfully]]></title>
+        <id>https://orienteering.sport/?p=80184</id>
+        <link href="https://orienteering.sport/seeoc-2025-in-bulgaria-ended-successfully/"/>
+        <updated>2025-09-14T21:57:56.000Z</updated>
+        <summary type="html"><![CDATA[The SEEOC 2025 – South East European Orienteering Championships including Masters, held this year in central Bulgaria, are now over for 2025. All medals have been awarded and the atmosphere was truly enjoyable. The forest races were set in Skumsale, Strelcha with featured an oak forest covered mountain, sprinkled with huge granite megalithic rocks, which […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here is the programme for the 2027 Orienteering World Cup]]></title>
+        <id>https://orienteering.sport/?p=80051</id>
+        <link href="https://orienteering.sport/here-is-the-programme-for-the-2027-orienteering-world-cup/"/>
+        <updated>2025-09-14T19:58:59.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation (IOF) has officially confirmed the programme for the 2027 Orienteering World Cup, set to feature four exciting rounds across Europe. The series will showcase a mix of forest and sprint formats, aimed at testing the full range of orienteering skills. The season will open in Hälsingland, Sweden (2–6 June), known for […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turf but no Surf]]></title>
         <id>https://www.niorienteering.org.uk/?p=6757</id>
