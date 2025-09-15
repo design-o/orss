@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T00:48:36.485Z</updated>
+    <updated>2025-09-15T06:16:01.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -746,16 +746,6 @@ The post Extra Ordinary General Meeting appeared first on NI Orienteering Associ
 The World Games 2025 Results & Recap first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTBO Long Distance: second golds for Saarela and Ludvik]]></title>
-        <id>https://orienteering.sport/?p=79261</id>
-        <link href="https://orienteering.sport/mtbo-long-distance-second-golds-for-saarela-and-ludvik/"/>
-        <updated>2025-08-16T15:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Ruska Saarela, Finland and Vojtech Ludvik, Czechia both recorded their second victory in the CX80 WMTBOC today, Saarela by 18 seconds and Ludvik by just over 3 minutes. Czechia’s men were wholly dominant, packing four riders into the top six. The women’s race, over 28.9 km with 360 m climb, was a fascinating contest between […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
