@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T00:43:04.510Z</updated>
+    <updated>2025-09-16T06:14:38.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -743,16 +743,6 @@ The post Extra Ordinary General Meeting appeared first on NI Orienteering Associ
         <link href="https://orienteering.sport/world-masters-orienteering-championships-2025-conclude-in-girona/"/>
         <updated>2025-08-18T20:53:14.000Z</updated>
         <summary type="html"><![CDATA[The picturesque city of Girona and its scenic surroundings in Spain’s Catalonia region concluded a thrilling week of master-level orienteering as the World Masters Orienteering Championships wrapped up on Friday. The event, held from August 8 to 15, welcomed over 3000 athletes aged 35 to 95+ from 47 nations. All photos: WMOC 2025 Competitions unfolded […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 WMTBOC: Czechia wins both relays after thrilling action]]></title>
-        <id>https://orienteering.sport/?p=79274</id>
-        <link href="https://orienteering.sport/cx80-wmtboc-czechia-wins-both-relays-after-thrilling-action/"/>
-        <updated>2025-08-17T17:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Czechia delivered a strong finish to an already great series of Czech achievements at CX80 MTBO World Championship by winning both the women’s and men’s relays on Sunday morning. The MTBO athletes’ final competition in Poland took place a little further north in terrain that was flatter and faster than the other forest distances. Strong […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
