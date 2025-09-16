@@ -373,6 +373,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23656",
+          "author": "vinh",
+          "description": "The third race in the 2025-26 Street-O series will be around Highbury. The format is a 1 hour time limit to find as many checkpoints [...]",
+          "link": "https://slow.org.uk/streeto/highbury-street-o-25/",
+          "publishedOn": "2025-09-15T22:13:38.000Z",
+          "wordCount": 2691,
+          "title": "Highbury Street-O, Tuesday 11 November",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/bethnal-green-street-o-results/files/StreetO_May2025_5_L.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23633",
           "author": "vinh",
           "description": "A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]",
