@@ -234,16 +234,6 @@
           "wordCount": 1754,
           "title": "Splittorff and Ludvik lead CX80 MTBO World Cup after WMTBOC",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_wmtboc_mass_start_wilcze_ok_-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=79304",
-          "author": "Erling Thisted",
-          "description": "The picturesque city of Girona and its scenic surroundings in Spain’s Catalonia region concluded a thrilling week of master-level orienteering as the World Masters Orienteering Championships wrapped up on Friday. The event, held from August 8 to 15, welcomed over 3000 athletes aged 35 to 95+ from 47 nations. All photos: WMOC 2025 Competitions unfolded […]",
-          "link": "https://orienteering.sport/world-masters-orienteering-championships-2025-conclude-in-girona/",
-          "publishedOn": "2025-08-18T20:53:14.000Z",
-          "wordCount": 1574,
-          "title": "World Masters Orienteering Championships 2025 conclude in Girona",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wmoc2025_sprint_girona-1024x683.jpg"
         }
       ]
     },
@@ -613,6 +603,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56101",
+          "author": "heidi",
+          "description": "The Compass Sport Cup is a British Clubs Orienteering Championships. The Competition consists of an initial round in Spring and […]",
+          "link": "https://www.scottish-orienteering.org/news/compass-sport-cup-final-2025/?utm_source=rss&utm_medium=rss&utm_campaign=compass-sport-cup-final-2025",
+          "publishedOn": "2025-09-17T11:26:59.000Z",
+          "wordCount": 1819,
+          "title": "Compass Sport Cup Final 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/548216605_1078759687576574_1179782262998487487_n-1024x424.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56094",
           "author": "nikkihoward",
