@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T18:14:04.400Z</updated>
+    <updated>2025-09-19T00:45:47.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -733,15 +733,6 @@ The Australian Orienteer: September Edition Now Online first appeared on Oriente
         <updated>2025-08-21T07:08:35.000Z</updated>
         <summary type="html"><![CDATA[Two big events, one epic weekend!
 Double Down This Weekend in Sandon first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Club Relays, September 14 – Enter Now]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14956</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-club-relays-september-14-enter-now/"/>
-        <updated>2025-08-20T07:22:57.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
