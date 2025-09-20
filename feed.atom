@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T12:16:09.577Z</updated>
+    <updated>2025-09-20T18:11:10.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CX80 MTBO WORLD CUP: Søgaard and Ludvik win Long distance]]></title>
+        <id>https://orienteering.sport/?p=80206</id>
+        <link href="https://orienteering.sport/cx80-mtbo-world-cup-sogaard-and-ludvik-win-long-distance/"/>
+        <updated>2025-09-20T16:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Camilla Søgaard and Vojtech Ludvik won the CX80 MTBO World Cup long distance on Saturday afternoon in Bulgaria. In the women’s race, Søgaard took a superb victory – more than two minutes ahead of Marisa Costa (POR), while another Dane, Cæcilie Christoffersen was more than five minutes behind in third place. Overall World Cup winner, […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 World Cup Round 3 Team Selection & Information]]></title>
         <id>https://orienteering.asn.au/?p=14544</id>
