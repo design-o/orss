@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80204",
+          "author": "Erling Thisted",
+          "description": "Nikoline Splittorff (DEN) and Andreas Waldmann (AUT) took the wins as the world’s best MTBO athletes raced the opening sprint at the CX80 MTBO World Cup Final in Bulgaria. Friday featured a fast sprint in the town of Yagoda, where Splittorff and Waldmann still managed to take victories by large margins. Two Danes in top […]",
+          "link": "https://orienteering.sport/cx80-mtbo-world-cup-sprint-wins-for-splittorff-and-waldmann/",
+          "publishedOn": "2025-09-19T20:15:08.000Z",
+          "wordCount": 1652,
+          "title": "CX80 MTBO WORLD CUP: Sprint wins for Splittorff and Waldmann",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/mtbo-wc-2025-3-logo-1024x766.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=80192",
           "author": "Erling Thisted",
           "description": "At the end of the week, the world’s best MTBO athletes will race for the overall CX80 MTBO World Cup 2025 and U23 World Championships-titles  over three races in Bulgaria. The MTBO World Cup final begins on Friday morning with a Sprint, on Saturday there is a long distance before the international MTBO season ends […]",
@@ -307,16 +317,6 @@
           "publishedOn": "2025-08-23T00:41:54.000Z",
           "wordCount": 1051,
           "title": "Park Street Update, August 26-September 1",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14798",
-          "author": "Debbie Dodd",
-          "description": "Two big events, one epic weekend!\nDouble Down This Weekend in Sandon first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vic-series-irishtown-july-27-entries-now-open/",
-          "publishedOn": "2025-08-21T07:08:35.000Z",
-          "wordCount": 1188,
-          "title": "Double Down This Weekend in Sandon",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -727,6 +727,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14544",
+          "author": "Elizabeth L",
+          "description": "The Australian team of 8 for 2025 World Cup Round 3 has been finalised by the selection panel.\n2025 World Cup Round 3 Team Selection & Information first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2025-world-cup-round-3-team-selection-information/",
+          "publishedOn": "2025-09-20T00:12:55.000Z",
+          "wordCount": 2437,
+          "title": "2025 World Cup Round 3 Team Selection & Information",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14515",
           "author": "Elizabeth L",
