@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T06:13:46.415Z</updated>
+    <updated>2025-09-21T12:16:00.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[London City Race 2025 Results]]></title>
+        <id>https://slow.org.uk/?p=23661</id>
+        <link href="https://slow.org.uk/racereports/lcr-2025-results/"/>
+        <updated>2025-09-21T10:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Results by Course – pdf Results by Class – pdf Live SPORTident results WinSplits – to follow RouteGadget – to follow Planner comments I trust [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CX80 MTBO WORLD CUP: Søgaard and Ludvik win Long distance]]></title>
         <id>https://orienteering.sport/?p=80206</id>
@@ -754,16 +764,6 @@ The post Summer’s Not Over Yet appeared first on NI Orienteering Association.]
 Park Street Update, August 26-September 1 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back in the fast shoes: European Championships kick off in Belgium]]></title>
-        <id>https://orienteering.sport/?p=79381</id>
-        <link href="https://orienteering.sport/back-in-the-fast-shoes-european-championships-kick-off-in-belgium/"/>
-        <updated>2025-08-22T22:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Next week, the world’s best orienteers will compete for medals and World Cup points on Belgian soil for the first time when the European Orienteering Championships take place in the towns around Hasselt in the northeastern corner of the country. The races, which are also part of the 2025 Orienteering World Cup, feature a Sprint […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
