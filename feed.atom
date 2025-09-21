@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T18:11:10.926Z</updated>
+    <updated>2025-09-21T00:49:57.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -764,27 +764,6 @@ Park Street Update, August 26-September 1 first appeared on Orienteering Victori
         <summary type="html"><![CDATA[Next week, the world’s best orienteers will compete for medals and World Cup points on Belgian soil for the first time when the European Orienteering Championships take place in the towns around Hasselt in the northeastern corner of the country. The races, which are also part of the 2025 Orienteering World Cup, feature a Sprint […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF to institute specific rules related to heat conditions at IOF events]]></title>
-        <id>https://orienteering.sport/?p=79376</id>
-        <link href="https://orienteering.sport/iof-to-institute-specific-rules-related-to-heat-conditions-at-iof-events/"/>
-        <updated>2025-08-22T10:18:48.000Z</updated>
-        <summary type="html"><![CDATA[IOF events have seen an increase in extreme heat conditions due to the effects of global climate change. This has become a significant factor in event planning. Heat mitigation strategies have been implemented at many events in the past few years. The IOF Council has now decided that specific rules are required to help organisers […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Australian Orienteer: September Edition Now Online]]></title>
-        <id>https://orienteering.asn.au/?p=14448</id>
-        <link href="https://orienteering.asn.au/the-australian-orienteer-september-edition-now-online/"/>
-        <updated>2025-08-22T07:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Read the September edition of The Australian Orienteer, available online now.
-The Australian Orienteer: September Edition Now Online first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
