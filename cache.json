@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80235",
+          "author": "Erling Thisted",
+          "description": "Finland won Sunday’s mixed relay at the CX80 MTBO World Cup Round in Bulgaria, which was also the last race of the season in the international MTBO calendar. The MTBO athletes returned to the town of Yagoda and the arena used for Friday’s sprint on Sunday morning. And today’s relay courses went in the nearby […]",
+          "link": "https://orienteering.sport/cx80-mtbo-world-cup-finland-takes-mixed-relay-win/",
+          "publishedOn": "2025-09-21T19:04:36.000Z",
+          "wordCount": 1764,
+          "title": "CX80 MTBO World Cup: Finland takes Mixed Relay win",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_mtbo_world_cup2-1024x615.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80206",
           "author": "Erling Thisted",
           "description": "Camilla Søgaard and Vojtech Ludvik won the CX80 MTBO World Cup long distance on Saturday afternoon in Bulgaria. In the women’s race, Søgaard took a superb victory – more than two minutes ahead of Marisa Costa (POR), while another Dane, Cæcilie Christoffersen was more than five minutes behind in third place. Overall World Cup winner, […]",
@@ -305,7 +315,18 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21463",
+          "author": "Deirdre",
+          "description": "19 October 2025 Combaun, Co. Limerick Bishopstown Orienteering Club welcomes you to the 2025 Munster Championships at Combaun, Co. Limerick. The area consists of coniferous plantations of varying species and maturity. The hills and valleys in the area make for significant undulation across the map. Prominent features include Temple Hill Mountain with a peak of […]",
+          "link": "https://www.orienteering.ie/munster-orienteering-championships-2/",
+          "publishedOn": "2025-09-21T21:42:28.000Z",
+          "wordCount": 1072,
+          "title": "Munster Orienteering Championships",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "South London Orienteers",
