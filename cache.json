@@ -371,6 +371,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64264",
+          "author": "Christo Peters",
+          "description": "New Zealand and Australia will  compete in an Elite Test Match as part of the Australian Orienteering Championships 27th September – 5th October in Brisbane. The NZ Senior Selection panel has named the following team: W21E Renee Beveridge (all races) Kaia Joergensen (all races) Lara Molloy (all races) M21E Nathan Borton (all races) Tane Cambridge […]\nNZ Pinestars Team Named first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nz-pinestars-team-named/",
+          "publishedOn": "2025-09-22T09:55:25.000Z",
+          "wordCount": 2161,
+          "title": "NZ Pinestars Team Named",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/09/Screenshot-691.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?p=64152",
           "author": "Christo Peters",
           "description": "As a Board we are focused on refreshing our strategy as the current one runs through to the end of the year. We are currently finalising a draft which will be sent to members in the next week or so, with an invitation to join us in about late September to a club forum to get your […]\nView from the Chair – September 2025 first appeared on Orienteering New Zealand.",
@@ -547,6 +557,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=49043",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Recap and Results The 2025 Python is in the books! Thank you to everyone who participated or volunteered – we had a very smooth event this year. The weather was sunny with highs in the 80’s, which made conditions somewhat challenging especially mid-day. For the 3-hour event results, the day went to Veteran’s Men participants […]",
+          "link": "https://neooc.com/results-2025-python-adventure-race-saturday-september-20/",
+          "publishedOn": "2025-09-22T11:52:39.000Z",
+          "wordCount": 1751,
+          "title": "Results | 2025 Python Adventure Race | Saturday September 20",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
         {
           "id": "https://neooc.com/?p=49040",
           "author": "Northeast Ohio Orienteering Club",
