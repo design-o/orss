@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80279",
+          "author": "Erling Thisted",
+          "description": "The final battle for the World Cup titles takes place in Switzerland, where the town of Uster is the venue for the last international orienteering competitions in 2025. On Friday at noon, the races in Switzerland begin with the individual Sprint, on Saturday there is a Sprint Relay before the World Cup final ends with […]",
+          "link": "https://orienteering.sport/thrilling-sprint-races-in-switzerland-to-decide-this-years-world-cup-titles/",
+          "publishedOn": "2025-09-23T08:34:17.000Z",
+          "wordCount": 1819,
+          "title": "Thrilling sprint races in Switzerland to decide this year’s World Cup titles",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/eoc2025_sprintrelay_silkevanrooyjpg-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80277",
           "author": "Erling Thisted",
           "description": "Mathias Barros-Vallet sprinted his way to a huge surprise when he won the sprint at the European Orienteering Championships in Belgium in August. The 22-year-old Frenchman had never finished better than 10th in a World Cup race before, but managed to beat the entire world elite on the technical course in Lier. Here in the […]",
@@ -224,16 +234,6 @@
           "wordCount": 1724,
           "title": "Here is the international 2025-2026 Ski Orienteering Season",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/01/2025_skioworldcup_r1_sprint_mariahoskari_terjewpettersen-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=79396",
-          "author": "Erling Thisted",
-          "description": "Belgium is hosting its first major IOF championship, as the 2025 European Orienteering Championships and World Cup Round 2 takes place this week. Newly crowned World Games sprint champion Yannick Michiels and 21-year-old Tille de Smul share their local insigths and expectations for the championships. Find all you need to follow the EOC 2025 in […]",
-          "link": "https://orienteering.sport/podcast-yannick-michiels-and-tille-de-smul-eoc-2025-preview/",
-          "publishedOn": "2025-08-24T21:25:21.000Z",
-          "wordCount": 1398,
-          "title": "Podcast: Yannick Michiels and Tille de Smul – EOC 2025 preview",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_podcast_eoc2025-1024x614.jpg"
         }
       ]
     },
@@ -289,6 +289,26 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=14976",
+          "author": "Debbie Dodd",
+          "description": "Summer Shorts and Sprints are back in 2025!  Get ready ... get excited!\nSummer Shorts and Sprints Are Coming Soon! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-are-coming-soon/",
+          "publishedOn": "2025-09-23T06:54:29.000Z",
+          "wordCount": 1028,
+          "title": "Summer Shorts and Sprints Are Coming Soon!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Find out what's on at this week's Park Street events\nPark Street Update, September 23-29 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-09-23T00:41:54.000Z",
+          "wordCount": 1225,
+          "title": "Park Street Update, September 23-29",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=14453",
           "author": "Debbie Dodd",
