@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80277",
+          "author": "Erling Thisted",
+          "description": "Mathias Barros-Vallet sprinted his way to a huge surprise when he won the sprint at the European Orienteering Championships in Belgium in August. The 22-year-old Frenchman had never finished better than 10th in a World Cup race before, but managed to beat the entire world elite on the technical course in Lier. Here in the […]",
+          "link": "https://orienteering.sport/podcast-mathias-barros-vallet-on-his-surprising-eoc-sprint-win-and-the-world-cup-final/",
+          "publishedOn": "2025-09-22T20:17:18.000Z",
+          "wordCount": 1470,
+          "title": "Podcast: Mathias Barros-Vallet on his surprising EOC Sprint win and the World Cup Final",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/©eoc2025_sprint_final_men-105-1024x682.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80235",
           "author": "Erling Thisted",
           "description": "Finland won Sunday’s mixed relay at the CX80 MTBO World Cup Round in Bulgaria, which was also the last race of the season in the international MTBO calendar. The MTBO athletes returned to the town of Yagoda and the arena used for Friday’s sprint on Sunday morning. And today’s relay courses went in the nearby […]",
@@ -224,16 +234,6 @@
           "wordCount": 1398,
           "title": "Podcast: Yannick Michiels and Tille de Smul – EOC 2025 preview",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_podcast_eoc2025-1024x614.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=79392",
-          "author": "Clive",
-          "description": "The 2025 World TrailO Championships begin with two PreO days in Hungary – and then Slovakia takes over, organizing the Relay and TempO competitions. 170 competitors from 24 nations will be taking part in the championships, which run from Tuesday until Sunday. This year’s top TrailO event has attracted 41 physically challenged competitors (P class) […]",
-          "link": "https://orienteering.sport/world-trailo-championships-competition-in-two-countries/",
-          "publishedOn": "2025-08-24T10:02:26.000Z",
-          "wordCount": 1827,
-          "title": "World TrailO Championships – competition in two countries",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wtoc_2025_logo.jpg"
         }
       ]
     },
@@ -816,16 +816,6 @@
           "publishedOn": "2025-08-25T12:05:31.000Z",
           "wordCount": 2453,
           "title": "2025 European Sprint Orienteering Championships Team Selection & Information",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14461",
-          "author": "Elizabeth L",
-          "description": "The 2024 Annual Report of OA has now been published and is available for reading on the OA website.\n2024 Annual Report Published first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2024-annual-report-published/",
-          "publishedOn": "2025-08-24T10:06:23.000Z",
-          "wordCount": 2318,
-          "title": "2024 Annual Report Published",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

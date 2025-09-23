@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-22T18:13:54.922Z</updated>
+    <updated>2025-09-23T00:43:41.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Mathias Barros-Vallet on his surprising EOC Sprint win and the World Cup Final]]></title>
+        <id>https://orienteering.sport/?p=80277</id>
+        <link href="https://orienteering.sport/podcast-mathias-barros-vallet-on-his-surprising-eoc-sprint-win-and-the-world-cup-final/"/>
+        <updated>2025-09-22T20:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Mathias Barros-Vallet sprinted his way to a huge surprise when he won the sprint at the European Orienteering Championships in Belgium in August. The 22-year-old Frenchman had never finished better than 10th in a World Cup race before, but managed to beat the entire world elite on the technical course in Lier. Here in the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | 2025 Python Adventure Race | Saturday September 20]]></title>
         <id>https://neooc.com/?p=49043</id>
@@ -773,27 +783,6 @@ The post Summer’s Not Over Yet appeared first on NI Orienteering Association.]
         <summary type="html"><![CDATA[Belgium is hosting its first major IOF championship, as the 2025 European Orienteering Championships and World Cup Round 2 takes place this week. Newly crowned World Games sprint champion Yannick Michiels and 21-year-old Tille de Smul share their local insigths and expectations for the championships. Find all you need to follow the EOC 2025 in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Annual Report Published]]></title>
-        <id>https://orienteering.asn.au/?p=14461</id>
-        <link href="https://orienteering.asn.au/2024-annual-report-published/"/>
-        <updated>2025-08-24T10:06:23.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 Annual Report of OA has now been published and is available for reading on the OA website.
-2024 Annual Report Published first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World TrailO Championships – competition in two countries]]></title>
-        <id>https://orienteering.sport/?p=79392</id>
-        <link href="https://orienteering.sport/world-trailo-championships-competition-in-two-countries/"/>
-        <updated>2025-08-24T10:02:26.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 World TrailO Championships begin with two PreO days in Hungary – and then Slovakia takes over, organizing the Relay and TempO competitions. 170 competitors from 24 nations will be taking part in the championships, which run from Tuesday until Sunday. This year’s top TrailO event has attracted 41 physically challenged competitors (P class) […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
