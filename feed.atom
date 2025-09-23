@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T12:18:12.203Z</updated>
+    <updated>2025-09-23T18:14:27.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Europe’s finest juniors fight it out in Scotland]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56150</id>
+        <link href="https://www.scottish-orienteering.org/news/europes-finest-juniors-fight-it-out-in-scotland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=europes-finest-juniors-fight-it-out-in-scotland"/>
+        <updated>2025-09-23T16:12:20.000Z</updated>
+        <summary type="html"><![CDATA[After 9 years the Junior European Cup (JEC) returns to Scotland on the 3-5th October.  The Sprint returns to the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We all went down to the beach with Interlopers]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56147</id>
+        <link href="https://www.scottish-orienteering.org/news/we-all-went-down-to-the-beach-with-interlopers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=we-all-went-down-to-the-beach-with-interlopers"/>
+        <updated>2025-09-23T14:47:24.000Z</updated>
+        <summary type="html"><![CDATA[The fourth and last Scottish Orienteering League event of 2025 saw us all off to the East Lothian seaside. Interlopers […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juniors Off to JIRCs]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6762</id>
+        <link href="https://www.niorienteering.org.uk/juniors-off-to-jircs/"/>
+        <updated>2025-09-23T14:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Steph Pruzina, Junior Coach writes… It’s an exciting time of year again for our rebranded NIOA junior squad. The donation received from the IOC has been put to good use in supporting squad members to buy from a selection of newly designed Tees and Hoodies....
+The post Juniors Off to JIRCs appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thrilling sprint races in Switzerland to decide this year’s World Cup titles]]></title>
         <id>https://orienteering.sport/?p=80279</id>

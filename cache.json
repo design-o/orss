@@ -625,6 +625,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56150",
+          "author": "nikkihoward",
+          "description": "After 9 years the Junior European Cup (JEC) returns to Scotland on the 3-5th October.  The Sprint returns to the […]",
+          "link": "https://www.scottish-orienteering.org/news/europes-finest-juniors-fight-it-out-in-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=europes-finest-juniors-fight-it-out-in-scotland",
+          "publishedOn": "2025-09-23T16:12:20.000Z",
+          "wordCount": 1850,
+          "title": "Europe’s finest juniors fight it out in Scotland",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/Simona-Aebersold-cant-believe-what-shes-hearing-at-the-Sprint.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56147",
+          "author": "nikkihoward",
+          "description": "The fourth and last Scottish Orienteering League event of 2025 saw us all off to the East Lothian seaside. Interlopers […]",
+          "link": "https://www.scottish-orienteering.org/news/we-all-went-down-to-the-beach-with-interlopers/?utm_source=rss&utm_medium=rss&utm_campaign=we-all-went-down-to-the-beach-with-interlopers",
+          "publishedOn": "2025-09-23T14:47:24.000Z",
+          "wordCount": 1924,
+          "title": "We all went down to the beach with Interlopers",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/Control_and_Bench_by_Katherine_Ivory-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56134",
           "author": "nikkihoward",
           "description": "The SOA is looking to appoint someone to operate as the coordinator for the Scottish Elite and Development Squad (SEDS).  […]",
@@ -741,6 +761,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6762",
+          "author": "NIOA Secretary",
+          "description": "Steph Pruzina, Junior Coach writes… It’s an exciting time of year again for our rebranded NIOA junior squad. The donation received from the IOC has been put to good use in supporting squad members to buy from a selection of newly designed Tees and Hoodies....\nThe post Juniors Off to JIRCs appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/juniors-off-to-jircs/",
+          "publishedOn": "2025-09-23T14:41:24.000Z",
+          "wordCount": 4535,
+          "title": "Juniors Off to JIRCs",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/09/Moire-Fionne.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6757",
           "author": "NIOA Secretary",
