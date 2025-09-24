@@ -251,16 +251,6 @@
           "wordCount": 2456,
           "title": "EOC 2025 Sprint Relay: Maps, Results and Analysis",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/EOC2025_SR_leg14-660x330.gif"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21099",
-          "author": "Jan Kocbach",
-          "description": "Fast orienteering in flat city centers – probably with many artificial barriers – await the runners when the European Orienteering Championship (EOC) starts in Belgium on Wednesday with the Sprint Relay, and continues with Knock-Out Sprint and Individual Sprint the rest of the week. The championship is organized in the Flemish cities of Hasselt, Geel and Lier, with nearly 300 athletes ...",
-          "link": "https://news.worldofo.com/2025/08/26/eoc-2025-all-you-need-to-know/",
-          "publishedOn": "2025-08-26T03:00:46.000Z",
-          "wordCount": 2924,
-          "title": "EOC 2025: All You Need To Know",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/2025-08-26-01_52_27-World-of-O-Runners-660x330.png"
         }
       ]
     },
@@ -594,6 +584,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56155",
+          "author": "heidi",
+          "description": "Looking to improve your navigation skills or try a new sport? Scottish Orienteering are organising an adult beginner day at […]",
+          "link": "https://www.scottish-orienteering.org/news/aberdeen-beginners-day/?utm_source=rss&utm_medium=rss&utm_campaign=aberdeen-beginners-day",
+          "publishedOn": "2025-09-24T13:20:29.000Z",
+          "wordCount": 1526,
+          "title": "Aberdeen Beginners Day",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/Aberdeen-Beginners-Flyer-721x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56150",
           "author": "nikkihoward",

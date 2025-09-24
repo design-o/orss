@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T12:18:50.434Z</updated>
+    <updated>2025-09-24T18:14:24.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen Beginners Day]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56155</id>
+        <link href="https://www.scottish-orienteering.org/news/aberdeen-beginners-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aberdeen-beginners-day"/>
+        <updated>2025-09-24T13:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Looking to improve your navigation skills or try a new sport? Scottish Orienteering are organising an adult beginner day at […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seniors running alongside Juniors]]></title>
         <id>https://www.niorienteering.org.uk/?p=6769</id>
@@ -796,16 +806,6 @@ You’re Invited: Help Shape the Future of Orienteering first appeared on Orient
 The post Summer’s Not Over Yet appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2025: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=21099</id>
-        <link href="https://news.worldofo.com/2025/08/26/eoc-2025-all-you-need-to-know/"/>
-        <updated>2025-08-26T03:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Fast orienteering in flat city centers – probably with many artificial barriers – await the runners when the European Orienteering Championship (EOC) starts in Belgium on Wednesday with the Sprint Relay, and continues with Knock-Out Sprint and Individual Sprint the rest of the week. The championship is organized in the Flemish cities of Hasselt, Geel and Lier, with nearly 300 athletes ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
