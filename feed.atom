@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T06:14:45.105Z</updated>
+    <updated>2025-09-24T12:18:50.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seniors running alongside Juniors]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6769</id>
+        <link href="https://www.niorienteering.org.uk/seniors-running-alongside-juniors/"/>
+        <updated>2025-09-24T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Susan Lambe, selector for the Senior Home International Team writes… This weekend 4-5 October sees the annual Senior Home International take place, hosted by North West Orienteering Association (NWOA). Teams of 18 from each of England, Ireland, Scotland & Wales are heading to the Lake...
+The post Seniors running alongside Juniors appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Europe’s finest juniors fight it out in Scotland]]></title>
         <id>https://www.scottish-orienteering.org/?p=56150</id>
@@ -795,16 +806,6 @@ The post Summer’s Not Over Yet appeared first on NI Orienteering Association.]
         <summary type="html"><![CDATA[Fast orienteering in flat city centers – probably with many artificial barriers – await the runners when the European Orienteering Championship (EOC) starts in Belgium on Wednesday with the Sprint Relay, and continues with Knock-Out Sprint and Individual Sprint the rest of the week. The championship is organized in the Flemish cities of Hasselt, Geel and Lier, with nearly 300 athletes ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | Quail Score-O | Quail Hollow (Stark Parks) | Sunday, August 24, 2025]]></title>
-        <id>https://neooc.com/?p=48981</id>
-        <link href="https://neooc.com/results-quail-score-o-quail-hollow-stark-parks-sunday-august-24-2025/"/>
-        <updated>2025-08-26T00:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Results Results by Team Livelox Registration list to check team members Volunteers – Thank you! Event Director:  Jay Smink Course designer:  Kathy Christy Course setters:  Kathy, Jay Online Registrar: Fred Mailey Registration:  Kathy Download & Results: Kathy, Mike Avery, Fred Control Collectors: Richard Davies, Stephen Johnson, Jay, Kathy, Fred]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>

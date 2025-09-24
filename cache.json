@@ -586,16 +586,6 @@
           "wordCount": 1503,
           "title": "New Event | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
-        },
-        {
-          "id": "https://neooc.com/?p=48981",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Results Results by Team Livelox Registration list to check team members Volunteers – Thank you! Event Director:  Jay Smink Course designer:  Kathy Christy Course setters:  Kathy, Jay Online Registrar: Fred Mailey Registration:  Kathy Download & Results: Kathy, Mike Avery, Fred Control Collectors: Richard Davies, Stephen Johnson, Jay, Kathy, Fred",
-          "link": "https://neooc.com/results-quail-score-o-quail-hollow-stark-parks-sunday-august-24-2025/",
-          "publishedOn": "2025-08-26T00:13:45.000Z",
-          "wordCount": 1544,
-          "title": "Results | Quail Score-O | Quail Hollow (Stark Parks) | Sunday, August 24, 2025",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2025/08/2025_Quail_Teepee.jpg"
         }
       ]
     },
@@ -741,6 +731,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6769",
+          "author": "NIOA Secretary",
+          "description": "Susan Lambe, selector for the Senior Home International Team writes… This weekend 4-5 October sees the annual Senior Home International take place, hosted by North West Orienteering Association (NWOA). Teams of 18 from each of England, Ireland, Scotland & Wales are heading to the Lake...\nThe post Seniors running alongside Juniors appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/seniors-running-alongside-juniors/",
+          "publishedOn": "2025-09-24T08:30:04.000Z",
+          "wordCount": 4387,
+          "title": "Seniors running alongside Juniors",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/09/SHI-2024-Team-Ireland.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6762",
           "author": "NIOA Secretary",
