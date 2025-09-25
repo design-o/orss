@@ -558,6 +558,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=49070",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Many congratulations to Howard for being one of the ten super volunteers who make up the 2025 class of Orienteering USA Golden Service Award Winners. Check out more at the following link: 2025 Golden Service Award Winners",
+          "link": "https://neooc.com/howard-montgomery-2025-class-of-orienteering-usa-golden-service-award-winner-o-usa/",
+          "publishedOn": "2025-09-25T12:36:37.000Z",
+          "wordCount": 1507,
+          "title": "Howard Montgomery | 2025 class of Orienteering USA Golden Service Award Winner | O-USA",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
+        {
           "id": "https://neooc.com/?p=49043",
           "author": "Northeast Ohio Orienteering Club",
           "description": "Recap and Results The 2025 Python is in the books! Thank you to everyone who participated or volunteered – we had a very smooth event this year. The weather was sunny with highs in the 80’s, which made conditions somewhat challenging especially mid-day. For the 3-hour event results, the day went to Veteran’s Men participants […]",
@@ -594,6 +604,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56172",
+          "author": "heidi",
+          "description": "The SOA Development Team, consisting of Heidi Ross, Louise Adams and Suzanne Robins-Bird, has recently had a change in division […]",
+          "link": "https://www.scottish-orienteering.org/news/introducing-the-soa-development-team/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-the-soa-development-team",
+          "publishedOn": "2025-09-25T13:37:13.000Z",
+          "wordCount": 1897,
+          "title": "Introducing the SOA Development Team",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/SOA-logo-rainbow-circle.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56155",
           "author": "heidi",
