@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T18:14:24.821Z</updated>
+    <updated>2025-09-25T00:44:19.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -795,17 +795,6 @@ You’re Invited: Help Shape the Future of Orienteering first appeared on Orient
         <summary type="html"><![CDATA[Jonatan Furucz, Slovakia (still a junior) and Michael Johansson, Sweden lead the Open and Physically Challenged classes respectively at the end of Day 1 in the PreO competition, held on a hot and sunny day in the area of an old basalt mine near Sümeg, Hungary. Many of the top stars in the Open class […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer’s Not Over Yet]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6742</id>
-        <link href="https://www.niorienteering.org.uk/summers-not-over-yet/"/>
-        <updated>2025-08-26T08:48:06.000Z</updated>
-        <summary type="html"><![CDATA[There is time for at least one more trip to the beach for a dip at Portstewart Strand after NI Colour Series 5 at Portstewart Dunes on Saturday 6 September. Don’t miss this chance to orienteer on a superb sand dune area. All the details...
-The post Summer’s Not Over Yet appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
