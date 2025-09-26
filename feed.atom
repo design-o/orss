@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T18:14:31.831Z</updated>
+    <updated>2025-09-26T00:43:45.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 25th]]></title>
+        <id>https://neooc.com/?p=49088</id>
+        <link href="https://neooc.com/new-event-the-amaizeing-night-o-near-peninsula-ohio-saturday-october-25th/"/>
+        <updated>2025-09-25T21:34:29.000Z</updated>
+        <summary type="html"><![CDATA[The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 25th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing the SOA Development Team]]></title>
         <id>https://www.scottish-orienteering.org/?p=56172</id>
