@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T06:14:24.866Z</updated>
+    <updated>2025-09-26T12:18:19.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -837,26 +837,6 @@ You’re Invited: Help Shape the Future of Orienteering first appeared on Orient
         <summary type="html"><![CDATA[The 2025 European Orienteering Championships opened with lots of drama in the Belgian city of Hasselt, when Norway claimed their first ever Championships Sprint Relay title. Finland’s anchor run first into the finish, but what should have been Finland’s moment of glory transformed into Norwegian celebration when Maija Sianoja’s jumped penultimate control cost her team the ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2025: Norway wins first Sprint Relay title]]></title>
-        <id>https://orienteering.sport/?p=79495</id>
-        <link href="https://orienteering.sport/eoc-2025-norway-wins-first-sprint-relay-title/"/>
-        <updated>2025-08-27T21:54:46.000Z</updated>
-        <summary type="html"><![CDATA[The European Orienteering Championships in Belgium kicked off on Wednesday evening with a sprint relay in the city of Hasselt, where Norway took the gold medals ahead of Switzerland and Sweden after an ever-changing and nerve-wracking competition. Teams from 27 nations were ready at the starting line at 19.00 on Wednesday when the championships began […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World TrailO Championships: close results after PreO Day 1]]></title>
-        <id>https://orienteering.sport/?p=79493</id>
-        <link href="https://orienteering.sport/world-trailo-championships-close-results-after-preo-day-1/"/>
-        <updated>2025-08-27T20:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Jonatan Furucz, Slovakia (still a junior) and Michael Johansson, Sweden lead the Open and Physically Challenged classes respectively at the end of Day 1 in the PreO competition, held on a hot and sunny day in the area of an old basalt mine near Sümeg, Hungary. Many of the top stars in the Open class […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
