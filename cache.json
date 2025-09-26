@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80348",
+          "author": "Erling Thisted",
+          "description": "Tomáš Křivda (CZE) took his first ever World Cup race win, while Simona Aebersold (SUI) crushed the competitors as this year’s World Cup Final kicked off with the sprint Friday afternoon. On a chilly day in Uster, Switzerland, the 227 athletes were thrown into a fast-raced sprint in the northeast end of the host city. […]",
+          "link": "https://orienteering.sport/world-cup-first-win-for-krivda-aebersold-crushes-sprint/",
+          "publishedOn": "2025-09-26T16:22:03.000Z",
+          "wordCount": 1940,
+          "title": "World Cup: First win for Křivda, Aebersold crushes sprint",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_owcfinal_mens_sprint_podium_kelenklement-1024x614.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80279",
           "author": "Erling Thisted",
           "description": "The final battle for the World Cup titles takes place in Switzerland, where the town of Uster is the venue for the last international orienteering competitions in 2025. On Friday at noon, the races in Switzerland begin with the individual Sprint, on Saturday there is a Sprint Relay before the World Cup final ends with […]",
@@ -231,16 +241,6 @@
           "wordCount": 3884,
           "title": "EOC 2025 Knock-Out Sprint: Maps, Results and Analysis",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/KOfinal-660x330.gif"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21126",
-          "author": "Jan Kocbach",
-          "description": "The 2025 European Orienteering Championships opened with lots of drama in the Belgian city of Hasselt, when Norway claimed their first ever Championships Sprint Relay title. Finland’s anchor run first into the finish, but what should have been Finland’s moment of glory transformed into Norwegian celebration when Maija Sianoja’s jumped penultimate control cost her team the ...",
-          "link": "https://news.worldofo.com/2025/08/28/eoc-2025-sprint-relay-maps-results-and-analysis/",
-          "publishedOn": "2025-08-28T03:00:18.000Z",
-          "wordCount": 2456,
-          "title": "EOC 2025 Sprint Relay: Maps, Results and Analysis",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/08/EOC2025_SR_leg14-660x330.gif"
         }
       ]
     },
