@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T00:42:33.011Z</updated>
+    <updated>2025-09-27T06:12:20.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -816,27 +816,6 @@ ONZ Policy guide  |  Code of conduct first appeared on Orienteering New Zealan
         <summary type="html"><![CDATA[Michael Johansson, Physically Challenged (P) class, and Anders Hӧije, Open (O) class, were gold medalists at the end of Day 2. Hӧije scored full points and spent only 115 seconds on four timed controls (three tasks in each), and won by 12 seconds. With 20 competitors scoring full points on Day 1, aiming for the […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2025: Athletes from 18 nations advance to KO Sprint finals]]></title>
-        <id>https://orienteering.sport/?p=79562</id>
-        <link href="https://orienteering.sport/eoc-2025-athletes-from-18-nations-advance-to-ko-sprint-finals/"/>
-        <updated>2025-08-28T16:19:27.000Z</updated>
-        <summary type="html"><![CDATA[The European Orienteering Championships in Belgium continued on Thursday afternoon in Geel, where the athletes raced the qualification for Friday’s Knock-Out Sprint finals. On challenging courses in the southern end of the city, the target was to finish among the 12 fastest in their respective heat. Athletes from 18 different nations managed to fulfill that […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You’re Invited: Help Shape the Future of Orienteering]]></title>
-        <id>https://orienteering.asn.au/?p=14484</id>
-        <link href="https://orienteering.asn.au/youre-invited-help-shape-the-future-of-orienteering/"/>
-        <updated>2025-08-28T13:07:14.000Z</updated>
-        <summary type="html"><![CDATA[This is your chance to share your ideas, hopes and visions for what orienteering in Australia could look like in 2030.
-You’re Invited: Help Shape the Future of Orienteering first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
         </author>
     </entry>
 </feed>
