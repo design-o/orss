@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T06:12:20.108Z</updated>
+    <updated>2025-09-27T12:15:52.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -231,6 +231,15 @@ NZ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[Camilla Søgaard and Vojtech Ludvik won the CX80 MTBO World Cup long distance on Saturday afternoon in Bulgaria. In the women’s race, Søgaard took a superb victory – more than two minutes ahead of Marisa Costa (POR), while another Dane, Cæcilie Christoffersen was more than five minutes behind in third place. Overall World Cup winner, […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians at the AusChamps]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14982</id>
+        <link href="https://www.vicorienteering.asn.au/victorians-at-the-auschamps/"/>
+        <updated>2025-09-20T08:03:37.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -796,26 +805,6 @@ ONZ Policy guide  |  Code of conduct first appeared on Orienteering New Zealan
         <summary type="html"><![CDATA[Cecile Calandry (FRA) and August Mollén (SWE) are European Champions in Knock-Out Sprint after an exciting Friday afternoon in Geel, Belgium. With the central Maarkt square as a packed arena for all of the afternoon’s races, the Belgian organizers created an atmospheric finish to all 20 races in today’s Knock-Out races. Starting with the quarterfinals […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th]]></title>
-        <id>https://neooc.com/?p=48996</id>
-        <link href="https://neooc.com/new-event-ksu-scare-o-evening-o-at-kent-state-campus-sunday-october-19th/"/>
-        <updated>2025-08-28T23:12:03.000Z</updated>
-        <summary type="html"><![CDATA[KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World TrailO Championships, PreO: two gold medals for Sweden]]></title>
-        <id>https://orienteering.sport/?p=79570</id>
-        <link href="https://orienteering.sport/world-trailo-championships-preo-two-gold-medals-for-sweden/"/>
-        <updated>2025-08-28T18:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Michael Johansson, Physically Challenged (P) class, and Anders Hӧije, Open (O) class, were gold medalists at the end of Day 2. Hӧije scored full points and spent only 115 seconds on four timed controls (three tasks in each), and won by 12 seconds. With 20 competitors scoring full points on Day 1, aiming for the […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
