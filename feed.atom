@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T18:11:32.533Z</updated>
+    <updated>2025-09-29T00:46:04.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -607,17 +607,6 @@ Bendigo Bush Orienteering in September first appeared on Orienteering Victoria.]
         <summary type="html"><![CDATA[Czechia and Ukraine are the new World Champions in O and P class respectively in the Relay, with the Open class resolved in a tense and exciting climax at the final spectator TempO station. Both Italy and Slovakia finished within 2 minutes of the Czech score. The Relay competition for teams of three consists of […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Forget to Enter for Portstewart]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6744</id>
-        <link href="https://www.niorienteering.org.uk/dont-forget-to-enter-for-portstewart/"/>
-        <updated>2025-08-30T09:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Don’t forget to enter for NI Colour Series 5 at Portstewart on Saturday 6 September. Entries close on Sunday 31 August at 21.30. All the details are on the event page on the North West Orienteering website with entries at SiEntries.  
-The post Don’t Forget to Enter for Portstewart appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
