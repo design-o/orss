@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T00:46:04.388Z</updated>
+    <updated>2025-09-29T06:16:28.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Final 2025: Maps, Results and Splits analysis]]></title>
+        <id>http://news.worldofo.com/?p=21245</id>
+        <link href="https://news.worldofo.com/2025/09/29/world-cup-final-2025-maps-results-and-splits-analysis/"/>
+        <updated>2025-09-29T03:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Tomáš Křivda (CZE) took his first ever World Cup race win, while Simona Aebersold (SUI) crushed the competitors as this year’s World Cup Final started off with the individual sprint race on Friday afternoon. Sweden followed up with a Sprint Relay win ahead of Switzerland on Saturday, while the weekend and the international orienteering season finished off with a Swiss ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KID-O Launches Nationally: Seed Funding available!]]></title>
+        <id>https://orienteering.asn.au/?p=14674</id>
+        <link href="https://orienteering.asn.au/kid-o-launches-nationally-seed-funding-available/"/>
+        <updated>2025-09-29T02:07:16.000Z</updated>
+        <summary type="html"><![CDATA[KID-O is going nationwide! OA has SEED FUNDING available to support you establishing KID-O in your local area
+KID-O Launches Nationally: Seed Funding available! first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup: Knock-Out wins for Polsini and Aebersold]]></title>
         <id>https://orienteering.sport/?p=80551</id>
