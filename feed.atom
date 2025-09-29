@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T06:16:28.064Z</updated>
+    <updated>2025-09-29T12:18:52.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -618,16 +618,6 @@ Bendigo Bush Orienteering in September first appeared on Orienteering Victoria.]
         <summary type="html"><![CDATA[The city center of the Belgian city of Lier woke up to a special Sunday morning as the qualification for the afternoon sprint finals at the European Championships took center stage. Challenging courses with winning times around 13 minutes would determine who would get the coveted spots in the final. The 15 fastest athletes in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World TrailO Championships: Czechia and Ukraine are world champions in Relay]]></title>
-        <id>https://orienteering.sport/?p=80018</id>
-        <link href="https://orienteering.sport/world-trailo-championships-czechia-and-ukraine-are-world-champions-in-relay/"/>
-        <updated>2025-08-30T19:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Czechia and Ukraine are the new World Champions in O and P class respectively in the Relay, with the Open class resolved in a tense and exciting climax at the final spectator TempO station. Both Italy and Slovakia finished within 2 minutes of the Czech score. The Relay competition for teams of three consists of […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>
