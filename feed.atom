@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T12:19:14.323Z</updated>
+    <updated>2025-09-30T18:13:38.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -775,38 +775,6 @@ AUSTRALIAN MTBO CHAMPIONSHIPS first appeared on Orienteering Australia.]]></summ
         <summary type="html"><![CDATA[This week, more than 500 orienteers will meet in Bulgaria for the 13th edition of the South East European Championships, which also includes Masters championships classes. The championships will be held in central Bulgaria and will feature Middle, Long, Relay and Sprint races from Thursday to Sunday. Athletes from the 13 countries that are part […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Now: OA Paid Manager Positions]]></title>
-        <id>https://orienteering.asn.au/?p=14492</id>
-        <link href="https://orienteering.asn.au/open-now-oa-paid-manager-positions/"/>
-        <updated>2025-09-01T04:33:08.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia (OA) is currently inviting Expressions of Interests (EOIs) for two paid roles: Manager, Coaching Development and Manager, Athlete Development.
-Open Now: OA Paid Manager Positions first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendigo Bush Orienteering in September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14769</id>
-        <link href="https://www.vicorienteering.asn.au/bendigo-bush-orienteering-in-july/"/>
-        <updated>2025-09-01T03:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss these two Bendigo bush events in September, at Kangaroo Gully and Mt Tarrengower
-Bendigo Bush Orienteering in September first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC 2025 Sprint: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=21169</id>
-        <link href="https://news.worldofo.com/2025/09/01/eoc-2025-sprint-maps-results-and-analysis/"/>
-        <updated>2025-09-01T03:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Pia Young Vik (Norway) and Barros Vallet (France) won surprise gold medals when the 2025 European Orienteering Championships (EOC) concluded on Sunday with thrilling individual sprint finals in Lier, Belgium. Some tricky long route choices challenged the pre-race favourites – with many runners losing significant time.  France’s Mathias Barros Vallet produced the performance of his career to ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
