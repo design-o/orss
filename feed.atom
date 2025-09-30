@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T06:15:10.246Z</updated>
+    <updated>2025-09-30T12:19:14.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Young Orienteer of the year 2025]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56182</id>
+        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year-2025"/>
+        <updated>2025-09-30T11:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Every year we celebrate the contribution made to the sport by our young people. This year we have decided to […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[View from the Chair – September 2025]]></title>
         <id>https://www.orienteering.org.nz/?p=64349</id>
@@ -797,26 +807,6 @@ Bendigo Bush Orienteering in September first appeared on Orienteering Victoria.]
         <summary type="html"><![CDATA[Pia Young Vik (Norway) and Barros Vallet (France) won surprise gold medals when the 2025 European Orienteering Championships (EOC) concluded on Sunday with thrilling individual sprint finals in Lier, Belgium. Some tricky long route choices challenged the pre-race favourites – with many runners losing significant time.  France’s Mathias Barros Vallet produced the performance of his career to ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOC: Sprint titles for Young Vik and Barros Vallet]]></title>
-        <id>https://orienteering.sport/?p=80088</id>
-        <link href="https://orienteering.sport/eoc-sprint-titles-for-young-vik-and-barros-vallet/"/>
-        <updated>2025-08-31T19:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Both the women’s and men’s titles saw new faces at the top of the podium, as the European Championships in Belgium concluded with the individual sprint in Lier on Sunday afternoon. In the men’s category, France’s Mathias Barros Vallet won ahead of Norwegians Kasper Fosser and Eirik Langedal Breivik, while Norway took gold in the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World TrailO Championships: Marcello Lambertini, Italy is 2025 TempO World Champion]]></title>
-        <id>https://orienteering.sport/?p=80086</id>
-        <link href="https://orienteering.sport/world-trailo-championships-marcello-lambertini-italy-is-2025-tempo-world-champion/"/>
-        <updated>2025-08-31T19:03:44.000Z</updated>
-        <summary type="html"><![CDATA[In a tense final with the result in doubt right to the end, Marcello Lambertini emerged victorious after a long and agonising wait for the best qualifiers to finish – he was tenth in his heat. He was not the fastest in the Final, but made only 2 mistakes on the technically difficult course, compared […]]]></summary>
-        <author>
-            <name>Clive</name>
         </author>
     </entry>
 </feed>

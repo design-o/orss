@@ -154,26 +154,6 @@
           "wordCount": 1413,
           "title": "South East European Championships to begin in Bulgaria",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_seeoc_logo.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80088",
-          "author": "Erling Thisted",
-          "description": "Both the women’s and men’s titles saw new faces at the top of the podium, as the European Championships in Belgium concluded with the individual sprint in Lier on Sunday afternoon. In the men’s category, France’s Mathias Barros Vallet won ahead of Norwegians Kasper Fosser and Eirik Langedal Breivik, while Norway took gold in the […]",
-          "link": "https://orienteering.sport/eoc-sprint-titles-for-young-vik-and-barros-vallet/",
-          "publishedOn": "2025-08-31T19:31:57.000Z",
-          "wordCount": 1804,
-          "title": "EOC: Sprint titles for Young Vik and Barros Vallet",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/©eoc2025_sprint_final_men-105-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80086",
-          "author": "Clive",
-          "description": "In a tense final with the result in doubt right to the end, Marcello Lambertini emerged victorious after a long and agonising wait for the best qualifiers to finish – he was tenth in his heat. He was not the fastest in the Final, but made only 2 mistakes on the technically difficult course, compared […]",
-          "link": "https://orienteering.sport/world-trailo-championships-marcello-lambertini-italy-is-2025-tempo-world-champion/",
-          "publishedOn": "2025-08-31T19:03:44.000Z",
-          "wordCount": 1632,
-          "title": "World TrailO Championships: Marcello Lambertini, Italy is 2025 TempO World Champion",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/wtoc_2025_logo.jpg"
         }
       ]
     },
@@ -584,6 +564,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56182",
+          "author": "suzannerb",
+          "description": "Every year we celebrate the contribution made to the sport by our young people. This year we have decided to […]",
+          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-2025",
+          "publishedOn": "2025-09-30T11:24:29.000Z",
+          "wordCount": 1559,
+          "title": "Young Orienteer of the year 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/ruari-and-peter-920x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56172",
           "author": "heidi",
