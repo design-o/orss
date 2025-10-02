@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-02T06:14:14.789Z</updated>
+    <updated>2025-10-02T12:17:35.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -786,16 +786,6 @@ AUSTRALIAN MTBO CHAMPIONSHIPS first appeared on Orienteering Australia.]]></summ
         <summary type="html"><![CDATA[The SOA AGM will take place on 22nd September online at 7pm. Today we have published the AGM booklet in […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South East European Championships to begin in Bulgaria]]></title>
-        <id>https://orienteering.sport/?p=80157</id>
-        <link href="https://orienteering.sport/south-east-european-championships-to-begin-in-bulgaria/"/>
-        <updated>2025-09-02T20:25:38.000Z</updated>
-        <summary type="html"><![CDATA[This week, more than 500 orienteers will meet in Bulgaria for the 13th edition of the South East European Championships, which also includes Masters championships classes. The championships will be held in central Bulgaria and will feature Middle, Long, Relay and Sprint races from Thursday to Sunday. Athletes from the 13 countries that are part […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
