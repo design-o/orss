@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-02T18:13:23.704Z</updated>
+    <updated>2025-10-03T00:43:30.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veterans off to Scotland]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6791</id>
+        <link href="https://www.niorienteering.org.uk/veterans-off-to-scotland-2/"/>
+        <updated>2025-10-02T21:41:24.000Z</updated>
+        <summary type="html"><![CDATA[The Ireland Veteran Home International Team are off to Scotland under the safe hands of team manager Sharon Dickenson. The events on 4-6 October are at Fairy Kowe & Doon Hill and Spling/Garbeg Hill in the Aberfoyle area, with the teams staying at Stirling Youth...
+The post Veterans off to Scotland appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th]]></title>
         <id>https://neooc.com/?p=49113</id>
