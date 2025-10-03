@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T00:43:30.133Z</updated>
+    <updated>2025-10-03T06:13:59.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -777,26 +777,6 @@ Orienteering Australia Elite Rankings – September 2025 first appeared on Orien
 AUSTRALIAN MTBO CHAMPIONSHIPS first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The British Schools Orienteering Championships are coming to Scotland – Entries now open!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56067</id>
-        <link href="https://www.scottish-orienteering.org/news/the-british-schools-orienteering-championships-are-coming-to-scotland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-british-schools-orienteering-championships-are-coming-to-scotland"/>
-        <updated>2025-09-03T16:08:45.000Z</updated>
-        <summary type="html"><![CDATA[We’re very excited to share the news that the British Schools Orienteering Championships are coming to Scotland this year, hosted […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 AGM Booklet published]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56064</id>
-        <link href="https://www.scottish-orienteering.org/news/2025-agm-booklet-published/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-agm-booklet-published"/>
-        <updated>2025-09-03T14:34:48.000Z</updated>
-        <summary type="html"><![CDATA[The SOA AGM will take place on 22nd September online at 7pm. Today we have published the AGM booklet in […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
