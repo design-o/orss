@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T18:13:13.583Z</updated>
+    <updated>2025-10-04T00:41:45.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veterans off to Scotland]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6781</id>
+        <link href="https://www.niorienteering.org.uk/veterans-off-to-scotland/"/>
+        <updated>2025-10-03T22:39:58.000Z</updated>
+        <summary type="html"><![CDATA[The Ireland Veteran Home International Team are off to Scotland under the safe hands of team manager Sharon Dickenson. The events on 4-6 October are at Fairy Kowe & Doon Hill and Spling/Garbeg Hill in the Aberfoyle area, with the teams staying at Stirling Youth...
+The post Veterans off to Scotland appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction of Junior Championships in Trail Orienteering]]></title>
         <id>https://orienteering.sport/?p=80599</id>
@@ -774,17 +785,6 @@ MelBushO at Woodlands, Sunday September 21 – Be Part of Something Big! first a
         <updated>2025-09-06T04:42:31.000Z</updated>
         <summary type="html"><![CDATA[The latest Orienteering Australia Elite Rankings are published.
 Orienteering Australia Elite Rankings – September 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUSTRALIAN MTBO CHAMPIONSHIPS]]></title>
-        <id>https://orienteering.asn.au/?p=14511</id>
-        <link href="https://orienteering.asn.au/australian-mtbo-championships/"/>
-        <updated>2025-09-04T07:10:32.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 Australian Mountain Bike Orienteering Championships will be held from 4-7 September in Collie, Western Australia.
-AUSTRALIAN MTBO CHAMPIONSHIPS first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
         </author>
