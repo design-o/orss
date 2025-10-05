@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T12:15:48.131Z</updated>
+    <updated>2025-10-05T18:11:45.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -798,17 +798,6 @@ MelBushO at Woodlands, Sunday September 21 – Be Part of Something Big! first a
         <summary type="html"><![CDATA[Simona Aebersold (SUI) and Max Peter Bejmer (SWE) lead the World Cup standings after last week’s European Orienteering Championships in Belgium, which was also Round 2 of this year’s Orienteering World Cup. And an exciting finish is set for the World Cup final, which will be held in Uster, Switzerland later this month. Reigning champion […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia Elite Rankings – September 2025]]></title>
-        <id>https://orienteering.asn.au/?p=14515</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-elite-rankings-september-2025/"/>
-        <updated>2025-09-06T04:42:31.000Z</updated>
-        <summary type="html"><![CDATA[The latest Orienteering Australia Elite Rankings are published.
-Orienteering Australia Elite Rankings – September 2025 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
