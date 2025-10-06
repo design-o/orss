@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T00:45:07.089Z</updated>
+    <updated>2025-10-06T06:15:22.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Research Survey – Complete and Win!]]></title>
+        <id>https://orienteering.asn.au/?p=14816</id>
+        <link href="https://orienteering.asn.au/orienteering-research-survey-complete-and-win/"/>
+        <updated>2025-10-06T04:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Help shape the future of orienteering! Take our 3–5 minute survey for your chance to win prizes. Then invite your friends to share their opinion.
+Orienteering Research Survey – Complete and Win! first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Meeting: Technology in Orienteering on 9 November 2025]]></title>
         <id>https://orienteering.sport/?p=80607</id>
