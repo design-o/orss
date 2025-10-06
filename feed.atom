@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T06:15:22.904Z</updated>
+    <updated>2025-10-06T12:18:49.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64362</id>
+        <link href="https://www.orienteering.org.nz/news/nz-team-trial-dates-2026-woc-jwoc-eyoc-wuoc/"/>
+        <updated>2025-10-06T07:28:27.000Z</updated>
+        <summary type="html"><![CDATA[2026 WOC, JWOC, WUOC and EYOC Team Trial Dates Details of the 2026 team selection trials for the World Orienteering Championships (WOC), Junior World Orienteering Championships (JWOC), World University Orienteering Championships (WUOC) and European Youth Orienteering Championships (EYOC) are as follows: WOC Trials For New Zealand-based athletes: For overseas-based athletes: EYOC / JWOC / WUOC Trials First […]
+NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Research Survey – Complete and Win!]]></title>
         <id>https://orienteering.asn.au/?p=14816</id>
@@ -809,16 +820,6 @@ The post Turf but no Surf appeared first on NI Orienteering Association.]]></sum
 MelBushO at Woodlands, Sunday September 21 – Be Part of Something Big! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup: Aebersold takes the lead after EOC, Bejmer stays in top]]></title>
-        <id>https://orienteering.sport/?p=80162</id>
-        <link href="https://orienteering.sport/world-cup-aebersold-takes-the-lead-after-eoc-bejmer-stays-in-top/"/>
-        <updated>2025-09-06T20:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Simona Aebersold (SUI) and Max Peter Bejmer (SWE) lead the World Cup standings after last week’s European Orienteering Championships in Belgium, which was also Round 2 of this year’s Orienteering World Cup. And an exciting finish is set for the World Cup final, which will be held in Uster, Switzerland later this month. Reigning champion […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

@@ -154,16 +154,6 @@
           "wordCount": 1452,
           "title": "IOF establishes Independent Investigation Panel following tragedy",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80162",
-          "author": "Erling Thisted",
-          "description": "Simona Aebersold (SUI) and Max Peter Bejmer (SWE) lead the World Cup standings after last week’s European Orienteering Championships in Belgium, which was also Round 2 of this year’s Orienteering World Cup. And an exciting finish is set for the World Cup final, which will be held in Uster, Switzerland later this month. Reigning champion […]",
-          "link": "https://orienteering.sport/world-cup-aebersold-takes-the-lead-after-eoc-bejmer-stays-in-top/",
-          "publishedOn": "2025-09-06T20:23:40.000Z",
-          "wordCount": 1781,
-          "title": "World Cup: Aebersold takes the lead after EOC, Bejmer stays in top",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_eocsprint_simonaaebersold_silkevanrooy-1024x682.jpg"
         }
       ]
     },
@@ -310,6 +300,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64362",
+          "author": "Christo Peters",
+          "description": "2026 WOC, JWOC, WUOC and EYOC Team Trial Dates Details of the 2026 team selection trials for the World Orienteering Championships (WOC), Junior World Orienteering Championships (JWOC), World University Orienteering Championships (WUOC) and European Youth Orienteering Championships (EYOC) are as follows: WOC Trials For New Zealand-based athletes: For overseas-based athletes: EYOC / JWOC / WUOC Trials First […]\nNZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/nz-team-trial-dates-2026-woc-jwoc-eyoc-wuoc/",
+          "publishedOn": "2025-10-06T07:28:27.000Z",
+          "wordCount": 2207,
+          "title": "NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/2026-National-Team-Trials-WOC-JWOC-EYOC-WUOC.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=64349",
           "author": "Christo Peters",
