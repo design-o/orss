@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T18:14:00.125Z</updated>
+    <updated>2025-10-07T00:43:47.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -92,6 +92,15 @@ The post Veterans off to Scotland appeared first on NI Orienteering Association.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorian Night O Champs and Good Morning Bunjil – 25-26 Oct 2025]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15010</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-night-o-champs-and-good-morning-bunjil-25-26-oct-2025/"/>
+        <updated>2025-10-03T00:57:19.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Veterans off to Scotland]]></title>
         <id>https://www.niorienteering.org.uk/?p=6791</id>
         <link href="https://www.niorienteering.org.uk/veterans-off-to-scotland-2/"/>
@@ -100,6 +109,15 @@ The post Veterans off to Scotland appeared first on NI Orienteering Association.
 The post Veterans off to Scotland appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training With Joe, Thursday 9 October, Kensington]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15007</id>
+        <link href="https://www.vicorienteering.asn.au/training-with-joe-thursday-9-october-kensington/"/>
+        <updated>2025-10-01T00:52:13.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
