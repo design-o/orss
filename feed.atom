@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T12:19:20.038Z</updated>
+    <updated>2025-10-08T18:14:23.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -880,17 +880,6 @@ The post Turf but no Surf appeared first on NI Orienteering Association.]]></sum
         <summary type="html"><![CDATA[During a meeting on 1 September 2025, the IOF Council agreed to appoint an Independent Investigation Panel following the tragic death of Italian athlete Mattia Debertolis. The panel will be tasked to investigate and assess to Middle distance competition at the The World Games in Chengdu, China in August 2025. The investigation should encompass the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelBushO at Woodlands, Sunday September 21 – Be Part of Something Big!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14453</id>
-        <link href="https://www.vicorienteering.asn.au/first-melbusho-for-2025-at-darebin-parklands-sunday-march-16/"/>
-        <updated>2025-09-09T05:45:52.000Z</updated>
-        <summary type="html"><![CDATA[The next MelbushO is at Woodlands Historic Park on Sunday September 21.  Help break a record and enter now!
-MelBushO at Woodlands, Sunday September 21 – Be Part of Something Big! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
