@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80610",
+          "author": "Erling Thisted",
+          "description": "Finnish Trail Orienteer Pinja Mäkinen became European Cup champion, and her team won too in the end-of-season Nordic Match held last weekend in southern Norway. Closely contested TempO and PreO competitions ended with Finland defeating closest challengers Sweden by 13 points. Twelve stages at six different venues – Hungary, Poland, Spain, Sweden, Finland, and this […]",
+          "link": "https://orienteering.sport/finland-ends-trailo-season-on-a-high/",
+          "publishedOn": "2025-10-07T18:21:09.000Z",
+          "wordCount": 1854,
+          "title": "Finland ends TrailO season on a high",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/10/2025_trailo_nordic-match-2025-day-2-terrain-1024x768.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80607",
           "author": "Erling Thisted",
           "description": "The IT Commission invites to an open meeting on the use of technology in orienteering.   The meeting will take place online on 9 November 19.00-21.00 CET (UTC +1). The format will be short presentations on different topics related to technology.  The focus will be on the technology related considerations and challenges that face developers of […]",
@@ -761,6 +771,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6807",
+          "author": "NIOA Secretary",
+          "description": "Storm Amy made the trip over to Scotland in record time last weekend, but sadly the majority of the Ireland Veteran Home International did not, due to cancelled ferries and flights. Only 10 members of the Ireland team were able to make the trip to...\nThe post Amy Stonewalls the Irish Vets appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/amy-stonewalls-the-irish-vets/",
+          "publishedOn": "2025-10-07T19:50:32.000Z",
+          "wordCount": 4372,
+          "title": "Amy Stonewalls the Irish Vets",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/10/Storm-Amy.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6799",
           "author": "NIOA Secretary",
