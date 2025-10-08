@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T06:14:49.586Z</updated>
+    <updated>2025-10-08T12:19:20.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oceania 2026 Sprint Orienteering Championships – Bulletin 1 Released]]></title>
+        <id>https://orienteering.asn.au/?p=14840</id>
+        <link href="https://orienteering.asn.au/oceania-2026-sprint-orienteering-championships-bulletin-1-released/"/>
+        <updated>2025-10-08T11:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Bulletin 1 has been released for the 2026 Oceania Sprint Orienteering Championships and entries are open for the carnival.
+Oceania 2026 Sprint Orienteering Championships – Bulletin 1 Released first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amy Stonewalls the Irish Vets]]></title>
         <id>https://www.niorienteering.org.uk/?p=6807</id>
