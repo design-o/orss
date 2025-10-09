@@ -154,16 +154,6 @@
           "wordCount": 1513,
           "title": "IOF introduces interim heat policy",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80169",
-          "author": "Erling Thisted",
-          "description": "During a meeting on 1 September 2025, the IOF Council agreed to appoint an Independent Investigation Panel following the tragic death of Italian athlete Mattia Debertolis. The panel will be tasked to investigate and assess to Middle distance competition at the The World Games in Chengdu, China in August 2025. The investigation should encompass the […]",
-          "link": "https://orienteering.sport/iof-establishes-independent-investigation-panel-following-tragedy/",
-          "publishedOn": "2025-09-09T11:32:36.000Z",
-          "wordCount": 1452,
-          "title": "IOF establishes Independent Investigation Panel following tragedy",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
         }
       ]
     },
@@ -858,6 +848,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14846",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Orienteering South Australia is bringing a fresh and fun way to experience orienteering with the development of a high-quality MAZE-O.\nOrienteering South Australia launches exciting new MAZE-O experience first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/orienteering-south-australia-launches-exciting-new-maze-o-experience/",
+          "publishedOn": "2025-10-08T22:52:47.000Z",
+          "wordCount": 2608,
+          "title": "Orienteering South Australia launches exciting new MAZE-O experience",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14840",
           "author": "Elizabeth L",

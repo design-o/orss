@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T18:14:23.568Z</updated>
+    <updated>2025-10-09T00:44:28.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering South Australia launches exciting new MAZE-O experience]]></title>
+        <id>https://orienteering.asn.au/?p=14846</id>
+        <link href="https://orienteering.asn.au/orienteering-south-australia-launches-exciting-new-maze-o-experience/"/>
+        <updated>2025-10-08T22:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering South Australia is bringing a fresh and fun way to experience orienteering with the development of a high-quality MAZE-O.
+Orienteering South Australia launches exciting new MAZE-O experience first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oceania 2026 Sprint Orienteering Championships – Bulletin 1 Released]]></title>
         <id>https://orienteering.asn.au/?p=14840</id>
@@ -870,16 +881,6 @@ The post Turf but no Surf appeared first on NI Orienteering Association.]]></sum
         <summary type="html"><![CDATA[The SOA accounts for the year to 31st December 2024 have now been finalised and approved. They are available to […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF establishes Independent Investigation Panel following tragedy]]></title>
-        <id>https://orienteering.sport/?p=80169</id>
-        <link href="https://orienteering.sport/iof-establishes-independent-investigation-panel-following-tragedy/"/>
-        <updated>2025-09-09T11:32:36.000Z</updated>
-        <summary type="html"><![CDATA[During a meeting on 1 September 2025, the IOF Council agreed to appoint an Independent Investigation Panel following the tragic death of Italian athlete Mattia Debertolis. The panel will be tasked to investigate and assess to Middle distance competition at the The World Games in Chengdu, China in August 2025. The investigation should encompass the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
