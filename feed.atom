@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-10T00:44:15.354Z</updated>
+    <updated>2025-10-10T06:14:46.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Webinar: Making Orienteering Autism Friendly]]></title>
+        <id>https://orienteering.asn.au/?p=14851</id>
+        <link href="https://orienteering.asn.au/upcoming-webinar-making-orienteering-autism-friendly/"/>
+        <updated>2025-10-10T06:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Join the webinar on Tuesday evening to learn more about autism and how to make orienteering participation easier for people with autism.
+Upcoming Webinar: Making Orienteering Autism Friendly first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering South Australia launches exciting new MAZE-O experience]]></title>
         <id>https://orienteering.asn.au/?p=14846</id>
@@ -861,26 +872,6 @@ The post Turf but no Surf appeared first on NI Orienteering Association.]]></sum
         <summary type="html"><![CDATA[A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s celebrate those who deserve to be recognised for their efforts!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56058</id>
-        <link href="https://www.scottish-orienteering.org/news/lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts"/>
-        <updated>2025-09-10T15:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA Accounts to 31st December 2024 available to view before AGM on Monday 22nd September]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56072</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september"/>
-        <updated>2025-09-10T15:11:29.000Z</updated>
-        <summary type="html"><![CDATA[The SOA accounts for the year to 31st December 2024 have now been finalised and approved. They are available to […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>

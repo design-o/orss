@@ -723,26 +723,6 @@
           "wordCount": 2162,
           "title": "Orienteering Access and Navigating Permissions: September Community Conversation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56058",
-          "author": "nikkihoward",
-          "description": "Do you know of someone who has gone above and beyond for the benefit of orienteering? The President’s Medal is handed out […]",
-          "link": "https://www.scottish-orienteering.org/news/lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=lets-celebrate-those-who-deserve-to-be-recognised-for-their-efforts",
-          "publishedOn": "2025-09-10T15:28:24.000Z",
-          "wordCount": 1616,
-          "title": "Let’s celebrate those who deserve to be recognised for their efforts!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/IMG_0481-768x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56072",
-          "author": "nikkihoward",
-          "description": "The SOA accounts for the year to 31st December 2024 have now been finalised and approved. They are available to […]",
-          "link": "https://www.scottish-orienteering.org/news/soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september/?utm_source=rss&utm_medium=rss&utm_campaign=soa-accounts-to-31st-december-2024-available-to-view-before-agm-on-monday-22nd-september",
-          "publishedOn": "2025-09-10T15:11:29.000Z",
-          "wordCount": 1578,
-          "title": "SOA Accounts to 31st December 2024 available to view before AGM on Monday 22nd September",
-          "imageUrl": null
         }
       ]
     },
@@ -848,6 +828,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14851",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Join the webinar on Tuesday evening to learn more about autism and how to make orienteering participation easier for people with autism.\nUpcoming Webinar: Making Orienteering Autism Friendly first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/upcoming-webinar-making-orienteering-autism-friendly/",
+          "publishedOn": "2025-10-10T06:11:19.000Z",
+          "wordCount": 2559,
+          "title": "Upcoming Webinar: Making Orienteering Autism Friendly",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14846",
           "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
