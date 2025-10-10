@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-10T06:14:46.921Z</updated>
+    <updated>2025-10-10T12:19:09.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -862,16 +862,6 @@ The post Turf but no Surf appeared first on NI Orienteering Association.]]></sum
         <summary type="html"><![CDATA[The IOF Council has decided to introduce an interim heat policy that comes into effect immediately for all IOF events covered by IOF Competition Rules with expected winning times of 20 minutes or greater. The interim policy has been developed by IOF Medical Experts and contains guidelines to ensure that competitions are not held in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training season]]></title>
-        <id>https://slow.org.uk/?p=23633</id>
-        <link href="https://slow.org.uk/coaching/wimbledon-training-season-2025/"/>
-        <updated>2025-09-10T21:28:14.000Z</updated>
-        <summary type="html"><![CDATA[A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
 </feed>
