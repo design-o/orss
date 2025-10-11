@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T06:12:32.526Z</updated>
+    <updated>2025-10-11T12:15:47.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 NOL Team Competition Results]]></title>
+        <id>https://orienteering.asn.au/?p=14849</id>
+        <link href="https://orienteering.asn.au/2025-nol-team-competition-results/"/>
+        <updated>2025-10-11T11:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Last week, the 2025 National Orienteering League concluded in Brisbane, Queensland. Congratulations to all the 2025 Team Competition winners!
+2025 NOL Team Competition Results first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Upcoming Webinar: Making Orienteering Autism Friendly]]></title>
         <id>https://orienteering.asn.au/?p=14851</id>
