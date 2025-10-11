@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T12:15:47.013Z</updated>
+    <updated>2025-10-11T18:11:05.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Open for the NI Champs]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6814</id>
+        <link href="https://www.niorienteering.org.uk/entries-open-for-the-ni-champs-2/"/>
+        <updated>2025-10-11T15:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Entries are open for the NI Classic or Long Distance Championships on Saturday 1 November at Carntougher, near Maghera. This upland area with intricate contour detail was last used for the 2022 Championship event. For those not wishing to enter the course for their age...
+The post Entries Open for the NI Champs appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 NOL Team Competition Results]]></title>
         <id>https://orienteering.asn.au/?p=14849</id>
