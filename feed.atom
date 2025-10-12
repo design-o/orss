@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T18:11:05.305Z</updated>
+    <updated>2025-10-12T00:46:54.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 National Squads]]></title>
+        <id>https://orienteering.asn.au/?p=14871</id>
+        <link href="https://orienteering.asn.au/2026-national-squads/"/>
+        <updated>2025-10-11T21:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is excited to announce an exciting initiative for 2026: a sprint focused high performance squad!
+2026 National Squads first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries Open for the NI Champs]]></title>
         <id>https://www.niorienteering.org.uk/?p=6814</id>
@@ -861,27 +872,6 @@ Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]>
         <link href="https://orienteering.sport/here-is-the-programme-for-the-2027-orienteering-world-cup/"/>
         <updated>2025-09-14T19:58:59.000Z</updated>
         <summary type="html"><![CDATA[The International Orienteering Federation (IOF) has officially confirmed the programme for the 2027 Orienteering World Cup, set to feature four exciting rounds across Europe. The series will showcase a mix of forest and sprint formats, aimed at testing the full range of orienteering skills. The season will open in Hälsingland, Sweden (2–6 June), known for […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turf but no Surf]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6757</id>
-        <link href="https://www.niorienteering.org.uk/turf-but-no-surf/"/>
-        <updated>2025-09-12T09:38:25.000Z</updated>
-        <summary type="html"><![CDATA[The results from the NI Colour Series at Portstewart on Saturday 6 September are now updated at Results & Fixtures>2025 Results, along with RouteGadget (do upload your routes) and the updated NI Colour Series standings. Thanks to the officials Organisers: Charlie & Rachel Reid ,...
-The post Turf but no Surf appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF introduces interim heat policy]]></title>
-        <id>https://orienteering.sport/?p=80175</id>
-        <link href="https://orienteering.sport/iof-introduces-interim-heat-policy/"/>
-        <updated>2025-09-12T08:29:54.000Z</updated>
-        <summary type="html"><![CDATA[The IOF Council has decided to introduce an interim heat policy that comes into effect immediately for all IOF events covered by IOF Competition Rules with expected winning times of 20 minutes or greater. The interim policy has been developed by IOF Medical Experts and contains guidelines to ensure that competitions are not held in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
