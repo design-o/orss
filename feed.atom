@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T06:15:24.307Z</updated>
+    <updated>2025-10-14T12:19:33.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Club Conference 2025]]></title>
+        <id>https://www.orienteering.ie/?p=21514</id>
+        <link href="https://www.orienteering.ie/club-conference-2025/"/>
+        <updated>2025-10-14T11:51:49.000Z</updated>
+        <summary type="html"><![CDATA[A huge thanks to everyone who came to our Club Conference last weekend in Portlaoise. It was great to get club delegates, our Management Group and Operations Team together, where we swapped ideas and discussed the future development of our sport across Ireland. A summary of the conference will be sent to clubs later this […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Silva Medal Winner]]></title>
+        <id>https://orienteering.asn.au/?p=14877</id>
+        <link href="https://orienteering.asn.au/2025-silva-medal-winner/"/>
+        <updated>2025-10-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Silva Medal has been won by Tim Hatley (M65, BK V). He was the only orienteer to win all 6 designated events and achieved maximum points of 24. 
+2025 Silva Medal Winner first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: The 2025 season with Max Peter Bejmer, Cécile Calandry and Jonas Merz]]></title>
         <id>https://orienteering.sport/?p=80635</id>
@@ -864,26 +885,6 @@ Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[The September session in the SOA’s monthly online Community Conversations series focused on access to orienteering areas and navigating permissions. […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEEOC 2025 in Bulgaria ended successfully]]></title>
-        <id>https://orienteering.sport/?p=80184</id>
-        <link href="https://orienteering.sport/seeoc-2025-in-bulgaria-ended-successfully/"/>
-        <updated>2025-09-14T21:57:56.000Z</updated>
-        <summary type="html"><![CDATA[The SEEOC 2025 – South East European Orienteering Championships including Masters, held this year in central Bulgaria, are now over for 2025. All medals have been awarded and the atmosphere was truly enjoyable. The forest races were set in Skumsale, Strelcha with featured an oak forest covered mountain, sprinkled with huge granite megalithic rocks, which […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here is the programme for the 2027 Orienteering World Cup]]></title>
-        <id>https://orienteering.sport/?p=80051</id>
-        <link href="https://orienteering.sport/here-is-the-programme-for-the-2027-orienteering-world-cup/"/>
-        <updated>2025-09-14T19:58:59.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation (IOF) has officially confirmed the programme for the 2027 Orienteering World Cup, set to feature four exciting rounds across Europe. The series will showcase a mix of forest and sprint formats, aimed at testing the full range of orienteering skills. The season will open in Hälsingland, Sweden (2–6 June), known for […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

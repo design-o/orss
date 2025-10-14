@@ -134,26 +134,6 @@
           "wordCount": 1869,
           "title": "CX80 MTBO World Cup titles at stake in Bulgaria",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2025_wmtboc_mass_start__vojtekludvik_wilcze_ok_-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80184",
-          "author": "Erling Thisted",
-          "description": "The SEEOC 2025 – South East European Orienteering Championships including Masters, held this year in central Bulgaria, are now over for 2025. All medals have been awarded and the atmosphere was truly enjoyable. The forest races were set in Skumsale, Strelcha with featured an oak forest covered mountain, sprinkled with huge granite megalithic rocks, which […]",
-          "link": "https://orienteering.sport/seeoc-2025-in-bulgaria-ended-successfully/",
-          "publishedOn": "2025-09-14T21:57:56.000Z",
-          "wordCount": 2638,
-          "title": "SEEOC 2025 in Bulgaria ended successfully",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/seeoc2025_middle-1024x614.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80051",
-          "author": "Erling Thisted",
-          "description": "The International Orienteering Federation (IOF) has officially confirmed the programme for the 2027 Orienteering World Cup, set to feature four exciting rounds across Europe. The series will showcase a mix of forest and sprint formats, aimed at testing the full range of orienteering skills. The season will open in Hälsingland, Sweden (2–6 June), known for […]",
-          "link": "https://orienteering.sport/here-is-the-programme-for-the-2027-orienteering-world-cup/",
-          "publishedOn": "2025-09-14T19:58:59.000Z",
-          "wordCount": 1717,
-          "title": "Here is the programme for the 2027 Orienteering World Cup",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/2024_owc_final_trophies-1024x499.png"
         }
       ]
     },
@@ -266,6 +246,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21514",
+          "author": "Operations Manager",
+          "description": "A huge thanks to everyone who came to our Club Conference last weekend in Portlaoise. It was great to get club delegates, our Management Group and Operations Team together, where we swapped ideas and discussed the future development of our sport across Ireland. A summary of the conference will be sent to clubs later this […]",
+          "link": "https://www.orienteering.ie/club-conference-2025/",
+          "publishedOn": "2025-10-14T11:51:49.000Z",
+          "wordCount": 796,
+          "title": "Club Conference 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=21463",
           "author": "Deirdre",
@@ -818,6 +808,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=14877",
+          "author": "Elizabeth L",
+          "description": "The 2025 Silva Medal has been won by Tim Hatley (M65, BK V). He was the only orienteer to win all 6 designated events and achieved maximum points of 24. \n2025 Silva Medal Winner first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2025-silva-medal-winner/",
+          "publishedOn": "2025-10-14T07:00:00.000Z",
+          "wordCount": 2676,
+          "title": "2025 Silva Medal Winner",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=14871",
           "author": "Elizabeth L",
