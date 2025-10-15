@@ -247,6 +247,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=21522",
+          "author": "Deirdre",
+          "description": "The final information pack for the Munster Orienteering Championships is now available at the link below: http://www.munsterchamps2025.com/ This will take you to the Bishopstown Orienteering Club website, which will then take you one click later to the full pack, including the original 1992 hand drawn map. There are still a few maps on the courses […]",
+          "link": "https://www.orienteering.ie/munster-orienteering-championships-final-details/",
+          "publishedOn": "2025-10-14T20:31:39.000Z",
+          "wordCount": 795,
+          "title": "Munster Orienteering Championships – final details",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=21514",
           "author": "Operations Manager",
           "description": "A huge thanks to everyone who came to our Club Conference last weekend in Portlaoise. It was great to get club delegates, our Management Group and Operations Team together, where we swapped ideas and discussed the future development of our sport across Ireland. A summary of the conference will be sent to clubs later this […]",
@@ -273,6 +283,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23702",
+          "author": "vinh",
+          "description": "It was a great turn out to the second Street-O of the 2025-26 series around Richmond. Thanks to Simon and Judith for putting on the [...]",
+          "link": "https://slow.org.uk/streeto/richmond-street-o-25-results/",
+          "publishedOn": "2025-10-14T23:30:31.000Z",
+          "wordCount": 2097,
+          "title": "Richmond Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/richmond-street-o-results/files/StreetO_Oct2025.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23661",
           "author": "Steve Clelland",
