@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T00:45:37.994Z</updated>
+    <updated>2025-10-15T06:15:07.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -895,16 +895,6 @@ Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[The third race in the 2025-26 Street-O series will be around Highbury. The format is a 1 hour time limit to find as many checkpoints [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Access and Navigating Permissions: September Community Conversation]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56088</id>
-        <link href="https://www.scottish-orienteering.org/news/orienteering-access-and-navigating-permissions-september-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-access-and-navigating-permissions-september-community-conversation"/>
-        <updated>2025-09-15T13:29:19.000Z</updated>
-        <summary type="html"><![CDATA[The September session in the SOA’s monthly online Community Conversations series focused on access to orienteering areas and navigating permissions. […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
