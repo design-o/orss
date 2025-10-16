@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T00:45:41.019Z</updated>
+    <updated>2025-10-16T06:15:08.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -855,26 +855,6 @@ Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[The Compass Sport Cup is a British Clubs Orienteering Championships. The Competition consists of an initial round in Spring and […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[East Lothian Orienteers rise to the challenge at Hartside Hill]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56094</id>
-        <link href="https://www.scottish-orienteering.org/news/east-lothian-orienteers-rise-to-the-challenge-at-hartside-hill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=east-lothian-orienteers-rise-to-the-challenge-at-hartside-hill"/>
-        <updated>2025-09-16T15:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Well done to East Lothian Orienteers (ELO) who pulled together to host their first every Scottish Orienteering League event (SOL) […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3-hour Walk-up Map | 2025 Python Adventure Race | Saturday September 20]]></title>
-        <id>https://neooc.com/?p=49040</id>
-        <link href="https://neooc.com/3-hour-walk-up-map-2025-python-adventure-race-saturday-september-20/"/>
-        <updated>2025-09-16T15:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Preregistration is Closed! However, you can reserve your 3-hour Walk-up Map by emailing: registrar@neooc.com Event Details here!]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>
