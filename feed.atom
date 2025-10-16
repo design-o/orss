@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T06:15:08.498Z</updated>
+    <updated>2025-10-16T12:19:31.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Honour Team]]></title>
+        <id>https://orienteering.asn.au/?p=14889</id>
+        <link href="https://orienteering.asn.au/2025-honour-team/"/>
+        <updated>2025-10-16T06:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to athletes selected for the 2025 Honour Team!
+2025 Honour Team first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Richmond Street-O Results]]></title>
         <id>https://slow.org.uk/?p=23702</id>
