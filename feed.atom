@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T12:16:22.105Z</updated>
+    <updated>2025-10-18T18:11:39.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Development Officer WLTM…]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6826</id>
+        <link href="https://www.niorienteering.org.uk/development-officer-wltm/"/>
+        <updated>2025-10-18T17:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Ric Gamble, Development Officer writes… ❓Would you be free during the day and happy to help deliver Orienteering to young people new to the sport? 👍Three great opportunities are coming up. 1️⃣Why not join Ric at SW College Omagh on the afternoon of Tue 4...
+The post Development Officer WLTM… appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Non-Elite Rankings]]></title>
         <id>https://orienteering.asn.au/?p=14894</id>
