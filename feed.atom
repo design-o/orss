@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T00:42:40.356Z</updated>
+    <updated>2025-10-18T06:12:56.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -868,16 +868,6 @@ Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[Within our clubs we know that many hands make light work and more often than not a problem shared is […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reaching out to Teachers]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56118</id>
-        <link href="https://www.scottish-orienteering.org/news/reaching-out-to-teachers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reaching-out-to-teachers"/>
-        <updated>2025-09-18T15:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Over the past 6 months SOA has been working hard to get orienteering into teaching institutions. By introducing future teachers […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
 </feed>
