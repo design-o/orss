@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T06:14:16.905Z</updated>
+    <updated>2025-10-19T12:16:22.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -828,27 +828,6 @@ NZ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
 Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 World Cup Round 3 Team Selection & Information]]></title>
-        <id>https://orienteering.asn.au/?p=14544</id>
-        <link href="https://orienteering.asn.au/2025-world-cup-round-3-team-selection-information/"/>
-        <updated>2025-09-20T00:12:55.000Z</updated>
-        <summary type="html"><![CDATA[The Australian team of 8 for 2025 World Cup Round 3 has been finalised by the selection panel.
-2025 World Cup Round 3 Team Selection & Information first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CX80 MTBO WORLD CUP: Sprint wins for Splittorff and Waldmann]]></title>
-        <id>https://orienteering.sport/?p=80204</id>
-        <link href="https://orienteering.sport/cx80-mtbo-world-cup-sprint-wins-for-splittorff-and-waldmann/"/>
-        <updated>2025-09-19T20:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Nikoline Splittorff (DEN) and Andreas Waldmann (AUT) took the wins as the world’s best MTBO athletes raced the opening sprint at the CX80 MTBO World Cup Final in Bulgaria. Friday featured a fast sprint in the town of Yagoda, where Splittorff and Waldmann still managed to take victories by large margins. Two Danes in top […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
