@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T12:16:22.002Z</updated>
+    <updated>2025-10-19T18:12:41.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -817,17 +817,6 @@ NZ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <updated>2025-09-20T08:03:37.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendigo Bush Orienteering in October]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14769</id>
-        <link href="https://www.vicorienteering.asn.au/bendigo-bush-orienteering-in-july/"/>
-        <updated>2025-09-20T03:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss these two Bendigo bush events in September, at Kangaroo Gully and Mt Tarrengower
-Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
