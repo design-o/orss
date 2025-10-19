@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T00:52:14.597Z</updated>
+    <updated>2025-10-19T06:14:16.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -849,36 +849,6 @@ Bendigo Bush Orienteering in October first appeared on Orienteering Victoria.]]>
         <summary type="html"><![CDATA[Nikoline Splittorff (DEN) and Andreas Waldmann (AUT) took the wins as the world’s best MTBO athletes raced the opening sprint at the CX80 MTBO World Cup Final in Bulgaria. Friday featured a fast sprint in the town of Yagoda, where Splittorff and Waldmann still managed to take victories by large margins. Two Danes in top […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opportunity to help develop our 20-40 year old SEDS participants]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56134</id>
-        <link href="https://www.scottish-orienteering.org/news/opportunity-to-help-develop-our-20-40-year-old-participants/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunity-to-help-develop-our-20-40-year-old-participants"/>
-        <updated>2025-09-19T17:25:57.000Z</updated>
-        <summary type="html"><![CDATA[The SOA is looking to appoint someone to operate as the coordinator for the Scottish Elite and Development Squad (SEDS).  […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JK and Scottish 6 Day Job Opportunities]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56130</id>
-        <link href="https://www.scottish-orienteering.org/news/jk-and-scottish-6-day-job-opportunities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jk-and-scottish-6-day-job-opportunities"/>
-        <updated>2025-09-19T17:13:41.000Z</updated>
-        <summary type="html"><![CDATA[The SOA is seeking candidates to fill the roles of JK 2026 Co-ordinator for the JK 2026 and the Assistant […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Providing the opportunity for Clubs to talk – 2025 Club Networking Day]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56123</id>
-        <link href="https://www.scottish-orienteering.org/news/providing-the-opportunity-for-clubs-to-talk-2025-club-networking-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=providing-the-opportunity-for-clubs-to-talk-2025-club-networking-day"/>
-        <updated>2025-09-19T14:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Within our clubs we know that many hands make light work and more often than not a problem shared is […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
