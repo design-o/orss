@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T12:19:52.165Z</updated>
+    <updated>2025-10-20T18:14:48.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th]]></title>
+        <id>https://neooc.com/?p=49162</id>
+        <link href="https://neooc.com/results-ksu-scare-o-evening-o-at-kent-state-campus-sunday-october-19th/"/>
+        <updated>2025-10-20T16:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Recap and Results It was a rainy and wet day at Kent State Campus, but many BRAVE SOULS came out for the Scare-O and had a great time!  Thanks to everyone who participated or volunteered. No one cleared the 90 minute Score course, but several came close.  Our top three winners were NWBRC (680 pts, […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senior Selection Panel | Looking for new member]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64435</id>
