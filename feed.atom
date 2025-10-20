@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T06:16:38.074Z</updated>
+    <updated>2025-10-20T12:19:52.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Senior Selection Panel | Looking for new member]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64435</id>
+        <link href="https://www.orienteering.org.nz/news/senior-selection-panel-looking-for-new-member/"/>
+        <updated>2025-10-20T07:45:01.000Z</updated>
+        <summary type="html"><![CDATA[After years of service, we thank Al Cory-Wright for the time he has put into helping select our national teams. Al is retiring from both his position as convenor and member of the selector Senior Selection Panel, the panel responsible for selecting our WOC, EYOC, JWOC, World Cup teams. With Al retiring, we welcome expressions of interest […]
+Senior Selection Panel | Looking for new member first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Club Forum Summary | feedback about Strategic Priorities for 2026-2030]]></title>
         <id>https://www.orienteering.org.nz/?p=64430</id>
