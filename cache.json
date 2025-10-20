@@ -104,16 +104,6 @@
           "wordCount": 1764,
           "title": "CX80 MTBO World Cup: Finland takes Mixed Relay win",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_mtbo_world_cup2-1024x615.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80206",
-          "author": "Erling Thisted",
-          "description": "Camilla Søgaard and Vojtech Ludvik won the CX80 MTBO World Cup long distance on Saturday afternoon in Bulgaria. In the women’s race, Søgaard took a superb victory – more than two minutes ahead of Marisa Costa (POR), while another Dane, Cæcilie Christoffersen was more than five minutes behind in third place. Overall World Cup winner, […]",
-          "link": "https://orienteering.sport/cx80-mtbo-world-cup-sogaard-and-ludvik-win-long-distance/",
-          "publishedOn": "2025-09-20T16:14:50.000Z",
-          "wordCount": 1536,
-          "title": "CX80 MTBO WORLD CUP: Søgaard and Ludvik win Long distance",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/mtbo-wc-2025-3-logo-1024x766.png"
         }
       ]
     },
@@ -270,6 +260,26 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=64430",
+          "author": "Christo Peters",
+          "description": "A huge thankyou to the Thirty-Two attendees at this year’s forum that discussed strategic goals and ideas for both orienteering as a sport and ONZ as the national body.  A summary of what was discussed can be found here\nClub Forum Summary | feedback about Strategic Priorities for 2026-2030 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/club-forum-summary-feedback-of-strategic-planning-for-2026-2030/",
+          "publishedOn": "2025-10-20T03:05:36.000Z",
+          "wordCount": 2132,
+          "title": "Club Forum Summary | feedback about Strategic Priorities for 2026-2030",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/b98a7724-d4ac-38cb-ddfe-a0e483948311.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?p=64425",
+          "author": "Christo Peters",
+          "description": "This helpful document provides guidelines for clubs was around volunter and contractor payments. The document is intended to ensure clubs understand the legal requirements around tax for volunteer payments and tax requirements by providing clear explanations on what is and is not taxable. View the document here\nTax Guidelines for Clubs | Payments for Volunteers and Contractors first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/uncategorized/tax-guidelines-for-clubs-payments-for-volunteers-and-contractors/",
+          "publishedOn": "2025-10-20T02:49:06.000Z",
+          "wordCount": 2143,
+          "title": "Tax Guidelines for Clubs | Payments for Volunteers and Contractors",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/Tax-Guidelines-for-Clubs-logo.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=64362",
           "author": "Christo Peters",
