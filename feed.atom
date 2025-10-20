@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T18:12:41.877Z</updated>
+    <updated>2025-10-20T00:51:19.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -808,15 +808,6 @@ NZ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[Camilla Søgaard and Vojtech Ludvik won the CX80 MTBO World Cup long distance on Saturday afternoon in Bulgaria. In the women’s race, Søgaard took a superb victory – more than two minutes ahead of Marisa Costa (POR), while another Dane, Cæcilie Christoffersen was more than five minutes behind in third place. Overall World Cup winner, […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians at the AusChamps]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14982</id>
-        <link href="https://www.vicorienteering.asn.au/victorians-at-the-auschamps/"/>
-        <updated>2025-09-20T08:03:37.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
