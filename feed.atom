@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T18:14:48.832Z</updated>
+    <updated>2025-10-21T00:46:51.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -831,16 +831,6 @@ NZ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[Finland won Sunday’s mixed relay at the CX80 MTBO World Cup Round in Bulgaria, which was also the last race of the season in the international MTBO calendar. The MTBO athletes returned to the town of Yagoda and the arena used for Friday’s sprint on Sunday morning. And today’s relay courses went in the nearby […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London City Race 2025 Results]]></title>
-        <id>https://slow.org.uk/?p=23661</id>
-        <link href="https://slow.org.uk/racereports/lcr-2025-results/"/>
-        <updated>2025-09-21T10:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Results by Course – pdf Results by Class – pdf Live SPORTident results WinSplits – to follow RouteGadget – to follow Planner comments I trust [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
