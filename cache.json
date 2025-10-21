@@ -94,16 +94,6 @@
           "wordCount": 1470,
           "title": "Podcast: Mathias Barros-Vallet on his surprising EOC Sprint win and the World Cup Final",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/©eoc2025_sprint_final_men-105-1024x682.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80235",
-          "author": "Erling Thisted",
-          "description": "Finland won Sunday’s mixed relay at the CX80 MTBO World Cup Round in Bulgaria, which was also the last race of the season in the international MTBO calendar. The MTBO athletes returned to the town of Yagoda and the arena used for Friday’s sprint on Sunday morning. And today’s relay courses went in the nearby […]",
-          "link": "https://orienteering.sport/cx80-mtbo-world-cup-finland-takes-mixed-relay-win/",
-          "publishedOn": "2025-09-21T19:04:36.000Z",
-          "wordCount": 1764,
-          "title": "CX80 MTBO World Cup: Finland takes Mixed Relay win",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_mtbo_world_cup2-1024x615.jpg"
         }
       ]
     },
@@ -224,16 +214,6 @@
           "publishedOn": "2025-10-14T11:51:49.000Z",
           "wordCount": 796,
           "title": "Club Conference 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21463",
-          "author": "Deirdre",
-          "description": "19 October 2025 Combaun, Co. Limerick Bishopstown Orienteering Club welcomes you to the 2025 Munster Championships at Combaun, Co. Limerick. The area consists of coniferous plantations of varying species and maturity. The hills and valleys in the area make for significant undulation across the map. Prominent features include Temple Hill Mountain with a peak of […]",
-          "link": "https://www.orienteering.ie/munster-orienteering-championships-2/",
-          "publishedOn": "2025-09-21T21:42:28.000Z",
-          "wordCount": 1072,
-          "title": "Munster Orienteering Championships",
           "imageUrl": null
         }
       ]
@@ -564,6 +544,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56238",
+          "author": "suzannerb",
+          "description": "So far we have received two fantastic nominations for our Young Orienteer of the Year award. It’s always encouraging to […]",
+          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025-2/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-2025-2",
+          "publishedOn": "2025-10-21T11:43:57.000Z",
+          "wordCount": 1746,
+          "title": "Young Orienteer of the Year 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/10/Finlay.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56186",
           "author": "nikkihoward",
