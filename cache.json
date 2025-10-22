@@ -197,6 +197,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=21551",
+          "author": "Deirdre",
+          "description": "What a success the Bake Sale was last Sunday at the Munster Champs in Coombaun. There was barely breathing space inside the little tent as everyone crammed in to feast on the home-baked goodies. And what a generous bunch you all are. We want to extend a massive thank you to all of you who […]",
+          "link": "https://www.orienteering.ie/junior-bake-sale-thank-you/",
+          "publishedOn": "2025-10-21T18:18:28.000Z",
+          "wordCount": 866,
+          "title": "Junior Bake Sale Thank You",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=21522",
           "author": "Deirdre",
           "description": "The final information pack for the Munster Orienteering Championships is now available at the link below: http://www.munsterchamps2025.com/ This will take you to the Bishopstown Orienteering Club website, which will then take you one click later to the full pack, including the original 1992 hand drawn map. There are still a few maps on the courses […]",
@@ -469,16 +479,6 @@
           "wordCount": 2179,
           "title": "High Performance Camp 2025",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/09/JWOC-sprint-relay.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64264",
-          "author": "Christo Peters",
-          "description": "New Zealand and Australia will  compete in an Elite Test Match as part of the Australian Orienteering Championships 27th September – 5th October in Brisbane. The NZ Senior Selection panel has named the following team: W21E Renee Beveridge (all races) Kaia Joergensen (all races) Lara Molloy (all races) M21E Nathan Borton (all races) Tane Cambridge […]\nNZ Pinestars Team Named first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/nz-pinestars-team-named/",
-          "publishedOn": "2025-09-22T09:55:25.000Z",
-          "wordCount": 2161,
-          "title": "NZ Pinestars Team Named",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/09/Screenshot-691.png"
         }
       ]
     },
@@ -525,16 +525,6 @@
           "publishedOn": "2025-09-25T12:36:37.000Z",
           "wordCount": 1507,
           "title": "Howard Montgomery | 2025 class of Orienteering USA Golden Service Award Winner | O-USA",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=49043",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Recap and Results The 2025 Python is in the books! Thank you to everyone who participated or volunteered – we had a very smooth event this year. The weather was sunny with highs in the 80’s, which made conditions somewhat challenging especially mid-day. For the 3-hour event results, the day went to Veteran’s Men participants […]",
-          "link": "https://neooc.com/results-2025-python-adventure-race-saturday-september-20/",
-          "publishedOn": "2025-09-22T11:52:39.000Z",
-          "wordCount": 1751,
-          "title": "Results | 2025 Python Adventure Race | Saturday September 20",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
