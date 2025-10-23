@@ -110,6 +110,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=14976",
+          "author": "Debbie Dodd",
+          "description": "Tarralla Wetlands is a fantastic, fun, family-friendly map that has something for everyone!  Enter online now and make sure you don't miss out!\nSummer Shorts and Sprints – Tarralla Wetlands, Sunday 26 October first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-are-coming-soon/",
+          "publishedOn": "2025-10-18T05:54:29.000Z",
+          "wordCount": 1213,
+          "title": "Summer Shorts and Sprints – Tarralla Wetlands, Sunday 26 October",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
           "description": "Find out what's on at this week's Park Street events\nPark Street Update, October 21-27 first appeared on Orienteering Victoria.",
@@ -563,26 +573,6 @@
           "wordCount": 1526,
           "title": "Aberdeen Beginners Day",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/Aberdeen-Beginners-Flyer-721x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56150",
-          "author": "nikkihoward",
-          "description": "After 9 years the Junior European Cup (JEC) returns to Scotland on the 3-5th October.  The Sprint returns to the […]",
-          "link": "https://www.scottish-orienteering.org/news/europes-finest-juniors-fight-it-out-in-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=europes-finest-juniors-fight-it-out-in-scotland",
-          "publishedOn": "2025-09-23T16:12:20.000Z",
-          "wordCount": 1850,
-          "title": "Europe’s finest juniors fight it out in Scotland",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/Simona-Aebersold-cant-believe-what-shes-hearing-at-the-Sprint.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56147",
-          "author": "nikkihoward",
-          "description": "The fourth and last Scottish Orienteering League event of 2025 saw us all off to the East Lothian seaside. Interlopers […]",
-          "link": "https://www.scottish-orienteering.org/news/we-all-went-down-to-the-beach-with-interlopers/?utm_source=rss&utm_medium=rss&utm_campaign=we-all-went-down-to-the-beach-with-interlopers",
-          "publishedOn": "2025-09-23T14:47:24.000Z",
-          "wordCount": 1924,
-          "title": "We all went down to the beach with Interlopers",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/Control_and_Bench_by_Katherine_Ivory-1024x768.jpg"
         }
       ]
     },
@@ -690,16 +680,6 @@
           "wordCount": 4387,
           "title": "Seniors running alongside Juniors",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/09/SHI-2024-Team-Ireland.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6762",
-          "author": "NIOA Secretary",
-          "description": "Steph Pruzina, Junior Coach writes… It’s an exciting time of year again for our rebranded NIOA junior squad. The donation received from the IOC has been put to good use in supporting squad members to buy from a selection of newly designed Tees and Hoodies....\nThe post Juniors Off to JIRCs appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/juniors-off-to-jircs/",
-          "publishedOn": "2025-09-23T14:41:24.000Z",
-          "wordCount": 4535,
-          "title": "Juniors Off to JIRCs",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/09/Moire-Fionne.jpg"
         }
       ]
     },
