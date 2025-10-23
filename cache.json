@@ -74,16 +74,6 @@
           "wordCount": 1940,
           "title": "World Cup: First win for Křivda, Aebersold crushes sprint",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_owcfinal_mens_sprint_podium_kelenklement-1024x614.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80279",
-          "author": "Erling Thisted",
-          "description": "The final battle for the World Cup titles takes place in Switzerland, where the town of Uster is the venue for the last international orienteering competitions in 2025. On Friday at noon, the races in Switzerland begin with the individual Sprint, on Saturday there is a Sprint Relay before the World Cup final ends with […]",
-          "link": "https://orienteering.sport/thrilling-sprint-races-in-switzerland-to-decide-this-years-world-cup-titles/",
-          "publishedOn": "2025-09-23T08:34:17.000Z",
-          "wordCount": 1819,
-          "title": "Thrilling sprint races in Switzerland to decide this year’s World Cup titles",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/08/eoc2025_sprintrelay_silkevanrooyjpg-1024x682.jpg"
         }
       ]
     },
@@ -119,6 +109,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Find out what's on at this week's Park Street events\nPark Street Update, October 21-27 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-10-17T23:41:54.000Z",
+          "wordCount": 1163,
+          "title": "Park Street Update, October 21-27",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=15049",
           "author": "Debbie Dodd",
@@ -157,16 +157,6 @@
           "publishedOn": "2025-10-01T00:52:13.000Z",
           "wordCount": 926,
           "title": "Training With Joe, Thursday 9 October, Kensington",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=14976",
-          "author": "Debbie Dodd",
-          "description": "Summer Shorts and Sprints are back in 2025!  Get ready ... get excited!\nSummer Shorts and Sprints Are Coming Soon! first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-are-coming-soon/",
-          "publishedOn": "2025-09-23T06:54:29.000Z",
-          "wordCount": 1028,
-          "title": "Summer Shorts and Sprints Are Coming Soon!",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
