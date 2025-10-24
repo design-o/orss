@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T06:14:23.870Z</updated>
+    <updated>2025-10-24T12:19:18.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Annual General Meeting]]></title>
+        <id>https://slow.org.uk/?p=23730</id>
+        <link href="https://slow.org.uk/uncategorized/2025-annual-general-meeting/"/>
+        <updated>2025-10-24T11:38:40.000Z</updated>
+        <summary type="html"><![CDATA[South London Orienteers and Wayfarers 2025 AGM 8pm Monday 24th November 2025 at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW The meeting can [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juniors travel to Wales for the JHIs]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56265</id>
+        <link href="https://www.scottish-orienteering.org/news/juniors-travel-to-wales-for-the-jhis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juniors-travel-to-wales-for-the-jhis"/>
+        <updated>2025-10-24T11:02:37.000Z</updated>
+        <summary type="html"><![CDATA[This year it was the turn of Wales to host the Junior Home Internationals (JHIs) where the four home nations […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calling All Young Orienteers – Share Your Best Shots!]]></title>
         <id>https://www.scottish-orienteering.org/?p=56261</id>
