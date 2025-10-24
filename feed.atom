@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T18:15:05.233Z</updated>
+    <updated>2025-10-24T00:43:22.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calling All Young Orienteers – Share Your Best Shots!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56261</id>
+        <link href="https://www.scottish-orienteering.org/news/calling-all-young-orienteers-share-your-best-shots/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=calling-all-young-orienteers-share-your-best-shots"/>
+        <updated>2025-10-23T19:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Scottish Orienteering is excited to launch a brand-new Junior Photo Competition – and we want you to be part of […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOA AGM sees new Chair and Performance Director take their place]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56258</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-agm-sees-new-chair-and-performance-director-take-their-place/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-agm-sees-new-chair-and-performance-director-take-their-place"/>
+        <updated>2025-10-23T18:52:45.000Z</updated>
+        <summary type="html"><![CDATA[The SOA AGM was held online on 22nd September. Jonathan Molloy of Forth Valley Orienteers was elected as Chair and […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some amazing athletes and volunteer efforts at the Junior European Championships]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56202</id>
+        <link href="https://www.scottish-orienteering.org/news/some-amazing-athletes-and-volunteer-efforts-at-the-junior-european-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=some-amazing-athletes-and-volunteer-efforts-at-the-junior-european-championships"/>
+        <updated>2025-10-23T18:39:23.000Z</updated>
+        <summary type="html"><![CDATA[This month the Junior European Championship (JEC) took place in Stirling and the Trossachs. Many of you will have seen […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland take the win in the Veteran Home Internationals]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56247</id>
+        <link href="https://www.scottish-orienteering.org/news/scotland-take-the-win-in-the-veteran-home-internationals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotland-take-the-win-in-the-veteran-home-internationals"/>
+        <updated>2025-10-23T18:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Every year in the autumn the Veteran Home Internationals (VHIs) are held and sees senior athletes from M/W40 through to […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Munster Orienteering Championships photos]]></title>
         <id>https://www.orienteering.ie/?p=21589</id>
@@ -777,17 +817,6 @@ High Performance Camp 2025 first appeared on Orienteering New Zealand.]]></summa
         <summary type="html"><![CDATA[Looking to improve your navigation skills or try a new sport? Scottish Orienteering are organising an adult beginner day at […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seniors running alongside Juniors]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6769</id>
-        <link href="https://www.niorienteering.org.uk/seniors-running-alongside-juniors/"/>
-        <updated>2025-09-24T08:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Susan Lambe, selector for the Senior Home International Team writes… This weekend 4-5 October sees the annual Senior Home International take place, hosted by North West Orienteering Association (NWOA). Teams of 18 from each of England, Ireland, Scotland & Wales are heading to the Lake...
-The post Seniors running alongside Juniors appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
