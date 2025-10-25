@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-25T12:15:54.997Z</updated>
+    <updated>2025-10-25T18:12:07.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -796,17 +796,6 @@ KID-O Launches Nationally: Seed Funding available! first appeared on Orienteerin
         <summary type="html"><![CDATA[Tomáš Křivda (CZE) took his first ever World Cup race win, while Simona Aebersold (SUI) crushed the competitors as this year’s World Cup Final kicked off with the sprint Friday afternoon. On a chilly day in Uster, Switzerland, the 227 athletes were thrown into a fast-raced sprint in the northeast end of the host city. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Performance Camp 2025]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64274</id>
-        <link href="https://www.orienteering.org.nz/news/high-performance-camp-2025/"/>
-        <updated>2025-09-26T03:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Saturday 6 December -Wednesday 10 December, Auckland Applications open to those aged at least 17.5 who have completed year 13 at high school by the time of the camp. This is a high performance camp open to orienteers competing or aspiring to compete at JWOC, World Cup, and WOC and participants must be selected to […]
-High Performance Camp 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
