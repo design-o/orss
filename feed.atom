@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T18:14:28.879Z</updated>
+    <updated>2025-10-25T00:45:05.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Forget to Enter the NI Orienteering Championships]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6831</id>
+        <link href="https://www.niorienteering.org.uk/dont-forget-to-enter-the-ni-orienteering-championships/"/>
+        <updated>2025-10-24T22:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Don’t miss out on the Northern Ireland Orienteering Championships as entries close at 22:00 BST on Sunday 26 October. The event hosted by North West Orienteering Club is on classic open mountain terrain on Saturday 1 November at Carntogher, near Maghera. In addition to age...
+The post Don’t Forget to Enter the NI Orienteering Championships appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Applications sought for the Scottish 6 Day and SEDS positions by the end of the month]]></title>
         <id>https://www.scottish-orienteering.org/?p=56306</id>
@@ -816,27 +827,6 @@ High Performance Camp 2025 first appeared on Orienteering New Zealand.]]></summa
         <summary type="html"><![CDATA[The SOA Development Team, consisting of Heidi Ross, Louise Adams and Suzanne Robins-Bird, has recently had a change in division […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Howard Montgomery | 2025 class of Orienteering USA Golden Service Award Winner | O-USA]]></title>
-        <id>https://neooc.com/?p=49070</id>
-        <link href="https://neooc.com/howard-montgomery-2025-class-of-orienteering-usa-golden-service-award-winner-o-usa/"/>
-        <updated>2025-09-25T12:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Many congratulations to Howard for being one of the ten super volunteers who make up the 2025 class of Orienteering USA Golden Service Award Winners. Check out more at the following link: 2025 Golden Service Award Winners]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Bushrangers Team Announced]]></title>
-        <id>https://orienteering.asn.au/?p=14649</id>
-        <link href="https://orienteering.asn.au/2025-bushrangers-team-announced/"/>
-        <updated>2025-09-25T06:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the Aussie athletes that have been chosen for the 2025 Bushrangers team.
-2025 Bushrangers Team Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>

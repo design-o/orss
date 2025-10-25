@@ -526,16 +526,6 @@
           "wordCount": 1485,
           "title": "New Event | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 25th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
-        },
-        {
-          "id": "https://neooc.com/?p=49070",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Many congratulations to Howard for being one of the ten super volunteers who make up the 2025 class of Orienteering USA Golden Service Award Winners. Check out more at the following link: 2025 Golden Service Award Winners",
-          "link": "https://neooc.com/howard-montgomery-2025-class-of-orienteering-usa-golden-service-award-winner-o-usa/",
-          "publishedOn": "2025-09-25T12:36:37.000Z",
-          "wordCount": 1507,
-          "title": "Howard Montgomery | 2025 class of Orienteering USA Golden Service Award Winner | O-USA",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
     },
@@ -661,6 +651,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6831",
+          "author": "NIOA Secretary",
+          "description": "Don’t miss out on the Northern Ireland Orienteering Championships as entries close at 22:00 BST on Sunday 26 October. The event hosted by North West Orienteering Club is on classic open mountain terrain on Saturday 1 November at Carntogher, near Maghera. In addition to age...\nThe post Don’t Forget to Enter the NI Orienteering Championships appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/dont-forget-to-enter-the-ni-orienteering-championships/",
+          "publishedOn": "2025-10-24T22:38:38.000Z",
+          "wordCount": 4368,
+          "title": "Don’t Forget to Enter the NI Orienteering Championships",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/10/NIOC-2025.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6826",
           "author": "NIOA Secretary",
@@ -856,16 +856,6 @@
           "publishedOn": "2025-09-29T02:07:16.000Z",
           "wordCount": 2468,
           "title": "KID-O Launches Nationally: Seed Funding available!",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14649",
-          "author": "Elizabeth L",
-          "description": "Congratulations to the Aussie athletes that have been chosen for the 2025 Bushrangers team.\n2025 Bushrangers Team Announced first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2025-bushrangers-team-announced/",
-          "publishedOn": "2025-09-25T06:56:53.000Z",
-          "wordCount": 2317,
-          "title": "2025 Bushrangers Team Announced",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
