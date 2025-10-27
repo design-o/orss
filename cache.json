@@ -100,6 +100,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15060",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/tim-hatley-and-ella-maja-lang-earn-national-honours/",
+          "publishedOn": "2025-10-20T00:18:38.000Z",
+          "wordCount": 1111,
+          "title": "Victorians Earning National Honours – Silva Medal, Honours Team, and National Rankings Announced",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=14976",
           "author": "Debbie Dodd",
           "description": "Tarralla Wetlands is a fantastic, fun, family-friendly map that has something for everyone!  Enter online now and make sure you don't miss out!\nSummer Shorts and Sprints – Tarralla Wetlands, Sunday 26 October first appeared on Orienteering Victoria.",
@@ -477,6 +487,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=49183",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Recap and Results The weather was perfect in NE Ohio for a Night-O in a Corn Maze! Many Individuals, Teams, Scouts, Ghouls, and Goblins showed up and ran several of the courses set inside the Szalays Market Corn Maze  near Peninsula, Ohio.  Thanks to everyone who participated or volunteered. Results by Individual/Team Names Splits display […]",
+          "link": "https://neooc.com/results-the-amaizeing-night-o-near-peninsula-ohio-saturday-october-25th/",
+          "publishedOn": "2025-10-26T21:59:43.000Z",
+          "wordCount": 1633,
+          "title": "Results | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 25th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2021/10/Night-O-02.jpg"
+        },
         {
           "id": "https://neooc.com/?p=49162",
           "author": "Northeast Ohio Orienteering Club",

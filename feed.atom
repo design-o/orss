@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-26T18:12:41.037Z</updated>
+    <updated>2025-10-27T00:52:07.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 25th]]></title>
+        <id>https://neooc.com/?p=49183</id>
+        <link href="https://neooc.com/results-the-amaizeing-night-o-near-peninsula-ohio-saturday-october-25th/"/>
+        <updated>2025-10-26T21:59:43.000Z</updated>
+        <summary type="html"><![CDATA[Recap and Results The weather was perfect in NE Ohio for a Night-O in a Corn Maze! Many Individuals, Teams, Scouts, Ghouls, and Goblins showed up and ran several of the courses set inside the Szalays Market Corn Maze  near Peninsula, Ohio.  Thanks to everyone who participated or volunteered. Results by Individual/Team Names Splits display […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Young Orienteer of the Year]]></title>
         <id>https://www.scottish-orienteering.org/?p=56312</id>
@@ -188,6 +198,15 @@ Club Forum Summary | feedback about Strategic Priorities for 2026-2030 first app
 Tax Guidelines for Clubs | Payments for Volunteers and Contractors first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians Earning National Honours – Silva Medal, Honours Team, and National Rankings Announced]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15060</id>
+        <link href="https://www.vicorienteering.asn.au/tim-hatley-and-ella-maja-lang-earn-national-honours/"/>
+        <updated>2025-10-20T00:18:38.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
