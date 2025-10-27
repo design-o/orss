@@ -54,16 +54,6 @@
           "wordCount": 2126,
           "title": "World Cup: Knock-Out wins for Polsini and Aebersold",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_owc_final_kosprint_mens_polsini_silvanschletti-1024x614.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80510",
-          "author": "Erling Thisted",
-          "description": "Sweden won the nail-biting Sprint Relay at the World Cup Final in Switzerland after a super exciting finish to an ever-changing competition. Like Friday’s sprint, the relay was run in Uster, which again offered flat and fast orienteering terrain in urban areas and some legs in park areas. 41 teams to start. Photo: Silvan Schletti […]",
-          "link": "https://orienteering.sport/world-cup-sweden-wins-sprint-relay-after-tight-finish/",
-          "publishedOn": "2025-09-27T18:37:21.000Z",
-          "wordCount": 2000,
-          "title": "World Cup: Sweden wins Sprint Relay after tight finish",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/09/2025_worldcupr3_sprintrelay_start_silvanschletti-1024x614.jpg"
         }
       ]
     },
@@ -237,6 +227,16 @@
           "id": "https://slow.org.uk/?p=23730",
           "author": "Paul Street",
           "description": "South London Orienteers and Wayfarers 2025 AGM 8pm Monday 24th November 2025 at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW The meeting can [...]",
+          "link": "https://slow.org.uk/clubnews/2025-annual-general-meeting/",
+          "publishedOn": "2025-10-24T11:38:40.000Z",
+          "wordCount": 2115,
+          "title": "2025 Annual General Meeting",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews/british-sprint-relay-championships-2023/files/BritishSprintRelays2023-scaled-1.jpg"
+        },
+        {
+          "id": "https://slow.org.uk/?p=23730",
+          "author": "Paul Street",
+          "description": "South London Orienteers and Wayfarers 2025 AGM 8pm Monday 24th November 2025 at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW The meeting can [...]",
           "link": "https://slow.org.uk/uncategorized/2025-annual-general-meeting/",
           "publishedOn": "2025-10-24T11:38:40.000Z",
           "wordCount": 2120,
@@ -260,6 +260,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64476",
+          "author": "Joolz",
+          "description": "This embargo applies to all North Island Secondary School Orienteering Champs events. Anyone found breaking this embargo or intentionally trying to gain an unfair advantage will be disqualified from competing or coaching at the relevant event. ENTRIES: Opening early 2026 CONTACT: If you have any general questions about the event please email: orienteering@orienteeringtaranaki.org.nz MORE DETAILS: […]\nNISS 2026 Embargoed areas first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/niss-2026-embargoed-areas/",
+          "publishedOn": "2025-10-27T07:23:19.000Z",
+          "wordCount": 2324,
+          "title": "NISS 2026 Embargoed areas",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/NISS26-embargo-image.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=64435",
           "author": "Christo Peters",
