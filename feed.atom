@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T00:49:49.818Z</updated>
+    <updated>2025-10-29T06:15:53.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -803,17 +803,6 @@ Club Forum  | Thursday 9 October first appeared on Orienteering New Zealand.]
 ONZ Strategic Planning  |  Invitation to be involved first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Ordinary General Meeting Reminder]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6784</id>
-        <link href="https://www.niorienteering.org.uk/extra-ordinary-general-meeting-reminder/"/>
-        <updated>2025-09-29T17:18:16.000Z</updated>
-        <summary type="html"><![CDATA[NI Orienteering members are reminded of the hopefully short EGM  on Tuesday 30 September at 7.30pm. The single item on the agenda is a proposal to remove the part-year discounts for new members joining after 1 May 2026. The rationalle is that the discounts are...
-The post Extra Ordinary General Meeting Reminder appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
