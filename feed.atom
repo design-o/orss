@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T06:15:53.677Z</updated>
+    <updated>2025-10-29T12:19:52.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[National MTBO Series crowns champions across age groups]]></title>
+        <id>https://orienteering.asn.au/?p=14964</id>
+        <link href="https://orienteering.asn.au/national-mtbo-series-crowns-champions-across-age-groups/"/>
+        <updated>2025-10-29T07:54:30.000Z</updated>
+        <summary type="html"><![CDATA[As the 2025 National MTBO Series draws to a close, the following riders emerged as series champions in their respective age classes.
+National MTBO Series crowns champions across age groups first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></title>
         <id>https://neooc.com/?p=49207</id>
@@ -605,204 +616,6 @@ The post Veterans off to Scotland appeared first on NI Orienteering Association.
         <summary type="html"><![CDATA[Every year we celebrate the contribution made to the sport by our young people. This year we have decided to […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair – September 2025]]></title>
-        <id>https://www.orienteering.org.nz/?p=64349</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-september-2025-2/"/>
-        <updated>2025-09-29T23:02:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ll start this month’s compass point update with how we finished our recent Board meeting with BEST WISHES to the Southern Cross and Pine Stars Teams heading over to Queensland shortly to compete against the Australians. In total the juniors heading over from New Zealand make up about a third of the field, including the […]
-View from the Chair – September 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zespri Aims Games  |  2025]]></title>
-        <id>https://www.orienteering.org.nz/?p=64346</id>
-        <link href="https://www.orienteering.org.nz/schools/zespri-aims-games-2025/"/>
-        <updated>2025-09-29T22:59:54.000Z</updated>
-        <summary type="html"><![CDATA[It is the second year for orienteering as a school sports code at the Zespri Aims Games, and the numbers have improved from 260 to 320 per day which is a good increase. Most are doing both events as the price incentivises students to do both the sprint and rogaine events giving  young people the […]
-Zespri Aims Games  |  2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Tūāraki Regional Champs  8-9 November | Early bird entries close 12 October]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64343</id>
-        <link href="https://www.orienteering.org.nz/news/2025-tuaraki-regional-champs-8-9-november-early-bird-entries-close-12-october/"/>
-        <updated>2025-09-29T22:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Planning is well underway and courses are being fine tuned for the Tūāraki North Champs, coming up on 7 – 8 November. A reminder that early entries close 12 October. This is an event not to miss, with highlights being:  Enter now here 
-2025 Tūāraki Regional Champs  8-9 November | Early bird entries close 12 October first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Pokapū Regional Champs  |  Entries close 12 Oct]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64340</id>
-        <link href="https://www.orienteering.org.nz/news/2025-pokapu-regional-champs-entries-close-12-oct/"/>
-        <updated>2025-09-29T22:53:11.000Z</updated>
-        <summary type="html"><![CDATA[A reminder that Standard entries will close just before midnight Friday 3rd October. Late entries will close Sunday 12th October.   The middle and long are respectively on Knottingley and Koitiata, but different parts to those used at Oceania. So complex sand-dunes for both. Koitiata (aka Turakina Beach) in particular is an area that was essentially not touched at Oceania […]
-2025 Pokapū Regional Champs  |  Entries close 12 Oct first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golden Bay revisited  |  22- 23 Nov]]></title>
-        <id>https://www.orienteering.org.nz/?p=64337</id>
-        <link href="https://www.orienteering.org.nz/blog/golden-bay-revisited-22-23-nov/"/>
-        <updated>2025-09-29T22:48:52.000Z</updated>
-        <summary type="html"><![CDATA[Nelson Orienteering Club invites all orienteers, from New Zealand and abroad, to celebrate top-quality orienteering in the South Island of New Zealand.  Would you like to revisit those stunning locations from King’s Birthday 2024? Did you miss out and wish you had been there? Alternatively, do you need navigation training or want to test your […]
-Golden Bay revisited  |  22- 23 Nov first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania & Sprint the Coast 2026 |  Entries open]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64334</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-sprint-the-coast-2026-entries-open/"/>
-        <updated>2025-09-29T22:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 2026 Oceania Sprint Championships, set on the stunning Central Coast of NSW with World Ranking races. Spectators can watch Oceania’s top athletes compete for a WOC spot, then run the same challenging sprint terrain. With three brand-new maps, fast-paced racing, and local beaches and cafés nearby, enjoy a free beach score event and […]
-Oceania & Sprint the Coast 2026 |  Entries open first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Junior Camp  |  Register asap! – only 21 spaces left!]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64331</id>
-        <link href="https://www.orienteering.org.nz/news/2025-junior-camp-register-asap-only-21-spaces-left/"/>
-        <updated>2025-09-29T22:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Get your entries in for the 2025 Junior Camp asap. It is based at Houghtons Bush Camp, Murawai, hosted by Auckland Orienteering Club from Thursday 11 and Tuesday 16 December. Enter through the ONZ Website here   
-2025 Junior Camp  |  Register asap! – only 21 spaces left! first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Youth Camp  |  Register by 30 November]]></title>
-        <id>https://www.orienteering.org.nz/?p=64328</id>
-        <link href="https://www.orienteering.org.nz/schools/2025-youth-camp-register-by-30-november/"/>
-        <updated>2025-09-29T22:36:25.000Z</updated>
-        <summary type="html"><![CDATA[What? A parent-led 3 day residential orienteering training camp at the start of the summer holidays, supported by Peninsula & Plains Orienteering Club (PAPO).  Who? All keen young orienteers, of any level/experience, up to school year 8.  When? Starting 9am Saturday 20 December, ending 2pm Monday 22 December.  Where?Spencer Beach Top10 Holiday camp, 20min north of Christchurch CBD.  More […]
-2025 Youth Camp  |  Register by 30 November first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-live NZSSOC 2025  |  Māori Active]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64325</id>
-        <link href="https://www.orienteering.org.nz/news/re-live-nzssoc-2025-maori-active/"/>
-        <updated>2025-09-29T22:34:06.000Z</updated>
-        <summary type="html"><![CDATA[This year the Auckland Orienteering Club hosted the 2025 New Zealand Secondary Schools Orienteering Championships. It opened with a sprint on an inner-city school campus, and then Long Distance and Relay events followed in the iconic Woodhill Forest.  Watch it on Māori Active YouTube
-Re-live NZSSOC 2025  |  Māori Active first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canterbury School Orienteering Festival | 13-14 September]]></title>
-        <id>https://www.orienteering.org.nz/?p=64321</id>
-        <link href="https://www.orienteering.org.nz/schools/canterbury-school-orienteering-festival-13-14-september/"/>
-        <updated>2025-09-29T22:30:01.000Z</updated>
-        <summary type="html"><![CDATA[The Canterbury Schools Orienteering Festival is an annual event with the dual aims of providing an introduction to orienteering for school aged students as well as a competitive race for experienced orienteers. It is designed for all school-aged students from  primary, intermediate, high school and those homeschooled in Canterbury. PAPO plan plenty of training opportunities in the lead up […]
-Canterbury School Orienteering Festival | 13-14 September first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Rogaine Champs location update  |   22-23 November]]></title>
-        <id>https://www.orienteering.org.nz/?p=64318</id>
-        <link href="https://www.orienteering.org.nz/rogaining/national-rogaine-champs-location-update-22-23-november/"/>
-        <updated>2025-09-29T22:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Organised in conjunction with the New Zealand Rogaine Association, the location is likely to change. So Highland Events are working on a new 2025 event area. Check-in on the website
-National Rogaine Champs location update  |   22-23 November first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lead Coach|  Applications due Fri 17 Oct]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64315</id>
-        <link href="https://www.orienteering.org.nz/news/lead-coach-applications-due-fri-17-oct/"/>
-        <updated>2025-09-29T22:19:58.000Z</updated>
-        <summary type="html"><![CDATA[As we build up to this year’s Junior Camp, we are now asking for applications for this year’s Lead Coach.   The 2025 Junior Camp (Year 9-13) is being hosted by Auckland Orienteering Club and is being run out of Houghton’s Bush Camp in Muriwai between Thu 11th and Thu 15th December 2025. Orienteering New Zealand would like to invite applications for the Junior Camp […]
-Lead Coach|  Applications due Fri 17 Oct first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joseph Lynch’s coaching experience  |  Canada]]></title>
-        <id>https://www.orienteering.org.nz/?p=64311</id>
-        <link href="https://www.orienteering.org.nz/coaching/joseph-lynchs-coaching-experience-canada/"/>
-        <updated>2025-09-29T22:16:37.000Z</updated>
-        <summary type="html"><![CDATA[At the end of April I travelled to Whitehorse (capital of Canada’s Yukon territory) to start an 8-week coaching programme with the local club, the Yukon Orienteering Association. Whitehorse is a small city with 34,000 residents, located on the banks of the famous Yukon River (where Sophie Hart and Nathan Fa’avae began their triumphant Yukon1000 […]
-Joseph Lynch’s coaching experience  |  Canada first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taupō / Pinelands celebrates | 50 years]]></title>
-        <id>https://www.orienteering.org.nz/?p=64305</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/taupo-pinelands-celebrates-50-years/"/>
-        <updated>2025-09-29T22:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Taupō / Pinelands marked a fantastic milestone in mid-September with a special 50th Anniversary celebration dinner for Taupō Orienteering. The evening featured a wonderful display of memorabilia. Jim Lewis unearthed very original relics – bucket controls that were 50 years old! Photos from the past were provided by various people including Simon Webbison, Mike Grayburn, […]
-Taupō / Pinelands celebrates | 50 years first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping Positions on new Technical and Mapping Committee]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64302</id>
-        <link href="https://www.orienteering.org.nz/news/mapping-positions-on-new-technical-and-mapping-committee/"/>
-        <updated>2025-09-29T22:05:05.000Z</updated>
-        <summary type="html"><![CDATA[The creation of the new Technical and Mapping Committee has produced an opportunity for up to two mappers to join the committee that oversees the technical standards of our sport. The key requirements for these positions are: Promote mapping standards and best practice for orienteering mapping in NZ. 
-Mapping Positions on new Technical and Mapping Committee first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons from first-time course setting in S.A. | Lan Kelly]]></title>
-        <id>https://www.orienteering.org.nz/?p=64296</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/technical/lessons-from-first-time-course-setting-in-s-a-lan-kelly/"/>
-        <updated>2025-09-29T22:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Lan Kelly from South Australia shares her experience helping design the Tatachilla College sprint orienteering event in South Australia. Initially unaware it was an Orienteer of the Year (OY) event, they faced challenges fitting OY sprint distances onto the compact, building-heavy campus. Ongoing issues included expanding temporary fencing, unexpected tennis matches, restricted access to mapped […]
-Lessons from first-time course setting in S.A. | Lan Kelly first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Club Forum  | Thursday 9 October]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64293</id>
-        <link href="https://www.orienteering.org.nz/news/club-forum-thursday-9-october/"/>
-        <updated>2025-09-29T21:50:43.000Z</updated>
-        <summary type="html"><![CDATA[The primary topic for this year’s club forum is to gain member feedback on the strategic direction for the national body and sport from 2026-2030. The Board have had an initial session around strategic goals to form a starting point in this discussion. It is now up to members to let us know what you do […]
-Club Forum  | Thursday 9 October first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONZ Strategic Planning  |  Invitation to be involved]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64290</id>
-        <link href="https://www.orienteering.org.nz/news/onz-strategic-planning-invitation-to-be-involved/"/>
-        <updated>2025-09-29T21:47:02.000Z</updated>
-        <summary type="html"><![CDATA[The ONZ Board has begun the process of preparing a new strategic plan for the sport and national body, for the period 2026-2030. As a first step, an initial strategic direction document has been drafted by the Board, informed by recent years interactions with clubs and members through forums and member surveys. We now seek […]
-ONZ Strategic Planning  |  Invitation to be involved first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
