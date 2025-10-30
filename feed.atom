@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T18:14:48.985Z</updated>
+    <updated>2025-10-30T00:50:02.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -616,16 +616,6 @@ The post Veterans off to Scotland appeared first on NI Orienteering Association.
         <summary type="html"><![CDATA[Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Orienteer of the year 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56182</id>
-        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year-2025"/>
-        <updated>2025-09-30T11:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Every year we celebrate the contribution made to the sport by our young people. This year we have decided to […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
     <entry>
