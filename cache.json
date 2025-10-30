@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80685",
+          "author": "DavidW",
+          "description": "A new set of rules, prepared by Ski Orienteering Commission and Rules commission, has been published. All Ski Orienteering Rules are published here. New versions that are published: IOF Ski Orienteering Rules nov 2025 v1.3 – Ski Orienteering Competition rules. SkiO WCup Special Rules 2026 – Special Rules for the setup of World Cup season […]",
+          "link": "https://orienteering.sport/new-ski-orienteering-rules-and-world-cup-special-rules-for-2025-2026-season/",
+          "publishedOn": "2025-10-30T16:04:01.000Z",
+          "wordCount": 1105,
+          "title": "New Ski Orienteering Rules and World Cup Special Rules for 2025-2026 season",
+          "imageUrl": null
+        },
+        {
           "id": "https://orienteering.sport/?p=80680",
           "author": "Erling Thisted",
           "description": "The IOF has taken an important step towards strengthening inclusivity and cooperation in international sport by formalising a partnership with the International Committee of Sports for the Deaf (ICSD). The partnership is established through a Memorandum of Understanding (MoU) signed between the two organisations. Orienteering has long been a popular sport within the deaf community. […]",
@@ -167,16 +177,6 @@
           "publishedOn": "2025-10-03T00:57:19.000Z",
           "wordCount": 1137,
           "title": "Victorian Night O Champs and Good Morning Bunjil – 25-26 Oct 2025",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15007",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/training-with-joe-thursday-9-october-kensington/",
-          "publishedOn": "2025-10-01T00:52:13.000Z",
-          "wordCount": 926,
-          "title": "Training With Joe, Thursday 9 October, Kensington",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]

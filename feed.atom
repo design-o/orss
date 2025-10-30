@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T12:19:05.012Z</updated>
+    <updated>2025-10-30T18:13:46.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Ski Orienteering Rules and World Cup Special Rules for 2025-2026 season]]></title>
+        <id>https://orienteering.sport/?p=80685</id>
+        <link href="https://orienteering.sport/new-ski-orienteering-rules-and-world-cup-special-rules-for-2025-2026-season/"/>
+        <updated>2025-10-30T16:04:01.000Z</updated>
+        <summary type="html"><![CDATA[A new set of rules, prepared by Ski Orienteering Commission and Rules commission, has been published. All Ski Orienteering Rules are published here. New versions that are published: IOF Ski Orienteering Rules nov 2025 v1.3 – Ski Orienteering Competition rules. SkiO WCup Special Rules 2026 – Special Rules for the setup of World Cup season […]]]></summary>
+        <author>
+            <name>DavidW</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF formalises partnership with the International Committee of Sports for the Deaf]]></title>
         <id>https://orienteering.sport/?p=80680</id>
@@ -607,15 +617,6 @@ The post Veterans off to Scotland appeared first on NI Orienteering Association.
 The post Veterans off to Scotland appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training With Joe, Thursday 9 October, Kensington]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15007</id>
-        <link href="https://www.vicorienteering.asn.au/training-with-joe-thursday-9-october-kensington/"/>
-        <updated>2025-10-01T00:52:13.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
