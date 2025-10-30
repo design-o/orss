@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T06:14:52.134Z</updated>
+    <updated>2025-10-30T12:19:05.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOF formalises partnership with the International Committee of Sports for the Deaf]]></title>
+        <id>https://orienteering.sport/?p=80680</id>
+        <link href="https://orienteering.sport/iof-formalises-partnership-with-the-international-committee-of-sports-for-the-deaf/"/>
+        <updated>2025-10-30T10:59:38.000Z</updated>
+        <summary type="html"><![CDATA[The IOF has taken an important step towards strengthening inclusivity and cooperation in international sport by formalising a partnership with the International Committee of Sports for the Deaf (ICSD). The partnership is established through a Memorandum of Understanding (MoU) signed between the two organisations. Orienteering has long been a popular sport within the deaf community. […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF and CISM renew partnership in Lausanne]]></title>
         <id>https://orienteering.sport/?p=80676</id>
@@ -606,16 +616,6 @@ The post Veterans off to Scotland appeared first on NI Orienteering Association.
         <updated>2025-10-01T00:52:13.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th]]></title>
-        <id>https://neooc.com/?p=49113</id>
-        <link href="https://neooc.com/new-event-allardale-afternoon-o-allardale-park-medina-county-sunday-november-9th/"/>
-        <updated>2025-09-30T19:07:08.000Z</updated>
-        <summary type="html"><![CDATA[Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>

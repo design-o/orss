@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80680",
+          "author": "Erling Thisted",
+          "description": "The IOF has taken an important step towards strengthening inclusivity and cooperation in international sport by formalising a partnership with the International Committee of Sports for the Deaf (ICSD). The partnership is established through a Memorandum of Understanding (MoU) signed between the two organisations. Orienteering has long been a popular sport within the deaf community. […]",
+          "link": "https://orienteering.sport/iof-formalises-partnership-with-the-international-committee-of-sports-for-the-deaf/",
+          "publishedOn": "2025-10-30T10:59:38.000Z",
+          "wordCount": 1305,
+          "title": "IOF formalises partnership with the International Committee of Sports for the Deaf",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/10/iof_icsd_mou_lausanne-1024x768.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80676",
           "author": "Erling Thisted",
           "description": "In a spirit of renewed collaboration and shared vision, the International Military Sports Council (CISM) and the International Orienteering Federation (IOF) officially signed a new Memorandum of Understanding today, October 27, at the Olympic Museum in Lausanne, Switzerland. The signing ceremony took place on the opening day of the International Federation (IF) Forum 2025, which […]",
@@ -356,16 +366,6 @@
           "wordCount": 1622,
           "title": "Results | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
-        },
-        {
-          "id": "https://neooc.com/?p=49113",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th",
-          "link": "https://neooc.com/new-event-allardale-afternoon-o-allardale-park-medina-county-sunday-november-9th/",
-          "publishedOn": "2025-09-30T19:07:08.000Z",
-          "wordCount": 1492,
-          "title": "New Event | Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2019/08/WIN_20190531_16_00_14_Pro.jpg"
         }
       ]
     },
