@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-01T18:12:03.316Z</updated>
+    <updated>2025-11-02T00:51:42.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -796,16 +796,6 @@ The post Ireland Retain the Celtic Cup appeared first on NI Orienteering Associa
 The post Veterans off to Scotland appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction of Junior Championships in Trail Orienteering]]></title>
-        <id>https://orienteering.sport/?p=80599</id>
-        <link href="https://orienteering.sport/introduction-of-junior-championships-in-trail-orienteering/"/>
-        <updated>2025-10-03T12:06:43.000Z</updated>
-        <summary type="html"><![CDATA[After consultation with federations and approval by IOF Council, the TrailO Commission is delighted to announce the introduction of a Junior Class at major championships. Eligible for the new class are competitors aged 20 years or younger at the end of the calendar year. The competition programme for ETOC and WTOC will remain unchanged, but […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>
