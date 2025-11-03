@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80707",
+          "author": "Erling Thisted",
+          "description": "IOF’s Foot Orienteering Commission and Rules Commission are organising an Event Adviser’s Clinic in Ankara, Türkiye from 21-22 February 2026. The Event Advisers’ Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Attendance at a clinic such […]",
+          "link": "https://orienteering.sport/join-the-footo-event-advisers-clinic-in-turkiye-from-21-22-february-2026/",
+          "publishedOn": "2025-11-03T11:12:17.000Z",
+          "wordCount": 1167,
+          "title": "Join the FootO Event Adviser’s Clinic in Türkiye from 21-22 February 2026",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_control_william_hollowell-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80685",
           "author": "DavidW",
           "description": "A new set of rules, prepared by Ski Orienteering Commission and Rules commission, has been published. All Ski Orienteering Rules are published here. New versions that are published: IOF Ski Orienteering Rules nov 2025 v1.3 – Ski Orienteering Competition rules. SkiO WCup Special Rules 2026 – Special Rules for the setup of World Cup season […]",
@@ -700,26 +710,6 @@
           "wordCount": 4372,
           "title": "Amy Stonewalls the Irish Vets",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/10/Storm-Amy.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6799",
-          "author": "NIOA Secretary",
-          "description": "NI Juniors coach Steph Pruzina reports on the Junior Inter Regional Competion, held in the Lake District on 26-27 September 2025… Training: The annual inter-regional competition for juniors aged 14 to 18 was hosted this year by NWOA and our tiny squad was as enthusiastic...\nThe post NIOA Juniors Perform at JIRCs appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/nioa-juniors-perform-at-jircs/",
-          "publishedOn": "2025-10-04T21:12:11.000Z",
-          "wordCount": 4774,
-          "title": "NIOA Juniors Perform at JIRCs",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/10/JIRCS-team-2025.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6794",
-          "author": "NIOA Secretary",
-          "description": "Susan Lambe writes… I’m delighted to report that Ireland retained the Celtic Cup (Ireland v Wales sub-competition) in the SHI in the Lakes last weekend 27-28 September 2025. Paul Pruzina is missing from the team photo. All four nations fielded strong teams this year.  After...\nThe post Ireland Retain the Celtic Cup appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/ireland-retain-the-celtic-cup/",
-          "publishedOn": "2025-10-04T20:38:50.000Z",
-          "wordCount": 4409,
-          "title": "Ireland Retain the Celtic Cup",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/10/SHI-Team-2025-with-Celtic-Cup-minus-Paul.jpg"
         }
       ]
     },
