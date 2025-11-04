@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T06:15:52.570Z</updated>
+    <updated>2025-11-04T12:20:35.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[National MTBO Team Manager Position]]></title>
+        <id>https://orienteering.asn.au/?p=15032</id>
+        <link href="https://orienteering.asn.au/national-mtbo-team-manager-position/"/>
+        <updated>2025-11-04T06:25:33.000Z</updated>
+        <summary type="html"><![CDATA[OA is seeking a Team Manager for the World MTB Orienteering Championships 2026, held 25-30 August in Sweden.
+National MTBO Team Manager Position first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When the Going Gets Carntogher, the Tough Get Going]]></title>
         <id>https://www.niorienteering.org.uk/?p=6846</id>
@@ -815,16 +826,6 @@ NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC first appeared on Orienteering 
 Orienteering Research Survey – Complete and Win! first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Meeting: Technology in Orienteering on 9 November 2025]]></title>
-        <id>https://orienteering.sport/?p=80607</id>
-        <link href="https://orienteering.sport/open-meeting-technology-in-orienteering-on-9-november-2025/"/>
-        <updated>2025-10-05T19:52:35.000Z</updated>
-        <summary type="html"><![CDATA[The IT Commission invites to an open meeting on the use of technology in orienteering.   The meeting will take place online on 9 November 19.00-21.00 CET (UTC +1). The format will be short presentations on different topics related to technology.  The focus will be on the technology related considerations and challenges that face developers of […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>

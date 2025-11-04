@@ -64,16 +64,6 @@
           "wordCount": 1854,
           "title": "Finland ends TrailO season on a high",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/10/2025_trailo_nordic-match-2025-day-2-terrain-1024x768.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80607",
-          "author": "Erling Thisted",
-          "description": "The IT Commission invites to an open meeting on the use of technology in orienteering.   The meeting will take place online on 9 November 19.00-21.00 CET (UTC +1). The format will be short presentations on different topics related to technology.  The focus will be on the technology related considerations and challenges that face developers of […]",
-          "link": "https://orienteering.sport/open-meeting-technology-in-orienteering-on-9-november-2025/",
-          "publishedOn": "2025-10-05T19:52:35.000Z",
-          "wordCount": 1537,
-          "title": "Open Meeting: Technology in Orienteering on 9 November 2025",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_control_william_hollowell-1024x576.jpg"
         }
       ]
     },
@@ -758,6 +748,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15032",
+          "author": "Elizabeth L",
+          "description": "OA is seeking a Team Manager for the World MTB Orienteering Championships 2026, held 25-30 August in Sweden.\nNational MTBO Team Manager Position first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/national-mtbo-team-manager-position/",
+          "publishedOn": "2025-11-04T06:25:33.000Z",
+          "wordCount": 2392,
+          "title": "National MTBO Team Manager Position",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15018",
           "author": "Elizabeth L",
