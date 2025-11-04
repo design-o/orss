@@ -254,6 +254,26 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23742",
+          "author": "Steve Clelland",
+          "description": "The first race of South London Orienteers’ 2025-2026 Night series takes place on Wimbledon Common and Putney Heath, south-west London, on Tuesday 25th November 2025. Race Centre [...]",
+          "link": "https://slow.org.uk/events/wimbledon-night-nov25/",
+          "publishedOn": "2025-11-03T23:21:46.000Z",
+          "wordCount": 2483,
+          "title": "Wimbledon Common Night-O, Tuesday 25th November",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wimb_night_finale_pic1-scaled.jpg"
+        },
+        {
+          "id": "https://slow.org.uk/?p=23740",
+          "author": "Steve Clelland",
+          "description": "The SLOW night series will run from November until February and be comprised of 4 events. Full details on each event are posted here on [...]",
+          "link": "https://slow.org.uk/events/slow-night-series-2025-26/",
+          "publishedOn": "2025-11-03T23:09:10.000Z",
+          "wordCount": 2190,
+          "title": "SLOW Night Series 2025-26",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wandsworth-results-nov2024/files/Wandsworth_night1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23730",
           "author": "Paul Street",
           "description": "South London Orienteers and Wayfarers 2025 AGM 8pm Monday 24th November 2025 at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW The meeting can [...]",
@@ -661,6 +681,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=6846",
+          "author": "NIOA Secretary",
+          "description": "A challenging NI Long Distance Orienteering Championships was enjoyed in bright early November weather on the testing slopes of Carntogher in the Sperrins. North West Orienteering Club delivered a superb event with particular thanks due to planner Anthony McGonigle, controller Des Fletcher and organiser Ruth...\nThe post When the Going Gets Carntogher, the Tough Get Going appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/when-the-going-gets-carntogher-the-tough-get-going/",
+          "publishedOn": "2025-11-03T23:33:07.000Z",
+          "wordCount": 4466,
+          "title": "When the Going Gets Carntogher, the Tough Get Going",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/10/Carntogher-Control-1024x775-1.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=6837",
           "author": "NIOA Secretary",
