@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T12:20:35.617Z</updated>
+    <updated>2025-11-04T18:14:18.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Inter Area Weekend: Junior Feedback Session 2025]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56341</id>
+        <link href="https://www.scottish-orienteering.org/news/junior-inter-area-weekend-junior-feedback-session-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-inter-area-weekend-junior-feedback-session-2025"/>
+        <updated>2025-11-04T15:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Each year, as part of the Junior Inter Area Weekend, we hold a dedicated Junior Feedback Session, where our junior […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[West Juniors navigate to the top at Inter Areas]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56321</id>
+        <link href="https://www.scottish-orienteering.org/news/west-area-juniors-superior-navigation-in-the-inter-areas-competition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=west-area-juniors-superior-navigation-in-the-inter-areas-competition"/>
+        <updated>2025-11-04T15:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Each year a Junior Inter Area event is held over one weekend, generally in October. The event consists of a […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[National MTBO Team Manager Position]]></title>
         <id>https://orienteering.asn.au/?p=15032</id>
@@ -815,17 +835,6 @@ Notice of Embargo for 2025 Victorian Sprint Champs first appeared on Orienteerin
 NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Research Survey – Complete and Win!]]></title>
-        <id>https://orienteering.asn.au/?p=14816</id>
-        <link href="https://orienteering.asn.au/orienteering-research-survey-complete-and-win/"/>
-        <updated>2025-10-06T04:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Help shape the future of orienteering! Take our 3–5 minute survey for your chance to win prizes. Then invite your friends to share their opinion.
-Orienteering Research Survey – Complete and Win! first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
         </author>
     </entry>
     <entry>

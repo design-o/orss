@@ -565,6 +565,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56341",
+          "author": "nikkihoward",
+          "description": "Each year, as part of the Junior Inter Area Weekend, we hold a dedicated Junior Feedback Session, where our junior […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-inter-area-weekend-junior-feedback-session-2025/?utm_source=rss&utm_medium=rss&utm_campaign=junior-inter-area-weekend-junior-feedback-session-2025",
+          "publishedOn": "2025-11-04T15:50:47.000Z",
+          "wordCount": 1916,
+          "title": "Junior Inter Area Weekend: Junior Feedback Session 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/IMG_1125-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56321",
+          "author": "nikkihoward",
+          "description": "Each year a Junior Inter Area event is held over one weekend, generally in October. The event consists of a […]",
+          "link": "https://www.scottish-orienteering.org/news/west-area-juniors-superior-navigation-in-the-inter-areas-competition/?utm_source=rss&utm_medium=rss&utm_campaign=west-area-juniors-superior-navigation-in-the-inter-areas-competition",
+          "publishedOn": "2025-11-04T15:27:09.000Z",
+          "wordCount": 2483,
+          "title": "West Juniors navigate to the top at Inter Areas",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/IMG_1101-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56312",
           "author": "suzannerb",
           "description": "After my late plea we have had a couple more nominations who deserve a mention. Scarlett Kelly – FVO Scarlett […]",
@@ -856,16 +876,6 @@
           "publishedOn": "2025-10-08T11:16:07.000Z",
           "wordCount": 2540,
           "title": "Oceania 2026 Sprint Orienteering Championships – Bulletin 1 Released",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14816",
-          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
-          "description": "Help shape the future of orienteering! Take our 3–5 minute survey for your chance to win prizes. Then invite your friends to share their opinion.\nOrienteering Research Survey – Complete and Win! first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/orienteering-research-survey-complete-and-win/",
-          "publishedOn": "2025-10-06T04:19:44.000Z",
-          "wordCount": 2529,
-          "title": "Orienteering Research Survey – Complete and Win!",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
