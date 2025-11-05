@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T18:14:18.668Z</updated>
+    <updated>2025-11-05T00:49:49.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -824,17 +824,6 @@ Notice of Embargo for 2025 Victorian Sprint Champs first appeared on Orienteerin
         <summary type="html"><![CDATA[The last weekend of September saw junior athletes and senior athletes from across the nations converging on the Lakes to […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64362</id>
-        <link href="https://www.orienteering.org.nz/news/nz-team-trial-dates-2026-woc-jwoc-eyoc-wuoc/"/>
-        <updated>2025-10-06T07:28:27.000Z</updated>
-        <summary type="html"><![CDATA[2026 WOC, JWOC, WUOC and EYOC Team Trial Dates Details of the 2026 team selection trials for the World Orienteering Championships (WOC), Junior World Orienteering Championships (JWOC), World University Orienteering Championships (WUOC) and European Youth Orienteering Championships (EYOC) are as follows: WOC Trials For New Zealand-based athletes: For overseas-based athletes: EYOC / JWOC / WUOC Trials First […]
-NZ Team Trial Dates | 2026 WOC, JWOC, EYOC, WUOC first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
