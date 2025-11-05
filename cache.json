@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80714",
+          "author": "Erling Thisted",
+          "description": "The independent investigation panel that was appointed by the IOF Council following the tragic death of Italian athlete Mattia Debertolis has now begun its work. The panel is tasked to investigate and assess the Middle distance competition at the World Games in Chengdu, China in August 2025. It consists of Leanne O’Leary (chairperson), Mats Börjesson […]",
+          "link": "https://orienteering.sport/independent-investigation-panel-begins-its-work/",
+          "publishedOn": "2025-11-05T13:26:59.000Z",
+          "wordCount": 1234,
+          "title": "Independent Investigation Panel begins its work",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80707",
           "author": "Erling Thisted",
           "description": "IOF’s Foot Orienteering Commission and Rules Commission are organising an Event Adviser’s Clinic in Ankara, Türkiye from 21-22 February 2026. The Event Advisers’ Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Attendance at a clinic such […]",
@@ -157,16 +167,6 @@
           "publishedOn": "2025-10-15T04:54:43.000Z",
           "wordCount": 992,
           "title": "AWOC Club Championship, Sunday 2 November, Chiltern",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15014",
-          "author": "Margi Freemantle",
-          "description": "RMIT Bundoora West campus\nNotice of Embargo for 2025 Victorian Sprint Champs first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/",
-          "publishedOn": "2025-10-07T04:07:11.000Z",
-          "wordCount": 969,
-          "title": "Notice of Embargo for 2025 Victorian Sprint Champs",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]

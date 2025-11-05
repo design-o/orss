@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T12:19:40.738Z</updated>
+    <updated>2025-11-05T18:14:15.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Independent Investigation Panel begins its work]]></title>
+        <id>https://orienteering.sport/?p=80714</id>
+        <link href="https://orienteering.sport/independent-investigation-panel-begins-its-work/"/>
+        <updated>2025-11-05T13:26:59.000Z</updated>
+        <summary type="html"><![CDATA[The independent investigation panel that was appointed by the IOF Council following the tragic death of Italian athlete Mattia Debertolis has now begun its work. The panel is tasked to investigate and assess the Middle distance competition at the World Games in Chengdu, China in August 2025. It consists of Leanne O’Leary (chairperson), Mats Börjesson […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Squad application for 2026]]></title>
         <id>https://www.orienteering.ie/?p=21667</id>
@@ -813,17 +823,6 @@ The post Amy Stonewalls the Irish Vets appeared first on NI Orienteering Associa
         <summary type="html"><![CDATA[Finnish Trail Orienteer Pinja Mäkinen became European Cup champion, and her team won too in the end-of-season Nordic Match held last weekend in southern Norway. Closely contested TempO and PreO competitions ended with Finland defeating closest challengers Sweden by 13 points. Twelve stages at six different venues – Hungary, Poland, Spain, Sweden, Finland, and this […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notice of Embargo for 2025 Victorian Sprint Champs]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15014</id>
-        <link href="https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/"/>
-        <updated>2025-10-07T04:07:11.000Z</updated>
-        <summary type="html"><![CDATA[RMIT Bundoora West campus
-Notice of Embargo for 2025 Victorian Sprint Champs first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
