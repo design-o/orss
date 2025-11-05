@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T00:49:49.737Z</updated>
+    <updated>2025-11-05T06:15:50.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -814,16 +814,6 @@ The post Amy Stonewalls the Irish Vets appeared first on NI Orienteering Associa
 Notice of Embargo for 2025 Victorian Sprint Champs first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The embers of September see Scotland race in the Lakes]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56186</id>
-        <link href="https://www.scottish-orienteering.org/news/the-embers-of-september-see-scotland-race-in-the-lakes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-embers-of-september-see-scotland-race-in-the-lakes"/>
-        <updated>2025-10-06T17:22:14.000Z</updated>
-        <summary type="html"><![CDATA[The last weekend of September saw junior athletes and senior athletes from across the nations converging on the Lakes to […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
