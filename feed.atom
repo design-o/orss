@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T18:14:15.485Z</updated>
+    <updated>2025-11-06T00:47:54.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -736,6 +736,17 @@ The post Ireland Juniors Beat Wales appeared first on NI Orienteering Associatio
         <summary type="html"><![CDATA[The 2025 international orienteering season took us to Sweden, Finland, Belgium and Switzerland and provided a lot of great and memorable moments. Together with IOF TV Expert Commentator Jonas Merz we look back on the season and look forward to the next one. There are also interviews with Overall World Cup winner Max Peter Bejmer […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Victorian Sprint Champs, Sunday 30 November]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15014</id>
+        <link href="https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/"/>
+        <updated>2025-10-12T04:07:11.000Z</updated>
+        <summary type="html"><![CDATA[RMIT Bundoora West campus
+2025 Victorian Sprint Champs, Sunday 30 November first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
