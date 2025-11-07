@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T06:15:46.800Z</updated>
+    <updated>2025-11-07T12:18:56.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -809,17 +809,6 @@ The post Entries Open for the NI Champs appeared first on NI Orienteering Associ
         <updated>2025-10-10T06:11:19.000Z</updated>
         <summary type="html"><![CDATA[Join the webinar on Tuesday evening to learn more about autism and how to make orienteering participation easier for people with autism.
 Upcoming Webinar: Making Orienteering Autism Friendly first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering South Australia launches exciting new MAZE-O experience]]></title>
-        <id>https://orienteering.asn.au/?p=14846</id>
-        <link href="https://orienteering.asn.au/orienteering-south-australia-launches-exciting-new-maze-o-experience/"/>
-        <updated>2025-10-08T22:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering South Australia is bringing a fresh and fun way to experience orienteering with the development of a high-quality MAZE-O.
-Orienteering South Australia launches exciting new MAZE-O experience first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
         </author>
