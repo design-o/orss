@@ -528,6 +528,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=49246",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Map Downloads Available! 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
+          "link": "https://neooc.com/map-download-2025-girdled-road-self-serve-lake-metroparks-november-8th-thru-16th/",
+          "publishedOn": "2025-11-08T16:16:50.000Z",
+          "wordCount": 1512,
+          "title": "Map Download | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        },
+        {
           "id": "https://neooc.com/?p=49207",
           "author": "Northeast Ohio Orienteering Club",
           "description": "2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
@@ -846,16 +856,6 @@
           "publishedOn": "2025-10-11T11:36:17.000Z",
           "wordCount": 2324,
           "title": "2025 NOL Team Competition Results",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14851",
-          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
-          "description": "Join the webinar on Tuesday evening to learn more about autism and how to make orienteering participation easier for people with autism.\nUpcoming Webinar: Making Orienteering Autism Friendly first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/upcoming-webinar-making-orienteering-autism-friendly/",
-          "publishedOn": "2025-10-10T06:11:19.000Z",
-          "wordCount": 2559,
-          "title": "Upcoming Webinar: Making Orienteering Autism Friendly",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
