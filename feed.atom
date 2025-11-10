@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T06:17:13.605Z</updated>
+    <updated>2025-11-10T12:19:43.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOF highest-scoring federation in international governance review]]></title>
+        <id>https://orienteering.sport/?p=80729</id>
+        <link href="https://orienteering.sport/iof-highest-scoring-federation-in-international-governance-review/"/>
+        <updated>2025-11-10T09:57:03.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation achieved the highest score among 29 international sports federations in a review of the federations’ governance, which was released in connection with the International Federation Forum in Switzerland at the end of October. The review was conducted by the sports governance consultancy “I Trust Sport” among participating federations under the Association […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Map Download | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></title>
         <id>https://neooc.com/?p=49246</id>
@@ -777,17 +787,6 @@ The post Ireland Juniors Beat Wales appeared first on NI Orienteering Associatio
 2025 Victorian Sprint Champs, Sunday 30 November first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 National Squads]]></title>
-        <id>https://orienteering.asn.au/?p=14871</id>
-        <link href="https://orienteering.asn.au/2026-national-squads/"/>
-        <updated>2025-10-11T21:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia is excited to announce an exciting initiative for 2026: a sprint focused high performance squad!
-2026 National Squads first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80729",
+          "author": "Erling Thisted",
+          "description": "The International Orienteering Federation achieved the highest score among 29 international sports federations in a review of the federations’ governance, which was released in connection with the International Federation Forum in Switzerland at the end of October. The review was conducted by the sports governance consultancy “I Trust Sport” among participating federations under the Association […]",
+          "link": "https://orienteering.sport/iof-highest-scoring-federation-in-international-governance-review/",
+          "publishedOn": "2025-11-10T09:57:03.000Z",
+          "wordCount": 1330,
+          "title": "IOF highest-scoring federation in international governance review",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/11/2025_governance_chart-1024x756.png"
+        },
+        {
           "id": "https://orienteering.sport/?p=80714",
           "author": "Erling Thisted",
           "description": "The independent investigation panel that was appointed by the IOF Council following the tragic death of Italian athlete Mattia Debertolis has now begun its work. The panel is tasked to investigate and assess the Middle distance competition at the World Games in Chengdu, China in August 2025. It consists of Leanne O’Leary (chairperson), Mats Börjesson […]",
@@ -826,16 +836,6 @@
           "publishedOn": "2025-10-14T07:00:00.000Z",
           "wordCount": 2676,
           "title": "2025 Silva Medal Winner",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14871",
-          "author": "Elizabeth L",
-          "description": "Orienteering Australia is excited to announce an exciting initiative for 2026: a sprint focused high performance squad!\n2026 National Squads first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2026-national-squads/",
-          "publishedOn": "2025-10-11T21:40:01.000Z",
-          "wordCount": 2571,
-          "title": "2026 National Squads",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
