@@ -168,16 +168,6 @@
           "wordCount": 992,
           "title": "AWOC Club Championship, Sunday 2 November, Chiltern",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15014",
-          "author": "Margi Freemantle",
-          "description": "RMIT Bundoora West campus\n2025 Victorian Sprint Champs, Sunday 30 November first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/",
-          "publishedOn": "2025-10-12T04:07:11.000Z",
-          "wordCount": 1075,
-          "title": "2025 Victorian Sprint Champs, Sunday 30 November",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -537,6 +527,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=49265",
+          "author": "Jay Smink",
+          "description": "Recap and Results The weather was the weather.  The occasional light mist did not deter over 50 intrepid orienteers from our last live event for 2025. The post event gathering was popular as ever and everyone enjoyed discussing their runs and catching up with friends. We’re planning to do this event again next year, hope […]",
+          "link": "https://neooc.com/results-allardale-afternoon-o-allardale-park-medina-county-sunday-november-9th/",
+          "publishedOn": "2025-11-10T15:55:54.000Z",
+          "wordCount": 1624,
+          "title": "Results| Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2020/10/Allardale_West.jpeg"
+        },
         {
           "id": "https://neooc.com/?p=49246",
           "author": "Northeast Ohio Orienteering Club",
