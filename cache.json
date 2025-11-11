@@ -605,6 +605,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56372",
+          "author": "nikkihoward",
+          "description": "Having received 4 glowing testaments to youngsters who have contributed a huge amount to the sport through their volunteering, we […]",
+          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025-3/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-2025-3",
+          "publishedOn": "2025-11-11T16:15:58.000Z",
+          "wordCount": 1671,
+          "title": "Young Orienteer of the Year 2025",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/IMG_2221-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56369",
+          "author": "nikkihoward",
+          "description": "Every year at the SOA AGM, the President’s medal is awarded to an individual, group or club for their services […]",
+          "link": "https://www.scottish-orienteering.org/news/2025-presidents-medal-awarded-to-dave-kershaw/?utm_source=rss&utm_medium=rss&utm_campaign=2025-presidents-medal-awarded-to-dave-kershaw",
+          "publishedOn": "2025-11-11T15:06:38.000Z",
+          "wordCount": 1610,
+          "title": "2025 President’s Medal awarded to Dave Kershaw",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/78f349c2-0efb-4ee5-935e-f32ef539610e.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56357",
           "author": "nikkihoward",
           "description": "As many of you will know the Scottish Inter Club Championship has taken many forms over the years from a […]",
