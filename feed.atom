@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T12:20:11.290Z</updated>
+    <updated>2025-11-12T18:15:01.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“Beat the Heat” guides athletes in competing in hot weather]]></title>
+        <id>https://orienteering.sport/?p=80742</id>
+        <link href="https://orienteering.sport/beat-the-heat-guides-athletes-in-competing-in-hot-weather/"/>
+        <updated>2025-11-12T13:12:43.000Z</updated>
+        <summary type="html"><![CDATA[With the prospect of increasingly warmer weather in the coming years and thus also orienteering competitions taking place in hot conditions, there is reason to prepare as best as possible. In September, the IOF introduced an interim Heat Policy – ​​find it here – which contains guidelines to ensure that competitions are not held in […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Highbury Street-O Results]]></title>
         <id>https://slow.org.uk/?p=23756</id>
