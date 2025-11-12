@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T00:50:28.102Z</updated>
+    <updated>2025-11-12T06:16:00.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Highbury Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=23756</id>
+        <link href="https://slow.org.uk/streeto/highbury-street-o-25-results/"/>
+        <updated>2025-11-12T01:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Accidental property Please check your belongings if you have accidentally picked up a black and white Petzl headtorch. Can you email to reunite it with [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[As Night Follows Day]]></title>
         <id>https://www.niorienteering.org.uk/?p=6883</id>
