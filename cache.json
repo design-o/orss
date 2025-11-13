@@ -178,16 +178,6 @@
           "wordCount": 1163,
           "title": "Park Street Update, October 21-27",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15049",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/awoc-club-championship-sunday-2-november-chiltern/",
-          "publishedOn": "2025-10-15T04:54:43.000Z",
-          "wordCount": 992,
-          "title": "AWOC Club Championship, Sunday 2 November, Chiltern",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -584,6 +574,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56376",
+          "author": "louise",
+          "description": "The student orienteering community came together with great spirit on the weekend of 8-9 November for the Scottish Student Champs […]",
+          "link": "https://www.scottish-orienteering.org/news/a-fantastic-weekend-of-student-orienteering/?utm_source=rss&utm_medium=rss&utm_campaign=a-fantastic-weekend-of-student-orienteering",
+          "publishedOn": "2025-11-13T16:54:51.000Z",
+          "wordCount": 1783,
+          "title": "A fantastic weekend of student orienteering",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/580506361_18533484637013152_6786731926224642518_n-819x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56372",
           "author": "nikkihoward",
