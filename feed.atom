@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T06:16:27.143Z</updated>
+    <updated>2025-11-13T12:20:17.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go Gortin]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6920</id>
+        <link href="https://www.niorienteering.org.uk/go-gortin/"/>
+        <updated>2025-11-13T11:03:34.000Z</updated>
+        <summary type="html"><![CDATA[The final colour series of 2026 is fast approaching at Gortin Glen Forest Park on Saturday 22 November, hosted by Fermanagh Orienteers. All the details are on the event page on the FermO website. Do get your entry in on SIEntries now, as entries close...
+The post Go Gortin appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OA Workshop #1 – Great Events]]></title>
         <id>https://orienteering.asn.au/?p=15067</id>
@@ -817,26 +828,6 @@ The post Ireland Juniors Beat Wales appeared first on NI Orienteering Associatio
         <updated>2025-10-15T04:54:43.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richmond Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=23702</id>
-        <link href="https://slow.org.uk/streeto/richmond-street-o-25-results/"/>
-        <updated>2025-10-14T23:30:31.000Z</updated>
-        <summary type="html"><![CDATA[It was a great turn out to the second Street-O of the 2025-26 series around Richmond. Thanks to Simon and Judith for putting on the [...]]]></summary>
-        <author>
-            <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Munster Orienteering Championships – final details]]></title>
-        <id>https://www.orienteering.ie/?p=21522</id>
-        <link href="https://www.orienteering.ie/munster-orienteering-championships-final-details/"/>
-        <updated>2025-10-14T20:31:39.000Z</updated>
-        <summary type="html"><![CDATA[The final information pack for the Munster Orienteering Championships is now available at the link below: http://www.munsterchamps2025.com/ This will take you to the Bishopstown Orienteering Club website, which will then take you one click later to the full pack, including the original 1992 hand drawn map. There are still a few maps on the courses […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
