@@ -255,16 +255,6 @@
           "wordCount": 795,
           "title": "Munster Orienteering Championships – final details",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21514",
-          "author": "Operations Manager",
-          "description": "A huge thanks to everyone who came to our Club Conference last weekend in Portlaoise. It was great to get club delegates, our Management Group and Operations Team together, where we swapped ideas and discussed the future development of our sport across Ireland. A summary of the conference will be sent to clubs later this […]",
-          "link": "https://www.orienteering.ie/club-conference-2025/",
-          "publishedOn": "2025-10-14T11:51:49.000Z",
-          "wordCount": 796,
-          "title": "Club Conference 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -839,6 +829,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=15067",
+          "author": "Elizabeth L",
+          "description": "OA Workshop 1 via Zoom will be covering Great Events on Monday 17th November at 7:30pm EADT.\nOA Workshop #1 – Great Events first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/oa-workshop-1-great-events/",
+          "publishedOn": "2025-11-13T00:11:53.000Z",
+          "wordCount": 2346,
+          "title": "OA Workshop #1 – Great Events",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=15032",
           "author": "Elizabeth L",
           "description": "OA is seeking a Team Manager for the World MTB Orienteering Championships 2026, held 25-30 August in Sweden.\nNational MTBO Team Manager Position first appeared on Orienteering Australia.",
@@ -886,16 +886,6 @@
           "publishedOn": "2025-10-16T06:39:46.000Z",
           "wordCount": 2309,
           "title": "2025 Honour Team",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14877",
-          "author": "Elizabeth L",
-          "description": "The 2025 Silva Medal has been won by Tim Hatley (M65, BK V). He was the only orienteer to win all 6 designated events and achieved maximum points of 24. \n2025 Silva Medal Winner first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2025-silva-medal-winner/",
-          "publishedOn": "2025-10-14T07:00:00.000Z",
-          "wordCount": 2676,
-          "title": "2025 Silva Medal Winner",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

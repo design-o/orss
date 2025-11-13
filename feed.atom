@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T18:15:01.861Z</updated>
+    <updated>2025-11-13T00:49:15.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OA Workshop #1 – Great Events]]></title>
+        <id>https://orienteering.asn.au/?p=15067</id>
+        <link href="https://orienteering.asn.au/oa-workshop-1-great-events/"/>
+        <updated>2025-11-13T00:11:53.000Z</updated>
+        <summary type="html"><![CDATA[OA Workshop 1 via Zoom will be covering Great Events on Monday 17th November at 7:30pm EADT.
+OA Workshop #1 – Great Events first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Beat the Heat” guides athletes in competing in hot weather]]></title>
         <id>https://orienteering.sport/?p=80742</id>
@@ -826,27 +837,6 @@ The post Ireland Juniors Beat Wales appeared first on NI Orienteering Associatio
         <summary type="html"><![CDATA[The final information pack for the Munster Orienteering Championships is now available at the link below: http://www.munsterchamps2025.com/ This will take you to the Bishopstown Orienteering Club website, which will then take you one click later to the full pack, including the original 1992 hand drawn map. There are still a few maps on the courses […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Club Conference 2025]]></title>
-        <id>https://www.orienteering.ie/?p=21514</id>
-        <link href="https://www.orienteering.ie/club-conference-2025/"/>
-        <updated>2025-10-14T11:51:49.000Z</updated>
-        <summary type="html"><![CDATA[A huge thanks to everyone who came to our Club Conference last weekend in Portlaoise. It was great to get club delegates, our Management Group and Operations Team together, where we swapped ideas and discussed the future development of our sport across Ireland. A summary of the conference will be sent to clubs later this […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Silva Medal Winner]]></title>
-        <id>https://orienteering.asn.au/?p=14877</id>
-        <link href="https://orienteering.asn.au/2025-silva-medal-winner/"/>
-        <updated>2025-10-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 Silva Medal has been won by Tim Hatley (M65, BK V). He was the only orienteer to win all 6 designated events and achieved maximum points of 24. 
-2025 Silva Medal Winner first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
