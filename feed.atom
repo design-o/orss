@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-15T00:47:18.427Z</updated>
+    <updated>2025-11-15T06:14:03.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -807,17 +807,6 @@ Park Street Update, October 21-27 first appeared on Orienteering Victoria.]]></s
 2025 Non-Elite Rankings first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland Juniors Beat Wales]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6820</id>
-        <link href="https://www.niorienteering.org.uk/ireland-juniors-beat-wales/"/>
-        <updated>2025-10-16T16:20:11.000Z</updated>
-        <summary type="html"><![CDATA[The Ireland Junior Home International team have been victorious over Wales, retaining the Judith Wingham Trophy with a points total of 77 to Ireland and 27 to Wales. The events were held in South Wales on 11-12 October 2025, with the full results on the...
-The post Ireland Juniors Beat Wales appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
