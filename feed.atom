@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-15T18:12:23.964Z</updated>
+    <updated>2025-11-16T00:52:50.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -796,17 +796,6 @@ Summer Shorts and Sprints – Tarralla Wetlands, Sunday 26 October first appeare
 Park Street Update, October 21-27 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Non-Elite Rankings]]></title>
-        <id>https://orienteering.asn.au/?p=14894</id>
-        <link href="https://orienteering.asn.au/2025-non-elite-rankings/"/>
-        <updated>2025-10-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025 Non-Elite Rankings have been released, based on results in the Australian 3-Days Championship and the Australian Championships.
-2025 Non-Elite Rankings first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
