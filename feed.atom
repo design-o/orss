@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-17T12:19:48.587Z</updated>
+    <updated>2025-11-17T18:13:37.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Annual Club Championships]]></title>
+        <id>https://slow.org.uk/?p=23798</id>
+        <link href="https://slow.org.uk/clubnews/annual-club-championships/"/>
+        <updated>2025-11-17T13:07:07.000Z</updated>
+        <summary type="html"><![CDATA[South London Orienteers Annual Club Championships Sunday 7th December 2025 at Newlands Corner, thanks to Guildfford Orienteers There is a GO page with event details [...]]]></summary>
+        <author>
+            <name>Eloise Lardet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waterloo Street-O, Tuesday 13 January]]></title>
         <id>https://slow.org.uk/?p=23790</id>
@@ -794,15 +804,6 @@ Tax Guidelines for Clubs | Payments for Volunteers and Contractors first appeare
         <updated>2025-10-19T23:41:54.000Z</updated>
         <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
 Park Street Update, November 11-17 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Final Event for 2025, Buxton, Sunday 16 November]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15071</id>
-        <link href="https://www.vicorienteering.asn.au/vic-mtbo-final-event-for-2025-buxton-sunday-16-november/"/>
-        <updated>2025-10-19T01:08:14.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>

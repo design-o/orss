@@ -168,16 +168,6 @@
           "wordCount": 1051,
           "title": "Park Street Update, November 11-17",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15071",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/vic-mtbo-final-event-for-2025-buxton-sunday-16-november/",
-          "publishedOn": "2025-10-19T01:08:14.000Z",
-          "wordCount": 992,
-          "title": "Vic MTBO Final Event for 2025, Buxton, Sunday 16 November",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -243,6 +233,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23798",
+          "author": "Eloise Lardet",
+          "description": "South London Orienteers Annual Club Championships Sunday 7th December 2025 at Newlands Corner, thanks to Guildfford Orienteers There is a GO page with event details [...]",
+          "link": "https://slow.org.uk/clubnews/annual-club-championships/",
+          "publishedOn": "2025-11-17T13:07:07.000Z",
+          "wordCount": 2180,
+          "title": "Annual Club Championships",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews-racereports/club-champs/files/20221210_ClubChampsPhoto.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23790",
           "author": "vinh",
