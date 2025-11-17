@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T18:12:59.771Z</updated>
+    <updated>2025-11-17T00:50:57.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Waterloo Street-O, Tuesday 13 January]]></title>
+        <id>https://slow.org.uk/?p=23790</id>
+        <link href="https://slow.org.uk/streeto/waterloo-street-o-25/"/>
+        <updated>2025-11-16T23:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to 2026! Come along to the first of the new year of the 2025-26 Street-O series. We will be around the Lambeth North/ Waterloo [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Results | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></title>
+        <id>https://neooc.com/?p=49319</id>
+        <link href="https://neooc.com/results-2025-girdled-road-self-serve-lake-metroparks-november-8th-thru-16th/"/>
+        <updated>2025-11-16T20:48:54.000Z</updated>
+        <summary type="html"><![CDATA[COURSES ARE CLOSED AND FLAGS ARE BEING COLLECTED PLEASE REPORT ANY MORE RESULTS VIA FORM or REGISTRAR AT THIS LINK “FINAL” RESULTS HERE Huge Thanks to Lake County MetroParks for their support! And Thanks to our Volunteers and Participants! Event Personnel Event Director:  Jonathan Boyer Course Setters / Collectors:  Michael Semick and Christa Petryszyn Registrar:  […]]]></summary>
+        <author>
+            <name>Frederick Mailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A fantastic weekend of student orienteering]]></title>
         <id>https://www.scottish-orienteering.org/?p=56376</id>
@@ -248,6 +268,17 @@ The post When the Going Gets Carntogher, the Tough Get Going appeared first on N
         <updated>2025-11-03T03:07:09.000Z</updated>
         <summary type="html"><![CDATA[The Melbourne City Race is back with more of what you love!  Get your entry in for MCR6 now
 Melbourne City Race, 23 November 2025, Williamstown Seaport first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints – That’s A Wrap!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=14976</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-are-coming-soon/"/>
+        <updated>2025-11-02T05:54:29.000Z</updated>
+        <summary type="html"><![CDATA[Find out who won the last race at Pipemakers Park, and see who took out the Series placings!
+Summer Shorts and Sprints – That’s A Wrap! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
