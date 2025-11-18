@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T06:15:51.144Z</updated>
+    <updated>2025-11-18T12:20:17.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -806,26 +806,6 @@ Club Forum Summary | feedback about Strategic Priorities for 2026-2030 first app
 Tax Guidelines for Clubs | Payments for Volunteers and Contractors first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians Earning National Honours – Silva Medal, Honours Team, and National Rankings Announced]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15060</id>
-        <link href="https://www.vicorienteering.asn.au/tim-hatley-and-ella-maja-lang-earn-national-honours/"/>
-        <updated>2025-10-20T00:18:38.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, November 11-17]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-10-19T23:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
-Park Street Update, November 11-17 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
