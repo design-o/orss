@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T00:48:32.865Z</updated>
+    <updated>2025-11-18T06:15:51.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -87,6 +87,15 @@ OA Workshop #1 – Great Events first appeared on Orienteering Australia.]]></su
         <summary type="html"><![CDATA[With the prospect of increasingly warmer weather in the coming years and thus also orienteering competitions taking place in hot conditions, there is reason to prepare as best as possible. In September, the IOF introduced an interim Heat Policy – ​​find it here – which contains guidelines to ensure that competitions are not held in […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vale Robyn Sunderland]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15133</id>
+        <link href="https://www.vicorienteering.asn.au/vale-robyn-sunderland/"/>
+        <updated>2025-11-12T02:46:24.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
