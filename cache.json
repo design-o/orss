@@ -605,6 +605,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56386",
+          "author": "heidi",
+          "description": "Look out your headtorch as night orienteering season is upon us! As the nights draw in, many of us orienteers […]",
+          "link": "https://www.scottish-orienteering.org/news/night-orienteering-season-is-here/?utm_source=rss&utm_medium=rss&utm_campaign=night-orienteering-season-is-here",
+          "publishedOn": "2025-11-19T11:31:28.000Z",
+          "wordCount": 2233,
+          "title": "Night Orienteering Season is here!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/image-1024x768.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56376",
           "author": "louise",
           "description": "The student orienteering community came together with great spirit on the weekend of 8-9 November for the Scottish Student Champs […]",
