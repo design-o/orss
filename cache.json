@@ -311,6 +311,46 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64666",
+          "author": "Christo Peters",
+          "description": "The European Youth Orienteering Championships (EYOC) 2026 are scheduled to be held in Nova Gorica, Slovenia from 25-27 June 2026. EYOC will consist of individual Sprint and Long distance races, and a Forest Relay. Classes are: New Zealand is entitled to enter up to 4 athletes in each class. Selection Criteria As per the Orienteering […]\nSelection Notice – European Youth Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/selection-notice-european-youth-orienteering-championships-2026/",
+          "publishedOn": "2025-11-19T04:13:57.000Z",
+          "wordCount": 2489,
+          "title": "Selection Notice – European Youth Orienteering Championships 2026",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/EYOC-Logo-2026.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64663",
+          "author": "Christo Peters",
+          "description": "The World University Orienteering Championships (WUOC) 2026 are scheduled to be held in Vila Real, Portugal from 28 July – 1 August 2026. WUOC will consist of individual Sprint and Middle distance races, a Sprint Relay and a Forest Relay*. Competitors must satisfy the following condition: Classes are: New Zealand is entitled to enter up […]\nSelection Notice – World University Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/selection-notice-world-university-orienteering-championships-2026/",
+          "publishedOn": "2025-11-19T04:09:09.000Z",
+          "wordCount": 2560,
+          "title": "Selection Notice – World University Orienteering Championships 2026",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/WUOC-Logo-2026.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64660",
+          "author": "Christo Peters",
+          "description": "The Junior World Orienteering Championships (JWOC) 2026 are scheduled to be held in Karlskrona, Sweden from 29 June – 4 July 2026. JWOC will consist of individual Sprint, Middle, and Long distance races, a Sprint Relay and a Forest Relay. Classes are: New Zealand is entitled to enter up to 6 athletes in each class. […]\nSelection Notice – Junior World Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/selection-notice-junior-world-orienteering-championships-2026/",
+          "publishedOn": "2025-11-19T04:04:02.000Z",
+          "wordCount": 2481,
+          "title": "Selection Notice – Junior World Orienteering Championships 2026",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/JWOC-2026-Logo.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64657",
+          "author": "Christo Peters",
+          "description": "The World Orienteering Championships (WOC) 2026 are scheduled to be held in Genova, Italy from 6-11 July 2026. WOC will consist of a sprint, a knock-out sprint, and a sprint relay. New Zealand is entitled to enter: Additionally, the current Regional (Oceania) Champions in each format, sprint and knock-out sprint, may be entered into the […]\nSelection Notice – World Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/selection-notice-world-orienteering-championships-2026/",
+          "publishedOn": "2025-11-19T03:58:36.000Z",
+          "wordCount": 2511,
+          "title": "Selection Notice – World Orienteering Championships 2026",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/WOC-2026-Logo.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?p=64572",
           "author": "Christo Peters",
           "description": "Looks like we’ve just punched through another month! We are in the thick of our regional championships. I had the pleasure of attending the Pokopū Champs last weekend near Whanganui, racing around in the beautiful forest maps of Knottingly and Koitiata. It was so neat to see two traditionally smaller clubs (Red Kiwis and Hutt Valley) come […]\nView from the Chair – October 2025 first appeared on Orienteering New Zealand.",
@@ -556,16 +596,6 @@
           "wordCount": 1633,
           "title": "Results | The aMAIZEing Night-O! | Near Peninsula, Ohio | Saturday, October 25th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2021/10/Night-O-02.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=49162",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Recap and Results It was a rainy and wet day at Kent State Campus, but many BRAVE SOULS came out for the Scare-O and had a great time!  Thanks to everyone who participated or volunteered. No one cleared the 90 minute Score course, but several came close.  Our top three winners were NWBRC (680 pts, […]",
-          "link": "https://neooc.com/results-ksu-scare-o-evening-o-at-kent-state-campus-sunday-october-19th/",
-          "publishedOn": "2025-10-20T16:27:40.000Z",
-          "wordCount": 1622,
-          "title": "Results | KSU Scare-O | Evening-O at Kent State Campus | Sunday, October 19th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2023/10/pumpkinOwWoman.jpeg"
         }
       ]
     },
