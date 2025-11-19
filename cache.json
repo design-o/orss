@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80766",
+          "author": "Erling Thisted",
+          "description": "This season’s Ski Orienteering Event Advisers Clinic takes place over four short online meetings in December 2025 and a present meeting during the World Cup Round in Bulgaria from 23-25 January 2026. The main objective of this IOF Event Advisers’ Clinic is to prepare participants to be licensed Ski Orienteering Event Advisers. National federations are […]",
+          "link": "https://orienteering.sport/ski-orienteering-event-advisers-clinic-2025-2026/",
+          "publishedOn": "2025-11-18T22:01:27.000Z",
+          "wordCount": 1108,
+          "title": "Ski Orienteering Event Advisers Clinic 2025/2026",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/01/2023_skio_wcr3_norway_erlingthisted-1024x683.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80742",
           "author": "Erling Thisted",
           "description": "With the prospect of increasingly warmer weather in the coming years and thus also orienteering competitions taking place in hot conditions, there is reason to prepare as best as possible. In September, the IOF introduced an interim Heat Policy – ​​find it here – which contains guidelines to ensure that competitions are not held in […]",
@@ -479,16 +489,6 @@
           "wordCount": 2324,
           "title": "NISS 2026 Embargoed areas",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/NISS26-embargo-image.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64435",
-          "author": "Christo Peters",
-          "description": "After years of service, we thank Al Cory-Wright for the time he has put into helping select our national teams. Al is retiring from both his position as convenor and member of the selector Senior Selection Panel, the panel responsible for selecting our WOC, EYOC, JWOC, World Cup teams. With Al retiring, we welcome expressions of interest […]\nSenior Selection Panel | Looking for new member first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/senior-selection-panel-looking-for-new-member/",
-          "publishedOn": "2025-10-20T07:45:01.000Z",
-          "wordCount": 2190,
-          "title": "Senior Selection Panel | Looking for new member",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/ONZ-large-logo.jpg"
         }
       ]
     },
@@ -742,6 +742,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=6928",
+          "author": "NIOA Secretary",
+          "description": "Beautiful Ballyholme Bay at Bangor, credit Harold White. Entries are now open for the NI Urban League event at Bangor, Co Down on Saturday 29 November, hosted by Lagan Valley Orienteers. All the details are on the event page on the LVO website, with entries...\nThe post Bangor By The Sea appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/bangor-by-the-sea/",
+          "publishedOn": "2025-11-18T23:14:45.000Z",
+          "wordCount": 4300,
+          "title": "Bangor By The Sea",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/11/Ballyholme.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=6920",
           "author": "NIOA Secretary",
           "description": "The final colour series of 2026 is fast approaching at Gortin Glen Forest Park on Saturday 22 November, hosted by Fermanagh Orienteers. All the details are on the event page on the FermO website. Do get your entry in on SIEntries now, as entries close...\nThe post Go Gortin appeared first on NI Orienteering Association.",
@@ -798,6 +808,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15086",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "The prize draw for the Orienteering Research Survey has been conducted and the winners have been identified. Check to see if you are a winner, or watch the draw now.\nWinners Announced for the Orienteering Research Survey Prize Draw first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/winners-announced-for-the-orienteering-research-survey-prize-draw/",
+          "publishedOn": "2025-11-18T23:42:53.000Z",
+          "wordCount": 2760,
+          "title": "Winners Announced for the Orienteering Research Survey Prize Draw",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15070",
           "author": "Elizabeth L",

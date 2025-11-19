@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T18:15:14.244Z</updated>
+    <updated>2025-11-19T00:49:04.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winners Announced for the Orienteering Research Survey Prize Draw]]></title>
+        <id>https://orienteering.asn.au/?p=15086</id>
+        <link href="https://orienteering.asn.au/winners-announced-for-the-orienteering-research-survey-prize-draw/"/>
+        <updated>2025-11-18T23:42:53.000Z</updated>
+        <summary type="html"><![CDATA[The prize draw for the Orienteering Research Survey has been conducted and the winners have been identified. Check to see if you are a winner, or watch the draw now.
+Winners Announced for the Orienteering Research Survey Prize Draw first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bangor By The Sea]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6928</id>
+        <link href="https://www.niorienteering.org.uk/bangor-by-the-sea/"/>
+        <updated>2025-11-18T23:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Beautiful Ballyholme Bay at Bangor, credit Harold White. Entries are now open for the NI Urban League event at Bangor, Co Down on Saturday 29 November, hosted by Lagan Valley Orienteers. All the details are on the event page on the LVO website, with entries...
+The post Bangor By The Sea appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ski Orienteering Event Advisers Clinic 2025/2026]]></title>
+        <id>https://orienteering.sport/?p=80766</id>
+        <link href="https://orienteering.sport/ski-orienteering-event-advisers-clinic-2025-2026/"/>
+        <updated>2025-11-18T22:01:27.000Z</updated>
+        <summary type="html"><![CDATA[This season’s Ski Orienteering Event Advisers Clinic takes place over four short online meetings in December 2025 and a present meeting during the World Cup Round in Bulgaria from 23-25 January 2026. The main objective of this IOF Event Advisers’ Clinic is to prepare participants to be licensed Ski Orienteering Event Advisers. National federations are […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[That’s a wrap! | End of the 2025 Orienteering Season | NEOOC]]></title>
         <id>https://neooc.com/?p=49324</id>
@@ -783,17 +815,6 @@ The post Don’t Forget to Enter the NI Orienteering Championships appeared firs
         <summary type="html"><![CDATA[Recap and Results It was a rainy and wet day at Kent State Campus, but many BRAVE SOULS came out for the Scare-O and had a great time!  Thanks to everyone who participated or volunteered. No one cleared the 90 minute Score course, but several came close.  Our top three winners were NWBRC (680 pts, […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Selection Panel | Looking for new member]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64435</id>
-        <link href="https://www.orienteering.org.nz/news/senior-selection-panel-looking-for-new-member/"/>
-        <updated>2025-10-20T07:45:01.000Z</updated>
-        <summary type="html"><![CDATA[After years of service, we thank Al Cory-Wright for the time he has put into helping select our national teams. Al is retiring from both his position as convenor and member of the selector Senior Selection Panel, the panel responsible for selecting our WOC, EYOC, JWOC, World Cup teams. With Al retiring, we welcome expressions of interest […]
-Senior Selection Panel | Looking for new member first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
