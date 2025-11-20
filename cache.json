@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80780",
+          "author": "Erling Thisted",
+          "description": "The International Orienteering Federation is pleased to invite to the 2026 High Level Event Seminar (HLES) and the first edition of the IOF Calendar Conference in Vilnius, Lithuania. The Calendar Conference takes place from 5-6 February 2026, while the HLES is held immediately after – from 6-8 February using the same venue, the Vilnius Park […]",
+          "link": "https://orienteering.sport/join-iofs-high-level-event-seminar-and-calendar-conference-in-february-2026/",
+          "publishedOn": "2025-11-19T22:29:45.000Z",
+          "wordCount": 1248,
+          "title": "Join IOF’s High Level Event Seminar and Calendar Conference in February 2026",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/03/woc2022_sprintrelay_arena-1024x585.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80766",
           "author": "Erling Thisted",
           "description": "This season’s Ski Orienteering Event Advisers Clinic takes place over four short online meetings in December 2025 and a present meeting during the World Cup Round in Bulgaria from 23-25 January 2026. The main objective of this IOF Event Advisers’ Clinic is to prepare participants to be licensed Ski Orienteering Event Advisers. National federations are […]",
@@ -763,16 +773,6 @@
           "wordCount": 1752,
           "title": "Scotland take the win in the Veteran Home Internationals",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/10/VHI_2025_Group-1024x560.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56238",
-          "author": "suzannerb",
-          "description": "So far we have received two fantastic nominations for our Young Orienteer of the Year award. It’s always encouraging to […]",
-          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025-2/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-2025-2",
-          "publishedOn": "2025-10-21T11:43:57.000Z",
-          "wordCount": 1746,
-          "title": "Young Orienteer of the Year 2025",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/10/Finlay.png"
         }
       ]
     },
