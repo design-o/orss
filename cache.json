@@ -605,6 +605,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56407",
+          "author": "louise",
+          "description": "On Sunday 16 November, in the stunning grounds of Hopetoun House near Edinburgh, Edinburgh Southern Orienteering Club hosted the British […]",
+          "link": "https://www.scottish-orienteering.org/news/a-brilliant-day-at-hopetoun-house-celebrating-scottish-success-at-the-british-schools-orienteering-championships/?utm_source=rss&utm_medium=rss&utm_campaign=a-brilliant-day-at-hopetoun-house-celebrating-scottish-success-at-the-british-schools-orienteering-championships",
+          "publishedOn": "2025-11-20T15:54:15.000Z",
+          "wordCount": 2375,
+          "title": "A Brilliant Day at Hopetoun House – Celebrating Scottish Success at the British Schools Orienteering Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/ba6b0b45-e217-41fb-a2e1-b9a8d08fd844-1024x768.jpeg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56391",
+          "author": "louise",
+          "description": "Eight adult beginners braved some very wet and wild conditions at Hazlehead Park, Aberdeen, on 25th October for a Scottish […]",
+          "link": "https://www.scottish-orienteering.org/news/adult-beginners-brave-the-elements-at-hazlehead-coaching-day/?utm_source=rss&utm_medium=rss&utm_campaign=adult-beginners-brave-the-elements-at-hazlehead-coaching-day",
+          "publishedOn": "2025-11-20T13:35:20.000Z",
+          "wordCount": 1905,
+          "title": "Adult Beginners Brave the Elements at Hazlehead Coaching Day",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/Learn-to-Orienteer-Aberdeen-722x1024.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56396",
           "author": "louise",
           "description": "We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]",
