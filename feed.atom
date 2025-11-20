@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-20T06:16:03.623Z</updated>
+    <updated>2025-11-20T12:19:42.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recruiting and retaining young adults through support from the SOA Development Fund]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56396</id>
+        <link href="https://www.scottish-orienteering.org/news/recruiting-and-retaining-young-adults-through-support-from-the-soa-development-fund/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recruiting-and-retaining-young-adults-through-support-from-the-soa-development-fund"/>
+        <updated>2025-11-20T11:07:58.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join IOF’s High Level Event Seminar and Calendar Conference in February 2026]]></title>
         <id>https://orienteering.sport/?p=80780</id>
@@ -849,16 +859,6 @@ The post Don’t Forget to Enter the NI Orienteering Championships appeared firs
         <summary type="html"><![CDATA[OI are excited to announce that we have secured the final permissions to hold our Sprint Championships and urban orienteering festival from 21 to 22 March 2026! Save the date for a great weekend of sprint championships, two-person sprint relays and an urban event! More info will be announced soon, with further information being posted […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Bake Sale Thank You]]></title>
-        <id>https://www.orienteering.ie/?p=21551</id>
-        <link href="https://www.orienteering.ie/junior-bake-sale-thank-you/"/>
-        <updated>2025-10-21T18:18:28.000Z</updated>
-        <summary type="html"><![CDATA[What a success the Bake Sale was last Sunday at the Munster Champs in Coombaun. There was barely breathing space inside the little tent as everyone crammed in to feast on the home-baked goodies. And what a generous bunch you all are. We want to extend a massive thank you to all of you who […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>

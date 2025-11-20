@@ -225,16 +225,6 @@
           "wordCount": 798,
           "title": "SAVE THE DATE – Irish Sprint Champions & Urban Orienteering Festival 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21551",
-          "author": "Deirdre",
-          "description": "What a success the Bake Sale was last Sunday at the Munster Champs in Coombaun. There was barely breathing space inside the little tent as everyone crammed in to feast on the home-baked goodies. And what a generous bunch you all are. We want to extend a massive thank you to all of you who […]",
-          "link": "https://www.orienteering.ie/junior-bake-sale-thank-you/",
-          "publishedOn": "2025-10-21T18:18:28.000Z",
-          "wordCount": 866,
-          "title": "Junior Bake Sale Thank You",
-          "imageUrl": null
         }
       ]
     },
@@ -614,6 +604,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56396",
+          "author": "louise",
+          "description": "We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]",
+          "link": "https://www.scottish-orienteering.org/news/recruiting-and-retaining-young-adults-through-support-from-the-soa-development-fund/?utm_source=rss&utm_medium=rss&utm_campaign=recruiting-and-retaining-young-adults-through-support-from-the-soa-development-fund",
+          "publishedOn": "2025-11-20T11:07:58.000Z",
+          "wordCount": 2175,
+          "title": "Recruiting and retaining young adults through support from the SOA Development Fund",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/Motivational-Quote-instagram-Post-1024x1024.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56386",
           "author": "heidi",
