@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-21T00:47:43.094Z</updated>
+    <updated>2025-11-21T06:16:05.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -869,16 +869,6 @@ The post Don’t Forget to Enter the NI Orienteering Championships appeared firs
         <summary type="html"><![CDATA[What a fantastic day of orienteering in Combaun Wood, Co. Limerick, with over 150 competitors from clubs all across Ireland! Check out the photo album from the event. Some great photos.www.munsterchamps2025.com A special moment during the event saw the family of the late Ted Lucey presented with the Spirit of Orienteering Award, recognising Ted’s incredible […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAVE THE DATE – Irish Sprint Champions & Urban Orienteering Festival 2026]]></title>
-        <id>https://www.orienteering.ie/?p=21570</id>
-        <link href="https://www.orienteering.ie/save-the-date-irish-sprint-champions-urban-orienteering-festival-2026/"/>
-        <updated>2025-10-22T16:35:37.000Z</updated>
-        <summary type="html"><![CDATA[OI are excited to announce that we have secured the final permissions to hold our Sprint Championships and urban orienteering festival from 21 to 22 March 2026! Save the date for a great weekend of sprint championships, two-person sprint relays and an urban event! More info will be announced soon, with further information being posted […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
