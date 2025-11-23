@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T18:13:09.858Z</updated>
+    <updated>2025-11-23T00:55:52.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -787,46 +787,6 @@ The post Don’t Forget to Enter the NI Orienteering Championships appeared firs
         <link href="https://www.scottish-orienteering.org/news/applications-sought-for-the-jk-scottish-6-day-and-seds-positions-by-the-end-of-the-month/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applications-sought-for-the-jk-scottish-6-day-and-seds-positions-by-the-end-of-the-month"/>
         <updated>2025-10-24T15:00:51.000Z</updated>
         <summary type="html"><![CDATA[Last month we announced we were excited to be able to offer two exciting opportunities to work with us as […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falkirk Wheel provides stunning backdrop for those racing to Score!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56279</id>
-        <link href="https://www.scottish-orienteering.org/news/falkirk-wheel-provides-stunning-backdrop-for-those-racing-to-score/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=falkirk-wheel-provides-stunning-backdrop-for-those-racing-to-score"/>
-        <updated>2025-10-24T12:26:40.000Z</updated>
-        <summary type="html"><![CDATA[Forth Valley Orienteers brought the Scottish Orienteering Championship season to a close in the shadow of the Falkirk Wheel with […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Annual General Meeting]]></title>
-        <id>https://slow.org.uk/?p=23730</id>
-        <link href="https://slow.org.uk/clubnews/2025-annual-general-meeting/"/>
-        <updated>2025-10-24T11:38:40.000Z</updated>
-        <summary type="html"><![CDATA[South London Orienteers and Wayfarers 2025 AGM 8pm Monday 24th November 2025 at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW The meeting can [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Annual General Meeting]]></title>
-        <id>https://slow.org.uk/?p=23730</id>
-        <link href="https://slow.org.uk/uncategorized/2025-annual-general-meeting/"/>
-        <updated>2025-10-24T11:38:40.000Z</updated>
-        <summary type="html"><![CDATA[South London Orienteers and Wayfarers 2025 AGM 8pm Monday 24th November 2025 at Pizza Express, 144 Upper Richmond Road, Putney, SW15 2SW The meeting can [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juniors travel to Wales for the JHIs]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56265</id>
-        <link href="https://www.scottish-orienteering.org/news/juniors-travel-to-wales-for-the-jhis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juniors-travel-to-wales-for-the-jhis"/>
-        <updated>2025-10-24T11:02:37.000Z</updated>
-        <summary type="html"><![CDATA[This year it was the turn of Wales to host the Junior Home Internationals (JHIs) where the four home nations […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
