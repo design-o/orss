@@ -750,16 +750,6 @@
           "wordCount": 4322,
           "title": "Try Tyrella and Night O",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/08/Tyrella-mournes.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6831",
-          "author": "NIOA Secretary",
-          "description": "Don’t miss out on the Northern Ireland Orienteering Championships as entries close at 22:00 BST on Sunday 26 October. The event hosted by North West Orienteering Club is on classic open mountain terrain on Saturday 1 November at Carntogher, near Maghera. In addition to age...\nThe post Don’t Forget to Enter the NI Orienteering Championships appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/dont-forget-to-enter-the-ni-orienteering-championships/",
-          "publishedOn": "2025-10-24T22:38:38.000Z",
-          "wordCount": 4368,
-          "title": "Don’t Forget to Enter the NI Orienteering Championships",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/10/NIOC-2025.jpg"
         }
       ]
     },
@@ -768,6 +758,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15154",
+          "author": "Elizabeth L",
+          "description": "Read the December edition of The Australian Orienteer, available online now.\nThe Australian Orienteer: December Edition Now Online first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/the-australian-orienteer-december-edition-now-online-2/",
+          "publishedOn": "2025-11-23T09:06:00.000Z",
+          "wordCount": 2335,
+          "title": "The Australian Orienteer: December Edition Now Online",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15086",
           "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T06:14:17.249Z</updated>
+    <updated>2025-11-23T12:16:18.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Australian Orienteer: December Edition Now Online]]></title>
+        <id>https://orienteering.asn.au/?p=15154</id>
+        <link href="https://orienteering.asn.au/the-australian-orienteer-december-edition-now-online-2/"/>
+        <updated>2025-11-23T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the December edition of The Australian Orienteer, available online now.
+The Australian Orienteer: December Edition Now Online first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF event advisers shared experience online]]></title>
         <id>https://orienteering.sport/?p=80797</id>
@@ -768,17 +779,6 @@ NISS 2026 Embargoed areas first appeared on Orienteering New Zealand.]]></summar
         <summary type="html"><![CDATA[After my late plea we have had a couple more nominations who deserve a mention. Scarlett Kelly – FVO Scarlett […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Forget to Enter the NI Orienteering Championships]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6831</id>
-        <link href="https://www.niorienteering.org.uk/dont-forget-to-enter-the-ni-orienteering-championships/"/>
-        <updated>2025-10-24T22:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Don’t miss out on the Northern Ireland Orienteering Championships as entries close at 22:00 BST on Sunday 26 October. The event hosted by North West Orienteering Club is on classic open mountain terrain on Saturday 1 November at Carntogher, near Maghera. In addition to age...
-The post Don’t Forget to Enter the NI Orienteering Championships appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
