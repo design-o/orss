@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T06:16:53.544Z</updated>
+    <updated>2025-11-24T12:19:45.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Banging on about Bangor]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6950</id>
+        <link href="https://www.niorienteering.org.uk/banging-on-about-bangor/"/>
+        <updated>2025-11-24T09:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Yes, we are banging on about Bangor, as the entries close on Tuesday 25 November at 23:00 for the Bangor Urban Race on Saturday 29 November. Entries are at SIEntries with all the detail on the event page on the LVO website. Don’t delay –...
+The post Banging on about Bangor appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Australian Orienteer: December Edition Now Online]]></title>
         <id>https://orienteering.asn.au/?p=15154</id>
