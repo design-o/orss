@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80769",
+          "author": "Erling Thisted",
+          "description": "Don’t miss a second of the biggest international orienteering competitions in 2026 with the VIP Pass for IOF TV. The pass grants you access to all the broadcasts on IOF TV in 2026 for a reduced price. It’s available for 199 EUR, which gives you a discount of more than 10 percent compared to purchasing […]",
+          "link": "https://orienteering.sport/get-the-2026-vip-pass-for-iof-tv/",
+          "publishedOn": "2025-11-25T16:32:40.000Z",
+          "wordCount": 1250,
+          "title": "Get the 2026 VIP Pass for IOF TV",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/04/ioftv_vip_pass-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80797",
           "author": "Erling Thisted",
           "description": "Each year in November, IOF Foot Orienteering Commission invites the event advisers for a seminar to support them in their work with IOF events throughout the work. This year was no exception – like in 2024, around 70 foot orienteering event advisers took part in the 2025 edition, that was held online during the weekend. […]",
@@ -223,6 +233,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23798",
+          "author": "Eloise Lardet",
+          "description": "South London Orienteers Annual Club Championships Sunday 7th December 2025 at Newlands Corner, thanks to Guildfford Orienteers There is a GO page with event details [...]",
+          "link": "https://slow.org.uk/clubnews/clubchamps2025/",
+          "publishedOn": "2025-11-17T13:07:07.000Z",
+          "wordCount": 2181,
+          "title": "Annual Club Championships",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews-racereports/club-champs/files/20221210_ClubChampsPhoto.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23798",
           "author": "Eloise Lardet",
