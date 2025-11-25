@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T18:15:48.282Z</updated>
+    <updated>2025-11-25T00:47:06.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -780,16 +780,6 @@ NISS 2026 Embargoed areas first appeared on Orienteering New Zealand.]]></summar
         <summary type="html"><![CDATA[Recap and Results The weather was perfect in NE Ohio for a Night-O in a Corn Maze! Many Individuals, Teams, Scouts, Ghouls, and Goblins showed up and ran several of the courses set inside the Szalays Market Corn Maze  near Peninsula, Ohio.  Thanks to everyone who participated or volunteered. Results by Individual/Team Names Splits display […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Orienteer of the Year]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56312</id>
-        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year"/>
-        <updated>2025-10-26T08:45:21.000Z</updated>
-        <summary type="html"><![CDATA[After my late plea we have had a couple more nominations who deserve a mention. Scarlett Kelly – FVO Scarlett […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
     <entry>
