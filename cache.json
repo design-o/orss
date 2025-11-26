@@ -234,6 +234,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23833",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident – Live results WinSplits RouteGadget – draw your route! Planner’s Comments Bright shiny eyes. And i mean the orienteers eyes not [...]",
+          "link": "https://slow.org.uk/racereports/wimbledon-night-nov25-results/",
+          "publishedOn": "2025-11-25T23:32:35.000Z",
+          "wordCount": 2216,
+          "title": "Wimbledon Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wimbledon-common-night-o-results/files/Wimbledon_night_start_Nov25-rotated.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23798",
           "author": "Eloise Lardet",
           "description": "South London Orienteers Annual Club Championships Sunday 7th December 2025 at Newlands Corner, thanks to Guildfford Orienteers There is a GO page with event details [...]",
@@ -509,16 +519,6 @@
           "wordCount": 2431,
           "title": "President & Club Leaders’ Forum",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/Presidents-Forum.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64476",
-          "author": "Joolz",
-          "description": "This embargo applies to all North Island Secondary School Orienteering Champs events. Anyone found breaking this embargo or intentionally trying to gain an unfair advantage will be disqualified from competing or coaching at the relevant event. ENTRIES: Opening early 2026 CONTACT: If you have any general questions about the event please email: orienteering@orienteeringtaranaki.org.nz MORE DETAILS: […]\nNISS 2026 Embargoed areas first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/niss-2026-embargoed-areas/",
-          "publishedOn": "2025-10-27T07:23:19.000Z",
-          "wordCount": 2324,
-          "title": "NISS 2026 Embargoed areas",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/NISS26-embargo-image.jpg"
         }
       ]
     },

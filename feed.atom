@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T18:16:04.831Z</updated>
+    <updated>2025-11-26T00:49:06.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=23833</id>
+        <link href="https://slow.org.uk/racereports/wimbledon-night-nov25-results/"/>
+        <updated>2025-11-25T23:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf SPORTident – Live results WinSplits RouteGadget – draw your route! Planner’s Comments Bright shiny eyes. And i mean the orienteers eyes not [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get the 2026 VIP Pass for IOF TV]]></title>
         <id>https://orienteering.sport/?p=80769</id>
@@ -779,17 +789,6 @@ National MTBO Series crowns champions across age groups first appeared on Orient
         <summary type="html"><![CDATA[2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NISS 2026 Embargoed areas]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64476</id>
-        <link href="https://www.orienteering.org.nz/news/niss-2026-embargoed-areas/"/>
-        <updated>2025-10-27T07:23:19.000Z</updated>
-        <summary type="html"><![CDATA[This embargo applies to all North Island Secondary School Orienteering Champs events. Anyone found breaking this embargo or intentionally trying to gain an unfair advantage will be disqualified from competing or coaching at the relevant event. ENTRIES: Opening early 2026 CONTACT: If you have any general questions about the event please email: orienteering@orienteeringtaranaki.org.nz MORE DETAILS: […]
-NISS 2026 Embargoed areas first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
