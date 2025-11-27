@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T12:19:41.757Z</updated>
+    <updated>2025-11-27T18:14:16.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Going Gortin Gone]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6967</id>
+        <link href="https://www.niorienteering.org.uk/going-gortin-gone/"/>
+        <updated>2025-11-27T15:08:13.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 NI Colour Series is wrapped up, with a concluding and testing Middle Distance event at Gortin Glen Forest Park on Saturday 22 November, hosted by Fermangh Orienteers. Thanks to organisers: Rachel Montgomery and Sean Magee, controller Raymond Finlay and planner Ciara Largey assisted...
+The post Going Gortin Gone appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nominations Open for the Australian MTBO Team]]></title>
         <id>https://orienteering.asn.au/?p=15186</id>
