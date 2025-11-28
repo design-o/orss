@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T18:14:16.203Z</updated>
+    <updated>2025-11-28T00:46:40.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -801,37 +801,6 @@ Australian Junior Development Camp 2025 first appeared on Orienteering Australia
         <summary type="html"><![CDATA[In a spirit of renewed collaboration and shared vision, the International Military Sports Council (CISM) and the International Orienteering Federation (IOF) officially signed a new Memorandum of Understanding today, October 27, at the Olympic Museum in Lausanne, Switzerland. The signing ceremony took place on the opening day of the International Federation (IF) Forum 2025, which […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National MTBO Series crowns champions across age groups]]></title>
-        <id>https://orienteering.asn.au/?p=14964</id>
-        <link href="https://orienteering.asn.au/national-mtbo-series-crowns-champions-across-age-groups/"/>
-        <updated>2025-10-29T07:54:30.000Z</updated>
-        <summary type="html"><![CDATA[As the 2025 National MTBO Series draws to a close, the following riders emerged as series champions in their respective age classes.
-National MTBO Series crowns champions across age groups first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Final 2025: Maps, Results and Splits analysis]]></title>
-        <id>http://news.worldofo.com/?p=21245</id>
-        <link href="https://news.worldofo.com/2025/09/29/world-cup-final-2025-maps-results-and-splits-analysis/"/>
-        <updated>2025-09-29T03:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Tomáš Křivda (CZE) took his first ever World Cup race win, while Simona Aebersold (SUI) crushed the competitors as this year’s World Cup Final started off with the individual sprint race on Friday afternoon. Sweden followed up with a Sprint Relay win ahead of Switzerland on Saturday, while the weekend and the international orienteering season finished off with a Swiss ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Final 2025: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=21233</id>
-        <link href="https://news.worldofo.com/2025/09/25/world-cup-final-2025-all-you-need-to-know/"/>
-        <updated>2025-09-25T03:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Starting with a sprint on Friday from 15:00 CET on live TV – and continuing with a sprint relay on Saturday and a knock-out sprint on Sunday – the world’s best orienteers will gather in Uster, Switzerland to compete for the final time on the international scene this season for the 2025 World Cup Finals. ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

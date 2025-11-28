@@ -121,28 +121,7 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": [
-        {
-          "id": "http://news.worldofo.com/?p=21245",
-          "author": "Jan Kocbach",
-          "description": "Tomáš Křivda (CZE) took his first ever World Cup race win, while Simona Aebersold (SUI) crushed the competitors as this year’s World Cup Final started off with the individual sprint race on Friday afternoon. Sweden followed up with a Sprint Relay win ahead of Switzerland on Saturday, while the weekend and the international orienteering season finished off with a Swiss ...",
-          "link": "https://news.worldofo.com/2025/09/29/world-cup-final-2025-maps-results-and-splits-analysis/",
-          "publishedOn": "2025-09-29T03:00:45.000Z",
-          "wordCount": 2799,
-          "title": "World Cup Final 2025: Maps, Results and Splits analysis",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/09/2025-09-29-02_58_28-Window-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21233",
-          "author": "Jan Kocbach",
-          "description": "Starting with a sprint on Friday from 15:00 CET on live TV – and continuing with a sprint relay on Saturday and a knock-out sprint on Sunday – the world’s best orienteers will gather in Uster, Switzerland to compete for the final time on the international scene this season for the 2025 World Cup Finals. ...",
-          "link": "https://news.worldofo.com/2025/09/25/world-cup-final-2025-all-you-need-to-know/",
-          "publishedOn": "2025-09-25T03:00:24.000Z",
-          "wordCount": 2872,
-          "title": "World Cup Final 2025: All You Need To Know",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/09/2025-09-24-23_03_52-Window-660x330.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News | Orienteering Victoria",
@@ -846,16 +825,6 @@
           "publishedOn": "2025-11-01T02:38:39.000Z",
           "wordCount": 2360,
           "title": "Australian Junior Development Camp 2025",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=14964",
-          "author": "Elizabeth L",
-          "description": "As the 2025 National MTBO Series draws to a close, the following riders emerged as series champions in their respective age classes.\nNational MTBO Series crowns champions across age groups first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/national-mtbo-series-crowns-champions-across-age-groups/",
-          "publishedOn": "2025-10-29T07:54:30.000Z",
-          "wordCount": 2774,
-          "title": "National MTBO Series crowns champions across age groups",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
