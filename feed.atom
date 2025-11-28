@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T12:20:02.207Z</updated>
+    <updated>2025-11-28T18:14:10.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can you bring your experience to the role of Events Director or Secretary and help the SOA?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56457</id>
+        <link href="https://www.scottish-orienteering.org/news/can-you-bring-your-experience-to-the-role-of-events-director-or-secretary-and-help-the-soa/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=can-you-bring-your-experience-to-the-role-of-events-director-or-secretary-and-help-the-soa"/>
+        <updated>2025-11-28T12:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Events Director The SOA Board has been reassessing the roles on the SOA Board and believe that the term OperationDirector […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Would You Like from SOA Community Conversations? Please give your feedback and suggestions]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56455</id>
+        <link href="https://www.scottish-orienteering.org/news/what-would-you-like-from-soa-community-conversations-please-give-your-feedback-and-suggestions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-would-you-like-from-soa-community-conversations-please-give-your-feedback-and-suggestions"/>
+        <updated>2025-11-28T11:33:28.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 series of monthly open-to-all online Community Conversations will draw to a close after the final one on 3rd […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Support and Grow our Volunteer Base: What Came Out of November’s Community Conversation]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56453</id>
+        <link href="https://www.scottish-orienteering.org/news/how-to-support-and-grow-our-volunteer-base-what-came-out-of-novembers-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-support-and-grow-our-volunteer-base-what-came-out-of-novembers-community-conversation"/>
+        <updated>2025-11-28T11:28:04.000Z</updated>
+        <summary type="html"><![CDATA[The November session in the SOA’s monthly online Community Conversations series focused on the crucial topic of supporting and developing […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Successful Junior year in 2025 with plenty of opportunities in 2026]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56451</id>
+        <link href="https://www.scottish-orienteering.org/news/successful-junior-year-in-2025-with-plenty-of-opportunities-in-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=successful-junior-year-in-2025-with-plenty-of-opportunities-in-2026"/>
+        <updated>2025-11-28T10:53:54.000Z</updated>
+        <summary type="html"><![CDATA[2025 has provided some exciting opportunities for our juniors at all levels.  With Edinburgh Southern Orienteering Club having just hosted […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScotJOS selections for 2025/2026]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56449</id>
+        <link href="https://www.scottish-orienteering.org/news/scotjos-selections-for-2025-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotjos-selections-for-2025-2026"/>
+        <updated>2025-11-28T10:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to the following juniors who have been selected to be part of the Scottish Junior Orienteering Squad (ScotJOS) for […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Going Gortin Gone]]></title>
         <id>https://www.niorienteering.org.uk/?p=6967</id>
