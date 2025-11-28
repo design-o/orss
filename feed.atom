@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T00:46:40.832Z</updated>
+    <updated>2025-11-28T06:16:36.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -789,16 +789,6 @@ Australian Junior Development Camp 2025 first appeared on Orienteering Australia
         <link href="https://orienteering.sport/iof-formalises-partnership-with-the-international-committee-of-sports-for-the-deaf/"/>
         <updated>2025-10-30T10:59:38.000Z</updated>
         <summary type="html"><![CDATA[The IOF has taken an important step towards strengthening inclusivity and cooperation in international sport by formalising a partnership with the International Committee of Sports for the Deaf (ICSD). The partnership is established through a Memorandum of Understanding (MoU) signed between the two organisations. Orienteering has long been a popular sport within the deaf community. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF and CISM renew partnership in Lausanne]]></title>
-        <id>https://orienteering.sport/?p=80676</id>
-        <link href="https://orienteering.sport/iof-and-cism-renew-partnership-in-lausanne/"/>
-        <updated>2025-10-29T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[In a spirit of renewed collaboration and shared vision, the International Military Sports Council (CISM) and the International Orienteering Federation (IOF) officially signed a new Memorandum of Understanding today, October 27, at the Olympic Museum in Lausanne, Switzerland. The signing ceremony took place on the opening day of the International Federation (IF) Forum 2025, which […]]]></summary>
         <author>
             <name>Erling Thisted</name>
         </author>
