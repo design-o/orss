@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T18:14:10.910Z</updated>
+    <updated>2025-11-29T00:46:47.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -831,16 +831,6 @@ Australian Junior Development Camp 2025 first appeared on Orienteering Australia
         <summary type="html"><![CDATA[A new set of rules, prepared by Ski Orienteering Commission and Rules commission, has been published. All Ski Orienteering Rules are published here. New versions that are published: IOF Ski Orienteering Rules nov 2025 v1.3 – Ski Orienteering Competition rules. SkiO WCup Special Rules 2026 – Special Rules for the setup of World Cup season […]]]></summary>
         <author>
             <name>DavidW</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF formalises partnership with the International Committee of Sports for the Deaf]]></title>
-        <id>https://orienteering.sport/?p=80680</id>
-        <link href="https://orienteering.sport/iof-formalises-partnership-with-the-international-committee-of-sports-for-the-deaf/"/>
-        <updated>2025-10-30T10:59:38.000Z</updated>
-        <summary type="html"><![CDATA[The IOF has taken an important step towards strengthening inclusivity and cooperation in international sport by formalising a partnership with the International Committee of Sports for the Deaf (ICSD). The partnership is established through a Memorandum of Understanding (MoU) signed between the two organisations. Orienteering has long been a popular sport within the deaf community. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
