@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T00:46:47.098Z</updated>
+    <updated>2025-11-29T06:14:28.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -821,16 +821,6 @@ President & Club Leaders’ Forum first appeared on Orienteering New Zealand.]]>
 Australian Junior Development Camp 2025 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Ski Orienteering Rules and World Cup Special Rules for 2025-2026 season]]></title>
-        <id>https://orienteering.sport/?p=80685</id>
-        <link href="https://orienteering.sport/new-ski-orienteering-rules-and-world-cup-special-rules-for-2025-2026-season/"/>
-        <updated>2025-10-30T16:04:01.000Z</updated>
-        <summary type="html"><![CDATA[A new set of rules, prepared by Ski Orienteering Commission and Rules commission, has been published. All Ski Orienteering Rules are published here. New versions that are published: IOF Ski Orienteering Rules nov 2025 v1.3 – Ski Orienteering Competition rules. SkiO WCup Special Rules 2026 – Special Rules for the setup of World Cup season […]]]></summary>
-        <author>
-            <name>DavidW</name>
         </author>
     </entry>
 </feed>
