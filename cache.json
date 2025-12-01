@@ -99,6 +99,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15014",
+          "author": "Margi Freemantle",
+          "description": "Enjoy the last major event for 2025, the Victorian Sprint Champs at RMIT Bundoora.  Two races for the price of one!\n2025 Victorian Sprint Champs, Sunday 30 November – Entries Now Open first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/",
+          "publishedOn": "2025-11-17T04:07:11.000Z",
+          "wordCount": 1077,
+          "title": "2025 Victorian Sprint Champs, Sunday 30 November – Entries Now Open",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15133",
           "author": "Debbie Dodd",
           "description": "",
@@ -126,16 +136,6 @@
           "publishedOn": "2025-11-02T05:54:29.000Z",
           "wordCount": 1160,
           "title": "Summer Shorts and Sprints – That’s A Wrap!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15117",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/central-highlands-twilight-orienteering-kyneton-wednesday-12-november/",
-          "publishedOn": "2025-11-01T07:36:31.000Z",
-          "wordCount": 1038,
-          "title": "Central Highlands Twilight Orienteering, Kyneton, Wednesday 12 November",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -172,6 +172,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23842",
+          "author": "Steve Clelland",
+          "description": "Saturday 17th January 2026 at 11.00am 44th edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]",
+          "link": "https://slow.org.uk/events/box-hill-fell-2026/",
+          "publishedOn": "2025-11-30T23:10:55.000Z",
+          "wordCount": 2492,
+          "title": "Box Hill Fell Race 2026",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/BoxHill_2023_3.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23833",
           "author": "Steve Clelland",
