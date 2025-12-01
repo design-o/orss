@@ -91,7 +91,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21305",
+          "author": "Jan Kocbach",
+          "description": "The 19th edition of the traditional Route to Christmas here at World of O starts with a long and interesting leg from the Czech race INOV-8 CUP organized in north-eastern Czechia in early September. Straight or around – climb or not? Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good ...",
+          "link": "https://news.worldofo.com/2025/12/01/route-to-christmas-day-1-2025/",
+          "publishedOn": "2025-12-01T03:00:38.000Z",
+          "wordCount": 2526,
+          "title": "Route to Christmas: Day 1 2025",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
@@ -579,16 +590,6 @@
           "wordCount": 4466,
           "title": "When the Going Gets Carntogher, the Tough Get Going",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/10/Carntogher-Control-1024x775-1.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=6837",
-          "author": "NIOA Secretary",
-          "description": "With the excitement of a super NI Championship now over, it’s time to focus on next Saturday 8 November with the penultimate NI Colour Series of the year, followed by the NI Night Championships both hosted by Lagan Valley Orienteers. It is most important to...\nThe post Try Tyrella and Night O appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/try-tyrella-and-night-o/",
-          "publishedOn": "2025-11-01T17:13:24.000Z",
-          "wordCount": 4322,
-          "title": "Try Tyrella and Night O",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2022/08/Tyrella-mournes.jpg"
         }
       ]
     },
