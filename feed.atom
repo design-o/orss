@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T12:20:58.404Z</updated>
+    <updated>2025-12-01T18:16:42.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOF launches new “Gold” World Ranking Event status to elevate elite orienteering]]></title>
+        <id>https://orienteering.sport/?p=80809</id>
+        <link href="https://orienteering.sport/iof-launches-new-gold-world-ranking-event-status-to-elevate-elite-orienteering/"/>
+        <updated>2025-12-01T14:13:22.000Z</updated>
+        <summary type="html"><![CDATA[The International Orienteering Federation (IOF) has unveiled a new premium label for World Ranking Events, introducing the Gold World Ranking Event (Gold WRE) status from 2026 and onwards as a major step toward strengthening elite competition and athlete support worldwide. Each year more than 200 WREs take place across over 35 countries, but the new […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2027 Winter Universiade with Ski Orienteering takes place in Changchun, China]]></title>
+        <id>https://orienteering.sport/?p=80816</id>
+        <link href="https://orienteering.sport/2027-winter-universiade-with-ski-orienteering-takes-place-in-changchun-china/"/>
+        <updated>2025-12-01T12:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Last week, the International University Sports Federation (FISU) awarded the organisation of the 33rd Winter Universiade to Changchun, Jilin Province in Northern China. The Games will feature the best student-athletes from over 50 countries and five continents from 15-25 January, 2027. For Ski Orienteering, it will be the third time that the sport is part […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 1 2025]]></title>
         <id>http://news.worldofo.com/?p=21305</id>
@@ -610,17 +630,6 @@ The post When the Going Gets Carntogher, the Tough Get Going appeared first on N
         <updated>2025-11-03T03:07:09.000Z</updated>
         <summary type="html"><![CDATA[The Melbourne City Race is back with more of what you love!  Get your entry in for MCR6 now
 Melbourne City Race, 23 November 2025, Williamstown Seaport first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints – That’s A Wrap!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=14976</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-are-coming-soon/"/>
-        <updated>2025-11-02T05:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Find out who won the last race at Pipemakers Park, and see who took out the Series placings!
-Summer Shorts and Sprints – That’s A Wrap! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
