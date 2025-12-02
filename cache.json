@@ -113,6 +113,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21318",
+          "author": "Jan Kocbach",
+          "description": "For the second day of this years’ Route to Christmas 2025 we have chosen a very interesting leg from the Norwegian Championships Long distance. This is a long leg towards the end of a tough long distance race – with several bigger hills that you have to choose how to handle. The race was organized ...",
+          "link": "https://news.worldofo.com/2025/12/02/route-to-christmas-day-2-2025/",
+          "publishedOn": "2025-12-02T03:00:30.000Z",
+          "wordCount": 3719,
+          "title": "Route to Christmas: Day 2 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/nmlang2026_x_x_blank_s-590x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=21260",
+          "author": "Jan Kocbach",
+          "description": "What was the best orienteering course of 2025? The middle distance race in Maximus O Meeting won in 2024, the World Champs middle distance in Switzerland won in 2023, the Pomeranian Sprint Cup won in 2022 and the WOC Long distance won in 2021. In the years before, we had a long distance race in Norway, the World Cup Final Middle in the Czech ...",
+          "link": "https://news.worldofo.com/2025/12/02/course-of-the-year-2025-submit-your-suggestions/",
+          "publishedOn": "2025-12-02T03:00:02.000Z",
+          "wordCount": 4507,
+          "title": "Course of the Year 2025: Submit your suggestions!",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/11/course20225-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21305",
           "author": "Jan Kocbach",
           "description": "The 19th edition of the traditional Route to Christmas here at World of O starts with a long and interesting leg from the Czech race INOV-8 CUP organized in north-eastern Czechia in early September. Straight or around – climb or not? Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good ...",
@@ -129,6 +149,26 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Find out what's on at this week's Park Street events\nPark Street Update, December 2-8 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-11-30T23:41:54.000Z",
+          "wordCount": 1246,
+          "title": "Park Street Update, December 2-8",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15211",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/joes-weeknight-training-alphington-thursday-4-december/",
+          "publishedOn": "2025-11-28T01:02:29.000Z",
+          "wordCount": 900,
+          "title": "Joe’s Weeknight Training, Alphington, Thursday 4 December",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=15014",
           "author": "Margi Freemantle",
@@ -608,6 +648,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15219",
+          "author": "Elizabeth L",
+          "description": "Selection Criteria for 2026 National Teams along with the 2026 Australian Teams Nomination Form are now available.\nSelection Criteria for 2026 National Teams first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/selection-criteria-for-2026-national-teams/",
+          "publishedOn": "2025-12-02T06:03:32.000Z",
+          "wordCount": 2359,
+          "title": "Selection Criteria for 2026 National Teams",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15186",
           "author": "Elizabeth L",

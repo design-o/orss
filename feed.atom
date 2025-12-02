@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T00:50:35.116Z</updated>
+    <updated>2025-12-02T06:17:19.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selection Criteria for 2026 National Teams]]></title>
+        <id>https://orienteering.asn.au/?p=15219</id>
+        <link href="https://orienteering.asn.au/selection-criteria-for-2026-national-teams/"/>
+        <updated>2025-12-02T06:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Selection Criteria for 2026 National Teams along with the 2026 Australian Teams Nomination Form are now available.
+Selection Criteria for 2026 National Teams first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 2 2025]]></title>
+        <id>http://news.worldofo.com/?p=21318</id>
+        <link href="https://news.worldofo.com/2025/12/02/route-to-christmas-day-2-2025/"/>
+        <updated>2025-12-02T03:00:30.000Z</updated>
+        <summary type="html"><![CDATA[For the second day of this years’ Route to Christmas 2025 we have chosen a very interesting leg from the Norwegian Championships Long distance. This is a long leg towards the end of a tough long distance race – with several bigger hills that you have to choose how to handle. The race was organized ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Course of the Year 2025: Submit your suggestions!]]></title>
+        <id>http://news.worldofo.com/?p=21260</id>
+        <link href="https://news.worldofo.com/2025/12/02/course-of-the-year-2025-submit-your-suggestions/"/>
+        <updated>2025-12-02T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[What was the best orienteering course of 2025? The middle distance race in Maximus O Meeting won in 2024, the World Champs middle distance in Switzerland won in 2023, the Pomeranian Sprint Cup won in 2022 and the WOC Long distance won in 2021. In the years before, we had a long distance race in Norway, the World Cup Final Middle in the Czech ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOF launches new “Gold” World Ranking Event status to elevate elite orienteering]]></title>
         <id>https://orienteering.sport/?p=80809</id>
@@ -34,6 +65,17 @@
         <summary type="html"><![CDATA[The 19th edition of the traditional Route to Christmas here at World of O starts with a long and interesting leg from the Czech race INOV-8 CUP organized in north-eastern Czechia in early September. Straight or around – climb or not? Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, December 2-8]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2025-11-30T23:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
+Park Street Update, December 2-8 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +136,15 @@
         <summary type="html"><![CDATA[Congratulations to the following juniors who have been selected to be part of the Scottish Junior Orienteering Squad (ScotJOS) for […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe’s Weeknight Training, Alphington, Thursday 4 December]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15211</id>
+        <link href="https://www.vicorienteering.asn.au/joes-weeknight-training-alphington-thursday-4-december/"/>
+        <updated>2025-11-28T01:02:29.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
