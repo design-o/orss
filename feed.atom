@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T12:21:00.581Z</updated>
+    <updated>2025-12-02T18:16:43.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -672,17 +672,6 @@ The post When the Going Gets Carntogher, the Tough Get Going appeared first on N
         <summary type="html"><![CDATA[IOF’s Foot Orienteering Commission and Rules Commission are organising an Event Adviser’s Clinic in Ankara, Türkiye from 21-22 February 2026. The Event Advisers’ Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Attendance at a clinic such […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melbourne City Race, 23 November 2025, Williamstown Seaport]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15095</id>
-        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/"/>
-        <updated>2025-11-03T03:07:09.000Z</updated>
-        <summary type="html"><![CDATA[The Melbourne City Race is back with more of what you love!  Get your entry in for MCR6 now
-Melbourne City Race, 23 November 2025, Williamstown Seaport first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
