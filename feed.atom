@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T18:16:43.107Z</updated>
+    <updated>2025-12-03T00:50:06.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -431,6 +431,17 @@ OA Workshop #2 – Great Organisation: Governance & Finance first appeared on Or
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15095</id>
+        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/"/>
+        <updated>2025-11-16T03:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Click here to see the results, the maps, the photos, and the Teams Challenge final scores
+Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A fantastic weekend of student orienteering]]></title>
         <id>https://www.scottish-orienteering.org/?p=56376</id>
         <link href="https://www.scottish-orienteering.org/news/a-fantastic-weekend-of-student-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-fantastic-weekend-of-student-orienteering"/>
@@ -662,16 +673,6 @@ The post When the Going Gets Carntogher, the Tough Get Going appeared first on N
         <summary type="html"><![CDATA[Each year in October, we send our best and brightest to compete for Ireland at the Junior Home International – the annual competition between England, Ireland, Scotland and Wales. Traditionally, its actually two sub-competitions – England usually competing closely with Scotland for the overall win, and Ireland competing with Wales for the Judith Wingham Trophy. […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join the FootO Event Adviser’s Clinic in Türkiye from 21-22 February 2026]]></title>
-        <id>https://orienteering.sport/?p=80707</id>
-        <link href="https://orienteering.sport/join-the-footo-event-advisers-clinic-in-turkiye-from-21-22-february-2026/"/>
-        <updated>2025-11-03T11:12:17.000Z</updated>
-        <summary type="html"><![CDATA[IOF’s Foot Orienteering Commission and Rules Commission are organising an Event Adviser’s Clinic in Ankara, Türkiye from 21-22 February 2026. The Event Advisers’ Clinic is organised for the education and recruitment of new IOF licensed Foot Orienteering Event Advisers. National orienteering federations are asked to identify and enter suitable candidates. Attendance at a clinic such […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
