@@ -103,6 +103,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21323",
+          "author": "Jan Kocbach",
+          "description": "In today’s leg in Route to Christmas 2025 we travel all the way to New Zealand! Here we offer a long leg from the JWOC trials and South Islands Championships in February. On this leg there were lots of different alternatives chosen by the runners – showing “a rainbow across the map”. Thanks a lot ...",
+          "link": "https://news.worldofo.com/2025/12/03/route-to-christmas-day-3-2025/",
+          "publishedOn": "2025-12-03T03:00:17.000Z",
+          "wordCount": 2257,
+          "title": "Route to Christmas: Day 3 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/taitongalong2025_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21318",
           "author": "Jan Kocbach",
           "description": "For the second day of this years’ Route to Christmas 2025 we have chosen a very interesting leg from the Norwegian Championships Long distance. This is a long leg towards the end of a tough long distance race – with several bigger hills that you have to choose how to handle. The race was organized ...",
@@ -147,6 +157,26 @@
           "publishedOn": "2025-11-30T23:41:54.000Z",
           "wordCount": 1246,
           "title": "Park Street Update, December 2-8",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15215",
+          "author": "Debbie Dodd",
+          "description": "Enjoy a look back and a look forward, by viewing the latest OV Yearbook, and the 2026 Calendar\nOrienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/orienteering-victoria-yearbook-and-2026-calendar-now-available/",
+          "publishedOn": "2025-11-29T01:30:09.000Z",
+          "wordCount": 996,
+          "title": "Orienteering Victoria Yearbook and 2026 Calendar Now Available",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15117",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/central-highlands-twilight-orienteering-kyneton-wednesday-12-november/",
+          "publishedOn": "2025-11-28T07:36:31.000Z",
+          "wordCount": 994,
+          "title": "Central Highlands Twilight Orienteering, Macedon, Wednesday 3 December",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -204,16 +234,6 @@
           "publishedOn": "2025-11-05T12:10:40.000Z",
           "wordCount": 784,
           "title": "Squad application for 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21661",
-          "author": "Deirdre",
-          "description": "Each year in October, we send our best and brightest to compete for Ireland at the Junior Home International – the annual competition between England, Ireland, Scotland and Wales. Traditionally, its actually two sub-competitions – England usually competing closely with Scotland for the overall win, and Ireland competing with Wales for the Judith Wingham Trophy. […]",
-          "link": "https://www.orienteering.ie/junior-home-international-2025/",
-          "publishedOn": "2025-11-03T15:29:06.000Z",
-          "wordCount": 1634,
-          "title": "Junior Home International 2025",
           "imageUrl": null
         }
       ]
