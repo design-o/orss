@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T06:16:33.563Z</updated>
+    <updated>2025-12-04T12:20:44.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Australia Celebrates its 200th General Board Meeting]]></title>
+        <id>https://orienteering.asn.au/?p=15230</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-celebrates-its-200th-general-board-meeting/"/>
+        <updated>2025-12-04T07:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia held it's 200th General Board Meeting! The board members in VIC were able to meet in Southbank, Melbourne and celebrate with a special treat for the occasion.
+Orienteering Australia Celebrates its 200th General Board Meeting first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 4 2025]]></title>
         <id>http://news.worldofo.com/?p=21328</id>
