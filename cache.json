@@ -103,6 +103,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21328",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2025 is a 3.4 km long leg from the men’s H21 class in the Finnish Championships Long distance, organized close to Tampere in early September 2025.  This very interesting course from the Finnish Champs Long was suggested by Joni Parviainen for Course of the Year 2025, and the 8th leg ...",
+          "link": "https://news.worldofo.com/2025/12/04/route-to-christmas-day-4-2025/",
+          "publishedOn": "2025-12-04T03:00:01.000Z",
+          "wordCount": 2198,
+          "title": "Route to Christmas: Day 4 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/finishchampslong2025_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21323",
           "author": "Jan Kocbach",
           "description": "In today’s leg in Route to Christmas 2025 we travel all the way to New Zealand! Here we offer a long leg from the JWOC trials and South Islands Championships in February. On this leg there were lots of different alternatives chosen by the runners – showing “a rainbow across the map”. Thanks a lot ...",
@@ -553,26 +563,6 @@
           "wordCount": 1921,
           "title": "Tinto Twin provides finale for 2025 Inter Club Champs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56341",
-          "author": "nikkihoward",
-          "description": "Each year, as part of the Junior Inter Area Weekend, we hold a dedicated Junior Feedback Session, where our junior […]",
-          "link": "https://www.scottish-orienteering.org/news/junior-inter-area-weekend-junior-feedback-session-2025/?utm_source=rss&utm_medium=rss&utm_campaign=junior-inter-area-weekend-junior-feedback-session-2025",
-          "publishedOn": "2025-11-04T15:50:47.000Z",
-          "wordCount": 1916,
-          "title": "Junior Inter Area Weekend: Junior Feedback Session 2025",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/IMG_1125-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56321",
-          "author": "nikkihoward",
-          "description": "Each year a Junior Inter Area event is held over one weekend, generally in October. The event consists of a […]",
-          "link": "https://www.scottish-orienteering.org/news/west-area-juniors-superior-navigation-in-the-inter-areas-competition/?utm_source=rss&utm_medium=rss&utm_campaign=west-area-juniors-superior-navigation-in-the-inter-areas-competition",
-          "publishedOn": "2025-11-04T15:27:09.000Z",
-          "wordCount": 2483,
-          "title": "West Juniors navigate to the top at Inter Areas",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/IMG_1101-1024x768.jpg"
         }
       ]
     },

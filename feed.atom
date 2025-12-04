@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T00:50:17.391Z</updated>
+    <updated>2025-12-04T06:16:33.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 4 2025]]></title>
+        <id>http://news.worldofo.com/?p=21328</id>
+        <link href="https://news.worldofo.com/2025/12/04/route-to-christmas-day-4-2025/"/>
+        <updated>2025-12-04T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a 3.4 km long leg from the men’s H21 class in the Finnish Championships Long distance, organized close to Tampere in early September 2025.  This very interesting course from the Finnish Champs Long was suggested by Joni Parviainen for Course of the Year 2025, and the 8th leg ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gift Aid – it only costs 5 minutes of your time!]]></title>
         <id>https://www.scottish-orienteering.org/?p=56461</id>
@@ -641,26 +651,6 @@ The post As Night Follows Day appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[Do you want to be part of the senior squad next year? You can access the form via the link below. Please complete the form by November 30th to receive information via the squad email list and WhatsApp group. https://docs.google.com/forms/d/e/1FAIpQLScgM6BEZP-62JT5f5HnBSKWfdWrJv4V7xvW3wHYEpudjRyFuQ/viewform]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Inter Area Weekend: Junior Feedback Session 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56341</id>
-        <link href="https://www.scottish-orienteering.org/news/junior-inter-area-weekend-junior-feedback-session-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-inter-area-weekend-junior-feedback-session-2025"/>
-        <updated>2025-11-04T15:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Each year, as part of the Junior Inter Area Weekend, we hold a dedicated Junior Feedback Session, where our junior […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[West Juniors navigate to the top at Inter Areas]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56321</id>
-        <link href="https://www.scottish-orienteering.org/news/west-area-juniors-superior-navigation-in-the-inter-areas-competition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=west-area-juniors-superior-navigation-in-the-inter-areas-competition"/>
-        <updated>2025-11-04T15:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Each year a Junior Inter Area event is held over one weekend, generally in October. The event consists of a […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
