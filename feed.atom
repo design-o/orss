@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T00:50:49.504Z</updated>
+    <updated>2025-12-05T06:16:45.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 5 2025]]></title>
+        <id>http://news.worldofo.com/?p=21333</id>
+        <link href="https://news.worldofo.com/2025/12/05/route-to-christmas-day-5-2025/"/>
+        <updated>2025-12-05T03:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a very interesting leg from the Junior European Orienteering Cup (JEC) in Loch Ard Forest in Scotland this autumn. This is slow terrain, but it looks very long to go around – what would you choose? This course was suggested by Ivar Lundanes as his candidate for “The Course ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Australia Celebrates its 200th General Board Meeting]]></title>
         <id>https://orienteering.asn.au/?p=15230</id>
@@ -642,16 +652,6 @@ The post As Night Follows Day appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[The Scottish Inter Club Championships which is held over twelve geographically distributed events over the course of the year allows […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Independent Investigation Panel begins its work]]></title>
-        <id>https://orienteering.sport/?p=80714</id>
-        <link href="https://orienteering.sport/independent-investigation-panel-begins-its-work/"/>
-        <updated>2025-11-05T13:26:59.000Z</updated>
-        <summary type="html"><![CDATA[The independent investigation panel that was appointed by the IOF Council following the tragic death of Italian athlete Mattia Debertolis has now begun its work. The panel is tasked to investigate and assess the Middle distance competition at the World Games in Chengdu, China in August 2025. It consists of Leanne O’Leary (chairperson), Mats Börjesson […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

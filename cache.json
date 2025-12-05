@@ -84,16 +84,6 @@
           "wordCount": 1330,
           "title": "IOF highest-scoring federation in international governance review",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/11/2025_governance_chart-1024x756.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80714",
-          "author": "Erling Thisted",
-          "description": "The independent investigation panel that was appointed by the IOF Council following the tragic death of Italian athlete Mattia Debertolis has now begun its work. The panel is tasked to investigate and assess the Middle distance competition at the World Games in Chengdu, China in August 2025. It consists of Leanne O’Leary (chairperson), Mats Börjesson […]",
-          "link": "https://orienteering.sport/independent-investigation-panel-begins-its-work/",
-          "publishedOn": "2025-11-05T13:26:59.000Z",
-          "wordCount": 1234,
-          "title": "Independent Investigation Panel begins its work",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2020/08/news_iof_logo_500px2.jpg"
         }
       ]
     },
@@ -102,6 +92,16 @@
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
       "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21333",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2025 is a very interesting leg from the Junior European Orienteering Cup (JEC) in Loch Ard Forest in Scotland this autumn. This is slow terrain, but it looks very long to go around – what would you choose? This course was suggested by Ivar Lundanes as his candidate for “The Course ...",
+          "link": "https://news.worldofo.com/2025/12/05/route-to-christmas-day-5-2025/",
+          "publishedOn": "2025-12-05T03:00:59.000Z",
+          "wordCount": 2153,
+          "title": "Route to Christmas: Day 5 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/jeclong2025_x_x_blank_s-590x330.jpg"
+        },
         {
           "id": "http://news.worldofo.com/?p=21328",
           "author": "Jan Kocbach",
