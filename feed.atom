@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T00:47:14.157Z</updated>
+    <updated>2025-12-06T06:14:29.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 6 2025]]></title>
+        <id>http://news.worldofo.com/?p=21339</id>
+        <link href="https://news.worldofo.com/2025/12/06/route-to-christmas-day-6-2025/"/>
+        <updated>2025-12-06T03:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a leg from a night orienteering competition in pretty tricky terrain – here you really have to focus. The leg is from the Norwegian Championships Night Orienteering.  Thanks a lot to Halvor for suggestion this course as a candidate for Course of the Year 2025 – that’s how ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 5 2025]]></title>
         <id>http://news.worldofo.com/?p=21333</id>
