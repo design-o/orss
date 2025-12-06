@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T18:14:14.699Z</updated>
+    <updated>2025-12-06T00:47:14.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -632,26 +632,6 @@ The post As Night Follows Day appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[Map Downloads Available! 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could the format of Scottish Inter Club Championships be improved?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56357</id>
-        <link href="https://www.scottish-orienteering.org/news/could-the-format-of-scottish-inter-club-championships-be-improved/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=could-the-format-of-scottish-inter-club-championships-be-improved"/>
-        <updated>2025-11-06T12:10:50.000Z</updated>
-        <summary type="html"><![CDATA[As many of you will know the Scottish Inter Club Championship has taken many forms over the years from a […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinto Twin provides finale for 2025 Inter Club Champs]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56351</id>
-        <link href="https://www.scottish-orienteering.org/news/tinto-twin-provides-finale-for-2025-inter-club-champs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tinto-twin-provides-finale-for-2025-inter-club-champs"/>
-        <updated>2025-11-06T11:22:28.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Inter Club Championships which is held over twelve geographically distributed events over the course of the year allows […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
