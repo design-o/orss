@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T00:55:45.756Z</updated>
+    <updated>2025-12-07T06:14:31.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 7 2025]]></title>
+        <id>http://news.worldofo.com/?p=21343</id>
+        <link href="https://news.worldofo.com/2025/12/07/route-to-christmas-day-7-2025/"/>
+        <updated>2025-12-07T03:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is from the 7th race of the Swedish League in June – and this time we take a look at a tricky leg in the women’s class. This is actually the first tip we received in Route to Christmas 2025 – back in the start of  June from Sindre ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 6 2025]]></title>
         <id>http://news.worldofo.com/?p=21339</id>
