@@ -263,6 +263,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23856",
+          "author": "Paul Street",
+          "description": "Thanks to Guildford Orienteers for hosting our club champs at Newlands Corner today. Full results of the event can be found at the GO Website. [...]",
+          "link": "https://slow.org.uk/clubnews/club-championships-2025/",
+          "publishedOn": "2025-12-07T22:03:43.000Z",
+          "wordCount": 2083,
+          "title": "Club Championships 2025",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/club-championships-2025/files/ClubChampsStart-Dec25_RW.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23842",
           "author": "Steve Clelland",
           "description": "Saturday 17th January 2026 at 11.00am 44th edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]",
