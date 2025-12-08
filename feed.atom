@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-08T00:51:23.325Z</updated>
+    <updated>2025-12-08T06:19:14.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 8 2025]]></title>
+        <id>http://news.worldofo.com/?p=21350</id>
+        <link href="https://news.worldofo.com/2025/12/08/route-to-christmas-day-8-2025/"/>
+        <updated>2025-12-08T03:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is from Italy – a country we visit every pre-Christmas! This time we have chosen a long leg in very hilly terrain that challenged the world’s best junior orienteers at the Junior Orienteering World Championships this July. Thank you very much to Terje Mathisen for the excellent tip! The ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Club Championships 2025]]></title>
         <id>https://slow.org.uk/?p=23856</id>
@@ -652,16 +662,6 @@ The post As Night Follows Day appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[The International Orienteering Federation achieved the highest score among 29 international sports federations in a review of the federations’ governance, which was released in connection with the International Federation Forum in Switzerland at the end of October. The review was conducted by the sports governance consultancy “I Trust Sport” among participating federations under the Association […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Map Download | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></title>
-        <id>https://neooc.com/?p=49246</id>
-        <link href="https://neooc.com/map-download-2025-girdled-road-self-serve-lake-metroparks-november-8th-thru-16th/"/>
-        <updated>2025-11-08T16:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Map Downloads Available! 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
 </feed>

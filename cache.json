@@ -93,6 +93,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21350",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas is from Italy – a country we visit every pre-Christmas! This time we have chosen a long leg in very hilly terrain that challenged the world’s best junior orienteers at the Junior Orienteering World Championships this July. Thank you very much to Terje Mathisen for the excellent tip! The ...",
+          "link": "https://news.worldofo.com/2025/12/08/route-to-christmas-day-8-2025/",
+          "publishedOn": "2025-12-08T03:00:05.000Z",
+          "wordCount": 1989,
+          "title": "Route to Christmas: Day 8 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/jwoc2025long_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21343",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2025 is from the 7th race of the Swedish League in June – and this time we take a look at a tricky leg in the women’s class. This is actually the first tip we received in Route to Christmas 2025 – back in the start of  June from Sindre ...",
@@ -415,16 +425,6 @@
           "wordCount": 1624,
           "title": "Results| Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2020/10/Allardale_West.jpeg"
-        },
-        {
-          "id": "https://neooc.com/?p=49246",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Map Downloads Available! 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
-          "link": "https://neooc.com/map-download-2025-girdled-road-self-serve-lake-metroparks-november-8th-thru-16th/",
-          "publishedOn": "2025-11-08T16:16:50.000Z",
-          "wordCount": 1512,
-          "title": "Map Download | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
     },
