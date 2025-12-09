@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-09T00:50:40.682Z</updated>
+    <updated>2025-12-09T06:17:19.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 9 2025]]></title>
+        <id>http://news.worldofo.com/?p=21357</id>
+        <link href="https://news.worldofo.com/2025/12/09/route-to-christmas-day-9-2025/"/>
+        <updated>2025-12-09T03:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is an interesting long leg from the men’s Superelite in the Maximus O Meeting 2025, organized in Spain in the middle of February. Very stony terrain – and also quite hilly! What would you choose here? The leg is as usually first provided without routes – you may take ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 8 2025]]></title>
         <id>http://news.worldofo.com/?p=21350</id>
