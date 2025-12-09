@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-09T12:20:51.284Z</updated>
+    <updated>2025-12-09T18:13:37.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Didn’t We Have A Lovely Time The Day We Went To Bangor]]></title>
+        <id>https://www.niorienteering.org.uk/?p=6997</id>
+        <link href="https://www.niorienteering.org.uk/didnt-we-have-a-lovely-time-the-day-we-went-to-bangor/"/>
+        <updated>2025-12-09T16:07:23.000Z</updated>
+        <summary type="html"><![CDATA[The boats tied up are in the harbour and the results, complete with Routegadget and NI Urban League standings are posted following our delightful outing to Bangor on Saturday 28 November. Thanks to planner Richard Williamson and controller Ann Savage for courses taking us around...
+The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 9 2025]]></title>
         <id>http://news.worldofo.com/?p=21357</id>
