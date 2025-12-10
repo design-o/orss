@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-09T18:13:37.573Z</updated>
+    <updated>2025-12-10T00:52:03.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -673,16 +673,6 @@ The post As Night Follows Day appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[Recap and Results The weather was the weather.  The occasional light mist did not deter over 50 intrepid orienteers from our last live event for 2025. The post event gathering was popular as ever and everyone enjoyed discussing their runs and catching up with friends. We’re planning to do this event again next year, hope […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF highest-scoring federation in international governance review]]></title>
-        <id>https://orienteering.sport/?p=80729</id>
-        <link href="https://orienteering.sport/iof-highest-scoring-federation-in-international-governance-review/"/>
-        <updated>2025-11-10T09:57:03.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation achieved the highest score among 29 international sports federations in a review of the federations’ governance, which was released in connection with the International Federation Forum in Switzerland at the end of October. The review was conducted by the sports governance consultancy “I Trust Sport” among participating federations under the Association […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
