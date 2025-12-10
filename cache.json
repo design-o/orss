@@ -83,6 +83,26 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21361",
+          "author": "Jan Kocbach",
+          "description": "[See all nominations here] Thursday December 11th is the last chance to add suggestions to “Course of the Year 2025″. We already got nearly 50 nominations in the comments to the intro article  – most of these are high quality courses which will be part of the voting in “Course of the Year 2025″. Based on all the selected courses, WorldofO’s readers will be ...",
+          "link": "https://news.worldofo.com/2025/12/10/course-of-the-year-2025-last-chance-to-add-suggestions/",
+          "publishedOn": "2025-12-10T06:00:53.000Z",
+          "wordCount": 4289,
+          "title": "Course of the Year 2025: Last chance to add suggestions!",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/65625afe-d463-43a3-b7b9-0ba9e93454bb-660x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=21365",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2025 is from a really cool terrain in southern France. Looking at the map you get the feeling that this is an artifically generated map for theoretical route choice training, but this terrain and leg was actually used for second stage of the Provence Orienteering Meeting last February. Thanks a ...",
+          "link": "https://news.worldofo.com/2025/12/10/route-to-christmas-day-10-2025/",
+          "publishedOn": "2025-12-10T03:00:31.000Z",
+          "wordCount": 2142,
+          "title": "Route to Christmas: Day 10 2025",
+          "imageUrl": null
+        },
+        {
           "id": "http://news.worldofo.com/?p=21357",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas is an interesting long leg from the men’s Superelite in the Maximus O Meeting 2025, organized in Spain in the middle of February. Very stony terrain – and also quite hilly! What would you choose here? The leg is as usually first provided without routes – you may take ...",
@@ -189,6 +209,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15223",
+          "author": "Margi Freemantle",
+          "description": "In addition to the Park Street events here in Victoria, consider attending two carnivals in NSW this summer.\nEvents further afield this summer first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/events-further-afield-this-summer/",
+          "publishedOn": "2025-12-10T03:27:02.000Z",
+          "wordCount": 1048,
+          "title": "Events further afield this summer",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
@@ -415,16 +445,6 @@
           "wordCount": 1554,
           "title": "Results | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2025/10/GirdledRoadReservation.png"
-        },
-        {
-          "id": "https://neooc.com/?p=49265",
-          "author": "Jay Smink",
-          "description": "Recap and Results The weather was the weather.  The occasional light mist did not deter over 50 intrepid orienteers from our last live event for 2025. The post event gathering was popular as ever and everyone enjoyed discussing their runs and catching up with friends. We’re planning to do this event again next year, hope […]",
-          "link": "https://neooc.com/results-allardale-afternoon-o-allardale-park-medina-county-sunday-november-9th/",
-          "publishedOn": "2025-11-10T15:55:54.000Z",
-          "wordCount": 1624,
-          "title": "Results| Allardale Afternoon-O | Allardale Park – Medina County | Sunday, November 9th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2020/10/Allardale_West.jpeg"
         }
       ]
     },
