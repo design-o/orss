@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T06:18:12.645Z</updated>
+    <updated>2025-12-11T12:21:58.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -683,17 +683,6 @@ OA Workshop #1 – Great Events first appeared on Orienteering Australia.]]></su
         <summary type="html"><![CDATA[Accidental property Please check your belongings if you have accidentally picked up a black and white Petzl headtorch. Can you email to reunite it with [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Night Follows Day]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6883</id>
-        <link href="https://www.niorienteering.org.uk/as-night-follows-day/"/>
-        <updated>2025-11-11T19:20:06.000Z</updated>
-        <summary type="html"><![CDATA[It was a double header on Saturday 8 November with NI Colour Series 6 at Tyrella South followed by the 2025 NI Night Championships at Castlewellan Forest Park. The results for both events are at Fixtures & Results>2025 Results. Although the clocks have gone back...
-The post As Night Follows Day appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
