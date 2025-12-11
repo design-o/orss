@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T00:52:36.742Z</updated>
+    <updated>2025-12-11T06:18:12.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 11 2025]]></title>
+        <id>http://news.worldofo.com/?p=21368</id>
+        <link href="https://news.worldofo.com/2025/12/11/route-to-christmas-day-11-2025/"/>
+        <updated>2025-12-11T03:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is one of the courses that has been among the most popular in the nomination for Course of the Year 2025: The World Orienteering Championships Long distance. Note also that today is your last chance to add nominations for Course of the Year 2025, so time to head over ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Championships head to Grandtully in 2026]]></title>
         <id>https://www.scottish-orienteering.org/?p=56466</id>
@@ -684,26 +694,6 @@ OA Workshop #1 – Great Events first appeared on Orienteering Australia.]]></su
 The post As Night Follows Day appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young Orienteer of the Year 2025]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56372</id>
-        <link href="https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-orienteer-of-the-year-2025-3"/>
-        <updated>2025-11-11T16:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Having received 4 glowing testaments to youngsters who have contributed a huge amount to the sport through their volunteering, we […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 President’s Medal awarded to Dave Kershaw]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56369</id>
-        <link href="https://www.scottish-orienteering.org/news/2025-presidents-medal-awarded-to-dave-kershaw/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-presidents-medal-awarded-to-dave-kershaw"/>
-        <updated>2025-11-11T15:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Every year at the SOA AGM, the President’s medal is awarded to an individual, group or club for their services […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>

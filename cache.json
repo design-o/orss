@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21368",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2025 is one of the courses that has been among the most popular in the nomination for Course of the Year 2025: The World Orienteering Championships Long distance. Note also that today is your last chance to add nominations for Course of the Year 2025, so time to head over ...",
+          "link": "https://news.worldofo.com/2025/12/11/route-to-christmas-day-11-2025/",
+          "publishedOn": "2025-12-11T03:00:54.000Z",
+          "wordCount": 2010,
+          "title": "Route to Christmas: Day 11 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/woclongwomen2025_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21361",
           "author": "Jan Kocbach",
           "description": "[See all nominations here] Thursday December 11th is the last chance to add suggestions to “Course of the Year 2025″. We already got nearly 50 nominations in the comments to the intro article  – most of these are high quality courses which will be part of the voting in “Course of the Year 2025″. Based on all the selected courses, WorldofO’s readers will be ...",
@@ -572,26 +582,6 @@
           "wordCount": 1783,
           "title": "A fantastic weekend of student orienteering",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/580506361_18533484637013152_6786731926224642518_n-819x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56372",
-          "author": "nikkihoward",
-          "description": "Having received 4 glowing testaments to youngsters who have contributed a huge amount to the sport through their volunteering, we […]",
-          "link": "https://www.scottish-orienteering.org/news/young-orienteer-of-the-year-2025-3/?utm_source=rss&utm_medium=rss&utm_campaign=young-orienteer-of-the-year-2025-3",
-          "publishedOn": "2025-11-11T16:15:58.000Z",
-          "wordCount": 1671,
-          "title": "Young Orienteer of the Year 2025",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/IMG_2221-768x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56369",
-          "author": "nikkihoward",
-          "description": "Every year at the SOA AGM, the President’s medal is awarded to an individual, group or club for their services […]",
-          "link": "https://www.scottish-orienteering.org/news/2025-presidents-medal-awarded-to-dave-kershaw/?utm_source=rss&utm_medium=rss&utm_campaign=2025-presidents-medal-awarded-to-dave-kershaw",
-          "publishedOn": "2025-11-11T15:06:38.000Z",
-          "wordCount": 1610,
-          "title": "2025 President’s Medal awarded to Dave Kershaw",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/78f349c2-0efb-4ee5-935e-f32ef539610e.jpg"
         }
       ]
     },
