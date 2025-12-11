@@ -288,16 +288,6 @@
           "wordCount": 1114,
           "title": "Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15133",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/vale-robyn-sunderland/",
-          "publishedOn": "2025-11-12T02:46:24.000Z",
-          "wordCount": 995,
-          "title": "Vale Robyn Sunderland",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -305,13 +295,34 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21877",
+          "author": "Deirdre",
+          "description": "Orienteering Ireland selection policies for 2026 international events – World Orienteering Championships (WOC 2026), European Orienteering Championships (EOC 2025) and the World Cup 2026 rounds, have been finalised thanks to the three selectors Ciara Largey, Hugh Cashell and Shane Lynch. See the selection policies below:",
+          "link": "https://www.orienteering.ie/oi-selection-policies-for-woc2026-eoc2026-and-world-cups-2026/",
+          "publishedOn": "2025-12-11T15:38:21.000Z",
+          "wordCount": 819,
+          "title": "OI Selection Policies for WOC2026, EOC2026 and World Cups 2026",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "South London Orienteers",
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23880",
+          "author": "vinh",
+          "description": "Series results after race 4 is now available. See you at the next event in Waterloo 13th January.",
+          "link": "https://slow.org.uk/streeto/streeto-2526-race-4/",
+          "publishedOn": "2025-12-11T15:42:19.000Z",
+          "wordCount": 2003,
+          "title": "Street-O series results after race 4",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Fulham_StreetO_Landscape-e1642697756675.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23856",
           "author": "Paul Street",
@@ -371,16 +382,6 @@
           "wordCount": 2659,
           "title": "Waterloo Street-O, Tuesday 13 January",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/dollis-hill-street-o-23-results/files/IMG_6846.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=23756",
-          "author": "vinh",
-          "description": "Accidental property Please check your belongings if you have accidentally picked up a black and white Petzl headtorch. Can you email to reunite it with [...]",
-          "link": "https://slow.org.uk/streeto/highbury-street-o-25-results/",
-          "publishedOn": "2025-11-12T01:18:28.000Z",
-          "wordCount": 2168,
-          "title": "Highbury Street-O Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/raynes-park-street-o-24-results/files/StreetO_Mar2025_1.jpg"
         }
       ]
     },
