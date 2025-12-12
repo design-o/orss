@@ -64,16 +64,6 @@
           "wordCount": 1108,
           "title": "Ski Orienteering Event Advisers Clinic 2025/2026",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/01/2023_skio_wcr3_norway_erlingthisted-1024x683.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80742",
-          "author": "Erling Thisted",
-          "description": "With the prospect of increasingly warmer weather in the coming years and thus also orienteering competitions taking place in hot conditions, there is reason to prepare as best as possible. In September, the IOF introduced an interim Heat Policy – ​​find it here – which contains guidelines to ensure that competitions are not held in […]",
-          "link": "https://orienteering.sport/beat-the-heat-guides-athletes-in-competing-in-hot-weather/",
-          "publishedOn": "2025-11-12T13:12:43.000Z",
-          "wordCount": 1269,
-          "title": "“Beat the Heat” guides athletes in competing in hot weather",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/08/2024_eoc_midq_william_hollowell.jpg"
         }
       ]
     },
@@ -82,6 +72,26 @@
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
       "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21382",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas is from a course that was described as “the best long distance race that I have run” when the course was nominated for Course of the Year a few days ago. We are now through half of this year’s Route to Christmas legs – and we have also opened ...",
+          "link": "https://news.worldofo.com/2025/12/12/route-to-christmas-day-12-2024-2/",
+          "publishedOn": "2025-12-12T03:00:27.000Z",
+          "wordCount": 2245,
+          "title": "Route to Christmas: Day 12 2024",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/boclong2025women_x_x_blank_s-590x330.jpg"
+        },
+        {
+          "id": "http://news.worldofo.com/?p=21373",
+          "author": "Jan Kocbach",
+          "description": "What was the best orienteering course of 2025? Set up your personal Top 5 List from the nominated maps – and win prizes worth more than 7000 Euro from our sponsors! The nominated maps have been chosen based on submissions from the WorldofO.com readers including some of the world’s best orienteers. Now YOU can choose “The Course of ...",
+          "link": "https://news.worldofo.com/2025/12/12/vote-for-course-of-the-year-2025/",
+          "publishedOn": "2025-12-12T03:00:13.000Z",
+          "wordCount": 4090,
+          "title": "Vote for Course of the Year 2025!",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/votenow2025_collage_1-660x330.jpg"
+        },
         {
           "id": "http://news.worldofo.com/?p=21368",
           "author": "Jan Kocbach",
