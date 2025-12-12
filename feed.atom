@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T12:21:00.631Z</updated>
+    <updated>2025-12-12T18:16:06.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December Community Conversation Summary: Charting a Safer Course for Orienteering]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56471</id>
+        <link href="https://www.scottish-orienteering.org/news/december-community-conversation-summary-charting-a-safer-course-for-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=december-community-conversation-summary-charting-a-safer-course-for-orienteering"/>
+        <updated>2025-12-12T14:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Last night, we held our December Community Conversation focused on safety within our sport. The meeting was led by the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making a List, Checking it Twice]]></title>
         <id>https://www.niorienteering.org.uk/?p=7003</id>
