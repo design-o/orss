@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T06:17:47.027Z</updated>
+    <updated>2025-12-12T12:21:00.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making a List, Checking it Twice]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7003</id>
+        <link href="https://www.niorienteering.org.uk/making-a-list-checking-it-twice/"/>
+        <updated>2025-12-12T10:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a few orienteering gift suggestions? A Sport Ident card or “dibber” either SIAC (touch free) or conventional. A subscription to CompassSport, the independent glossy UK focused magazine. Be sure to claim your membership discount. Sports shoes from Sport Shoes, with your...
+The post Making a List, Checking it Twice appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 12 2024]]></title>
         <id>http://news.worldofo.com/?p=21382</id>
@@ -694,17 +705,6 @@ Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report firs
 The post Go Gortin appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OA Workshop #1 – Great Events]]></title>
-        <id>https://orienteering.asn.au/?p=15067</id>
-        <link href="https://orienteering.asn.au/oa-workshop-1-great-events/"/>
-        <updated>2025-11-13T00:11:53.000Z</updated>
-        <summary type="html"><![CDATA[OA Workshop 1 via Zoom will be covering Great Events on Monday 17th November at 7:30pm EADT.
-OA Workshop #1 – Great Events first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
