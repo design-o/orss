@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T18:16:06.699Z</updated>
+    <updated>2025-12-13T00:49:02.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -704,17 +704,6 @@ Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report firs
         <summary type="html"><![CDATA[The student orienteering community came together with great spirit on the weekend of 8-9 November for the Scottish Student Champs […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Gortin]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6920</id>
-        <link href="https://www.niorienteering.org.uk/go-gortin/"/>
-        <updated>2025-11-13T11:03:34.000Z</updated>
-        <summary type="html"><![CDATA[The final colour series of 2026 is fast approaching at Gortin Glen Forest Park on Saturday 22 November, hosted by Fermanagh Orienteers. All the details are on the event page on the FermO website. Do get your entry in on SIEntries now, as entries close...
-The post Go Gortin appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
