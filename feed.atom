@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-13T00:49:02.123Z</updated>
+    <updated>2025-12-13T06:15:22.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 13 2025]]></title>
+        <id>http://news.worldofo.com/?p=21387</id>
+        <link href="https://news.worldofo.com/2025/12/13/route-to-christmas-day-13-2025/"/>
+        <updated>2025-12-13T03:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is something very different from what we have seen so far – today we travel to Switzerland for a Sprint leg. Thanks a lot to Silvan Ullmann, course setter at the Knock-Out sprint at the World Cup final, for a very long and detailed analysis of one of the legs ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[December Community Conversation Summary: Charting a Safer Course for Orienteering]]></title>
         <id>https://www.scottish-orienteering.org/?p=56471</id>
@@ -694,16 +704,6 @@ OA Workshop #2 – Great Organisation: Governance & Finance first appeared on Or
 Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fantastic weekend of student orienteering]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56376</id>
-        <link href="https://www.scottish-orienteering.org/news/a-fantastic-weekend-of-student-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-fantastic-weekend-of-student-orienteering"/>
-        <updated>2025-11-13T16:54:51.000Z</updated>
-        <summary type="html"><![CDATA[The student orienteering community came together with great spirit on the weekend of 8-9 November for the Scottish Student Champs […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>
