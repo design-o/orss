@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T12:22:13.999Z</updated>
+    <updated>2025-12-15T18:17:01.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -733,17 +733,6 @@ OA Workshop #2 – Great Organisation: Governance & Finance first appeared on Or
         <summary type="html"><![CDATA[COURSES ARE CLOSED AND FLAGS ARE BEING COLLECTED PLEASE REPORT ANY MORE RESULTS VIA FORM or REGISTRAR AT THIS LINK “FINAL” RESULTS HERE Huge Thanks to Lake County MetroParks for their support! And Thanks to our Volunteers and Participants! Event Personnel Event Director:  Jonathan Boyer Course Setters / Collectors:  Michael Semick and Christa Petryszyn Registrar:  […]]]></summary>
         <author>
             <name>Frederick Mailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15095</id>
-        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/"/>
-        <updated>2025-11-16T03:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Click here to see the results, the maps, the photos, and the Teams Challenge final scores
-Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
