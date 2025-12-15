@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T18:15:04.542Z</updated>
+    <updated>2025-12-15T00:54:42.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ukrainians Dominate at Deaflympics in Tokyo as Imperial Guests Cheer in Sign Language]]></title>
+        <id>https://orienteering.sport/?p=80838</id>
+        <link href="https://orienteering.sport/ukrainians-dominate-at-deaflympics-in-tokyo-as-imperial-guests-cheer-in-sign-language/"/>
+        <updated>2025-12-14T21:50:13.000Z</updated>
+        <summary type="html"><![CDATA[The orienteering events at the 25th Summer Deaflympics in Tokyo concluded in November, showcasing a spectacular display of navigation skills across two contrasting terrains. While the competition saw athletes from around the world tackle six medal events, the headlines belonged to the formidable Ukrainian team, whose dominance was on full display in front of enthusiastic […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 14 2025]]></title>
         <id>http://news.worldofo.com/?p=21390</id>
