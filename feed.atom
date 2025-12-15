@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T00:54:42.346Z</updated>
+    <updated>2025-12-15T06:19:07.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 15 2025]]></title>
+        <id>http://news.worldofo.com/?p=21398</id>
+        <link href="https://news.worldofo.com/2025/12/15/route-to-christmas-day-15-2025/"/>
+        <updated>2025-12-15T03:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a leg from the French Championships Long distance in hilly terrain which gives some nice opportunities for route choices. The tip from Eva Jurenikova from this competition was actually for another leg (leg 11, M21), but after reviewing the course I decided that the third leg in ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Event | 2026 Snow-O at Camp Butler | January 17, 2026]]></title>
+        <id>https://neooc.com/?p=49330</id>
+        <link href="https://neooc.com/new-event-2026-snow-o-at-camp-butler-january-17-2026/"/>
+        <updated>2025-12-15T02:02:20.000Z</updated>
+        <summary type="html"><![CDATA[2026 Snow-O at Camp Butler | January 17, 2026]]></summary>
+        <author>
+            <name>Jay Smink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukrainians Dominate at Deaflympics in Tokyo as Imperial Guests Cheer in Sign Language]]></title>
         <id>https://orienteering.sport/?p=80838</id>
