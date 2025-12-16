@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T18:17:01.435Z</updated>
+    <updated>2025-12-16T00:52:46.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -340,6 +340,17 @@ Selection Criteria for 2026 National Teams first appeared on Orienteering Austra
         <summary type="html"><![CDATA[Last week, the International University Sports Federation (FISU) awarded the organisation of the 33rd Winter Universiade to Changchun, Jilin Province in Northern China. The Games will feature the best student-athletes from over 50 countries and five continents from 15-25 January, 2027. For Ski Orienteering, it will be the third time that the sport is part […]]]></summary>
         <author>
             <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15095</id>
+        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/"/>
+        <updated>2025-12-01T03:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Click here to see the results, the maps, the photos, and the Teams Challenge final scores
+Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
