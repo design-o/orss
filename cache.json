@@ -290,6 +290,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15234",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/merry-christmas-from-orienteering-victoria/",
+          "publishedOn": "2025-12-07T06:25:27.000Z",
+          "wordCount": 1001,
+          "title": "Merry Christmas from Orienteering Victoria",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15095",
           "author": "Debbie Dodd",
           "description": "Click here to see the results, the maps, the photos, and the Teams Challenge final scores\nMelbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.",
@@ -356,6 +366,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=21933",
+          "author": "Operations Manager",
+          "description": "Draft event information has now been published to the event website which outlines course lengths. A previous map of the University of Limerick has also been uploaded. Entries for the festical will open on SI Entries soon. Our High Performance Squad will also be running a raffle as a fundraiser for the squad in the […]",
+          "link": "https://www.orienteering.ie/irish-sprint-championships-2026-hit-the-town-festival/",
+          "publishedOn": "2025-12-16T10:59:09.000Z",
+          "wordCount": 815,
+          "title": "Irish Sprint Championships 2026 (Hit-the-Town Festival)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=21877",
           "author": "Deirdre",
@@ -432,16 +452,6 @@
           "wordCount": 2180,
           "title": "Annual Club Championships",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/clubnews-racereports/club-champs/files/20221210_ClubChampsPhoto.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=23790",
-          "author": "vinh",
-          "description": "Welcome to 2026! Come along to the first of the new year of the 2025-26 Street-O series. We will be around the Lambeth North/ Waterloo [...]",
-          "link": "https://slow.org.uk/streeto/waterloo-street-o-25/",
-          "publishedOn": "2025-11-16T23:16:59.000Z",
-          "wordCount": 2659,
-          "title": "Waterloo Street-O, Tuesday 13 January",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/dollis-hill-street-o-23-results/files/IMG_6846.jpg"
         }
       ]
     },
@@ -526,16 +536,6 @@
           "wordCount": 1621,
           "title": "That’s a wrap! | End of the 2025 Orienteering Season | NEOOC",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=49319",
-          "author": "Frederick Mailey",
-          "description": "COURSES ARE CLOSED AND FLAGS ARE BEING COLLECTED PLEASE REPORT ANY MORE RESULTS VIA FORM or REGISTRAR AT THIS LINK “FINAL” RESULTS HERE Huge Thanks to Lake County MetroParks for their support! And Thanks to our Volunteers and Participants! Event Personnel Event Director:  Jonathan Boyer Course Setters / Collectors:  Michael Semick and Christa Petryszyn Registrar:  […]",
-          "link": "https://neooc.com/results-2025-girdled-road-self-serve-lake-metroparks-november-8th-thru-16th/",
-          "publishedOn": "2025-11-16T20:48:54.000Z",
-          "wordCount": 1554,
-          "title": "Results | 2025 Girdled Road Self Serve | Lake Metroparks | November 8th thru 16th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2025/10/GirdledRoadReservation.png"
         }
       ]
     },
