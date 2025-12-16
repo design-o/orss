@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T12:21:53.780Z</updated>
+    <updated>2025-12-16T18:16:41.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -742,17 +742,6 @@ OA Workshop #2 – Great Organisation: Governance & Finance first appeared on Or
         <summary type="html"><![CDATA[South London Orienteers Annual Club Championships Sunday 7th December 2025 at Newlands Corner, thanks to Guildfford Orienteers There is a GO page with event details [...]]]></summary>
         <author>
             <name>Eloise Lardet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Victorian Sprint Champs, Sunday 30 November – Entries Now Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15014</id>
-        <link href="https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/"/>
-        <updated>2025-11-17T04:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the last major event for 2025, the Victorian Sprint Champs at RMIT Bundoora.  Two races for the price of one!
-2025 Victorian Sprint Champs, Sunday 30 November – Entries Now Open first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
 </feed>
