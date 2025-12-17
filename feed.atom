@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T06:17:35.805Z</updated>
+    <updated>2025-12-17T12:21:13.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make sure you know what is included in the World Anti Doping Prohibited List for 2026]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56486</id>
+        <link href="https://www.scottish-orienteering.org/news/make-sure-you-know-what-is-included-in-the-world-anti-doping-prohibited-list-for-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=make-sure-you-know-what-is-included-in-the-world-anti-doping-prohibited-list-for-2026"/>
+        <updated>2025-12-17T11:47:34.000Z</updated>
+        <summary type="html"><![CDATA[The World Anti-Doping Agency recently released the 2026 Prohibited List, which comes into effect on 1 January 2026. The Prohibited […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Download]]></title>
+        <id>https://www.orienteering.ie/?p=21936</id>
+        <link href="https://www.orienteering.ie/the-download/"/>
+        <updated>2025-12-17T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out our new quarterly bulletin where we give an overview of what’s been happening in orienteering across Ireland. The bulletin gives an insight to activities at club, national squads, NGB and at local level with the Local Sports Partnerships. Download the bulletin here!]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 17 2025]]></title>
         <id>http://news.worldofo.com/?p=21422</id>
@@ -753,17 +773,6 @@ The post Bangor By The Sea appeared first on NI Orienteering Association.]]></su
         <summary type="html"><![CDATA[Our final event for 2025 has come to a close. We hope everyone that came to the Girdled Road Self-Serve Event had a great time in the woods. We hope to see you all April 2026 when we will have a full event and new courses at Girdled Road to challenge you with! A special […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OA Workshop #2 – Great Organisation: Governance & Finance]]></title>
-        <id>https://orienteering.asn.au/?p=15070</id>
-        <link href="https://orienteering.asn.au/oa-workshop-2-great-organisation-governance-finance/"/>
-        <updated>2025-11-17T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OA Workshop 2 via Zoom will be covering Great Organisation: Governance & Finance on Monday 24th November at 7:30pm EADT.
-OA Workshop #2 – Great Organisation: Governance & Finance first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
