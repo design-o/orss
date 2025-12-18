@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21434",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2025 is a long leg from the 3+3 Long distance in Sälen, Sweden this summer – and the same leg was used both in the men’s and women’s elite course. This one looks fun and challenging! Thanks a lot to Hugo Claesson and Eva Jurenikova for the tip. This course ...",
+          "link": "https://news.worldofo.com/2025/12/18/route-to-christmas-day-18-2025/",
+          "publishedOn": "2025-12-18T03:00:49.000Z",
+          "wordCount": 2189,
+          "title": "Route to Christmas: Day 18 2025",
+          "imageUrl": null
+        },
+        {
           "id": "http://news.worldofo.com/?p=21422",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2025 is an epic 3.8 km long leg from the “long night” of the largest international orienteering relay, Jukola. And what a leg – here you can get mentally exhausted just by trying to figure out where to run!  Thanks a lot to Agnar Reolen for the tip! Another reason for ...",
@@ -536,16 +546,6 @@
           "wordCount": 1558,
           "title": "New Event | 2026 Snow-O at Camp Butler | January 17, 2026",
           "imageUrl": "https://neooc.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-13-2025-03_17_21-PM.png"
-        },
-        {
-          "id": "https://neooc.com/?p=49324",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Our final event for 2025 has come to a close. We hope everyone that came to the Girdled Road Self-Serve Event had a great time in the woods. We hope to see you all April 2026 when we will have a full event and new courses at Girdled Road to challenge you with! A special […]",
-          "link": "https://neooc.com/thats-a-wrap-end-of-the-2025-orienteering-season-neooc/",
-          "publishedOn": "2025-11-18T15:14:17.000Z",
-          "wordCount": 1621,
-          "title": "That’s a wrap! | End of the 2025 Orienteering Season | NEOOC",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
     },
