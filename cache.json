@@ -659,46 +659,6 @@
           "wordCount": 2234,
           "title": "Bulletin 1 / Nationals 2026",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/12/Nats26-event-details-Bulletin-1-FB.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64666",
-          "author": "Christo Peters",
-          "description": "The European Youth Orienteering Championships (EYOC) 2026 are scheduled to be held in Nova Gorica, Slovenia from 25-27 June 2026. EYOC will consist of individual Sprint and Long distance races, and a Forest Relay. Classes are: New Zealand is entitled to enter up to 4 athletes in each class. Selection Criteria As per the Orienteering […]\nSelection Notice – European Youth Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-european-youth-orienteering-championships-2026/",
-          "publishedOn": "2025-11-19T04:13:57.000Z",
-          "wordCount": 2489,
-          "title": "Selection Notice – European Youth Orienteering Championships 2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/EYOC-Logo-2026.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64663",
-          "author": "Christo Peters",
-          "description": "The World University Orienteering Championships (WUOC) 2026 are scheduled to be held in Vila Real, Portugal from 28 July – 1 August 2026. WUOC will consist of individual Sprint and Middle distance races, a Sprint Relay and a Forest Relay*. Competitors must satisfy the following condition: Classes are: New Zealand is entitled to enter up […]\nSelection Notice – World University Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-world-university-orienteering-championships-2026/",
-          "publishedOn": "2025-11-19T04:09:09.000Z",
-          "wordCount": 2560,
-          "title": "Selection Notice – World University Orienteering Championships 2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/WUOC-Logo-2026.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64660",
-          "author": "Christo Peters",
-          "description": "The Junior World Orienteering Championships (JWOC) 2026 are scheduled to be held in Karlskrona, Sweden from 29 June – 4 July 2026. JWOC will consist of individual Sprint, Middle, and Long distance races, a Sprint Relay and a Forest Relay. Classes are: New Zealand is entitled to enter up to 6 athletes in each class. […]\nSelection Notice – Junior World Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-junior-world-orienteering-championships-2026/",
-          "publishedOn": "2025-11-19T04:04:02.000Z",
-          "wordCount": 2481,
-          "title": "Selection Notice – Junior World Orienteering Championships 2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/JWOC-2026-Logo.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64657",
-          "author": "Christo Peters",
-          "description": "The World Orienteering Championships (WOC) 2026 are scheduled to be held in Genova, Italy from 6-11 July 2026. WOC will consist of a sprint, a knock-out sprint, and a sprint relay. New Zealand is entitled to enter: Additionally, the current Regional (Oceania) Champions in each format, sprint and knock-out sprint, may be entered into the […]\nSelection Notice – World Orienteering Championships 2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-world-orienteering-championships-2026/",
-          "publishedOn": "2025-11-19T03:58:36.000Z",
-          "wordCount": 2511,
-          "title": "Selection Notice – World Orienteering Championships 2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/WOC-2026-Logo.png"
         }
       ]
     },
@@ -724,6 +684,46 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56511",
+          "author": "nikkihoward",
+          "description": "Do you have a passion for Orienteering and want to see high quality training delivered for young adult athletes who […]",
+          "link": "https://www.scottish-orienteering.org/news/join-the-journey-scottish-elite-and-development-squad-seds-co-ordinator/?utm_source=rss&utm_medium=rss&utm_campaign=join-the-journey-scottish-elite-and-development-squad-seds-co-ordinator",
+          "publishedOn": "2025-12-18T18:00:00.000Z",
+          "wordCount": 1701,
+          "title": "Join the Journey: Scottish Elite and Development Squad (SEDS) Co-ordinator",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2024/02/IMG20240215102206-1024x459.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56513",
+          "author": "nikkihoward",
+          "description": "The last Scottish Orienteering Urban League (SOUL) event of 2025 was hosted by Edinburgh Southern Orienteering Club at Newhaven this […]",
+          "link": "https://www.scottish-orienteering.org/news/2025-soul-winners-crowned-at-newhaven/?utm_source=rss&utm_medium=rss&utm_campaign=2025-soul-winners-crowned-at-newhaven",
+          "publishedOn": "2025-12-18T17:54:28.000Z",
+          "wordCount": 1486,
+          "title": "2025 SOUL winners crowned at Newhaven",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/MO_WO-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56502",
+          "author": "louise",
+          "description": "Scottish Orienteering recently delivered a practical orienteering taster session for secondary PE teaching students at the University of Stirling, giving […]",
+          "link": "https://www.scottish-orienteering.org/news/stirling-university-pe-students-get-a-taste-of-orienteering/?utm_source=rss&utm_medium=rss&utm_campaign=stirling-university-pe-students-get-a-taste-of-orienteering",
+          "publishedOn": "2025-12-18T16:55:03.000Z",
+          "wordCount": 1790,
+          "title": "Stirling University PE Students Get a Taste of Orienteering",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/Stirling-Uni-4_12_25-Alison-Murray-1-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56495",
+          "author": "louise",
+          "description": "Edinburgh Southern Orienteering Club (ESOC) has been trialling a new initiative, Ozone, aimed at supporting young juniors at local events […]",
+          "link": "https://www.scottish-orienteering.org/news/best-practice-esocs-ozone-engaging-young-juniors/?utm_source=rss&utm_medium=rss&utm_campaign=best-practice-esocs-ozone-engaging-young-juniors",
+          "publishedOn": "2025-12-18T14:59:35.000Z",
+          "wordCount": 1961,
+          "title": "Best Practice: ESOC’s Ozone – Engaging Young Juniors",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/image-5-1024x768.jpeg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56486",
           "author": "nikkihoward",
