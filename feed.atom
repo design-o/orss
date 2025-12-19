@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T06:17:12.778Z</updated>
+    <updated>2025-12-19T12:20:07.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hit-The-Town Orienteering Festival – ENTRIES OPEN]]></title>
+        <id>https://www.orienteering.ie/?p=21957</id>
+        <link href="https://www.orienteering.ie/hit-the-town-orienteering-festival-entries-open/"/>
+        <updated>2025-12-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Entries for the Hit-The-Town Orienteering Festival in Limerick are now OPEN!Enter online using SI Entries here! Early-bird prices available until 18 January 2026. Take part in the Irish Open Sprint Orienteering Championships, a fun two-person sprint relay, and an urban event in Limerick City this March! More info on the festival is available on the […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONZ DRAFT Junior Development Framework & Schools Strategy]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64879</id>
+        <link href="https://www.orienteering.org.nz/news/onz-draft-junior-development-framework-schools-strategy/"/>
+        <updated>2025-12-19T08:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Like our strategic plan, we thank our community  for sharing their thoughts through forums and direct feedback. Once approved, this document will guide ONZ’s development strategy in the school and U20 space. We welcome any final feedback to be considered at the ONZ Board meeting in the last week of January 2026. The strategy advocates […]
+ONZ DRAFT Junior Development Framework & Schools Strategy  first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONZ Strategic plan  |  2026-2030]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64876</id>
+        <link href="https://www.orienteering.org.nz/news/onz-strategic-plan-2026-2030/"/>
+        <updated>2025-12-19T07:38:38.000Z</updated>
+        <summary type="html"><![CDATA[We thank our community of passionate orienteers for sharing their thoughts so generously to enable this strategic plan to reflect what is important for our community. It’s a continuation of the previous strategic plan with emphasis on governance and processes, and maps and landowner relationships underpinning growth in participation and membership, club capability and performance […]
+ONZ Strategic plan  |  2026-2030 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 19 2025]]></title>
         <id>http://news.worldofo.com/?p=21438</id>
@@ -956,16 +988,6 @@ The Australian Orienteer: December Edition Now Online first appeared on Orientee
         <summary type="html"><![CDATA[We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join IOF’s High Level Event Seminar and Calendar Conference in February 2026]]></title>
-        <id>https://orienteering.sport/?p=80780</id>
-        <link href="https://orienteering.sport/join-iofs-high-level-event-seminar-and-calendar-conference-in-february-2026/"/>
-        <updated>2025-11-19T22:29:45.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation is pleased to invite to the 2026 High Level Event Seminar (HLES) and the first edition of the IOF Calendar Conference in Vilnius, Lithuania. The Calendar Conference takes place from 5-6 February 2026, while the HLES is held immediately after – from 6-8 February using the same venue, the Vilnius Park […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>

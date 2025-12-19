@@ -64,16 +64,6 @@
           "wordCount": 1552,
           "title": "IOF event advisers shared experience online",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/11/2025_eventadviserseminar-1024x574.png"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80780",
-          "author": "Erling Thisted",
-          "description": "The International Orienteering Federation is pleased to invite to the 2026 High Level Event Seminar (HLES) and the first edition of the IOF Calendar Conference in Vilnius, Lithuania. The Calendar Conference takes place from 5-6 February 2026, while the HLES is held immediately after – from 6-8 February using the same venue, the Vilnius Park […]",
-          "link": "https://orienteering.sport/join-iofs-high-level-event-seminar-and-calendar-conference-in-february-2026/",
-          "publishedOn": "2025-11-19T22:29:45.000Z",
-          "wordCount": 1248,
-          "title": "Join IOF’s High Level Event Seminar and Calendar Conference in February 2026",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2023/03/woc2022_sprintrelay_arena-1024x585.jpg"
         }
       ]
     },
@@ -407,6 +397,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=21957",
+          "author": "Operations Manager",
+          "description": "Entries for the Hit-The-Town Orienteering Festival in Limerick are now OPEN!Enter online using SI Entries here! Early-bird prices available until 18 January 2026. Take part in the Irish Open Sprint Orienteering Championships, a fun two-person sprint relay, and an urban event in Limerick City this March! More info on the festival is available on the […]",
+          "link": "https://www.orienteering.ie/hit-the-town-orienteering-festival-entries-open/",
+          "publishedOn": "2025-12-19T12:00:00.000Z",
+          "wordCount": 787,
+          "title": "Hit-The-Town Orienteering Festival – ENTRIES OPEN",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=21936",
           "author": "Operations Manager",
           "description": "Check out our new quarterly bulletin where we give an overview of what’s been happening in orienteering across Ireland. The bulletin gives an insight to activities at club, national squads, NGB and at local level with the Local Sports Partnerships. Download the bulletin here!",
@@ -490,6 +490,26 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64879",
+          "author": "Christo Peters",
+          "description": "Like our strategic plan, we thank our community  for sharing their thoughts through forums and direct feedback. Once approved, this document will guide ONZ’s development strategy in the school and U20 space. We welcome any final feedback to be considered at the ONZ Board meeting in the last week of January 2026. The strategy advocates […]\nONZ DRAFT Junior Development Framework & Schools Strategy  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/onz-draft-junior-development-framework-schools-strategy/",
+          "publishedOn": "2025-12-19T08:02:16.000Z",
+          "wordCount": 2297,
+          "title": "ONZ DRAFT Junior Development Framework & Schools Strategy",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/ONZ-large-logo.jpg"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64876",
+          "author": "Christo Peters",
+          "description": "We thank our community of passionate orienteers for sharing their thoughts so generously to enable this strategic plan to reflect what is important for our community. It’s a continuation of the previous strategic plan with emphasis on governance and processes, and maps and landowner relationships underpinning growth in participation and membership, club capability and performance […]\nONZ Strategic plan  |  2026-2030 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/onz-strategic-plan-2026-2030/",
+          "publishedOn": "2025-12-19T07:38:38.000Z",
+          "wordCount": 2240,
+          "title": "ONZ Strategic plan  |  2026-2030",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/12/98093c5d-29b6-8cb6-7403-9cbbf304b874.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=64870",
           "author": "Christo Peters",
