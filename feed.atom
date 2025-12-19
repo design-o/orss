@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T18:16:25.248Z</updated>
+    <updated>2025-12-19T00:52:47.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UN Resolution on promoting sustainability through sport]]></title>
+        <id>https://orienteering.sport/?p=80866</id>
+        <link href="https://orienteering.sport/un-resolution-on-promoting-sustainability-through-sport/"/>
+        <updated>2025-12-18T20:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Sport’s role in a sustainable world has received a new recognition with the approval of a Resolution by the United Nations Environment Assembly held in Nairobi, Kenya, 8-12 December 2025 Member States are encouraged to integrate sustainable development into sports-related national strategies, physical education curricula and the management of sporting programmes. The recognised role of […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join the Journey: Scottish Elite and Development Squad (SEDS) Co-ordinator]]></title>
         <id>https://www.scottish-orienteering.org/?p=56511</id>
@@ -936,16 +946,6 @@ The Australian Orienteer: December Edition Now Online first appeared on Orientee
         <summary type="html"><![CDATA[The International Orienteering Federation is pleased to invite to the 2026 High Level Event Seminar (HLES) and the first edition of the IOF Calendar Conference in Vilnius, Lithuania. The Calendar Conference takes place from 5-6 February 2026, while the HLES is held immediately after – from 6-8 February using the same venue, the Vilnius Park […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night Orienteering Season is here!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56386</id>
-        <link href="https://www.scottish-orienteering.org/news/night-orienteering-season-is-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=night-orienteering-season-is-here"/>
-        <updated>2025-11-19T11:31:28.000Z</updated>
-        <summary type="html"><![CDATA[Look out your headtorch as night orienteering season is upon us! As the nights draw in, many of us orienteers […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
 </feed>

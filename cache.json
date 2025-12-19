@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80866",
+          "author": "Erling Thisted",
+          "description": "Sport’s role in a sustainable world has received a new recognition with the approval of a Resolution by the United Nations Environment Assembly held in Nairobi, Kenya, 8-12 December 2025 Member States are encouraged to integrate sustainable development into sports-related national strategies, physical education curricula and the management of sporting programmes. The recognised role of […]",
+          "link": "https://orienteering.sport/un-resolution-on-promoting-sustainability-through-sport/",
+          "publishedOn": "2025-12-18T20:35:35.000Z",
+          "wordCount": 1267,
+          "title": "UN Resolution on promoting sustainability through sport",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_control_william_hollowell-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80838",
           "author": "Erling Thisted",
           "description": "The orienteering events at the 25th Summer Deaflympics in Tokyo concluded in November, showcasing a spectacular display of navigation skills across two contrasting terrains. While the competition saw athletes from around the world tackle six medal events, the headlines belonged to the formidable Ukrainian team, whose dominance was on full display in front of enthusiastic […]",
@@ -843,16 +853,6 @@
           "wordCount": 2175,
           "title": "Recruiting and retaining young adults through support from the SOA Development Fund",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/Motivational-Quote-instagram-Post-1024x1024.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56386",
-          "author": "heidi",
-          "description": "Look out your headtorch as night orienteering season is upon us! As the nights draw in, many of us orienteers […]",
-          "link": "https://www.scottish-orienteering.org/news/night-orienteering-season-is-here/?utm_source=rss&utm_medium=rss&utm_campaign=night-orienteering-season-is-here",
-          "publishedOn": "2025-11-19T11:31:28.000Z",
-          "wordCount": 2233,
-          "title": "Night Orienteering Season is here!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/image-1024x768.jpeg"
         }
       ]
     },
