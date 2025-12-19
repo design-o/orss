@@ -83,6 +83,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21438",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas is from the Victorian Long Distance Championships at Mount Korong in Australia. This was an epic competition with some extraordinary long legs!  The 5th and 9th leg are even more spectacular than the 4th leg chosen here, but I found the 4th leg more interesting for Route to Christmas ...",
+          "link": "https://news.worldofo.com/2025/12/19/route-to-christmas-day-19-2025/",
+          "publishedOn": "2025-12-19T03:00:46.000Z",
+          "wordCount": 2342,
+          "title": "Route to Christmas: Day 19 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/victorianlong2025_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21434",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas 2025 is a long leg from the 3+3 Long distance in Sälen, Sweden this summer – and the same leg was used both in the men’s and women’s elite course. This one looks fun and challenging! Thanks a lot to Hugo Claesson and Eva Jurenikova for the tip. This course ...",
@@ -677,6 +687,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=49423",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st",
+          "link": "https://neooc.com/new-event-sunny-lake-score-course-annual-club-meeting-saturday-feb-21st/",
+          "publishedOn": "2025-12-19T02:26:42.000Z",
+          "wordCount": 1567,
+          "title": "New Event | Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-13-2025-03_17_21-PM.png"
+        },
         {
           "id": "https://neooc.com/?p=49330",
           "author": "Jay Smink",
