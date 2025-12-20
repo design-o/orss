@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T00:48:37.457Z</updated>
+    <updated>2025-12-20T06:16:25.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 20 2025]]></title>
+        <id>http://news.worldofo.com/?p=21441</id>
+        <link href="https://news.worldofo.com/2025/12/20/route-to-christmas-day-20-2025/"/>
+        <updated>2025-12-20T03:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a leg in spectacular surroundings from the 7th Swiss National Event this year at Long Heinzenberg.  – A never before mapped gem with as always in the swiss mountains stunning surroundings and views, Silvan Ullmann wrote when nominating this course for Course of the Year 2025. – Many sections ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hit-The-Town Orienteering Festival – ENTRIES OPEN]]></title>
         <id>https://www.orienteering.ie/?p=21957</id>
@@ -958,26 +968,6 @@ The Australian Orienteer: December Edition Now Online first appeared on Orientee
         <summary type="html"><![CDATA[Each year in November, IOF Foot Orienteering Commission invites the event advisers for a seminar to support them in their work with IOF events throughout the work. This year was no exception – like in 2024, around 70 foot orienteering event advisers took part in the 2025 edition, that was held online during the weekend. […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brilliant Day at Hopetoun House – Celebrating Scottish Success at the British Schools Orienteering Championships]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56407</id>
-        <link href="https://www.scottish-orienteering.org/news/a-brilliant-day-at-hopetoun-house-celebrating-scottish-success-at-the-british-schools-orienteering-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-brilliant-day-at-hopetoun-house-celebrating-scottish-success-at-the-british-schools-orienteering-championships"/>
-        <updated>2025-11-20T15:54:15.000Z</updated>
-        <summary type="html"><![CDATA[On Sunday 16 November, in the stunning grounds of Hopetoun House near Edinburgh, Edinburgh Southern Orienteering Club hosted the British […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adult Beginners Brave the Elements at Hazlehead Coaching Day]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56391</id>
-        <link href="https://www.scottish-orienteering.org/news/adult-beginners-brave-the-elements-at-hazlehead-coaching-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=adult-beginners-brave-the-elements-at-hazlehead-coaching-day"/>
-        <updated>2025-11-20T13:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Eight adult beginners braved some very wet and wild conditions at Hazlehead Park, Aberdeen, on 25th October for a Scottish […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
 </feed>

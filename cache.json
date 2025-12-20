@@ -73,6 +73,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21441",
+          "author": "Jan Kocbach",
+          "description": "Today’s leg in Route to Christmas 2025 is a leg in spectacular surroundings from the 7th Swiss National Event this year at Long Heinzenberg.  – A never before mapped gem with as always in the swiss mountains stunning surroundings and views, Silvan Ullmann wrote when nominating this course for Course of the Year 2025. – Many sections ...",
+          "link": "https://news.worldofo.com/2025/12/20/route-to-christmas-day-20-2025/",
+          "publishedOn": "2025-12-20T03:00:56.000Z",
+          "wordCount": 2019,
+          "title": "Route to Christmas: Day 20 2025",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/swiss7nat2025_x_x_blank_s-590x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21438",
           "author": "Jan Kocbach",
           "description": "Today’s leg in Route to Christmas is from the Victorian Long Distance Championships at Mount Korong in Australia. This was an epic competition with some extraordinary long legs!  The 5th and 9th leg are even more spectacular than the 4th leg chosen here, but I found the 4th leg more interesting for Route to Christmas ...",
@@ -863,26 +873,6 @@
           "wordCount": 1532,
           "title": "ScotJOS selections for 2025/2026",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/10/PHOTO-2025-09-29-09-25-41-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56407",
-          "author": "louise",
-          "description": "On Sunday 16 November, in the stunning grounds of Hopetoun House near Edinburgh, Edinburgh Southern Orienteering Club hosted the British […]",
-          "link": "https://www.scottish-orienteering.org/news/a-brilliant-day-at-hopetoun-house-celebrating-scottish-success-at-the-british-schools-orienteering-championships/?utm_source=rss&utm_medium=rss&utm_campaign=a-brilliant-day-at-hopetoun-house-celebrating-scottish-success-at-the-british-schools-orienteering-championships",
-          "publishedOn": "2025-11-20T15:54:15.000Z",
-          "wordCount": 2375,
-          "title": "A Brilliant Day at Hopetoun House – Celebrating Scottish Success at the British Schools Orienteering Championships",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/ba6b0b45-e217-41fb-a2e1-b9a8d08fd844-1024x768.jpeg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56391",
-          "author": "louise",
-          "description": "Eight adult beginners braved some very wet and wild conditions at Hazlehead Park, Aberdeen, on 25th October for a Scottish […]",
-          "link": "https://www.scottish-orienteering.org/news/adult-beginners-brave-the-elements-at-hazlehead-coaching-day/?utm_source=rss&utm_medium=rss&utm_campaign=adult-beginners-brave-the-elements-at-hazlehead-coaching-day",
-          "publishedOn": "2025-11-20T13:35:20.000Z",
-          "wordCount": 1905,
-          "title": "Adult Beginners Brave the Elements at Hazlehead Coaching Day",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/11/Learn-to-Orienteer-Aberdeen-722x1024.png"
         }
       ]
     },
