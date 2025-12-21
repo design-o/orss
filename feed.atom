@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-21T00:56:06.656Z</updated>
+    <updated>2025-12-21T06:15:55.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 21 2025]]></title>
+        <id>http://news.worldofo.com/?p=21451</id>
+        <link href="https://news.worldofo.com/2025/12/21/route-to-christmas-day-21-2025/"/>
+        <updated>2025-12-21T03:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is leg 14 from one of the most interesting sprint courses this year – the European Championships (EOC) Individual sprint in Belgium.  This course has also been suggested for Course of the Year 2025 (vote here until Monday December 22nd), and was one of four sprint courses in the ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 20 2025]]></title>
         <id>http://news.worldofo.com/?p=21441</id>
