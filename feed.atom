@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T06:17:57.382Z</updated>
+    <updated>2025-12-23T12:21:14.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Applications sought for 2026 Development Fund]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56472</id>
+        <link href="https://www.scottish-orienteering.org/news/applications-sought-for-2026-development-fund/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applications-sought-for-2026-development-fund"/>
+        <updated>2025-12-23T11:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Over the years the SOA Development Fund has supported Scottish clubs wishing to undertake projects with the aim of developing […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perthshire 2027 Scottish 6 Day Co-ordinator and Assistant Coordinator appointed and at work]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56528</id>
+        <link href="https://www.scottish-orienteering.org/news/perthshire-2027-scottish-6-day-co-ordinator-and-assistant-coordinator-appointed-and-at-work/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=perthshire-2027-scottish-6-day-co-ordinator-and-assistant-coordinator-appointed-and-at-work"/>
+        <updated>2025-12-23T11:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Following the success of Deeside 2025 this summer, Graham McIntyre of Interlopers was appointed as the Perthshire 2027 Scottish 6 […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 23 2025]]></title>
         <id>http://news.worldofo.com/?p=21454</id>
