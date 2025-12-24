@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T00:52:42.560Z</updated>
+    <updated>2025-12-24T06:18:22.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Route to Christmas: Day 24 2025]]></title>
+        <id>http://news.worldofo.com/?p=21444</id>
+        <link href="https://news.worldofo.com/2025/12/24/route-to-christmas-day-24-2025/"/>
+        <updated>2025-12-24T03:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a long leg from one of the highlights on this year’s World Cup calendar – the long distance race in Idre.  There were actually several interesting legs on this course. Here we chose the last of the long legs as the same leg was featured both in ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reporting on the first year of Scottish Orienteering 2025-2029 Strategy]]></title>
         <id>https://www.scottish-orienteering.org/?p=56538</id>
