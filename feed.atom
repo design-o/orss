@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T06:17:30.120Z</updated>
+    <updated>2025-12-25T12:20:18.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -1006,16 +1006,6 @@ Nominations Open for the Australian MTBO Team first appeared on Orienteering Aus
 Seeking Team Leaders for International Elite Championships 2026  first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon Common Night-O Results]]></title>
-        <id>https://slow.org.uk/?p=23833</id>
-        <link href="https://slow.org.uk/racereports/wimbledon-night-nov25-results/"/>
-        <updated>2025-11-25T23:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf SPORTident – Live results WinSplits RouteGadget – draw your route! Planner’s Comments Bright shiny eyes. And i mean the orienteers eyes not [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
