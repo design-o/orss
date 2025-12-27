@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T06:18:13.333Z</updated>
+    <updated>2025-12-27T12:18:52.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -973,28 +973,6 @@ Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on
         <updated>2025-11-28T01:02:29.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going Gortin Gone]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6967</id>
-        <link href="https://www.niorienteering.org.uk/going-gortin-gone/"/>
-        <updated>2025-11-27T15:08:13.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 NI Colour Series is wrapped up, with a concluding and testing Middle Distance event at Gortin Glen Forest Park on Saturday 22 November, hosted by Fermangh Orienteers. Thanks to organisers: Rachel Montgomery and Sean Magee, controller Raymond Finlay and planner Ciara Largey assisted...
-The post Going Gortin Gone appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations Open for the Australian MTBO Team]]></title>
-        <id>https://orienteering.asn.au/?p=15186</id>
-        <link href="https://orienteering.asn.au/nominations-open-for-the-australian-mtbo-team/"/>
-        <updated>2025-11-27T07:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Chasing World Champs Glory in 2026? Nominations are NOW OPEN for the Australian MTBO Team!
-Nominations Open for the Australian MTBO Team first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
