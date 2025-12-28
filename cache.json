@@ -390,6 +390,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15211",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/joes-weeknight-training-alphington-thursday-4-december/",
+          "publishedOn": "2025-12-05T01:02:29.000Z",
+          "wordCount": 876,
+          "title": "Joe’s Weeknight Training, The Treasury, Friday 12 December",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15095",
           "author": "Debbie Dodd",
           "description": "Click here to see the results, the maps, the photos, and the Teams Challenge final scores\nMelbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.",
@@ -417,16 +427,6 @@
           "publishedOn": "2025-11-29T01:30:09.000Z",
           "wordCount": 996,
           "title": "Orienteering Victoria Yearbook and 2026 Calendar Now Available",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15117",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/central-highlands-twilight-orienteering-kyneton-wednesday-12-november/",
-          "publishedOn": "2025-11-28T07:36:31.000Z",
-          "wordCount": 994,
-          "title": "Central Highlands Twilight Orienteering, Macedon, Wednesday 3 December",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -520,6 +520,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64892",
+          "author": "Joolz",
+          "description": "Happy New Year! As 2026 is about to kick off, here’s a friendly nudge – a reminder to not only get your Oceania entries in, but submit your expression of interest for the WOC team. Entries for both close on Sunday 11th January 2026. Oceania entries:  https://oceaniasprint2026.orienteering.asn.au/entries/WOC selection: https://www.orienteering.org.nz/news/selection-notice-world-orienteering-championships-2026/\nNew Year reminders for 2026 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/new-year-reminders-for-2026/",
+          "publishedOn": "2025-12-27T20:18:07.000Z",
+          "wordCount": 2222,
+          "title": "New Year reminders for 2026",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/12/New-year-reminders.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=64879",
           "author": "Christo Peters",
@@ -873,56 +883,6 @@
           "wordCount": 1679,
           "title": "Gift Aid – it only costs 5 minutes of your time!",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2023/12/download-gift-aid-1024x324.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56457",
-          "author": "nikkihoward",
-          "description": "Events Director The SOA Board has been reassessing the roles on the SOA Board and believe that the term OperationDirector […]",
-          "link": "https://www.scottish-orienteering.org/news/can-you-bring-your-experience-to-the-role-of-events-director-or-secretary-and-help-the-soa/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-bring-your-experience-to-the-role-of-events-director-or-secretary-and-help-the-soa",
-          "publishedOn": "2025-11-28T12:07:08.000Z",
-          "wordCount": 1630,
-          "title": "Can you bring your experience to the role of Events Director or Secretary and help the SOA?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56455",
-          "author": "nikkihoward",
-          "description": "The 2025 series of monthly open-to-all online Community Conversations will draw to a close after the final one on 3rd […]",
-          "link": "https://www.scottish-orienteering.org/news/what-would-you-like-from-soa-community-conversations-please-give-your-feedback-and-suggestions/?utm_source=rss&utm_medium=rss&utm_campaign=what-would-you-like-from-soa-community-conversations-please-give-your-feedback-and-suggestions",
-          "publishedOn": "2025-11-28T11:33:28.000Z",
-          "wordCount": 1644,
-          "title": "What Would You Like from SOA Community Conversations? Please give your feedback and suggestions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56453",
-          "author": "nikkihoward",
-          "description": "The November session in the SOA’s monthly online Community Conversations series focused on the crucial topic of supporting and developing […]",
-          "link": "https://www.scottish-orienteering.org/news/how-to-support-and-grow-our-volunteer-base-what-came-out-of-novembers-community-conversation/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-support-and-grow-our-volunteer-base-what-came-out-of-novembers-community-conversation",
-          "publishedOn": "2025-11-28T11:28:04.000Z",
-          "wordCount": 2486,
-          "title": "How to Support and Grow our Volunteer Base: What Came Out of November’s Community Conversation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56451",
-          "author": "nikkihoward",
-          "description": "2025 has provided some exciting opportunities for our juniors at all levels.  With Edinburgh Southern Orienteering Club having just hosted […]",
-          "link": "https://www.scottish-orienteering.org/news/successful-junior-year-in-2025-with-plenty-of-opportunities-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=successful-junior-year-in-2025-with-plenty-of-opportunities-in-2026",
-          "publishedOn": "2025-11-28T10:53:54.000Z",
-          "wordCount": 2841,
-          "title": "Successful Junior year in 2025 with plenty of opportunities in 2026",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/10/Finlay.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56449",
-          "author": "nikkihoward",
-          "description": "Congratulations to the following juniors who have been selected to be part of the Scottish Junior Orienteering Squad (ScotJOS) for […]",
-          "link": "https://www.scottish-orienteering.org/news/scotjos-selections-for-2025-2026/?utm_source=rss&utm_medium=rss&utm_campaign=scotjos-selections-for-2025-2026",
-          "publishedOn": "2025-11-28T10:30:18.000Z",
-          "wordCount": 1532,
-          "title": "ScotJOS selections for 2025/2026",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/10/PHOTO-2025-09-29-09-25-41-1024x768.jpg"
         }
       ]
     },

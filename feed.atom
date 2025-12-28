@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T18:15:04.255Z</updated>
+    <updated>2025-12-28T00:58:51.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Year reminders for 2026]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64892</id>
+        <link href="https://www.orienteering.org.nz/news/new-year-reminders-for-2026/"/>
+        <updated>2025-12-27T20:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Happy New Year! As 2026 is about to kick off, here’s a friendly nudge – a reminder to not only get your Oceania entries in, but submit your expression of interest for the WOC team. Entries for both close on Sunday 11th January 2026. Oceania entries:  https://oceaniasprint2026.orienteering.asn.au/entries/WOC selection: https://www.orienteering.org.nz/news/selection-notice-world-orienteering-championships-2026/
+New Year reminders for 2026 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 24 2025]]></title>
         <id>http://news.worldofo.com/?p=21444</id>
@@ -763,6 +774,15 @@ The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Joe’s Weeknight Training, The Treasury, Friday 12 December]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15211</id>
+        <link href="https://www.vicorienteering.asn.au/joes-weeknight-training-alphington-thursday-4-december/"/>
+        <updated>2025-12-05T01:02:29.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Orienteering Australia Celebrates its 200th General Board Meeting]]></title>
         <id>https://orienteering.asn.au/?p=15230</id>
         <link href="https://orienteering.asn.au/orienteering-australia-celebrates-its-200th-general-board-meeting/"/>
@@ -903,65 +923,6 @@ Park Street Update, December 2-8 first appeared on Orienteering Victoria.]]></su
         <updated>2025-11-29T01:30:09.000Z</updated>
         <summary type="html"><![CDATA[Enjoy a look back and a look forward, by viewing the latest OV Yearbook, and the 2026 Calendar
 Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you bring your experience to the role of Events Director or Secretary and help the SOA?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56457</id>
-        <link href="https://www.scottish-orienteering.org/news/can-you-bring-your-experience-to-the-role-of-events-director-or-secretary-and-help-the-soa/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=can-you-bring-your-experience-to-the-role-of-events-director-or-secretary-and-help-the-soa"/>
-        <updated>2025-11-28T12:07:08.000Z</updated>
-        <summary type="html"><![CDATA[Events Director The SOA Board has been reassessing the roles on the SOA Board and believe that the term OperationDirector […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Would You Like from SOA Community Conversations? Please give your feedback and suggestions]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56455</id>
-        <link href="https://www.scottish-orienteering.org/news/what-would-you-like-from-soa-community-conversations-please-give-your-feedback-and-suggestions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-would-you-like-from-soa-community-conversations-please-give-your-feedback-and-suggestions"/>
-        <updated>2025-11-28T11:33:28.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 series of monthly open-to-all online Community Conversations will draw to a close after the final one on 3rd […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Support and Grow our Volunteer Base: What Came Out of November’s Community Conversation]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56453</id>
-        <link href="https://www.scottish-orienteering.org/news/how-to-support-and-grow-our-volunteer-base-what-came-out-of-novembers-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-support-and-grow-our-volunteer-base-what-came-out-of-novembers-community-conversation"/>
-        <updated>2025-11-28T11:28:04.000Z</updated>
-        <summary type="html"><![CDATA[The November session in the SOA’s monthly online Community Conversations series focused on the crucial topic of supporting and developing […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Successful Junior year in 2025 with plenty of opportunities in 2026]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56451</id>
-        <link href="https://www.scottish-orienteering.org/news/successful-junior-year-in-2025-with-plenty-of-opportunities-in-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=successful-junior-year-in-2025-with-plenty-of-opportunities-in-2026"/>
-        <updated>2025-11-28T10:53:54.000Z</updated>
-        <summary type="html"><![CDATA[2025 has provided some exciting opportunities for our juniors at all levels.  With Edinburgh Southern Orienteering Club having just hosted […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScotJOS selections for 2025/2026]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56449</id>
-        <link href="https://www.scottish-orienteering.org/news/scotjos-selections-for-2025-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotjos-selections-for-2025-2026"/>
-        <updated>2025-11-28T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the following juniors who have been selected to be part of the Scottish Junior Orienteering Squad (ScotJOS) for […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Highlands Twilight Orienteering, Macedon, Wednesday 3 December]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15117</id>
-        <link href="https://www.vicorienteering.asn.au/central-highlands-twilight-orienteering-kyneton-wednesday-12-november/"/>
-        <updated>2025-11-28T07:36:31.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
