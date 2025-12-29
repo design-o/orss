@@ -785,6 +785,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56546",
+          "author": "suzannerb",
+          "description": "Club coaching is a great way to introduce new participants to the sport we love or support existing members to […]",
+          "link": "https://www.scottish-orienteering.org/news/coaching-courses/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-courses",
+          "publishedOn": "2025-12-29T12:29:14.000Z",
+          "wordCount": 1725,
+          "title": "Coaching Courses",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/image.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56538",
           "author": "nikkihoward",
           "description": "As a means of sharing the progress of our sport we have prepared our first Annual Impact Report.  The impact […]",
