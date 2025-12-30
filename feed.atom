@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T12:21:22.288Z</updated>
+    <updated>2025-12-30T18:16:13.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Squads 2025 Recap]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56479</id>
+        <link href="https://www.scottish-orienteering.org/news/junior-squads-2025-recap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-squads-2025-recap"/>
+        <updated>2025-12-30T13:37:43.000Z</updated>
+        <summary type="html"><![CDATA[It has been a strong year for our regional squads, with regular East and West junior training sessions and re-establishing […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Scottish Orienteering Fixtures – Diaries at the ready?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56560</id>
+        <link href="https://www.scottish-orienteering.org/news/2026-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-scottish-orienteering-fixtures-diaries-at-the-ready"/>
+        <updated>2025-12-30T13:35:45.000Z</updated>
+        <summary type="html"><![CDATA[The fixtures calendar for 2026 has been finalised and we are very grateful for all those clubs who have volunteered […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Inter Club Championship relaunched with a new format for 2026!]]></title>
         <id>https://www.scottish-orienteering.org/?p=56557</id>
@@ -145,6 +165,17 @@ New Year reminders for 2026 first appeared on Orienteering New Zealand.]]></summ
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a leg in spectacular surroundings from the 7th Swiss National Event this year at Long Heinzenberg.  – A never before mapped gem with as always in the swiss mountains stunning surroundings and views, Silvan Ullmann wrote when nominating this course for Course of the Year 2025. – Many sections ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, December 30-January 5]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2025-12-19T23:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
+Park Street Update, December 30-January 5 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -922,27 +953,6 @@ Selection Criteria for 2026 National Teams first appeared on Orienteering Austra
         <summary type="html"><![CDATA[Last week, the International University Sports Federation (FISU) awarded the organisation of the 33rd Winter Universiade to Changchun, Jilin Province in Northern China. The Games will feature the best student-athletes from over 50 countries and five continents from 15-25 January, 2027. For Ski Orienteering, it will be the third time that the sport is part […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15095</id>
-        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/"/>
-        <updated>2025-12-01T03:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Click here to see the results, the maps, the photos, and the Teams Challenge final scores
-Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 1 2025]]></title>
-        <id>http://news.worldofo.com/?p=21305</id>
-        <link href="https://news.worldofo.com/2025/12/01/route-to-christmas-day-1-2025/"/>
-        <updated>2025-12-01T03:00:38.000Z</updated>
-        <summary type="html"><![CDATA[The 19th edition of the traditional Route to Christmas here at World of O starts with a long and interesting leg from the Czech race INOV-8 CUP organized in north-eastern Czechia in early September. Straight or around – climb or not? Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

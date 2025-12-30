@@ -351,16 +351,6 @@
           "wordCount": 4507,
           "title": "Course of the Year 2025: Submit your suggestions!",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/11/course20225-660x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21305",
-          "author": "Jan Kocbach",
-          "description": "The 19th edition of the traditional Route to Christmas here at World of O starts with a long and interesting leg from the Czech race INOV-8 CUP organized in north-eastern Czechia in early September. Straight or around – climb or not? Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good ...",
-          "link": "https://news.worldofo.com/2025/12/01/route-to-christmas-day-1-2025/",
-          "publishedOn": "2025-12-01T03:00:38.000Z",
-          "wordCount": 2526,
-          "title": "Route to Christmas: Day 1 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -369,6 +359,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Find out what's on at this week's Park Street events\nPark Street Update, December 30-January 5 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2025-12-19T23:41:54.000Z",
+          "wordCount": 1182,
+          "title": "Park Street Update, December 30-January 5",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=15244",
           "author": "Debbie Dodd",
@@ -427,16 +427,6 @@
           "publishedOn": "2025-12-05T01:02:29.000Z",
           "wordCount": 876,
           "title": "Joe’s Weeknight Training, The Treasury, Friday 12 December",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15095",
-          "author": "Debbie Dodd",
-          "description": "Click here to see the results, the maps, the photos, and the Teams Challenge final scores\nMelbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/",
-          "publishedOn": "2025-12-01T03:07:09.000Z",
-          "wordCount": 1122,
-          "title": "Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -774,6 +764,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56479",
+          "author": "heidi",
+          "description": "It has been a strong year for our regional squads, with regular East and West junior training sessions and re-establishing […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-squads-2025-recap/?utm_source=rss&utm_medium=rss&utm_campaign=junior-squads-2025-recap",
+          "publishedOn": "2025-12-30T13:37:43.000Z",
+          "wordCount": 1894,
+          "title": "Junior Squads 2025 Recap",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/image-1-1024x768.jpeg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56560",
+          "author": "nikkihoward",
+          "description": "The fixtures calendar for 2026 has been finalised and we are very grateful for all those clubs who have volunteered […]",
+          "link": "https://www.scottish-orienteering.org/news/2026-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&utm_medium=rss&utm_campaign=2026-scottish-orienteering-fixtures-diaries-at-the-ready",
+          "publishedOn": "2025-12-30T13:35:45.000Z",
+          "wordCount": 1918,
+          "title": "2026 Scottish Orienteering Fixtures – Diaries at the ready?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/Your-paragraph-text-1024x1024.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56557",
           "author": "nikkihoward",
