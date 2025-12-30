@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T06:17:34.536Z</updated>
+    <updated>2025-12-30T12:21:22.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Inter Club Championship relaunched with a new format for 2026!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56557</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-inter-club-championship-relaunched-with-a-new-format-for-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-inter-club-championship-relaunched-with-a-new-format-for-2026"/>
+        <updated>2025-12-30T10:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Having run the Scottish Inter Club Championship in its revised format for a few years, we listened to your feedback […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coaching Courses]]></title>
         <id>https://www.scottish-orienteering.org/?p=56546</id>
@@ -933,27 +943,6 @@ Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report firs
         <summary type="html"><![CDATA[The 19th edition of the traditional Route to Christmas here at World of O starts with a long and interesting leg from the Czech race INOV-8 CUP organized in north-eastern Czechia in early September. Straight or around – climb or not? Enjoy the challenges – just like the competitors! Your job in Route to Christmas is to take a good ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, December 2-8]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2025-11-30T23:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Find out what's on at this week's Park Street events
-Park Street Update, December 2-8 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box Hill Fell Race 2026]]></title>
-        <id>https://slow.org.uk/?p=23842</id>
-        <link href="https://slow.org.uk/events/box-hill-fell-2026/"/>
-        <updated>2025-11-30T23:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Saturday 17th January 2026 at 11.00am 44th edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>

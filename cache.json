@@ -438,16 +438,6 @@
           "wordCount": 1122,
           "title": "Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Find out what's on at this week's Park Street events\nPark Street Update, December 2-8 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2025-11-30T23:41:54.000Z",
-          "wordCount": 1246,
-          "title": "Park Street Update, December 2-8",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -522,16 +512,6 @@
           "wordCount": 2083,
           "title": "Club Championships 2025",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/club-championships-2025/files/ClubChampsStart-Dec25_RW.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=23842",
-          "author": "Steve Clelland",
-          "description": "Saturday 17th January 2026 at 11.00am 44th edition. 12 kilometres with 520m of ascent under F.R.A. rules. The history of the Box Hill Fell Race [...]",
-          "link": "https://slow.org.uk/events/box-hill-fell-2026/",
-          "publishedOn": "2025-11-30T23:10:55.000Z",
-          "wordCount": 2492,
-          "title": "Box Hill Fell Race 2026",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/BoxHill_2023_3.jpg"
         }
       ]
     },
@@ -794,6 +774,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56557",
+          "author": "nikkihoward",
+          "description": "Having run the Scottish Inter Club Championship in its revised format for a few years, we listened to your feedback […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-inter-club-championship-relaunched-with-a-new-format-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-inter-club-championship-relaunched-with-a-new-format-for-2026",
+          "publishedOn": "2025-12-30T10:16:16.000Z",
+          "wordCount": 1728,
+          "title": "Scottish Inter Club Championship relaunched with a new format for 2026!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56546",
           "author": "suzannerb",
