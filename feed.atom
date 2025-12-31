@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T12:20:45.655Z</updated>
+    <updated>2025-12-31T18:15:29.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -920,37 +920,6 @@ Orienteering Australia Celebrates its 200th General Board Meeting first appeared
         <link href="https://news.worldofo.com/2025/12/03/route-to-christmas-day-3-2025/"/>
         <updated>2025-12-03T03:00:17.000Z</updated>
         <summary type="html"><![CDATA[In today’s leg in Route to Christmas 2025 we travel all the way to New Zealand! Here we offer a long leg from the JWOC trials and South Islands Championships in February. On this leg there were lots of different alternatives chosen by the runners – showing “a rainbow across the map”. Thanks a lot ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Criteria for 2026 National Teams]]></title>
-        <id>https://orienteering.asn.au/?p=15219</id>
-        <link href="https://orienteering.asn.au/selection-criteria-for-2026-national-teams/"/>
-        <updated>2025-12-02T06:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Selection Criteria for 2026 National Teams along with the 2026 Australian Teams Nomination Form are now available.
-Selection Criteria for 2026 National Teams first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 2 2025]]></title>
-        <id>http://news.worldofo.com/?p=21318</id>
-        <link href="https://news.worldofo.com/2025/12/02/route-to-christmas-day-2-2025/"/>
-        <updated>2025-12-02T03:00:30.000Z</updated>
-        <summary type="html"><![CDATA[For the second day of this years’ Route to Christmas 2025 we have chosen a very interesting leg from the Norwegian Championships Long distance. This is a long leg towards the end of a tough long distance race – with several bigger hills that you have to choose how to handle. The race was organized ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2025: Submit your suggestions!]]></title>
-        <id>http://news.worldofo.com/?p=21260</id>
-        <link href="https://news.worldofo.com/2025/12/02/course-of-the-year-2025-submit-your-suggestions/"/>
-        <updated>2025-12-02T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[What was the best orienteering course of 2025? The middle distance race in Maximus O Meeting won in 2024, the World Champs middle distance in Switzerland won in 2023, the Pomeranian Sprint Cup won in 2022 and the WOC Long distance won in 2021. In the years before, we had a long distance race in Norway, the World Cup Final Middle in the Czech ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
         </author>
