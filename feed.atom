@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T18:16:13.962Z</updated>
+    <updated>2025-12-31T00:53:53.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -840,6 +840,17 @@ The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first
         <updated>2025-12-06T01:30:09.000Z</updated>
         <summary type="html"><![CDATA[Enjoy a look back and a look forward, by viewing the latest OV Yearbook, and the 2026 Calendar
 Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15095</id>
+        <link href="https://www.vicorienteering.asn.au/melbourne-city-race-23-november-2025-williamstown-seaport/"/>
+        <updated>2025-12-05T03:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Click here to see the results, the maps, the photos, and the Teams Challenge final scores
+Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
