@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T00:53:53.152Z</updated>
+    <updated>2025-12-31T06:17:45.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -610,6 +610,15 @@ The post Christmas is coming – and so is Membership Renewal appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Park Street Orienteering Making Headlines]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15248</id>
+        <link href="https://www.vicorienteering.asn.au/park-street-making-headlines/"/>
+        <updated>2025-12-14T05:15:46.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Route to Christmas: Day 14 2025]]></title>
         <id>http://news.worldofo.com/?p=21390</id>
         <link href="https://news.worldofo.com/2025/12/14/route-to-christmas-day-14-2025/"/>
@@ -944,26 +953,6 @@ Selection Criteria for 2026 National Teams first appeared on Orienteering Austra
         <summary type="html"><![CDATA[What was the best orienteering course of 2025? The middle distance race in Maximus O Meeting won in 2024, the World Champs middle distance in Switzerland won in 2023, the Pomeranian Sprint Cup won in 2022 and the WOC Long distance won in 2021. In the years before, we had a long distance race in Norway, the World Cup Final Middle in the Czech ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOF launches new “Gold” World Ranking Event status to elevate elite orienteering]]></title>
-        <id>https://orienteering.sport/?p=80809</id>
-        <link href="https://orienteering.sport/iof-launches-new-gold-world-ranking-event-status-to-elevate-elite-orienteering/"/>
-        <updated>2025-12-01T14:13:22.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation (IOF) has unveiled a new premium label for World Ranking Events, introducing the Gold World Ranking Event (Gold WRE) status from 2026 and onwards as a major step toward strengthening elite competition and athlete support worldwide. Each year more than 200 WREs take place across over 35 countries, but the new […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2027 Winter Universiade with Ski Orienteering takes place in Changchun, China]]></title>
-        <id>https://orienteering.sport/?p=80816</id>
-        <link href="https://orienteering.sport/2027-winter-universiade-with-ski-orienteering-takes-place-in-changchun-china/"/>
-        <updated>2025-12-01T12:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Last week, the International University Sports Federation (FISU) awarded the organisation of the 33rd Winter Universiade to Changchun, Jilin Province in Northern China. The Games will feature the best student-athletes from over 50 countries and five continents from 15-25 January, 2027. For Ski Orienteering, it will be the third time that the sport is part […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
