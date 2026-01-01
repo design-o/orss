@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T12:20:58.746Z</updated>
+    <updated>2026-01-01T18:15:41.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Pia Young Vik on her amazing 2025 season]]></title>
+        <id>https://orienteering.sport/?p=80958</id>
+        <link href="https://orienteering.sport/podcast-pia-young-vik-on-her-amazing-2025-season/"/>
+        <updated>2026-01-01T12:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Norway’s Pia Young Vik had an amazing 2025 season. In her just second year as a senior, she won the EOC Sprint in Belgium, took the silver in KO Sprint two days before and another silver with her teammates at the WOC Relay in Finland. And then we haven’t even got to talk about the […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Squads 2025 Recap]]></title>
         <id>https://www.scottish-orienteering.org/?p=56479</id>
@@ -912,16 +922,6 @@ Orienteering Australia Celebrates its 200th General Board Meeting first appeared
         <summary type="html"><![CDATA[With lots of calls on all our member’s expenditure at this time of year we are grateful to those who […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 3 2025]]></title>
-        <id>http://news.worldofo.com/?p=21323</id>
-        <link href="https://news.worldofo.com/2025/12/03/route-to-christmas-day-3-2025/"/>
-        <updated>2025-12-03T03:00:17.000Z</updated>
-        <summary type="html"><![CDATA[In today’s leg in Route to Christmas 2025 we travel all the way to New Zealand! Here we offer a long leg from the JWOC trials and South Islands Championships in February. On this leg there were lots of different alternatives chosen by the runners – showing “a rainbow across the map”. Thanks a lot ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>

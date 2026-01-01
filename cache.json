@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=80958",
+          "author": "Erling Thisted",
+          "description": "Norway’s Pia Young Vik had an amazing 2025 season. In her just second year as a senior, she won the EOC Sprint in Belgium, took the silver in KO Sprint two days before and another silver with her teammates at the WOC Relay in Finland. And then we haven’t even got to talk about the […]",
+          "link": "https://orienteering.sport/podcast-pia-young-vik-on-her-amazing-2025-season/",
+          "publishedOn": "2026-01-01T12:30:31.000Z",
+          "wordCount": 1134,
+          "title": "Podcast: Pia Young Vik on her amazing 2025 season",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2026/01/2025_eoc_sprint_pia_young_vik2-1024x576.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=80894",
           "author": "Erling Thisted",
           "description": "The International Orienteering Federation mourns the passing of Per-Olof ”Peo” Bengtsson (1933-2025), one of the true pioneers in the history of orienteering. Peo began orienteering in his home country of Sweden in 1949 and ended up dedicating his life to developing and spreading the sport worldwide. Over several decades, he organized hundreds of journeys that […]",
@@ -301,16 +311,6 @@
           "wordCount": 2198,
           "title": "Route to Christmas: Day 4 2025",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/finishchampslong2025_x_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21323",
-          "author": "Jan Kocbach",
-          "description": "In today’s leg in Route to Christmas 2025 we travel all the way to New Zealand! Here we offer a long leg from the JWOC trials and South Islands Championships in February. On this leg there were lots of different alternatives chosen by the runners – showing “a rainbow across the map”. Thanks a lot ...",
-          "link": "https://news.worldofo.com/2025/12/03/route-to-christmas-day-3-2025/",
-          "publishedOn": "2025-12-03T03:00:17.000Z",
-          "wordCount": 2257,
-          "title": "Route to Christmas: Day 3 2025",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/taitongalong2025_x_x_blank_s-590x330.jpg"
         }
       ]
     },
