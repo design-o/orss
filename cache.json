@@ -745,6 +745,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56564",
+          "author": "nikkihoward",
+          "description": "As you all look forward to 2026 and consider what new skills you would like to develop over the year […]",
+          "link": "https://www.scottish-orienteering.org/news/2026-scottish-orienteering-coaching-and-volunteer-training-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=2026-scottish-orienteering-coaching-and-volunteer-training-opportunities",
+          "publishedOn": "2026-01-01T18:17:27.000Z",
+          "wordCount": 2070,
+          "title": "2026 Scottish Orienteering Coaching and Volunteer Training Opportunities",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/07/organising.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56479",
           "author": "heidi",
           "description": "It has been a strong year for our regional squads, with regular East and West junior training sessions and re-establishing […]",
@@ -883,16 +893,6 @@
           "wordCount": 1513,
           "title": "Scottish Championships head to Grandtully in 2026",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/Three-Wise-Men-1024x769.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56461",
-          "author": "nikkihoward",
-          "description": "With lots of calls on all our member’s expenditure at this time of year we are grateful to those who […]",
-          "link": "https://www.scottish-orienteering.org/news/gift-aid-it-only-costs-5-minutes-of-your-time/?utm_source=rss&utm_medium=rss&utm_campaign=gift-aid-it-only-costs-5-minutes-of-your-time",
-          "publishedOn": "2025-12-03T11:17:31.000Z",
-          "wordCount": 1679,
-          "title": "Gift Aid – it only costs 5 minutes of your time!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2023/12/download-gift-aid-1024x324.jpg"
         }
       ]
     },
