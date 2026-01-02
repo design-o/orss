@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T12:20:21.603Z</updated>
+    <updated>2026-01-02T18:15:39.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -912,16 +912,6 @@ Melbourne City Race, 23 November 2025, Williamstown Seaport – Race Report firs
 Orienteering Australia Celebrates its 200th General Board Meeting first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 4 2025]]></title>
-        <id>http://news.worldofo.com/?p=21328</id>
-        <link href="https://news.worldofo.com/2025/12/04/route-to-christmas-day-4-2025/"/>
-        <updated>2025-12-04T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a 3.4 km long leg from the men’s H21 class in the Finnish Championships Long distance, organized close to Tampere in early September 2025.  This very interesting course from the Finnish Champs Long was suggested by Joni Parviainen for Course of the Year 2025, and the 8th leg ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
