@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-04T12:19:06.033Z</updated>
+    <updated>2026-01-04T18:14:50.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -839,38 +839,6 @@ The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is from the 7th race of the Swedish League in June – and this time we take a look at a tricky leg in the women’s class. This is actually the first tip we received in Route to Christmas 2025 – back in the start of  June from Sindre ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Victorian Sprint Champs Results and Photos]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15014</id>
-        <link href="https://www.vicorienteering.asn.au/notice-of-embargo-for-2025-victorian-sprint-champs/"/>
-        <updated>2025-12-06T04:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Check the results, maps and photos from the 2025 Vic Sprint Champs at RMIT Bundoora
-2025 Victorian Sprint Champs Results and Photos first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 6 2025]]></title>
-        <id>http://news.worldofo.com/?p=21339</id>
-        <link href="https://news.worldofo.com/2025/12/06/route-to-christmas-day-6-2025/"/>
-        <updated>2025-12-06T03:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a leg from a night orienteering competition in pretty tricky terrain – here you really have to focus. The leg is from the Norwegian Championships Night Orienteering.  Thanks a lot to Halvor for suggestion this course as a candidate for Course of the Year 2025 – that’s how ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Victoria Yearbook and 2026 Calendar Now Available]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15215</id>
-        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-yearbook-and-2026-calendar-now-available/"/>
-        <updated>2025-12-06T01:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy a look back and a look forward, by viewing the latest OV Yearbook, and the 2026 Calendar
-Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
