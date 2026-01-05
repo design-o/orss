@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T12:22:34.739Z</updated>
+    <updated>2026-01-05T18:17:41.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Landscapes NI Survey]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7052</id>
+        <link href="https://www.niorienteering.org.uk/landscapes-ni-survey/"/>
+        <updated>2026-01-05T14:24:26.000Z</updated>
+        <summary type="html"><![CDATA[As we enter a New Year, we have hopes and plans for many more Orienteering events and activities for 2026. Orienteering relies on good relationships with and permission from landowners to use their land. We can not take access for granted, so we need to...
+The post Landscapes NI Survey appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could you be our new Coaching and Volunteer Officer?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56573</id>
+        <link href="https://www.scottish-orienteering.org/news/could-you-be-our-new-coaching-and-volunteer-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=could-you-be-our-new-coaching-and-volunteer-officer"/>
+        <updated>2026-01-05T12:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a passion for coaching and developing a volunteer workforce?   Our current Coaching and Volunteer Officer, Suzanne Robins […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Scottish Orienteering Coaching and Volunteer Training Opportunities]]></title>
         <id>https://www.scottish-orienteering.org/?p=56564</id>
@@ -840,16 +861,6 @@ The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first
         <updated>2025-12-07T06:25:27.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 7 2025]]></title>
-        <id>http://news.worldofo.com/?p=21343</id>
-        <link href="https://news.worldofo.com/2025/12/07/route-to-christmas-day-7-2025/"/>
-        <updated>2025-12-07T03:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is from the 7th race of the Swedish League in June – and this time we take a look at a tricky leg in the women’s class. This is actually the first tip we received in Route to Christmas 2025 – back in the start of  June from Sindre ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
