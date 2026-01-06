@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T00:53:47.763Z</updated>
+    <updated>2026-01-06T06:18:19.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Course of the Year 2025: 10, 9, 8 …]]></title>
+        <id>http://news.worldofo.com/?p=21489</id>
+        <link href="https://news.worldofo.com/2026/01/06/course-of-the-year-2025-10-9-8/"/>
+        <updated>2026-01-06T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Over the following days we will count down from 10 to 1 in the Course of the Year 2025, and present the “lucky voters” along the way. In 10th place we find the World Championships (WOC) Long distance, in 9th place we find the JWOC 2025 Sprint Relay and in 8th place we find OOCup ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robbie & Val Robinson on 2026 New Year’s Honours list]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64896</id>
