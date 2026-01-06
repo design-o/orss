@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T12:21:37.306Z</updated>
+    <updated>2026-01-06T18:16:24.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLOW MBO Event Calendar 2026]]></title>
+        <id>https://slow.org.uk/?p=23715</id>
+        <link href="https://slow.org.uk/events/slow-mbo-event-calendar-2026/"/>
+        <updated>2026-01-06T13:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the SLOW MBO 2026 season. SLOW mountain bike events are open to everyone from beginners to experts and give you a chance to [...]]]></summary>
+        <author>
+            <name>Dave Uglow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Course of the Year 2025: 10, 9, 8 …]]></title>
         <id>http://news.worldofo.com/?p=21489</id>
@@ -851,16 +861,6 @@ The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first
         <link href="https://news.worldofo.com/2025/12/09/route-to-christmas-day-9-2025/"/>
         <updated>2025-12-09T03:00:31.000Z</updated>
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas is an interesting long leg from the men’s Superelite in the Maximus O Meeting 2025, organized in Spain in the middle of February. Very stony terrain – and also quite hilly! What would you choose here? The leg is as usually first provided without routes – you may take ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 8 2025]]></title>
-        <id>http://news.worldofo.com/?p=21350</id>
-        <link href="https://news.worldofo.com/2025/12/08/route-to-christmas-day-8-2025/"/>
-        <updated>2025-12-08T03:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is from Italy – a country we visit every pre-Christmas! This time we have chosen a long leg in very hilly terrain that challenged the world’s best junior orienteers at the Junior Orienteering World Championships this July. Thank you very much to Terje Mathisen for the excellent tip! The ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
         </author>

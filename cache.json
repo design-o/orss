@@ -271,16 +271,6 @@
           "wordCount": 1927,
           "title": "Route to Christmas: Day 9 2025",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/mom2025long_x_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21350",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas is from Italy – a country we visit every pre-Christmas! This time we have chosen a long leg in very hilly terrain that challenged the world’s best junior orienteers at the Junior Orienteering World Championships this July. Thank you very much to Terje Mathisen for the excellent tip! The ...",
-          "link": "https://news.worldofo.com/2025/12/08/route-to-christmas-day-8-2025/",
-          "publishedOn": "2025-12-08T03:00:05.000Z",
-          "wordCount": 1989,
-          "title": "Route to Christmas: Day 8 2025",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/jwoc2025long_x_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -393,6 +383,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23715",
+          "author": "Dave Uglow",
+          "description": "Welcome to the SLOW MBO 2026 season. SLOW mountain bike events are open to everyone from beginners to experts and give you a chance to [...]",
+          "link": "https://slow.org.uk/events/slow-mbo-event-calendar-2026/",
+          "publishedOn": "2026-01-06T13:20:56.000Z",
+          "wordCount": 2607,
+          "title": "SLOW MBO Event Calendar 2026",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/events/slow-mbo-event-calendar-2026/files/Ditchling03.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23880",
           "author": "vinh",
