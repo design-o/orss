@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T18:17:41.960Z</updated>
+    <updated>2026-01-06T00:53:47.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robbie & Val Robinson on 2026 New Year’s Honours list]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64896</id>
+        <link href="https://www.orienteering.org.nz/news/robbie-val-robinson-on-2026-new-years-honours-list/"/>
+        <updated>2026-01-05T20:31:16.000Z</updated>
+        <summary type="html"><![CDATA[We are incredibly proud of two orienteering members who have been recognised in the 2026 King’s New Year Honours List. John (Robbie) Dempster Robinson and Valerie Jean Robinson have been appointed Members of the New Zealand Order of Merit (MNZM) for services to orienteering, and for extending the sport to the wider community. Robbie and […]
+Robbie & Val Robinson on 2026 New Year’s Honours list first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Landscapes NI Survey]]></title>
         <id>https://www.niorienteering.org.uk/?p=7052</id>
@@ -852,15 +863,6 @@ The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first
         <summary type="html"><![CDATA[Thanks to Guildford Orienteers for hosting our club champs at Newlands Corner today. Full results of the event can be found at the GO Website. [...]]]></summary>
         <author>
             <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Christmas from Orienteering Victoria]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15234</id>
-        <link href="https://www.vicorienteering.asn.au/merry-christmas-from-orienteering-victoria/"/>
-        <updated>2025-12-07T06:25:27.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>

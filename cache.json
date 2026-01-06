@@ -328,16 +328,6 @@
           "wordCount": 1048,
           "title": "Events further afield this summer",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15234",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/merry-christmas-from-orienteering-victoria/",
-          "publishedOn": "2025-12-07T06:25:27.000Z",
-          "wordCount": 1001,
-          "title": "Merry Christmas from Orienteering Victoria",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -420,6 +410,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64896",
+          "author": "Joolz",
+          "description": "We are incredibly proud of two orienteering members who have been recognised in the 2026 King’s New Year Honours List. John (Robbie) Dempster Robinson and Valerie Jean Robinson have been appointed Members of the New Zealand Order of Merit (MNZM) for services to orienteering, and for extending the sport to the wider community. Robbie and […]\nRobbie & Val Robinson on 2026 New Year’s Honours list first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/robbie-val-robinson-on-2026-new-years-honours-list/",
+          "publishedOn": "2026-01-05T20:31:16.000Z",
+          "wordCount": 2477,
+          "title": "Robbie & Val Robinson on 2026 New Year’s Honours list",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/01/Robbie-Val-New-Year-List-2026.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=64892",
           "author": "Joolz",
