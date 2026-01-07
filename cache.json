@@ -271,16 +271,6 @@
           "wordCount": 2142,
           "title": "Route to Christmas: Day 10 2025",
           "imageUrl": null
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21357",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas is an interesting long leg from the men’s Superelite in the Maximus O Meeting 2025, organized in Spain in the middle of February. Very stony terrain – and also quite hilly! What would you choose here? The leg is as usually first provided without routes – you may take ...",
-          "link": "https://news.worldofo.com/2025/12/09/route-to-christmas-day-9-2025/",
-          "publishedOn": "2025-12-09T03:00:31.000Z",
-          "wordCount": 1927,
-          "title": "Route to Christmas: Day 9 2025",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/mom2025long_x_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -851,6 +841,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7056",
+          "author": "NIOA Secretary",
+          "description": "Its time for the 2026 Development Conference hosted by British Orienteering on-line starting 12 January. Just click on the links below for details and to register for a particular webinar. There should be something of interest for everyone! Elite Tactics: Preparing for the Race That...\nThe post Register for the 2026 Development Conference appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/register-for-the-2026-development-conference/",
+          "publishedOn": "2026-01-07T15:08:05.000Z",
+          "wordCount": 4411,
+          "title": "Register for the 2026 Development Conference",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/01/Devlopment-2026.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7052",
           "author": "Richard Gamble",

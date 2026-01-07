@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T12:22:50.488Z</updated>
+    <updated>2026-01-07T18:17:16.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Register for the 2026 Development Conference]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7056</id>
+        <link href="https://www.niorienteering.org.uk/register-for-the-2026-development-conference/"/>
+        <updated>2026-01-07T15:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Its time for the 2026 Development Conference hosted by British Orienteering on-line starting 12 January. Just click on the links below for details and to register for a particular webinar. There should be something of interest for everyone! Elite Tactics: Preparing for the Race That...
+The post Register for the 2026 Development Conference appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Course of the Year 2025: 7, 6, 5 …]]></title>
         <id>http://news.worldofo.com/?p=21509</id>
@@ -863,16 +874,6 @@ Events further afield this summer first appeared on Orienteering Victoria.]]></s
 The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 9 2025]]></title>
-        <id>http://news.worldofo.com/?p=21357</id>
-        <link href="https://news.worldofo.com/2025/12/09/route-to-christmas-day-9-2025/"/>
-        <updated>2025-12-09T03:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is an interesting long leg from the men’s Superelite in the Maximus O Meeting 2025, organized in Spain in the middle of February. Very stony terrain – and also quite hilly! What would you choose here? The leg is as usually first provided without routes – you may take ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
