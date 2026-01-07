@@ -63,6 +63,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21509",
+          "author": "Jan Kocbach",
+          "description": "We continue our countdown in Course of the Year 2025: In 7th place we find the Finnish Championships Long distance, in 6th place we find the JWOC Sprint and in 5th place we find the Maximus O Meeting Stage 1. Two challenging long distance courses in very different terrain – and one hilly sprint course with many tricky ...",
+          "link": "https://news.worldofo.com/2026/01/07/course-of-the-year-2025-7-6-5/",
+          "publishedOn": "2026-01-07T03:00:33.000Z",
+          "wordCount": 4224,
+          "title": "Course of the Year 2025: 7, 6, 5 …",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/01/1bb99a4de7a9684689f77009a470da23_l-1_collage_1-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21489",
           "author": "Jan Kocbach",
           "description": "Over the following days we will count down from 10 to 1 in the Course of the Year 2025, and present the “lucky voters” along the way. In 10th place we find the World Championships (WOC) Long distance, in 9th place we find the JWOC 2025 Sprint Relay and in 8th place we find OOCup ...",
