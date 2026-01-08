@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T12:22:48.990Z</updated>
+    <updated>2026-01-08T18:15:10.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -853,37 +853,6 @@ Bulletin 1 / Nationals 2026 first appeared on Orienteering New Zealand.]]></summ
         <summary type="html"><![CDATA[With Christmas fast approaching Three Wise Men* (accompanied by a former SOA Events Manager – Colin Matheson) made an initial […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2025: Last chance to add suggestions!]]></title>
-        <id>http://news.worldofo.com/?p=21361</id>
-        <link href="https://news.worldofo.com/2025/12/10/course-of-the-year-2025-last-chance-to-add-suggestions/"/>
-        <updated>2025-12-10T06:00:53.000Z</updated>
-        <summary type="html"><![CDATA[[See all nominations here] Thursday December 11th is the last chance to add suggestions to “Course of the Year 2025″. We already got nearly 50 nominations in the comments to the intro article  – most of these are high quality courses which will be part of the voting in “Course of the Year 2025″. Based on all the selected courses, WorldofO’s readers will be ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Events further afield this summer]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15223</id>
-        <link href="https://www.vicorienteering.asn.au/events-further-afield-this-summer/"/>
-        <updated>2025-12-10T03:27:02.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the Park Street events here in Victoria, consider attending two carnivals in NSW this summer.
-Events further afield this summer first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 10 2025]]></title>
-        <id>http://news.worldofo.com/?p=21365</id>
-        <link href="https://news.worldofo.com/2025/12/10/route-to-christmas-day-10-2025/"/>
-        <updated>2025-12-10T03:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is from a really cool terrain in southern France. Looking at the map you get the feeling that this is an artifically generated map for theoretical route choice training, but this terrain and leg was actually used for second stage of the Provence Orienteering Meeting last February. Thanks a ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
