@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T00:53:56.824Z</updated>
+    <updated>2026-01-08T06:18:07.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OCEANIA SPRINT CHAMPIONSHIPS AND SPRINT THE COAST – entries close Sunday 11 January]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64901</id>
+        <link href="https://www.orienteering.org.nz/news/oceania-sprint-championships-and-sprint-the-coast-entries-close-sunday-11-january/"/>
+        <updated>2026-01-08T03:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Join the best in Australasia for 3 days of top sprint orienteering on the sunny Central Coast of NSW. Saturday 24 January – Oceania KO Sprint Championships and Sprint the Coast Races 1 and 2 Sunday 25 January – Oceania Sprint Championships (21E, 20E, 18, 16) and Sprint the Coast Race 3 Monday 26 January […]
+OCEANIA SPRINT CHAMPIONSHIPS AND SPRINT THE COAST – entries close Sunday 11 January first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Malcolm Ingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Course of the Year 2025: 4, 3, ….]]></title>
+        <id>http://news.worldofo.com/?p=21514</id>
+        <link href="https://news.worldofo.com/2026/01/08/course-of-the-year-2025-4-3/"/>
+        <updated>2026-01-08T03:00:57.000Z</updated>
+        <summary type="html"><![CDATA[We continue our countdown in Course of the Year 2025: In 4th place we find the European Championships Sprint and in 3rd place we find the third leg of the Jukola relay. Two high profile events that really challenged the athletes with great courses and intriguing orienteering!  See below the results for lucky voters and sponsor prizes. ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Register for the 2026 Development Conference]]></title>
         <id>https://www.niorienteering.org.uk/?p=7056</id>
@@ -863,17 +884,6 @@ Events further afield this summer first appeared on Orienteering Victoria.]]></s
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is from a really cool terrain in southern France. Looking at the map you get the feeling that this is an artifically generated map for theoretical route choice training, but this terrain and leg was actually used for second stage of the Provence Orienteering Meeting last February. Thanks a ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Didn’t We Have A Lovely Time The Day We Went To Bangor]]></title>
-        <id>https://www.niorienteering.org.uk/?p=6997</id>
-        <link href="https://www.niorienteering.org.uk/didnt-we-have-a-lovely-time-the-day-we-went-to-bangor/"/>
-        <updated>2025-12-09T16:07:23.000Z</updated>
-        <summary type="html"><![CDATA[The boats tied up are in the harbour and the results, complete with Routegadget and NI Urban League standings are posted following our delightful outing to Bangor on Saturday 28 November. Thanks to planner Richard Williamson and controller Ann Savage for courses taking us around...
-The post Didn’t We Have A Lovely Time The Day We Went To Bangor appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>
