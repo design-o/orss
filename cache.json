@@ -280,6 +280,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15223",
+          "author": "Margi Freemantle",
+          "description": "In addition to the Park Street events here in Victoria, consider attending two carnivals in NSW this summer.\nEvents Further Afield This Summer first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/events-further-afield-this-summer/",
+          "publishedOn": "2025-12-16T03:27:02.000Z",
+          "wordCount": 1047,
+          "title": "Events Further Afield This Summer",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15244",
           "author": "Debbie Dodd",
           "description": "",
@@ -363,6 +373,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=23964",
+          "author": "Steve Clelland",
+          "description": "Entries now open The second race of South London Orienteers’ 2025-2026 night series takes place on Barnes Common and Putney Lower Common, SW London on [...]",
+          "link": "https://slow.org.uk/events/barnes-common-night-jan2026/",
+          "publishedOn": "2026-01-08T22:57:33.000Z",
+          "wordCount": 2637,
+          "title": "Barnes Common Night Orienteering, Tuesday 27th January",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Barnes_night_start.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23715",
           "author": "Dave Uglow",
@@ -813,16 +833,6 @@
           "wordCount": 2093,
           "title": "December Community Conversation Summary: Charting a Safer Course for Orienteering",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56466",
-          "author": "nikkihoward",
-          "description": "With Christmas fast approaching Three Wise Men* (accompanied by a former SOA Events Manager – Colin Matheson) made an initial […]",
-          "link": "https://www.scottish-orienteering.org/news/scottish-championships-head-to-grandtully-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-championships-head-to-grandtully-in-2026",
-          "publishedOn": "2025-12-10T09:34:22.000Z",
-          "wordCount": 1513,
-          "title": "Scottish Championships head to Grandtully in 2026",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/Three-Wise-Men-1024x769.jpg"
         }
       ]
     },
