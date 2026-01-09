@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T06:17:55.469Z</updated>
+    <updated>2026-01-09T12:21:28.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[Entries now open The second race of South London Orienteers’ 2025-2026 night series takes place on Barnes Common and Putney Lower Common, SW London on [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pimlico Street-O, Tuesday 10 March]]></title>
+        <id>https://slow.org.uk/?p=23969</id>
+        <link href="https://slow.org.uk/streeto/pimlico-street-o-25/"/>
+        <updated>2026-01-08T22:25:30.000Z</updated>
+        <summary type="html"><![CDATA[The 2025-26 Street-O series continues and there are only a few more races left. Don’t miss this event around the Pimlico/ Westminster area. It should [...]]]></summary>
+        <author>
+            <name>vinh</name>
         </author>
     </entry>
     <entry>
