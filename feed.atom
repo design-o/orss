@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T00:54:12.994Z</updated>
+    <updated>2026-01-09T06:17:55.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Course of the year 2025: Knock-Out Sprint World Cup Final Uster]]></title>
+        <id>http://news.worldofo.com/?p=21517</id>
+        <link href="https://news.worldofo.com/2026/01/09/course-of-the-year-2025-knock-out-sprint-world-cup-final-uster/"/>
+        <updated>2026-01-09T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[The “Orienteering Course of the Year 2025″ is a set of courses from the newest discipline in orienteering – the Knock-Out Sprint discipline, from the World Cup Final in Uster, Switzerland. And as you can read in the interview with the course setter below, a lot of work and passion was put into these courses! Middle ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barnes Common Night Orienteering, Tuesday 27th January]]></title>
         <id>https://slow.org.uk/?p=23964</id>
