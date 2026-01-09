@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T12:21:28.104Z</updated>
+    <updated>2026-01-09T18:17:01.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -874,16 +874,6 @@ Bulletin 1 / Nationals 2026 first appeared on Orienteering New Zealand.]]></summ
         <summary type="html"><![CDATA[Orienteering Ireland selection policies for 2026 international events – World Orienteering Championships (WOC 2026), European Orienteering Championships (EOC 2025) and the World Cup 2026 rounds, have been finalised thanks to the three selectors Ciara Largey, Hugh Cashell and Shane Lynch. See the selection policies below:]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 11 2025]]></title>
-        <id>http://news.worldofo.com/?p=21368</id>
-        <link href="https://news.worldofo.com/2025/12/11/route-to-christmas-day-11-2025/"/>
-        <updated>2025-12-11T03:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is one of the courses that has been among the most popular in the nomination for Course of the Year 2025: The World Orienteering Championships Long distance. Note also that today is your last chance to add nominations for Course of the Year 2025, so time to head over ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
