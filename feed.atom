@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T00:52:28.121Z</updated>
+    <updated>2026-01-10T06:16:28.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -864,26 +864,6 @@ The post Making a List, Checking it Twice appeared first on NI Orienteering Asso
 Bulletin 1 / Nationals 2026 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Street-O series results after race 4]]></title>
-        <id>https://slow.org.uk/?p=23880</id>
-        <link href="https://slow.org.uk/streeto/streeto-2526-race-4/"/>
-        <updated>2025-12-11T15:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Series results after race 4 is now available. See you at the next event in Waterloo 13th January.]]></summary>
-        <author>
-            <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OI Selection Policies for WOC2026, EOC2026 and World Cups 2026]]></title>
-        <id>https://www.orienteering.ie/?p=21877</id>
-        <link href="https://www.orienteering.ie/oi-selection-policies-for-woc2026-eoc2026-and-world-cups-2026/"/>
-        <updated>2025-12-11T15:38:21.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland selection policies for 2026 international events – World Orienteering Championships (WOC 2026), European Orienteering Championships (EOC 2025) and the World Cup 2026 rounds, have been finalised thanks to the three selectors Ciara Largey, Hugh Cashell and Shane Lynch. See the selection policies below:]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
