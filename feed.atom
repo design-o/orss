@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T12:18:52.315Z</updated>
+    <updated>2026-01-10T18:14:55.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -833,26 +833,6 @@ Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on
 The post Making a List, Checking it Twice appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 12 2024]]></title>
-        <id>http://news.worldofo.com/?p=21382</id>
-        <link href="https://news.worldofo.com/2025/12/12/route-to-christmas-day-12-2024-2/"/>
-        <updated>2025-12-12T03:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas is from a course that was described as “the best long distance race that I have run” when the course was nominated for Course of the Year a few days ago. We are now through half of this year’s Route to Christmas legs – and we have also opened ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vote for Course of the Year 2025!]]></title>
-        <id>http://news.worldofo.com/?p=21373</id>
-        <link href="https://news.worldofo.com/2025/12/12/vote-for-course-of-the-year-2025/"/>
-        <updated>2025-12-12T03:00:13.000Z</updated>
-        <summary type="html"><![CDATA[What was the best orienteering course of 2025? Set up your personal Top 5 List from the nominated maps – and win prizes worth more than 7000 Euro from our sponsors! The nominated maps have been chosen based on submissions from the WorldofO.com readers including some of the world’s best orienteers. Now YOU can choose “The Course of ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
