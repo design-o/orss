@@ -793,16 +793,6 @@
           "wordCount": 1624,
           "title": "Make sure you know what is included in the World Anti Doping Prohibited List for 2026",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/1-January-4x5-medals-819x1024.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56471",
-          "author": "nikkihoward",
-          "description": "Last night, we held our December Community Conversation focused on safety within our sport. The meeting was led by the […]",
-          "link": "https://www.scottish-orienteering.org/news/december-community-conversation-summary-charting-a-safer-course-for-orienteering/?utm_source=rss&utm_medium=rss&utm_campaign=december-community-conversation-summary-charting-a-safer-course-for-orienteering",
-          "publishedOn": "2025-12-12T14:52:19.000Z",
-          "wordCount": 2093,
-          "title": "December Community Conversation Summary: Charting a Safer Course for Orienteering",
-          "imageUrl": null
         }
       ]
     },
@@ -848,6 +838,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15368",
+          "author": "Elizabeth L",
+          "description": "The recipients of Orienteering Australia (OA) merit badges in 2025 have been published.\n2025 OA Merit Badges first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2025-oa-merit-badges/",
+          "publishedOn": "2026-01-11T01:57:21.000Z",
+          "wordCount": 2361,
+          "title": "2025 OA Merit Badges",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15298",
           "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
