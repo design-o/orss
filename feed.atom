@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-11T12:20:29.952Z</updated>
+    <updated>2026-01-11T18:15:12.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -802,27 +802,6 @@ Events Further Afield This Summer first appeared on Orienteering Victoria.]]></s
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is another leg from hilly Czech terrain – this time from the European Youth Orienteering Championships Long distance. This is the type of leg where you HAVE to decide where to run before leaving the control … Thanks a lot to Stanislav for suggesting this leg as a part of ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 13 2025]]></title>
-        <id>http://news.worldofo.com/?p=21387</id>
-        <link href="https://news.worldofo.com/2025/12/13/route-to-christmas-day-13-2025/"/>
-        <updated>2025-12-13T03:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is something very different from what we have seen so far – today we travel to Switzerland for a Sprint leg. Thanks a lot to Silvan Ullmann, course setter at the Knock-Out sprint at the World Cup final, for a very long and detailed analysis of one of the legs ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Victoria Yearbook and 2026 Calendar Now Available]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15215</id>
-        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-yearbook-and-2026-calendar-now-available/"/>
-        <updated>2025-12-13T01:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy a look back and a look forward, by viewing the latest OV Yearbook, and the 2026 Calendar
-Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
 </feed>
