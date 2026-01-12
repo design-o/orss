@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T12:23:59.098Z</updated>
+    <updated>2026-01-12T18:17:47.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -793,25 +793,6 @@ Events Further Afield This Summer first appeared on Orienteering Victoria.]]></s
         <summary type="html"><![CDATA[The orienteering events at the 25th Summer Deaflympics in Tokyo concluded in November, showcasing a spectacular display of navigation skills across two contrasting terrains. While the competition saw athletes from around the world tackle six medal events, the headlines belonged to the formidable Ukrainian team, whose dominance was on full display in front of enthusiastic […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Orienteering Making Headlines]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15248</id>
-        <link href="https://www.vicorienteering.asn.au/park-street-making-headlines/"/>
-        <updated>2025-12-14T05:15:46.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 14 2025]]></title>
-        <id>http://news.worldofo.com/?p=21390</id>
-        <link href="https://news.worldofo.com/2025/12/14/route-to-christmas-day-14-2025/"/>
-        <updated>2025-12-14T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is another leg from hilly Czech terrain – this time from the European Youth Orienteering Championships Long distance. This is the type of leg where you HAVE to decide where to run before leaving the control … Thanks a lot to Stanislav for suggesting this leg as a part of ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
