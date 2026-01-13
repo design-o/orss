@@ -221,16 +221,6 @@
           "wordCount": 3608,
           "title": "Route to Christmas: Day 16 2025",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/eyocsprint2025_x_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21398",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2025 is a leg from the French Championships Long distance in hilly terrain which gives some nice opportunities for route choices. The tip from Eva Jurenikova from this competition was actually for another leg (leg 11, M21), but after reviewing the course I decided that the third leg in ...",
-          "link": "https://news.worldofo.com/2025/12/15/route-to-christmas-day-15-2025/",
-          "publishedOn": "2025-12-15T03:00:55.000Z",
-          "wordCount": 1962,
-          "title": "Route to Christmas: Day 15 2025",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/frenchchampslong2025_x_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -298,16 +288,6 @@
           "wordCount": 1047,
           "title": "Events Further Afield This Summer",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15244",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/surfside-saturday-series-2026/",
-          "publishedOn": "2025-12-15T02:05:38.000Z",
-          "wordCount": 959,
-          "title": "Surfside Saturday Series 2026",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -316,6 +296,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22033",
+          "author": "Deirdre",
+          "description": "Early Bird entries close on Sunday, January 18th for the Irish Sprint Orienteering Championships, part of the exciting HIT THE TOWN festival of orienteering! This festival will take place in from 21 to 22 March 2026 and will be comprised of three events. Saturday AM 21st March: Irish Sprint Orienteering Championships – University of Limerick […]",
+          "link": "https://www.orienteering.ie/hit-the-town-early-bird-entries-closing-soon/",
+          "publishedOn": "2026-01-13T16:44:57.000Z",
+          "wordCount": 863,
+          "title": "HIT-THE-TOWN – Early bird entries closing soon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=21957",
           "author": "Operations Manager",
@@ -635,16 +625,6 @@
           "publishedOn": "2025-12-19T02:26:42.000Z",
           "wordCount": 1567,
           "title": "New Event | Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-13-2025-03_17_21-PM.png"
-        },
-        {
-          "id": "https://neooc.com/?p=49330",
-          "author": "Jay Smink",
-          "description": "2026 Snow-O at Camp Butler | January 17, 2026",
-          "link": "https://neooc.com/new-event-2026-snow-o-at-camp-butler-january-17-2026/",
-          "publishedOn": "2025-12-15T02:02:20.000Z",
-          "wordCount": 1558,
-          "title": "New Event | 2026 Snow-O at Camp Butler | January 17, 2026",
           "imageUrl": "https://neooc.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-13-2025-03_17_21-PM.png"
         }
       ]
