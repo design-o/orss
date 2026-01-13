@@ -64,16 +64,6 @@
           "wordCount": 1267,
           "title": "UN Resolution on promoting sustainability through sport",
           "imageUrl": "https://orienteering.sport/wp-content/uploads/2024/10/2024_control_william_hollowell-1024x576.jpg"
-        },
-        {
-          "id": "https://orienteering.sport/?p=80838",
-          "author": "Erling Thisted",
-          "description": "The orienteering events at the 25th Summer Deaflympics in Tokyo concluded in November, showcasing a spectacular display of navigation skills across two contrasting terrains. While the competition saw athletes from around the world tackle six medal events, the headlines belonged to the formidable Ukrainian team, whose dominance was on full display in front of enthusiastic […]",
-          "link": "https://orienteering.sport/ukrainians-dominate-at-deaflympics-in-tokyo-as-imperial-guests-cheer-in-sign-language/",
-          "publishedOn": "2025-12-14T21:50:13.000Z",
-          "wordCount": 1552,
-          "title": "Ukrainians Dominate at Deaflympics in Tokyo as Imperial Guests Cheer in Sign Language",
-          "imageUrl": "https://orienteering.sport/wp-content/uploads/2025/12/2025_deaflympics_photo_01-1024x683.jpg"
         }
       ]
     },
@@ -249,6 +239,16 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15288",
+          "author": "Margi Freemantle",
+          "description": "February in Victoria means Bendi-Go To-Day, traditionally the Victorian season opener with a sprint on the Saturday and hagaby on the Sunday. This year the event heads east of Bendigo and takes in two maps that are without doubt worth the effort, Assumption College & Argyle\nBendiGo ToDay 2026, 21 – 22 February first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/bendi-go-to-day-2026-21-22-february/",
+          "publishedOn": "2026-01-13T06:26:36.000Z",
+          "wordCount": 1096,
+          "title": "BendiGo ToDay 2026, 21 – 22 February",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=15274",
           "author": "Debbie Dodd",
