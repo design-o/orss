@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T12:21:44.355Z</updated>
+    <updated>2026-01-14T18:18:17.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7064</id>
+        <link href="https://www.niorienteering.org.uk/%f0%9f%9a%91rescue-emergency-care-rec-first-aid-training-for-ni-orienteering-members-%f0%9f%a7%ad/"/>
+        <updated>2026-01-14T12:35:50.000Z</updated>
+        <summary type="html"><![CDATA[🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭 Stay safe and prepared in the outdoors! We’re offering REC First Aid Training tailored for orienteers and outdoor adventurers. ✅ Courses Available: REC1, 1-Day, with CPR and treating casualties with common...
+The post 🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭 appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waterloo Street-O Results]]></title>
         <id>https://slow.org.uk/?p=23975</id>
@@ -795,27 +806,6 @@ The post Christmas is coming – and so is Membership Renewal appeared first on 
         <summary type="html"><![CDATA[Draft event information has now been published to the event website which outlines course lengths. A previous map of the University of Limerick has also been uploaded. Entries for the festical will open on SI Entries soon. Our High Performance Squad will also be running a raffle as a fundraiser for the squad in the […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Events Further Afield This Summer]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15223</id>
-        <link href="https://www.vicorienteering.asn.au/events-further-afield-this-summer/"/>
-        <updated>2025-12-16T03:27:02.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the Park Street events here in Victoria, consider attending two carnivals in NSW this summer.
-Events Further Afield This Summer first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 16 2025]]></title>
-        <id>http://news.worldofo.com/?p=21404</id>
-        <link href="https://news.worldofo.com/2025/12/16/route-to-christmas-day-16-2025/"/>
-        <updated>2025-12-16T03:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is the 14th leg from the European Youth Orienteering Championships (EYOC) in Czechia. A few days ago we featured a leg from the EYOC Long distance, so at EYOC the route setters really did a good job in great terrains. Thanks a lot to John Casey for the ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
