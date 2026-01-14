@@ -344,6 +344,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23975",
+          "author": "vinh",
+          "description": "Happy new year and well done to everyone who braved the wet around Waterloo! I hope you had fun. Thanks to Dan for organising and [...]",
+          "link": "https://slow.org.uk/streeto/waterloo-street-o-25-results/",
+          "publishedOn": "2026-01-13T23:45:20.000Z",
+          "wordCount": 2064,
+          "title": "Waterloo Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/balham-street-o-tuesday-15-january/files/StreetO_Nov2024_1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23964",
           "author": "Steve Clelland",
           "description": "Entries now open The second race of South London Orienteers’ 2025-2026 night series takes place on Barnes Common and Putney Lower Common, SW London on [...]",
