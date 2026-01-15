@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T06:18:09.935Z</updated>
+    <updated>2026-01-15T12:21:51.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Mapping Course]]></title>
+        <id>https://www.orienteering.ie/?p=22062</id>
+        <link href="https://www.orienteering.ie/orienteering-mapping-course-3/"/>
+        <updated>2026-01-15T09:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at club members new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭]]></title>
         <id>https://www.niorienteering.org.uk/?p=7064</id>
@@ -785,17 +795,6 @@ WOC 2026 | Manager Applications  first appeared on Orienteering New Zealand.]]>
         <summary type="html"><![CDATA[After 5 days of voting, courses from 10 countries are represented in the Top 15 of “Course of the Year 2025″. And what a collection of great courses! Take a look at the courses below, and make your vote if you have not voted yet. Note that the order of the courses listed below is completely random. Also ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas is coming – and so is Membership Renewal]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7010</id>
-        <link href="https://www.niorienteering.org.uk/christmas-is-coming-and-so-is-membership-renewal/"/>
-        <updated>2025-12-16T20:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Chrismas and New Year are coming and so is the end of the membership year. All memberships expire on 31 December. With around two weeks to go 83 members are signed up as 2026 members, but that leaves 180 with membership expiring on 31 December...
-The post Christmas is coming – and so is Membership Renewal appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
 </feed>

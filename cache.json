@@ -277,6 +277,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22062",
+          "author": "Deirdre",
+          "description": "Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at club members new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. […]",
+          "link": "https://www.orienteering.ie/orienteering-mapping-course-3/",
+          "publishedOn": "2026-01-15T09:20:23.000Z",
+          "wordCount": 855,
+          "title": "Orienteering Mapping Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22033",
           "author": "Deirdre",
           "description": "Early Bird entries close on Sunday, January 18th for the Irish Sprint Orienteering Championships, part of the exciting HIT THE TOWN festival of orienteering! This festival will take place in from 21 to 22 March 2026 and will be comprised of three events. Saturday AM 21st March: Irish Sprint Orienteering Championships – University of Limerick […]",
@@ -790,16 +800,6 @@
           "wordCount": 4417,
           "title": "Landscapes NI Survey",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2023/01/Drumkeeragh-map.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7010",
-          "author": "NIOA Secretary",
-          "description": "Chrismas and New Year are coming and so is the end of the membership year. All memberships expire on 31 December. With around two weeks to go 83 members are signed up as 2026 members, but that leaves 180 with membership expiring on 31 December...\nThe post Christmas is coming – and so is Membership Renewal appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/christmas-is-coming-and-so-is-membership-renewal/",
-          "publishedOn": "2025-12-16T20:26:16.000Z",
-          "wordCount": 4421,
-          "title": "Christmas is coming – and so is Membership Renewal",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2012/05/member.jpg"
         }
       ]
     },
