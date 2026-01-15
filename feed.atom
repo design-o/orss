@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T12:21:51.402Z</updated>
+    <updated>2026-01-15T18:22:12.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Box Hill Final Details and Course Notes]]></title>
+        <id>https://slow.org.uk/?p=23986</id>
+        <link href="https://slow.org.uk/events/box-hill-final-details-2026/"/>
+        <updated>2026-01-15T18:10:50.000Z</updated>
+        <summary type="html"><![CDATA[There are some course changes compared to previous years. See additional course notes below. Please look out for pink flags at all times. Final Details [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Mapping Course]]></title>
         <id>https://www.orienteering.ie/?p=22062</id>
@@ -775,26 +785,6 @@ WOC 2026 | Manager Applications  first appeared on Orienteering New Zealand.]]>
         <summary type="html"><![CDATA[Check out our new quarterly bulletin where we give an overview of what’s been happening in orienteering across Ireland. The bulletin gives an insight to activities at club, national squads, NGB and at local level with the Local Sports Partnerships. Download the bulletin here!]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 17 2025]]></title>
-        <id>http://news.worldofo.com/?p=21422</id>
-        <link href="https://news.worldofo.com/2025/12/17/route-to-christmas-day-17-2025/"/>
-        <updated>2025-12-17T03:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is an epic 3.8 km long leg from the “long night” of the largest international orienteering relay, Jukola. And what a leg – here you can get mentally exhausted just by trying to figure out where to run!  Thanks a lot to Agnar Reolen for the tip! Another reason for ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2025: Overall Top 15 as of now]]></title>
-        <id>http://news.worldofo.com/?p=21415</id>
-        <link href="https://news.worldofo.com/2025/12/17/course-of-the-year-2025-overall-top-15-as-of-now/"/>
-        <updated>2025-12-17T03:00:14.000Z</updated>
-        <summary type="html"><![CDATA[After 5 days of voting, courses from 10 countries are represented in the Top 15 of “Course of the Year 2025″. And what a collection of great courses! Take a look at the courses below, and make your vote if you have not voted yet. Note that the order of the courses listed below is completely random. Also ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
