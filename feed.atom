@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T12:21:40.865Z</updated>
+    <updated>2026-01-16T18:18:06.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -755,16 +755,6 @@ JWOC 2026 | Coach & Manager Applications  first appeared on Orienteering New Ze
 WOC 2026 | Manager Applications  first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route to Christmas: Day 18 2025]]></title>
-        <id>http://news.worldofo.com/?p=21434</id>
-        <link href="https://news.worldofo.com/2025/12/18/route-to-christmas-day-18-2025/"/>
-        <updated>2025-12-18T03:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a long leg from the 3+3 Long distance in Sälen, Sweden this summer – and the same leg was used both in the men’s and women’s elite course. This one looks fun and challenging! Thanks a lot to Hugo Claesson and Eva Jurenikova for the tip. This course ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
 </feed>
