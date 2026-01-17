@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T06:16:13.876Z</updated>
+    <updated>2026-01-17T12:19:09.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinestars Team Named]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64935</id>
+        <link href="https://www.orienteering.org.nz/news/pinestars-team-named/"/>
+        <updated>2026-01-17T09:37:30.000Z</updated>
+        <summary type="html"><![CDATA[New Zealand and Australia will compete in an Elite Test Match as part of the Oceania Sprint Orienteering Championships, held from 24 to 26 January on the Central Coast, NSW. The NZ Senior Selection panel has named the following team: Knock Out Sprint Men Nathan Borton Felix Hunt Joseph Lynch Women Kaia Joergensen Georgia Lindroos […]
+Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Box Hill Final Details and Course Notes]]></title>
         <id>https://slow.org.uk/?p=23986</id>
