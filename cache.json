@@ -376,18 +376,7 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": [
-        {
-          "id": "https://neooc.com/?p=49423",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st",
-          "link": "https://neooc.com/new-event-sunny-lake-score-course-annual-club-meeting-saturday-feb-21st/",
-          "publishedOn": "2025-12-19T02:26:42.000Z",
-          "wordCount": 1567,
-          "title": "New Event | Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-13-2025-03_17_21-PM.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Scottish Orienteering Association",

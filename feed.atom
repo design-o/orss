@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T00:58:48.077Z</updated>
+    <updated>2026-01-18T06:16:47.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -476,16 +476,6 @@ New Year reminders for 2026 first appeared on Orienteering New Zealand.]]></summ
 Park Street Update, December 30-January 5 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st]]></title>
-        <id>https://neooc.com/?p=49423</id>
-        <link href="https://neooc.com/new-event-sunny-lake-score-course-annual-club-meeting-saturday-feb-21st/"/>
-        <updated>2025-12-19T02:26:42.000Z</updated>
-        <summary type="html"><![CDATA[Sunny Lake Score Course | Annual Club Meeting | Saturday, Feb 21st]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
