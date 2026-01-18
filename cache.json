@@ -255,16 +255,6 @@
           "wordCount": 863,
           "title": "HIT-THE-TOWN – Early bird entries closing soon",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=21957",
-          "author": "Operations Manager",
-          "description": "Entries for the Hit-The-Town Orienteering Festival in Limerick are now OPEN!Enter online using SI Entries here! Early-bird prices available until 18 January 2026. Take part in the Irish Open Sprint Orienteering Championships, a fun two-person sprint relay, and an urban event in Limerick City this March! More info on the festival is available on the […]",
-          "link": "https://www.orienteering.ie/hit-the-town-orienteering-festival-entries-open/",
-          "publishedOn": "2025-12-19T12:00:00.000Z",
-          "wordCount": 787,
-          "title": "Hit-The-Town Orienteering Festival – ENTRIES OPEN",
-          "imageUrl": null
         }
       ]
     },
@@ -273,6 +263,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24006",
+          "author": "Steve Clelland",
+          "description": "Provisional results from the 2026 Box Hill Fell Race Individual – pdf Results by age class – pdf Team results – pdf Interactive Live results [...]",
+          "link": "https://slow.org.uk/racereports/box-hill-results-2026/",
+          "publishedOn": "2026-01-17T20:59:44.000Z",
+          "wordCount": 2033,
+          "title": "Box Hill Fell Race Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Box_hill_2026_start.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=23986",
           "author": "Steve Clelland",
@@ -369,26 +369,6 @@
           "wordCount": 2222,
           "title": "New Year reminders for 2026",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/12/New-year-reminders.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64879",
-          "author": "Christo Peters",
-          "description": "Like our strategic plan, we thank our community  for sharing their thoughts through forums and direct feedback. Once approved, this document will guide ONZ’s development strategy in the school and U20 space. We welcome any final feedback to be considered at the ONZ Board meeting in the last week of January 2026. The strategy advocates […]\nONZ DRAFT Junior Development Framework & Schools Strategy  first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/onz-draft-junior-development-framework-schools-strategy/",
-          "publishedOn": "2025-12-19T08:02:16.000Z",
-          "wordCount": 2297,
-          "title": "ONZ DRAFT Junior Development Framework & Schools Strategy",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/10/ONZ-large-logo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64876",
-          "author": "Christo Peters",
-          "description": "We thank our community of passionate orienteers for sharing their thoughts so generously to enable this strategic plan to reflect what is important for our community. It’s a continuation of the previous strategic plan with emphasis on governance and processes, and maps and landowner relationships underpinning growth in participation and membership, club capability and performance […]\nONZ Strategic plan  |  2026-2030 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/onz-strategic-plan-2026-2030/",
-          "publishedOn": "2025-12-19T07:38:38.000Z",
-          "wordCount": 2240,
-          "title": "ONZ Strategic plan  |  2026-2030",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/12/98093c5d-29b6-8cb6-7403-9cbbf304b874.jpg"
         }
       ]
     },
@@ -511,6 +491,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7069",
+          "author": "NIOA Secretary",
+          "description": "Last year the Irish Orienteering Championships were hosted by NWOC in Northern Ireland. This year it is the turn of Munster, but with a departure from the normal pattern: The Sprint Championships are being held on Saturday 21 March, as part of the “Hit the...\nThe post Hit the Irish Championships 2026 appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/hit-the-irish-championships-2026/",
+          "publishedOn": "2026-01-17T22:53:16.000Z",
+          "wordCount": 4368,
+          "title": "Hit the Irish Championships 2026",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/01/Hit-Town.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7064",
           "author": "Richard Gamble",
