@@ -161,16 +161,6 @@
           "wordCount": 3098,
           "title": "Route to Christmas: Day 21 2025",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/eocsprint2025_x_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21441",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas 2025 is a leg in spectacular surroundings from the 7th Swiss National Event this year at Long Heinzenberg.  – A never before mapped gem with as always in the swiss mountains stunning surroundings and views, Silvan Ullmann wrote when nominating this course for Course of the Year 2025. – Many sections ...",
-          "link": "https://news.worldofo.com/2025/12/20/route-to-christmas-day-20-2025/",
-          "publishedOn": "2025-12-20T03:00:56.000Z",
-          "wordCount": 2019,
-          "title": "Route to Christmas: Day 20 2025",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/swiss7nat2025_x_x_blank_s-590x330.jpg"
         }
       ]
     },
@@ -197,6 +187,16 @@
           "publishedOn": "2026-01-13T00:23:15.000Z",
           "wordCount": 1037,
           "title": "Bike-O 75 Events This Summer",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Hawthorn East, scheduled for Wed 7 January, will now take place on Saturday morning January 10.  Read on for the details.\nPark Street Update, January 13-19 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2026-01-03T23:41:54.000Z",
+          "wordCount": 1332,
+          "title": "Park Street Update, January 13-19",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -366,7 +366,18 @@
       "title": "O-Blog – Northeastern Ohio Orienteering Club",
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://neooc.com/?p=49558",
+          "author": "Jay Smink",
+          "description": "Recap and Results The weather was wonderful for winter. Temps in the low 30s, mostly sunny skies with just a quick snow shower late in the event. Only a few inches of snow from the week’s storms. Over 60 orienteers came out to work on their New Year’s resolutions and have fun in the woods. […]",
+          "link": "https://neooc.com/results-snow-o-2026-camp-butler-sat-january-17/",
+          "publishedOn": "2026-01-18T16:56:26.000Z",
+          "wordCount": 1723,
+          "title": "Results| Snow O 2026 | Camp Butler | Sat January 17",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
+        }
+      ]
     },
     {
       "title": "Scottish Orienteering Association",
