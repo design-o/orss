@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T18:16:53.816Z</updated>
+    <updated>2026-01-20T00:53:38.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Battersea Park Night-O – 3rd February]]></title>
+        <id>https://slow.org.uk/?p=24012</id>
+        <link href="https://slow.org.uk/events/battersea-february2026/"/>
+        <updated>2026-01-19T22:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Entries now open The third race of South London Orienteers’ 2025-2026 Night series takes place in Battersea Park, south-west London, on Tuesday 3rd February 2026. Race Centre [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| Snow O 2026 | Camp Butler | Sat January 17]]></title>
         <id>https://neooc.com/?p=49558</id>
