@@ -121,16 +121,6 @@
           "wordCount": 1973,
           "title": "Route to Christmas: Day 24 2025",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2025/12/wcidrelong_x_x_blank_s-590x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21454",
-          "author": "Jan Kocbach",
-          "description": "Today’s leg in Route to Christmas is a night orientering leg from the Swiss night orienteering championships, organized in October.  The terrain does maybe not look that exciting, but this is still an interesting leg, straight out from the start. The leg is as usually first provided without routes – you may take a look at ...",
-          "link": "https://news.worldofo.com/2025/12/23/route-to-christmas-day-23-2025/",
-          "publishedOn": "2025-12-23T03:00:58.000Z",
-          "wordCount": 1979,
-          "title": "Route to Christmas: Day 23 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -364,6 +354,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56589",
+          "author": "nikkihoward",
+          "description": "We hope that most of you already know that SOA is hosting the JK Festival of orienteering this Easter – and […]",
+          "link": "https://www.scottish-orienteering.org/news/jk-2026-countdown/?utm_source=rss&utm_medium=rss&utm_campaign=jk-2026-countdown",
+          "publishedOn": "2026-01-21T14:20:32.000Z",
+          "wordCount": 1885,
+          "title": "JK 2026 countdown",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/01/Screenshot-2026-01-21-122606-1024x298.png"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56593",
+          "author": "nikkihoward",
+          "description": "With the busy January and February calendar with British Orienteering Development Conference, it has been decided to focus the SOA […]",
+          "link": "https://www.scottish-orienteering.org/news/2026-community-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=2026-community-conversations",
+          "publishedOn": "2026-01-21T14:18:20.000Z",
+          "wordCount": 1630,
+          "title": "2026 Community Conversations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56573",
           "author": "nikkihoward",
