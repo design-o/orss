@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T06:19:01.700Z</updated>
+    <updated>2026-01-22T12:24:38.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Growing your Club – British Orienteering Development Conference Webinar]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7080</id>
+        <link href="https://www.niorienteering.org.uk/growing-your-club-british-orienteering-development-conference-webinar/"/>
+        <updated>2026-01-22T09:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Join Kerina Lake (SBOC) for a practical session designed to help smaller clubs confidently host events that welcome juniors and newcomers. Learn how to plan accessible activities, create a friendly atmosphere, and steer clear of common mistakes.  This webinar will give you simple, actionable ideas...
+The post Growing your Club – British Orienteering Development Conference Webinar appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 WOC Expression of Interest List]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64968</id>
@@ -481,16 +492,6 @@ New Year reminders for 2026 first appeared on Orienteering New Zealand.]]></summ
         <summary type="html"><![CDATA[Today’s leg in Route to Christmas 2025 is a long leg from one of the highlights on this year’s World Cup calendar – the long distance race in Idre.  There were actually several interesting legs on this course. Here we chose the last of the long legs as the same leg was featured both in ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reporting on the first year of Scottish Orienteering 2025-2029 Strategy]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56538</id>
-        <link href="https://www.scottish-orienteering.org/news/reporting-on-the-first-year-of-scottish-orienteering-2025-2029-strategy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reporting-on-the-first-year-of-scottish-orienteering-2025-2029-strategy"/>
-        <updated>2025-12-23T19:04:17.000Z</updated>
-        <summary type="html"><![CDATA[As a means of sharing the progress of our sport we have prepared our first Annual Impact Report.  The impact […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
