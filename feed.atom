@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T18:28:45.605Z</updated>
+    <updated>2026-01-22T00:54:14.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Board Nominations | Due 20 Feb]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64960</id>
+        <link href="https://www.orienteering.org.nz/news/2026-board-nominations/"/>
+        <updated>2026-01-22T00:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering New Zealand’s (ONZ) Board is responsible for the governance of our sport at a national level. Elected Board members serve three-year terms that start and finish at Annual General Meetings. Collectively the Board decides on national priorities and the resources needed to achieve them. For more on the responsibilities of the Board please feel […]
+2026 Board Nominations | Due 20 Feb first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JK 2026 countdown]]></title>
         <id>https://www.scottish-orienteering.org/?p=56589</id>
@@ -467,26 +478,6 @@ New Year reminders for 2026 first appeared on Orienteering New Zealand.]]></summ
         <link href="https://www.scottish-orienteering.org/news/reporting-on-the-first-year-of-scottish-orienteering-2025-2029-strategy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reporting-on-the-first-year-of-scottish-orienteering-2025-2029-strategy"/>
         <updated>2025-12-23T19:04:17.000Z</updated>
         <summary type="html"><![CDATA[As a means of sharing the progress of our sport we have prepared our first Annual Impact Report.  The impact […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applications sought for 2026 Development Fund]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56472</id>
-        <link href="https://www.scottish-orienteering.org/news/applications-sought-for-2026-development-fund/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applications-sought-for-2026-development-fund"/>
-        <updated>2025-12-23T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Over the years the SOA Development Fund has supported Scottish clubs wishing to undertake projects with the aim of developing […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perthshire 2027 Scottish 6 Day Co-ordinator and Assistant Coordinator appointed and at work]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56528</id>
-        <link href="https://www.scottish-orienteering.org/news/perthshire-2027-scottish-6-day-co-ordinator-and-assistant-coordinator-appointed-and-at-work/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=perthshire-2027-scottish-6-day-co-ordinator-and-assistant-coordinator-appointed-and-at-work"/>
-        <updated>2025-12-23T11:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Following the success of Deeside 2025 this summer, Graham McIntyre of Interlopers was appointed as the Perthshire 2027 Scottish 6 […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>

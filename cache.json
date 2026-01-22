@@ -291,6 +291,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=64960",
+          "author": "Christo Peters",
+          "description": "Orienteering New Zealand’s (ONZ) Board is responsible for the governance of our sport at a national level. Elected Board members serve three-year terms that start and finish at Annual General Meetings. Collectively the Board decides on national priorities and the resources needed to achieve them. For more on the responsibilities of the Board please feel […]\n2026 Board Nominations | Due 20 Feb first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2026-board-nominations/",
+          "publishedOn": "2026-01-22T00:37:29.000Z",
+          "wordCount": 2273,
+          "title": "2026 Board Nominations | Due 20 Feb",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/New-Board-Members-logo.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=64935",
           "author": "Christo Peters",
           "description": "New Zealand and Australia will compete in an Elite Test Match as part of the Oceania Sprint Orienteering Championships, held from 24 to 26 January on the Central Coast, NSW. The NZ Senior Selection panel has named the following team: Knock Out Sprint Men Nathan Borton Felix Hunt Joseph Lynch Women Kaia Joergensen Georgia Lindroos […]\nPinestars Team Named first appeared on Orienteering New Zealand.",
@@ -443,26 +453,6 @@
           "wordCount": 1569,
           "title": "Reporting on the first year of Scottish Orienteering 2025-2029 Strategy",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/Screenshot-2025-12-23-161642-1024x577.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56472",
-          "author": "louise",
-          "description": "Over the years the SOA Development Fund has supported Scottish clubs wishing to undertake projects with the aim of developing […]",
-          "link": "https://www.scottish-orienteering.org/news/applications-sought-for-2026-development-fund/?utm_source=rss&utm_medium=rss&utm_campaign=applications-sought-for-2026-development-fund",
-          "publishedOn": "2025-12-23T11:30:07.000Z",
-          "wordCount": 1674,
-          "title": "Applications sought for 2026 Development Fund",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/Development-Fund-1024x1024.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56528",
-          "author": "nikkihoward",
-          "description": "Following the success of Deeside 2025 this summer, Graham McIntyre of Interlopers was appointed as the Perthshire 2027 Scottish 6 […]",
-          "link": "https://www.scottish-orienteering.org/news/perthshire-2027-scottish-6-day-co-ordinator-and-assistant-coordinator-appointed-and-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=perthshire-2027-scottish-6-day-co-ordinator-and-assistant-coordinator-appointed-and-at-work",
-          "publishedOn": "2025-12-23T11:08:45.000Z",
-          "wordCount": 1714,
-          "title": "Perthshire 2027 Scottish 6 Day Co-ordinator and Assistant Coordinator appointed and at work",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/IMG_1090-1024x612.jpeg"
         }
       ]
     },
