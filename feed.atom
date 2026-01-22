@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T00:54:14.833Z</updated>
+    <updated>2026-01-22T06:19:01.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 WOC Expression of Interest List]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64968</id>
+        <link href="https://www.orienteering.org.nz/news/2026-woc-expression-of-interest-list/"/>
+        <updated>2026-01-22T00:54:36.000Z</updated>
+        <summary type="html"><![CDATA[The following athletes have expressed interest in selection for the 2026 World Orienteering Championships (WOC) team:. Women Renee Beveridge Kaia Jorgensen Georgia Lindroos Amber Riddle Laura Robertson Penelope Salmon Briana Steven Zara Stewart Zara Toes Men Nathan Borton Tommy Hayes Felix Hunt Jakob Knoef Joseph Lynch Tim Robertson Kieran Woods Athletes are reminded that any […]
+2026 WOC Expression of Interest List first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Board Nominations | Due 20 Feb]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64960</id>
