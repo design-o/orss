@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T18:15:18.552Z</updated>
+    <updated>2026-01-25T00:59:55.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AGM and Prizegiving]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7094</id>
+        <link href="https://www.niorienteering.org.uk/agm-and-prizegiving/"/>
+        <updated>2026-01-24T20:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Notice is given that the Annual General Meeting of NI Orienteering and Prizegiving is to take place on Saturday 21 February 2026 at 14:00 at the Bawnacre Centre, Castle St, Irvinestown, Co Fermanagh, BT94 1EE. The AGM will follow the 2026 NI Score Championships at...
+The post AGM and Prizegiving appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[February – Loving Lots of O this month!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7091</id>
