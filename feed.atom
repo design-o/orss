@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T00:59:36.409Z</updated>
+    <updated>2026-01-26T06:22:14.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | Kendall Lake Classic | Vintage Map | Cuyahoga Valley NP | Sunday, March 15]]></title>
+        <id>https://neooc.com/?p=49599</id>
+        <link href="https://neooc.com/new-event-kendall-lake-classic-vintage-map-cuyahoga-valley-np-sunday-march-15/"/>
+        <updated>2026-01-26T01:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Kendall Lake Classic | Vintage Map | Cuyahoga Valley NP | Sunday, March 15]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AGM and Prizegiving]]></title>
         <id>https://www.niorienteering.org.uk/?p=7094</id>
