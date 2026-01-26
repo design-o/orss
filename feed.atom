@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T12:23:44.020Z</updated>
+    <updated>2026-01-26T18:19:31.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Four Scales of Green]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7101</id>
+        <link href="https://www.niorienteering.org.uk/four-scales-of-green/"/>
+        <updated>2026-01-26T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Planners and Controllers are asked to note several changes to the specification for the NI Colour Series League for 2026: For the benefit of our older veteran members who request a technical challege but a lesser physical challenge, where feasible a Very Short Green course...
+The post Four Scales of Green appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | Kendall Lake Classic | Vintage Map | Cuyahoga Valley NP | Sunday, March 15]]></title>
         <id>https://neooc.com/?p=49599</id>
