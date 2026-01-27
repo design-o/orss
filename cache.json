@@ -120,6 +120,26 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15326",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-success-at-oceania-champs-sprint-the-coast/",
+          "publishedOn": "2026-01-20T00:39:47.000Z",
+          "wordCount": 1012,
+          "title": "Victorian Success at Oceania Champs/Sprint The Coast",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15322",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/central-highlands-twilight-series-wednesdays-in-february/",
+          "publishedOn": "2026-01-19T23:25:40.000Z",
+          "wordCount": 972,
+          "title": "Central Highlands Twilight Series, Wednesdays in February",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15288",
           "author": "Margi Freemantle",
           "description": "February in Victoria means Bendi-Go To-Day, traditionally the Victorian season opener with a sprint on the Saturday and hagaby on the Sunday. This year the event heads east of Bendigo and takes in two maps that are without doubt worth the effort, Assumption College & Argyle\nBendiGo ToDay 2026, 21 – 22 February first appeared on Orienteering Victoria.",
@@ -337,6 +357,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=49603",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "2026 Girdled Road Classic | Lake County | Saturday, April 4",
+          "link": "https://neooc.com/new-event-2026-girdled-road-classic-lake-county-saturday-april-4/",
+          "publishedOn": "2026-01-26T20:29:05.000Z",
+          "wordCount": 1573,
+          "title": "New Event | 2026 Girdled Road Classic | Lake County | Saturday, April 4",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2025/10/GirdledRoadReservation.png"
+        },
         {
           "id": "https://neooc.com/?p=49599",
           "author": "Northeast Ohio Orienteering Club",
