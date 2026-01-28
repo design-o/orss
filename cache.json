@@ -224,6 +224,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24030",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident – live results WinSplits – splits around the timed out crossings may not be correct Routegadget – draw your route! Planner’s [...]",
+          "link": "https://slow.org.uk/racereports/barnes-common-results-jan2026/",
+          "publishedOn": "2026-01-27T22:52:29.000Z",
+          "wordCount": 2495,
+          "title": "Barnes Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/barnes-common-results-jan2026/files/Long_course_map_extract.png"
+        },
+        {
           "id": "https://slow.org.uk/?p=24012",
           "author": "Steve Clelland",
           "description": "Entries now open The third race of South London Orienteers’ 2025-2026 Night series takes place in Battersea Park, south-west London, on Tuesday 3rd February 2026. Race Centre [...]",
@@ -463,16 +473,6 @@
           "wordCount": 1728,
           "title": "Scottish Inter Club Championship relaunched with a new format for 2026!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56546",
-          "author": "suzannerb",
-          "description": "Club coaching is a great way to introduce new participants to the sport we love or support existing members to […]",
-          "link": "https://www.scottish-orienteering.org/news/coaching-courses/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-courses",
-          "publishedOn": "2025-12-29T12:29:14.000Z",
-          "wordCount": 1725,
-          "title": "Coaching Courses",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/12/image.png"
         }
       ]
     },

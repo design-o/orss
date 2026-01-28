@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T18:22:21.087Z</updated>
+    <updated>2026-01-28T00:54:33.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barnes Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=24030</id>
+        <link href="https://slow.org.uk/racereports/barnes-common-results-jan2026/"/>
+        <updated>2026-01-27T22:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf SPORTident – live results WinSplits – splits around the timed out crossings may not be correct Routegadget – draw your route! Planner’s [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2026 Girdled Road Classic | Lake County | Saturday, April 4]]></title>
         <id>https://neooc.com/?p=49603</id>
@@ -522,16 +532,6 @@ Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on
         <summary type="html"><![CDATA[Having run the Scottish Inter Club Championship in its revised format for a few years, we listened to your feedback […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coaching Courses]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56546</id>
-        <link href="https://www.scottish-orienteering.org/news/coaching-courses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coaching-courses"/>
-        <updated>2025-12-29T12:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Club coaching is a great way to introduce new participants to the sport we love or support existing members to […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
     <entry>
