@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T01:02:25.154Z</updated>
+    <updated>2026-01-29T06:32:40.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -545,26 +545,6 @@ Orienteering Victoria Yearbook and 2026 Calendar Now Available first appeared on
         <summary type="html"><![CDATA[Norway’s Pia Young Vik had an amazing 2025 season. In her just second year as a senior, she won the EOC Sprint in Belgium, took the silver in KO Sprint two days before and another silver with her teammates at the WOC Relay in Finland. And then we haven’t even got to talk about the […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Squads 2025 Recap]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56479</id>
-        <link href="https://www.scottish-orienteering.org/news/junior-squads-2025-recap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-squads-2025-recap"/>
-        <updated>2025-12-30T13:37:43.000Z</updated>
-        <summary type="html"><![CDATA[It has been a strong year for our regional squads, with regular East and West junior training sessions and re-establishing […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Scottish Orienteering Fixtures – Diaries at the ready?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56560</id>
-        <link href="https://www.scottish-orienteering.org/news/2026-scottish-orienteering-fixtures-diaries-at-the-ready/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-scottish-orienteering-fixtures-diaries-at-the-ready"/>
-        <updated>2025-12-30T13:35:45.000Z</updated>
-        <summary type="html"><![CDATA[The fixtures calendar for 2026 has been finalised and we are very grateful for all those clubs who have volunteered […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
