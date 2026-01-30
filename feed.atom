@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T06:34:36.105Z</updated>
+    <updated>2026-01-30T12:29:27.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Northern Schools NI Orienteering Assessment]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7112</id>
+        <link href="https://www.niorienteering.org.uk/7112-2/"/>
+        <updated>2026-01-30T11:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Northern Schools NI Orienteering Assessment – Ulster University Coleraine Campus On Monday 26 January, the first Northern Ireland Schools Orienteering Assessment for schools situated in the North Coast was successfully delivered at the Coleraine campus of Ulster University. Despite a cold wind, participants were fortunate...
+The post Northern Schools NI Orienteering Assessment appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[King’s Birthday Hobbit Tour]]></title>
         <id>https://orienteering.asn.au/?p=15515</id>
