@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T18:29:32.933Z</updated>
+    <updated>2026-01-30T01:02:12.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[King’s Birthday Hobbit Tour]]></title>
+        <id>https://orienteering.asn.au/?p=15515</id>
+        <link href="https://orienteering.asn.au/kings-birthday-hobbit-tour/"/>
+        <updated>2026-01-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Make 2026 your first overseas orienteering tour and explore the magical forests of New Zealand!
+King’s Birthday Hobbit Tour first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Weeks Development Conference Webinars – something for you?]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7085</id>
+        <link href="https://www.niorienteering.org.uk/next-weeks-development-conference-webinars-something-for-you/"/>
+        <updated>2026-01-29T19:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Safety Advisory Group Update – something for event officials and committee Monday 2 February 2026, 19:00-20:00 This session dives into the world of safety, and what the Group are working on to make Orienteering in the UK a safer place for all.  We will be demonstrating the Online Incident Report System, and sharing some insights...
+The post Next Weeks Development Conference Webinars – something for you? appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EYOC2026 Squad: Nominations Form and Selection Guidelines]]></title>
         <id>https://orienteering.asn.au/?p=15503</id>
