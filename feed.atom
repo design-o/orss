@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-02T18:27:04.731Z</updated>
+    <updated>2026-02-03T01:06:34.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brockwell Park Night-O, Tuesday 24th February]]></title>
+        <id>https://slow.org.uk/?p=24052</id>
+        <link href="https://slow.org.uk/events/brockwell-night-feb2026/"/>
+        <updated>2026-02-02T22:19:42.000Z</updated>
+        <summary type="html"><![CDATA[The fourth race of South London Orienteers’ 2025-2026 Night series takes place in Brockwell Park, south-west London, on Tuesday 24th February 2026. Race Centre The race will [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[View from the Chair | January 2026]]></title>
         <id>https://www.orienteering.org.nz/?p=65072</id>
