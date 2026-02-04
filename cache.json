@@ -321,6 +321,26 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65149",
+          "author": "Christo Peters",
+          "description": "This update supersedes the previous JWOC Selection notice posted 19 November The Junior World Orienteering Championships (JWOC) 2026 are scheduled to be held in Karlskrona, Sweden from 29 June – 4 July 2026. JWOC will consist of individual Sprint, Middle, and Long distance races, a Sprint Relay and a Forest Relay. Classes are: New Zealand […]\nJWOC 2026 | UPDATED Selection Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/jwoc-2026-updated-selection-notice/",
+          "publishedOn": "2026-02-04T06:06:03.000Z",
+          "wordCount": 2411,
+          "title": "JWOC 2026 | UPDATED Selection Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/JWOC-2026-Logo.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65146",
+          "author": "Christo Peters",
+          "description": "The first round of the 2026 IOF World Cup will be held in Ascona-Locano, Switzerland from24-26 April 2026. The programme will consist of a sprint, knock-out and sprint relay. New Zealand is entitled to enter up to 8 men and 8 women in all individual competitions andup to 4 teams in the sprint relay. Selection […]\nWorld Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/world-cup-round-1-selection-notice-2/",
+          "publishedOn": "2026-02-04T05:31:12.000Z",
+          "wordCount": 2300,
+          "title": "World Cup Round 1 | Selection Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/02/Screenshot-726.png"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?p=65072",
           "author": "Christo Peters",
           "description": "I hope you all had some time to relax over the summer. The orienteering year is gearing up with evening summer series after work throughout the country. At our Board meeting a few days ago we signed off the Business Plan and budget for 2026. A main area of investment is in the schools and junior area […]\nView from the Chair | January 2026 first appeared on Orienteering New Zealand.",
@@ -640,16 +660,6 @@
           "wordCount": 4411,
           "title": "Register for the 2026 Development Conference",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/01/Devlopment-2026.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7052",
-          "author": "Richard Gamble",
-          "description": "As we enter a New Year, we have hopes and plans for many more Orienteering events and activities for 2026. Orienteering relies on good relationships with and permission from landowners to use their land. We can not take access for granted, so we need to...\nThe post Landscapes NI Survey appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/landscapes-ni-survey/",
-          "publishedOn": "2026-01-05T14:24:26.000Z",
-          "wordCount": 4417,
-          "title": "Landscapes NI Survey",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2023/01/Drumkeeragh-map.jpg"
         }
       ]
     },

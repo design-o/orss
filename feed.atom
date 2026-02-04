@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T01:01:29.850Z</updated>
+    <updated>2026-02-04T06:36:04.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2026 | UPDATED Selection Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65149</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-2026-updated-selection-notice/"/>
+        <updated>2026-02-04T06:06:03.000Z</updated>
+        <summary type="html"><![CDATA[This update supersedes the previous JWOC Selection notice posted 19 November The Junior World Orienteering Championships (JWOC) 2026 are scheduled to be held in Karlskrona, Sweden from 29 June – 4 July 2026. JWOC will consist of individual Sprint, Middle, and Long distance races, a Sprint Relay and a Forest Relay. Classes are: New Zealand […]
+JWOC 2026 | UPDATED Selection Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup Round 1 | Selection Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65146</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-round-1-selection-notice-2/"/>
+        <updated>2026-02-04T05:31:12.000Z</updated>
+        <summary type="html"><![CDATA[The first round of the 2026 IOF World Cup will be held in Ascona-Locano, Switzerland from24-26 April 2026. The programme will consist of a sprint, knock-out and sprint relay. New Zealand is entitled to enter up to 8 men and 8 women in all individual competitions andup to 4 teams in the sprint relay. Selection […]
+World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Battersea Park Night-O Results]]></title>
         <id>https://slow.org.uk/?p=24060</id>
@@ -657,17 +679,6 @@ The post Register for the 2026 Development Conference appeared first on NI Orien
 Robbie & Val Robinson on 2026 New Year’s Honours list first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landscapes NI Survey]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7052</id>
-        <link href="https://www.niorienteering.org.uk/landscapes-ni-survey/"/>
-        <updated>2026-01-05T14:24:26.000Z</updated>
-        <summary type="html"><![CDATA[As we enter a New Year, we have hopes and plans for many more Orienteering events and activities for 2026. Orienteering relies on good relationships with and permission from landowners to use their land. We can not take access for granted, so we need to...
-The post Landscapes NI Survey appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>Richard Gamble</name>
         </author>
     </entry>
     <entry>
