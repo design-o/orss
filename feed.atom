@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T18:39:42.551Z</updated>
+    <updated>2026-02-04T01:01:29.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Battersea Park Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=24060</id>
+        <link href="https://slow.org.uk/racereports/battersea-results-feb2026/"/>
+        <updated>2026-02-03T23:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf SPORTident – live results WinSplits Routegadget – draw your route Lost Property Half moon glasses A delightful collection of: 1 stripey sock, [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brockwell Park Night-O, Tuesday 24th February]]></title>
         <id>https://slow.org.uk/?p=24052</id>
@@ -658,16 +668,6 @@ Robbie & Val Robinson on 2026 New Year’s Honours list first appeared on Orient
 The post Landscapes NI Survey appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could you be our new Coaching and Volunteer Officer?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56573</id>
-        <link href="https://www.scottish-orienteering.org/news/could-you-be-our-new-coaching-and-volunteer-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=could-you-be-our-new-coaching-and-volunteer-officer"/>
-        <updated>2026-01-05T12:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a passion for coaching and developing a volunteer workforce?   Our current Coaching and Volunteer Officer, Suzanne Robins […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
