@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T01:03:50.795Z</updated>
+    <updated>2026-02-05T06:43:22.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -648,16 +648,6 @@ The post Register for the 2026 Development Conference appeared first on NI Orien
         <summary type="html"><![CDATA[We continue our countdown in Course of the Year 2025: In 7th place we find the Finnish Championships Long distance, in 6th place we find the JWOC Sprint and in 5th place we find the Maximus O Meeting Stage 1. Two challenging long distance courses in very different terrain – and one hilly sprint course with many tricky ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLOW MBO Event Calendar 2026]]></title>
-        <id>https://slow.org.uk/?p=23715</id>
-        <link href="https://slow.org.uk/events/slow-mbo-event-calendar-2026/"/>
-        <updated>2026-01-06T13:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the SLOW MBO 2026 season. SLOW mountain bike events are open to everyone from beginners to experts and give you a chance to [...]]]></summary>
-        <author>
-            <name>Dave Uglow</name>
         </author>
     </entry>
     <entry>
