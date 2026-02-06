@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T01:01:47.124Z</updated>
+    <updated>2026-02-06T06:38:38.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -648,17 +648,6 @@ OCEANIA SPRINT CHAMPIONSHIPS AND SPRINT THE COAST – entries close Sunday 11 Ja
         <summary type="html"><![CDATA[We continue our countdown in Course of the Year 2025: In 4th place we find the European Championships Sprint and in 3rd place we find the third leg of the Jukola relay. Two high profile events that really challenged the athletes with great courses and intriguing orienteering!  See below the results for lucky voters and sponsor prizes. ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Register for the 2026 Development Conference]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7056</id>
-        <link href="https://www.niorienteering.org.uk/register-for-the-2026-development-conference/"/>
-        <updated>2026-01-07T15:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Its time for the 2026 Development Conference hosted by British Orienteering on-line starting 12 January. Just click on the links below for details and to register for a particular webinar. There should be something of interest for everyone! Elite Tactics: Preparing for the Race That...
-The post Register for the 2026 Development Conference appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
