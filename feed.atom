@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T12:31:27.288Z</updated>
+    <updated>2026-02-06T18:32:15.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -627,27 +627,6 @@ Bike-O 75 Events This Summer first appeared on Orienteering Victoria.]]></summar
         <summary type="html"><![CDATA[The 2025-26 Street-O series continues and there are only a few more races left. Don’t miss this event around the Pimlico/ Westminster area. It should [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCEANIA SPRINT CHAMPIONSHIPS AND SPRINT THE COAST – entries close Sunday 11 January]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64901</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-sprint-championships-and-sprint-the-coast-entries-close-sunday-11-january/"/>
-        <updated>2026-01-08T03:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Join the best in Australasia for 3 days of top sprint orienteering on the sunny Central Coast of NSW. Saturday 24 January – Oceania KO Sprint Championships and Sprint the Coast Races 1 and 2 Sunday 25 January – Oceania Sprint Championships (21E, 20E, 18, 16) and Sprint the Coast Race 3 Monday 26 January […]
-OCEANIA SPRINT CHAMPIONSHIPS AND SPRINT THE COAST – entries close Sunday 11 January first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Malcolm Ingham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the Year 2025: 4, 3, ….]]></title>
-        <id>http://news.worldofo.com/?p=21514</id>
-        <link href="https://news.worldofo.com/2026/01/08/course-of-the-year-2025-4-3/"/>
-        <updated>2026-01-08T03:00:57.000Z</updated>
-        <summary type="html"><![CDATA[We continue our countdown in Course of the Year 2025: In 4th place we find the European Championships Sprint and in 3rd place we find the third leg of the Jukola relay. Two high profile events that really challenged the athletes with great courses and intriguing orienteering!  See below the results for lucky voters and sponsor prizes. ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>
