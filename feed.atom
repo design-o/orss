@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-07T12:22:31.012Z</updated>
+    <updated>2026-02-07T18:18:18.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -608,16 +608,6 @@ Bike-O 75 Events This Summer first appeared on Orienteering Victoria.]]></summar
         <summary type="html"><![CDATA[It is time to apply for one of the spots at the 2026-edition of the Young Leaders Academy (YLA), which will take place in northern Italy this summer from 27 June – 04 July. The purpose of the IOF Young Leaders Academy (YLA) is to enable young orienteers aged 16–25 to develop their talents and […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course of the year 2025: Knock-Out Sprint World Cup Final Uster]]></title>
-        <id>http://news.worldofo.com/?p=21517</id>
-        <link href="https://news.worldofo.com/2026/01/09/course-of-the-year-2025-knock-out-sprint-world-cup-final-uster/"/>
-        <updated>2026-01-09T03:00:41.000Z</updated>
-        <summary type="html"><![CDATA[The “Orienteering Course of the Year 2025″ is a set of courses from the newest discipline in orienteering – the Knock-Out Sprint discipline, from the World Cup Final in Uster, Switzerland. And as you can read in the interview with the course setter below, a lot of work and passion was put into these courses! Middle ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>
