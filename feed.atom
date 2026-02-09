@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T18:20:32.235Z</updated>
+    <updated>2026-02-09T01:08:15.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries are now open for 2026 NZ Orienteering Champs]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65156</id>
+        <link href="https://www.orienteering.org.nz/news/entries-are-now-open-for-2026-nz-orienteering-champs/"/>
+        <updated>2026-02-08T18:20:43.000Z</updated>
+        <summary type="html"><![CDATA[Early Bird entries will be 10% off if entered before 15 February 2026. Standard entry fees above apply up until midnight 15 March. After 15 March, late entry fees apply with a a 50% increase until entries close at midnight on 24 March. Sorry, no entries will be accepted after 24 March.https://ochamps.nz/entries/ #orienteeringchamps #entriesopen #enternow […]
+Entries are now open for 2026 NZ Orienteering Champs first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2026 | Provisional Team Selection]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65152</id>
