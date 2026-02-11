@@ -137,16 +137,6 @@
           "wordCount": 1096,
           "title": "BendiGo ToDay 2026, 21 – 22 February",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15274",
-          "author": "Debbie Dodd",
-          "description": "Enter now for this summer's three exciting Bike-O 75 events, on Saturday evenings\nBike-O 75 Events This Summer first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/bike-o-75-events-this-summer/",
-          "publishedOn": "2026-01-13T00:23:15.000Z",
-          "wordCount": 1037,
-          "title": "Bike-O 75 Events This Summer",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -182,6 +172,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24084",
+          "author": "vinh",
+          "description": "Many thanks to London Orienteering Klubb for organising yesterday’s Street-O in Southgate. Event results on their website. Series results after race 6. Any queries contact [...]",
+          "link": "https://slow.org.uk/streeto/street-o-series-results-after-race-6/",
+          "publishedOn": "2026-02-11T10:03:16.000Z",
+          "wordCount": 2027,
+          "title": "Street-O series results after race 6",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/west-hampstead-street-o-23-results/files/Hampstead_StreetO.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24060",
           "author": "Steve Clelland",
