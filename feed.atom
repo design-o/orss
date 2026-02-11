@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T01:14:44.801Z</updated>
+    <updated>2026-02-11T06:48:52.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn and Play Online Practical Session]]></title>
+        <id>https://orienteering.asn.au/?p=15597</id>
+        <link href="https://orienteering.asn.au/learn-and-play-online-practical-session/"/>
+        <updated>2026-02-11T02:11:32.000Z</updated>
+        <summary type="html"><![CDATA[RSVP to be part of the next practical session for the Learn and Play coaching accreditation.
+Learn and Play Online Practical Session first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enter Now to Score at Castle Irvine]]></title>
         <id>https://www.niorienteering.org.uk/?p=7125</id>
