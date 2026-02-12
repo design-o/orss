@@ -474,6 +474,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56660",
+          "author": "suzannerb",
+          "description": "The Scottish Orienteering Coach Education Pathway allows for coaches to learn new skills and gain knowledge through a combination of […]",
+          "link": "https://www.scottish-orienteering.org/news/coach-education-courses/?utm_source=rss&utm_medium=rss&utm_campaign=coach-education-courses",
+          "publishedOn": "2026-02-12T16:23:43.000Z",
+          "wordCount": 1613,
+          "title": "Coach Education Courses",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/L73-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56657",
+          "author": "heidi",
+          "description": "Over the past year, Scottish Orienteering has been working with universities across Scotland to introduce orienteering to student teachers. We’ve […]",
+          "link": "https://www.scottish-orienteering.org/news/bringing-orienteering-into-the-classroom-working-with-universities/?utm_source=rss&utm_medium=rss&utm_campaign=bringing-orienteering-into-the-classroom-working-with-universities",
+          "publishedOn": "2026-02-12T15:51:26.000Z",
+          "wordCount": 1724,
+          "title": "Bringing Orienteering Into the Classroom: Working with Universities",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56632",
           "author": "heidi",
           "description": "Last weekend marked the first East Area coaching day of the year, held at Whinny Hill in Edinburgh. Led by […]",
