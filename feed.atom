@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-12T06:47:42.508Z</updated>
+    <updated>2026-02-12T12:36:41.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -609,16 +609,6 @@ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
 The post 🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭 appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waterloo Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=23975</id>
-        <link href="https://slow.org.uk/streeto/waterloo-street-o-25-results/"/>
-        <updated>2026-01-13T23:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Happy new year and well done to everyone who braved the wet around Waterloo! I hope you had fun. Thanks to Dan for organising and [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
     <entry>
