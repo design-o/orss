@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T18:46:52.097Z</updated>
+    <updated>2026-02-12T01:06:50.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -370,6 +370,17 @@ The post Four Scales of Green appeared first on NI Orienteering Association.]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bike-O 75 Events This Summer]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15274</id>
+        <link href="https://www.vicorienteering.asn.au/bike-o-75-events-this-summer/"/>
+        <updated>2026-01-26T00:23:15.000Z</updated>
+        <summary type="html"><![CDATA[The second Bike-O 75 event is on Saturday 14 February, at the You Yangs. Enter online now!
+Bike-O 75 Events This Summer first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AGM and Prizegiving]]></title>
         <id>https://www.niorienteering.org.uk/?p=7094</id>
         <link href="https://www.niorienteering.org.uk/agm-and-prizegiving/"/>
@@ -607,17 +618,6 @@ The post 🚑Rescue & Emergency Care (REC) First Aid Training – For NI Oriente
         <summary type="html"><![CDATA[Early Bird entries close on Sunday, January 18th for the Irish Sprint Orienteering Championships, part of the exciting HIT THE TOWN festival of orienteering! This festival will take place in from 21 to 22 March 2026 and will be comprised of three events. Saturday AM 21st March: Irish Sprint Orienteering Championships – University of Limerick […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BendiGo ToDay 2026, 21 – 22 February]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15288</id>
-        <link href="https://www.vicorienteering.asn.au/bendi-go-to-day-2026-21-22-february/"/>
-        <updated>2026-01-13T06:26:36.000Z</updated>
-        <summary type="html"><![CDATA[February in Victoria means Bendi-Go To-Day, traditionally the Victorian season opener with a sprint on the Saturday and hagaby on the Sunday. This year the event heads east of Bendigo and takes in two maps that are without doubt worth the effort, Assumption College & Argyle
-BendiGo ToDay 2026, 21 – 22 February first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Margi Freemantle</name>
         </author>
     </entry>
     <entry>
