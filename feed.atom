@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-12T18:44:02.223Z</updated>
+    <updated>2026-02-13T01:11:00.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -618,17 +618,6 @@ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at club members new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7064</id>
-        <link href="https://www.niorienteering.org.uk/%f0%9f%9a%91rescue-emergency-care-rec-first-aid-training-for-ni-orienteering-members-%f0%9f%a7%ad/"/>
-        <updated>2026-01-14T12:35:50.000Z</updated>
-        <summary type="html"><![CDATA[🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭 Stay safe and prepared in the outdoors! We’re offering REC First Aid Training tailored for orienteers and outdoor adventurers. ✅ Courses Available: REC1, 1-Day, with CPR and treating casualties with common...
-The post 🚑Rescue & Emergency Care (REC) First Aid Training – For NI Orienteering Members! 🧭 appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>Richard Gamble</name>
         </author>
     </entry>
     <entry>
