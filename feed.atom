@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T01:11:00.569Z</updated>
+    <updated>2026-02-13T06:44:36.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -27,6 +27,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First-Ever IOF Gold World Ranking Event Takes Place in Portugal]]></title>
+        <id>https://orienteering.sport/?p=81340</id>
+        <link href="https://orienteering.sport/first-ever-iof-gold-world-ranking-event-takes-place-in-portugal/"/>
+        <updated>2026-02-12T12:37:25.000Z</updated>
+        <summary type="html"><![CDATA[This coming weekend marks a milestone for international orienteering, as the first IOF Gold World Ranking Event (WRE) is held at the Portugal O Meeting (POM). The introduction of the IOF Gold WRE category represents a new level at the top of the World Ranking Event structure, highlighting competitions that combine world-class organisation, high-quality terrain, […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Street-O series results after race 6]]></title>
         <id>https://slow.org.uk/?p=24084</id>
         <link href="https://slow.org.uk/streeto/street-o-series-results-after-race-6/"/>
@@ -48,6 +58,16 @@ Learn and Play Online Practical Session first appeared on Orienteering Australia
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Norwegians Ulvensøen and Baklid lead after SkiO World Cup Round 2]]></title>
+        <id>https://orienteering.sport/?p=81320</id>
+        <link href="https://orienteering.sport/norwegians-ulvensoen-and-baklid-lead-after-skio-world-cup-round-2/"/>
+        <updated>2026-02-10T11:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Anna Ulvensøen and Jørgen Baklid top the scores lists at the end of Round 2, with one round to go in the 2026 season. The 7 best scores out of 9 races will count for the final standings. Ulvensøen’s outstanding results in Luleå – 3 wins – make up for her poor start to the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enter Now to Score at Castle Irvine]]></title>
         <id>https://www.niorienteering.org.uk/?p=7125</id>
         <link href="https://www.niorienteering.org.uk/enter-now-to-score-at-castle-irvine/"/>
@@ -56,6 +76,16 @@ Learn and Play Online Practical Session first appeared on Orienteering Australia
 The post Enter Now to Score at Castle Irvine appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup Long race – masterclass performances from Ulvensøen and Lamov]]></title>
+        <id>https://orienteering.sport/?p=81310</id>
+        <link href="https://orienteering.sport/skio-world-cup-long-race-masterclass-performances-from-ulvensoen-and-lamov/"/>
+        <updated>2026-02-09T16:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Anna Ulvensøen, Norway and Andrei Lamov, Sweden gave clear lessons in how to win challenging Long Distance races today, each with their own style. Concentration was required throughout in the tricky terrain with many small paths and varied route choices. Ulvensøen has won all three individual races in this round, and today’s was the most […]]]></summary>
+        <author>
+            <name>Clive</name>
         </author>
     </entry>
     <entry>
@@ -81,6 +111,26 @@ Entries are now open for 2026 NZ Orienteering Champs first appeared on Orienteer
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sweden double in SkiO World Cup Relay]]></title>
+        <id>https://orienteering.sport/?p=81299</id>
+        <link href="https://orienteering.sport/sweden-double-in-skio-world-cup-relay/"/>
+        <updated>2026-02-08T17:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Sweden showed great strength in depth today, their men and women winning comfortably even without Magdalena Olsson and Jonatan Ståhl. Switzerland achieved a good third place in the men’s race. In the women’s race, Sweden’s winning margin was 2.07, with Ella Turesson skiing a fine last leg. Anna Aasa was sixth after leg 1, then […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup Middle race: win again for Ulvensøen in frantic sprint finish]]></title>
+        <id>https://orienteering.sport/?p=81288</id>
+        <link href="https://orienteering.sport/skio-world-cup-middle-race-win-again-for-ulvensoen-in-frantic-sprint-finish/"/>
+        <updated>2026-02-07T14:49:22.000Z</updated>
+        <summary type="html"><![CDATA[The mass start format led to a dramatic finish in the women’s race, with Anna Ulvensøen NOR crossing the line just ahead of Swedish athletes Frida Sandberg and Ella Turesson. Niklas Ekstrӧm FIN won the men’s race by 11 seconds. Two eventful races took place on another cold and sunny morning in Luleå. Again the […]]]></summary>
+        <author>
+            <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WOC 2026 | Provisional Team Selection]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65152</id>
         <link href="https://www.orienteering.org.nz/news/woc-2026-provisional-team-selection/"/>
@@ -89,6 +139,16 @@ Entries are now open for 2026 NZ Orienteering Champs first appeared on Orienteer
 WOC 2026 | Provisional Team Selection first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup SkiO Sprint golds for Norway and Finland]]></title>
+        <id>https://orienteering.sport/?p=81278</id>
+        <link href="https://orienteering.sport/world-cup-skio-sprint-golds-for-norway-and-finland/"/>
+        <updated>2026-02-06T15:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Norwegian athlete Anna Ulvensøen and the experienced Finn Aapo Viippola were today’s Sprint winners in the first World Cup race in Luleå, Sweden, on a testing course with many ski tracks and small paths. The competition took place in calm and sunny conditions with the temperature around minus 16; good ear protection was essential! Two […]]]></summary>
+        <author>
+            <name>Clive</name>
         </author>
     </entry>
     <entry>
@@ -110,6 +170,16 @@ The post Final few Development Conference sessions – is there a webinar for yo
         <summary type="html"><![CDATA[Last weekend marked the first East Area coaching day of the year, held at Whinny Hill in Edinburgh. Led by […]]]></summary>
         <author>
             <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkiO World Cup resumes in Sweden]]></title>
+        <id>https://orienteering.sport/?p=81264</id>
+        <link href="https://orienteering.sport/skio-world-cup-resumes-in-sweden/"/>
+        <updated>2026-02-04T11:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Really tight competition is expected in the SkiO World Cup second round, starting on Friday in Luleå, Sweden! The first round in Bulgaria was notable for three different winners in the three races for both men and women, so the points scores at the top are very close. The race schedule here is demanding for […]]]></summary>
+        <author>
+            <name>Clive</name>
         </author>
     </entry>
     <entry>
@@ -145,6 +215,16 @@ World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First International Scientific Conference on Orienteering takes place in July 2026]]></title>
+        <id>https://orienteering.sport/?p=81259</id>
+        <link href="https://orienteering.sport/first-international-scientific-conference-on-orienteering-takes-place-in-july-2026/"/>
+        <updated>2026-02-03T10:13:52.000Z</updated>
+        <summary type="html"><![CDATA[The 1st International Conference on Orienteering in Scientific Research and Higher Education (O-Conference 2026) will be organised by Chalmers University of Technology in Gothenburg, Sweden in the summer of 2026. The dates for the conference are 18-19 July and are coordinated with the traditional stage race O-ringen near Gothenburg, which makes it possible to combine […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Brockwell Park Night-O, Tuesday 24th February]]></title>
         <id>https://slow.org.uk/?p=24052</id>
         <link href="https://slow.org.uk/events/brockwell-night-feb2026/"/>
@@ -161,6 +241,16 @@ World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.
         <updated>2026-02-02T00:23:59.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portugal to host WMTBOC in 2028]]></title>
+        <id>https://orienteering.sport/?p=81237</id>
+        <link href="https://orienteering.sport/portugal-to-host-wmtboc-in-2028/"/>
+        <updated>2026-02-01T16:17:11.000Z</updated>
+        <summary type="html"><![CDATA[The world’s best MTBO athletes can start preparing for Portuguese terrain as the country will play a major role in the upcoming international elite events. In 2028, Portugal will host the World MTB Orienteering Championships & Junior World MTB Orienteering Championships with event dates in either June or September. The IOF Council decided this during […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>
@@ -351,6 +441,16 @@ SUPPORT OUR 2026 JWOC TEAM first appeared on Orienteering Australia.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Norway appointed to host WSOC in 2027]]></title>
+        <id>https://orienteering.sport/?p=81213</id>
+        <link href="https://orienteering.sport/norway-appointed-to-host-wsoc-in-2027/"/>
+        <updated>2026-01-28T06:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Norway will host the 2027 World Ski Orienteering Championships after the IOF Council awarded the country the championships during its meetings in January. The Junior World Ski Orienteering Championships and European Youth Ski Orienteering Championships will be held in parallel with the WSOC on the provisional dates of 9th to 12th of February 2027. The […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Training With Joe – Abbotsford Slip, Friday 6 February]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15340</id>
         <link href="https://www.vicorienteering.asn.au/15340-2/"/>
@@ -367,6 +467,16 @@ SUPPORT OUR 2026 JWOC TEAM first appeared on Orienteering Australia.]]></summary
         <summary type="html"><![CDATA[Results – pdf SPORTident – live results WinSplits – splits around the timed out crossings may not be correct Routegadget – draw your route! Planner’s [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First regional champions of the year crowned in Australia]]></title>
+        <id>https://orienteering.sport/?p=81203</id>
+        <link href="https://orienteering.sport/first-regional-champions-of-the-year-crowned-in-australia/"/>
+        <updated>2026-01-27T11:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Oceania found its regional champions in the sprint distances this past weekend on the Australian eastern coast. In various terrains in school, campus and university areas on the Central Coast north of Sydney, the Australians competed on home turf against their neighbours from New Zealand. On Saturday, it was the Knock-Out Sprint, which provided some […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>
@@ -388,6 +498,16 @@ SUPPORT OUR 2026 JWOC TEAM first appeared on Orienteering Australia.]]></summary
 The post Four Scales of Green appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applications open for IOF WOC Clinic 2026]]></title>
+        <id>https://orienteering.sport/?p=81198</id>
+        <link href="https://orienteering.sport/applications-open-for-iof-woc-clinic-2026/"/>
+        <updated>2026-01-26T12:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Applications are now open for the IOF WOC Clinic 2026, which will take place in connection with the World Orienteering Championships in Genova, Italy. The clinic is aimed at promising athletes from IOF member National Federations that are unable to send athletes to WOC due to financial limitations, offering a unique opportunity to take part […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
         </author>
     </entry>
     <entry>
@@ -618,66 +738,6 @@ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at club members new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yannick Michiels nominated for the World Games “Athlete of the Year”]]></title>
-        <id>https://orienteering.sport/?p=80999</id>
-        <link href="https://orienteering.sport/yannick-michiels-nominated-for-the-world-games-athlete-of-the-year/"/>
-        <updated>2026-01-12T10:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Yannick Michiels (BEL) is among 30 athletes nominated for the World Games “Athlete of the Year”, with voting beginning Monday, January 12th on the World Games website. The Belgian sprint specialist took his first international orienteering title in 2025, when he won the men’s sprint at The World Games 2025 in Chengdu, China in August. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application for Young Leaders Academy 2026 is open]]></title>
-        <id>https://orienteering.sport/?p=80995</id>
-        <link href="https://orienteering.sport/application-for-young-leaders-academy-2026-is-open/"/>
-        <updated>2026-01-09T21:02:55.000Z</updated>
-        <summary type="html"><![CDATA[It is time to apply for one of the spots at the 2026-edition of the Young Leaders Academy (YLA), which will take place in northern Italy this summer from 27 June – 04 July. The purpose of the IOF Young Leaders Academy (YLA) is to enable young orienteers aged 16–25 to develop their talents and […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Pia Young Vik on her amazing 2025 season]]></title>
-        <id>https://orienteering.sport/?p=80958</id>
-        <link href="https://orienteering.sport/podcast-pia-young-vik-on-her-amazing-2025-season/"/>
-        <updated>2026-01-01T12:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Norway’s Pia Young Vik had an amazing 2025 season. In her just second year as a senior, she won the EOC Sprint in Belgium, took the silver in KO Sprint two days before and another silver with her teammates at the WOC Relay in Finland. And then we haven’t even got to talk about the […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farewell to Peo Bengtsson, Global Orienteering Pioneer]]></title>
-        <id>https://orienteering.sport/?p=80894</id>
-        <link href="https://orienteering.sport/farewell-to-peo-bengtsson-global-orienteering-pioneer/"/>
-        <updated>2025-12-29T08:53:31.000Z</updated>
-        <summary type="html"><![CDATA[The International Orienteering Federation mourns the passing of Per-Olof ”Peo” Bengtsson (1933-2025), one of the true pioneers in the history of orienteering. Peo began orienteering in his home country of Sweden in 1949 and ended up dedicating his life to developing and spreading the sport worldwide. Over several decades, he organized hundreds of journeys that […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indoor orienteering creates new, fun challenges]]></title>
-        <id>https://orienteering.sport/?p=80875</id>
-        <link href="https://orienteering.sport/indoor-orienteering-creates-new-fun-challenges/"/>
-        <updated>2025-12-22T11:03:01.000Z</updated>
-        <summary type="html"><![CDATA[As winter sets its dark and cold mark on the northern hemisphere during these months, there are more and more offers to run indoor orienteering in a number of countries. The discipline, which transforms schools, workplaces and municipal buildings into challenging orienteering terrains – often with multiple floors, is popular with athletes of all ages. […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UN Resolution on promoting sustainability through sport]]></title>
-        <id>https://orienteering.sport/?p=80866</id>
-        <link href="https://orienteering.sport/un-resolution-on-promoting-sustainability-through-sport/"/>
-        <updated>2025-12-18T20:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Sport’s role in a sustainable world has received a new recognition with the approval of a Resolution by the United Nations Environment Assembly held in Nairobi, Kenya, 8-12 December 2025 Member States are encouraged to integrate sustainable development into sports-related national strategies, physical education curricula and the management of sporting programmes. The recognised role of […]]]></summary>
-        <author>
-            <name>Erling Thisted</name>
         </author>
     </entry>
 </feed>
