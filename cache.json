@@ -6,6 +6,16 @@
       "siteUrl": "https://orienteering.sport",
       "articles": [
         {
+          "id": "https://orienteering.sport/?p=81353",
+          "author": "Erling Thisted",
+          "description": "Winter is the time for planning and preparing for the next season in Foot Orienteering. It is a tradition that IOF Office and IOF Foot Orienteering Commission invites the organisers and event advisers for World Championships and World Cups for an annual High Level Event Seminar This year, the seminar was held 7th and 8th […]",
+          "link": "https://orienteering.sport/where-world-championships-begin-developing-bigger-better-orienteering-events-at-iofs-high-level-event-seminar/",
+          "publishedOn": "2026-02-13T21:11:12.000Z",
+          "wordCount": 1681,
+          "title": "Where World Championships begin: Developing bigger, better orienteering events at IOF’s High Level Event Seminar",
+          "imageUrl": "https://orienteering.sport/wp-content/uploads/2026/02/2025_woc_middle_crowd_event_spectators_kristina_lindgren-1024x681.jpg"
+        },
+        {
           "id": "https://orienteering.sport/?p=81340",
           "author": "Erling Thisted",
           "description": "This coming weekend marks a milestone for international orienteering, as the first IOF Gold World Ranking Event (WRE) is held at the Portugal O Meeting (POM). The introduction of the IOF Gold WRE category represents a new level at the top of the World Ranking Event structure, highlighting competitions that combine world-class organisation, high-quality terrain, […]",
@@ -214,24 +224,23 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": [
-        {
-          "id": "https://www.orienteering.ie/?p=22062",
-          "author": "Deirdre",
-          "description": "Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at club members new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. […]",
-          "link": "https://www.orienteering.ie/orienteering-mapping-course-3/",
-          "publishedOn": "2026-01-15T09:20:23.000Z",
-          "wordCount": 855,
-          "title": "Orienteering Mapping Course",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "South London Orienteers",
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24093",
+          "author": "Paul Street",
+          "description": "National Event Sunday May 4th 2026 South London Orienteers invite you to take part in the OK Nuts Trophy 2026, our premier forest race of [...]",
+          "link": "https://slow.org.uk/events/ok-nuts-2026/",
+          "publishedOn": "2026-02-13T21:53:04.000Z",
+          "wordCount": 2259,
+          "title": "OK Nuts 2026",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/ok-nuts-2021-results/files/20210509_runner2.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24084",
           "author": "vinh",
@@ -496,6 +505,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=49644",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Orienteering 101 | Lake County | Saturday, March 21, 2026",
+          "link": "https://neooc.com/new-event-orienteering-101-lake-county-saturday-march-21-2026/",
+          "publishedOn": "2026-02-13T19:55:10.000Z",
+          "wordCount": 1582,
+          "title": "New Event | Orienteering 101 | Lake County | Saturday, March 21, 2026",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2023/08/ld_map-and-compass-1-scaled.jpg"
+        },
         {
           "id": "https://neooc.com/?p=49603",
           "author": "Northeast Ohio Orienteering Club",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T18:29:46.577Z</updated>
+    <updated>2026-02-14T01:03:24.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OK Nuts 2026]]></title>
+        <id>https://slow.org.uk/?p=24093</id>
+        <link href="https://slow.org.uk/events/ok-nuts-2026/"/>
+        <updated>2026-02-13T21:53:04.000Z</updated>
+        <summary type="html"><![CDATA[National Event Sunday May 4th 2026 South London Orienteers invite you to take part in the OK Nuts Trophy 2026, our premier forest race of [...]]]></summary>
+        <author>
+            <name>Paul Street</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where World Championships begin: Developing bigger, better orienteering events at IOF’s High Level Event Seminar]]></title>
+        <id>https://orienteering.sport/?p=81353</id>
+        <link href="https://orienteering.sport/where-world-championships-begin-developing-bigger-better-orienteering-events-at-iofs-high-level-event-seminar/"/>
+        <updated>2026-02-13T21:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Winter is the time for planning and preparing for the next season in Foot Orienteering. It is a tradition that IOF Office and IOF Foot Orienteering Commission invites the organisers and event advisers for World Championships and World Cups for an annual High Level Event Seminar This year, the seminar was held 7th and 8th […]]]></summary>
+        <author>
+            <name>Erling Thisted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Event | Orienteering 101 | Lake County | Saturday, March 21, 2026]]></title>
+        <id>https://neooc.com/?p=49644</id>
+        <link href="https://neooc.com/new-event-orienteering-101-lake-county-saturday-march-21-2026/"/>
+        <updated>2026-02-13T19:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering 101 | Lake County | Saturday, March 21, 2026]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coach Education Courses]]></title>
         <id>https://www.scottish-orienteering.org/?p=56660</id>
@@ -728,16 +758,6 @@ Pinestars Team Named first appeared on Orienteering New Zealand.]]></summary>
         <summary type="html"><![CDATA[There are some course changes compared to previous years. See additional course notes below. Please look out for pink flags at all times. Final Details [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Mapping Course]]></title>
-        <id>https://www.orienteering.ie/?p=22062</id>
-        <link href="https://www.orienteering.ie/orienteering-mapping-course-3/"/>
-        <updated>2026-01-15T09:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland is running its 4-weekly online course on Introduction to Mapping using OCAD software. The course is primarily aimed at club members new to mapping, but all are welcome. Over a progressive series of four weekly online workshops participants will learn to: 1. Complete an urban sprint orienteering map that complies to international standards. […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
 </feed>
