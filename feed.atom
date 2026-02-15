@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T18:17:55.180Z</updated>
+    <updated>2026-02-15T01:09:33.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NI Score Champs Entries Closing]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7152</id>
+        <link href="https://www.niorienteering.org.uk/ni-score-champs-entries-closing/"/>
+        <updated>2026-02-14T22:41:21.000Z</updated>
+        <summary type="html"><![CDATA[The entries close on Sunday 15 February at 23:00 for the NI Score Orienteering Championships at Castle Irvine, Necarne, Irvinestown, Co Fermanagh on Saturday 21 February 2026. All the details are on the event page at the Fermanagh Orienteers website, with entries at SI Entries....
+The post NI Score Champs Entries Closing appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NI Orienteering AGM Agenda]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7146</id>
+        <link href="https://www.niorienteering.org.uk/ni-orienteering-agm-agenda/"/>
+        <updated>2026-02-14T20:00:53.000Z</updated>
+        <summary type="html"><![CDATA[The Agenda for the 2026 AGM of NI Orienteering is available at About Us>Meeting Notes, along with the Minutes of the 2025 AGM and 2025 EGM.
+The post NI Orienteering AGM Agenda appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK Nuts 2026]]></title>
         <id>https://slow.org.uk/?p=24093</id>
