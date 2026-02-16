@@ -290,16 +290,6 @@
           "wordCount": 2435,
           "title": "Battersea Park Night-O – 3rd February",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Battersea_night3-scaled.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=24006",
-          "author": "Steve Clelland",
-          "description": "Provisional results from the 2026 Box Hill Fell Race Individual – pdf Results by age class – pdf Team results – pdf Interactive Live results [...]",
-          "link": "https://slow.org.uk/racereports/box-hill-results-2026/",
-          "publishedOn": "2026-01-17T20:59:44.000Z",
-          "wordCount": 2033,
-          "title": "Box Hill Fell Race Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Box_hill_2026_start.jpg"
         }
       ]
     },
@@ -708,16 +698,6 @@
           "wordCount": 4345,
           "title": "Growing your Club – British Orienteering Development Conference Webinar",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/01/Screenshot-2026-01-22-093849.png"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7069",
-          "author": "NIOA Secretary",
-          "description": "Last year the Irish Orienteering Championships were hosted by NWOC in Northern Ireland. This year it is the turn of Munster, but with a departure from the normal pattern: The Sprint Championships are being held on Saturday 21 March, as part of the “Hit the...\nThe post Hit the Irish Championships 2026 appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/hit-the-irish-championships-2026/",
-          "publishedOn": "2026-01-17T22:53:16.000Z",
-          "wordCount": 4368,
-          "title": "Hit the Irish Championships 2026",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/01/Hit-Town.jpg"
         }
       ]
     },
@@ -726,6 +706,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15676",
+          "author": "Elizabeth L",
+          "description": "OA is seeking to appoint a Team Coach for the World MTB Orienteering Championships 2026, to be held from 25–30 August 2026 in Mora (Dalarna), Sweden.\nNational MTBO Team Coach Position Available first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/national-mtbo-team-coach-position-available/",
+          "publishedOn": "2026-02-16T08:33:28.000Z",
+          "wordCount": 2409,
+          "title": "National MTBO Team Coach Position Available",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15597",
           "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
