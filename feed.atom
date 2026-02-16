@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T12:34:50.084Z</updated>
+    <updated>2026-02-16T18:27:56.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Jan Kellstrom Festival Update]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56680</id>
+        <link href="https://www.scottish-orienteering.org/news/2026-jan-kellstrom-festival-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-jan-kellstrom-festival-update"/>
+        <updated>2026-02-16T17:01:42.000Z</updated>
+        <summary type="html"><![CDATA[We are sure you are all well aware by now – and excited – that SOA is hosting the 2026 […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspiring Images of Orienteering – Young Orienteers’ Photo Competition]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56677</id>
+        <link href="https://www.scottish-orienteering.org/news/inspiring-images-of-orienteering-young-orienteers-photo-competition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inspiring-images-of-orienteering-young-orienteers-photo-competition"/>
+        <updated>2026-02-16T16:39:48.000Z</updated>
+        <summary type="html"><![CDATA[We’re delighted to announce the winner of the Juniors’ photo competition congratulations to Yann from MAR Orienteering Club (MAROC) for […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBO SCORE RESULTS 2026]]></title>
+        <id>https://slow.org.uk/?p=23950</id>
+        <link href="https://slow.org.uk/racereports/mbo-score-results-2026/"/>
+        <updated>2026-02-16T16:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Results SLOW MBO Series/League 2026 SERIES MapRun – Pace, Tracks, Replay MapRun (All events) 22nd February Bucklebury 12th April 31st May 19th July 30th August [...]]]></summary>
+        <author>
+            <name>Dave Uglow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[National MTBO Team Coach Position Available]]></title>
         <id>https://orienteering.asn.au/?p=15676</id>

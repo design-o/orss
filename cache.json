@@ -232,6 +232,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=23950",
+          "author": "Dave Uglow",
+          "description": "Results SLOW MBO Series/League 2026 SERIES MapRun – Pace, Tracks, Replay MapRun (All events) 22nd February Bucklebury 12th April 31st May 19th July 30th August [...]",
+          "link": "https://slow.org.uk/racereports/mbo-score-results-2026/",
+          "publishedOn": "2026-02-16T16:31:47.000Z",
+          "wordCount": 2226,
+          "title": "MBO SCORE RESULTS 2026",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/mbo-score-results-2026/files/MBO-Map.png"
+        },
+        {
           "id": "https://slow.org.uk/?p=24093",
           "author": "Paul Street",
           "description": "National Event Sunday May 4th 2026 South London Orienteers invite you to take part in the OK Nuts Trophy 2026, our premier forest race of [...]",
@@ -532,6 +542,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56680",
+          "author": "nikkihoward",
+          "description": "We are sure you are all well aware by now – and excited – that SOA is hosting the 2026 […]",
+          "link": "https://www.scottish-orienteering.org/news/2026-jan-kellstrom-festival-update/?utm_source=rss&utm_medium=rss&utm_campaign=2026-jan-kellstrom-festival-update",
+          "publishedOn": "2026-02-16T17:01:42.000Z",
+          "wordCount": 1657,
+          "title": "2026 Jan Kellstrom Festival Update",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/unnamed-5-1024x547.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56677",
+          "author": "nikkihoward",
+          "description": "We’re delighted to announce the winner of the Juniors’ photo competition congratulations to Yann from MAR Orienteering Club (MAROC) for […]",
+          "link": "https://www.scottish-orienteering.org/news/inspiring-images-of-orienteering-young-orienteers-photo-competition/?utm_source=rss&utm_medium=rss&utm_campaign=inspiring-images-of-orienteering-young-orienteers-photo-competition",
+          "publishedOn": "2026-02-16T16:39:48.000Z",
+          "wordCount": 1764,
+          "title": "Inspiring Images of Orienteering – Young Orienteers’ Photo Competition",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/54361423944_6d1aa1239a_k-1024x683.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56660",
           "author": "suzannerb",
