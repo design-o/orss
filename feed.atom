@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T12:34:51.444Z</updated>
+    <updated>2026-02-17T18:40:07.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn to Orienteer with our Adult Beginner Coaching Days]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56718</id>
+        <link href="https://www.scottish-orienteering.org/news/learn-to-orienteer-with-our-adult-beginner-coaching-days/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=learn-to-orienteer-with-our-adult-beginner-coaching-days"/>
+        <updated>2026-02-17T16:28:23.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce a new series of Adult Beginner Coaching Days taking place throughout March in Aberdeen, Edinburgh […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Nights provide Valentine’s Day connections]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56685</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-nights-provide-valentines-day-connections/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-nights-provide-valentines-day-connections"/>
+        <updated>2026-02-17T14:30:48.000Z</updated>
+        <summary type="html"><![CDATA[As it turned out out MAR Orienteering Club (MAROC) choose a suitable location to host the Scottish Nights Championships! The […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Jan Kellstrom Festival Update]]></title>
         <id>https://www.scottish-orienteering.org/?p=56680</id>
