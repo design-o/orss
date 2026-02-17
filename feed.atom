@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T01:06:27.914Z</updated>
+    <updated>2026-02-17T06:43:14.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -288,6 +288,15 @@ The post Final few Development Conference sessions – is there a webinar for yo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MFR Training, Woodlands, Sunday 1 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15391</id>
+        <link href="https://www.vicorienteering.asn.au/mfr-training-woodlands-sunday-1-march/"/>
+        <updated>2026-02-05T06:12:10.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SkiO World Cup resumes in Sweden]]></title>
         <id>https://orienteering.sport/?p=81264</id>
         <link href="https://orienteering.sport/skio-world-cup-resumes-in-sweden/"/>
@@ -347,6 +356,15 @@ World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.
         <summary type="html"><![CDATA[The fourth race of South London Orienteers’ 2025-2026 Night series takes place in Brockwell Park, south-west London, on Tuesday 24th February 2026. Race Centre The race will [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series 1, Sunday 8 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15393</id>
+        <link href="https://www.vicorienteering.asn.au/15393-2/"/>
+        <updated>2026-02-02T06:13:54.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -791,16 +809,6 @@ Extended: OA Awards and Hall of Fame Nominations first appeared on Orienteering 
         <summary type="html"><![CDATA[Entries now open The third race of South London Orienteers’ 2025-2026 Night series takes place in Battersea Park, south-west London, on Tuesday 3rd February 2026. Race Centre [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results| Snow O 2026 | Camp Butler | Sat January 17]]></title>
-        <id>https://neooc.com/?p=49558</id>
-        <link href="https://neooc.com/results-snow-o-2026-camp-butler-sat-january-17/"/>
-        <updated>2026-01-18T16:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Recap and Results The weather was wonderful for winter. Temps in the low 30s, mostly sunny skies with just a quick snow shower late in the event. Only a few inches of snow from the week’s storms. Over 60 orienteers came out to work on their New Year’s resolutions and have fun in the woods. […]]]></summary>
-        <author>
-            <name>Jay Smink</name>
         </author>
     </entry>
 </feed>
