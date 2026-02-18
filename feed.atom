@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T06:47:32.071Z</updated>
+    <updated>2026-02-18T12:34:23.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -810,25 +810,6 @@ Extended: OA Awards and Hall of Fame Nominations first appeared on Orienteering 
         <updated>2026-01-20T00:39:47.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Highlands Twilight Series, Wednesdays in February]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15322</id>
-        <link href="https://www.vicorienteering.asn.au/central-highlands-twilight-series-wednesdays-in-february/"/>
-        <updated>2026-01-19T23:25:40.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battersea Park Night-O – 3rd February]]></title>
-        <id>https://slow.org.uk/?p=24012</id>
-        <link href="https://slow.org.uk/events/battersea-february2026/"/>
-        <updated>2026-01-19T22:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Entries now open The third race of South London Orienteers’ 2025-2026 Night series takes place in Battersea Park, south-west London, on Tuesday 3rd February 2026. Race Centre [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
 </feed>
