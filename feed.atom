@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T12:35:38.623Z</updated>
+    <updated>2026-02-19T18:37:01.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -253,6 +253,17 @@ Entries are now open for 2026 NZ Orienteering Champs first appeared on Orienteer
         <summary type="html"><![CDATA[Sweden showed great strength in depth today, their men and women winning comfortably even without Magdalena Olsson and Jonatan Ståhl. Switzerland achieved a good third place in the men’s race. In the women’s race, Sweden’s winning margin was 2.07, with Ella Turesson skiing a fine last leg. Anna Aasa was sixth after leg 1, then […]]]></summary>
         <author>
             <name>Clive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, Feb 17-23 – Champs Just One Week Away!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2026-02-07T23:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Sign up now for the 2026 Park Street Championships on Feb 24!
+Park Street Update, Feb 17-23 – Champs Just One Week Away! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -766,28 +777,6 @@ The post Growing your Club – British Orienteering Development Conference Webin
         <summary type="html"><![CDATA[With the busy January and February calendar with British Orienteering Development Conference, it has been decided to focus the SOA […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trivia Night – Fundraiser for The High Performance Squad]]></title>
-        <id>https://orienteering.asn.au/?p=15410</id>
-        <link href="https://orienteering.asn.au/trivia-night-fundraiser-for-the-high-performance-squad/"/>
-        <updated>2026-01-21T06:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Attending Oceania? Sign up for Trivia Night, hosted by the OA High Performance Squad. It's going to be a fun night to catch up with friends and help fundraise for our squads.
-Trivia Night – Fundraiser for The High Performance Squad first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Bushrangers Team Announced]]></title>
-        <id>https://orienteering.asn.au/?p=15406</id>
-        <link href="https://orienteering.asn.au/2026-bushrangers-team-announced/"/>
-        <updated>2026-01-21T06:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the Australian athletes that have been chosen for the 2026 Bushrangers team.
-2026 Bushrangers Team Announced first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
 </feed>
