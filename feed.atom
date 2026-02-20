@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T06:39:49.305Z</updated>
+    <updated>2026-02-20T12:31:42.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Round 1 | Team Named]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65195</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-round-1-team-named/"/>
+        <updated>2026-02-20T10:53:03.000Z</updated>
+        <summary type="html"><![CDATA[The Orienteering New Zealand Senior Selection Panel has named the following athletes to attend Round 1 of the Orienteering World Cup in Locarno Ascona, Switzerland, from 24-26 April 2026. Women Laura Robertson, Hutt Valley Penelope Salmon, Auckland Men Ed Cory-Wright, Peninsula and Plains Tommy Hayes, Auckland Teams are subject to the ONZ Appeals Policy
+World Cup Round 1 | Team Named first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIOA AGM and Prizegiving – Change of Venue]]></title>
         <id>https://www.niorienteering.org.uk/?p=7167</id>
