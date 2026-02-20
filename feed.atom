@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T01:03:31.390Z</updated>
+    <updated>2026-02-20T06:39:49.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -768,26 +768,6 @@ The post Growing your Club – British Orienteering Development Conference Webin
 2026 Board Nominations | Due 20 Feb first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JK 2026 countdown]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56589</id>
-        <link href="https://www.scottish-orienteering.org/news/jk-2026-countdown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jk-2026-countdown"/>
-        <updated>2026-01-21T14:20:32.000Z</updated>
-        <summary type="html"><![CDATA[We hope that most of you already know that SOA is hosting the JK Festival of orienteering this Easter – and […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Community Conversations]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56593</id>
-        <link href="https://www.scottish-orienteering.org/news/2026-community-conversations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-community-conversations"/>
-        <updated>2026-01-21T14:18:20.000Z</updated>
-        <summary type="html"><![CDATA[With the busy January and February calendar with British Orienteering Development Conference, it has been decided to focus the SOA […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
 </feed>
