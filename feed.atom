@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T18:37:01.297Z</updated>
+    <updated>2026-02-20T01:03:31.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIOA AGM and Prizegiving – Change of Venue]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7167</id>
+        <link href="https://www.niorienteering.org.uk/nioa-agm-and-prizegiving-change-of-venue/"/>
+        <updated>2026-02-19T18:57:45.000Z</updated>
+        <summary type="html"><![CDATA[The Annual General Meeting and Prizegiving of NI Orienteering will now take place in Mahon’s Hotel, 12 Mill St, Irvinestown, Enniskillen BT94 1GS at 2pm on Saturday 21 February 2026. This is 500m away from the Bawnacre centre, which was original venue. Food and refreshments...
+The post NIOA AGM and Prizegiving – Change of Venue appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn to Orienteer with our Adult Beginner Coaching Days]]></title>
         <id>https://www.scottish-orienteering.org/?p=56718</id>
