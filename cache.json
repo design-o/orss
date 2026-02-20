@@ -477,26 +477,6 @@
           "wordCount": 2290,
           "title": "Voice of Participant Survey | Sent to members Mon 2 Feb",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/02/VOP-Logo-website-logo-2.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64968",
-          "author": "Christo Peters",
-          "description": "The following athletes have expressed interest in selection for the 2026 World Orienteering Championships (WOC) team:. Women Renee Beveridge Kaia Jorgensen Georgia Lindroos Amber Riddle Laura Robertson Penelope Salmon Briana Steven Zara Stewart Zara Toes Men Nathan Borton Tommy Hayes Felix Hunt Jakob Knoef Joseph Lynch Tim Robertson Kieran Woods Athletes are reminded that any […]\n2026 WOC Expression of Interest List first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2026-woc-expression-of-interest-list/",
-          "publishedOn": "2026-01-22T00:54:36.000Z",
-          "wordCount": 2272,
-          "title": "2026 WOC Expression of Interest List",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2025/11/WOC-2026-Logo.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=64960",
-          "author": "Christo Peters",
-          "description": "Orienteering New Zealand’s (ONZ) Board is responsible for the governance of our sport at a national level. Elected Board members serve three-year terms that start and finish at Annual General Meetings. Collectively the Board decides on national priorities and the resources needed to achieve them. For more on the responsibilities of the Board please feel […]\n2026 Board Nominations | Due 20 Feb first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2026-board-nominations/",
-          "publishedOn": "2026-01-22T00:37:29.000Z",
-          "wordCount": 2273,
-          "title": "2026 Board Nominations | Due 20 Feb",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/12/New-Board-Members-logo.jpg"
         }
       ]
     },
@@ -542,6 +522,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56736",
+          "author": "heidi",
+          "description": "As clubs across Scotland wrap up their Night-O leagues, it’s been fantastic to see so many Night- O events over […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-night-o-season-2025-26/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-night-o-season-2025-26",
+          "publishedOn": "2026-02-20T11:32:37.000Z",
+          "wordCount": 1809,
+          "title": "Scottish Night-O Season 2025-26",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/IMG_8059-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56718",
           "author": "louise",
@@ -746,6 +736,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15685",
+          "author": "Elizabeth L",
+          "description": "This September, experience the thrill of navigating Canberra’s bushlands like never before as you compete in Oceania Orienteering Championships 2026.\nOceania 2026 Bulletin 1 Available first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/oceania-2026-bulletin-1-available/",
+          "publishedOn": "2026-02-20T08:40:00.000Z",
+          "wordCount": 2449,
+          "title": "Oceania 2026 Bulletin 1 Available",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15676",
           "author": "Elizabeth L",

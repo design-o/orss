@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T12:31:42.833Z</updated>
+    <updated>2026-02-20T18:30:27.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Night-O Season 2025-26]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56736</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-night-o-season-2025-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-night-o-season-2025-26"/>
+        <updated>2026-02-20T11:32:37.000Z</updated>
+        <summary type="html"><![CDATA[As clubs across Scotland wrap up their Night-O leagues, it’s been fantastic to see so many Night- O events over […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Round 1 | Team Named]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65195</id>
@@ -15,6 +25,17 @@
 World Cup Round 1 | Team Named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceania 2026 Bulletin 1 Available]]></title>
+        <id>https://orienteering.asn.au/?p=15685</id>
+        <link href="https://orienteering.asn.au/oceania-2026-bulletin-1-available/"/>
+        <updated>2026-02-20T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[This September, experience the thrill of navigating Canberra’s bushlands like never before as you compete in Oceania Orienteering Championships 2026.
+Oceania 2026 Bulletin 1 Available first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
@@ -757,28 +778,6 @@ The post February – Loving Lots of O this month! appeared first on NI Orientee
 The post Growing your Club – British Orienteering Development Conference Webinar appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 WOC Expression of Interest List]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64968</id>
-        <link href="https://www.orienteering.org.nz/news/2026-woc-expression-of-interest-list/"/>
-        <updated>2026-01-22T00:54:36.000Z</updated>
-        <summary type="html"><![CDATA[The following athletes have expressed interest in selection for the 2026 World Orienteering Championships (WOC) team:. Women Renee Beveridge Kaia Jorgensen Georgia Lindroos Amber Riddle Laura Robertson Penelope Salmon Briana Steven Zara Stewart Zara Toes Men Nathan Borton Tommy Hayes Felix Hunt Jakob Knoef Joseph Lynch Tim Robertson Kieran Woods Athletes are reminded that any […]
-2026 WOC Expression of Interest List first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Board Nominations | Due 20 Feb]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=64960</id>
-        <link href="https://www.orienteering.org.nz/news/2026-board-nominations/"/>
-        <updated>2026-01-22T00:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering New Zealand’s (ONZ) Board is responsible for the governance of our sport at a national level. Elected Board members serve three-year terms that start and finish at Annual General Meetings. Collectively the Board decides on national priorities and the resources needed to achieve them. For more on the responsibilities of the Board please feel […]
-2026 Board Nominations | Due 20 Feb first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
 </feed>
