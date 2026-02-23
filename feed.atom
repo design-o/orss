@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T12:35:53.590Z</updated>
+    <updated>2026-02-23T18:46:03.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Horses for Courses]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7193</id>
+        <link href="https://www.niorienteering.org.uk/horses-for-courses-2/"/>
+        <updated>2026-02-23T16:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to Fermanagh Orienteers for a challenging NI Score Championships at the Castle Irvine and Necarne Demesne on Saturday 21 February. The results are now at Fixtures & Results>2026 Results. Planner Robbie Bryson, Controller Raymond Finlay and Organiser Teresa Finlay certainly set a testing strategy puzzle as...
+The post Horses for Courses appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| 2026 Sunny Lake Winter Score | Sunny Lake – Aurora | Saturday, February 21]]></title>
         <id>https://neooc.com/?p=49691</id>
