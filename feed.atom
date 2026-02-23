@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T18:19:07.636Z</updated>
+    <updated>2026-02-23T01:06:54.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results| 2026 Sunny Lake Winter Score | Sunny Lake – Aurora | Saturday, February 21]]></title>
+        <id>https://neooc.com/?p=49691</id>
+        <link href="https://neooc.com/results-2026-sunny-lake-winter-score-sunny-lake-aurora-saturday-february-21/"/>
+        <updated>2026-02-22T18:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Recap and Results We welcomed over 50 intrepid orienteers to Saturday’s score event, including serveral special guests who traveled far to have fun with us. Thanks to Jens and Harvey Christenson (Wilde Boyz) from Southeast Michigan Orienteering Club (SMOC), John Pane and Tatjana Chamis from Western Pennsylvania Orienteering Club (WPOC) for joining us. A big […]]]></summary>
+        <author>
+            <name>Jay Smink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apply for a Team Leaders Position at 2026 International Elite Championships (Updated)]]></title>
         <id>https://orienteering.asn.au/?p=15173</id>
