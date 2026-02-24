@@ -149,6 +149,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15274",
+          "author": "Debbie Dodd",
+          "description": "The third Bike-O 75 event is on Saturday 28 February, at Lysterfield. Enter online now!\nBike-O 75, Lysterfield, Saturday Feb 28 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/bike-o-75-events-this-summer/",
+          "publishedOn": "2026-02-23T00:23:15.000Z",
+          "wordCount": 1061,
+          "title": "Bike-O 75, Lysterfield, Saturday Feb 28",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15418",
           "author": "Debbie Dodd",
           "description": "",
@@ -514,16 +524,6 @@
           "wordCount": 1573,
           "title": "New Event | 2026 Girdled Road Classic | Lake County | Saturday, April 4",
           "imageUrl": "https://neooc.com/wp-content/uploads/2025/10/GirdledRoadReservation.png"
-        },
-        {
-          "id": "https://neooc.com/?p=49599",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Kendall Lake Classic | Vintage Map | Cuyahoga Valley NP | Sunday, March 15",
-          "link": "https://neooc.com/new-event-kendall-lake-classic-vintage-map-cuyahoga-valley-np-sunday-march-15/",
-          "publishedOn": "2026-01-26T01:57:39.000Z",
-          "wordCount": 1573,
-          "title": "New Event | Kendall Lake Classic | Vintage Map | Cuyahoga Valley NP | Sunday, March 15",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/01/old-map-part.png"
         }
       ]
     },
@@ -619,6 +619,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7199",
+          "author": "Richard Gamble",
+          "description": "There are still some places available on the 1-day or 2-day Rescue & Emergency First Aid course available, but let me know soon! Day 1 – performing CPR and first aid in areas easily accessible to emergency services. Day 2 – further first aid and...\nThe post REC First Aid Training for NIOA Members appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/rec-first-aid-training-for-nioa-members/",
+          "publishedOn": "2026-02-24T14:23:39.000Z",
+          "wordCount": 4303,
+          "title": "REC First Aid Training for NIOA Members",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/02/2025-Volunteer-Training-2.png"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7193",
           "author": "NIOA Secretary",
