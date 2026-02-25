@@ -252,6 +252,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24136",
+          "author": "Steve Clelland",
+          "description": "Results from the fourth event of the Night-O series. Details coming soon of the final race at Wimbledon Common. Results – pdf SPORTident WinSplits Routegadget [...]",
+          "link": "https://slow.org.uk/racereports/brockwell-night-results-2026/",
+          "publishedOn": "2026-02-24T22:18:50.000Z",
+          "wordCount": 2018,
+          "title": "Brockwell Park Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/brockwell-night-results-2026/files/Brockwell_night-rotated.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=23950",
           "author": "Dave Uglow",
           "description": "Results SLOW MBO Series/League 2026 SERIES MapRun – Pace, Tracks, Replay MapRun (All events) 22nd February Bucklebury 12th April 31st May 19th July 30th August [...]",
