@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T01:10:20.366Z</updated>
+    <updated>2026-02-25T06:48:47.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -787,17 +787,6 @@ SUPPORT OUR 2026 JWOC TEAM first appeared on Orienteering Australia.]]></summary
         <summary type="html"><![CDATA[2026 Girdled Road Classic | Lake County | Saturday, April 4]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Scales of Green]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7101</id>
-        <link href="https://www.niorienteering.org.uk/four-scales-of-green/"/>
-        <updated>2026-01-26T15:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Planners and Controllers are asked to note several changes to the specification for the NI Colour Series League for 2026: For the benefit of our older veteran members who request a technical challege but a lesser physical challenge, where feasible a Very Short Green course...
-The post Four Scales of Green appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
