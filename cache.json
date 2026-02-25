@@ -244,7 +244,18 @@
       "title": "Orienteering in Ireland",
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22210",
+          "author": "Operations Manager",
+          "description": "Don’t forget to enter the Hit-the-Town Sprint/Urban Festival before Sunday! Come and join us in Limerick for two days of Sprint, Sprint Relay & Urban orienteering, with our Irish Sprint Championships also being held on Saturday in the University of Limerick! We are looking forward to meeting you all in the Treaty City!",
+          "link": "https://www.orienteering.ie/hit-the-town-festival-entries-closing-soon/",
+          "publishedOn": "2026-02-25T10:37:29.000Z",
+          "wordCount": 863,
+          "title": "Hit-the-Town Festival – Entries Closing Soon!",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "South London Orienteers",
@@ -328,6 +339,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65233",
+          "author": "Christo Peters",
+          "description": "The area of Woodhill Forest depicted in the image on the right is strictly embargoed. It is also private property, and unauthorized access will potentially result in orienteering losing its access to the entire Woodhill Forest.\n2026 Tūāraki Champs | Embargo first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2026-tuaraki-champs-embargo/",
+          "publishedOn": "2026-02-25T08:35:21.000Z",
+          "wordCount": 2249,
+          "title": "2026 Tūāraki Champs | Embargo",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/02/NORTH-Regional-champs-logo-new-date-scaled.png"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=65195",
           "author": "Christo Peters",
@@ -524,16 +545,6 @@
           "wordCount": 1582,
           "title": "New Event | Orienteering 101 | Lake County | Saturday, March 21, 2026",
           "imageUrl": "https://neooc.com/wp-content/uploads/2023/08/ld_map-and-compass-1-scaled.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=49603",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2026 Girdled Road Classic | Lake County | Saturday, April 4",
-          "link": "https://neooc.com/new-event-2026-girdled-road-classic-lake-county-saturday-april-4/",
-          "publishedOn": "2026-01-26T20:29:05.000Z",
-          "wordCount": 1573,
-          "title": "New Event | 2026 Girdled Road Classic | Lake County | Saturday, April 4",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2025/10/GirdledRoadReservation.png"
         }
       ]
     },
@@ -736,6 +747,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15729",
+          "author": "Elizabeth L",
+          "description": "Please consider making a tax deductible gift through the ASF to help support our athletes attend 2026 WMTBOC in Sweden.\nSUPPORT OUR 2026 WMTBOC TEAM first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/support-our-2026-wmtboc-team/",
+          "publishedOn": "2026-02-25T06:48:42.000Z",
+          "wordCount": 2391,
+          "title": "SUPPORT OUR 2026 WMTBOC TEAM",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15173",
           "author": "Elizabeth L",

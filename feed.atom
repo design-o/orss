@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T06:48:47.117Z</updated>
+    <updated>2026-02-25T12:36:28.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hit-the-Town Festival – Entries Closing Soon!]]></title>
+        <id>https://www.orienteering.ie/?p=22210</id>
+        <link href="https://www.orienteering.ie/hit-the-town-festival-entries-closing-soon/"/>
+        <updated>2026-02-25T10:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Don’t forget to enter the Hit-the-Town Sprint/Urban Festival before Sunday! Come and join us in Limerick for two days of Sprint, Sprint Relay & Urban orienteering, with our Irish Sprint Championships also being held on Saturday in the University of Limerick! We are looking forward to meeting you all in the Treaty City!]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Tūāraki Champs | Embargo]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65233</id>
+        <link href="https://www.orienteering.org.nz/news/2026-tuaraki-champs-embargo/"/>
+        <updated>2026-02-25T08:35:21.000Z</updated>
+        <summary type="html"><![CDATA[The area of Woodhill Forest depicted in the image on the right is strictly embargoed. It is also private property, and unauthorized access will potentially result in orienteering losing its access to the entire Woodhill Forest.
+2026 Tūāraki Champs | Embargo first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPPORT OUR 2026 WMTBOC TEAM]]></title>
+        <id>https://orienteering.asn.au/?p=15729</id>
+        <link href="https://orienteering.asn.au/support-our-2026-wmtboc-team/"/>
+        <updated>2026-02-25T06:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Please consider making a tax deductible gift through the ASF to help support our athletes attend 2026 WMTBOC in Sweden.
+SUPPORT OUR 2026 WMTBOC TEAM first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brockwell Park Night-O Results]]></title>
         <id>https://slow.org.uk/?p=24136</id>
@@ -777,16 +809,6 @@ SUPPORT OUR 2026 JWOC TEAM first appeared on Orienteering Australia.]]></summary
         <summary type="html"><![CDATA[Oceania found its regional champions in the sprint distances this past weekend on the Australian eastern coast. In various terrains in school, campus and university areas on the Central Coast north of Sydney, the Australians competed on home turf against their neighbours from New Zealand. On Saturday, it was the Knock-Out Sprint, which provided some […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | 2026 Girdled Road Classic | Lake County | Saturday, April 4]]></title>
-        <id>https://neooc.com/?p=49603</id>
-        <link href="https://neooc.com/new-event-2026-girdled-road-classic-lake-county-saturday-april-4/"/>
-        <updated>2026-01-26T20:29:05.000Z</updated>
-        <summary type="html"><![CDATA[2026 Girdled Road Classic | Lake County | Saturday, April 4]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
