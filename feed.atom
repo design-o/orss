@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-27T12:32:14.579Z</updated>
+    <updated>2026-02-27T18:24:53.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spring into O-Action🏃‍➡️🤸🏃‍➡️]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7203</id>
+        <link href="https://www.niorienteering.org.uk/spring-into-o-action%f0%9f%8f%83%e2%9e%a1%ef%b8%8f%f0%9f%a4%b8%f0%9f%8f%83%e2%9e%a1%ef%b8%8f/"/>
+        <updated>2026-02-27T13:14:02.000Z</updated>
+        <summary type="html"><![CDATA[🦁In like a Lion – never mind the king of the jungle, who are going to be the kings and queens of the forest, open hill and streets in the month of March! 🌤️No point in wasting these longer, warmer and dryer days, get out...
+The post Spring into O-Action🏃‍➡️🤸🏃‍➡️ appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hit-the-Town Festival – Entries Closing Soon!]]></title>
         <id>https://www.orienteering.ie/?p=22210</id>
@@ -737,17 +748,6 @@ King’s Birthday Hobbit Tour first appeared on Orienteering Australia.]]></summ
 The post Next Weeks Development Conference Webinars – something for you? appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EYOC2026 Squad: Nominations Form and Selection Guidelines]]></title>
-        <id>https://orienteering.asn.au/?p=15503</id>
-        <link href="https://orienteering.asn.au/eyoc2026-squad-nominations-form-and-selection-guidelines/"/>
-        <updated>2026-01-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The nomination form and selection guidelines for EYOC 2026 are now available.
-EYOC2026 Squad: Nominations Form and Selection Guidelines first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
