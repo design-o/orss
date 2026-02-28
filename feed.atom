@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T06:22:20.876Z</updated>
+    <updated>2026-02-28T12:21:48.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Taitonga Southern Regional Orienteering Champs 2026  |  Embargo notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65281</id>
+        <link href="https://www.orienteering.org.nz/news/taitonga-southern-regional-orienteering-champs-2026-embargo-notice/"/>
+        <updated>2026-02-28T10:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Nelson and Marlborough Orienteering Clubs are hosting the Taitonga – Southern Regional Orienteering Championships at Labour Weekend from the 24 to 26 October 2026. The following embargoes come into effect as of 1 March 2026. At this stage, we are still confirming access and personnel so please do not book any accommodation in case of a […]
+Taitonga Southern Regional Orienteering Champs 2026  |  Embargo notice  first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spring into O-Action🏃‍➡️🤸🏃‍➡️]]></title>
         <id>https://www.niorienteering.org.uk/?p=7203</id>
@@ -737,17 +748,6 @@ The post Northern Schools NI Orienteering Assessment appeared first on NI Orient
 King’s Birthday Hobbit Tour first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Weeks Development Conference Webinars – something for you?]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7085</id>
-        <link href="https://www.niorienteering.org.uk/next-weeks-development-conference-webinars-something-for-you/"/>
-        <updated>2026-01-29T19:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Safety Advisory Group Update – something for event officials and committee Monday 2 February 2026, 19:00-20:00 This session dives into the world of safety, and what the Group are working on to make Orienteering in the UK a safer place for all.  We will be demonstrating the Online Incident Report System, and sharing some insights...
-The post Next Weeks Development Conference Webinars – something for you? appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>Richard Gamble</name>
         </author>
     </entry>
     <entry>

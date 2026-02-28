@@ -320,6 +320,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65281",
+          "author": "Joolz",
+          "description": "Nelson and Marlborough Orienteering Clubs are hosting the Taitonga – Southern Regional Orienteering Championships at Labour Weekend from the 24 to 26 October 2026. The following embargoes come into effect as of 1 March 2026. At this stage, we are still confirming access and personnel so please do not book any accommodation in case of a […]\nTaitonga Southern Regional Orienteering Champs 2026  |  Embargo notice  first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/taitonga-southern-regional-orienteering-champs-2026-embargo-notice/",
+          "publishedOn": "2026-02-28T10:25:08.000Z",
+          "wordCount": 2362,
+          "title": "Taitonga Southern Regional Orienteering Champs 2026  |  Embargo notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/02/TAitonga-2026-embargo.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=65233",
           "author": "Christo Peters",
           "description": "The area of Woodhill Forest depicted in the image on the right is strictly embargoed. It is also private property, and unauthorized access will potentially result in orienteering losing its access to the entire Woodhill Forest.\n2026 Tūāraki Champs | Embargo first appeared on Orienteering New Zealand.",
@@ -719,16 +729,6 @@
           "wordCount": 4377,
           "title": "Northern Schools NI Orienteering Assessment",
           "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/01/20260126_115702.jpg?fit=1420%2C1893&ssl=1"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7085",
-          "author": "Richard Gamble",
-          "description": "Safety Advisory Group Update – something for event officials and committee Monday 2 February 2026, 19:00-20:00 This session dives into the world of safety, and what the Group are working on to make Orienteering in the UK a safer place for all.  We will be demonstrating the Online Incident Report System, and sharing some insights...\nThe post Next Weeks Development Conference Webinars – something for you? appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/next-weeks-development-conference-webinars-something-for-you/",
-          "publishedOn": "2026-01-29T19:00:42.000Z",
-          "wordCount": 4464,
-          "title": "Next Weeks Development Conference Webinars – something for you?",
-          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/01/Devlopment-2026.jpg?fit=900%2C529&ssl=1"
         }
       ]
     },
