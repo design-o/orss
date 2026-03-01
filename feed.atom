@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T12:22:57.554Z</updated>
+    <updated>2026-03-01T18:17:51.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Our Values]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56758</id>
+        <link href="https://www.scottish-orienteering.org/news/our-values/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=our-values"/>
+        <updated>2026-03-01T15:35:25.000Z</updated>
+        <summary type="html"><![CDATA[At Scottish Orienteering , our values underpin everything we do.  These are: A climate of mutual respect and gratitude ensures […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last chance:  Did you fill in the survey? | Closing 2 March]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65337</id>
