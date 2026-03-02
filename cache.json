@@ -253,6 +253,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24148",
+          "author": "Steve Clelland",
+          "description": "Entries now open The final race of the 2025-2026 night series takes place on the southern half of Wimbledon Common, south-west London, on Tuesday 24th March [...]",
+          "link": "https://slow.org.uk/events/night-o-mar2026/",
+          "publishedOn": "2026-03-01T20:12:53.000Z",
+          "wordCount": 2658,
+          "title": "Night-O Series Finale – Wimbledon Common, Tuesday 24th March",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Richmond_night_2019_start2-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24136",
           "author": "Steve Clelland",
           "description": "Results from the fourth event of the Night-O series. Details coming soon of the final race at Wimbledon Common. Results – pdf SPORTident WinSplits Routegadget [...]",

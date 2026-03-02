@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T18:17:51.949Z</updated>
+    <updated>2026-03-02T01:04:51.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Night-O Series Finale – Wimbledon Common, Tuesday 24th March]]></title>
+        <id>https://slow.org.uk/?p=24148</id>
+        <link href="https://slow.org.uk/events/night-o-mar2026/"/>
+        <updated>2026-03-01T20:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Entries now open The final race of the 2025-2026 night series takes place on the southern half of Wimbledon Common, south-west London, on Tuesday 24th March [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Values]]></title>
         <id>https://www.scottish-orienteering.org/?p=56758</id>
