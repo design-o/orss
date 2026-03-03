@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T12:31:20.271Z</updated>
+    <updated>2026-03-03T18:32:32.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trossachs provide challenging terrain for the Scottish Middle Champs]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56788</id>
+        <link href="https://www.scottish-orienteering.org/news/trossachs-provide-challenging-terrain-for-the-scottish-middle-champs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trossachs-provide-challenging-terrain-for-the-scottish-middle-champs"/>
+        <updated>2026-03-03T15:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Forth Valley Orienteers provided a weekend of entertainment for our membership combining the Scottish Middle Championships with the CompassSport Cup/Trophy […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mucking around at Muckno]]></title>
         <id>https://www.niorienteering.org.uk/?p=7257</id>
@@ -812,15 +822,6 @@ World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.
         <summary type="html"><![CDATA[The fourth race of South London Orienteers’ 2025-2026 Night series takes place in Brockwell Park, south-west London, on Tuesday 24th February 2026. Race Centre The race will [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 1, Sunday 8 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15393</id>
-        <link href="https://www.vicorienteering.asn.au/15393-2/"/>
-        <updated>2026-02-02T06:13:54.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

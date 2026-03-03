@@ -227,16 +227,6 @@
           "wordCount": 1016,
           "title": "MFR Training, Woodlands, Sunday 1 March",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15393",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/15393-2/",
-          "publishedOn": "2026-02-02T06:13:54.000Z",
-          "wordCount": 950,
-          "title": "Vic Series 1, Sunday 8 March",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -603,6 +593,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56788",
+          "author": "nikkihoward",
+          "description": "Forth Valley Orienteers provided a weekend of entertainment for our membership combining the Scottish Middle Championships with the CompassSport Cup/Trophy […]",
+          "link": "https://www.scottish-orienteering.org/news/trossachs-provide-challenging-terrain-for-the-scottish-middle-champs/?utm_source=rss&utm_medium=rss&utm_campaign=trossachs-provide-challenging-terrain-for-the-scottish-middle-champs",
+          "publishedOn": "2026-03-03T15:46:21.000Z",
+          "wordCount": 1652,
+          "title": "Trossachs provide challenging terrain for the Scottish Middle Champs",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/IMG_2293-819x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56769",
           "author": "nikkihoward",
