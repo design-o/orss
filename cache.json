@@ -149,6 +149,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15446",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/ballarat-classic-1-sunday-15-march/",
+          "publishedOn": "2026-02-28T03:26:09.000Z",
+          "wordCount": 978,
+          "title": "Ballarat Classic 1, Sunday 15 March",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15274",
           "author": "Debbie Dodd",
           "description": "The third Bike-O 75 event is on Saturday 28 February, at Lysterfield. Enter online now!\nBike-O 75, Lysterfield, Saturday Feb 28 first appeared on Orienteering Victoria.",
@@ -156,6 +166,16 @@
           "publishedOn": "2026-02-23T00:23:15.000Z",
           "wordCount": 1061,
           "title": "Bike-O 75, Lysterfield, Saturday Feb 28",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15448",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/maxi-at-hepburn-diggings-sunday-march-22/",
+          "publishedOn": "2026-02-20T03:29:21.000Z",
+          "wordCount": 1046,
+          "title": "Maxi at Hepburn Diggings, Sunday March 22",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -216,16 +236,6 @@
           "publishedOn": "2026-02-02T06:13:54.000Z",
           "wordCount": 950,
           "title": "Vic Series 1, Sunday 8 March",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15276",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/15276-2/",
-          "publishedOn": "2026-02-02T00:23:59.000Z",
-          "wordCount": 1113,
-          "title": "Course Planning Workshops in February",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -700,6 +710,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7257",
+          "author": "NIOA Secretary",
+          "description": "Given the recent constant rain, it was actually surprisingly dry underfoot at Lough Muckno Park and Black Island, Castleblayney, Co.Monaghan, a Leinster League event on 1 March 2026 which doubled up as the first outing of the year for the NI Colour Series. Thanks to...\nThe post Mucking around at Muckno appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/mucking-around-at-muckno/",
+          "publishedOn": "2026-03-03T09:49:19.000Z",
+          "wordCount": 4301,
+          "title": "Mucking around at Muckno",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/02/Castleblaney.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7217",
           "author": "NIOA Secretary",
