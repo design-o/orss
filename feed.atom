@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-04T06:33:06.053Z</updated>
+    <updated>2026-03-04T12:30:38.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -823,16 +823,6 @@ World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.
         <summary type="html"><![CDATA[The 1st International Conference on Orienteering in Scientific Research and Higher Education (O-Conference 2026) will be organised by Chalmers University of Technology in Gothenburg, Sweden in the summer of 2026. The dates for the conference are 18-19 July and are coordinated with the traditional stage race O-ringen near Gothenburg, which makes it possible to combine […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brockwell Park Night-O, Tuesday 24th February]]></title>
-        <id>https://slow.org.uk/?p=24052</id>
-        <link href="https://slow.org.uk/events/brockwell-night-feb2026/"/>
-        <updated>2026-02-02T22:19:42.000Z</updated>
-        <summary type="html"><![CDATA[The fourth race of South London Orienteers’ 2025-2026 Night series takes place in Brockwell Park, south-west London, on Tuesday 24th February 2026. Race Centre The race will [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
     <entry>
