@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T06:36:44.396Z</updated>
+    <updated>2026-03-05T12:33:58.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -813,16 +813,6 @@ JWOC 2026 | UPDATED Selection Notice first appeared on Orienteering New Zealand.
 World Cup Round 1 | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battersea Park Night-O Results]]></title>
-        <id>https://slow.org.uk/?p=24060</id>
-        <link href="https://slow.org.uk/racereports/battersea-results-feb2026/"/>
-        <updated>2026-02-03T23:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf SPORTident – live results WinSplits Routegadget – draw your route Lost Property Half moon glasses A delightful collection of: 1 stripey sock, [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
     <entry>
