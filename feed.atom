@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T06:32:47.673Z</updated>
+    <updated>2026-03-06T12:29:15.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inspiring Future Teachers at Dundee University]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56824</id>
+        <link href="https://www.scottish-orienteering.org/news/inspiring-future-teachers-at-dundee-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inspiring-future-teachers-at-dundee-university"/>
+        <updated>2026-03-06T11:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Scottish Orienteering has been working with Dundee University to introduce third‑year Primary Education students to the benefits of orienteering in […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Question and Answer session with Jonathan Molloy]]></title>
         <id>https://www.scottish-orienteering.org/?p=56815</id>
