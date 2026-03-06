@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T12:29:15.390Z</updated>
+    <updated>2026-03-06T18:29:04.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -782,15 +782,6 @@ The post Final few Development Conference sessions – is there a webinar for yo
         <summary type="html"><![CDATA[Last weekend marked the first East Area coaching day of the year, held at Whinny Hill in Edinburgh. Led by […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MFR Training, Woodlands, Sunday 1 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15391</id>
-        <link href="https://www.vicorienteering.asn.au/mfr-training-woodlands-sunday-1-march/"/>
-        <updated>2026-02-05T06:12:10.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
