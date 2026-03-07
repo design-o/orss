@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T06:24:21.959Z</updated>
+    <updated>2026-03-07T12:22:18.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -771,17 +771,6 @@ WOC 2026 | Provisional Team Selection first appeared on Orienteering New Zealand
         <summary type="html"><![CDATA[Norwegian athlete Anna Ulvensøen and the experienced Finn Aapo Viippola were today’s Sprint winners in the first World Cup race in Luleå, Sweden, on a testing course with many ski tracks and small paths. The competition took place in calm and sunny conditions with the temperature around minus 16; good ear protection was essential! Two […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final few Development Conference sessions – is there a webinar for you?]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7087</id>
-        <link href="https://www.niorienteering.org.uk/last-week-of-the-development-conference-is-there-a-webinar-for-you/"/>
-        <updated>2026-02-05T19:00:42.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering Instructor Qualification for Clubs perfect for those thinking of taking the first step on the coaching ladder Monday 9 February 2026, 19:00-20:30 Ready to take your club’s introductory sessions to the next level? Join us for an engaging session that explores how the...
-The post Final few Development Conference sessions – is there a webinar for you? appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>Richard Gamble</name>
         </author>
     </entry>
     <entry>
