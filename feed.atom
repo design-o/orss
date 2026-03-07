@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T01:01:01.257Z</updated>
+    <updated>2026-03-07T06:24:21.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -782,16 +782,6 @@ WOC 2026 | Provisional Team Selection first appeared on Orienteering New Zealand
 The post Final few Development Conference sessions – is there a webinar for you? appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[East Area Training Days]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56632</id>
-        <link href="https://www.scottish-orienteering.org/news/east-area-training-days/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=east-area-training-days"/>
-        <updated>2026-02-05T16:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Last weekend marked the first East Area coaching day of the year, held at Whinny Hill in Edinburgh. Led by […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
     <entry>
