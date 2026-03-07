@@ -253,6 +253,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24160",
+          "author": "vinh",
+          "description": "The penultimate race in the 2025-26 Street-O series will be in Tottenham. The format is a 1 hour time limit to find as many checkpoints [...]",
+          "link": "https://slow.org.uk/streeto/tottenham-street-o-25/",
+          "publishedOn": "2026-03-06T21:58:50.000Z",
+          "wordCount": 2760,
+          "title": "Tottenham Street-O, Tuesday 14 April",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/bethnal-green-street-o-results/files/StreetO_May2025_3.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24148",
           "author": "Steve Clelland",
           "description": "Entries now open The final race of the 2025-2026 night series takes place on the southern half of Wimbledon Common, south-west London, on Tuesday 24th March [...]",
