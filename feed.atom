@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T12:23:37.752Z</updated>
+    <updated>2026-03-08T18:17:56.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -750,17 +750,6 @@ Park Street Update, Feb 17-23 – Champs Just One Week Away! first appeared on O
         <summary type="html"><![CDATA[The mass start format led to a dramatic finish in the women’s race, with Anna Ulvensøen NOR crossing the line just ahead of Swedish athletes Frida Sandberg and Ella Turesson. Niklas Ekstrӧm FIN won the men’s race by 11 seconds. Two eventful races took place on another cold and sunny morning in Luleå. Again the […]]]></summary>
         <author>
             <name>Clive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2026 | Provisional Team Selection]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65152</id>
-        <link href="https://www.orienteering.org.nz/news/woc-2026-provisional-team-selection/"/>
-        <updated>2026-02-07T04:42:42.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering New Zealand Senior Selection Panel has named the following athletes to attend the World Orienteering Championships (WOC) in Genova, Italy, from 6–11 July 2026. The remaining men’s places will be decided following a secondary trial at the New Zealand Orienteering Championships Sprint on 3 April 2026. In addition, as the current Regional (Oceania) […]
-WOC 2026 | Provisional Team Selection first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
