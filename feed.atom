@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T01:00:38.914Z</updated>
+    <updated>2026-03-10T06:34:08.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victorian Schools Sprint Champs, RMIT Bundoora, March 30]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15468</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-schools-sprint-champs-rmit-bundoora-march-30/"/>
+        <updated>2026-03-08T02:02:46.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tottenham Street-O, Tuesday 14 April]]></title>
         <id>https://slow.org.uk/?p=24160</id>
@@ -55,6 +64,15 @@
 The post Mucking around at Muckno appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training With Joe, Thursday 12 March, Toorak Park]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15471</id>
+        <link href="https://www.vicorienteering.asn.au/training-with-joe-thursday-11-march-toorak-park/"/>
+        <updated>2026-03-03T02:07:25.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -710,17 +728,6 @@ The post Enter Now to Score at Castle Irvine appeared first on NI Orienteering A
 BendiGo ToDay 2026, 21 – 22 February first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries are now open for 2026 NZ Orienteering Champs]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65156</id>
-        <link href="https://www.orienteering.org.nz/news/entries-are-now-open-for-2026-nz-orienteering-champs/"/>
-        <updated>2026-02-08T18:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Early Bird entries will be 10% off if entered before 15 February 2026. Standard entry fees above apply up until midnight 15 March. After 15 March, late entry fees apply with a a 50% increase until entries close at midnight on 24 March. Sorry, no entries will be accepted after 24 March.https://ochamps.nz/entries/ #orienteeringchamps #entriesopen #enternow […]
-Entries are now open for 2026 NZ Orienteering Champs first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
