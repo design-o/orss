@@ -217,16 +217,6 @@
           "wordCount": 1046,
           "title": "Maxi at Hepburn Diggings, Sunday March 22",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15418",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/monash-march-madness-sprint-double-sunday-15-march/",
-          "publishedOn": "2026-02-10T00:01:57.000Z",
-          "wordCount": 1064,
-          "title": "Monash March Madness Sprint Double, Sunday 15 March",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -553,6 +543,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56754",
+          "author": "louise",
+          "description": "We are pleased to announce the latest round of funding awards made through the SOA Development Fund. This fund is […]",
+          "link": "https://www.scottish-orienteering.org/news/supporting-lifelong-pathways-through-the-soa-development-fund/?utm_source=rss&utm_medium=rss&utm_campaign=supporting-lifelong-pathways-through-the-soa-development-fund",
+          "publishedOn": "2026-03-11T12:23:10.000Z",
+          "wordCount": 1546,
+          "title": "Supporting Lifelong Pathways through the SOA Development Fund",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/Development-Fund-1-1024x1024.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56824",
           "author": "heidi",
