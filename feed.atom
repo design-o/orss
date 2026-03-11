@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T18:33:28.333Z</updated>
+    <updated>2026-03-11T01:01:23.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pimlico Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=24163</id>
+        <link href="https://slow.org.uk/streeto/pimlico-street-o-25-results/"/>
+        <updated>2026-03-11T00:19:12.000Z</updated>
+        <summary type="html"><![CDATA[A great turnout to our Street-O around Pimlico and Westminster on a fine evening. We hope you enjoyed the historic clues and learnt something interesting [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victorian Schools Sprint Champs, RMIT Bundoora, March 30]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15468</id>

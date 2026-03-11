@@ -253,6 +253,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24163",
+          "author": "vinh",
+          "description": "A great turnout to our Street-O around Pimlico and Westminster on a fine evening. We hope you enjoyed the historic clues and learnt something interesting [...]",
+          "link": "https://slow.org.uk/streeto/pimlico-street-o-25-results/",
+          "publishedOn": "2026-03-11T00:19:12.000Z",
+          "wordCount": 2203,
+          "title": "Pimlico Street-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/chelsea-street-o-tuesday-8-may/files/Chelsea_blank-1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24160",
           "author": "vinh",
           "description": "The penultimate race in the 2025-26 Street-O series will be in Tottenham. The format is a 1 hour time limit to find as many checkpoints [...]",
