@@ -149,6 +149,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15418",
+          "author": "Debbie Dodd",
+          "description": "Two races for the price of one, on the magnificent Monash map. What are you waiting for?\nMonash March Madness Sprint Double, Sunday 15 March – Entries Closing Soon! first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/monash-march-madness-sprint-double-sunday-15-march/",
+          "publishedOn": "2026-03-10T00:01:57.000Z",
+          "wordCount": 1044,
+          "title": "Monash March Madness Sprint Double, Sunday 15 March – Entries Closing Soon!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15468",
           "author": "Debbie Dodd",
           "description": "",
@@ -543,6 +553,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56838",
+          "author": "louise",
+          "description": "For many people, joining an orienteering club is the moment when an occasional event participant becomes part of the community. […]",
+          "link": "https://www.scottish-orienteering.org/news/newcomer-packs-sharing-ideas-and-assessing-gaps/?utm_source=rss&utm_medium=rss&utm_campaign=newcomer-packs-sharing-ideas-and-assessing-gaps",
+          "publishedOn": "2026-03-11T15:42:45.000Z",
+          "wordCount": 2379,
+          "title": "Newcomer Packs – Sharing ideas and assessing gaps",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/Screenshot-2026-03-11-124850-1.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56754",
           "author": "louise",
