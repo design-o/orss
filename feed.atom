@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T00:58:27.275Z</updated>
+    <updated>2026-03-12T06:39:00.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -43,6 +43,15 @@
         <updated>2026-03-10T00:01:57.000Z</updated>
         <summary type="html"><![CDATA[Two races for the price of one, on the magnificent Monash map. What are you waiting for?
 Monash March Madness Sprint Double, Sunday 15 March – Entries Closing Soon! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotch College Retains Slade-Wilson Trophy in 2026]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15486</id>
+        <link href="https://www.vicorienteering.asn.au/scotch-college-retains-slade-wilson-trophy-in-2026/"/>
+        <updated>2026-03-08T06:29:08.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
