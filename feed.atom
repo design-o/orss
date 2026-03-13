@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T18:37:05.098Z</updated>
+    <updated>2026-03-13T01:03:51.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -737,16 +737,6 @@ The post NI Orienteering AGM Agenda appeared first on NI Orienteering Associatio
         <summary type="html"><![CDATA[This coming weekend marks a milestone for international orienteering, as the first IOF Gold World Ranking Event (WRE) is held at the Portugal O Meeting (POM). The introduction of the IOF Gold WRE category represents a new level at the top of the World Ranking Event structure, highlighting competitions that combine world-class organisation, high-quality terrain, […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Street-O series results after race 6]]></title>
-        <id>https://slow.org.uk/?p=24084</id>
-        <link href="https://slow.org.uk/streeto/street-o-series-results-after-race-6/"/>
-        <updated>2026-02-11T10:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Many thanks to London Orienteering Klubb for organising yesterday’s Street-O in Southgate. Event results on their website. Series results after race 6. Any queries contact [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
     <entry>
