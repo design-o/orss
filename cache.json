@@ -246,6 +246,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22250",
+          "author": "Operations Manager",
+          "description": "We are delighted to share the final Event Information Booklet for our upcoming sprint/urban orienteering festival with you. Her you will find useful information on the events. SPRINT > RELAY > URBAN – It’s all happening in Limerick! Please note, that due to construction works and limited access to certain areas, we have had to […]",
+          "link": "https://www.orienteering.ie/hit-the-town-update/",
+          "publishedOn": "2026-03-13T18:10:33.000Z",
+          "wordCount": 899,
+          "title": "Hit-the-Town Update!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22210",
           "author": "Operations Manager",
           "description": "Don’t forget to enter the Hit-the-Town Sprint/Urban Festival before Sunday! Come and join us in Limerick for two days of Sprint, Sprint Relay & Urban orienteering, with our Irish Sprint Championships also being held on Saturday in the University of Limerick! We are looking forward to meeting you all in the Treaty City!",
@@ -564,6 +574,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56881",
+          "author": "nikkihoward",
+          "description": "There are three weeks to go before Scottish Orienteering hosts the biggest annual orienteering event in the UK and anticipation […]",
+          "link": "https://www.scottish-orienteering.org/news/jk-entries-close-15th-march-dont-miss-out/?utm_source=rss&utm_medium=rss&utm_campaign=jk-entries-close-15th-march-dont-miss-out",
+          "publishedOn": "2026-03-13T14:01:25.000Z",
+          "wordCount": 1545,
+          "title": "JK Entries close 15th March – don’t miss out!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/649915844_1542917924503962_202876391400344742_n.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56864",
           "author": "nikkihoward",
           "description": "The 2026 Scottish Orienteering Individual and Relay Championships are being hosted by the WEST Area clubs – AYROC, CLYDE, ECKO, FVO, SOLWAY, STAG and TINTO – who are combining to deliver […]",
@@ -730,6 +750,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7283",
+          "author": "NIOA Secretary",
+          "description": "At our recent AGM and Prizegiving held in Irivingstown, Co Fermanagh on 21 February, trophies for the 2025 season were presented to class winners of the NI Long Distance Championships. Well done to all our winners! Any winner who was not able to attend and wishes...\nThe post We are the Champions appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/we-are-the-champions-2/",
+          "publishedOn": "2026-03-13T17:23:09.000Z",
+          "wordCount": 4303,
+          "title": "We are the Champions",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/03/NIOA-Champions-2025.png"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7257",
           "author": "NIOA Secretary",
