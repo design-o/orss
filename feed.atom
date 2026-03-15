@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-15T06:42:23.252Z</updated>
+    <updated>2026-03-15T12:27:14.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -711,16 +711,6 @@ The post NI Orienteering AGM Agenda appeared first on NI Orienteering Associatio
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OK Nuts 2026]]></title>
-        <id>https://slow.org.uk/?p=24093</id>
-        <link href="https://slow.org.uk/events/ok-nuts-2026/"/>
-        <updated>2026-02-13T21:53:04.000Z</updated>
-        <summary type="html"><![CDATA[National Event Sunday May 4th 2026 South London Orienteers invite you to take part in the OK Nuts Trophy 2026, our premier forest race of [...]]]></summary>
-        <author>
-            <name>Paul Street</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Where World Championships begin: Developing bigger, better orienteering events at IOF’s High Level Event Seminar]]></title>
         <id>https://orienteering.sport/?p=81353</id>
         <link href="https://orienteering.sport/where-world-championships-begin-developing-bigger-better-orienteering-events-at-iofs-high-level-event-seminar/"/>
@@ -728,16 +718,6 @@ The post NI Orienteering AGM Agenda appeared first on NI Orienteering Associatio
         <summary type="html"><![CDATA[Winter is the time for planning and preparing for the next season in Foot Orienteering. It is a tradition that IOF Office and IOF Foot Orienteering Commission invites the organisers and event advisers for World Championships and World Cups for an annual High Level Event Seminar This year, the seminar was held 7th and 8th […]]]></summary>
         <author>
             <name>Erling Thisted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Orienteering 101 | Lake County | Saturday, March 21, 2026]]></title>
-        <id>https://neooc.com/?p=49644</id>
-        <link href="https://neooc.com/new-event-orienteering-101-lake-county-saturday-march-21-2026/"/>
-        <updated>2026-02-13T19:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering 101 | Lake County | Saturday, March 21, 2026]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
