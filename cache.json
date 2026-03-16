@@ -537,6 +537,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=49803",
+          "author": "Jay Smink",
+          "description": "Recap and Results NEOOC continues to celebrate our 50th anniversary with a vintage event.  We welcomed over 100 excited orienteers to Sunday’s black and white classic.  Everyone enjoyed great weather and rising temperatures as they traversed Bob Botlz designed courses on a hybrid map. Bob created a throw back map that combined a section mapped […]",
+          "link": "https://neooc.com/results-2026-kendall-vintage-classic-kendall-lake-cvnp-sunday-march-15/",
+          "publishedOn": "2026-03-16T04:29:11.000Z",
+          "wordCount": 1873,
+          "title": "Results| 2026 Kendall Vintage Classic | Kendall Lake – CVNP | Sunday, March 15",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/03/03150133-2-300x288.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=49691",
           "author": "Jay Smink",
           "description": "Recap and Results We welcomed over 50 intrepid orienteers to Saturday’s score event, including serveral special guests who traveled far to have fun with us. Thanks to Jens and Harvey Christenson (Wilde Boyz) from Southeast Michigan Orienteering Club (SMOC), John Pane and Tatjana Chamis from Western Pennsylvania Orienteering Club (WPOC) for joining us. A big […]",
@@ -789,26 +799,6 @@
           "wordCount": 4448,
           "title": "Colour Series Prologue",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/02/Castleblaney.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7152",
-          "author": "NIOA Secretary",
-          "description": "The entries close on Sunday 15 February at 23:00 for the NI Score Orienteering Championships at Castle Irvine, Necarne, Irvinestown, Co Fermanagh on Saturday 21 February 2026. All the details are on the event page at the Fermanagh Orienteers website, with entries at SI Entries....\nThe post NI Score Champs Entries Closing appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/ni-score-champs-entries-closing/",
-          "publishedOn": "2026-02-14T22:41:21.000Z",
-          "wordCount": 4293,
-          "title": "NI Score Champs Entries Closing",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/02/Castle-Irvine-Estate-Necarne-Castle-Drone-12.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7146",
-          "author": "NIOA Secretary",
-          "description": "The Agenda for the 2026 AGM of NI Orienteering is available at About Us>Meeting Notes, along with the Minutes of the 2025 AGM and 2025 EGM.\nThe post NI Orienteering AGM Agenda appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/ni-orienteering-agm-agenda/",
-          "publishedOn": "2026-02-14T20:00:53.000Z",
-          "wordCount": 4261,
-          "title": "NI Orienteering AGM Agenda",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2016/04/AGM2.jpg"
         }
       ]
     },
@@ -817,6 +807,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15775",
+          "author": "Elizabeth L",
+          "description": "Results and recap of NOL Round 2 in Canberra, ACT.\nNOL Round 2 Results & Recap first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nol-round-2-results-recap/",
+          "publishedOn": "2026-03-16T06:58:38.000Z",
+          "wordCount": 2658,
+          "title": "NOL Round 2 Results & Recap",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15729",
           "author": "Elizabeth L",

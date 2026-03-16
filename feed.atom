@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T01:14:13.874Z</updated>
+    <updated>2026-03-16T12:42:49.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NOL Round 2 Results & Recap]]></title>
+        <id>https://orienteering.asn.au/?p=15775</id>
+        <link href="https://orienteering.asn.au/nol-round-2-results-recap/"/>
+        <updated>2026-03-16T06:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Results and recap of NOL Round 2 in Canberra, ACT.
+NOL Round 2 Results & Recap first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Results| 2026 Kendall Vintage Classic | Kendall Lake – CVNP | Sunday, March 15]]></title>
+        <id>https://neooc.com/?p=49803</id>
+        <link href="https://neooc.com/results-2026-kendall-vintage-classic-kendall-lake-cvnp-sunday-march-15/"/>
+        <updated>2026-03-16T04:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Recap and Results NEOOC continues to celebrate our 50th anniversary with a vintage event.  We welcomed over 100 excited orienteers to Sunday’s black and white classic.  Everyone enjoyed great weather and rising temperatures as they traversed Bob Botlz designed courses on a hybrid map. Bob created a throw back map that combined a section mapped […]]]></summary>
+        <author>
+            <name>Jay Smink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hit-the-Town Update!]]></title>
         <id>https://www.orienteering.ie/?p=22250</id>
@@ -686,28 +707,6 @@ The post Colour Series Prologue appeared first on NI Orienteering Association.]]
 2026 Oceania Champs | Canberra | 26 Sep to 4 Oct first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Score Champs Entries Closing]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7152</id>
-        <link href="https://www.niorienteering.org.uk/ni-score-champs-entries-closing/"/>
-        <updated>2026-02-14T22:41:21.000Z</updated>
-        <summary type="html"><![CDATA[The entries close on Sunday 15 February at 23:00 for the NI Score Orienteering Championships at Castle Irvine, Necarne, Irvinestown, Co Fermanagh on Saturday 21 February 2026. All the details are on the event page at the Fermanagh Orienteers website, with entries at SI Entries....
-The post NI Score Champs Entries Closing appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Orienteering AGM Agenda]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7146</id>
-        <link href="https://www.niorienteering.org.uk/ni-orienteering-agm-agenda/"/>
-        <updated>2026-02-14T20:00:53.000Z</updated>
-        <summary type="html"><![CDATA[The Agenda for the 2026 AGM of NI Orienteering is available at About Us>Meeting Notes, along with the Minutes of the 2025 AGM and 2025 EGM.
-The post NI Orienteering AGM Agenda appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
