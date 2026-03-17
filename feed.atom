@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-17T12:41:04.528Z</updated>
+    <updated>2026-03-17T18:44:18.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The First Forest]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7296</id>
+        <link href="https://www.niorienteering.org.uk/the-first-forest/"/>
+        <updated>2026-03-17T14:45:28.000Z</updated>
+        <summary type="html"><![CDATA[The first state forest to be planted in Northern Ireland is the venue for the NI Colour Series event hosted by North West Orienteering Club on Saturday 28 March. All the detail is on the event page on the NWOC website, with entries on SI...
+The post The First Forest appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NOL Round 2 Results & Recap]]></title>
         <id>https://orienteering.asn.au/?p=15775</id>
