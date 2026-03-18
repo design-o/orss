@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-17T18:44:18.055Z</updated>
+    <updated>2026-03-18T01:10:14.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -694,17 +694,6 @@ The post NIOA AGM and Prizegiving – Change of Venue appeared first on NI Orien
         <summary type="html"><![CDATA[Results SLOW MBO Series/League 2026 SERIES MapRun – Pace, Tracks, Replay MapRun (All events) 22nd February Bucklebury 12th April 31st May 19th July 30th August [...]]]></summary>
         <author>
             <name>Dave Uglow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National MTBO Team Coach Position Available]]></title>
-        <id>https://orienteering.asn.au/?p=15676</id>
-        <link href="https://orienteering.asn.au/national-mtbo-team-coach-position-available/"/>
-        <updated>2026-02-16T08:33:28.000Z</updated>
-        <summary type="html"><![CDATA[OA is seeking to appoint a Team Coach for the World MTB Orienteering Championships 2026, to be held from 25–30 August 2026 in Mora (Dalarna), Sweden.
-National MTBO Team Coach Position Available first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
