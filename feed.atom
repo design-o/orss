@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T01:09:44.398Z</updated>
+    <updated>2026-03-19T06:43:05.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing OA’s new Manager, Coaching Development – Kieran Woods]]></title>
+        <id>https://orienteering.asn.au/?p=15789</id>
+        <link href="https://orienteering.asn.au/introducing-oas-new-manager-coaching-development-kieran-woods/"/>
+        <updated>2026-03-19T02:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia appoints Kieran Woods as Manager, Coaching Development, bringing extensive coaching, leadership and international orienteering experience.
+Introducing OA’s new Manager, Coaching Development – Kieran Woods first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing OA’s new Manager, Athlete Development – Aston Key]]></title>
+        <id>https://orienteering.asn.au/?p=15786</id>
+        <link href="https://orienteering.asn.au/introducing-oas-new-manager-athlete-development-aston-key/"/>
+        <updated>2026-03-19T02:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia appoints Aston Key as Manager, Athlete Development, bringing elite competition and coaching experience to support High Performance orienteers.
+Introducing OA’s new Manager, Athlete Development – Aston Key first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia]]></title>
+        <id>https://orienteering.asn.au/?p=15781</id>
+        <link href="https://orienteering.asn.au/thank-you-brodie-nankervis-recognising-his-contribution-to-orienteering-australia/"/>
+        <updated>2026-03-19T02:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia thanks Brodie Nankervis for his dedicated service and significant contributions to coaching, high-performance, and participation.
+Thank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The First Forest]]></title>
         <id>https://www.niorienteering.org.uk/?p=7296</id>
@@ -655,26 +688,6 @@ Oceania 2026 Bulletin 1 Available first appeared on Orienteering Australia.]]></
 The post NIOA AGM and Prizegiving – Change of Venue appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Orienteer with our Adult Beginner Coaching Days]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56718</id>
-        <link href="https://www.scottish-orienteering.org/news/learn-to-orienteer-with-our-adult-beginner-coaching-days/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=learn-to-orienteer-with-our-adult-beginner-coaching-days"/>
-        <updated>2026-02-17T16:28:23.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce a new series of Adult Beginner Coaching Days taking place throughout March in Aberdeen, Edinburgh […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Nights provide Valentine’s Day connections]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56685</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-nights-provide-valentines-day-connections/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-nights-provide-valentines-day-connections"/>
-        <updated>2026-02-17T14:30:48.000Z</updated>
-        <summary type="html"><![CDATA[As it turned out out MAR Orienteering Club (MAROC) choose a suitable location to host the Scottish Nights Championships! The […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>

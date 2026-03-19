@@ -662,26 +662,6 @@
           "wordCount": 1809,
           "title": "Scottish Night-O Season 2025-26",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/IMG_8059-768x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56718",
-          "author": "louise",
-          "description": "We are excited to announce a new series of Adult Beginner Coaching Days taking place throughout March in Aberdeen, Edinburgh […]",
-          "link": "https://www.scottish-orienteering.org/news/learn-to-orienteer-with-our-adult-beginner-coaching-days/?utm_source=rss&utm_medium=rss&utm_campaign=learn-to-orienteer-with-our-adult-beginner-coaching-days",
-          "publishedOn": "2026-02-17T16:28:23.000Z",
-          "wordCount": 1925,
-          "title": "Learn to Orienteer with our Adult Beginner Coaching Days",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/https___cdn.evbuc_.com_images_1132706473_1004888380413_1_original-1024x512.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56685",
-          "author": "nikkihoward",
-          "description": "As it turned out out MAR Orienteering Club (MAROC) choose a suitable location to host the Scottish Nights Championships! The […]",
-          "link": "https://www.scottish-orienteering.org/news/scottish-nights-provide-valentines-day-connections/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-nights-provide-valentines-day-connections",
-          "publishedOn": "2026-02-17T14:30:48.000Z",
-          "wordCount": 1699,
-          "title": "Scottish Nights provide Valentine’s Day connections",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/633439473_1731861444810869_1194540929167382403_n-576x1024.jpg"
         }
       ]
     },
@@ -777,6 +757,36 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15789",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Orienteering Australia appoints Kieran Woods as Manager, Coaching Development, bringing extensive coaching, leadership and international orienteering experience.\nIntroducing OA’s new Manager, Coaching Development – Kieran Woods first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/introducing-oas-new-manager-coaching-development-kieran-woods/",
+          "publishedOn": "2026-03-19T02:29:53.000Z",
+          "wordCount": 2687,
+          "title": "Introducing OA’s new Manager, Coaching Development – Kieran Woods",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
+          "id": "https://orienteering.asn.au/?p=15786",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Orienteering Australia appoints Aston Key as Manager, Athlete Development, bringing elite competition and coaching experience to support High Performance orienteers.\nIntroducing OA’s new Manager, Athlete Development – Aston Key first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/introducing-oas-new-manager-athlete-development-aston-key/",
+          "publishedOn": "2026-03-19T02:25:28.000Z",
+          "wordCount": 2683,
+          "title": "Introducing OA’s new Manager, Athlete Development – Aston Key",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
+          "id": "https://orienteering.asn.au/?p=15781",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Orienteering Australia thanks Brodie Nankervis for his dedicated service and significant contributions to coaching, high-performance, and participation.\nThank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/thank-you-brodie-nankervis-recognising-his-contribution-to-orienteering-australia/",
+          "publishedOn": "2026-03-19T02:15:33.000Z",
+          "wordCount": 2658,
+          "title": "Thank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15775",
           "author": "Elizabeth L",
