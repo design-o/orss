@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T06:29:01.402Z</updated>
+    <updated>2026-03-21T12:23:23.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In memory of Ian Holden]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65403</id>
+        <link href="https://www.orienteering.org.nz/news/in-memory-of-ian-holden/"/>
+        <updated>2026-03-21T07:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Just shy of his 93rd birthday, the stopwatch has run out for our beloved club member, active, gentle, Ian Miles Holden, known in the orienteering world as a very accomplished runner, passionate orienteer & ‘human gazelle’. Less known, probably, was his involvement as ‘Tuatara’ volunteer track builder, stonemason & gardener of The Brook Waimarama Sanctuary, […]
+In memory of Ian Holden first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EYOC / JWOC / WUOC 2026 | Team Selection]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65396</id>
@@ -709,17 +720,6 @@ Oceania 2026 Bulletin 1 Available first appeared on Orienteering Australia.]]></
         <updated>2026-02-20T03:29:21.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIOA AGM and Prizegiving – Change of Venue]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7167</id>
-        <link href="https://www.niorienteering.org.uk/nioa-agm-and-prizegiving-change-of-venue/"/>
-        <updated>2026-02-19T18:57:45.000Z</updated>
-        <summary type="html"><![CDATA[The Annual General Meeting and Prizegiving of NI Orienteering will now take place in Mahon’s Hotel, 12 Mill St, Irvinestown, Enniskillen BT94 1GS at 2pm on Saturday 21 February 2026. This is 500m away from the Bawnacre centre, which was original venue. Food and refreshments...
-The post NIOA AGM and Prizegiving – Change of Venue appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
