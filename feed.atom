@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T18:20:13.024Z</updated>
+    <updated>2026-03-22T01:08:55.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -112,6 +112,17 @@ NOL Round 2 Results & Recap first appeared on Orienteering Australia.]]></summar
         <summary type="html"><![CDATA[Recap and Results NEOOC continues to celebrate our 50th anniversary with a vintage event.  We welcomed over 100 excited orienteers to Sunday’s black and white classic.  Everyone enjoyed great weather and rising temperatures as they traversed Bob Botlz designed courses on a hybrid map. Bob created a throw back map that combined a section mapped […]]]></summary>
         <author>
             <name>Jay Smink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxi at Hepburn Diggings, Sunday March 22 – Entries Close Thursday March 19]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15448</id>
+        <link href="https://www.vicorienteering.asn.au/maxi-at-hepburn-diggings-sunday-march-22/"/>
+        <updated>2026-03-16T03:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Entries are now open for the annual Maxi at Hepburn Diggings
+Maxi at Hepburn Diggings, Sunday March 22 – Entries Close Thursday March 19 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -677,38 +688,6 @@ Apply for a Team Leaders Position at 2026 International Elite Championships (Upd
         <updated>2026-02-21T04:02:28.000Z</updated>
         <summary type="html"><![CDATA[Read the March 2026 edition of The Australian Orienteer, available online now. The magazine features reports about local and international orienteering events so there should be something of interest to everyone.
 The Australian Orienteer: March 2026 Edition first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Night-O Season 2025-26]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56736</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-night-o-season-2025-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-night-o-season-2025-26"/>
-        <updated>2026-02-20T11:32:37.000Z</updated>
-        <summary type="html"><![CDATA[As clubs across Scotland wrap up their Night-O leagues, it’s been fantastic to see so many Night- O events over […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Round 1 | Team Named]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65195</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-round-1-team-named/"/>
-        <updated>2026-02-20T10:53:03.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering New Zealand Senior Selection Panel has named the following athletes to attend Round 1 of the Orienteering World Cup in Locarno Ascona, Switzerland, from 24-26 April 2026. Women Laura Robertson, Hutt Valley Penelope Salmon, Auckland Men Ed Cory-Wright, Peninsula and Plains Tommy Hayes, Auckland Teams are subject to the ONZ Appeals Policy
-World Cup Round 1 | Team Named first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania 2026 Bulletin 1 Available]]></title>
-        <id>https://orienteering.asn.au/?p=15685</id>
-        <link href="https://orienteering.asn.au/oceania-2026-bulletin-1-available/"/>
-        <updated>2026-02-20T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[This September, experience the thrill of navigating Canberra’s bushlands like never before as you compete in Oceania Orienteering Championships 2026.
-Oceania 2026 Bulletin 1 Available first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
         </author>

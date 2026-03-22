@@ -149,6 +149,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15448",
+          "author": "Debbie Dodd",
+          "description": "Entries are now open for the annual Maxi at Hepburn Diggings\nMaxi at Hepburn Diggings, Sunday March 22 – Entries Close Thursday March 19 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/maxi-at-hepburn-diggings-sunday-march-22/",
+          "publishedOn": "2026-03-16T03:29:21.000Z",
+          "wordCount": 1066,
+          "title": "Maxi at Hepburn Diggings, Sunday March 22 – Entries Close Thursday March 19",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15501",
           "author": "Debbie Dodd",
           "description": "",
@@ -538,16 +548,6 @@
           "wordCount": 2249,
           "title": "2026 Tūāraki Champs | Embargo",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/02/NORTH-Regional-champs-logo-new-date-scaled.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=65195",
-          "author": "Christo Peters",
-          "description": "The Orienteering New Zealand Senior Selection Panel has named the following athletes to attend Round 1 of the Orienteering World Cup in Locarno Ascona, Switzerland, from 24-26 April 2026. Women Laura Robertson, Hutt Valley Penelope Salmon, Auckland Men Ed Cory-Wright, Peninsula and Plains Tommy Hayes, Auckland Teams are subject to the ONZ Appeals Policy\nWorld Cup Round 1 | Team Named first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/world-cup-round-1-team-named/",
-          "publishedOn": "2026-02-20T10:53:03.000Z",
-          "wordCount": 2211,
-          "title": "World Cup Round 1 | Team Named",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2019/09/2019-iof-world-cup-banner.jpg"
         }
       ]
     },
@@ -682,16 +682,6 @@
           "wordCount": 1668,
           "title": "Our Values",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/ScotJOS-Dec21-4.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56736",
-          "author": "heidi",
-          "description": "As clubs across Scotland wrap up their Night-O leagues, it’s been fantastic to see so many Night- O events over […]",
-          "link": "https://www.scottish-orienteering.org/news/scottish-night-o-season-2025-26/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-night-o-season-2025-26",
-          "publishedOn": "2026-02-20T11:32:37.000Z",
-          "wordCount": 1809,
-          "title": "Scottish Night-O Season 2025-26",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/02/IMG_8059-768x1024.jpg"
         }
       ]
     },
@@ -855,16 +845,6 @@
           "publishedOn": "2026-02-21T04:02:28.000Z",
           "wordCount": 2376,
           "title": "The Australian Orienteer: March 2026 Edition",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=15685",
-          "author": "Elizabeth L",
-          "description": "This September, experience the thrill of navigating Canberra’s bushlands like never before as you compete in Oceania Orienteering Championships 2026.\nOceania 2026 Bulletin 1 Available first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/oceania-2026-bulletin-1-available/",
-          "publishedOn": "2026-02-20T08:40:00.000Z",
-          "wordCount": 2449,
-          "title": "Oceania 2026 Bulletin 1 Available",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
