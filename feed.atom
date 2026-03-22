@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T12:25:07.507Z</updated>
+    <updated>2026-03-22T18:20:30.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -668,28 +668,6 @@ Bike-O 75, Lysterfield, Saturday Feb 28 first appeared on Orienteering Victoria.
         <summary type="html"><![CDATA[Recap and Results We welcomed over 50 intrepid orienteers to Saturday’s score event, including serveral special guests who traveled far to have fun with us. Thanks to Jens and Harvey Christenson (Wilde Boyz) from Southeast Michigan Orienteering Club (SMOC), John Pane and Tatjana Chamis from Western Pennsylvania Orienteering Club (WPOC) for joining us. A big […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply for a Team Leaders Position at 2026 International Elite Championships (Updated)]]></title>
-        <id>https://orienteering.asn.au/?p=15173</id>
-        <link href="https://orienteering.asn.au/seeking-team-leaders-for-international-elite/"/>
-        <updated>2026-02-21T04:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Apply today to be a Team Leader for upcoming 2026 international orienteering events.
-Apply for a Team Leaders Position at 2026 International Elite Championships (Updated)  first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Australian Orienteer: March 2026 Edition]]></title>
-        <id>https://orienteering.asn.au/?p=15694</id>
-        <link href="https://orienteering.asn.au/the-australian-orienteer-march-2026-edition/"/>
-        <updated>2026-02-21T04:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Read the March 2026 edition of The Australian Orienteer, available online now. The magazine features reports about local and international orienteering events so there should be something of interest to everyone.
-The Australian Orienteer: March 2026 Edition first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
