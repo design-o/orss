@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T01:03:13.521Z</updated>
+    <updated>2026-03-24T06:50:28.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -90,6 +90,15 @@ Introducing OA’s new Manager, Athlete Development – Aston Key first appeared
 Thank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover and Learn To Orienteer Programs In April]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15535</id>
+        <link href="https://www.vicorienteering.asn.au/discover-and-learn-to-orienteer-programs-in-april/"/>
+        <updated>2026-03-18T01:14:06.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -668,16 +677,6 @@ The post Horses for Courses appeared first on NI Orienteering Association.]]></s
 Bike-O 75, Lysterfield, Saturday Feb 28 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results| 2026 Sunny Lake Winter Score | Sunny Lake – Aurora | Saturday, February 21]]></title>
-        <id>https://neooc.com/?p=49691</id>
-        <link href="https://neooc.com/results-2026-sunny-lake-winter-score-sunny-lake-aurora-saturday-february-21/"/>
-        <updated>2026-02-22T18:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Recap and Results We welcomed over 50 intrepid orienteers to Saturday’s score event, including serveral special guests who traveled far to have fun with us. Thanks to Jens and Harvey Christenson (Wilde Boyz) from Southeast Michigan Orienteering Club (SMOC), John Pane and Tatjana Chamis from Western Pennsylvania Orienteering Club (WPOC) for joining us. A big […]]]></summary>
-        <author>
-            <name>Jay Smink</name>
         </author>
     </entry>
     <entry>
