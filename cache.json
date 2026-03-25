@@ -293,6 +293,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24186",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident Routegadet – draw your route! Series results. Provisionally:",
+          "link": "https://slow.org.uk/racereports/wimbledon-night-results-mar2026/",
+          "publishedOn": "2026-03-24T23:35:06.000Z",
+          "wordCount": 2020,
+          "title": "Wimbledon Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wimbledon-night-o-results/files/Wimbledon_night_Iris-rotated.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24163",
           "author": "vinh",
           "description": "A great turnout to our Street-O around Pimlico and Westminster on a fine evening. We hope you enjoyed the historic clues and learnt something interesting [...]",
@@ -339,6 +349,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65424",
+          "author": "Joolz",
+          "description": "The 2026 Mountain Bike Orienteering World Championships (WMTBOC) and the Junior World Championships (JWMTBOC), will be hosted in Mora, Sweden, 24-30 August 2026. This event is also Round 2 of the CX80 MTB Orienteering World Cup organised by The Swedish Orienteering Federation and IFK Mora Orienteering Club . There will be no specific trial event in […]\nONZ MTBO Selection Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/onz-mtbo-selection-notice/",
+          "publishedOn": "2026-03-24T22:36:23.000Z",
+          "wordCount": 2172,
+          "title": "ONZ MTBO Selection Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/03/Swedish-WMMTBO26-images-x3.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=65403",
           "author": "Joolz",
