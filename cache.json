@@ -237,16 +237,6 @@
           "wordCount": 978,
           "title": "Ballarat Classic 1, Sunday 15 March",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Park Street Champs results are now available!\nPark Street Update, March 3-9 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2026-02-23T23:41:54.000Z",
-          "wordCount": 1219,
-          "title": "Park Street Update, March 3-9",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -255,6 +245,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22279",
+          "author": "Deirdre",
+          "description": "Don’t miss this exciting opportunity to hear from Sprint Orienteering Championship winners Josh O’Sullivan Hourihan and Clodagh Moran! Friday, 27th March at 8:00 PM Josh and Clodagh will be hosting a live webinar where they will break down how they secured their wins, sharing insights into their route choices and strategies from Saturday’s championship. Whether […]",
+          "link": "https://www.orienteering.ie/route-to-the-title/",
+          "publishedOn": "2026-03-25T09:12:37.000Z",
+          "wordCount": 891,
+          "title": "Route To The Title",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=22270",
           "author": "Deirdre",
