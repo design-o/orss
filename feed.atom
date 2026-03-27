@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T18:49:31.055Z</updated>
+    <updated>2026-03-27T01:13:29.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NZ Orienteering Champs 2026 long distance event: WRE status change]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65436</id>
+        <link href="https://www.orienteering.org.nz/news/nz-orienteering-champs-2026-long-distance-event-wre-status-removed/"/>
+        <updated>2026-03-26T23:04:38.000Z</updated>
+        <summary type="html"><![CDATA[After very careful consideration, we have decided that the Long Distance event at Nationals 2026 will no longer be a World Ranking Event (WRE). It has proved impossible to set courses of the technical level required for a WRE event whilst keeping the extensive fence network on the maps for red courses, especially for the […]
+NZ Orienteering Champs 2026 long distance event: WRE status change first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Joolz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Route To The Title]]></title>
         <id>https://www.orienteering.ie/?p=22279</id>
@@ -633,27 +644,6 @@ Taitonga Southern Regional Orienteering Champs 2026  |  Embargo notice  firs
 The post Spring into O-Action🏃‍➡️🤸🏃‍➡️ appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hit-the-Town Festival – Entries Closing Soon!]]></title>
-        <id>https://www.orienteering.ie/?p=22210</id>
-        <link href="https://www.orienteering.ie/hit-the-town-festival-entries-closing-soon/"/>
-        <updated>2026-02-25T10:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Don’t forget to enter the Hit-the-Town Sprint/Urban Festival before Sunday! Come and join us in Limerick for two days of Sprint, Sprint Relay & Urban orienteering, with our Irish Sprint Championships also being held on Saturday in the University of Limerick! We are looking forward to meeting you all in the Treaty City!]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Tūāraki Champs | Embargo]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65233</id>
-        <link href="https://www.orienteering.org.nz/news/2026-tuaraki-champs-embargo/"/>
-        <updated>2026-02-25T08:35:21.000Z</updated>
-        <summary type="html"><![CDATA[The area of Woodhill Forest depicted in the image on the right is strictly embargoed. It is also private property, and unauthorized access will potentially result in orienteering losing its access to the entire Woodhill Forest.
-2026 Tūāraki Champs | Embargo first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
