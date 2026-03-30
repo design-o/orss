@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T12:50:55.958Z</updated>
+    <updated>2026-03-30T18:44:06.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Q&A with Jonathan Molloy, at the March Community Conversation]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56905</id>
+        <link href="https://www.scottish-orienteering.org/news/qa-with-jonathan-molloy-at-the-march-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=qa-with-jonathan-molloy-at-the-march-community-conversation"/>
+        <updated>2026-03-30T15:05:08.000Z</updated>
+        <summary type="html"><![CDATA[What’s SOA up to? Participants from clubs around the country found out by quizzing SOA Chair Jonathan Molloy at the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AGM agenda and reports]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65477</id>
@@ -470,180 +480,6 @@ Vic Series 1, Sunday 8 March – Entries Close This Thursday first appeared on O
         <summary type="html"><![CDATA[At Scottish Orienteering , our values underpin everything we do.  These are: A climate of mutual respect and gratitude ensures […]]]></summary>
         <author>
             <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last chance:  Did you fill in the survey? | Closing 2 March]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65337</id>
-        <link href="https://www.orienteering.org.nz/news/last-chance-did-you-fill-in-the-survey/"/>
-        <updated>2026-03-01T05:36:43.000Z</updated>
-        <summary type="html"><![CDATA[This year Orienteering NZ has partnered with Sport NZ to take part in the Voice of Participant Survey. The intent of the survey is to understand how we are tracking as a sport – what we are doing well, and what needs more work. The survey should only take about 10 minutes. We ask people 14 and […]
-Last chance:  Did you fill in the survey? | Closing 2 March first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair   |   February 2026]]></title>
-        <id>https://www.orienteering.org.nz/?p=65334</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-february-2026/"/>
-        <updated>2026-03-01T05:33:16.000Z</updated>
-        <summary type="html"><![CDATA[The Board have had a number of discussions over the last year about home school students and their keenness to be able to compete fully in School Sport New Zealand (SSNZ) sanctioned events. Of ONZ Our North Island, South Island and National Secondary School competitions are SSNZ sanctioned events. SSNZ changed their rules in November last year […]
-View from the Chair   |   February 2026 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waitangi weekend  |  Middlemarch]]></title>
-        <id>https://www.orienteering.org.nz/?p=65331</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/waitangi-weekend-middlemarch/"/>
-        <updated>2026-03-01T05:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Waitangi weekend was a relaxed affair with a great turnout from other clubs (especially from PAPO). A relaxed vibe is how the club started 50 years ago, so it was fitting that the weekend followed through with this once again. There were no start times and everyone was camping or staying nearby, and incorporating the […]
-Waitangi weekend  |  Middlemarch first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dunedin Orienteering  |  Celebrates 50 Years]]></title>
-        <id>https://www.orienteering.org.nz/?p=65327</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/dunedin-orienteering-celebrates-50-years/"/>
-        <updated>2026-03-01T05:25:42.000Z</updated>
-        <summary type="html"><![CDATA[The Dunedin Orienteering Club celebrated their 50-year Jubilee on Waitangi weekend 2026.  It has marked the growth of the club from humble beginnings in 1976 to a thriving club of over 200 members today. The club formed the same year that the NZ Orienteering Federation became incorporated, joining the IOF to send the first NZ team […]
-Dunedin Orienteering  |  Celebrates 50 Years first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nationals standard entries  |  until 15 March]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65322</id>
-        <link href="https://www.orienteering.org.nz/news/nationals-standard-entries-until-15-march/"/>
-        <updated>2026-03-01T05:16:55.000Z</updated>
-        <summary type="html"><![CDATA[This isn’t just another Nationals – it’s a chance to explore brand-new terrain that has been in the pipeline for a very long time. Come and reconnect with orienteers around the country for map maxxing. Standard entry fees apply up until midnight 15th March. We’d love to see you there! Head to the entries  
-Nationals standard entries  |  until 15 March first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katoa Po  |  14- 15 March]]></title>
-        <id>https://www.orienteering.org.nz/?p=65319</id>
-        <link href="https://www.orienteering.org.nz/blog/katoa-po-14-15-march/"/>
-        <updated>2026-03-01T05:13:03.000Z</updated>
-        <summary type="html"><![CDATA[The 46th Katoa Po promises a full weekend of orienteering and social activities for all in 2026. This year it will be based on an iconic map from the past Ōpepe which is around 10Km from Taupō and has been completely remapped. This area is rolling farmland incised with intricate gullies, and patches of grazed […]
-Katoa Po  |  14- 15 March first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania 2026  | Canberra  | 26 Sept – 4 Oct]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65316</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-2026-canberra-26-sept-4-oct/"/>
-        <updated>2026-03-01T05:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Canberra welcomes you to Namadgi National Park. The event then moves to Orana School, a fun, compact campus, perfect for the ASOC competitors to demonstrate their speedy sprint techniques. From there, competitors climb to the panoramic heights of Mount Ainslie, before navigating along the banks of the Murrumbidgee River at Pine Island and then tackle the technical […]
-Oceania 2026  | Canberra  | 26 Sept – 4 Oct first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZSSOC entries open in March  |  16-19 July]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65311</id>
-        <link href="https://www.orienteering.org.nz/news/nzssoc-entries-open-in-march-16-19-july/"/>
-        <updated>2026-03-01T04:59:35.000Z</updated>
-        <summary type="html"><![CDATA[PAPO welcomes all those new to the sport as well as experienced school-aged orienteers to the NZ Secondary School Orienteering Champs in July.  As usual, will have a family-friendly atmosphere and there will be public races for all other family members, so make time to come to Christchurch. Entries will open in late March.  NZ Secondary […]
-NZSSOC entries open in March  |  16-19 July first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Youth Camp re-cap   |  Christchurch]]></title>
-        <id>https://www.orienteering.org.nz/?p=65308</id>
-        <link href="https://www.orienteering.org.nz/junior-2/2025-youth-camp-re-cap-christchurch/"/>
-        <updated>2026-03-01T04:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Four Dunedin Orienteering families attended the Youth Orienteering Camp, December 20-22, in Christchurch. PAPO did an outstanding job of organising over a hundred kids who came from all over the country with great exercises, coaching and fun activities. The camp was based at Spencer Park Top 10 Holiday Park. Day one training was a short […]
-2025 Youth Camp re-cap   |  Christchurch first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo competition  |  Enter your best shot from 2025]]></title>
-        <id>https://www.orienteering.org.nz/?p=65305</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/photo-competition-enter-your-best-shot-from-2025/"/>
-        <updated>2026-03-01T04:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Enter your best photo taken at an orienteering event in 2025, t&c’s apply, see below*. There will be three categories to enter:1. People shots (active / fun),2. Landscape shot (can have people in the distance, but the landscape is the feature)  3. Abstract / other subjects.The winning photograph will be taken by a current member […]
-Photo competition  |  Enter your best shot from 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP Pre-Nationals Camp | 2026]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65301</id>
-        <link href="https://www.orienteering.org.nz/news/high-performance-pre-nationals-camp-2026/"/>
-        <updated>2026-03-01T04:46:25.000Z</updated>
-        <summary type="html"><![CDATA[There is a High Performance Orienteering Pre Nationals Camp being held in the Palmerston North area from Saturday the 28th of March to Monday the 30th of March. The plan is ideally 6 training sessions, 2 each day. 1x sprint, 2x forest relay focussed training, 3x skills-based Forest Training. The camp is aimed at all […]
-HP Pre-Nationals Camp | 2026 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leo’s SASH3 Journey  |  Givealittle Page]]></title>
-        <id>https://www.orienteering.org.nz/?p=65298</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/leos-sash3-journey-givealittle-page/"/>
-        <updated>2026-03-01T04:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Michael Croxford and Sally Lattimore of Nelson Orienteering Club are fundraising for their son Leo to get a life changing bone marrow transplant in the USA and would like your support. The treatment is not available in New Zealand for his condition but is available for free in the USA but the travel, accommodation and […]
-Leo’s SASH3 Journey  |  Givealittle Page first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC26  |   Manager & coaches appointed]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65291</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc26-manager-coaches-appointed/"/>
-        <updated>2026-03-01T04:28:11.000Z</updated>
-        <summary type="html"><![CDATA[ONZ is happy to announce this year’s Junior World Orienteering Championships (JWOC) Management Team. JWOC takes place in  in  Karlskrona, Sweden, 29 June to 4 July 2026.  Yvette Baker has been appointed as the team manager with Tane Cambridge and Renee Beveridge as coaches. 
-JWOC26  |   Manager & coaches appointed first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC26  |  Manager appointed]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65288</id>
-        <link href="https://www.orienteering.org.nz/news/woc26-manager-appointed/"/>
-        <updated>2026-03-01T04:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Magnus Bengtsson has been appointed as New Zealand Manager of the World Orienteering Championships (WOC) being held Genova, Italy from 6-11 July 2026. Magnus, who is currently based in Sweden, has been Assistant Team Manager in 2024 & 2025 and is a former ONZ Board Member.
-WOC26  |  Manager appointed first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WUOC26  |  Coach & Manager Applications]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65285</id>
-        <link href="https://www.orienteering.org.nz/news/wuoc26-coach-manager-applications/"/>
-        <updated>2026-03-01T04:20:22.000Z</updated>
-        <summary type="html"><![CDATA[The World University Orienteering Championships (WUOC) take place in Vila Real, Portugal, 28 July to 1 August 2026. Orienteering. Orienteering New Zealand (ONZ) is inviting applications for both Coach and Manager Positions.  These positions would suit someone who intends to travel to the event. ONZ has not allocated a budget to these roles so applicants would […]
-WUOC26  |  Coach & Manager Applications first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat Classic 1, Sunday 15 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15446</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-classic-1-sunday-15-march/"/>
-        <updated>2026-03-01T03:26:09.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
