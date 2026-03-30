@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T18:25:13.425Z</updated>
+    <updated>2026-03-30T01:17:34.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -627,14 +627,12 @@ WUOC26  |  Coach & Manager Applications first appeared on Orienteering New Zea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taitonga Southern Regional Orienteering Champs 2026  |  Embargo notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65281</id>
-        <link href="https://www.orienteering.org.nz/news/taitonga-southern-regional-orienteering-champs-2026-embargo-notice/"/>
-        <updated>2026-02-28T10:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Nelson and Marlborough Orienteering Clubs are hosting the Taitonga – Southern Regional Orienteering Championships at Labour Weekend from the 24 to 26 October 2026. The following embargoes come into effect as of 1 March 2026. At this stage, we are still confirming access and personnel so please do not book any accommodation in case of a […]
-Taitonga Southern Regional Orienteering Champs 2026  |  Embargo notice  first appeared on Orienteering New Zealand.]]></summary>
+        <title type="html"><![CDATA[Ballarat Classic 1, Sunday 15 March]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15446</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-classic-1-sunday-15-march/"/>
+        <updated>2026-03-01T03:26:09.000Z</updated>
         <author>
-            <name>Joolz</name>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
