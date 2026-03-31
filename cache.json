@@ -341,16 +341,6 @@
           "wordCount": 2760,
           "title": "Tottenham Street-O, Tuesday 14 April",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/bethnal-green-street-o-results/files/StreetO_May2025_3.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=24148",
-          "author": "Steve Clelland",
-          "description": "Entries now open The final race of the 2025-2026 night series takes place on the southern half of Wimbledon Common, south-west London, on Tuesday 24th March [...]",
-          "link": "https://slow.org.uk/events/night-o-mar2026/",
-          "publishedOn": "2026-03-01T20:12:53.000Z",
-          "wordCount": 2658,
-          "title": "Night-O Series Finale – Wimbledon Common, Tuesday 24th March",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Richmond_night_2019_start2-scaled.jpg"
         }
       ]
     },
@@ -473,6 +463,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56907",
+          "author": "nikkihoward",
+          "description": "Growing participation in orienteering depends on how effectively we reach and engage new people. The April online Community Conversation (April […]",
+          "link": "https://www.scottish-orienteering.org/news/sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april/?utm_source=rss&utm_medium=rss&utm_campaign=sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april",
+          "publishedOn": "2026-03-31T11:30:46.000Z",
+          "wordCount": 1815,
+          "title": "Sign up for the next Community Conversation: Marketing and Outreach to New Audiences, 21st  April",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/What-is-SOA-up-to-a-look-at-2025-and-plans-for-2026-1-819x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56905",
           "author": "nikkihoward",

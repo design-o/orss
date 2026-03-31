@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T07:00:42.126Z</updated>
+    <updated>2026-03-31T12:48:06.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sign up for the next Community Conversation: Marketing and Outreach to New Audiences, 21st  April]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56907</id>
+        <link href="https://www.scottish-orienteering.org/news/sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april"/>
+        <updated>2026-03-31T11:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Growing participation in orienteering depends on how effectively we reach and engage new people. The April online Community Conversation (April […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Q&A with Jonathan Molloy, at the March Community Conversation]]></title>
         <id>https://www.scottish-orienteering.org/?p=56905</id>
@@ -487,16 +497,6 @@ The post A good Planner is worth their weight in gold appeared first on NI Orien
 Vic Series 1, Sunday 8 March – Entries Close This Thursday first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night-O Series Finale – Wimbledon Common, Tuesday 24th March]]></title>
-        <id>https://slow.org.uk/?p=24148</id>
-        <link href="https://slow.org.uk/events/night-o-mar2026/"/>
-        <updated>2026-03-01T20:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Entries now open The final race of the 2025-2026 night series takes place on the southern half of Wimbledon Common, south-west London, on Tuesday 24th March [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
     <entry>
