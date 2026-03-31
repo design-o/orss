@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T01:15:00.312Z</updated>
+    <updated>2026-03-31T07:00:42.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -25,6 +25,33 @@
 AGM agenda and reports first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ballarat Orienteering Anzac Weekend, 25-26 April]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15567</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/"/>
+        <updated>2026-03-29T01:24:41.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn To Orienteer in Castlemaine, April-May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15559</id>
+        <link href="https://www.vicorienteering.asn.au/lear-to-orienteer-in-castlemaine-april-may/"/>
+        <updated>2026-03-29T01:13:44.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double Header MTBO Weekend, April 18-19, North East Victoria]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15563</id>
+        <link href="https://www.vicorienteering.asn.au/15563-2/"/>
+        <updated>2026-03-28T01:17:37.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -470,16 +497,6 @@ Vic Series 1, Sunday 8 March – Entries Close This Thursday first appeared on O
         <summary type="html"><![CDATA[Entries now open The final race of the 2025-2026 night series takes place on the southern half of Wimbledon Common, south-west London, on Tuesday 24th March [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Values]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56758</id>
-        <link href="https://www.scottish-orienteering.org/news/our-values/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=our-values"/>
-        <updated>2026-03-01T15:35:25.000Z</updated>
-        <summary type="html"><![CDATA[At Scottish Orienteering , our values underpin everything we do.  These are: A climate of mutual respect and gratitude ensures […]]]></summary>
-        <author>
-            <name>suzannerb</name>
         </author>
     </entry>
     <entry>

@@ -149,6 +149,36 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15567",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/",
+          "publishedOn": "2026-03-29T01:24:41.000Z",
+          "wordCount": 1014,
+          "title": "Ballarat Orienteering Anzac Weekend, 25-26 April",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15559",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/lear-to-orienteer-in-castlemaine-april-may/",
+          "publishedOn": "2026-03-29T01:13:44.000Z",
+          "wordCount": 1007,
+          "title": "Learn To Orienteer in Castlemaine, April-May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15563",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/15563-2/",
+          "publishedOn": "2026-03-28T01:17:37.000Z",
+          "wordCount": 950,
+          "title": "Double Header MTBO Weekend, April 18-19, North East Victoria",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
           "description": "Don't miss the final weeks of Summer Series, culminating in the Awards Night on Wednesday 1st April - it's no joke!\nPark Street Update, March 24-30 and Awards Night first appeared on Orienteering Victoria.",
@@ -542,16 +572,6 @@
           "wordCount": 2043,
           "title": "Clubs get their members out in the Trossachs for the 2026 Scottish Inter Club Championships",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/IMG_1339-1024x962.jpeg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56758",
-          "author": "suzannerb",
-          "description": "At Scottish Orienteering , our values underpin everything we do.  These are: A climate of mutual respect and gratitude ensures […]",
-          "link": "https://www.scottish-orienteering.org/news/our-values/?utm_source=rss&utm_medium=rss&utm_campaign=our-values",
-          "publishedOn": "2026-03-01T15:35:25.000Z",
-          "wordCount": 1668,
-          "title": "Our Values",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/ScotJOS-Dec21-4.jpg"
         }
       ]
     },
