@@ -247,16 +247,6 @@
           "wordCount": 1032,
           "title": "Victorian Schools Sprint Champs, RMIT Bundoora, March 30",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15471",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/training-with-joe-thursday-11-march-toorak-park/",
-          "publishedOn": "2026-03-03T02:07:25.000Z",
-          "wordCount": 925,
-          "title": "Training With Joe, Thursday 12 March, Toorak Park",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -567,6 +557,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=49990",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "New Event | Quail Hollow Classic-O | Quail Hollow (Stark Parks) | Saturday, May 9, 2026",
+          "link": "https://neooc.com/new-event-quail-hollow-classic-o-stark-parks-saturday-may-9-2026/",
+          "publishedOn": "2026-04-01T14:02:29.000Z",
+          "wordCount": 1578,
+          "title": "New Event | Quail Hollow Classic-O | Stark Parks | Saturday, May 9, 2026",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/03/IMG_20250824_090536764_HDR-scaled.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=49791",
           "author": "Jay Smink",
           "description": "Orienteering For Beginners Beginner-level Navigation Skills Course Orienteering 101 Co-hosted with Stark Parks   Overview Want to improve your on and off-trail navigation ability?  Looking for another way to immerse yourself in the natural world? Could you benefit from an adventure activity that maintains your fitness, both physical and mental? …An activity you can do […]",
@@ -593,6 +593,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56925",
+          "author": "heidi",
+          "description": "March has been a busy month for the Scottish Orienteering development team. Our March has been busy running taster sessions […]",
+          "link": "https://www.scottish-orienteering.org/news/a-busy-march-for-the-development-team/?utm_source=rss&utm_medium=rss&utm_campaign=a-busy-march-for-the-development-team",
+          "publishedOn": "2026-04-01T14:06:06.000Z",
+          "wordCount": 1875,
+          "title": "A Busy March for the Development Team",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-05-at-14.54.56-768x1024.jpeg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56916",
           "author": "louise",
@@ -710,6 +720,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7320",
+          "author": "NIOA Secretary",
+          "description": "The results are in from the NI Colour Series at Ballykelly forest at Fixtures & Results>2026 Results, with the NI Colour Series League Standings also published. Almost 100 competitors enjoyed an almost dry day, albeit with hail on the ground on courses well crafted by...\nThe post Ballykelly First Forest Results appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/ballykelly-first-forest-results-2/",
+          "publishedOn": "2026-04-01T18:07:45.000Z",
+          "wordCount": 4494,
+          "title": "Ballykelly First Forest Results",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/03/Ballykelly-Stone-P.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7296",
           "author": "NIOA Secretary",
