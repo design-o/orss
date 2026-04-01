@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T18:43:59.077Z</updated>
+    <updated>2026-04-01T01:21:42.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -475,17 +475,6 @@ The post Mucking around at Muckno appeared first on NI Orienteering Association.
         <summary type="html"><![CDATA[Our time in the Trossachs may have headlined as the Scottish qualifier of the CompassSport Cup/ Trophy but just as […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A good Planner is worth their weight in gold]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7217</id>
-        <link href="https://www.niorienteering.org.uk/a-good-planner-is-worth-their-weight-in-gold/"/>
-        <updated>2026-03-02T11:26:11.000Z</updated>
-        <summary type="html"><![CDATA[So what goes on at a planners course. And more importantly should you enrol for the next one? Sharon Dickenson writes… On Saturday 28th February a band of merry novice planners convened in Hillsborough Parish Centre.  The days’ teaching block was to be delivered by...
-The post A good Planner is worth their weight in gold appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
