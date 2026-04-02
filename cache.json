@@ -594,6 +594,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56943",
+          "author": "louise",
+          "description": "On the 14/15th March, university orienteers from across the UK travelled to Wales for the annual British Universities and Colleges […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-students-at-bucs-orienteering-championships-2026/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-students-at-bucs-orienteering-championships-2026",
+          "publishedOn": "2026-04-02T17:12:10.000Z",
+          "wordCount": 2513,
+          "title": "Scottish Students at BUCS Orienteering Championships 2026",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/30666-1-1024x771.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56936",
           "author": "suzannerb",
           "description": "Well it’s that time of year again and World Orienteering Week will soon be upon us. Any event between 16th […]",
@@ -805,16 +815,6 @@
           "publishedOn": "2026-03-16T06:58:38.000Z",
           "wordCount": 2658,
           "title": "NOL Round 2 Results & Recap",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=15676",
-          "author": "Elizabeth L",
-          "description": "Apply for Team Manager & Team Coach roles for the World MTB Orienteering Championships 2026 (25–30 August) in Sweden. Applications close 13 March.\nApplications Closing – MTBO Manager & MTBO Team Coach first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/national-mtbo-team-coach-position-available/",
-          "publishedOn": "2026-03-04T01:12:24.000Z",
-          "wordCount": 2458,
-          "title": "Applications Closing – MTBO Manager & MTBO Team Coach",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
