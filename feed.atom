@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T18:43:14.379Z</updated>
+    <updated>2026-04-02T01:11:56.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -640,17 +640,6 @@ Applications Closing – MTBO Manager & MTBO Team Coach first appeared on Orient
         <summary type="html"><![CDATA[Forth Valley Orienteers provided a weekend of entertainment for our membership combining the Scottish Middle Championships with the CompassSport Cup/Trophy […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mucking around at Muckno]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7257</id>
-        <link href="https://www.niorienteering.org.uk/mucking-around-at-muckno/"/>
-        <updated>2026-03-03T09:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Given the recent constant rain, it was actually surprisingly dry underfoot at Lough Muckno Park and Black Island, Castleblayney, Co.Monaghan, a Leinster League event on 1 March 2026 which doubled up as the first outing of the year for the NI Colour Series. Thanks to...
-The post Mucking around at Muckno appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
