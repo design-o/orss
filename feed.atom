@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T06:59:14.613Z</updated>
+    <updated>2026-04-02T12:44:00.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Orienteering Week]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56936</id>
+        <link href="https://www.scottish-orienteering.org/news/world-orienteering-week-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-orienteering-week-3"/>
+        <updated>2026-04-02T12:03:14.000Z</updated>
+        <summary type="html"><![CDATA[Well it’s that time of year again and World Orienteering Week will soon be upon us. Any event between 16th […]]]></summary>
+        <author>
+            <name>suzannerb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing adult participation through ‘Learn to Orienteer’ courses]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56929</id>
+        <link href="https://www.scottish-orienteering.org/news/growing-adult-participation-through-learn-to-orienteer-courses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=growing-adult-participation-through-learn-to-orienteer-courses"/>
+        <updated>2026-04-02T10:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Throughout March, Scottish Orienteering has been excited to host three successful adult beginner “Learn to Orienteer” coaching days in Inverness, […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ballykelly First Forest Results]]></title>
         <id>https://www.niorienteering.org.uk/?p=7320</id>
@@ -630,16 +650,6 @@ Monash March Madness Sprint Double, Sunday 15 March – Entries Closing Soon! fi
 Applications Closing – MTBO Manager & MTBO Team Coach first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trossachs provide challenging terrain for the Scottish Middle Champs]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56788</id>
-        <link href="https://www.scottish-orienteering.org/news/trossachs-provide-challenging-terrain-for-the-scottish-middle-champs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trossachs-provide-challenging-terrain-for-the-scottish-middle-champs"/>
-        <updated>2026-03-03T15:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Forth Valley Orienteers provided a weekend of entertainment for our membership combining the Scottish Middle Championships with the CompassSport Cup/Trophy […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>

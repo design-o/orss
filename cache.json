@@ -594,6 +594,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=56936",
+          "author": "suzannerb",
+          "description": "Well it’s that time of year again and World Orienteering Week will soon be upon us. Any event between 16th […]",
+          "link": "https://www.scottish-orienteering.org/news/world-orienteering-week-3/?utm_source=rss&utm_medium=rss&utm_campaign=world-orienteering-week-3",
+          "publishedOn": "2026-04-02T12:03:14.000Z",
+          "wordCount": 1721,
+          "title": "World Orienteering Week",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/maze-1024x576.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56929",
+          "author": "louise",
+          "description": "Throughout March, Scottish Orienteering has been excited to host three successful adult beginner “Learn to Orienteer” coaching days in Inverness, […]",
+          "link": "https://www.scottish-orienteering.org/news/growing-adult-participation-through-learn-to-orienteer-courses/?utm_source=rss&utm_medium=rss&utm_campaign=growing-adult-participation-through-learn-to-orienteer-courses",
+          "publishedOn": "2026-04-02T10:42:05.000Z",
+          "wordCount": 2217,
+          "title": "Growing adult participation through ‘Learn to Orienteer’ courses",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/1000023060-1-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=56925",
           "author": "heidi",
           "description": "March has been a busy month for the Scottish Orienteering development team. Our March has been busy running taster sessions […]",
@@ -702,16 +722,6 @@
           "wordCount": 1559,
           "title": "Question and Answer session with Jonathan Molloy",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/What-is-SOA-up-to-a-look-at-2025-and-plans-for-2026-819x1024.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56788",
-          "author": "nikkihoward",
-          "description": "Forth Valley Orienteers provided a weekend of entertainment for our membership combining the Scottish Middle Championships with the CompassSport Cup/Trophy […]",
-          "link": "https://www.scottish-orienteering.org/news/trossachs-provide-challenging-terrain-for-the-scottish-middle-champs/?utm_source=rss&utm_medium=rss&utm_campaign=trossachs-provide-challenging-terrain-for-the-scottish-middle-champs",
-          "publishedOn": "2026-03-03T15:46:21.000Z",
-          "wordCount": 1652,
-          "title": "Trossachs provide challenging terrain for the Scottish Middle Champs",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/03/IMG_2293-819x1024.jpg"
         }
       ]
     },
