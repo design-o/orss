@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T01:14:55.345Z</updated>
+    <updated>2026-04-03T06:55:41.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -639,16 +639,6 @@ Monash March Madness Sprint Double, Sunday 15 March – Entries Closing Soon! fi
         <summary type="html"><![CDATA[Scottish Orienteering has been working with Dundee University to introduce third‑year Primary Education students to the benefits of orienteering in […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Question and Answer session with Jonathan Molloy]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56815</id>
-        <link href="https://www.scottish-orienteering.org/news/question-and-answer-session-with-jonathan-molloy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=question-and-answer-session-with-jonathan-molloy"/>
-        <updated>2026-03-04T14:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Some of you will have seen the Scottish Orienteering Impact Report for 2025 published in December last year which highlighted […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
