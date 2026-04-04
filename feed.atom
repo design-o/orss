@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T01:08:18.630Z</updated>
+    <updated>2026-04-04T06:44:51.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Jan Kjellstrom International Festival returns to Scotland]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56960</id>
+        <link href="https://www.scottish-orienteering.org/news/the-jan-kjellstrom-international-festival-returns-to-scotland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-jan-kjellstrom-international-festival-returns-to-scotland"/>
+        <updated>2026-04-04T06:40:08.000Z</updated>
+        <summary type="html"><![CDATA[All roads will lead to Perthshire this Easter weekend, as the largest event in the UK, the Jan Kjellstrom International […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tūāraki (Northern) Regional Champs | Entries due 13 April]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65563</id>
@@ -240,6 +250,15 @@ PAPO Coach-in-residence applications open  | Summer 2026/27 first appeared on
 Car pooling | Share seats in your car / ask for a lift first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorious Vics at Aus Champs in Tassie]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15578</id>
+        <link href="https://www.vicorienteering.asn.au/victorious-vics-at-aus-champs-in-tassie/"/>
+        <updated>2026-04-01T02:53:55.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

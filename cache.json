@@ -149,6 +149,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15578",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorious-vics-at-aus-champs-in-tassie/",
+          "publishedOn": "2026-04-01T02:53:55.000Z",
+          "wordCount": 1080,
+          "title": "Victorious Vics at Aus Champs in Tassie",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15567",
           "author": "Debbie Dodd",
           "description": "",
@@ -603,6 +613,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56960",
+          "author": "nikkihoward",
+          "description": "All roads will lead to Perthshire this Easter weekend, as the largest event in the UK, the Jan Kjellstrom International […]",
+          "link": "https://www.scottish-orienteering.org/news/the-jan-kjellstrom-international-festival-returns-to-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=the-jan-kjellstrom-international-festival-returns-to-scotland",
+          "publishedOn": "2026-04-04T06:40:08.000Z",
+          "wordCount": 2533,
+          "title": "The Jan Kjellstrom International Festival returns to Scotland",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/Elite-Winners-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56943",
           "author": "louise",
