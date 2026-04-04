@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T12:29:05.874Z</updated>
+    <updated>2026-04-04T18:25:05.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 JK Middle dodges the worst of Storm Dave]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56974</id>
+        <link href="https://www.scottish-orienteering.org/news/2026-jk-middle-dodges-the-worst-of-storm-dave/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-jk-middle-dodges-the-worst-of-storm-dave"/>
+        <updated>2026-04-04T17:50:32.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Jan Kjellstrom International Festival managed to dodge the worst of Storm Dave to deliver a quality Middle distance […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Jan Kjellstrom International Festival returns to Scotland]]></title>
         <id>https://www.scottish-orienteering.org/?p=56960</id>
