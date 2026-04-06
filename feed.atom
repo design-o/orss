@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-05T18:27:20.721Z</updated>
+    <updated>2026-04-06T01:17:53.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 JK Long – all four seasons in one day]]></title>
+        <id>https://www.scottish-orienteering.org/?p=56984</id>
+        <link href="https://www.scottish-orienteering.org/news/2026-jk-long-all-four-seasons-in-one-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-jk-long-all-four-seasons-in-one-day"/>
+        <updated>2026-04-05T19:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Scottish orienteers showed real determination to ensure that the 2026 Jan Kjellstrom Festival Long race went ahead, and were rewarded […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| 2026 Girdled Road Classic | Girdled Road – Chardon | Saturday, April 4]]></title>
         <id>https://neooc.com/?p=50036</id>
