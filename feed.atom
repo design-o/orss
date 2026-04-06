@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-06T07:15:32.533Z</updated>
+    <updated>2026-04-06T12:43:32.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recheck the Fixtures List]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7342</id>
+        <link href="https://www.niorienteering.org.uk/recheck-the-fixtures-list/"/>
+        <updated>2026-04-06T10:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Please do have a look over the fixtures at Fixtures & Results>NI Orienteering Fixture List and update your personal calendar, as there have been several changes to upcoming events. Do note also that the details for the Enniskillen Urban League event on 12 April are...
+The post Recheck the Fixtures List appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 JK Long – all four seasons in one day]]></title>
         <id>https://www.scottish-orienteering.org/?p=56984</id>
