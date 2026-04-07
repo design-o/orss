@@ -189,6 +189,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15468",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-schools-sprint-champs-rmit-bundoora-march-30/",
+          "publishedOn": "2026-03-25T02:02:46.000Z",
+          "wordCount": 973,
+          "title": "Victorian Schools Sprint Champs, RMIT Bundoora, March 30",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
           "description": "Don't miss the final weeks of Summer Series, culminating in the Awards Night on Wednesday 1st April - it's no joke!\nPark Street Update, March 24-30 and Awards Night first appeared on Orienteering Victoria.",
@@ -593,6 +603,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=56996",
+          "author": "nikkihoward",
+          "description": "Scottish clubs won four titles, including both Elite races in the 2026 Jan Kjellstrom Relay at Tullochroisk, near Kinloch Rannoch. […]",
+          "link": "https://www.scottish-orienteering.org/news/snowy-relays-see-scottish-podiums/?utm_source=rss&utm_medium=rss&utm_campaign=snowy-relays-see-scottish-podiums",
+          "publishedOn": "2026-04-06T19:02:17.000Z",
+          "wordCount": 2207,
+          "title": "Snowy relays see Scottish podiums",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56984",
           "author": "nikkihoward",
