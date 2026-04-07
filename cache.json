@@ -149,6 +149,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15587",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bendigo-bush-diamond-hill-saturday-11-april/",
+          "publishedOn": "2026-04-01T03:44:20.000Z",
+          "wordCount": 988,
+          "title": "Bendigo Bush, Diamond Hill, Saturday 11 April",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15578",
           "author": "Debbie Dodd",
           "description": "",
@@ -319,6 +329,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65573",
+          "author": "Christo Peters",
+          "description": "Team ManagementManager – Sarah Stewart, AucklandCoach – Kieran Woods Auckland WomenZara Stewart, AucklandPhoebe Hunt, CanterburyGeorgia Lindroos, AucklandAlison Power (replacing Morag McLellan)Lani Murray (replacing Penelope Salmon)Ciara Hoare (replacing Anna Batcheler) Reserve: Kyla Moore, Canterbury\nWUOC Men’s Selections | Provisional first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/final-wuoc-mens-selections-provisional/",
+          "publishedOn": "2026-04-07T01:06:58.000Z",
+          "wordCount": 2217,
+          "title": "WUOC Men’s Selections | Provisional",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/03/aeaf04ca-927f-dc83-ab79-c0d87a6fed4c.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=65563",
           "author": "Christo Peters",
