@@ -237,16 +237,6 @@
           "wordCount": 1066,
           "title": "Maxi at Hepburn Diggings, Sunday March 22 – Entries Close Thursday March 19",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15501",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/vic-series-2-mt-tarrengower-sunday-29-march/",
-          "publishedOn": "2026-03-10T01:24:48.000Z",
-          "wordCount": 972,
-          "title": "Vic Series 2, Mt Tarrengower, Sunday 29 March",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -633,6 +623,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57020",
+          "author": "nikkihoward",
+          "description": "Fifty years ago in 1976 Scotland held the first British World Orienteering Championships in Morayshire. Almost to the day half […]",
+          "link": "https://www.scottish-orienteering.org/news/mountain-bike-orienteering-gears-up-for-moray-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=mountain-bike-orienteering-gears-up-for-moray-in-september",
+          "publishedOn": "2026-04-08T15:12:29.000Z",
+          "wordCount": 2441,
+          "title": "Mountain Bike Orienteering gears up for Moray in September",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/PHOTO-2026-04-08-15-18-58-2-768x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=56996",
           "author": "nikkihoward",
