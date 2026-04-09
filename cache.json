@@ -256,6 +256,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22324",
+          "author": "Deirdre",
+          "description": "Bulletin #1 has now been published on the News section of the IOC website: https://ioc.orienteering.ie/irish-orienteering-champs. The purpose of this document is to help you plan your weekend on the Sheep’s Head, appreciate the layout of the Peninsula and understand the transport and travel plans for each day. More detailed course information will appear in Bulletin […]",
+          "link": "https://www.orienteering.ie/ioc-2026-bulletin-1/",
+          "publishedOn": "2026-04-09T10:22:03.000Z",
+          "wordCount": 927,
+          "title": "IOC 2026 – Bulletin #1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22320",
           "author": "Deirdre",
           "description": "Just one week remains to enter the Middle and Classic races at this year’s Irish Orienteering Championships! Check out https://ioc.orienteering.ie/irish-orienteering-champs  for further details. Individual entries will close at 23:59 on Monday 13th April. Late entries will not be accepted. The deadline for registering Relay teams is 23:59 on Friday 17th April.  Don’t miss out! Over […]",
@@ -321,16 +331,6 @@
           "wordCount": 2020,
           "title": "Wimbledon Night-O Results",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wimbledon-night-o-results/files/Wimbledon_night_Iris-rotated.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=24163",
-          "author": "vinh",
-          "description": "A great turnout to our Street-O around Pimlico and Westminster on a fine evening. We hope you enjoyed the historic clues and learnt something interesting [...]",
-          "link": "https://slow.org.uk/streeto/pimlico-street-o-25-results/",
-          "publishedOn": "2026-03-11T00:19:12.000Z",
-          "wordCount": 2203,
-          "title": "Pimlico Street-O Results",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/chelsea-street-o-tuesday-8-may/files/Chelsea_blank-1.jpg"
         }
       ]
     },
@@ -633,6 +633,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57030",
+          "author": "nikkihoward",
+          "description": "The SOA would like to join with others in sending our deepest condolences to the family of Neil McLean, passed […]",
+          "link": "https://www.scottish-orienteering.org/news/obituary-neil-mclean-gramp-mor/?utm_source=rss&utm_medium=rss&utm_campaign=obituary-neil-mclean-gramp-mor",
+          "publishedOn": "2026-04-09T10:14:18.000Z",
+          "wordCount": 2059,
+          "title": "Obituary: Neil McLean (GRAMP/MOR)",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/Neil-S6D-podium-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57020",
           "author": "nikkihoward",
