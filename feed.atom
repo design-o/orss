@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T12:55:38.977Z</updated>
+    <updated>2026-04-09T18:44:40.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STAG member, Terry O’Brien BEM, receives 2025 BOF Volunteer of the Year award]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57077</id>
+        <link href="https://www.scottish-orienteering.org/news/stag-member-terry-obrien-bem-receives-2025-bof-volunteer-of-the-year-award/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stag-member-terry-obrien-bem-receives-2025-bof-volunteer-of-the-year-award"/>
+        <updated>2026-04-09T15:29:52.000Z</updated>
+        <summary type="html"><![CDATA[The JK 2026 Sprint event saw the presentation of the 2025 BOF Volunteer of the Year Award to one of […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mappers receive plaudits BOF Mapping Awards]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57067</id>
+        <link href="https://www.scottish-orienteering.org/news/mappers-receive-plaudits-bof-mapping-awards/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mappers-receive-plaudits-bof-mapping-awards"/>
+        <updated>2026-04-09T14:56:25.000Z</updated>
+        <summary type="html"><![CDATA[The JK 2026 saw the presentation of the BOF 2025 Mapping Award, with three Scottish club members receiving an award. […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Orienteering pull together for successful JK2026]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57059</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-orienteering-pull-together-for-successful-jk2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-orienteering-pull-together-for-successful-jk2026"/>
+        <updated>2026-04-09T13:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Massive congratulations to the Scottish orienteering community for coming together to host a hugely successful JK over the Easter weekend. […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOC 2026 – Bulletin #1]]></title>
         <id>https://www.orienteering.ie/?p=22324</id>
