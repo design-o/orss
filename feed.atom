@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T01:17:31.064Z</updated>
+    <updated>2026-04-10T07:13:36.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -752,16 +752,6 @@ The post We are the Champions appeared first on NI Orienteering Association.]]><
 World Cup 2 Selection Notice | Expressions of interest due 18 March first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newcomer Packs – Sharing ideas and assessing gaps]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56838</id>
-        <link href="https://www.scottish-orienteering.org/news/newcomer-packs-sharing-ideas-and-assessing-gaps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=newcomer-packs-sharing-ideas-and-assessing-gaps"/>
-        <updated>2026-03-11T15:42:45.000Z</updated>
-        <summary type="html"><![CDATA[For many people, joining an orienteering club is the moment when an occasional event participant becomes part of the community. […]]]></summary>
-        <author>
-            <name>louise</name>
         </author>
     </entry>
     <entry>
