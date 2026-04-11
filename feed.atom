@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T01:12:09.596Z</updated>
+    <updated>2026-04-11T06:47:17.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NOL 2026 Season Standings]]></title>
+        <id>https://orienteering.asn.au/?p=15917</id>
+        <link href="https://orienteering.asn.au/nol-2026-season-standings/"/>
+        <updated>2026-04-11T05:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Following the Australian Championships in Tasmania, below are the top 3 individual and team standings.
+NOL 2026 Season Standings first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Ireland AGM 2026]]></title>
         <id>https://www.orienteering.ie/?p=22344</id>
