@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T18:37:15.297Z</updated>
+    <updated>2026-04-11T01:12:09.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -731,37 +731,6 @@ The post We are the Champions appeared first on NI Orienteering Association.]]><
         <summary type="html"><![CDATA[There are three weeks to go before Scottish Orienteering hosts the biggest annual orienteering event in the UK and anticipation […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Scottish Individual and Relay Championship – Entries open]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56864</id>
-        <link href="https://www.scottish-orienteering.org/news/2026-scottish-individual-and-relay-championship-entries-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-scottish-individual-and-relay-championship-entries-open"/>
-        <updated>2026-03-12T12:29:48.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Scottish Orienteering Individual and Relay Championships are being hosted by the WEST Area clubs – AYROC, CLYDE, ECKO, FVO, SOLWAY, STAG and TINTO – who are combining to deliver […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veteran Team Manager being sought]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56860</id>
-        <link href="https://www.scottish-orienteering.org/volunteers/veteran-team-manager-being-sought/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=veteran-team-manager-being-sought"/>
-        <updated>2026-03-12T10:36:42.000Z</updated>
-        <summary type="html"><![CDATA[Janice Nesbit, our Scottish Veteran Team Manager, has after many years decided that it is time to step back from […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 2 Selection Notice | Expressions of interest due 18 March]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65365</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-2-selection-notice-expressions-of-interest-due-18-march/"/>
-        <updated>2026-03-12T07:56:12.000Z</updated>
-        <summary type="html"><![CDATA[The second round of the 2026 IOF World Cup will be held in Skara-Lidköping, Sweden from 28-31 May 2026. The programme will consist of a sprint, knock-out and sprint relay. New Zealand is entitled to enter up to 8 men and 8 women in all individual competitions and up to 4 teams in the sprint […]
-World Cup 2 Selection Notice | Expressions of interest due 18 March first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
