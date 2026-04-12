@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T07:02:00.521Z</updated>
+    <updated>2026-04-12T12:35:08.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -711,37 +711,6 @@ NOL Round 2 Results & Recap first appeared on Orienteering Australia.]]></summar
 Maxi at Hepburn Diggings, Sunday March 22 – Entries Close Thursday March 19 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hit-the-Town Update!]]></title>
-        <id>https://www.orienteering.ie/?p=22250</id>
-        <link href="https://www.orienteering.ie/hit-the-town-update/"/>
-        <updated>2026-03-13T18:10:33.000Z</updated>
-        <summary type="html"><![CDATA[We are delighted to share the final Event Information Booklet for our upcoming sprint/urban orienteering festival with you. Her you will find useful information on the events. SPRINT > RELAY > URBAN – It’s all happening in Limerick! Please note, that due to construction works and limited access to certain areas, we have had to […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are the Champions]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7283</id>
-        <link href="https://www.niorienteering.org.uk/we-are-the-champions-2/"/>
-        <updated>2026-03-13T17:23:09.000Z</updated>
-        <summary type="html"><![CDATA[At our recent AGM and Prizegiving held in Irivingstown, Co Fermanagh on 21 February, trophies for the 2025 season were presented to class winners of the NI Long Distance Championships. Well done to all our winners! Any winner who was not able to attend and wishes...
-The post We are the Champions appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JK Entries close 15th March – don’t miss out!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56881</id>
-        <link href="https://www.scottish-orienteering.org/news/jk-entries-close-15th-march-dont-miss-out/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jk-entries-close-15th-march-dont-miss-out"/>
-        <updated>2026-03-13T14:01:25.000Z</updated>
-        <summary type="html"><![CDATA[There are three weeks to go before Scottish Orienteering hosts the biggest annual orienteering event in the UK and anticipation […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
