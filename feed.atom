@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T07:15:46.186Z</updated>
+    <updated>2026-04-15T12:55:59.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tottenham Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=24218</id>
+        <link href="https://slow.org.uk/streeto/tottenham-street-o-25-results/"/>
+        <updated>2026-04-15T08:47:54.000Z</updated>
+        <summary type="html"><![CDATA[Well done to everyone who came to Tottenham on a lovely spring evening. Thank you Iris for organising and finding some lovely mural clues. Thanks [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC Final Men’s Team members named]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65593</id>
