@@ -256,6 +256,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22362",
+          "author": "Deirdre",
+          "description": "The April edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland:",
+          "link": "https://www.orienteering.ie/the-download-april-2026/",
+          "publishedOn": "2026-04-15T12:57:15.000Z",
+          "wordCount": 760,
+          "title": "The Download April 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22344",
           "author": "Operations Manager",
           "description": "Orienteering Ireland’s 2026 AGM will take place on Sunday May 3rd at 6.00pm in the Sports Hall, Carrigboy National School, Durrus (Eircode P75 DN24) after the IOC2026 Classic Event in Rosskerrig. Pin for event here. The agenda, reports (as they become available) and other info can all be found here.",
