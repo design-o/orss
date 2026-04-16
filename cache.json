@@ -237,16 +237,6 @@
           "wordCount": 971,
           "title": "Vic Series 2, Mt Tarrengower, Sunday 29 March",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15535",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/discover-and-learn-to-orienteer-programs-in-april/",
-          "publishedOn": "2026-03-18T01:14:06.000Z",
-          "wordCount": 1133,
-          "title": "Discover and Learn To Orienteer Programs In April",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -643,6 +633,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57086",
+          "author": "nikkihoward",
+          "description": "This week saw the retiral of our Coaching and Volunteer Officer, Suzanne Robins-Bird who joined SOA, initially on a short […]",
+          "link": "https://www.scottish-orienteering.org/news/judy-bell-joins-the-soa-as-our-new-coaching-and-volunteer-officer/?utm_source=rss&utm_medium=rss&utm_campaign=judy-bell-joins-the-soa-as-our-new-coaching-and-volunteer-officer",
+          "publishedOn": "2026-04-16T13:41:18.000Z",
+          "wordCount": 2135,
+          "title": "Judy Bell joins the SOA as our new Coaching and Volunteer Officer",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2021/11/IMG-20211123-WA0013-e1637758089756.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57077",
           "author": "nikkihoward",
