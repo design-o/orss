@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T12:52:34.109Z</updated>
+    <updated>2026-04-17T18:40:49.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -687,39 +687,6 @@ Vic Series 2, Mt Tarrengower, Sunday 29 March first appeared on Orienteering Vic
         <summary type="html"><![CDATA[Don’t miss out on the early bird registration fees for the Irish Orienteering Championships 2026 on the stunning Sheep’s Head this May bank holiday weekend. Early bird entries closes Monday 23rd March. Registration is through Fabian4 Final closing date for IOC 2026 middle distance and classic races is 13th April. Final closing date for IOC […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing OA’s new Manager, Coaching Development – Kieran Woods]]></title>
-        <id>https://orienteering.asn.au/?p=15789</id>
-        <link href="https://orienteering.asn.au/introducing-oas-new-manager-coaching-development-kieran-woods/"/>
-        <updated>2026-03-19T02:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia appoints Kieran Woods as Manager, Coaching Development, bringing extensive coaching, leadership and international orienteering experience.
-Introducing OA’s new Manager, Coaching Development – Kieran Woods first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing OA’s new Manager, Athlete Development – Aston Key]]></title>
-        <id>https://orienteering.asn.au/?p=15786</id>
-        <link href="https://orienteering.asn.au/introducing-oas-new-manager-athlete-development-aston-key/"/>
-        <updated>2026-03-19T02:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia appoints Aston Key as Manager, Athlete Development, bringing elite competition and coaching experience to support High Performance orienteers.
-Introducing OA’s new Manager, Athlete Development – Aston Key first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia]]></title>
-        <id>https://orienteering.asn.au/?p=15781</id>
-        <link href="https://orienteering.asn.au/thank-you-brodie-nankervis-recognising-his-contribution-to-orienteering-australia/"/>
-        <updated>2026-03-19T02:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Australia thanks Brodie Nankervis for his dedicated service and significant contributions to coaching, high-performance, and participation.
-Thank You, Brodie Nankervis – Recognising his Contribution to Orienteering Australia first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
         </author>
     </entry>
     <entry>
