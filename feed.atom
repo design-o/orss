@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T12:35:00.655Z</updated>
+    <updated>2026-04-18T18:31:18.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -666,17 +666,6 @@ EYOC / JWOC / WUOC 2026 | Team Selection first appeared on Orienteering New Zeal
 World Cup Round 2 2026  |  Team Selection first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 2, Mt Tarrengower, Sunday 29 March]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15501</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-2-mt-tarrengower-sunday-29-march/"/>
-        <updated>2026-03-20T01:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Entries close this Thursday March 26 for the next Vic Bush series event at Mt Tarrengower. Rock up for some top class granite orienteering!
-Vic Series 2, Mt Tarrengower, Sunday 29 March first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
