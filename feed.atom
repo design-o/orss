@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T18:40:49.701Z</updated>
+    <updated>2026-04-18T01:15:02.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -677,16 +677,6 @@ World Cup Round 2 2026  |  Team Selection first appeared on Orienteering New Zea
 Vic Series 2, Mt Tarrengower, Sunday 29 March first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t miss IOC 2026 early bird entry]]></title>
-        <id>https://www.orienteering.ie/?p=22270</id>
-        <link href="https://www.orienteering.ie/dont-miss-ioc-2026-early-bird-entry/"/>
-        <updated>2026-03-19T10:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Don’t miss out on the early bird registration fees for the Irish Orienteering Championships 2026 on the stunning Sheep’s Head this May bank holiday weekend. Early bird entries closes Monday 23rd March. Registration is through Fabian4 Final closing date for IOC 2026 middle distance and classic races is 13th April. Final closing date for IOC […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
