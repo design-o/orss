@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T18:31:18.817Z</updated>
+    <updated>2026-04-19T01:24:31.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selection Notice | 2026 World Cup Round 3]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65616</id>
+        <link href="https://www.orienteering.org.nz/news/selection-notice-2026-world-cup-round-3/"/>
+        <updated>2026-04-19T00:35:27.000Z</updated>
+        <summary type="html"><![CDATA[The third round of the 2026 IOF World Cup will be held in Vyšší Brod, Czechia from 5-9 August 2026. The programme will consist of a long distance, middle distance and relay. New Zealand is entitled to enter up to 8 men and 8 women in all individual competitions and up to 3 teams per […]
+Selection Notice | 2026 World Cup Round 3 first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Judy Bell joins the SOA as our new Coaching and Volunteer Officer]]></title>
         <id>https://www.scottish-orienteering.org/?p=57086</id>
@@ -644,28 +655,6 @@ In memory of Ian Holden first appeared on Orienteering New Zealand.]]></summary>
 Park Street Update, March 24-30 and Awards Night first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EYOC / JWOC / WUOC 2026 | Team Selection]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65396</id>
-        <link href="https://www.orienteering.org.nz/news/eyoc-jwoc-wuoc-2026-team-selection/"/>
-        <updated>2026-03-20T12:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering New Zealand was made aware of potential breaches of the trial embargos. The Board Executive Committee delayed the approval of provisional team selections while these concerns were investigated. Through meetings with controllers, coaches, managers, and event organisers, and checking maps and GPS data from the two events that took place in the area prior […]
-EYOC / JWOC / WUOC 2026 | Team Selection first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Round 2 2026  |  Team Selection]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65394</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-round-2-2026-team-selection/"/>
-        <updated>2026-03-20T11:23:15.000Z</updated>
-        <summary type="html"><![CDATA[The Orienteering New Zealand Senior Selection Panel has named the following athletes to attend Round 2 of the Orienteering World Cup in Skara-Lidköping, Sweden from 28-31 May 2026. Women Rachel Baker, Wellington Georgia Lindroos, Auckland Amber Riddle, Hutt Valley Laura Robertson, Hutt Valley Men Joseph Lynch, Peninsula and Plains Tim Robertson, Hutt Valley All Team […]
-World Cup Round 2 2026  |  Team Selection first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
