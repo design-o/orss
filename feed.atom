@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T07:05:14.442Z</updated>
+    <updated>2026-04-19T12:35:01.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -644,17 +644,6 @@ ONZ MTBO Selection Notice first appeared on Orienteering New Zealand.]]></summar
 In memory of Ian Holden first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Street Update, March 24-30 and Awards Night]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=13391</id>
-        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
-        <updated>2026-03-20T23:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss the final weeks of Summer Series, culminating in the Awards Night on Wednesday 1st April - it's no joke!
-Park Street Update, March 24-30 and Awards Night first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
