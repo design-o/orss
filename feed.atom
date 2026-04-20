@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T01:24:08.809Z</updated>
+    <updated>2026-04-20T07:48:08.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -644,17 +644,6 @@ ONZ MTBO Selection Notice first appeared on Orienteering New Zealand.]]></summar
         <summary type="html"><![CDATA[Orienteering For Beginners Beginner-level Navigation Skills Course Orienteering 101 Co-hosted with Stark Parks   Overview Want to improve your on and off-trail navigation ability?  Looking for another way to immerse yourself in the natural world? Could you benefit from an adventure activity that maintains your fitness, both physical and mental? …An activity you can do […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In memory of Ian Holden]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65403</id>
-        <link href="https://www.orienteering.org.nz/news/in-memory-of-ian-holden/"/>
-        <updated>2026-03-21T07:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Just shy of his 93rd birthday, the stopwatch has run out for our beloved club member, active, gentle, Ian Miles Holden, known in the orienteering world as a very accomplished runner, passionate orienteer & ‘human gazelle’. Less known, probably, was his involvement as ‘Tuatara’ volunteer track builder, stonemason & gardener of The Brook Waimarama Sanctuary, […]
-In memory of Ian Holden first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
