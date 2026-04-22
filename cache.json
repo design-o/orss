@@ -595,16 +595,6 @@
           "wordCount": 1578,
           "title": "New Event | Quail Hollow Classic-O | Stark Parks | Saturday, May 9, 2026",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/03/IMG_20250824_090536764_HDR-scaled.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=49791",
-          "author": "Jay Smink",
-          "description": "Orienteering For Beginners Beginner-level Navigation Skills Course Orienteering 101 Co-hosted with Stark Parks   Overview Want to improve your on and off-trail navigation ability?  Looking for another way to immerse yourself in the natural world? Could you benefit from an adventure activity that maintains your fitness, both physical and mental? …An activity you can do […]",
-          "link": "https://neooc.com/new-event-orienteering-for-beginners-sippo-lake-saturday-april-18th/",
-          "publishedOn": "2026-03-23T18:10:48.000Z",
-          "wordCount": 1931,
-          "title": "New Event | Orienteering For Beginners | Sippo Lake | Saturday, April 18th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2023/08/ld_map-and-compass-1-1200x798.jpg"
         }
       ]
     },
@@ -817,6 +807,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15945",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "The new Discover Orienteering package makes organising a Come and Try event easy. Early success has already been seen.\nDiscover Orienteering first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/discover-orienteering/",
+          "publishedOn": "2026-04-22T03:49:50.000Z",
+          "wordCount": 2513,
+          "title": "Discover Orienteering",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=15940",
           "author": "Elizabeth L",
