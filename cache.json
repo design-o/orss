@@ -141,7 +141,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21562",
+          "author": "Jan Kocbach",
+          "description": "The 2026 Orienteering World Cup starts in the Italian-speaking south of Switzerland on Friday with an individual sprint in Locarno. A sprint relay on Saturday and a Knock-Out Sprint on Sunday finish off the opening weekend. Locarno sits at the northern tip of Lake Maggiore, offering the kind of fast, technical sprint terrain that rewards sharp decision-making: ...",
+          "link": "https://news.worldofo.com/2026/04/23/world-cup-opening-2026-locarno-ascona-all-you-need-to-know/",
+          "publishedOn": "2026-04-23T15:02:29.000Z",
+          "wordCount": 1822,
+          "title": "World Cup Opening 2026 Locarno Ascona: All You Need To Know",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/04/2026_wcr1_tv_times-819x1024-660x330.jpg"
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
@@ -237,16 +248,6 @@
           "wordCount": 950,
           "title": "Double Header MTBO Weekend, April 18-19, North East Victoria",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15468",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorian-schools-sprint-champs-rmit-bundoora-march-30/",
-          "publishedOn": "2026-03-25T02:02:46.000Z",
-          "wordCount": 973,
-          "title": "Victorian Schools Sprint Champs, RMIT Bundoora, March 30",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -255,6 +256,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22406",
+          "author": "Deirdre",
+          "description": "Frank Martindale died on 22nd April 2026 in hospital in Cashel, Co.Tipperary. Frank was a former Chairman of IOA and was the person behind Tipperary Orienteers, a club based on his family. Frank produced several O-maps in the Galtees and the Glen of Aherlow. More recently he ran for Southdowns Orienteers in the UK and […]",
+          "link": "https://www.orienteering.ie/frank-martindale/",
+          "publishedOn": "2026-04-23T15:11:13.000Z",
+          "wordCount": 882,
+          "title": "Frank Martindale",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=22362",
           "author": "Deirdre",
