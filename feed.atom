@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T07:19:54.066Z</updated>
+    <updated>2026-04-23T12:56:32.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -668,27 +668,6 @@ NZ Orienteering Champs 2026 long distance event: WRE status change first appeare
         <updated>2026-03-25T02:02:46.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon Night-O Results]]></title>
-        <id>https://slow.org.uk/?p=24186</id>
-        <link href="https://slow.org.uk/racereports/wimbledon-night-results-mar2026/"/>
-        <updated>2026-03-24T23:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Results – pdf SPORTident Routegadet – draw your route! Series results. Provisionally:]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONZ MTBO Selection Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65424</id>
-        <link href="https://www.orienteering.org.nz/news/onz-mtbo-selection-notice/"/>
-        <updated>2026-03-24T22:36:23.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Mountain Bike Orienteering World Championships (WMTBOC) and the Junior World Championships (JWMTBOC), will be hosted in Mora, Sweden, 24-30 August 2026. This event is also Round 2 of the CX80 MTB Orienteering World Cup organised by The Swedish Orienteering Federation and IFK Mora Orienteering Club . There will be no specific trial event in […]
-ONZ MTBO Selection Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
