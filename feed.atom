@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T18:52:32.410Z</updated>
+    <updated>2026-04-24T01:24:23.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -669,16 +669,6 @@ JWOC Women’s Team to remain provisional | Update 28/3/26 first appeared on Ori
 NZ Orienteering Champs 2026 long distance event: WRE status change first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route To The Title]]></title>
-        <id>https://www.orienteering.ie/?p=22279</id>
-        <link href="https://www.orienteering.ie/route-to-the-title/"/>
-        <updated>2026-03-25T09:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Don’t miss this exciting opportunity to hear from Sprint Orienteering Championship winners Josh O’Sullivan Hourihan and Clodagh Moran! Friday, 27th March at 8:00 PM Josh and Clodagh will be hosting a live webinar where they will break down how they secured their wins, sharing insights into their route choices and strategies from Saturday’s championship. Whether […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
