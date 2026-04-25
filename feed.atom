@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T07:00:13.655Z</updated>
+    <updated>2026-04-25T12:36:52.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -668,17 +668,6 @@ AGM agenda and reports first appeared on Orienteering New Zealand.]]></summary>
 JWOC Women’s Team to remain provisional | Update 28/3/26 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZ Orienteering Champs 2026 long distance event: WRE status change]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65436</id>
-        <link href="https://www.orienteering.org.nz/news/nz-orienteering-champs-2026-long-distance-event-wre-status-removed/"/>
-        <updated>2026-03-26T23:04:38.000Z</updated>
-        <summary type="html"><![CDATA[After very careful consideration, we have decided that the Long Distance event at Nationals 2026 will no longer be a World Ranking Event (WRE). It has proved impossible to set courses of the technical level required for a WRE event whilst keeping the extensive fence network on the maps for red courses, especially for the […]
-NZ Orienteering Champs 2026 long distance event: WRE status change first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
