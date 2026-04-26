@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-26T07:14:36.818Z</updated>
+    <updated>2026-04-26T12:38:24.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -657,17 +657,6 @@ AGM agenda and reports first appeared on Orienteering New Zealand.]]></summary>
         <updated>2026-03-28T01:17:37.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC Women’s Team to remain provisional | Update 28/3/26]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65451</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc-womens-team-to-remain-provisional-update-28-3-26/"/>
-        <updated>2026-03-27T19:05:36.000Z</updated>
-        <summary type="html"><![CDATA[In accordance with the ONZ Appeals Policy, the JWOC Women’s Team will remain provisional as we have received an appeal to selections. The selection of Men’s team has now been approved as no appeals have been received. REMAINING PROVISIONAL (subject to result of appeal) Women Rachel Baker, Wellington Tide Fa’avae, Nelson Phoebe Hunt, Peninsula and […]
-JWOC Women’s Team to remain provisional | Update 28/3/26 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
