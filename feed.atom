@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T08:02:10.413Z</updated>
+    <updated>2026-04-27T13:14:02.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -669,15 +669,6 @@ AGM agenda and reports first appeared on Orienteering New Zealand.]]></summary>
         <id>https://www.vicorienteering.asn.au/?p=15567</id>
         <link href="https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/"/>
         <updated>2026-03-29T01:24:41.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn To Orienteer in Castlemaine, April-May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15559</id>
-        <link href="https://www.vicorienteering.asn.au/lear-to-orienteer-in-castlemaine-april-may/"/>
-        <updated>2026-03-29T01:13:44.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
