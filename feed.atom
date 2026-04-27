@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T13:14:02.485Z</updated>
+    <updated>2026-04-27T19:01:46.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jobs – Club Development Officer, Fermanagh and Omagh]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7346</id>
+        <link href="https://www.niorienteering.org.uk/jobs-club-development-officer-fermanagh-and-omagh/"/>
+        <updated>2026-04-27T15:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Fermanagh Orienteers are excited to announce that they are looking to employ a Club Development Officer (CDO) on a 0.2FT capacity, starting June 2026. The days/hours worked will be flexible and equivalent to 1 day per week. Presently the position is for 1 year with...
+The post Jobs – Club Development Officer, Fermanagh and Omagh appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Club Networking Events – Save the date!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57121</id>
+        <link href="https://www.scottish-orienteering.org/news/club-networking-events-save-the-date/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=club-networking-events-save-the-date"/>
+        <updated>2026-04-27T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years the SOA has organised a Club Networking Day with the aim to provide the opportunity […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can we reach wider audiences effectively? – April’s Community Conversation]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57115</id>
+        <link href="https://www.scottish-orienteering.org/news/how-can-we-reach-wider-audiences-effectively-aprils-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-can-we-reach-wider-audiences-effectively-aprils-community-conversation"/>
+        <updated>2026-04-27T14:19:41.000Z</updated>
+        <summary type="html"><![CDATA[April’s Community Conversation had a theme of marketing and outreach to newcomers. SOA comms & marketing Director, Katherine Ivory, started […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Opening 2026 Locarno Ascona: Maps and Results]]></title>
         <id>http://news.worldofo.com/?p=21569</id>
@@ -184,6 +215,15 @@ MelbushO at Maroondah Reservoir POSTPONED first appeared on Orienteering Victori
 NOL 2026 Season Standings first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn To Orienteer in Castlemaine, April-May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15559</id>
+        <link href="https://www.vicorienteering.asn.au/lear-to-orienteer-in-castlemaine-april-may/"/>
+        <updated>2026-04-11T02:13:44.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -662,15 +702,6 @@ Car pooling | Share seats in your car / ask for a lift first appeared on Orien
 AGM agenda and reports first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat Orienteering Anzac Weekend, 25-26 April]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15567</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/"/>
-        <updated>2026-03-29T01:24:41.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

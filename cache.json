@@ -200,6 +200,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15559",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/lear-to-orienteer-in-castlemaine-april-may/",
+          "publishedOn": "2026-04-11T02:13:44.000Z",
+          "wordCount": 1047,
+          "title": "Learn To Orienteer in Castlemaine, April-May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=13391",
           "author": "Debbie Dodd",
           "description": "Congratulations to Rob Allen for winning the Michael Hubbert Course Setter of the Year Award!\nPark Street Update, April 14-20 first appeared on Orienteering Victoria.",
@@ -247,16 +257,6 @@
           "publishedOn": "2026-04-01T02:53:55.000Z",
           "wordCount": 1080,
           "title": "Victorious Vics at Aus Champs in Tassie",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15567",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/",
-          "publishedOn": "2026-03-29T01:24:41.000Z",
-          "wordCount": 1014,
-          "title": "Ballarat Orienteering Anzac Weekend, 25-26 April",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -585,6 +585,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57121",
+          "author": "nikkihoward",
+          "description": "Over the past few years the SOA has organised a Club Networking Day with the aim to provide the opportunity […]",
+          "link": "https://www.scottish-orienteering.org/news/club-networking-events-save-the-date/?utm_source=rss&utm_medium=rss&utm_campaign=club-networking-events-save-the-date",
+          "publishedOn": "2026-04-27T14:33:58.000Z",
+          "wordCount": 1707,
+          "title": "Club Networking Events – Save the date!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/IMG_0944-1024x694.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57115",
+          "author": "nikkihoward",
+          "description": "April’s Community Conversation had a theme of marketing and outreach to newcomers. SOA comms & marketing Director, Katherine Ivory, started […]",
+          "link": "https://www.scottish-orienteering.org/news/how-can-we-reach-wider-audiences-effectively-aprils-community-conversation/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-we-reach-wider-audiences-effectively-aprils-community-conversation",
+          "publishedOn": "2026-04-27T14:19:41.000Z",
+          "wordCount": 2187,
+          "title": "How can we reach wider audiences effectively? – April’s Community Conversation",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/Screenshot-2026-04-27-150856.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57107",
           "author": "nikkihoward",
           "description": "Congratulations to Morag McLuckie (Moravian Orienteering Club) and Katja Neumann (MAR Orienteering Club) who have both successfully completed the Scottish […]",
@@ -771,6 +791,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7346",
+          "author": "Richard Gamble",
+          "description": "Fermanagh Orienteers are excited to announce that they are looking to employ a Club Development Officer (CDO) on a 0.2FT capacity, starting June 2026. The days/hours worked will be flexible and equivalent to 1 day per week. Presently the position is for 1 year with...\nThe post Jobs – Club Development Officer, Fermanagh and Omagh appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/jobs-club-development-officer-fermanagh-and-omagh/",
+          "publishedOn": "2026-04-27T15:53:00.000Z",
+          "wordCount": 4335,
+          "title": "Jobs – Club Development Officer, Fermanagh and Omagh",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/04/Fermo-Job-description-poster-1.png"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7342",
           "author": "NIOA Secretary",
