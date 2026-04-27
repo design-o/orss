@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T01:27:35.769Z</updated>
+    <updated>2026-04-27T08:02:10.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Opening 2026 Locarno Ascona: Maps and Results]]></title>
+        <id>http://news.worldofo.com/?p=21569</id>
+        <link href="https://news.worldofo.com/2026/04/27/world-cup-opening-2026-locarno-ascona-maps-and-results/"/>
+        <updated>2026-04-27T03:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Tino Polsini (SUI) and Hanna Lundberg (SWE) took the victories in Friday’s invidual sprint, while Norway won Saturday’s sprint relay ahead of Sweden and Switzerland. The weekend finished off with the Knock-Out Sprint on Sunday, where Kasper Harlem Fosser (NOR) and Hedvig Valbjorn Gydesen (DEN) took the victories. For Polsini, the new season started as the last ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelbushO at Tikalara Park, Sunday May 2]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15605</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-at-tikalara/"/>
+        <updated>2026-04-26T01:27:33.000Z</updated>
+        <summary type="html"><![CDATA[The first MelbushO for 2026 is on Sunday May 3, at Tikalara Park, Templestowe. Online entries close on Thursday 30 April.
+MelbushO at Tikalara Park, Sunday May 2 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coaching – Congratulations and Opportunities]]></title>
         <id>https://www.scottish-orienteering.org/?p=57107</id>
