@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T19:01:46.264Z</updated>
+    <updated>2026-04-28T01:47:28.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -119,6 +119,17 @@ MTBO AUS/NZ Challenge | Selection Notice | Ballarat, Victoria 8-11 October 2026 
 Discover Orienteering first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ballarat Anzac Weekend, 25-26 April – Final Bulletin and NOL Start Lists Published]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15567</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/"/>
+        <updated>2026-04-21T01:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Get set for a great triple header Anzac weekend in Ballarat!  Online entries have been extended for public events.  The Final Bulletin is now available.
+Ballarat Anzac Weekend, 25-26 April – Final Bulletin and NOL Start Lists Published first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
