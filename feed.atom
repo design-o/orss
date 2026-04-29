@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T19:15:51.552Z</updated>
+    <updated>2026-04-29T01:50:30.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -721,17 +721,6 @@ Car pooling | Share seats in your car / ask for a lift first appeared on Orien
         <summary type="html"><![CDATA[What’s SOA up to? Participants from clubs around the country found out by quizzing SOA Chair Jonathan Molloy at the […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGM agenda and reports]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65477</id>
-        <link href="https://www.orienteering.org.nz/news/agm-agenda-and-reports/"/>
-        <updated>2026-03-30T07:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Below are the items for the ONZ Annual General Meeting (AGM) being held on Wednesday 29 April 2026: 2026 AGM Agenda 2025 AGM Minutes (to be approved at 2026 AGM) 2025 ONZ Annual Report 2025 ONZ Annual Financial Report To register your attendance for the AGM, please click here. The annual financial report above is […]
-AGM agenda and reports first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
