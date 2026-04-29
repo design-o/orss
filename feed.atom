@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T01:50:30.483Z</updated>
+    <updated>2026-04-29T07:56:58.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -709,16 +709,6 @@ Car pooling | Share seats in your car / ask for a lift first appeared on Orien
         <link href="https://www.scottish-orienteering.org/news/sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april"/>
         <updated>2026-03-31T11:30:46.000Z</updated>
         <summary type="html"><![CDATA[Growing participation in orienteering depends on how effectively we reach and engage new people. The April online Community Conversation (April […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q&A with Jonathan Molloy, at the March Community Conversation]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56905</id>
-        <link href="https://www.scottish-orienteering.org/news/qa-with-jonathan-molloy-at-the-march-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=qa-with-jonathan-molloy-at-the-march-community-conversation"/>
-        <updated>2026-03-30T15:05:08.000Z</updated>
-        <summary type="html"><![CDATA[What’s SOA up to? Participants from clubs around the country found out by quizzing SOA Chair Jonathan Molloy at the […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
