@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T19:05:45.004Z</updated>
+    <updated>2026-04-30T01:49:36.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -712,16 +712,6 @@ Car pooling | Share seats in your car / ask for a lift first appeared on Orien
         <updated>2026-04-01T02:53:55.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign up for the next Community Conversation: Marketing and Outreach to New Audiences, 21st  April]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56907</id>
-        <link href="https://www.scottish-orienteering.org/news/sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sign-up-for-the-next-community-conversation-marketing-and-outreach-to-new-audiences-21st-april"/>
-        <updated>2026-03-31T11:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Growing participation in orienteering depends on how effectively we reach and engage new people. The April online Community Conversation (April […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
