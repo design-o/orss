@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T19:04:09.702Z</updated>
+    <updated>2026-05-01T01:51:59.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -450,6 +450,15 @@ The post Recheck the Fixtures List appeared first on NI Orienteering Association
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorious Vics at Aus Champs in Tassie]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15578</id>
+        <link href="https://www.vicorienteering.asn.au/victorious-vics-at-aus-champs-in-tassie/"/>
+        <updated>2026-04-04T02:53:55.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tūāraki (Northern) Regional Champs | Entries due 13 April]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65563</id>
         <link href="https://www.orienteering.org.nz/news/tuaraki-northern-regional-champs-2026-anzac-weekend-sat-25-april-to-mon-27-apr/"/>
@@ -530,126 +539,6 @@ The post Ballykelly First Forest Results appeared first on NI Orienteering Assoc
         <summary type="html"><![CDATA[New Event | Quail Hollow Classic-O | Quail Hollow (Stark Parks) | Saturday, May 9, 2026]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries NOW OPEN for the Scottish Schools Orienteering Festival 2026]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56916</id>
-        <link href="https://www.scottish-orienteering.org/news/entries-now-open-for-the-scottish-schools-orienteering-festival-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=entries-now-open-for-the-scottish-schools-orienteering-festival-2026"/>
-        <updated>2026-04-01T11:16:30.000Z</updated>
-        <summary type="html"><![CDATA[The SSOF returns for 2026 – and entries are now open! The details for this year’s Festival are below: You […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Team selection changes and confirmations | EYOC, JWOC, WUOC 2026]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65520</id>
-        <link href="https://www.orienteering.org.nz/news/team-selection-changes-and-confirmations-eyoc-jwoc-wuoc-2026/"/>
-        <updated>2026-04-01T10:53:44.000Z</updated>
-        <summary type="html"><![CDATA[The JWOC Team has been finalised. A number of athletes have withdrawn from WUOC and EYOC meaning that there are now a number of new provisional team selections. Names in black have been finalised, names in red have been removed and names in green are currently provisional in accordance with the ONZ Selection Appeal Policy.  […]
-Team selection changes and confirmations | EYOC, JWOC, WUOC 2026 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair | March 2026]]></title>
-        <id>https://www.orienteering.org.nz/?p=65555</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-march-2026/"/>
-        <updated>2026-04-01T09:27:25.000Z</updated>
-        <summary type="html"><![CDATA[As I write this I should be packing for Nationals, I’m super excited about the weekend and look forward to seeing many of you there. The Board (and especially Christo and Joolz) have been busy pulling the annual report together for 2025 and it’s been such a pleasure to sit back and read over the […]
-View from the Chair | March 2026 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrailBlaze | Auckland School Sprint Series Final]]></title>
-        <id>https://www.orienteering.org.nz/?p=65552</id>
-        <link href="https://www.orienteering.org.nz/schools/trailblaze-auckland-school-sprint-series-final/"/>
-        <updated>2026-04-01T08:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Auckland Schools Sprint Series – A Trailblazing success! TrailBlaze Events has just wrapped up the Northern, Western, Central and Eastern zones of the Auckland Schools Sprint Series, and what a series it has been! Across five weeks and an incredible 22 events, we saw over 2,500 enthusiastic school students participate in the excitement of sprint […]
-TrailBlaze | Auckland School Sprint Series Final first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katoa Po  | Fast juniors & wise owls at Ōpepe]]></title>
-        <id>https://www.orienteering.org.nz/?p=65546</id>
-        <link href="https://www.orienteering.org.nz/blog/katoa-po-fast-juniors-wise-owls-at-opepe/"/>
-        <updated>2026-04-01T08:16:59.000Z</updated>
-        <summary type="html"><![CDATA[This year’s Katoa Po was held for the first time since 1994 on the Ōpepe farm . The weather did look a bit dubious earlier in the week but turned out to be fine on the day. Around 175 competitors took part in the events over the weekend with camping in a nice sheltered gully. […]
-Katoa Po  | Fast juniors & wise owls at Ōpepe first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nationals26  |  Start lists & Bulletin 2]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65543</id>
-        <link href="https://www.orienteering.org.nz/news/nationals26-start-lists-bulletin-2/"/>
-        <updated>2026-04-01T08:14:05.000Z</updated>
-        <summary type="html"><![CDATA[Start lists and Bulletin 2.0 for the 2026 New Zealand Orienteering Championships are now available on the programme page. Bulletin 2.0 is the comprehensive guide to everything you need to know about the event, so competitors are encouraged to read it carefully. Start lists for the Sprint, Middle, and Long events can be viewed by […]
-Nationals26  |  Start lists & Bulletin 2 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aims Games   | 5 – 11 September  |  Entries now open]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65540</id>
-        <link href="https://www.orienteering.org.nz/news/aims-games-5-11-september-entries-now-open/"/>
-        <updated>2026-04-01T08:09:22.000Z</updated>
-        <summary type="html"><![CDATA[The Association of Intermediate and Middle Schools( AIMS) Games is an annual multi-sport event held in Tauranga, which is the largest annual sporting event in Australasia. It provides Year 7 and 8 students the opportunity to compete as individuals or in teams against the best of their age across a range of sports, with the aim of encouraging competition, fair play, […]
-Aims Games   | 5 – 11 September  |  Entries now open  first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania 2026  | Canberra  | 26 Sept – 4 Oct  |  Bulletin 1]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65537</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-2026-canberra-26-sept-4-oct-bulletin-1/"/>
-        <updated>2026-04-01T07:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Bulletin 1 is now out for Oceania 2026 read the Bulletin 1 for more details! The journey begins in the rugged bushland of Namadgi National Park,then moves to Orana School, a fun, compact campus, perfect for the ASOC competitors to demonstrate their speedy sprint techniques. From there, competitors climb to the panoramic heights of Mount Ainslie, before navigating along the banks of the Murrumbidgee River […]
-Oceania 2026  | Canberra  | 26 Sept – 4 Oct  |  Bulletin 1 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZSSOC  | Christchurch | 16-19 July]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65534</id>
-        <link href="https://www.orienteering.org.nz/news/nzssoc-christchurch-16-19-july/"/>
-        <updated>2026-04-01T07:27:14.000Z</updated>
-        <summary type="html"><![CDATA[We welcome you to Christchurch in July for the New Zealand Secondary School Champs. Entries will be open very soon, which will be specifically for your sports coordinator to enter students at each school. Public race entries opening at a later stage for other support members. Checkout the programme on the website:https://www.nzssochamps.nz DAY 1 –RELAY EVENTDate: Thursday […]
-NZSSOC  | Christchurch | 16-19 July first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZMTBO26  | Rotorua | 16-17 May]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65531</id>
-        <link href="https://www.orienteering.org.nz/news/nzmtbo26-rotorua-16-17-may/"/>
-        <updated>2026-04-01T07:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Hosted by Orienteering Bay of Plenty (OBOP) with support from Taupo Orienteering club, the 2026 NZMTBO Championships will be held close to Rotorua. This promises to be a fantastic weekend of competition, challenge, and fun for Mountain Bikers, Orienteers, and Adventure Racers of all abilities. We expect competitive fields that will suit experienced and competitive athletes. […]
-NZMTBO26  | Rotorua | 16-17 May first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo competition  |  Best shots from 2025]]></title>
-        <id>https://www.orienteering.org.nz/?p=65523</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/photo-competition-best-shots-from-2025/"/>
-        <updated>2026-04-01T07:15:40.000Z</updated>
-        <summary type="html"><![CDATA[And the winners are: 1. People shot  Prolific photographer Annemarie Hogenbirk from Nelson Orienteering has won a prize for a photo of a very young orienteer. The photo was taken at the OY5 Canaan Downs, 22 November 2025, as part of Nelson Orienteering Club’s ‘Golden Bay Revisited’. The photo shows James Duncan, at that time 2 years and 4 months old. […]
-Photo competition  |  Best shots from 2025 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
