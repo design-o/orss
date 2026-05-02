@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T18:54:25.457Z</updated>
+    <updated>2026-05-02T01:28:52.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -506,26 +506,6 @@ Double Header MTBO Weekend, April 18-19, North East Victoria first appeared on O
         <link href="https://www.scottish-orienteering.org/news/scottish-students-at-bucs-orienteering-championships-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-students-at-bucs-orienteering-championships-2026"/>
         <updated>2026-04-02T17:12:10.000Z</updated>
         <summary type="html"><![CDATA[On the 14/15th March, university orienteers from across the UK travelled to Wales for the annual British Universities and Colleges […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Orienteering Week]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56936</id>
-        <link href="https://www.scottish-orienteering.org/news/world-orienteering-week-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-orienteering-week-3"/>
-        <updated>2026-04-02T12:03:14.000Z</updated>
-        <summary type="html"><![CDATA[Well it’s that time of year again and World Orienteering Week will soon be upon us. Any event between 16th […]]]></summary>
-        <author>
-            <name>suzannerb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growing adult participation through ‘Learn to Orienteer’ courses]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56929</id>
-        <link href="https://www.scottish-orienteering.org/news/growing-adult-participation-through-learn-to-orienteer-courses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=growing-adult-participation-through-learn-to-orienteer-courses"/>
-        <updated>2026-04-02T10:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Throughout March, Scottish Orienteering has been excited to host three successful adult beginner “Learn to Orienteer” coaching days in Inverness, […]]]></summary>
         <author>
             <name>louise</name>
         </author>
