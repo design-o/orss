@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T12:41:27.412Z</updated>
+    <updated>2026-05-03T18:40:30.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dave Richardson RIP]]></title>
+        <id>https://www.orienteering.ie/?p=22446</id>
+        <link href="https://www.orienteering.ie/dave-richardson-rip/"/>
+        <updated>2026-05-03T12:46:19.000Z</updated>
+        <summary type="html"><![CDATA[It is with deep regret that we share the very sad news of the sudden death of our dear friend Dave Richardson. Dave, who was known to many, was a keen and passionate orienteer who died while controlling for the Irish classic distance championships. The orienteering community wish to extend their deepest sympathies to his […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Registration Open | 2026 Masters Nationals | Sept 25-27]]></title>
         <id>https://neooc.com/?p=50280</id>
@@ -664,25 +674,6 @@ The post Recheck the Fixtures List appeared first on NI Orienteering Association
         <summary type="html"><![CDATA[The 2026 Jan Kjellstrom International Festival managed to dodge the worst of Storm Dave to deliver a quality Middle distance […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Jan Kjellstrom International Festival returns to Scotland]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56960</id>
-        <link href="https://www.scottish-orienteering.org/news/the-jan-kjellstrom-international-festival-returns-to-scotland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-jan-kjellstrom-international-festival-returns-to-scotland"/>
-        <updated>2026-04-04T06:40:08.000Z</updated>
-        <summary type="html"><![CDATA[All roads will lead to Perthshire this Easter weekend, as the largest event in the UK, the Jan Kjellstrom International […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorious Vics at Aus Champs in Tassie]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15578</id>
-        <link href="https://www.vicorienteering.asn.au/victorious-vics-at-aus-champs-in-tassie/"/>
-        <updated>2026-04-04T02:53:55.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

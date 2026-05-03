@@ -268,16 +268,6 @@
           "wordCount": 1199,
           "title": "First Discover Orienteering Day Held in Victoria",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15578",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorious-vics-at-aus-champs-in-tassie/",
-          "publishedOn": "2026-04-04T02:53:55.000Z",
-          "wordCount": 1533,
-          "title": "Victorious Vics at Aus Champs in Tassie",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -286,6 +276,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22446",
+          "author": "Operations Manager",
+          "description": "It is with deep regret that we share the very sad news of the sudden death of our dear friend Dave Richardson. Dave, who was known to many, was a keen and passionate orienteer who died while controlling for the Irish classic distance championships. The orienteering community wish to extend their deepest sympathies to his […]",
+          "link": "https://www.orienteering.ie/dave-richardson-rip/",
+          "publishedOn": "2026-05-03T12:46:19.000Z",
+          "wordCount": 887,
+          "title": "Dave Richardson RIP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=22431",
           "author": "Deirdre",
@@ -743,16 +743,6 @@
           "wordCount": 2246,
           "title": "2026 JK Middle dodges the worst of Storm Dave",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/y7-868x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56960",
-          "author": "nikkihoward",
-          "description": "All roads will lead to Perthshire this Easter weekend, as the largest event in the UK, the Jan Kjellstrom International […]",
-          "link": "https://www.scottish-orienteering.org/news/the-jan-kjellstrom-international-festival-returns-to-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=the-jan-kjellstrom-international-festival-returns-to-scotland",
-          "publishedOn": "2026-04-04T06:40:08.000Z",
-          "wordCount": 2533,
-          "title": "The Jan Kjellstrom International Festival returns to Scotland",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/Elite-Winners-1024x768.jpg"
         }
       ]
     },
