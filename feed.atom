@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T01:44:59.629Z</updated>
+    <updated>2026-05-04T08:13:13.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -231,6 +231,17 @@ ONZ AGM  |  2026 Draft Minutes first appeared on Orienteering New Zealand.]]>
 2026 World Cup Round 2 Team Selection first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15648</id>
+        <link href="https://www.vicorienteering.asn.au/sheep-stations-enduro/"/>
+        <updated>2026-04-30T06:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to play for Sheep Stations?  Take the EndurO Challenge on Saturday 9 May!
+Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge! first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -674,16 +685,6 @@ The post Recheck the Fixtures List appeared first on NI Orienteering Association
         <summary type="html"><![CDATA[Recap and Results NEOOC continued to celebrate our 50th anniversary year with a classic event held at our newest venue – Girdled Road Reservation (mapped 2024/5).  This is the first time we’ve held a classic competition at Girdled Road and the streams were flowing, wild turkeys were out, and spring was in the air.  New […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 JK Middle dodges the worst of Storm Dave]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56974</id>
-        <link href="https://www.scottish-orienteering.org/news/2026-jk-middle-dodges-the-worst-of-storm-dave/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-jk-middle-dodges-the-worst-of-storm-dave"/>
-        <updated>2026-04-04T17:50:32.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Jan Kjellstrom International Festival managed to dodge the worst of Storm Dave to deliver a quality Middle distance […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
