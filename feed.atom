@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T18:40:30.096Z</updated>
+    <updated>2026-05-04T01:44:59.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event/ Orienteering For Beginners – Ritchfield Heritage Preserve 5/17/26]]></title>
+        <id>https://neooc.com/?p=50287</id>
+        <link href="https://neooc.com/new-event-orienteering-for-beginners-ritchfield-heritage-preserve-5-17-26/"/>
+        <updated>2026-05-04T01:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering for Beginners Beginner-level Navigation Skills Course Orienteering 101   Overview Want to improve your on and off-trail navigation ability?  Looking for another way to immerse yourself in the natural world? Could you benefit from an adventure activity that maintains your fitness, both physical and mental? …An activity you can do for a lifetime. If, […]]]></summary>
+        <author>
+            <name>Jay Smink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dave Richardson RIP]]></title>
         <id>https://www.orienteering.ie/?p=22446</id>
