@@ -170,6 +170,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15661",
+          "author": "Debbie Dodd",
+          "description": "Don't miss a great double header weekend of orienteering in gold mining terrain in Castlemaine and Chewton\nDouble Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 May first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/vic-series-4-chewton-diggings-sunday-17-may/",
+          "publishedOn": "2026-05-05T07:11:51.000Z",
+          "wordCount": 1186,
+          "title": "Double Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15648",
           "author": "Debbie Dodd",
           "description": "Are you ready to play for Sheep Stations?  Take the EndurO Challenge on Saturday 9 May!\nSheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge! first appeared on Orienteering Victoria.",
@@ -187,6 +197,16 @@
           "publishedOn": "2026-04-30T06:44:23.000Z",
           "wordCount": 1172,
           "title": "Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15605",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/melbusho-2026/",
+          "publishedOn": "2026-04-26T01:27:33.000Z",
+          "wordCount": 1092,
+          "title": "MelbushO at Darebin Parklands, Sunday 24 May",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -636,16 +656,6 @@
           "wordCount": 1614,
           "title": "New Event | NEOOC at the NE Ohio Adventure Fest | Saturday, May 16th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=50036",
-          "author": "Jay Smink",
-          "description": "Recap and Results NEOOC continued to celebrate our 50th anniversary year with a classic event held at our newest venue – Girdled Road Reservation (mapped 2024/5).  This is the first time we’ve held a classic competition at Girdled Road and the streams were flowing, wild turkeys were out, and spring was in the air.  New […]",
-          "link": "https://neooc.com/results-2026-girdled-road-classic-girdled-road-chardon-saturday-april-4/",
-          "publishedOn": "2026-04-05T16:28:56.000Z",
-          "wordCount": 2010,
-          "title": "Results| 2026 Girdled Road Classic | Girdled Road – Chardon | Saturday, April 4",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
         }
       ]
     },
@@ -753,16 +763,6 @@
           "wordCount": 2207,
           "title": "Snowy relays see Scottish podiums",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=56984",
-          "author": "nikkihoward",
-          "description": "Scottish orienteers showed real determination to ensure that the 2026 Jan Kjellstrom Festival Long race went ahead, and were rewarded […]",
-          "link": "https://www.scottish-orienteering.org/news/2026-jk-long-all-four-seasons-in-one-day/?utm_source=rss&utm_medium=rss&utm_campaign=2026-jk-long-all-four-seasons-in-one-day",
-          "publishedOn": "2026-04-05T19:09:19.000Z",
-          "wordCount": 2455,
-          "title": "2026 JK Long – all four seasons in one day",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/Women-21E-1024x768.jpg"
         }
       ]
     },

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T01:45:47.668Z</updated>
+    <updated>2026-05-05T07:51:24.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Double Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15661</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-4-chewton-diggings-sunday-17-may/"/>
+        <updated>2026-05-05T07:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss a great double header weekend of orienteering in gold mining terrain in Castlemaine and Chewton
+Double Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK Nuts 2026 Results]]></title>
         <id>https://slow.org.uk/?p=24254</id>
@@ -325,6 +336,15 @@ The post Jobs – Club Development Officer, Fermanagh and Omagh appeared first o
         <summary type="html"><![CDATA[Tino Polsini (SUI) and Hanna Lundberg (SWE) took the victories in Friday’s invidual sprint, while Norway won Saturday’s sprint relay ahead of Sweden and Switzerland. The weekend finished off with the Knock-Out Sprint on Sunday, where Kasper Harlem Fosser (NOR) and Hedvig Valbjorn Gydesen (DEN) took the victories. For Polsini, the new season started as the last ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelbushO at Darebin Parklands, Sunday 24 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15605</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
+        <updated>2026-04-26T01:27:33.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -675,26 +695,6 @@ WUOC Men’s Selections | Provisional first appeared on Orienteering New Zealand
 The post Recheck the Fixtures List appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 JK Long – all four seasons in one day]]></title>
-        <id>https://www.scottish-orienteering.org/?p=56984</id>
-        <link href="https://www.scottish-orienteering.org/news/2026-jk-long-all-four-seasons-in-one-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-jk-long-all-four-seasons-in-one-day"/>
-        <updated>2026-04-05T19:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Scottish orienteers showed real determination to ensure that the 2026 Jan Kjellstrom Festival Long race went ahead, and were rewarded […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results| 2026 Girdled Road Classic | Girdled Road – Chardon | Saturday, April 4]]></title>
-        <id>https://neooc.com/?p=50036</id>
-        <link href="https://neooc.com/results-2026-girdled-road-classic-girdled-road-chardon-saturday-april-4/"/>
-        <updated>2026-04-05T16:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Recap and Results NEOOC continued to celebrate our 50th anniversary year with a classic event held at our newest venue – Girdled Road Reservation (mapped 2024/5).  This is the first time we’ve held a classic competition at Girdled Road and the streams were flowing, wild turkeys were out, and spring was in the air.  New […]]]></summary>
-        <author>
-            <name>Jay Smink</name>
         </author>
     </entry>
     <entry>
