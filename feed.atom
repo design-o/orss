@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T19:10:24.683Z</updated>
+    <updated>2026-05-05T01:45:47.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OK Nuts 2026 Results]]></title>
+        <id>https://slow.org.uk/?p=24254</id>
+        <link href="https://slow.org.uk/racereports/ok-nuts-2026-results/"/>
+        <updated>2026-05-04T20:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Trophy Winners Officials’ Comments Organiser – Charlie Turner This year’s OK Nuts entry numbers were greater than expected and although 6 days ago we ordered [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event/ Orienteering For Beginners – Ritchfield Heritage Preserve 5/17/26]]></title>
         <id>https://neooc.com/?p=50287</id>
