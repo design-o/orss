@@ -608,6 +608,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=50301",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th",
+          "link": "https://neooc.com/new-event-fallsquest-2026-cuyahoga-falls-oh-sunday-may-24th/",
+          "publishedOn": "2026-05-06T19:15:23.000Z",
+          "wordCount": 1584,
+          "title": "New Event | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2015/10/Cuyahoga_Falls.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=50287",
           "author": "Jay Smink",
           "description": "Orienteering for Beginners Beginner-level Navigation Skills Course Orienteering 101   Overview Want to improve your on and off-trail navigation ability?  Looking for another way to immerse yourself in the natural world? Could you benefit from an adventure activity that maintains your fitness, both physical and mental? …An activity you can do for a lifetime. If, […]",
