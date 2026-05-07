@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T01:49:06.304Z</updated>
+    <updated>2026-05-07T08:11:08.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Australian MTBO Team for World MTBO Championships Team Announced]]></title>
+        <id>https://orienteering.asn.au/?p=16051</id>
+        <link href="https://orienteering.asn.au/2026-australian-mtbo-team-for-world-mtbo-championships-team-announced/"/>
+        <updated>2026-05-07T07:34:12.000Z</updated>
+        <summary type="html"><![CDATA[The Australian MTBO Team to compete at the 2026 Junior and Elite World MTB Orienteering Championships in Sweden from 24-30 August has been decided.
+2026 Australian MTBO Team for World MTBO Championships Team Announced first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Silva Medal Progress Points After 3 Events]]></title>
+        <id>https://orienteering.asn.au/?p=16047</id>
+        <link href="https://orienteering.asn.au/2026-silva-medal-progress-points/"/>
+        <updated>2026-05-07T07:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Progress points for the Silva Medal 2026 are now available after the three events.
+2026 Silva Medal Progress Points After 3 Events first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></title>
         <id>https://neooc.com/?p=50301</id>
