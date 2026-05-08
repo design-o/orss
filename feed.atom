@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T13:04:21.520Z</updated>
+    <updated>2026-05-08T19:01:17.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[London City Race 2026]]></title>
+        <id>https://slow.org.uk/?p=24278</id>
+        <link href="https://slow.org.uk/events/london-city-race-2026/"/>
+        <updated>2026-05-08T13:53:54.000Z</updated>
+        <summary type="html"><![CDATA[The 17th London City Race takes place on Saturday 19th September 2026 in Bermondsey, featuring substantial newly mapped areas never before used for Orienteering. There [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Australian MTBO Team for World MTBO Championships Team Announced]]></title>
         <id>https://orienteering.asn.au/?p=16051</id>
