@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T01:48:22.346Z</updated>
+    <updated>2026-05-10T07:52:46.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results| 2026 Quail Hollow Classic | Quail Hollow – Hartsville | Saturday, May 9]]></title>
+        <id>https://neooc.com/?p=50318</id>
+        <link href="https://neooc.com/results-2026-quail-hollow-classic-quail-hollow-hartsville-saturday-may-9/"/>
+        <updated>2026-05-10T02:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Recap and Results NEOOC continued to celebrate our 50th anniversary year with our first competitive event in Stark Parks this year .   We’ve been here many times, but this was our first classic at QH in 4 years. The streams were flowing, trails were sloppy, and the foilage is still manageable.   It is the first […]]]></summary>
+        <author>
+            <name>Jay Smink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NICS Magilligan – Entries Close Tomorrow!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7360</id>
