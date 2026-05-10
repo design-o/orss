@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T18:42:12.330Z</updated>
+    <updated>2026-05-10T01:48:22.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICS Magilligan – Entries Close Tomorrow!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7360</id>
+        <link href="https://www.niorienteering.org.uk/nics-magilligan-entries-close-tomorrow/"/>
+        <updated>2026-05-09T19:00:14.000Z</updated>
+        <summary type="html"><![CDATA[🏃‍♀️‍➡️🏖️Magilligan Sand Dunes – Sun 17 May With views out to the Atlantic and the amazing back drop of Binevenagh this is such a stunning area to have the privilege to run in. It is also a fantastic area to test your physical and technical...
+The post NICS Magilligan – Entries Close Tomorrow! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[London City Race 2026]]></title>
         <id>https://slow.org.uk/?p=24278</id>
@@ -617,16 +628,6 @@ NOL 2026 Season Standings first appeared on Orienteering Australia.]]></summary>
         <updated>2026-04-11T02:13:44.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Ireland AGM 2026]]></title>
-        <id>https://www.orienteering.ie/?p=22344</id>
-        <link href="https://www.orienteering.ie/orienteering-ireland-agm-2026/"/>
-        <updated>2026-04-10T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland’s 2026 AGM will take place on Sunday May 3rd at 6.00pm in the Sports Hall, Carrigboy National School, Durrus (Eircode P75 DN24) after the IOC2026 Classic Event in Rosskerrig. Pin for event here. The agenda, reports (as they become available) and other info can all be found here.]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
