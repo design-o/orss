@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T12:50:38.247Z</updated>
+    <updated>2026-05-10T18:43:18.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICS Magilligan – Entries CLOSE TODAY at 9.30pm!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7363</id>
+        <link href="https://www.niorienteering.org.uk/nics-magilligan-entries-close-today-at-9-30pm/"/>
+        <updated>2026-05-10T14:30:10.000Z</updated>
+        <summary type="html"><![CDATA[🏃‍♀️‍➡️🏖️Magilligan Sand Dunes – Sun 17 May With views out to the Atlantic and the amazing back drop of Binevenagh this is such a stunning area to have the privilege to run in. It is also a fantastic area to test your physical and technical...
+The post NICS Magilligan – Entries CLOSE TODAY at 9.30pm! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| 2026 Quail Hollow Classic | Quail Hollow – Hartsville | Saturday, May 9]]></title>
         <id>https://neooc.com/?p=50318</id>
@@ -616,26 +627,6 @@ WOC Final Men’s Team members named first appeared on Orienteering New Zealand.
         <updated>2026-04-14T01:27:33.000Z</updated>
         <summary type="html"><![CDATA[Maroondah Reservoir MelbushO, planned for Sunday 19 April, has been postponed, with a new date to be announced.
 MelbushO at Maroondah Reservoir POSTPONED first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOL 2026 Season Standings]]></title>
-        <id>https://orienteering.asn.au/?p=15917</id>
-        <link href="https://orienteering.asn.au/nol-2026-season-standings/"/>
-        <updated>2026-04-11T05:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Following the Australian Championships in Tasmania, below are the top 3 individual and team standings.
-NOL 2026 Season Standings first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn To Orienteer in Castlemaine, April-May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15559</id>
-        <link href="https://www.vicorienteering.asn.au/lear-to-orienteer-in-castlemaine-april-may/"/>
-        <updated>2026-04-11T02:13:44.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
