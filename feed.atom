@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T08:54:42.101Z</updated>
+    <updated>2026-05-11T14:20:39.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Ireland AGM 2026 – Rescheduled]]></title>
+        <id>https://www.orienteering.ie/?p=22344</id>
+        <link href="https://www.orienteering.ie/orienteering-ireland-agm-2026/"/>
+        <updated>2026-05-11T09:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland’s 2026 rescheduled AGM will take place online at 8pm on the 4th of June. An invite code has been sent out to Club Secretaries for this online meeting and we encourage all members to attend to have your chance to hear about how our NGB, and our sport has been doing over the […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NICS Magilligan – Entries CLOSE TODAY at 9.30pm!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7363</id>
