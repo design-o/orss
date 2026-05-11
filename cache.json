@@ -344,6 +344,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24282",
+          "author": "James Gjertsen",
+          "description": "The second race in the 2026 Park Race series will be at Burgess Park, south London, on Tuesday 26th May. Race Centre The race will [...]",
+          "link": "https://slow.org.uk/events/park-race-burgess-park/",
+          "publishedOn": "2026-05-11T16:50:32.000Z",
+          "wordCount": 2125,
+          "title": "Park Race – Burgess Park",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Burgess-Park-Southwark-council-480.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24278",
           "author": "Steve Clelland",
           "description": "The 17th London City Race takes place on Saturday 19th September 2026 in Bermondsey, featuring substantial newly mapped areas never before used for Orienteering. There [...]",

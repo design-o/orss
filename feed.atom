@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T14:20:39.933Z</updated>
+    <updated>2026-05-11T19:24:28.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Burgess Park]]></title>
+        <id>https://slow.org.uk/?p=24282</id>
+        <link href="https://slow.org.uk/events/park-race-burgess-park/"/>
+        <updated>2026-05-11T16:50:32.000Z</updated>
+        <summary type="html"><![CDATA[The second race in the 2026 Park Race series will be at Burgess Park, south London, on Tuesday 26th May. Race Centre The race will [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Ireland AGM 2026 – Rescheduled]]></title>
         <id>https://www.orienteering.ie/?p=22344</id>
