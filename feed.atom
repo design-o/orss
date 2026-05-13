@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T01:56:42.406Z</updated>
+    <updated>2026-05-13T08:31:39.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finsbury Park Street-O Results]]></title>
+        <id>https://slow.org.uk/?p=24301</id>
+        <link href="https://slow.org.uk/streeto/finsbury-street-o-25-results/"/>
+        <updated>2026-05-13T07:53:02.000Z</updated>
+        <summary type="html"><![CDATA[That concludes the 2025-26 Street-O series! Thank you Gabriel for organising the finale around Arsenal and Stoke Newington. It was lovely exploring the green spaces [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Burgess Park]]></title>
         <id>https://slow.org.uk/?p=24282</id>
