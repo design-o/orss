@@ -344,6 +344,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24305",
+          "author": "James Gjertsen",
+          "description": "The fourth race in the 2026 Park Race series will be at Peckham Rye, south London, on Tuesday 9th June. Race Centre The race will [...]",
+          "link": "https://slow.org.uk/events/park-race-peckham-rye/",
+          "publishedOn": "2026-05-13T18:35:41.000Z",
+          "wordCount": 2182,
+          "title": "Park Race – Peckham Rye",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/peckhamryeresults/files/4701177410_c2669d6018_b.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24301",
           "author": "vinh",
           "description": "That concludes the 2025-26 Street-O series! Thank you Gabriel for organising the finale around Arsenal and Stoke Newington. It was lovely exploring the green spaces [...]",
@@ -654,6 +664,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57143",
+          "author": "nikkihoward",
+          "description": "Scottish Orienteering is proud to support Clean Sport Week (taking place this week – 11–17 May 2026), the annual awareness […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-orienteering-backs-uk-anti-dopings-clean-sport-week-2026-built-not-bought-100-me/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-orienteering-backs-uk-anti-dopings-clean-sport-week-2026-built-not-bought-100-me",
+          "publishedOn": "2026-05-13T15:54:01.000Z",
+          "wordCount": 1706,
+          "title": "Scottish Orienteering backs UK Anti-Doping’s Clean Sport Week 2026 : Built not bought. 100% me.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57138",
+          "author": "nikkihoward",
+          "description": "Following on the success of the Capture the Flag game at the Scottish Championships in Barry Buddon last year, we […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-get-together-and-games-at-scottish-championship/?utm_source=rss&utm_medium=rss&utm_campaign=junior-get-together-and-games-at-scottish-championship",
+          "publishedOn": "2026-05-13T15:45:35.000Z",
+          "wordCount": 1702,
+          "title": "Junior Get Together and Games at Scottish Championship",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/PXL_20250615_1007379442-1-1024x513.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57121",
           "author": "nikkihoward",
