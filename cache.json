@@ -268,16 +268,6 @@
           "wordCount": 1022,
           "title": "Learn To Orienteer in Melbourne",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15605",
-          "author": "Debbie Dodd",
-          "description": "Maroondah Reservoir MelbushO, planned for Sunday 19 April, has been postponed, with a new date to be announced.\nMelbushO at Maroondah Reservoir POSTPONED first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbusho-at-maroondah-reservoir-postponed/",
-          "publishedOn": "2026-04-14T01:27:33.000Z",
-          "wordCount": 941,
-          "title": "MelbushO at Maroondah Reservoir POSTPONED",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -286,6 +276,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22480",
+          "author": "Deirdre",
+          "description": "The following team selections have been made for this years big summer Orienteering events: European Youth Orienteering Championships (EYOC, Slovenia, 25-27 June) M16 W16 M18 W18 Junior World Championships (JWOC, Sweden, 29 June -04 July) M20 W20 Junior European Cup (JEC – Switzerland, 2-4 October) W20 W18 M20 M18 Congratulations to those selected, and hard […]",
+          "link": "https://www.orienteering.ie/junior-team-selections-2026/",
+          "publishedOn": "2026-05-13T13:35:20.000Z",
+          "wordCount": 1104,
+          "title": "Junior Team Selections 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=22344",
           "author": "Operations Manager",
