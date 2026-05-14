@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T08:24:56.768Z</updated>
+    <updated>2026-05-14T13:25:59.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Opportunities for all to improve their orienteering and to help others improve!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57131</id>
+        <link href="https://www.scottish-orienteering.org/news/opportunities-for-all-to-improve-their-orienteering-and-to-help-others-improve/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunities-for-all-to-improve-their-orienteering-and-to-help-others-improve"/>
+        <updated>2026-05-14T11:21:39.000Z</updated>
+        <summary type="html"><![CDATA[We tend to all have our aims when we enter events – we can’t all win, but often have aims […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Peckham Rye]]></title>
         <id>https://slow.org.uk/?p=24305</id>
