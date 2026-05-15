@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T19:25:34.645Z</updated>
+    <updated>2026-05-15T01:58:22.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -667,26 +667,6 @@ Selection Notice | 2026 World Cup Round 3 first appeared on Orienteering New Zea
         <summary type="html"><![CDATA[This week saw the retiral of our Coaching and Volunteer Officer, Suzanne Robins-Bird who joined SOA, initially on a short […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Download April 2026]]></title>
-        <id>https://www.orienteering.ie/?p=22362</id>
-        <link href="https://www.orienteering.ie/the-download-april-2026/"/>
-        <updated>2026-04-15T12:57:15.000Z</updated>
-        <summary type="html"><![CDATA[The April edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland:]]></summary>
-        <author>
-            <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tottenham Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=24218</id>
-        <link href="https://slow.org.uk/streeto/tottenham-street-o-25-results/"/>
-        <updated>2026-04-15T08:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Well done to everyone who came to Tottenham on a lovely spring evening. Thank you Iris for organising and finding some lovely mural clues. Thanks [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
     <entry>
