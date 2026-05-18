@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T09:36:35.123Z</updated>
+    <updated>2026-05-18T14:49:52.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South West League Winners]]></title>
+        <id>https://www.orienteering.ie/?p=22491</id>
+        <link href="https://www.orienteering.ie/south-west-league-winners/"/>
+        <updated>2026-05-18T12:46:34.000Z</updated>
+        <summary type="html"><![CDATA[The south West League came to a close in Glenabo yesterday where prizes were awarded by Steve Perkins (BOC). Well done to everyone who took part in this fantastic regional series of orienteering events across Kerry & Cork, and to BOC, CorkO & KerryO for making some challenging and interesting courses over the past few […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The first two Scottish Orienteering League (SOL) events of 2026: Dunachton and Glen Dye]]></title>
         <id>https://www.scottish-orienteering.org/?p=57152</id>
@@ -656,17 +666,6 @@ Ballarat Anzac Weekend, 25-26 April – Final Bulletin and NOL Start Lists Publi
 Learn To Orienteer in Melbourne first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Notice | 2026 World Cup Round 3]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65616</id>
-        <link href="https://www.orienteering.org.nz/news/selection-notice-2026-world-cup-round-3/"/>
-        <updated>2026-04-19T00:35:27.000Z</updated>
-        <summary type="html"><![CDATA[The third round of the 2026 IOF World Cup will be held in Vyšší Brod, Czechia from 5-9 August 2026. The programme will consist of a long distance, middle distance and relay. New Zealand is entitled to enter up to 8 men and 8 women in all individual competitions and up to 3 teams per […]
-Selection Notice | 2026 World Cup Round 3 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>

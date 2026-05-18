@@ -277,6 +277,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22491",
+          "author": "Operations Manager",
+          "description": "The south West League came to a close in Glenabo yesterday where prizes were awarded by Steve Perkins (BOC). Well done to everyone who took part in this fantastic regional series of orienteering events across Kerry & Cork, and to BOC, CorkO & KerryO for making some challenging and interesting courses over the past few […]",
+          "link": "https://www.orienteering.ie/south-west-league-winners/",
+          "publishedOn": "2026-05-18T12:46:34.000Z",
+          "wordCount": 948,
+          "title": "South West League Winners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22480",
           "author": "Deirdre",
           "description": "The following team selections have been made for this years big summer Orienteering events: European Youth Orienteering Championships (EYOC, Slovenia, 25-27 June) M16 W16 M18 W18 Junior World Championships (JWOC, Sweden, 29 June -04 July) M20 W20 Junior European Cup (JEC – Switzerland, 2-4 October) W20 W18 M20 M18 Congratulations to those selected, and hard […]",
@@ -559,16 +569,6 @@
           "wordCount": 2422,
           "title": "MTBO AUS/NZ Challenge | Selection Notice | Ballarat, Victoria 8-11 October 2026",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/04/Screenshot-738.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=65616",
-          "author": "Christo Peters",
-          "description": "The third round of the 2026 IOF World Cup will be held in Vyšší Brod, Czechia from 5-9 August 2026. The programme will consist of a long distance, middle distance and relay. New Zealand is entitled to enter up to 8 men and 8 women in all individual competitions and up to 3 teams per […]\nSelection Notice | 2026 World Cup Round 3 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-2026-world-cup-round-3/",
-          "publishedOn": "2026-04-19T00:35:27.000Z",
-          "wordCount": 2335,
-          "title": "Selection Notice | 2026 World Cup Round 3",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/04/2026-World-Cup-3-logo.png"
         }
       ]
     },
