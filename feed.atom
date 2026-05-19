@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T02:04:35.883Z</updated>
+    <updated>2026-05-19T08:55:09.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 WOC Team Selection]]></title>
+        <id>https://orienteering.asn.au/?p=16097</id>
+        <link href="https://orienteering.asn.au/2026-woc-team-selection/"/>
+        <updated>2026-05-19T08:52:47.000Z</updated>
+        <summary type="html"><![CDATA[The selection panel has met and decided on the Australian WOC team to compete in the 2026 World Orienteering Championships (WOC) held in Genova, Italy from 6-11 July.
+2026 WOC Team Selection first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South West League Winners]]></title>
         <id>https://www.orienteering.ie/?p=22491</id>
