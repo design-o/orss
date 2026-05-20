@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T19:40:11.721Z</updated>
+    <updated>2026-05-20T02:03:01.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -693,17 +693,6 @@ Discover Orienteering first appeared on Orienteering Australia.]]></summary>
 Ballarat Anzac Weekend, 25-26 April – Final Bulletin and NOL Start Lists Published first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 World Cup Round 1 Team Selection]]></title>
-        <id>https://orienteering.asn.au/?p=15940</id>
-        <link href="https://orienteering.asn.au/2026-world-cup-round-1-team-selection/"/>
-        <updated>2026-04-20T12:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering World Cup Round 1 will be held in Switzerland from 24-26 April 2026. Across the three days, athletes will compete a Sprint (24 April), Sprint Relay (25 April) and Knock-Out Sprint (26 April) in Ascona Locarno- an area known as “Where Lake, Mountains and Mediterranean Spirit Meet”. The following athletes will be competing for […]
-2026 World Cup Round 1 Team Selection first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
