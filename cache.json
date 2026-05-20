@@ -190,6 +190,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15691",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/",
+          "publishedOn": "2026-05-10T04:15:51.000Z",
+          "wordCount": 989,
+          "title": "Victorians Selected For World Champs Teams",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15685",
           "author": "Debbie Dodd",
           "description": "",
@@ -607,6 +617,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=50392",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026",
+          "link": "https://neooc.com/new-event-2026-evening-cross-country-boston-run-trailhead-cvnp-friday-june-12th-2026/",
+          "publishedOn": "2026-05-20T03:01:48.000Z",
+          "wordCount": 1583,
+          "title": "New Event | 2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/05/IMG_20230714_161757984-scaled.jpg"
+        },
         {
           "id": "https://neooc.com/?p=50318",
           "author": "Jay Smink",

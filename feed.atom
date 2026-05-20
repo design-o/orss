@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T02:03:01.314Z</updated>
+    <updated>2026-05-20T08:50:32.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | 2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026]]></title>
+        <id>https://neooc.com/?p=50392</id>
+        <link href="https://neooc.com/new-event-2026-evening-cross-country-boston-run-trailhead-cvnp-friday-june-12th-2026/"/>
+        <updated>2026-05-20T03:01:48.000Z</updated>
+        <summary type="html"><![CDATA[2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 WOC Team Selection]]></title>
         <id>https://orienteering.asn.au/?p=16097</id>
@@ -146,6 +156,15 @@ Learn To Orienteer in Melbourne first appeared on Orienteering Victoria.]]></sum
 The post NICS Magilligan – Entries CLOSE TODAY at 9.30pm! appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians Selected For World Champs Teams]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15691</id>
+        <link href="https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/"/>
+        <updated>2026-05-10T04:15:51.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
