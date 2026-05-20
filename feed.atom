@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T08:50:32.683Z</updated>
+    <updated>2026-05-20T14:29:26.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -699,17 +699,6 @@ Discover Orienteering first appeared on Orienteering Australia.]]></summary>
         <id>https://www.vicorienteering.asn.au/?p=15641</id>
         <link href="https://www.vicorienteering.asn.au/victorian-secondary-schools-championships-friday-22-may/"/>
         <updated>2026-04-22T01:54:23.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat Anzac Weekend, 25-26 April – Final Bulletin and NOL Start Lists Published]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15567</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-orienteering-anzac-weekend-25-26-april/"/>
-        <updated>2026-04-21T01:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Get set for a great triple header Anzac weekend in Ballarat!  Online entries have been extended for public events.  The Final Bulletin is now available.
-Ballarat Anzac Weekend, 25-26 April – Final Bulletin and NOL Start Lists Published first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
