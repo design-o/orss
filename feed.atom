@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T08:53:06.380Z</updated>
+    <updated>2026-05-21T14:35:34.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -724,15 +724,6 @@ MTBO AUS/NZ Challenge | Selection Notice | Ballarat, Victoria 8-11 October 2026 
 Discover Orienteering first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Secondary Schools Championships, Friday 22 May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15641</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-secondary-schools-championships-friday-22-may/"/>
-        <updated>2026-04-22T01:54:23.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
