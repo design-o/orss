@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-23T01:54:49.722Z</updated>
+    <updated>2026-05-23T08:03:38.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -310,6 +310,17 @@ Double Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 M
         <summary type="html"><![CDATA[Trophy Winners Officials’ Comments Organiser – Charlie Turner This year’s OK Nuts entry numbers were greater than expected and although 6 days ago we ordered [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skill Up!  Saturday Afternoon Skills Sessions Start May 16]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15643</id>
+        <link href="https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/"/>
+        <updated>2026-05-04T04:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Come along to the first of four Skill Up club training sessions.  Go Beyond the Streets and try bush and mountain bike orienteering at your own pace.
+Skill Up!  Saturday Afternoon Skills Sessions Start May 16 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -671,26 +682,6 @@ MelbushO at Tikalara Park, Sunday May 2 first appeared on Orienteering Victoria.
         <summary type="html"><![CDATA[Congratulations to Morag McLuckie (Moravian Orienteering Club) and Katja Neumann (MAR Orienteering Club) who have both successfully completed the Scottish […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frank Martindale]]></title>
-        <id>https://www.orienteering.ie/?p=22406</id>
-        <link href="https://www.orienteering.ie/frank-martindale/"/>
-        <updated>2026-04-23T15:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Frank Martindale died on 22nd April 2026 in hospital in Cashel, Co.Tipperary. Frank was a former Chairman of IOA and was the person behind Tipperary Orienteers, a club based on his family. Frank produced several O-maps in the Galtees and the Glen of Aherlow. More recently he ran for Southdowns Orienteers in the UK and […]]]></summary>
-        <author>
-            <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Opening 2026 Locarno Ascona: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=21562</id>
-        <link href="https://news.worldofo.com/2026/04/23/world-cup-opening-2026-locarno-ascona-all-you-need-to-know/"/>
-        <updated>2026-04-23T15:02:29.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Orienteering World Cup starts in the Italian-speaking south of Switzerland on Friday with an individual sprint in Locarno. A sprint relay on Saturday and a Knock-Out Sprint on Sunday finish off the opening weekend. Locarno sits at the northern tip of Lake Maggiore, offering the kind of fast, technical sprint terrain that rewards sharp decision-making: ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>
