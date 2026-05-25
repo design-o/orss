@@ -160,6 +160,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15605",
+          "author": "Debbie Dodd",
+          "description": "Online entry closes on Friday 22 May for MelBushO at Darebin Parklands next Sunday\nMelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/melbusho-2026/",
+          "publishedOn": "2026-05-18T01:27:33.000Z",
+          "wordCount": 1178,
+          "title": "MelbushO at Darebin Parklands, Sunday 24 May",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15624",
           "author": "Debbie Dodd",
           "description": "The next Learn To Orienteer program in Melbourne is underway, and there is still time to sign up\nLearn To Orienteer in Melbourne first appeared on Orienteering Victoria.",
@@ -277,6 +287,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22515",
+          "author": "Operations Manager",
+          "description": "Best of luck to Niall McCarthy & Josh O’Sullivan-Hourihan who will be representing Ireland in the World Cup events this weekend. The city of Lidköping will host a weekend of challenging sprint orienteering. More info can be found here.",
+          "link": "https://www.orienteering.ie/hp-squad-take-on-world-cup-sprints/",
+          "publishedOn": "2026-05-25T16:10:48.000Z",
+          "wordCount": 852,
+          "title": "HP Squad take on World Cup Sprints!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22491",
           "author": "Operations Manager",
           "description": "The south West League came to a close in Glenabo yesterday where prizes were awarded by Steve Perkins (BOC). Well done to everyone who took part in this fantastic regional series of orienteering events across Kerry & Cork, and to BOC, CorkO & KerryO for making some challenging and interesting courses over the past few […]",
@@ -333,6 +353,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24334",
+          "author": "James Gjertsen",
+          "description": "The sixth race in the 2026 Park Race series will be in Waterloo, south London, on Tuesday 23rd June. The event will include both Archbishops [...]",
+          "link": "https://slow.org.uk/events/park-race-waterloo-parks-2/",
+          "publishedOn": "2026-05-25T15:14:46.000Z",
+          "wordCount": 2136,
+          "title": "Park Race – Waterloo Parks",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/events/waterloo-parks-2018/files/Geraldine-Mary-Harmsworth-Park.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24305",
           "author": "James Gjertsen",

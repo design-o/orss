@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T14:29:16.656Z</updated>
+    <updated>2026-05-25T19:12:42.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HP Squad take on World Cup Sprints!]]></title>
+        <id>https://www.orienteering.ie/?p=22515</id>
+        <link href="https://www.orienteering.ie/hp-squad-take-on-world-cup-sprints/"/>
+        <updated>2026-05-25T16:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Best of luck to Niall McCarthy & Josh O’Sullivan-Hourihan who will be representing Ireland in the World Cup events this weekend. The city of Lidköping will host a weekend of challenging sprint orienteering. More info can be found here.]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Waterloo Parks]]></title>
+        <id>https://slow.org.uk/?p=24334</id>
+        <link href="https://slow.org.uk/events/park-race-waterloo-parks-2/"/>
+        <updated>2026-05-25T15:14:46.000Z</updated>
+        <summary type="html"><![CDATA[The sixth race in the 2026 Park Race series will be in Waterloo, south London, on Tuesday 23rd June. The event will include both Archbishops [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></title>
         <id>https://neooc.com/?p=50408</id>
@@ -77,6 +97,17 @@ The Australian Orienteer: June 2026 Edition first appeared on Orienteering Austr
         <summary type="html"><![CDATA[The south West League came to a close in Glenabo yesterday where prizes were awarded by Steve Perkins (BOC). Well done to everyone who took part in this fantastic regional series of orienteering events across Kerry & Cork, and to BOC, CorkO & KerryO for making some challenging and interesting courses over the past few […]]]></summary>
         <author>
             <name>Operations Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelbushO at Darebin Parklands, Sunday 24 May]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15605</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
+        <updated>2026-05-18T01:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Online entry closes on Friday 22 May for MelBushO at Darebin Parklands next Sunday
+MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
