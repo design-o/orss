@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T02:08:48.938Z</updated>
+    <updated>2026-05-25T09:44:51.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></title>
+        <id>https://neooc.com/?p=50408</id>
+        <link href="https://neooc.com/results-fallsquest-2026-cuyahoga-falls-oh-sunday-may-24th/"/>
+        <updated>2026-05-25T02:48:26.000Z</updated>
+        <summary type="html"><![CDATA[FallsQuest 2026 Results Submitted by Bob Boltz, Event Director & Course Designer Participants in the 13th edition of this event enjoyed some of the best weather… not too warm, cloudy, and the occasional light drizzle that helped keep us cool.  Many thanks to Kathy Christy & Jay Smink for all they did to orchestrate our […]]]></summary>
+        <author>
+            <name>Bob Boltz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North West 3, Tough becoming slight moderate later, Fair, Good]]></title>
         <id>https://www.niorienteering.org.uk/?p=7382</id>
