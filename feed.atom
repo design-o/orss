@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T09:32:33.379Z</updated>
+    <updated>2026-05-26T14:34:57.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -695,15 +695,6 @@ The post Jobs – Club Development Officer, Fermanagh and Omagh appeared first o
         <summary type="html"><![CDATA[Tino Polsini (SUI) and Hanna Lundberg (SWE) took the victories in Friday’s invidual sprint, while Norway won Saturday’s sprint relay ahead of Sweden and Switzerland. The weekend finished off with the Knock-Out Sprint on Sunday, where Kasper Harlem Fosser (NOR) and Hedvig Valbjorn Gydesen (DEN) took the victories. For Polsini, the new season started as the last ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Secondary Schools Championships, Friday 22 May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15641</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-secondary-schools-championships-friday-22-may/"/>
-        <updated>2026-04-27T01:54:23.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
