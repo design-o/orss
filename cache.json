@@ -141,18 +141,7 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": [
-        {
-          "id": "http://news.worldofo.com/?p=21569",
-          "author": "Jan Kocbach",
-          "description": "Tino Polsini (SUI) and Hanna Lundberg (SWE) took the victories in Friday’s invidual sprint, while Norway won Saturday’s sprint relay ahead of Sweden and Switzerland. The weekend finished off with the Knock-Out Sprint on Sunday, where Kasper Harlem Fosser (NOR) and Hedvig Valbjorn Gydesen (DEN) took the victories. For Polsini, the new season started as the last ...",
-          "link": "https://news.worldofo.com/2026/04/27/world-cup-opening-2026-locarno-ascona-maps-and-results/",
-          "publishedOn": "2026-04-27T03:00:45.000Z",
-          "wordCount": 2830,
-          "title": "World Cup Opening 2026 Locarno Ascona: Maps and Results",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/04/2026-04-27-01_04_10-GPS-seuranta-_-WC-2026-Locarno-Sprint-Men-660x330.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News | Orienteering Victoria",
@@ -353,6 +342,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24337",
+          "author": "James Gjertsen",
+          "description": "Thanks for joining for the first SLOW event in this year’s Park Race Series, on this the hottest day in May on record no less! [...]",
+          "link": "https://slow.org.uk/racereports/burgess-park-race-results/",
+          "publishedOn": "2026-05-26T22:00:05.000Z",
+          "wordCount": 1687,
+          "title": "Burgess Park Race Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Burgess-Park-Underpass.png"
+        },
         {
           "id": "https://slow.org.uk/?p=24334",
           "author": "James Gjertsen",

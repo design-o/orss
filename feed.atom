@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T14:34:57.066Z</updated>
+    <updated>2026-05-27T02:08:39.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Burgess Park Race Results]]></title>
+        <id>https://slow.org.uk/?p=24337</id>
+        <link href="https://slow.org.uk/racereports/burgess-park-race-results/"/>
+        <updated>2026-05-26T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for joining for the first SLOW event in this year’s Park Race Series, on this the hottest day in May on record no less! [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15707</id>
@@ -685,16 +695,6 @@ The post Jobs – Club Development Officer, Fermanagh and Omagh appeared first o
         <summary type="html"><![CDATA[April’s Community Conversation had a theme of marketing and outreach to newcomers. SOA comms & marketing Director, Katherine Ivory, started […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Opening 2026 Locarno Ascona: Maps and Results]]></title>
-        <id>http://news.worldofo.com/?p=21569</id>
-        <link href="https://news.worldofo.com/2026/04/27/world-cup-opening-2026-locarno-ascona-maps-and-results/"/>
-        <updated>2026-04-27T03:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Tino Polsini (SUI) and Hanna Lundberg (SWE) took the victories in Friday’s invidual sprint, while Norway won Saturday’s sprint relay ahead of Sweden and Switzerland. The weekend finished off with the Knock-Out Sprint on Sunday, where Kasper Harlem Fosser (NOR) and Hedvig Valbjorn Gydesen (DEN) took the victories. For Polsini, the new season started as the last ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>
