@@ -141,7 +141,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21585",
+          "author": "Jan Kocbach",
+          "description": "The 2026 Orienteering World Cup continues in Skara-Lidköping (Sweden) this week with another full set of urban races: a Knock-Out Sprint on Thursday May 28th, an Individual Sprint on Saturday and a Sprint Relay on Sunday. This is the last World Cup round before the World Orienteering Championships (WOC) Sprint, which is organized in Genova, Italy in July.  The ...",
+          "link": "https://news.worldofo.com/2026/05/27/world-cup-sweden-2026-all-you-need-to-know/",
+          "publishedOn": "2026-05-27T03:00:47.000Z",
+          "wordCount": 1877,
+          "title": "World Cup Sweden 2026: All You Need To Know",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/05/2026-05-27-01_36_05-eventor.orienteering.sport_Documents_Event_9166_1_Skara-old-map-Skaraberg-660x330.jpg"
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
@@ -712,26 +723,6 @@
           "wordCount": 1702,
           "title": "Junior Get Together and Games at Scottish Championship",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/06/PXL_20250615_1007379442-1-1024x513.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57121",
-          "author": "nikkihoward",
-          "description": "Over the past few years the SOA has organised a Club Networking Day with the aim to provide the opportunity […]",
-          "link": "https://www.scottish-orienteering.org/news/club-networking-events-save-the-date/?utm_source=rss&utm_medium=rss&utm_campaign=club-networking-events-save-the-date",
-          "publishedOn": "2026-04-27T14:33:58.000Z",
-          "wordCount": 1707,
-          "title": "Club Networking Events – Save the date!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2025/09/IMG_0944-1024x694.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57115",
-          "author": "nikkihoward",
-          "description": "April’s Community Conversation had a theme of marketing and outreach to newcomers. SOA comms & marketing Director, Katherine Ivory, started […]",
-          "link": "https://www.scottish-orienteering.org/news/how-can-we-reach-wider-audiences-effectively-aprils-community-conversation/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-we-reach-wider-audiences-effectively-aprils-community-conversation",
-          "publishedOn": "2026-04-27T14:19:41.000Z",
-          "wordCount": 2187,
-          "title": "How can we reach wider audiences effectively? – April’s Community Conversation",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/Screenshot-2026-04-27-150856.png"
         }
       ]
     },
@@ -779,16 +770,6 @@
           "wordCount": 4388,
           "title": "NI Colour Series 3 – Entries now open!",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/05/Mag-female.png"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7346",
-          "author": "Richard Gamble",
-          "description": "Fermanagh Orienteers are excited to announce that they are looking to employ a Club Development Officer (CDO) on a 0.2FT capacity, starting June 2026. The days/hours worked will be flexible and equivalent to 1 day per week. Presently the position is for 1 year with...\nThe post Jobs – Club Development Officer, Fermanagh and Omagh appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/jobs-club-development-officer-fermanagh-and-omagh/",
-          "publishedOn": "2026-04-27T15:53:00.000Z",
-          "wordCount": 4335,
-          "title": "Jobs – Club Development Officer, Fermanagh and Omagh",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/04/Fermo-Job-description-poster-1.png"
         }
       ]
     },
