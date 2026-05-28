@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-27T19:56:36.323Z</updated>
+    <updated>2026-05-28T01:51:41.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -664,16 +664,6 @@ Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge! fir
 Park Street Update, May 5-11 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOC 2026 – Final Bulletin Published]]></title>
-        <id>https://www.orienteering.ie/?p=22431</id>
-        <link href="https://www.orienteering.ie/ioc-2026-final-bulletin-published/"/>
-        <updated>2026-04-28T12:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Bulletin #2 – the final bulletin ahead of this weekend’s Irish Orienteering Championships has now been published on the News section of the IOC website: https://ioc.orienteering.ie/irish-orienteering-champs. Please pay close attention to the transport plan and the course information, as some details have changed since Bulletin #1 was published. In particular, it is important to understand […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
