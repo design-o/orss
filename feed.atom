@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T14:34:35.690Z</updated>
+    <updated>2026-05-29T20:04:55.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -640,28 +640,6 @@ ONZ AGM  |  2026 Draft Minutes first appeared on Orienteering New Zealand.]]>
 2026 World Cup Round 2 Team Selection first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15648</id>
-        <link href="https://www.vicorienteering.asn.au/sheep-stations-enduro/"/>
-        <updated>2026-04-30T06:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to play for Sheep Stations?  Take the EndurO Challenge on Saturday 9 May!
-Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15648</id>
-        <link href="https://www.vicorienteering.asn.au/sheep-stations-enduro-saturday-9-may-glen-waverley-take-the-challenge/"/>
-        <updated>2026-04-30T06:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to play for Sheep Stations?  Take the EndurO Challenge on Saturday 9 May!
-Sheep Stations EndurO, Saturday 9 May, Glen Waverley – Take The Challenge! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
