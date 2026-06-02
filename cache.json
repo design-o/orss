@@ -606,16 +606,6 @@
           "wordCount": 1584,
           "title": "New Event | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/10/Cuyahoga_Falls.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=50287",
-          "author": "Jay Smink",
-          "description": "Orienteering for Beginners Beginner-level Navigation Skills Course Orienteering 101   Overview Want to improve your on and off-trail navigation ability?  Looking for another way to immerse yourself in the natural world? Could you benefit from an adventure activity that maintains your fitness, both physical and mental? …An activity you can do for a lifetime. If, […]",
-          "link": "https://neooc.com/new-event-orienteering-for-beginners-ritchfield-heritage-preserve-5-17-26/",
-          "publishedOn": "2026-05-04T01:37:05.000Z",
-          "wordCount": 2105,
-          "title": "New Event/ Orienteering For Beginners – Ritchfield Heritage Preserve 5/17/26",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/03/rhp-mill-logo.jpg"
         }
       ]
     },
@@ -624,6 +614,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57300",
+          "author": "louise",
+          "description": "The May instalment of our Community Conversation series once again brought together members (as well as a visitor from Canada!) […]",
+          "link": "https://www.scottish-orienteering.org/news/may-community-conversation-creating-a-welcoming-environment/?utm_source=rss&utm_medium=rss&utm_campaign=may-community-conversation-creating-a-welcoming-environment",
+          "publishedOn": "2026-06-02T12:10:27.000Z",
+          "wordCount": 2152,
+          "title": "May Community Conversation: Creating a Welcoming Environment",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57190",
           "author": "nikkihoward",
