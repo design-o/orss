@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T15:54:19.183Z</updated>
+    <updated>2026-06-02T20:32:17.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -596,17 +596,6 @@ Double Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 M
         <summary type="html"><![CDATA[Trophy Winners Officials’ Comments Organiser – Charlie Turner This year’s OK Nuts entry numbers were greater than expected and although 6 days ago we ordered [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skill Up!  Saturday Afternoon Skills Sessions Start May 16]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15643</id>
-        <link href="https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/"/>
-        <updated>2026-05-04T04:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Come along to the first of four Skill Up club training sessions.  Go Beyond the Streets and try bush and mountain bike orienteering at your own pace.
-Skill Up!  Saturday Afternoon Skills Sessions Start May 16 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
