@@ -160,6 +160,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15746",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/oceania-champs-entries-now-open/",
+          "publishedOn": "2026-05-28T06:20:09.000Z",
+          "wordCount": 1132,
+          "title": "Oceania Champs Entries Now Open",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15707",
           "author": "Debbie Dodd",
           "description": "The next Vic Series event is on Sunday June 7 at Eppalock South. Entries are open now - don't miss this Kings Birthday classic!\nVic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open first appeared on Orienteering Victoria.",
@@ -390,6 +400,26 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?p=65920",
+          "author": "Christo Peters",
+          "description": "It’s pretty exciting with the international orienteering season kicking off. The second World Cup race took place over the weekend and saw our relay team finish 14th, just behind the Australian team.  Luckily overall our team ranking remains ahead of Australia. Auckland Orienteering Club hosted the Triple Crown & King’s Birthday Competition over the long weekend […]\nView from the Chair | May 2026 first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-may-2026/",
+          "publishedOn": "2026-06-02T09:04:50.000Z",
+          "wordCount": 2352,
+          "title": "View from the Chair | May 2026",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/View-from-the-Chair.png"
+        },
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=65917",
+          "author": "Christo Peters",
+          "description": "Entries for the 2026 Oceania Championships have just opened. Entries can be made through the event website. The programme is as  follows: Saturday 26 Sep Oceania Middle Champs Bogong Creek / Namadgi National Park Sunday 27 Sep Oceania Relays Honeysuckle Creek / Namadgi National Park Tuesday 29 Sep ASOC Sprint Orana Steiner School Flight of […]\nOceania Championships | Entries Open | 26 Sep to 4 Oct first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/oceania-championships-entries-open-26-sep-to-4-oct/",
+          "publishedOn": "2026-06-02T07:23:51.000Z",
+          "wordCount": 2359,
+          "title": "Oceania Championships | Entries Open | 26 Sep to 4 Oct",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/06/Oceania-Champs.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=65912",
           "author": "Christo Peters",
