@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T02:36:48.810Z</updated>
+    <updated>2026-06-03T10:30:16.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -586,16 +586,6 @@ The post NI Colour Series 3 – Entries now open! appeared first on NI Orienteer
 Double Header Weekend Castlemaine – Bendigo Bush and Vic Series 4, 16 and 17 May first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OK Nuts 2026 Results]]></title>
-        <id>https://slow.org.uk/?p=24254</id>
-        <link href="https://slow.org.uk/racereports/ok-nuts-2026-results/"/>
-        <updated>2026-05-04T20:24:55.000Z</updated>
-        <summary type="html"><![CDATA[Trophy Winners Officials’ Comments Organiser – Charlie Turner This year’s OK Nuts entry numbers were greater than expected and although 6 days ago we ordered [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
     <entry>
