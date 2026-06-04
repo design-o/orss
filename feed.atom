@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T20:45:19.297Z</updated>
+    <updated>2026-06-04T02:32:49.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -564,17 +564,6 @@ The post NICS Magilligan – Entries Close Tomorrow! appeared first on NI Orient
         <summary type="html"><![CDATA[FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NI Colour Series 3 – Entries now open!]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7356</id>
-        <link href="https://www.niorienteering.org.uk/ni-colour-series-3-entries-now-open/"/>
-        <updated>2026-05-05T10:03:42.000Z</updated>
-        <summary type="html"><![CDATA[🏃‍♀️‍➡️🏖️Magilligan Sand Dunes – Sun 17 May We had such a great time running around the dunes of Magilligan last May, that North West Orienteering Club are welcoming us back here. With views out to the Atlantic and the amazing back drop of Binevenagh this...
-The post NI Colour Series 3 – Entries now open! appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>Richard Gamble</name>
         </author>
     </entry>
     <entry>
