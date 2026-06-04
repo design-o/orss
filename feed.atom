@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T02:32:49.537Z</updated>
+    <updated>2026-06-04T09:40:00.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What makes an event unmissable?]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7392</id>
+        <link href="https://www.niorienteering.org.uk/what-makes-an-event-unmissable/"/>
+        <updated>2026-06-04T07:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in hearing some event management tips to help give participants an even better experience, without much adding more to your volunteers? Then join the British Orienteering Webinar this coming Monday evening!   What makes an event unmissable? Designing Orienteering Events People Want...
+The post What makes an event unmissable? appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[May Community Conversation: Creating a Welcoming Environment]]></title>
         <id>https://www.scottish-orienteering.org/?p=57300</id>
