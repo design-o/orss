@@ -585,6 +585,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57313",
+          "author": "nikkihoward",
+          "description": "As part of Volunteers’ Week we have been celebrating the many volunteers in the sport and all that you do. […]",
+          "link": "https://www.scottish-orienteering.org/news/volunteers-views/?utm_source=rss&utm_medium=rss&utm_campaign=volunteers-views",
+          "publishedOn": "2026-06-05T13:29:00.000Z",
+          "wordCount": 1717,
+          "title": "Volunteers’ Views",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/06/OIP.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57302",
+          "author": "nikkihoward",
+          "description": "Following on from the successful WEST Area Scottish Championships weekend, St Andrew’s Orienteering Club of Glasgow (STAG) treated us all […]",
+          "link": "https://www.scottish-orienteering.org/news/cumbernauld-sprints-through-another-great-championship-weekend/?utm_source=rss&utm_medium=rss&utm_campaign=cumbernauld-sprints-through-another-great-championship-weekend",
+          "publishedOn": "2026-06-05T11:46:59.000Z",
+          "wordCount": 2274,
+          "title": "Cumbernauld sprints through another great Championship weekend",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/06/PHOTO-2026-06-01-17-54-29-768x1024.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57300",
           "author": "louise",
           "description": "The May instalment of our Community Conversation series once again brought together members (as well as a visitor from Canada!) […]",

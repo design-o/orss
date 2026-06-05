@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T09:25:48.346Z</updated>
+    <updated>2026-06-05T14:20:30.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Volunteers’ Views]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57313</id>
+        <link href="https://www.scottish-orienteering.org/news/volunteers-views/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=volunteers-views"/>
+        <updated>2026-06-05T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of Volunteers’ Week we have been celebrating the many volunteers in the sport and all that you do. […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cumbernauld sprints through another great Championship weekend]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57302</id>
+        <link href="https://www.scottish-orienteering.org/news/cumbernauld-sprints-through-another-great-championship-weekend/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cumbernauld-sprints-through-another-great-championship-weekend"/>
+        <updated>2026-06-05T11:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Following on from the successful WEST Area Scottish Championships weekend, St Andrew’s Orienteering Club of Glasgow (STAG) treated us all […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What makes an event unmissable?]]></title>
         <id>https://www.niorienteering.org.uk/?p=7392</id>
