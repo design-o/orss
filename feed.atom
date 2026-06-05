@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T02:07:17.908Z</updated>
+    <updated>2026-06-05T09:25:48.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -576,16 +576,6 @@ The post NICS Magilligan – Entries Close Tomorrow! appeared first on NI Orient
 2026 Silva Medal Progress Points After 3 Events first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></title>
-        <id>https://neooc.com/?p=50301</id>
-        <link href="https://neooc.com/new-event-fallsquest-2026-cuyahoga-falls-oh-sunday-may-24th/"/>
-        <updated>2026-05-06T19:15:23.000Z</updated>
-        <summary type="html"><![CDATA[FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
