@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-06T19:01:53.162Z</updated>
+    <updated>2026-06-07T02:14:46.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -285,6 +285,17 @@ Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open first appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15687</id>
+        <link href="https://www.vicorienteering.asn.au/15687-2/"/>
+        <updated>2026-05-26T01:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Entries are open until Thursday 28 May, for the next Vic MTBO series event at Barkstead.
+Vic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HP Squad take on World Cup Sprints!]]></title>
         <id>https://www.orienteering.ie/?p=22515</id>
         <link href="https://www.orienteering.ie/hp-squad-take-on-world-cup-sprints/"/>
@@ -555,16 +566,6 @@ The post NICS Magilligan – Entries Close Tomorrow! appeared first on NI Orient
         <updated>2026-05-09T01:37:28.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London City Race 2026]]></title>
-        <id>https://slow.org.uk/?p=24278</id>
-        <link href="https://slow.org.uk/events/london-city-race-2026/"/>
-        <updated>2026-05-08T13:53:54.000Z</updated>
-        <summary type="html"><![CDATA[The 17th London City Race takes place on Saturday 19th September 2026 in Bermondsey, featuring substantial newly mapped areas never before used for Orienteering. There [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
         </author>
     </entry>
     <entry>
