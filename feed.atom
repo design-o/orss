@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T13:16:16.788Z</updated>
+    <updated>2026-06-07T19:03:18.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -557,15 +557,6 @@ The post NICS Magilligan – Entries CLOSE TODAY at 9.30pm! appeared first on NI
 The post NICS Magilligan – Entries Close Tomorrow! appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Victoria AGM, Friday 29 May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15685</id>
-        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-agm-friday-29-may/"/>
-        <updated>2026-05-09T01:37:28.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
