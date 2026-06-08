@@ -566,16 +566,6 @@
           "wordCount": 1583,
           "title": "New Event | 2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/05/IMG_20230714_161757984-scaled.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=50318",
-          "author": "Jay Smink",
-          "description": "Recap and Results NEOOC continued to celebrate our 50th anniversary year with our first competitive event in Stark Parks this year .   We’ve been here many times, but this was our first classic at QH in 4 years. The streams were flowing, trails were sloppy, and the foilage is still manageable.   It is the first […]",
-          "link": "https://neooc.com/results-2026-quail-hollow-classic-quail-hollow-hartsville-saturday-may-9/",
-          "publishedOn": "2026-05-10T02:00:22.000Z",
-          "wordCount": 1950,
-          "title": "Results| 2026 Quail Hollow Classic | Quail Hollow – Hartsville | Saturday, May 9",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/05/IMG_20260509_072333116_HDR-300x226.jpg"
         }
       ]
     },
@@ -584,6 +574,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57318",
+          "author": "nikkihoward",
+          "description": "June’s Community Conversation brought together members from across Scottish clubs to share thoughts on supporting and encouraging newcomer families.  This […]",
+          "link": "https://www.scottish-orienteering.org/news/getting-parents-involved-in-orienteering/?utm_source=rss&utm_medium=rss&utm_campaign=getting-parents-involved-in-orienteering",
+          "publishedOn": "2026-06-08T12:18:34.000Z",
+          "wordCount": 2349,
+          "title": "Getting Parents Involved in Orienteering",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57313",
           "author": "nikkihoward",
@@ -710,16 +710,6 @@
           "wordCount": 4375,
           "title": "NICS Magilligan – Entries CLOSE TODAY at 9.30pm!",
           "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/05/Mag-group.png?fit=983%2C717&ssl=1"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7360",
-          "author": "Richard Gamble",
-          "description": "🏃‍♀️‍➡️🏖️Magilligan Sand Dunes – Sun 17 May With views out to the Atlantic and the amazing back drop of Binevenagh this is such a stunning area to have the privilege to run in. It is also a fantastic area to test your physical and technical...\nThe post NICS Magilligan – Entries Close Tomorrow! appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/nics-magilligan-entries-close-tomorrow/",
-          "publishedOn": "2026-05-09T19:00:14.000Z",
-          "wordCount": 4358,
-          "title": "NICS Magilligan – Entries Close Tomorrow!",
-          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/05/mag-mount.png?fit=510%2C837&ssl=1"
         }
       ]
     },
