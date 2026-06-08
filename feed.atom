@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T19:03:18.867Z</updated>
+    <updated>2026-06-08T02:31:09.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Skill Up!  Saturday Afternoon Skills Session 2, June 20 at Candlebark Park]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15643</id>
+        <link href="https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/"/>
+        <updated>2026-06-07T04:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Come along to the next Skill Up Saturday Afternoon Session on June 20, at Candlebark Park.  Learn how to Go Bush!
+Skill Up!  Saturday Afternoon Skills Session 2, June 20 at Candlebark Park first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volunteers’ Views]]></title>
         <id>https://www.scottish-orienteering.org/?p=57313</id>
@@ -242,6 +253,17 @@ Jakob heads to Italy  |  IOF Young Leaders Academy first appeared on Orientee
 The post Entries Closing for the Limavady Double Header appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Victoria Awards Announced]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15685</id>
+        <link href="https://www.vicorienteering.asn.au/orienteering-victoria-agm-friday-29-may/"/>
+        <updated>2026-05-29T01:37:28.000Z</updated>
+        <summary type="html"><![CDATA[The winners of the Orienteering Victoria awards have been announced, including Services, Coaching and Presidents Awards, Course Setters of the Year, and Club Volunteers of the Year
+Orienteering Victoria Awards Announced first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
