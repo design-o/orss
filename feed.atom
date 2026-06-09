@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T19:58:00.977Z</updated>
+    <updated>2026-06-09T01:56:02.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -396,6 +396,15 @@ The Australian Orienteer: June 2026 Edition first appeared on Orienteering Austr
         <summary type="html"><![CDATA[Preregistration is extended to May 21, 9pm FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></summary>
         <author>
             <name>Bob Boltz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorians Selected For World Champs Teams]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15691</id>
+        <link href="https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/"/>
+        <updated>2026-05-20T04:15:51.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
