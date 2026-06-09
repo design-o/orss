@@ -558,6 +558,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=50530",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Nine days of Orienteering! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th",
+          "link": "https://neooc.com/new-event-2026-richfield-self-serve-event-richfield-heritage-preserve-saturday-june-20th-thru-28th/",
+          "publishedOn": "2026-06-09T13:02:58.000Z",
+          "wordCount": 1663,
+          "title": "New Event | 2026 Richfield Self Serve Event | Richfield Heritage Preserve | Saturday, June 20th thru 28th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/rhp-mill-logo.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=50408",
           "author": "Bob Boltz",
           "description": "FallsQuest 2026 Results Submitted by Bob Boltz, Event Director & Course Designer Participants in the 13th edition of this event enjoyed some of the best weather… not too warm, cloudy, and the occasional light drizzle that helped keep us cool.  Many thanks to Kathy Christy & Jay Smink for all they did to orchestrate our […]",
@@ -691,6 +701,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7408",
+          "author": "NIOA Secretary",
+          "description": "Entries are open for the NI Urban Race at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June, both events key elements of the annual Tollymore Festival of Orienteering, staged by LVO. Full participation at the festival...\nThe post Like a London Bus – Here Come Another Two appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/like-a-london-bus-here-come-another-two/",
+          "publishedOn": "2026-06-09T10:17:36.000Z",
+          "wordCount": 4424,
+          "title": "Like a London Bus – Here Come Another Two",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/06/Tolymore-2026.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7401",
           "author": "NIOA Secretary",
