@@ -315,16 +315,6 @@
           "wordCount": 1104,
           "title": "Junior Team Selections 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=22344",
-          "author": "Operations Manager",
-          "description": "Orienteering Ireland’s 2026 rescheduled AGM will take place online at 8pm on the 4th of June. An invite code has been sent out to Club Secretaries for this online meeting and we encourage all members to attend to have your chance to hear about how our NGB, and our sport has been doing over the […]",
-          "link": "https://www.orienteering.ie/orienteering-ireland-agm-2026/",
-          "publishedOn": "2026-05-11T09:06:07.000Z",
-          "wordCount": 888,
-          "title": "Orienteering Ireland AGM 2026 – Rescheduled",
-          "imageUrl": null
         }
       ]
     },
@@ -333,6 +323,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24397",
+          "author": "James Gjertsen",
+          "description": "The last time SLOW used Peckham Rye was back in 2014, so it sounded like this was the first time many of you had orienteered [...]",
+          "link": "https://slow.org.uk/racereports/peckham-rye-park-race-results/",
+          "publishedOn": "2026-06-09T22:14:01.000Z",
+          "wordCount": 1817,
+          "title": "Peckham Rye Park Race Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/streeto/peckham-street-o-24-results/files/Peckham_02.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24337",
           "author": "James Gjertsen",

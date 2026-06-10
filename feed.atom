@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T19:53:45.526Z</updated>
+    <updated>2026-06-10T02:07:22.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peckham Rye Park Race Results]]></title>
+        <id>https://slow.org.uk/?p=24397</id>
+        <link href="https://slow.org.uk/racereports/peckham-rye-park-race-results/"/>
+        <updated>2026-06-09T22:14:01.000Z</updated>
+        <summary type="html"><![CDATA[The last time SLOW used Peckham Rye was back in 2014, so it sounded like this was the first time many of you had orienteered [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2026 Richfield Self Serve Event | Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></title>
         <id>https://neooc.com/?p=50530</id>
@@ -597,16 +607,6 @@ Learn To Orienteer in Melbourne first appeared on Orienteering Victoria.]]></sum
         <summary type="html"><![CDATA[The second race in the 2026 Park Race series will be at Burgess Park, south London, on Tuesday 26th May. Race Centre The race will [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Ireland AGM 2026 – Rescheduled]]></title>
-        <id>https://www.orienteering.ie/?p=22344</id>
-        <link href="https://www.orienteering.ie/orienteering-ireland-agm-2026/"/>
-        <updated>2026-05-11T09:06:07.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland’s 2026 rescheduled AGM will take place online at 8pm on the 4th of June. An invite code has been sent out to Club Secretaries for this online meeting and we encourage all members to attend to have your chance to hear about how our NGB, and our sport has been doing over the […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
