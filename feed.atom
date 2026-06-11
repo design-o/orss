@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T15:29:58.405Z</updated>
+    <updated>2026-06-11T20:07:21.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -599,16 +599,6 @@ MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Vict
         <summary type="html"><![CDATA[The following team selections have been made for this years big summer Orienteering events: European Youth Orienteering Championships (EYOC, Slovenia, 25-27 June) M16 W16 M18 W18 Junior World Championships (JWOC, Sweden, 29 June -04 July) M20 W20 Junior European Cup (JEC – Switzerland, 2-4 October) W20 W18 M20 M18 Congratulations to those selected, and hard […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finsbury Park Street-O Results]]></title>
-        <id>https://slow.org.uk/?p=24301</id>
-        <link href="https://slow.org.uk/streeto/finsbury-street-o-25-results/"/>
-        <updated>2026-05-13T07:53:02.000Z</updated>
-        <summary type="html"><![CDATA[That concludes the 2025-26 Street-O series! Thank you Gabriel for organising the finale around Arsenal and Stoke Newington. It was lovely exploring the green spaces [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
     <entry>
