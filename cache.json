@@ -268,16 +268,6 @@
           "wordCount": 1178,
           "title": "MelbushO at Darebin Parklands, Sunday 24 May",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15624",
-          "author": "Debbie Dodd",
-          "description": "The next Learn To Orienteer program in Melbourne is underway, and there is still time to sign up\nLearn To Orienteer in Melbourne first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne/",
-          "publishedOn": "2026-05-13T01:49:20.000Z",
-          "wordCount": 1074,
-          "title": "Learn To Orienteer in Melbourne",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -595,6 +585,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57325",
+          "author": "louise",
+          "description": "By Louise Adams – SOA Development Officer On Thursday June 4th, pupils from across Scotland came together to orienteer around […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-schools-festival-2026-a-successful-day-out-at-beecraigs-country-park/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-schools-festival-2026-a-successful-day-out-at-beecraigs-country-park",
+          "publishedOn": "2026-06-11T13:35:15.000Z",
+          "wordCount": 2720,
+          "title": "Scottish Schools Festival 2026: A successful day out at Beecraigs Country Park",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/06/a73aa72f-3478-4a70-a4e9-b11890839cec-768x1024.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57318",
           "author": "nikkihoward",
           "description": "June’s Community Conversation brought together members from across Scottish clubs to share thoughts on supporting and encouraging newcomer families.  This […]",
@@ -748,6 +748,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16165",
+          "author": "Elizabeth L",
+          "description": "The latest Orienteering Australia Elite Rankings are published.\nOrienteering Australia Elite Rankings – June 2026 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/orienteering-australia-elite-rankings-june-2026/",
+          "publishedOn": "2026-06-11T12:18:13.000Z",
+          "wordCount": 2529,
+          "title": "Orienteering Australia Elite Rankings – June 2026",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16124",
           "author": "Elizabeth L",

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T10:01:44.267Z</updated>
+    <updated>2026-06-11T15:29:58.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Schools Festival 2026: A successful day out at Beecraigs Country Park]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57325</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-schools-festival-2026-a-successful-day-out-at-beecraigs-country-park/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-schools-festival-2026-a-successful-day-out-at-beecraigs-country-park"/>
+        <updated>2026-06-11T13:35:15.000Z</updated>
+        <summary type="html"><![CDATA[By Louise Adams – SOA Development Officer On Thursday June 4th, pupils from across Scotland came together to orienteer around […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Australia Elite Rankings – June 2026]]></title>
+        <id>https://orienteering.asn.au/?p=16165</id>
+        <link href="https://orienteering.asn.au/orienteering-australia-elite-rankings-june-2026/"/>
+        <updated>2026-06-11T12:18:13.000Z</updated>
+        <summary type="html"><![CDATA[The latest Orienteering Australia Elite Rankings are published.
+Orienteering Australia Elite Rankings – June 2026 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peckham Rye Park Race Results]]></title>
         <id>https://slow.org.uk/?p=24397</id>
@@ -588,17 +609,6 @@ MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Vict
         <summary type="html"><![CDATA[That concludes the 2025-26 Street-O series! Thank you Gabriel for organising the finale around Arsenal and Stoke Newington. It was lovely exploring the green spaces [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn To Orienteer in Melbourne]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15624</id>
-        <link href="https://www.vicorienteering.asn.au/learn-to-orienteer-in-melbourne/"/>
-        <updated>2026-05-13T01:49:20.000Z</updated>
-        <summary type="html"><![CDATA[The next Learn To Orienteer program in Melbourne is underway, and there is still time to sign up
-Learn To Orienteer in Melbourne first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
