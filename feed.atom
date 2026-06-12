@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T09:53:50.015Z</updated>
+    <updated>2026-06-12T14:29:46.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -567,26 +567,6 @@ MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Vict
         <link href="https://www.scottish-orienteering.org/news/opportunities-for-all-to-improve-their-orienteering-and-to-help-others-improve/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunities-for-all-to-improve-their-orienteering-and-to-help-others-improve"/>
         <updated>2026-05-14T11:21:39.000Z</updated>
         <summary type="html"><![CDATA[We tend to all have our aims when we enter events – we can’t all win, but often have aims […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Orienteering backs UK Anti-Doping’s Clean Sport Week 2026 : Built not bought. 100% me.]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57143</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-orienteering-backs-uk-anti-dopings-clean-sport-week-2026-built-not-bought-100-me/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-orienteering-backs-uk-anti-dopings-clean-sport-week-2026-built-not-bought-100-me"/>
-        <updated>2026-05-13T15:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Scottish Orienteering is proud to support Clean Sport Week (taking place this week – 11–17 May 2026), the annual awareness […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Get Together and Games at Scottish Championship]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57138</id>
-        <link href="https://www.scottish-orienteering.org/news/junior-get-together-and-games-at-scottish-championship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-get-together-and-games-at-scottish-championship"/>
-        <updated>2026-05-13T15:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Following on the success of the Capture the Flag game at the Scottish Championships in Barry Buddon last year, we […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
