@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T14:29:46.891Z</updated>
+    <updated>2026-06-12T19:49:47.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entries Closing for the Tollymore Festival of Orienteeering]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7411</id>
+        <link href="https://www.niorienteering.org.uk/entries-closing-for-the-tollymore-festival-of-orienteeering/"/>
+        <updated>2026-06-12T19:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Entries close on Sunday 14 June at midnight for annual Tollymore Festival of Orienteering, staged by LVO on 19-21 June. The festival includes the NI Urban Race at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June. Full...
+The post Entries Closing for the Tollymore Festival of Orienteeering appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jukola 2026: All You Need To Know]]></title>
         <id>http://news.worldofo.com/?p=21595</id>
