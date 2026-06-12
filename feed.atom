@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T20:07:21.650Z</updated>
+    <updated>2026-06-12T02:14:07.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -589,16 +589,6 @@ MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Vict
         <summary type="html"><![CDATA[Following on the success of the Capture the Flag game at the Scottish Championships in Barry Buddon last year, we […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Team Selections 2026]]></title>
-        <id>https://www.orienteering.ie/?p=22480</id>
-        <link href="https://www.orienteering.ie/junior-team-selections-2026/"/>
-        <updated>2026-05-13T13:35:20.000Z</updated>
-        <summary type="html"><![CDATA[The following team selections have been made for this years big summer Orienteering events: European Youth Orienteering Championships (EYOC, Slovenia, 25-27 June) M16 W16 M18 W18 Junior World Championships (JWOC, Sweden, 29 June -04 July) M20 W20 Junior European Cup (JEC – Switzerland, 2-4 October) W20 W18 M20 M18 Congratulations to those selected, and hard […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
