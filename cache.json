@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21595",
+          "author": "Jan Kocbach",
+          "description": "The 2026 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend, with more than 3400 teams and more than 19.000 competitors on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9.5 hours earlier at 12:30 CET the women start their relay. ...",
+          "link": "https://news.worldofo.com/2026/06/12/jukola-2026-all-you-need-to-know/",
+          "publishedOn": "2026-06-12T03:00:05.000Z",
+          "wordCount": 2674,
+          "title": "Jukola 2026: All You Need To Know",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/06/2026-06-11-23_17_00-Window-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21585",
           "author": "Jan Kocbach",
           "description": "The 2026 Orienteering World Cup continues in Skara-Lidköping (Sweden) this week with another full set of urban races: a Knock-Out Sprint on Thursday May 28th, an Individual Sprint on Saturday and a Sprint Relay on Sunday. This is the last World Cup round before the World Orienteering Championships (WOC) Sprint, which is organized in Genova, Italy in July.  The ...",
@@ -332,16 +342,6 @@
           "wordCount": 2136,
           "title": "Park Race – Waterloo Parks",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/events/waterloo-parks-2018/files/Geraldine-Mary-Harmsworth-Park.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=24305",
-          "author": "James Gjertsen",
-          "description": "The fourth race in the 2026 Park Race series will be at Peckham Rye, south London, on Tuesday 9th June. Race Centre The race will [...]",
-          "link": "https://slow.org.uk/events/park-race-peckham-rye/",
-          "publishedOn": "2026-05-13T18:35:41.000Z",
-          "wordCount": 2182,
-          "title": "Park Race – Peckham Rye",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/peckhamryeresults/files/4701177410_c2669d6018_b.jpg"
         }
       ]
     },
