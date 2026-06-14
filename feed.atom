@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T02:30:21.332Z</updated>
+    <updated>2026-06-14T08:58:56.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -570,16 +570,6 @@ The Australian Orienteer: June 2026 Edition first appeared on Orienteering Austr
 MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first two Scottish Orienteering League (SOL) events of 2026: Dunachton and Glen Dye]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57152</id>
-        <link href="https://www.scottish-orienteering.org/news/the-first-two-scottish-orienteering-league-sol-events-of-2026-dunachton-and-glen-dye/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-first-two-scottish-orienteering-league-sol-events-of-2026-dunachton-and-glen-dye"/>
-        <updated>2026-05-15T14:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Thank you to BASOC and GRAMP  for their stellar work in hosting the recent Scottish Orienteering League (SOL) events which […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
