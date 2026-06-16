@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T10:50:50.667Z</updated>
+    <updated>2026-06-16T16:19:05.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -599,17 +599,6 @@ The Australian Orienteer: June 2026 Edition first appeared on Orienteering Austr
         <summary type="html"><![CDATA[The south West League came to a close in Glenabo yesterday where prizes were awarded by Steve Perkins (BOC). Well done to everyone who took part in this fantastic regional series of orienteering events across Kerry & Cork, and to BOC, CorkO & KerryO for making some challenging and interesting courses over the past few […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelbushO at Darebin Parklands, Sunday 24 May]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15605</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
-        <updated>2026-05-18T01:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Online entry closes on Friday 22 May for MelBushO at Darebin Parklands next Sunday
-MelbushO at Darebin Parklands, Sunday 24 May first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
