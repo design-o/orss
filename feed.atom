@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T02:37:32.350Z</updated>
+    <updated>2026-06-16T10:50:50.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Southern Cross | Provisional Team Selections]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65958</id>
+        <link href="https://www.orienteering.org.nz/news/2026-southern-cross-provisional-team-selections/"/>
+        <updated>2026-06-16T05:28:05.000Z</updated>
+        <summary type="html"><![CDATA[The Junior Selection Panel has named two teams of equal ability to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital Territory in the 2026 Australian Schools Championships. The championships will be held in the ACT as part of the Oceania carnival which runs from 26 September to 4 […]
+2026 Southern Cross | Provisional Team Selections first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Event | 2026 Paddle-O | Walborn Reservoir – Stark Parks | Sunday, July 19th]]></title>
+        <id>https://neooc.com/?p=50587</id>
+        <link href="https://neooc.com/new-event-2026-paddle-o-walborn-reservoir-stark-parks-sunday-july-19th/"/>
+        <updated>2026-06-16T03:06:22.000Z</updated>
+        <summary type="html"><![CDATA[2026 Paddle-O | Walborn Reservoir – Stark Parks | Sunday, July 19th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing the Junior Volunteer Award Scheme]]></title>
         <id>https://www.scottish-orienteering.org/?p=57187</id>
@@ -108,6 +129,15 @@ The post Like a London Bus – Here Come Another Two appeared first on NI Orient
 The post Did the Middle Solve the Riddle? appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ballarat Classic Bush Orienteering, Sunday 21 June]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15765</id>
+        <link href="https://www.vicorienteering.asn.au/ballarat-classic-bush-orienteering-sunday-21-june/"/>
+        <updated>2026-06-09T06:38:43.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
