@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T10:22:40.028Z</updated>
+    <updated>2026-06-17T14:47:55.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Senior Development Officer Job Opportunity]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57344</id>
+        <link href="https://www.scottish-orienteering.org/news/senior-development-officer-job-opportunity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senior-development-officer-job-opportunity"/>
+        <updated>2026-06-17T14:17:26.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Orienteering Association is seeking a Senior Development Officer to join our SOA staff team. Are you passionate about […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Southern Cross | Provisional Team Selections]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65958</id>
