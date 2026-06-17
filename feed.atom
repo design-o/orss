@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T02:34:47.888Z</updated>
+    <updated>2026-06-17T10:22:40.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -600,16 +600,6 @@ The Australian Orienteer: June 2026 Edition first appeared on Orienteering Austr
 2026 WOC Team Selection first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South West League Winners]]></title>
-        <id>https://www.orienteering.ie/?p=22491</id>
-        <link href="https://www.orienteering.ie/south-west-league-winners/"/>
-        <updated>2026-05-18T12:46:34.000Z</updated>
-        <summary type="html"><![CDATA[The south West League came to a close in Glenabo yesterday where prizes were awarded by Steve Perkins (BOC). Well done to everyone who took part in this fantastic regional series of orienteering events across Kerry & Cork, and to BOC, CorkO & KerryO for making some challenging and interesting courses over the past few […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
