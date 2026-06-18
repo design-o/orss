@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T02:31:22.103Z</updated>
+    <updated>2026-06-18T10:02:29.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Schools Development Squad Trip to Australia]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65970</id>
+        <link href="https://www.orienteering.org.nz/news/schools-development-squad-trip-to-australia/"/>
+        <updated>2026-06-18T08:01:20.000Z</updated>
+        <summary type="html"><![CDATA[The Southern Cross selectors were once again impressed by the strength and depth of school-level orienteering, which has motivated the decision to take an extended group to Australia again this year. The athletes named below were identified through their results at King’s Birthday and/or through the attitude and commitment they’ve shown.   Above all, we are looking […]
+Schools Development Squad Trip to Australia first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senior Development Officer Job Opportunity]]></title>
         <id>https://www.scottish-orienteering.org/?p=57344</id>
