@@ -278,16 +278,6 @@
           "wordCount": 1323,
           "title": "Park Street Update, May 26-June 1",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15691",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/",
-          "publishedOn": "2026-05-20T04:15:51.000Z",
-          "wordCount": 1066,
-          "title": "Victorians Selected For World Champs Teams",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -313,6 +303,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24417",
+          "author": "James Gjertsen",
+          "description": "We’re now into the latter parts of the 2026 Park Race series and on to the eighth race. This time will be in Streatham, south [...]",
+          "link": "https://slow.org.uk/events/park-race-streatham-common/",
+          "publishedOn": "2026-06-18T18:30:57.000Z",
+          "wordCount": 2196,
+          "title": "Park Race – Streatham Common",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/gloss-2023-streatham-results/files/StreathamCommon2.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24397",
           "author": "James Gjertsen",
@@ -586,16 +586,6 @@
           "wordCount": 1652,
           "title": "Extend Prereg | FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=50392",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026",
-          "link": "https://neooc.com/new-event-2026-evening-cross-country-boston-run-trailhead-cvnp-friday-june-12th-2026/",
-          "publishedOn": "2026-05-20T03:01:48.000Z",
-          "wordCount": 1583,
-          "title": "New Event | 2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/05/IMG_20230714_161757984-scaled.jpg"
         }
       ]
     },

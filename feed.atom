@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T14:41:30.489Z</updated>
+    <updated>2026-06-18T20:07:07.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Streatham Common]]></title>
+        <id>https://slow.org.uk/?p=24417</id>
+        <link href="https://slow.org.uk/events/park-race-streatham-common/"/>
+        <updated>2026-06-18T18:30:57.000Z</updated>
+        <summary type="html"><![CDATA[We’re now into the latter parts of the 2026 Park Race series and on to the eighth race. This time will be in Streatham, south [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOA Development Fund project spotlight: Roxburgh Reivers’ ‘Learn to Navigate’]]></title>
         <id>https://www.scottish-orienteering.org/?p=57356</id>
@@ -611,25 +621,6 @@ The Australian Orienteer: June 2026 Edition first appeared on Orienteering Austr
         <summary type="html"><![CDATA[Preregistration is extended to May 21, 9pm FallsQuest 2026 | Cuyahoga Falls, OH | Sunday, May 24th]]></summary>
         <author>
             <name>Bob Boltz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians Selected For World Champs Teams]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15691</id>
-        <link href="https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/"/>
-        <updated>2026-05-20T04:15:51.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | 2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026]]></title>
-        <id>https://neooc.com/?p=50392</id>
-        <link href="https://neooc.com/new-event-2026-evening-cross-country-boston-run-trailhead-cvnp-friday-june-12th-2026/"/>
-        <updated>2026-05-20T03:01:48.000Z</updated>
-        <summary type="html"><![CDATA[2026 Evening Cross Country | Boston Run Trailhead, CVNP | Friday, June 12th, 2026]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
