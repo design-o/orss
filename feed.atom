@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T10:02:29.505Z</updated>
+    <updated>2026-06-18T14:41:30.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SOA Development Fund project spotlight: Roxburgh Reivers’ ‘Learn to Navigate’]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57356</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-development-fund-project-spotlight-roxburgh-reivers-learn-to-navigate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-development-fund-project-spotlight-roxburgh-reivers-learn-to-navigate"/>
+        <updated>2026-06-18T13:52:24.000Z</updated>
+        <summary type="html"><![CDATA[In February, SOA awarded development funding to Roxburgh Reivers to support an innovative club development project. The project stood out […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOA Development Funding opportunity coming this autumn!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57354</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-development-funding-opportunity-coming-this-autumn/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-development-funding-opportunity-coming-this-autumn"/>
+        <updated>2026-06-18T11:36:11.000Z</updated>
+        <summary type="html"><![CDATA[The SOA Development Fund will reopen for applications in September, and we are encouraging all clubs to begin thinking about […]]]></summary>
+        <author>
+            <name>louise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Schools Development Squad Trip to Australia]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65970</id>

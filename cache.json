@@ -605,6 +605,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57356",
+          "author": "louise",
+          "description": "In February, SOA awarded development funding to Roxburgh Reivers to support an innovative club development project. The project stood out […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-development-fund-project-spotlight-roxburgh-reivers-learn-to-navigate/?utm_source=rss&utm_medium=rss&utm_campaign=soa-development-fund-project-spotlight-roxburgh-reivers-learn-to-navigate",
+          "publishedOn": "2026-06-18T13:52:24.000Z",
+          "wordCount": 2562,
+          "title": "SOA Development Fund project spotlight: Roxburgh Reivers’ ‘Learn to Navigate’",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/06/image1.jpeg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57354",
+          "author": "louise",
+          "description": "The SOA Development Fund will reopen for applications in September, and we are encouraging all clubs to begin thinking about […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-development-funding-opportunity-coming-this-autumn/?utm_source=rss&utm_medium=rss&utm_campaign=soa-development-funding-opportunity-coming-this-autumn",
+          "publishedOn": "2026-06-18T11:36:11.000Z",
+          "wordCount": 1814,
+          "title": "SOA Development Funding opportunity coming this autumn!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57344",
           "author": "nikkihoward",
           "description": "The Scottish Orienteering Association is seeking a Senior Development Officer to join our SOA staff team. Are you passionate about […]",
