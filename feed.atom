@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T14:02:11.477Z</updated>
+    <updated>2026-06-24T19:23:56.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Park Race – Tooting Bec]]></title>
+        <id>https://slow.org.uk/?p=24443</id>
+        <link href="https://slow.org.uk/events/park-race-tooting-bec/"/>
+        <updated>2026-06-24T16:45:26.000Z</updated>
+        <summary type="html"><![CDATA[It feels like it’s flown by but the finale of the 2026 Park Race series will be in Tooting Bec, south west London, on Tuesday 21st July. [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streets and Mountains]]></title>
         <id>https://www.niorienteering.org.uk/?p=7452</id>
@@ -620,17 +630,6 @@ Orienteering Victoria Awards Announced first appeared on Orienteering Victoria.]
         <summary type="html"><![CDATA[Thanks for joining for the first SLOW event in this year’s Park Race Series, on this the hottest day in May on record no less! [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15707</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-no-4-at-eppalock-south-sunday-7-june-entries-now-open/"/>
-        <updated>2026-05-26T02:58:53.000Z</updated>
-        <summary type="html"><![CDATA[The next Vic Series event is on Sunday June 7 at Eppalock South. Entries are open now - don't miss this Kings Birthday classic!
-Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
