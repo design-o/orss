@@ -324,6 +324,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24437",
+          "author": "James Gjertsen",
+          "description": "It seems Burgess Park wasn’t the only race this series with temperatures above 30! Let’s see if we get any more. It doesn’t seem to [...]",
+          "link": "https://slow.org.uk/racereports/waterloo-parks-race-results/",
+          "publishedOn": "2026-06-23T22:08:33.000Z",
+          "wordCount": 1818,
+          "title": "Waterloo Parks Race Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/IMG-20260623-WA0002.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24417",
           "author": "James Gjertsen",
           "description": "We’re now into the latter parts of the 2026 Park Race series and on to the eighth race. This time will be in Streatham, south [...]",
