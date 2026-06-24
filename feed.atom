@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T02:03:47.332Z</updated>
+    <updated>2026-06-24T08:50:21.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beechworth Orienteering Weekend, July 4 and 5]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15707</id>
+        <link href="https://www.vicorienteering.asn.au/beechworth-weekend/"/>
+        <updated>2026-06-24T02:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Head up the Hume for this fantastic double header weekend of top quality orienteering in Victoria's beautiful north east!
+Beechworth Orienteering Weekend, July 4 and 5 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup 3 | Men’s athletes to be reselected]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66017</id>
+        <link href="https://www.orienteering.org.nz/news/world-cup-3-mens-athletes-to-be-reselected/"/>
+        <updated>2026-06-24T00:06:23.000Z</updated>
+        <summary type="html"><![CDATA[An was convened to hear an appeal to the Men’s World Cup 3 selections. The appeal was made on grounds:  1.4 (a) Selection criteria were not followed and/or implemented  1.4 (b) Athlete was not afforded a reasonable opportunity to satisfy the selection criteria.  The Appeals Panel recommended to the Board that the appeal be upheld […]
+World Cup 3 | Men’s athletes to be reselected first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waterloo Parks Race Results]]></title>
         <id>https://slow.org.uk/?p=24437</id>
@@ -609,26 +631,6 @@ Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open first appe
 Vic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP Squad take on World Cup Sprints!]]></title>
-        <id>https://www.orienteering.ie/?p=22515</id>
-        <link href="https://www.orienteering.ie/hp-squad-take-on-world-cup-sprints/"/>
-        <updated>2026-05-25T16:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Best of luck to Niall McCarthy & Josh O’Sullivan-Hourihan who will be representing Ireland in the World Cup events this weekend. The city of Lidköping will host a weekend of challenging sprint orienteering. More info can be found here.]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Waterloo Parks]]></title>
-        <id>https://slow.org.uk/?p=24334</id>
-        <link href="https://slow.org.uk/events/park-race-waterloo-parks-2/"/>
-        <updated>2026-05-25T15:14:46.000Z</updated>
-        <summary type="html"><![CDATA[The sixth race in the 2026 Park Race series will be in Waterloo, south London, on Tuesday 23rd June. The event will include both Archbishops [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
     <entry>
