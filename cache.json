@@ -288,16 +288,6 @@
           "wordCount": 1101,
           "title": "Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15687",
-          "author": "Debbie Dodd",
-          "description": "Entries are open until Thursday 28 May, for the next Vic MTBO series event at Barkstead.\nVic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/15687-2/",
-          "publishedOn": "2026-05-26T01:39:28.000Z",
-          "wordCount": 1145,
-          "title": "Vic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -721,6 +711,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7452",
+          "author": "NIOA Secretary",
+          "description": "The results are in for the double header of the NI Urban League event at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June all part of the Tollymore Festival of Orienteering. Testing urban village and classic...\nThe post Streets and Mountains appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/streets-and-mountains/",
+          "publishedOn": "2026-06-24T09:07:11.000Z",
+          "wordCount": 4395,
+          "title": "Streets and Mountains",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/06/Croob.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7422",
           "author": "NIOA Secretary",

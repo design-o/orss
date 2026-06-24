@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T08:50:21.952Z</updated>
+    <updated>2026-06-24T14:02:11.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streets and Mountains]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7452</id>
+        <link href="https://www.niorienteering.org.uk/streets-and-mountains/"/>
+        <updated>2026-06-24T09:07:11.000Z</updated>
+        <summary type="html"><![CDATA[The results are in for the double header of the NI Urban League event at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June all part of the Tollymore Festival of Orienteering. Testing urban village and classic...
+The post Streets and Mountains appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beechworth Orienteering Weekend, July 4 and 5]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15707</id>
@@ -618,17 +629,6 @@ Orienteering Victoria Awards Announced first appeared on Orienteering Victoria.]
         <updated>2026-05-26T02:58:53.000Z</updated>
         <summary type="html"><![CDATA[The next Vic Series event is on Sunday June 7 at Eppalock South. Entries are open now - don't miss this Kings Birthday classic!
 Vic Series no 4 at Eppalock South, Sunday 7 June – Entries Now Open first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15687</id>
-        <link href="https://www.vicorienteering.asn.au/15687-2/"/>
-        <updated>2026-05-26T01:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Entries are open until Thursday 28 May, for the next Vic MTBO series event at Barkstead.
-Vic MTBO Series at Barkstead, Sunday 31 May – Entries Are Open first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
