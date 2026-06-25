@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-25T13:58:59.743Z</updated>
+    <updated>2026-06-25T19:43:04.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ongoing Results | 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></title>
+        <id>https://neooc.com/?p=50654</id>
+        <link href="https://neooc.com/ongoing-results-2026-richfield-self-serve-event-at-richfield-heritage-preserve-saturday-june-20th-thru-28th/"/>
+        <updated>2026-06-25T15:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Still Four more Days of Orienteering! Map downloads in PDF format are available NOW! Use this direct link for maps – click here! Ongoing Results – click here! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Park Race – Tooting Bec]]></title>
         <id>https://slow.org.uk/?p=24443</id>
@@ -610,16 +620,6 @@ Orienteering Victoria Awards Announced first appeared on Orienteering Victoria.]
         <updated>2026-05-28T06:20:09.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Sweden 2026: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=21585</id>
-        <link href="https://news.worldofo.com/2026/05/27/world-cup-sweden-2026-all-you-need-to-know/"/>
-        <updated>2026-05-27T03:00:47.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Orienteering World Cup continues in Skara-Lidköping (Sweden) this week with another full set of urban races: a Knock-Out Sprint on Thursday May 28th, an Individual Sprint on Saturday and a Sprint Relay on Sunday. This is the last World Cup round before the World Orienteering Championships (WOC) Sprint, which is organized in Genova, Italy in July.  The ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>

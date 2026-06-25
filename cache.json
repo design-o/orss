@@ -151,16 +151,6 @@
           "wordCount": 2674,
           "title": "Jukola 2026: All You Need To Know",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/06/2026-06-11-23_17_00-Window-660x330.png"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21585",
-          "author": "Jan Kocbach",
-          "description": "The 2026 Orienteering World Cup continues in Skara-Lidköping (Sweden) this week with another full set of urban races: a Knock-Out Sprint on Thursday May 28th, an Individual Sprint on Saturday and a Sprint Relay on Sunday. This is the last World Cup round before the World Orienteering Championships (WOC) Sprint, which is organized in Genova, Italy in July.  The ...",
-          "link": "https://news.worldofo.com/2026/05/27/world-cup-sweden-2026-all-you-need-to-know/",
-          "publishedOn": "2026-05-27T03:00:47.000Z",
-          "wordCount": 1877,
-          "title": "World Cup Sweden 2026: All You Need To Know",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/05/2026-05-27-01_36_05-eventor.orienteering.sport_Documents_Event_9166_1_Skara-old-map-Skaraberg-660x330.jpg"
         }
       ]
     },
@@ -547,6 +537,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=50654",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Still Four more Days of Orienteering! Map downloads in PDF format are available NOW! Use this direct link for maps – click here! Ongoing Results – click here! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th",
+          "link": "https://neooc.com/ongoing-results-2026-richfield-self-serve-event-at-richfield-heritage-preserve-saturday-june-20th-thru-28th/",
+          "publishedOn": "2026-06-25T15:26:42.000Z",
+          "wordCount": 1715,
+          "title": "Ongoing Results | 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/rhp-mill-logo.jpg"
+        },
         {
           "id": "https://neooc.com/?p=50618",
           "author": "Northeast Ohio Orienteering Club",
