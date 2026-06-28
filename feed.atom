@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-27T19:01:12.777Z</updated>
+    <updated>2026-06-28T02:11:27.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -589,17 +589,6 @@ Jakob heads to Italy  |  IOF Young Leaders Academy first appeared on Orientee
 2026 Youth O Camp  |  Nelson first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Closing for the Limavady Double Header]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7387</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-the-limavady-double-header/"/>
-        <updated>2026-05-29T11:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Don’t forget to get your entry in for the double event day in Limavady on Saturday 6 June. The first event is the NI Sprint Championships on a brand new map with some tricky sprint legs planned by last year’s IOC Sprint planner Allan Bogle,...
-The post Entries Closing for the Limavady Double Header appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
