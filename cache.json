@@ -257,6 +257,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22590",
+          "author": "Operations Manager",
+          "description": "SAVE THE DATE! Great Eastern Navigators (GEN) are delighted to announce the dates for IOC2027. Mark your calendars for a fantastic weekend in scenic Roundstone, Connemara from 01 to 03 May 2027. More information will be added to our IOC webpage and IOC social media accounts in the coming weeks. The following areas are no […]",
+          "link": "https://www.orienteering.ie/irish-orienteering-championships-2027/",
+          "publishedOn": "2026-06-29T10:43:59.000Z",
+          "wordCount": 913,
+          "title": "Irish Orienteering Championships 2027",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22538",
           "author": "Operations Manager",
           "description": "On behalf of Cork Orienteering Club, I would like to thank the Irish Orienteering community for their understanding and patience over the last number of weeks. We have surveyed our IOC2026 competitors. Based on the responses, we have decided to proceed with the Relay Championships on Saturday 29th August, and the Classic Distance Championships on […]",
@@ -681,6 +691,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7414",
+          "author": "Richard Gamble",
+          "description": "Do you have a day free in the summer and fancy helping deliver an orienteering activity to the wider community? Then read on! With Summer Council and Community schemes, there are plenty of opportunities for us to help our sport reach a wider audience over...\nThe post Summer Helpers appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/summer-helpers/",
+          "publishedOn": "2026-06-29T13:00:04.000Z",
+          "wordCount": 4417,
+          "title": "Summer Helpers",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/06/Summer-helpers-1.png?fit=1357%2C1920&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7452",
           "author": "NIOA Secretary",

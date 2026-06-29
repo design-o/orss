@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-29T10:17:41.288Z</updated>
+    <updated>2026-06-29T15:25:42.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summer Helpers]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7414</id>
+        <link href="https://www.niorienteering.org.uk/summer-helpers/"/>
+        <updated>2026-06-29T13:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a day free in the summer and fancy helping deliver an orienteering activity to the wider community? Then read on! With Summer Council and Community schemes, there are plenty of opportunities for us to help our sport reach a wider audience over...
+The post Summer Helpers appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irish Orienteering Championships 2027]]></title>
+        <id>https://www.orienteering.ie/?p=22590</id>
+        <link href="https://www.orienteering.ie/irish-orienteering-championships-2027/"/>
+        <updated>2026-06-29T10:43:59.000Z</updated>
+        <summary type="html"><![CDATA[SAVE THE DATE! Great Eastern Navigators (GEN) are delighted to announce the dates for IOC2027. Mark your calendars for a fantastic weekend in scenic Roundstone, Connemara from 01 to 03 May 2027. More information will be added to our IOC webpage and IOC social media accounts in the coming weeks. The following areas are no […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ongoing Results | 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></title>
         <id>https://neooc.com/?p=50654</id>
