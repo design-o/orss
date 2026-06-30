@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-29T19:39:53.197Z</updated>
+    <updated>2026-06-30T02:06:19.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[British Sprint Weekend 2026]]></title>
+        <id>https://slow.org.uk/?p=24456</id>
+        <link href="https://slow.org.uk/british-orienteering/bsc2024-2/"/>
+        <updated>2026-06-29T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[The weekend 27-28 June was the British Sprint Relay and British Sprint Championships, organised by Bristol Orienteering Klub. Relays The British Sprint Relay Championships were [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Results | 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></title>
+        <id>https://neooc.com/?p=50677</id>
+        <link href="https://neooc.com/final-results-2026-richfield-self-serve-event-at-richfield-heritage-preserve-saturday-june-20th-thru-28th/"/>
+        <updated>2026-06-29T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Final Results – click here! We can still updates to the Results with additions or corrections. Enter your Results here! fred@neooc.com 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Helpers]]></title>
         <id>https://www.niorienteering.org.uk/?p=7414</id>
@@ -28,6 +48,15 @@ The post Summer Helpers appeared first on NI Orienteering Association.]]></summa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorian Schools Team Announced]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15804</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-schools-team-announced/"/>
+        <updated>2026-06-28T00:45:08.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ongoing Results | 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></title>
         <id>https://neooc.com/?p=50654</id>
         <link href="https://neooc.com/ongoing-results-2026-richfield-self-serve-event-at-richfield-heritage-preserve-saturday-june-20th-thru-28th/"/>
@@ -35,6 +64,15 @@ The post Summer Helpers appeared first on NI Orienteering Association.]]></summa
         <summary type="html"><![CDATA[Still Four more Days of Orienteering! Map downloads in PDF format are available NOW! Use this direct link for maps – click here! Ongoing Results – click here! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic MTBO Series and Training, Castlemaine Maldon, 18 and 19 July]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15794</id>
+        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-and-training-castlemaine-maldon-18-and-19-july/"/>
+        <updated>2026-06-25T00:29:23.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +137,15 @@ World Cup 3 | Men’s athletes to be reselected first appeared on Orienteering N
 The post Rescheduled IOC appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series 7, Sailors Diggings, Sunday 26 July]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15797</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-7-sailors-diggings-sunday-26-july/"/>
+        <updated>2026-06-20T00:30:26.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

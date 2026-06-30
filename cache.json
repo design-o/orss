@@ -160,6 +160,26 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15804",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-schools-team-announced/",
+          "publishedOn": "2026-06-28T00:45:08.000Z",
+          "wordCount": 1019,
+          "title": "Victorian Schools Team Announced",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15794",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vic-mtbo-series-and-training-castlemaine-maldon-18-and-19-july/",
+          "publishedOn": "2026-06-25T00:29:23.000Z",
+          "wordCount": 1119,
+          "title": "Vic MTBO Series and Training, Castlemaine Maldon, 18 and 19 July",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15707",
           "author": "Debbie Dodd",
           "description": "Head up the Hume for this fantastic double header weekend of top quality orienteering in Victoria's beautiful north east!\nBeechworth Orienteering Weekend, July 4 and 5 first appeared on Orienteering Victoria.",
@@ -167,6 +187,16 @@
           "publishedOn": "2026-06-24T02:58:53.000Z",
           "wordCount": 1361,
           "title": "Beechworth Orienteering Weekend, July 4 and 5",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15797",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vic-series-7-sailors-diggings-sunday-26-july/",
+          "publishedOn": "2026-06-20T00:30:26.000Z",
+          "wordCount": 1124,
+          "title": "Vic Series 7, Sailors Diggings, Sunday 26 July",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
@@ -283,6 +313,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24456",
+          "author": "vinh",
+          "description": "The weekend 27-28 June was the British Sprint Relay and British Sprint Championships, organised by Bristol Orienteering Klub. Relays The British Sprint Relay Championships were [...]",
+          "link": "https://slow.org.uk/british-orienteering/bsc2024-2/",
+          "publishedOn": "2026-06-29T23:04:20.000Z",
+          "wordCount": 2155,
+          "title": "British Sprint Weekend 2026",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/british-orienteering/bsc2024-2/files/BritishSprint_2026_Top.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24443",
           "author": "James Gjertsen",
@@ -527,6 +567,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=50677",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Final Results – click here! We can still updates to the Results with additions or corrections. Enter your Results here! fred@neooc.com 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th",
+          "link": "https://neooc.com/final-results-2026-richfield-self-serve-event-at-richfield-heritage-preserve-saturday-june-20th-thru-28th/",
+          "publishedOn": "2026-06-29T20:04:02.000Z",
+          "wordCount": 1710,
+          "title": "Final Results | 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/rhp-mill-logo.jpg"
+        },
         {
           "id": "https://neooc.com/?p=50654",
           "author": "Northeast Ohio Orienteering Club",
