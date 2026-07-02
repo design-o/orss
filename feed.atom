@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T08:38:41.940Z</updated>
+    <updated>2026-07-02T13:26:03.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -582,28 +582,6 @@ Enjoy Bendigo Bush at Peter The Great Gully, Saturday 13 June first appeared on 
         <updated>2026-06-03T01:56:04.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View from the Chair | May 2026]]></title>
-        <id>https://www.orienteering.org.nz/?p=65920</id>
-        <link href="https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-may-2026/"/>
-        <updated>2026-06-02T09:04:50.000Z</updated>
-        <summary type="html"><![CDATA[It’s pretty exciting with the international orienteering season kicking off. The second World Cup race took place over the weekend and saw our relay team finish 14th, just behind the Australian team.  Luckily overall our team ranking remains ahead of Australia. Auckland Orienteering Club hosted the Triple Crown & King’s Birthday Competition over the long weekend […]
-View from the Chair | May 2026 first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania Championships | Entries Open | 26 Sep to 4 Oct]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65917</id>
-        <link href="https://www.orienteering.org.nz/news/oceania-championships-entries-open-26-sep-to-4-oct/"/>
-        <updated>2026-06-02T07:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Entries for the 2026 Oceania Championships have just opened. Entries can be made through the event website. The programme is as  follows: Saturday 26 Sep Oceania Middle Champs Bogong Creek / Namadgi National Park Sunday 27 Sep Oceania Relays Honeysuckle Creek / Namadgi National Park Tuesday 29 Sep ASOC Sprint Orana Steiner School Flight of […]
-Oceania Championships | Entries Open | 26 Sep to 4 Oct first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
