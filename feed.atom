@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-06T09:52:23.041Z</updated>
+    <updated>2026-07-06T14:53:23.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Annual Report Published]]></title>
+        <id>https://orienteering.asn.au/?p=16335</id>
+        <link href="https://orienteering.asn.au/2025-annual-report-published-copy/"/>
+        <updated>2026-07-06T10:24:03.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Annual Report of OA has been published and is available for reading on the OA website.
+2025 Annual Report Published first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2027 Kings Birthday Weekend | Embargo Notice]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66117</id>
