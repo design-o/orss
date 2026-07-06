@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-06T01:59:43.136Z</updated>
+    <updated>2026-07-06T09:52:23.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2027 Kings Birthday Weekend | Embargo Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66117</id>
+        <link href="https://www.orienteering.org.nz/news/2027-kings-birthday-weekend-embargo-notice/"/>
+        <updated>2026-07-06T04:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Nelson Orienteering Club is hosting King’s Birthday Weekend from 5 to 7 June 2027. The competition includes three World Ranking Events, including the trials for the NZSS team to compete at the Southern Cross Junior Challenge in Australia. Once more we travel to Golden Bay / Mohua to experience a new navigational challenge, this time […]
+2027 Kings Birthday Weekend | Embargo Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOC 2026: All You Need To KNow]]></title>
+        <id>http://news.worldofo.com/?p=21604</id>
+        <link href="https://news.worldofo.com/2026/07/06/woc-2026-all-you-need-to-know/"/>
+        <updated>2026-07-06T03:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Tricky urban orienteering with technical route choices is expected when the 2026 World Orienteering Championships (WOC) starts in Genova, Italy on Tuesday July 7th with the Individual Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Knock-Out Sprint Qualification on Thursday July 9th, the Knock-Out Sprint final rounds on ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup 3 Team Finalised | Men’s Team Reselected]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66097</id>

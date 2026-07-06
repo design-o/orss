@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21604",
+          "author": "Jan Kocbach",
+          "description": "Tricky urban orienteering with technical route choices is expected when the 2026 World Orienteering Championships (WOC) starts in Genova, Italy on Tuesday July 7th with the Individual Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Knock-Out Sprint Qualification on Thursday July 9th, the Knock-Out Sprint final rounds on ...",
+          "link": "https://news.worldofo.com/2026/07/06/woc-2026-all-you-need-to-know/",
+          "publishedOn": "2026-07-06T03:00:43.000Z",
+          "wordCount": 2739,
+          "title": "WOC 2026: All You Need To KNow",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/07/2026-07-06-00_47_10-Genova-2013.jpg-ACDSee-Quick-View-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21595",
           "author": "Jan Kocbach",
           "description": "The 2026 edition of Jukola – the largest orienteering relay in the world  – is organized the coming weekend, with more than 3400 teams and more than 19.000 competitors on the start in total! Start of the Jukola relay is Saturday at 22:00 CET (23:00 local time). 9.5 hours earlier at 12:30 CET the women start their relay. ...",
@@ -350,6 +360,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=66117",
+          "author": "Christo Peters",
+          "description": "Nelson Orienteering Club is hosting King’s Birthday Weekend from 5 to 7 June 2027. The competition includes three World Ranking Events, including the trials for the NZSS team to compete at the Southern Cross Junior Challenge in Australia. Once more we travel to Golden Bay / Mohua to experience a new navigational challenge, this time […]\n2027 Kings Birthday Weekend | Embargo Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2027-kings-birthday-weekend-embargo-notice/",
+          "publishedOn": "2026-07-06T04:14:21.000Z",
+          "wordCount": 2134,
+          "title": "2027 Kings Birthday Weekend | Embargo Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/07/KB-Logo-scaled.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=66097",
           "author": "Christo Peters",
