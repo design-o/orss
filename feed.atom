@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-06T14:53:23.112Z</updated>
+    <updated>2026-07-06T19:30:23.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -554,17 +554,6 @@ The post Did the Middle Solve the Riddle? appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[June’s Community Conversation brought together members from across Scottish clubs to share thoughts on supporting and encouraging newcomer families.  This […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skill Up!  Saturday Afternoon Skills Session 2, June 20 at Candlebark Park]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15643</id>
-        <link href="https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/"/>
-        <updated>2026-06-07T04:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Come along to the next Skill Up Saturday Afternoon Session on June 20, at Candlebark Park.  Learn how to Go Bush!
-Skill Up!  Saturday Afternoon Skills Session 2, June 20 at Candlebark Park first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
