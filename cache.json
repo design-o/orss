@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21619",
+          "author": "Jan Kocbach",
+          "description": "Kasper Fosser (NOR) and Simone Aebersold (SUI) won one the Individual Sprint in the World Orienteering Championships in Genova, Italiya. While the battle for the medals in the men’s class was close all the way to the end, Aebersold dominated the women’s race and won with more than a minute. In the men’s class, Fosser ...",
+          "link": "https://news.worldofo.com/2026/07/08/woc-2026-individual-sprint-maps-results-analysis/",
+          "publishedOn": "2026-07-08T03:00:01.000Z",
+          "wordCount": 1940,
+          "title": "WOC 2026 Individual Sprint: Maps, Results & Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/07/2026-07-08-01_29_56-map_woc2026_sprint_w.png-ACDSee-Quick-View-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21604",
           "author": "Jan Kocbach",
           "description": "Tricky urban orienteering with technical route choices is expected when the 2026 World Orienteering Championships (WOC) starts in Genova, Italy on Tuesday July 7th with the Individual Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Knock-Out Sprint Qualification on Thursday July 9th, the Knock-Out Sprint final rounds on ...",
@@ -323,6 +333,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=24480",
+          "author": "James Gjertsen",
+          "description": "Streatham Common continued our run of very warm park races in this series. Mixed with a couple of hills I was definitely needing that post [...]",
+          "link": "https://slow.org.uk/racereports/streatham-common-park-race-results/",
+          "publishedOn": "2026-07-08T06:16:34.000Z",
+          "wordCount": 1826,
+          "title": "Streatham Common Park Race Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/IMG-20260707-WA0002.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=24456",
           "author": "vinh",
