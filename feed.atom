@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T13:26:12.788Z</updated>
+    <updated>2026-07-08T19:03:25.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -606,25 +606,6 @@ The post Like a London Bus – Here Come Another Two appeared first on NI Orient
 The post Did the Middle Solve the Riddle? appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballarat Classic Bush Orienteering, Sunday 21 June]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15765</id>
-        <link href="https://www.vicorienteering.asn.au/ballarat-classic-bush-orienteering-sunday-21-june/"/>
-        <updated>2026-06-09T06:38:43.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Parents Involved in Orienteering]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57318</id>
-        <link href="https://www.scottish-orienteering.org/news/getting-parents-involved-in-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=getting-parents-involved-in-orienteering"/>
-        <updated>2026-06-08T12:18:34.000Z</updated>
-        <summary type="html"><![CDATA[June’s Community Conversation brought together members from across Scottish clubs to share thoughts on supporting and encouraging newcomer families.  This […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
