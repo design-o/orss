@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T14:26:30.543Z</updated>
+    <updated>2026-07-09T19:18:36.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Schools Embraced the Scottish Schools Festival]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57393</id>
+        <link href="https://www.scottish-orienteering.org/news/how-schools-embraced-the-scottish-schools-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-schools-embraced-the-scottish-schools-festival"/>
+        <updated>2026-07-09T09:52:34.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Schools Orienteering Festival once again proved why it has become such a valued date in the school sports […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streatham Common Park Race Results]]></title>
         <id>https://slow.org.uk/?p=24480</id>
