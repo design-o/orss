@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T01:45:34.104Z</updated>
+    <updated>2026-07-10T08:57:32.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2029 | Embargo Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66167</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-2029-embargo/"/>
+        <updated>2026-07-10T05:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering New Zealand (ONZ) has submitted an application to the International Orienteering Federation (IOF) to host the Junior World Orienteering Champs (JWOC) in October 2029. As part of this application, IOF requires a minimum 3-year notice for embargoes. ONZ has put together a list of areas that have the potential to be used. If ONZ […]
+JWOC 2029 | Embargo Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Callum Wishart (ONZ Tech Committee Support)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Schools Embraced the Scottish Schools Festival]]></title>
         <id>https://www.scottish-orienteering.org/?p=57393</id>
