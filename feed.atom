@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T19:13:31.360Z</updated>
+    <updated>2026-07-11T01:24:37.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -574,17 +574,6 @@ The post Entries Closing for the Tollymore Festival of Orienteeering appeared fi
         <summary type="html"><![CDATA[By Louise Adams – SOA Development Officer On Thursday June 4th, pupils from across Scotland came together to orienteer around […]]]></summary>
         <author>
             <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering Australia Elite Rankings – June 2026]]></title>
-        <id>https://orienteering.asn.au/?p=16165</id>
-        <link href="https://orienteering.asn.au/orienteering-australia-elite-rankings-june-2026/"/>
-        <updated>2026-06-11T12:18:13.000Z</updated>
-        <summary type="html"><![CDATA[The latest Orienteering Australia Elite Rankings are published.
-Orienteering Australia Elite Rankings – June 2026 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
