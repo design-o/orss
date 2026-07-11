@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21700",
+          "author": "Jan Kocbach",
+          "description": "Tereza Rauturier (CZE) and Guilhem Verove (FRA) won the Knock-Out Sprint World Orienteering Championships (WOC) after tight and intense races – again with very tricky orienteering.  In the two previous WOC Knock-Out Sprints the victories went to Sweden and Switzerland – this year we got two new nations at the top. France yet again proved that ...",
+          "link": "https://news.worldofo.com/2026/07/11/woc-2026-knock-out-sprint-maps-and-results/",
+          "publishedOn": "2026-07-11T03:00:07.000Z",
+          "wordCount": 2311,
+          "title": "WOC 2026 Knock-Out Sprint: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/07/map_final-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21619",
           "author": "Jan Kocbach",
           "description": "Kasper Fosser (NOR) and Simone Aebersold (SUI) won one the Individual Sprint in the World Orienteering Championships in Genova, Italiya. While the battle for the medals in the men’s class was close all the way to the end, Aebersold dominated the women’s race and won with more than a minute. In the men’s class, Fosser ...",
