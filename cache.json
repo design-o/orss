@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21729",
+          "author": "Jan Kocbach",
+          "description": "Switzerland defended the World Orienteering Championships Sprint Relay title in Genoa, Italy, after a fantastic final leg by Simona Aebersold. Sweden took silver after Karolin Ohlsson passed Norway’s Pia Young Vik near the end of the race, while Norway had to settle for bronze despite starting the last leg with a 28-second lead. Switzerland’s Natalia ...",
+          "link": "https://news.worldofo.com/2026/07/12/woc-2026-sprint-relay-maps-and-results/",
+          "publishedOn": "2026-07-12T03:00:46.000Z",
+          "wordCount": 2020,
+          "title": "WOC 2026 Sprint Relay: Maps and Results",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/07/1000020174-660x330.jpeg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21700",
           "author": "Jan Kocbach",
           "description": "Tereza Rauturier (CZE) and Guilhem Verove (FRA) won the Knock-Out Sprint World Orienteering Championships (WOC) after tight and intense races – again with very tricky orienteering.  In the two previous WOC Knock-Out Sprints the victories went to Sweden and Switzerland – this year we got two new nations at the top. France yet again proved that ...",
@@ -710,16 +720,6 @@
           "wordCount": 4299,
           "title": "Rescheduled IOC",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/01/IOC-2026.png"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7411",
-          "author": "NIOA Secretary",
-          "description": "Entries close on Sunday 14 June at midnight for annual Tollymore Festival of Orienteering, staged by LVO on 19-21 June. The festival includes the NI Urban Race at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June. Full...\nThe post Entries Closing for the Tollymore Festival of Orienteeering appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/entries-closing-for-the-tollymore-festival-of-orienteeering/",
-          "publishedOn": "2026-06-12T19:05:40.000Z",
-          "wordCount": 4398,
-          "title": "Entries Closing for the Tollymore Festival of Orienteeering",
-          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/06/Tolymore-2026.jpg?fit=1080%2C1080&ssl=1"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T01:26:40.519Z</updated>
+    <updated>2026-07-12T07:55:58.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOC 2026 Sprint Relay: Maps and Results]]></title>
+        <id>http://news.worldofo.com/?p=21729</id>
+        <link href="https://news.worldofo.com/2026/07/12/woc-2026-sprint-relay-maps-and-results/"/>
+        <updated>2026-07-12T03:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Switzerland defended the World Orienteering Championships Sprint Relay title in Genoa, Italy, after a fantastic final leg by Simona Aebersold. Sweden took silver after Karolin Ohlsson passed Norway’s Pia Young Vik near the end of the race, while Norway had to settle for bronze despite starting the last leg with a 28-second lead. Switzerland’s Natalia ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOC 2026 Knock-Out Sprint: Maps, Results and Analysis]]></title>
         <id>http://news.worldofo.com/?p=21700</id>
@@ -553,17 +563,6 @@ MelbushO at Birdsland/Wellington Chase, Sunday 28 June first appeared on Oriente
         <summary type="html"><![CDATA[Oak Hill Recap NEOOC continued to celebrate our 50th anniversary year with our first map exchange event in many, many years. Orienteers started the score course with a map showing half of the controls.  They had to exchange or trade with others for the second map.  Interesting and fun event.  I think you will see […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Closing for the Tollymore Festival of Orienteeering]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7411</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-the-tollymore-festival-of-orienteeering/"/>
-        <updated>2026-06-12T19:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Entries close on Sunday 14 June at midnight for annual Tollymore Festival of Orienteering, staged by LVO on 19-21 June. The festival includes the NI Urban Race at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June. Full...
-The post Entries Closing for the Tollymore Festival of Orienteeering appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
