@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T18:58:41.321Z</updated>
+    <updated>2026-07-15T01:13:55.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -15,6 +15,17 @@
 Orienteering NZ welcomes the world’s best junior orienteers in 2029 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Joolz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelbushO at Westerfolds Park, Sunday 19 July]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15605</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
+        <updated>2026-07-14T01:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the next MelbushO on Sunday 19 July - entries close Thursday 16 July. Discover Westerfolds all over again!
+MelbushO at Westerfolds Park, Sunday 19 July first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
