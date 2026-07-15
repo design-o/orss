@@ -616,16 +616,6 @@
           "wordCount": 1686,
           "title": "Map Downloads | 2026 Richfield Self Serve Event | Richfield Heritage Preserve | Saturday, June 20th thru 28th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2015/08/cropped-Orienteering_symbol_framed.png"
-        },
-        {
-          "id": "https://neooc.com/?p=50587",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2026 Paddle-O | Walborn Reservoir – Stark Parks | Sunday, July 19th",
-          "link": "https://neooc.com/new-event-2026-paddle-o-walborn-reservoir-stark-parks-sunday-july-19th/",
-          "publishedOn": "2026-06-16T03:06:22.000Z",
-          "wordCount": 1657,
-          "title": "New Event | 2026 Paddle-O | Walborn Reservoir – Stark Parks | Sunday, July 19th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/06/20250720_130322-scaled.jpg"
         }
       ]
     },
@@ -634,6 +624,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57402",
+          "author": "heidi",
+          "description": "The Summer of Sport 2026 is a major programme led by sportscotland, designed to encourage children and young people across […]",
+          "link": "https://www.scottish-orienteering.org/news/summer-of-sport-2026/?utm_source=rss&utm_medium=rss&utm_campaign=summer-of-sport-2026",
+          "publishedOn": "2026-07-15T10:48:39.000Z",
+          "wordCount": 1945,
+          "title": "Summer of Sport 2026",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/07/image-1024x618.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57393",
           "author": "heidi",
@@ -672,16 +672,6 @@
           "publishedOn": "2026-06-17T14:17:26.000Z",
           "wordCount": 1619,
           "title": "Senior Development Officer Job Opportunity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57187",
-          "author": "heidi",
-          "description": "Scottish Orienteering is excited to introduce a brand‑new Junior Volunteer Awards Scheme, created to recognise and encourage juniors who are […]",
-          "link": "https://www.scottish-orienteering.org/news/introducing-the-junior-volunteer-award-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-the-junior-volunteer-award-scheme",
-          "publishedOn": "2026-06-15T14:25:37.000Z",
-          "wordCount": 1665,
-          "title": "Introducing the Junior Volunteer Award Scheme",
           "imageUrl": null
         }
       ]
