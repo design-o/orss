@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T18:52:51.190Z</updated>
+    <updated>2026-07-16T01:23:31.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -565,17 +565,6 @@ Schools Development Squad Trip to Australia first appeared on Orienteering New
         <updated>2026-06-17T04:15:51.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Southern Cross | Provisional Team Selections]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65958</id>
-        <link href="https://www.orienteering.org.nz/news/2026-southern-cross-provisional-team-selections/"/>
-        <updated>2026-06-16T05:28:05.000Z</updated>
-        <summary type="html"><![CDATA[The Junior Selection Panel has named two teams of equal ability to compete for the Southern Cross Trophy against the six Australian states and the Australian Capital Territory in the 2026 Australian Schools Championships. The championships will be held in the ACT as part of the Oceania carnival which runs from 26 September to 4 […]
-2026 Southern Cross | Provisional Team Selections first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
