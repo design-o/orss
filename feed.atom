@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T13:15:05.482Z</updated>
+    <updated>2026-07-16T18:52:38.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Urban Orienteering and Avoiding Collisions]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57414</id>
+        <link href="https://www.scottish-orienteering.org/news/urban-orienteering-and-avoiding-collisions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=urban-orienteering-and-avoiding-collisions"/>
+        <updated>2026-07-16T12:05:36.000Z</updated>
+        <summary type="html"><![CDATA[SOA Safety Director, Tim O’Donoghue, reflects on managing risks during urban orienteering, and suggests some steps for individual orienteers and […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer of Sport 2026]]></title>
         <id>https://www.scottish-orienteering.org/?p=57402</id>
@@ -556,15 +566,6 @@ Schools Development Squad Trip to Australia first appeared on Orienteering New
         <summary type="html"><![CDATA[The Scottish Orienteering Association is seeking a Senior Development Officer to join our SOA staff team. Are you passionate about […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorians on the World Stage, June to August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15691</id>
-        <link href="https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/"/>
-        <updated>2026-06-17T04:15:51.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

@@ -278,16 +278,6 @@
           "wordCount": 1043,
           "title": "Enjoy Bendigo Bush at Coolibah, Saturday 27 June",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15691",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorians-selected-for-world-champs-teams/",
-          "publishedOn": "2026-06-17T04:15:51.000Z",
-          "wordCount": 1049,
-          "title": "Victorians on the World Stage, June to August",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -614,6 +604,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57414",
+          "author": "nikkihoward",
+          "description": "SOA Safety Director, Tim O’Donoghue, reflects on managing risks during urban orienteering, and suggests some steps for individual orienteers and […]",
+          "link": "https://www.scottish-orienteering.org/news/urban-orienteering-and-avoiding-collisions/?utm_source=rss&utm_medium=rss&utm_campaign=urban-orienteering-and-avoiding-collisions",
+          "publishedOn": "2026-07-16T12:05:36.000Z",
+          "wordCount": 2723,
+          "title": "Urban Orienteering and Avoiding Collisions",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/04/x8-1024x951.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57402",
           "author": "heidi",
