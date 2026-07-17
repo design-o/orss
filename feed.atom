@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T07:49:10.510Z</updated>
+    <updated>2026-07-17T12:59:37.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Club Networking Days]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57435</id>
+        <link href="https://www.scottish-orienteering.org/news/2026-club-networking-days/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-club-networking-days"/>
+        <updated>2026-07-17T11:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Each year SOA organises a day for club members from across Scotland to come together to share experiences and ideas […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Juniors on Tour]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57426</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-juniors-on-tour/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-juniors-on-tour"/>
+        <updated>2026-07-17T11:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Every 2 years ScotJOS organises a training tour to Sweden for all its junior members. This year a record 37 […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orienteering on a Different Scale]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57416</id>
+        <link href="https://www.scottish-orienteering.org/news/orienteering-on-a-different-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-on-a-different-scale"/>
+        <updated>2026-07-17T09:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Not scale of map – but scale of event! With hundreds of events each year in Scotland – from local […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urban Orienteering and Avoiding Collisions]]></title>
         <id>https://www.scottish-orienteering.org/?p=57414</id>

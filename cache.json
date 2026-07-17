@@ -615,6 +615,36 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57435",
+          "author": "nikkihoward",
+          "description": "Each year SOA organises a day for club members from across Scotland to come together to share experiences and ideas […]",
+          "link": "https://www.scottish-orienteering.org/news/2026-club-networking-days/?utm_source=rss&utm_medium=rss&utm_campaign=2026-club-networking-days",
+          "publishedOn": "2026-07-17T11:52:39.000Z",
+          "wordCount": 1648,
+          "title": "2026 Club Networking Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57426",
+          "author": "nikkihoward",
+          "description": "Every 2 years ScotJOS organises a training tour to Sweden for all its junior members. This year a record 37 […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-juniors-on-tour/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-juniors-on-tour",
+          "publishedOn": "2026-07-17T11:32:22.000Z",
+          "wordCount": 2679,
+          "title": "Scottish Juniors on Tour",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/07/IMG_1691-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57416",
+          "author": "nikkihoward",
+          "description": "Not scale of map – but scale of event! With hundreds of events each year in Scotland – from local […]",
+          "link": "https://www.scottish-orienteering.org/news/orienteering-on-a-different-scale/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-on-a-different-scale",
+          "publishedOn": "2026-07-17T09:39:18.000Z",
+          "wordCount": 3260,
+          "title": "Orienteering on a Different Scale",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/07/Ok2bpx5LIQ4.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57414",
           "author": "nikkihoward",
           "description": "SOA Safety Director, Tim O’Donoghue, reflects on managing risks during urban orienteering, and suggests some steps for individual orienteers and […]",
