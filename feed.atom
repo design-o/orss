@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T01:17:54.425Z</updated>
+    <updated>2026-07-18T07:24:03.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -554,37 +554,6 @@ The post Rescheduled IOC appeared first on NI Orienteering Association.]]></summ
         <summary type="html"><![CDATA[Map downloads in PDF format are available NOW! Use this direct link – click here! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Streatham Common]]></title>
-        <id>https://slow.org.uk/?p=24417</id>
-        <link href="https://slow.org.uk/events/park-race-streatham-common/"/>
-        <updated>2026-06-18T18:30:57.000Z</updated>
-        <summary type="html"><![CDATA[We’re now into the latter parts of the 2026 Park Race series and on to the eighth race. This time will be in Streatham, south [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA Development Fund project spotlight: Roxburgh Reivers’ ‘Learn to Navigate’]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57356</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-development-fund-project-spotlight-roxburgh-reivers-learn-to-navigate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-development-fund-project-spotlight-roxburgh-reivers-learn-to-navigate"/>
-        <updated>2026-06-18T13:52:24.000Z</updated>
-        <summary type="html"><![CDATA[In February, SOA awarded development funding to Roxburgh Reivers to support an innovative club development project. The project stood out […]]]></summary>
-        <author>
-            <name>louise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schools Development Squad Trip to Australia]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=65970</id>
-        <link href="https://www.orienteering.org.nz/news/schools-development-squad-trip-to-australia/"/>
-        <updated>2026-06-18T08:01:20.000Z</updated>
-        <summary type="html"><![CDATA[The Southern Cross selectors were once again impressed by the strength and depth of school-level orienteering, which has motivated the decision to take an extended group to Australia again this year. The athletes named below were identified through their results at King’s Birthday and/or through the attitude and commitment they’ve shown.   Above all, we are looking […]
-Schools Development Squad Trip to Australia first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>
