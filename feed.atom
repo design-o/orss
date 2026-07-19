@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T18:42:42.574Z</updated>
+    <updated>2026-07-19T01:24:36.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup 4 | Selection Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66204</id>
+        <link href="https://www.orienteering.org.nz/news/selection-notice-2026-world-cup-round-4/"/>
+        <updated>2026-07-18T19:06:40.000Z</updated>
+        <summary type="html"><![CDATA[The fourth round of the 2026 IOF World Cup will be held in the Druskininkai, Lithuania from 22-27 September 2026, in conjunction with the 2026 European Orienteering Championships. The programme will consist of a long distance, middle distance and relay. New Zealand is entitled to enter up to 8 men and 8 women in all […]
+World Cup 4 | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Club Networking Days]]></title>
         <id>https://www.scottish-orienteering.org/?p=57435</id>
@@ -544,16 +555,6 @@ The post Rescheduled IOC appeared first on NI Orienteering Association.]]></summ
         <summary type="html"><![CDATA[On behalf of Cork Orienteering Club, I would like to thank the Irish Orienteering community for their understanding and patience over the last number of weeks. We have surveyed our IOC2026 competitors. Based on the responses, we have decided to proceed with the Relay Championships on Saturday 29th August, and the Classic Distance Championships on […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Map Downloads | 2026 Richfield Self Serve Event | Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></title>
-        <id>https://neooc.com/?p=50618</id>
-        <link href="https://neooc.com/map-downloads-2026-richfield-self-serve-event-richfield-heritage-preserve-saturday-june-20th-thru-28th/"/>
-        <updated>2026-06-19T12:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Map downloads in PDF format are available NOW! Use this direct link – click here! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
