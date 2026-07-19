@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T07:55:15.569Z</updated>
+    <updated>2026-07-19T12:47:40.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -536,15 +536,6 @@ World Cup 3 | Men’s athletes to be reselected first appeared on Orienteering N
 The post Rescheduled IOC appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 7, Sailors Diggings, Sunday 26 July]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15797</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-7-sailors-diggings-sunday-26-july/"/>
-        <updated>2026-06-20T00:30:26.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
