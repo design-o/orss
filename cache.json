@@ -314,6 +314,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=24549",
+          "author": "James Gjertsen",
+          "description": "Thank you all for coming to the London Park Race Series 2026 finale. I’m sure many of you will have been glad, like I was, [...]",
+          "link": "https://slow.org.uk/racereports/tooting-common-and-series-results/",
+          "publishedOn": "2026-07-21T22:22:51.000Z",
+          "wordCount": 1890,
+          "title": "Tooting Common Park Race and Series Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/the-lake-at-tooting-bec-common-london.jpeg"
+        },
+        {
           "id": "https://slow.org.uk/?p=24480",
           "author": "James Gjertsen",
           "description": "Streatham Common continued our run of very warm park races in this series. Mixed with a couple of hills I was definitely needing that post [...]",
