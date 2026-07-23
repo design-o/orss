@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T08:07:32.866Z</updated>
+    <updated>2026-07-23T13:20:01.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -576,27 +576,6 @@ The post Streets and Mountains appeared first on NI Orienteering Association.]]>
 Beechworth Orienteering Weekend, July 4 and 5 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 3 | Men’s athletes to be reselected]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66017</id>
-        <link href="https://www.orienteering.org.nz/news/world-cup-3-mens-athletes-to-be-reselected/"/>
-        <updated>2026-06-24T00:06:23.000Z</updated>
-        <summary type="html"><![CDATA[An was convened to hear an appeal to the Men’s World Cup 3 selections. The appeal was made on grounds:  1.4 (a) Selection criteria were not followed and/or implemented  1.4 (b) Athlete was not afforded a reasonable opportunity to satisfy the selection criteria.  The Appeals Panel recommended to the Board that the appeal be upheld […]
-World Cup 3 | Men’s athletes to be reselected first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waterloo Parks Race Results]]></title>
-        <id>https://slow.org.uk/?p=24437</id>
-        <link href="https://slow.org.uk/racereports/waterloo-parks-race-results/"/>
-        <updated>2026-06-23T22:08:33.000Z</updated>
-        <summary type="html"><![CDATA[It seems Burgess Park wasn’t the only race this series with temperatures above 30! Let’s see if we get any more. It doesn’t seem to [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
     <entry>
