@@ -287,6 +287,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22814",
+          "author": "Deirdre",
+          "description": "Wishing Kerry Orienteers the very best as the Kerry Festival of Orienteering, incorporating the OOCup, kicks off this Saturday, 25th July, in Killarney. With 2000 people registered from 35 countries it will be the biggest orienteering event ever hosted in Ireland. The festival kicks off Saturday afternoon with the Indoor / Outdoor event in St. […]",
+          "link": "https://www.orienteering.ie/kerry-festival-of-orienteering/",
+          "publishedOn": "2026-07-23T07:28:29.000Z",
+          "wordCount": 1069,
+          "title": "Kerry Festival of Orienteering",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22692",
           "author": "Deirdre",
           "description": "Entries for the rescheduled Irish Orienteering Relay and Classic Distance Championships on August 29th and 30th have now opened on the Fabian4 website.  All competitors need to re-enter for the new dates at: Relays: https://fabian4.co.uk/default.aspx?EventID=4286 Classic: https://fabian4.co.uk/default.aspx?EventID=4285 Due to fixed costs associated with running the May competitions we are refunding 80% of the entry fees for those events, […]",
@@ -380,6 +390,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=66238",
+          "author": "Christo Peters",
+          "description": "The next Australia-New Zealand Challenge will be held in Canberra, Australia from 26 September to 04 October 2026, in conjunction with the Oceania Orienteering Championships. The Challenge will consist of an Individual Challenge, based on the Oceania Long Distance, Middle Distance and Sprint Distance Championships, and a Relay Challenge, based on the Oceania Relay Championships. […]\n2026 Foot O AUS-NZL Challenge | Selection Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/selection-notice-2026-aus-nzl-foot-o-challenge/",
+          "publishedOn": "2026-07-23T07:48:29.000Z",
+          "wordCount": 2279,
+          "title": "2026 Foot O AUS-NZL Challenge | Selection Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Aus-NZ-Challenge-2025.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=66204",
           "author": "Christo Peters",
