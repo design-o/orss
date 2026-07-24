@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T13:13:35.790Z</updated>
+    <updated>2026-07-24T19:08:40.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -315,6 +315,17 @@ Skill Up!  Saturday Afternoon Skills Session 3, July 11 at Pipemakers Park first
         <summary type="html"><![CDATA[Tricky urban orienteering with technical route choices is expected when the 2026 World Orienteering Championships (WOC) starts in Genova, Italy on Tuesday July 7th with the Individual Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Knock-Out Sprint Qualification on Thursday July 9th, the Knock-Out Sprint final rounds on ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic MTBO Series and Training, Castlemaine Maldon, 18 and 19 July]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15794</id>
+        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-and-training-castlemaine-maldon-18-and-19-july/"/>
+        <updated>2026-07-05T00:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Register now for the next Vic MTBO Series event, and for the free training on Saturday
+Vic MTBO Series and Training, Castlemaine Maldon, 18 and 19 July first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
