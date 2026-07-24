@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T01:26:23.077Z</updated>
+    <updated>2026-07-24T08:03:59.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -555,16 +555,6 @@ Park Street Update, June 30-July 6 first appeared on Orienteering Victoria.]]></
         <updated>2026-06-25T00:29:23.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Race – Tooting Bec]]></title>
-        <id>https://slow.org.uk/?p=24443</id>
-        <link href="https://slow.org.uk/events/park-race-tooting-bec/"/>
-        <updated>2026-06-24T16:45:26.000Z</updated>
-        <summary type="html"><![CDATA[It feels like it’s flown by but the finale of the 2026 Park Race series will be in Tooting Bec, south west London, on Tuesday 21st July. [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
     <entry>
