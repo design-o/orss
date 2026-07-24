@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T08:03:59.482Z</updated>
+    <updated>2026-07-24T13:13:35.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -546,15 +546,6 @@ Park Street Update, June 30-July 6 first appeared on Orienteering Victoria.]]></
         <summary type="html"><![CDATA[Still Four more Days of Orienteering! Map downloads in PDF format are available NOW! Use this direct link for maps – click here! Ongoing Results – click here! 2026 Richfield | Self Serve Event at Richfield Heritage Preserve | Saturday, June 20th thru 28th]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic MTBO Series and Training, Castlemaine Maldon, 18 and 19 July]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15794</id>
-        <link href="https://www.vicorienteering.asn.au/vic-mtbo-series-and-training-castlemaine-maldon-18-and-19-july/"/>
-        <updated>2026-06-25T00:29:23.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
