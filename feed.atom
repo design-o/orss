@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T18:55:50.996Z</updated>
+    <updated>2026-07-24T01:26:23.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -457,6 +457,17 @@ Maze-O  |  Intro to orienteering inSouth Australia first appeared on Orientee
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beechworth Orienteering Weekend, July 4 and 5]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15707</id>
+        <link href="https://www.vicorienteering.asn.au/beechworth-weekend/"/>
+        <updated>2026-06-29T23:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Head up the Hume for this fantastic double header weekend of top quality orienteering in Victoria's beautiful north east! Entries close Thursday 2 July
+Beechworth Orienteering Weekend, July 4 and 5 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[British Sprint Weekend 2026]]></title>
         <id>https://slow.org.uk/?p=24456</id>
         <link href="https://slow.org.uk/clubnews/bsc2024-2/"/>
@@ -554,17 +565,6 @@ Park Street Update, June 30-July 6 first appeared on Orienteering Victoria.]]></
         <summary type="html"><![CDATA[It feels like it’s flown by but the finale of the 2026 Park Race series will be in Tooting Bec, south west London, on Tuesday 21st July. [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streets and Mountains]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7452</id>
-        <link href="https://www.niorienteering.org.uk/streets-and-mountains/"/>
-        <updated>2026-06-24T09:07:11.000Z</updated>
-        <summary type="html"><![CDATA[The results are in for the double header of the NI Urban League event at Dundrum on Friday 19 June and the NI Colour Series at Slieve Croob on Saturday 20 June all part of the Tollymore Festival of Orienteering. Testing urban village and classic...
-The post Streets and Mountains appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
