@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-26T08:04:11.348Z</updated>
+    <updated>2026-07-26T12:53:30.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -142,6 +142,17 @@ World Cup 4 | Selection Notice first appeared on Orienteering New Zealand.]]></s
     <entry>
         <title type="html"><![CDATA[Blair Trewin appointed Vice President of IOF]]></title>
         <id>https://orienteering.asn.au/?p=16365</id>
+        <link href="https://orienteering.asn.au/blair-trewin-appointed-vice-president-of-iof/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=blair-trewin-appointed-vice-president-of-iof"/>
+        <updated>2026-07-15T06:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia would like to congratulate Blair Trewin on his appointment as Vice President of the International Orienteering Federation for the period 2026-2030.
+Blair Trewin appointed Vice President of IOF first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blair Trewin appointed Vice President of IOF]]></title>
+        <id>https://orienteering.asn.au/?p=16365</id>
         <link href="https://orienteering.asn.au/blair-trewin-appointed-vice-president-of-iof/"/>
         <updated>2026-07-15T06:49:43.000Z</updated>
         <summary type="html"><![CDATA[Orienteering Australia would like to congratulate Blair Trewin on his appointment as Vice President of the International Orienteering Federation for the period 2026-2030.
@@ -272,6 +283,17 @@ The post Summer Helpers at Gosford appeared first on NI Orienteering Association
         <summary type="html"><![CDATA[Entries for the rescheduled Irish Orienteering Relay and Classic Distance Championships on August 29th and 30th have now opened on the Fabian4 website.  All competitors need to re-enter for the new dates at: Relays: https://fabian4.co.uk/default.aspx?EventID=4286 Classic: https://fabian4.co.uk/default.aspx?EventID=4285 Due to fixed costs associated with running the May competitions we are refunding 80% of the entry fees for those events, […]]]></summary>
         <author>
             <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Annual Report Published]]></title>
+        <id>https://orienteering.asn.au/?p=16335</id>
+        <link href="https://orienteering.asn.au/2025-annual-report-published-copy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2025-annual-report-published-copy"/>
+        <updated>2026-07-06T10:24:03.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Annual Report of OA has been published and is available for reading on the OA website.
+2025 Annual Report Published first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
