@@ -425,6 +425,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57517",
+          "author": "nikkihoward",
+          "description": "This week will have seen many of our 14 and 16 age class Scottish juniors away exploring the delights of […]",
+          "link": "https://www.scottish-orienteering.org/news/scottish-juniors-enjoying-or-set-to-enjoy-jros-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=scottish-juniors-enjoying-or-set-to-enjoy-jros-opportunities",
+          "publishedOn": "2026-07-30T17:47:57.000Z",
+          "wordCount": 1983,
+          "title": "Scottish Juniors enjoying or set to enjoy JROS opportunities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57513",
+          "author": "nikkihoward",
+          "description": "We know that the right person for the Senior Development post is out there but feedback tells us we should […]",
+          "link": "https://www.scottish-orienteering.org/news/deadline-for-senior-development-post-applications-extended/?utm_source=rss&utm_medium=rss&utm_campaign=deadline-for-senior-development-post-applications-extended",
+          "publishedOn": "2026-07-30T15:43:13.000Z",
+          "wordCount": 1908,
+          "title": "Deadline for Senior Development Post applications extended",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/07/Junior-newsletter-photo-1-1024x538.png"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57505",
           "author": "nikkihoward",
           "description": "It is now just a 6 weeks until the World Masters Mountain Bike Orienteering Championships in Moray. There are 4 […]",
