@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T18:50:39.204Z</updated>
+    <updated>2026-08-02T01:28:53.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -55,6 +55,17 @@ Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zeala
         <summary type="html"><![CDATA[The Summer of Sport 2026 is a major programme led by sportscotland, designed to encourage children and young people across […]]]></summary>
         <author>
             <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Series 8, Spring Gully North, Sunday 9 August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15815</id>
+        <link href="https://www.vicorienteering.asn.au/vic-series-7-sailors-diggings-sunday-26-july-2/"/>
+        <updated>2026-07-27T01:11:02.000Z</updated>
+        <summary type="html"><![CDATA[The next Vic Series is coming up on Sunday August 9, at Spring Gully North, near Fryerstown in central Victoria
+Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
