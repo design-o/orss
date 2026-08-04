@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T13:41:44.743Z</updated>
+    <updated>2026-08-04T19:16:17.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -646,27 +646,6 @@ The post Summer Helpers at Gosford appeared first on NI Orienteering Association
 2027 Kings Birthday Weekend | Embargo Notice first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skill Up!  Saturday Afternoon Skills Session 3, July 11 at Pipemakers Park]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15643</id>
-        <link href="https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/"/>
-        <updated>2026-07-06T04:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Come along to the next Skill Up Saturday Afternoon Session on July 11 at Pipemakers Park. Step up to Sprints!
-Skill Up!  Saturday Afternoon Skills Session 3, July 11 at Pipemakers Park first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2026: All You Need To KNow]]></title>
-        <id>http://news.worldofo.com/?p=21604</id>
-        <link href="https://news.worldofo.com/2026/07/06/woc-2026-all-you-need-to-know/"/>
-        <updated>2026-07-06T03:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Tricky urban orienteering with technical route choices is expected when the 2026 World Orienteering Championships (WOC) starts in Genova, Italy on Tuesday July 7th with the Individual Sprint Qualification and Final. The championship – which is a sprint-only WOC – continues with the Knock-Out Sprint Qualification on Thursday July 9th, the Knock-Out Sprint final rounds on ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>
