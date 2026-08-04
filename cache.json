@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21736",
+          "author": "Jan Kocbach",
+          "description": "The 2026 Orienteering World Cup continues in Czechia this week and switches into forest mode and with Long, Middle and Relay races. The week starts with a qualification race on Wednesday August 5th, and continues with Long on August 6th. After a rest day the world orienteering elite continues with Middle on Saturday and Relay on Sunday. After ...",
+          "link": "https://news.worldofo.com/2026/08/04/world-cup-czechia-2026-all-you-need-to-know/",
+          "publishedOn": "2026-08-04T03:00:57.000Z",
+          "wordCount": 2134,
+          "title": "World Cup Czechia 2026: All You Need To Know",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/08/2026-08-04-02_14_03-eventor.orienteering.sport_Documents_Event_9066_1_Previous-map-Mnichovice-1998-660x330.jpg"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21729",
           "author": "Jan Kocbach",
           "description": "Switzerland defended the World Orienteering Championships Sprint Relay title in Genoa, Italy, after a fantastic final leg by Simona Aebersold. Sweden took silver after Karolin Ohlsson passed Norway’s Pia Young Vik near the end of the race, while Norway had to settle for bronze despite starting the last leg with a 28-second lead. Switzerland’s Natalia ...",
@@ -189,6 +199,26 @@
       "feedUrl": "https://www.vicorienteering.asn.au/news/feed",
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15864",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-club-relays-maldon-23-august-2026/",
+          "publishedOn": "2026-08-01T04:06:41.000Z",
+          "wordCount": 1036,
+          "title": "Victorian Club Relays, Maldon, 23 August 2026",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=15746",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/oceania-champs-entries-now-open/",
+          "publishedOn": "2026-07-28T06:20:09.000Z",
+          "wordCount": 1136,
+          "title": "Oceania Champs Entries Now Open",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
         {
           "id": "https://www.vicorienteering.asn.au/?p=15815",
           "author": "Debbie Dodd",
@@ -310,6 +340,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=66372",
+          "author": "Callum Wishart",
+          "description": "Orienteering New Zealand (ONZ) has been awarded the hosting rights to the Junior World Orienteering Championships in November 2029. ONZ has put together a list of areas that have the potential to be used. Once a formal organising group has been formed, along with an IOF SEA assigned to the event, final decisions will be […]\nJWOC 2029 | Embargo Notice first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/jwoc-2029-embargo-notice/",
+          "publishedOn": "2026-08-04T04:10:25.000Z",
+          "wordCount": 2022,
+          "title": "JWOC 2029 | Embargo Notice",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/07/Christchurch-New-Zealand.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=66351",
           "author": "Callum Wishart (ONZ Tech Committee Support)",

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T01:18:52.432Z</updated>
+    <updated>2026-08-04T08:14:25.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2029 | Embargo Notice]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66372</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-2029-embargo-notice/"/>
+        <updated>2026-08-04T04:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering New Zealand (ONZ) has been awarded the hosting rights to the Junior World Orienteering Championships in November 2029. ONZ has put together a list of areas that have the potential to be used. Once a formal organising group has been formed, along with an IOF SEA assigned to the event, final decisions will be […]
+JWOC 2029 | Embargo Notice first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Callum Wishart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup Czechia 2026: All You Need To Know]]></title>
+        <id>http://news.worldofo.com/?p=21736</id>
+        <link href="https://news.worldofo.com/2026/08/04/world-cup-czechia-2026-all-you-need-to-know/"/>
+        <updated>2026-08-04T03:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Orienteering World Cup continues in Czechia this week and switches into forest mode and with Long, Middle and Relay races. The week starts with a qualification race on Wednesday August 5th, and continues with Long on August 6th. After a rest day the world orienteering elite continues with Middle on Saturday and Relay on Sunday. After ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NZOC 2027 | Embargo Notice]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66351</id>
@@ -216,6 +237,15 @@ Swedish perspective on NZ terrain  |  Gustafsson family first appeared on Ori
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victorian Club Relays, Maldon, 23 August 2026]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15864</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-club-relays-maldon-23-august-2026/"/>
+        <updated>2026-08-01T04:06:41.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pokapū Central Champs | Embargo notice]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66268</id>
         <link href="https://www.orienteering.org.nz/news/pokapu-central-champs-embargo-notice/"/>
@@ -264,6 +294,15 @@ Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zeala
         <summary type="html"><![CDATA[The Summer of Sport 2026 is a major programme led by sportscotland, designed to encourage children and young people across […]]]></summary>
         <author>
             <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceania Champs Entries Now Open]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15746</id>
+        <link href="https://www.vicorienteering.asn.au/oceania-champs-entries-now-open/"/>
+        <updated>2026-07-28T06:20:09.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
