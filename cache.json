@@ -258,16 +258,6 @@
           "wordCount": 1063,
           "title": "Enjoy Bendigo Bush at Old Tom, Saturday 18 July",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15804",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorian-schools-team-announced/",
-          "publishedOn": "2026-07-08T00:45:08.000Z",
-          "wordCount": 999,
-          "title": "Victorian Schools Team Announced",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -276,6 +266,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=22848",
+          "author": "Operations Manager",
+          "description": "Check out the latest edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland here!",
+          "link": "https://www.orienteering.ie/the-download-august-2026/",
+          "publishedOn": "2026-08-06T09:51:14.000Z",
+          "wordCount": 883,
+          "title": "The Download August 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=22814",
           "author": "Deirdre",
