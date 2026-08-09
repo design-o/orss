@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T12:24:12.732Z</updated>
+    <updated>2026-08-09T18:21:46.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -581,16 +581,6 @@ MelbushO at Westerfolds Park, Sunday 19 July first appeared on Orienteering Vict
         <link href="https://news.worldofo.com/2026/07/12/woc-2026-sprint-relay-maps-and-results/"/>
         <updated>2026-07-12T03:00:46.000Z</updated>
         <summary type="html"><![CDATA[Switzerland defended the World Orienteering Championships Sprint Relay title in Genoa, Italy, after a fantastic final leg by Simona Aebersold. Sweden took silver after Karolin Ohlsson passed Norway’s Pia Young Vik near the end of the race, while Norway had to settle for bronze despite starting the last leg with a 28-second lead. Switzerland’s Natalia ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2026 Knock-Out Sprint: Maps, Results and Analysis]]></title>
-        <id>http://news.worldofo.com/?p=21700</id>
-        <link href="https://news.worldofo.com/2026/07/11/woc-2026-knock-out-sprint-maps-and-results/"/>
-        <updated>2026-07-11T03:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Tereza Rauturier (CZE) and Guilhem Verove (FRA) won the Knock-Out Sprint World Orienteering Championships (WOC) after tight and intense races – again with very tricky orienteering.  In the two previous WOC Knock-Out Sprints the victories went to Sweden and Switzerland – this year we got two new nations at the top. France yet again proved that ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
         </author>
