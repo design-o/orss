@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T12:40:09.738Z</updated>
+    <updated>2026-08-10T18:39:33.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -583,16 +583,6 @@ MelbushO at Westerfolds Park, Sunday 19 July first appeared on Orienteering Vict
 2026 MTBO AUS-NZL Challenge | Team named first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOC 2026 Sprint Relay: Maps and Results]]></title>
-        <id>http://news.worldofo.com/?p=21729</id>
-        <link href="https://news.worldofo.com/2026/07/12/woc-2026-sprint-relay-maps-and-results/"/>
-        <updated>2026-07-12T03:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Switzerland defended the World Orienteering Championships Sprint Relay title in Genoa, Italy, after a fantastic final leg by Simona Aebersold. Sweden took silver after Karolin Ohlsson passed Norway’s Pia Young Vik near the end of the race, while Norway had to settle for bronze despite starting the last leg with a 28-second lead. Switzerland’s Natalia ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>
