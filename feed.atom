@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T18:44:08.651Z</updated>
+    <updated>2026-08-13T00:57:30.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[Sweden’s men and Norway’s women won the relays at the World Cup in Vyšší Brod, Czechia – the last test before the European Championships in Lithuania in the end of September. Although not as tricky as yesterday’s middle distance, many mistakes were done by the runners in the greener parts of the terrain. This lead ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelbushO at Brimbank Park, Sunday 16 August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15605</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
+        <updated>2026-08-10T01:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the next exciting MelbushO at Brimbank Park!  Get your entry in asap
+MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
