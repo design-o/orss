@@ -277,6 +277,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=22886",
+          "author": "Deirdre",
+          "description": "Orienteering Ireland is super excited to be rolling out its new Foundation Orienteering Instructor Award and will be running two pilot courses in Cork and Dublin this Autumn. This is an entry level award and is the initial step on the coaching pathway. It aims to train candidates in the fundamentals of coaching and to […]",
+          "link": "https://www.orienteering.ie/foundation-orienteering-instructor-courses/",
+          "publishedOn": "2026-08-13T14:31:08.000Z",
+          "wordCount": 1060,
+          "title": "Foundation Orienteering Instructor Courses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=22848",
           "author": "Operations Manager",
           "description": "Check out the latest edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland here!",
@@ -574,6 +584,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57556",
+          "author": "nikkihoward",
+          "description": "After a summer break we resume our 2026 Community Conversations series. In September, Monday 7th September 7.30pm, we are focussing […]",
+          "link": "https://www.scottish-orienteering.org/news/september-community-conversation-permanent-orienteering-courses/?utm_source=rss&utm_medium=rss&utm_campaign=september-community-conversation-permanent-orienteering-courses",
+          "publishedOn": "2026-08-13T13:47:05.000Z",
+          "wordCount": 1696,
+          "title": "September Community Conversation: Permanent Orienteering Courses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57540",
+          "author": "nikkihoward",
+          "description": "British Orienteering have established a youth voice programme and are seeking juniors from a variety of backgrounds and experience of […]",
+          "link": "https://www.scottish-orienteering.org/news/british-orienteering-seek-juniors-to-bring-the-youth-voice-to-help-shape-their-thinking/?utm_source=rss&utm_medium=rss&utm_campaign=british-orienteering-seek-juniors-to-bring-the-youth-voice-to-help-shape-their-thinking",
+          "publishedOn": "2026-08-13T09:23:14.000Z",
+          "wordCount": 1782,
+          "title": "British Orienteering seek juniors to bring the youth voice to help shape their thinking",
+          "imageUrl": null
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57517",
           "author": "nikkihoward",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T12:40:51.096Z</updated>
+    <updated>2026-08-13T18:44:23.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Foundation Orienteering Instructor Courses]]></title>
+        <id>https://www.orienteering.ie/?p=22886</id>
+        <link href="https://www.orienteering.ie/foundation-orienteering-instructor-courses/"/>
+        <updated>2026-08-13T14:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Ireland is super excited to be rolling out its new Foundation Orienteering Instructor Award and will be running two pilot courses in Cork and Dublin this Autumn. This is an entry level award and is the initial step on the coaching pathway. It aims to train candidates in the fundamentals of coaching and to […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September Community Conversation: Permanent Orienteering Courses]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57556</id>
+        <link href="https://www.scottish-orienteering.org/news/september-community-conversation-permanent-orienteering-courses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=september-community-conversation-permanent-orienteering-courses"/>
+        <updated>2026-08-13T13:47:05.000Z</updated>
+        <summary type="html"><![CDATA[After a summer break we resume our 2026 Community Conversations series. In September, Monday 7th September 7.30pm, we are focussing […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British Orienteering seek juniors to bring the youth voice to help shape their thinking]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57540</id>
+        <link href="https://www.scottish-orienteering.org/news/british-orienteering-seek-juniors-to-bring-the-youth-voice-to-help-shape-their-thinking/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=british-orienteering-seek-juniors-to-bring-the-youth-voice-to-help-shape-their-thinking"/>
+        <updated>2026-08-13T09:23:14.000Z</updated>
+        <summary type="html"><![CDATA[British Orienteering have established a youth voice programme and are seeking juniors from a variety of backgrounds and experience of […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Czechia 2026 Relay: Maps and Results]]></title>
         <id>http://news.worldofo.com/?p=21853</id>
