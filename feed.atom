@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T07:04:29.318Z</updated>
+    <updated>2026-08-14T12:36:44.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ScotJOS Squad Manager sought]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57570</id>
+        <link href="https://www.scottish-orienteering.org/news/scotjos-squad-manager-sought/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotjos-squad-manager-sought"/>
+        <updated>2026-08-14T10:28:56.000Z</updated>
+        <summary type="html"><![CDATA[We are looking to recruit a Squad Manager for the Scottish Junior Orienteering Squad (ScotJOS). The person will work alongside […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foundation Orienteering Instructor Courses]]></title>
         <id>https://www.orienteering.ie/?p=22886</id>
