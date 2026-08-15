@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T18:38:10.597Z</updated>
+    <updated>2026-08-15T00:33:19.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -566,16 +566,6 @@ World Cup 4 | Selection Notice first appeared on Orienteering New Zealand.]]></s
         <link href="https://www.scottish-orienteering.org/news/orienteering-on-a-different-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-on-a-different-scale"/>
         <updated>2026-07-17T09:39:18.000Z</updated>
         <summary type="html"><![CDATA[Not scale of map – but scale of event! With hundreds of events each year in Scotland – from local […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Orienteering and Avoiding Collisions]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57414</id>
-        <link href="https://www.scottish-orienteering.org/news/urban-orienteering-and-avoiding-collisions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=urban-orienteering-and-avoiding-collisions"/>
-        <updated>2026-07-16T12:05:36.000Z</updated>
-        <summary type="html"><![CDATA[SOA Safety Director, Tim O’Donoghue, reflects on managing risks during urban orienteering, and suggests some steps for individual orienteers and […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
