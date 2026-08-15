@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T06:17:26.777Z</updated>
+    <updated>2026-08-15T12:14:02.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 World Masters Championships Results and Recap]]></title>
+        <id>https://orienteering.asn.au/?p=16566</id>
+        <link href="https://orienteering.asn.au/2026-world-masters-championships-results-and-recap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-world-masters-championships-results-and-recap"/>
+        <updated>2026-08-15T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Results and recap of the 2026 World Masters Orienteering Championships in Rzeszow, Poland.
+2026 World Masters Championships Results and Recap first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terry Nuthall | Obituary]]></title>
+        <id>https://www.orienteering.org.nz/?p=66410</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/terry-nuthall-obituary/"/>
+        <updated>2026-08-15T08:24:35.000Z</updated>
+        <summary type="html"><![CDATA[EASTER 4-DAY — DAY 1— THROUGH THE EYES OF AN M45A’er When reading in the programme that the starter may exclude competitors who were inadequately clad, one wondered what we were in for. Much to our surprise Easter in the Wellington region was near perfect. Sunny, dry days made for long and enthusiastic post-mortems on […]
+Terry Nuthall | Obituary first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ScotJOS Squad Manager sought]]></title>
         <id>https://www.scottish-orienteering.org/?p=57570</id>
