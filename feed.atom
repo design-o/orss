@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T12:18:30.245Z</updated>
+    <updated>2026-08-17T18:19:56.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shaping Our Future: Stepping Up as a Board Director]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57585</id>
+        <link href="https://www.scottish-orienteering.org/news/shaping-our-future-stepping-up-as-a-board-director/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=shaping-our-future-stepping-up-as-a-board-director"/>
+        <updated>2026-08-17T17:17:49.000Z</updated>
+        <summary type="html"><![CDATA[A sport as diverse and inclusive as ours relies entirely on the passion and dedication of its members. As we […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Door is Open]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7509</id>
+        <link href="https://www.niorienteering.org.uk/the-door-is-open/"/>
+        <updated>2026-08-17T16:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Now that the NIOA Committee has been downsized, the committee wish to issue an ongoing invitation to any member who would like to attend a meeting. Female members are particularly welcome. You may wish to bring an issue for discussion, or simply to listen to...
+The post The Door is Open appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| 2026 Anniversary Picnic and Score | Chapin Forest – Lake Metro Parks | Saturday, August 15, 2026]]></title>
         <id>https://neooc.com/?p=50960</id>

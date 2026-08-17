@@ -595,6 +595,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57585",
+          "author": "nikkihoward",
+          "description": "A sport as diverse and inclusive as ours relies entirely on the passion and dedication of its members. As we […]",
+          "link": "https://www.scottish-orienteering.org/news/shaping-our-future-stepping-up-as-a-board-director/?utm_source=rss&utm_medium=rss&utm_campaign=shaping-our-future-stepping-up-as-a-board-director",
+          "publishedOn": "2026-08-17T17:17:49.000Z",
+          "wordCount": 1713,
+          "title": "Shaping Our Future: Stepping Up as a Board Director",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57570",
           "author": "nikkihoward",
           "description": "We are looking to recruit a Squad Manager for the Scottish Junior Orienteering Squad (ScotJOS). The person will work alongside […]",
@@ -691,6 +701,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7509",
+          "author": "NIOA Secretary",
+          "description": "Now that the NIOA Committee has been downsized, the committee wish to issue an ongoing invitation to any member who would like to attend a meeting. Female members are particularly welcome. You may wish to bring an issue for discussion, or simply to listen to...\nThe post The Door is Open appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/the-door-is-open/",
+          "publishedOn": "2026-08-17T16:20:17.000Z",
+          "wordCount": 4340,
+          "title": "The Door is Open",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2017/06/AGM-Claro.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7505",
           "author": "NIOA Secretary",
