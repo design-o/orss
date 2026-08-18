@@ -200,6 +200,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15880",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/vic-short-champs-sunday-19-september/",
+          "publishedOn": "2026-08-08T07:55:45.000Z",
+          "wordCount": 1146,
+          "title": "Vic Short Champs, Sunday 19 September",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15874",
           "author": "Debbie Dodd",
           "description": "",
@@ -330,6 +340,16 @@
       "feedUrl": "https://www.orienteering.org.nz/feed",
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
+        {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=66428",
+          "author": "Christo Peters",
+          "description": "The ONZ High-Performance Steering Group provides strategic oversight and advice for the development of High-Performance orienteering in New Zealand. The group is responsible for developing High-Performance policy, overseeing athlete development pathways, and providing recommendations on selection policies, development programmes, and other High-Performance initiatives. The group works alongside the National Performance Leader and was created one […]\nLooking for High-Performance Steering Group Members first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/looking-for-high-performance-steering-group-members/",
+          "publishedOn": "2026-08-18T09:49:30.000Z",
+          "wordCount": 2156,
+          "title": "Looking for High-Performance Steering Group Members",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/HP-Steering-Group-Members-Title.jpg"
+        },
         {
           "id": "https://www.orienteering.org.nz/?p=66410",
           "author": "Christo Peters",
@@ -738,6 +758,26 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16580",
+          "author": "Elizabeth L",
+          "description": "Calling for Australian Team rider nominations to contest the Australia–New Zealand MTBO Challenge.\nNominations Open – Australian Team for the AUS–NZL MTBO Challenge first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nominations-open-australian-team-for-the-aus-nzl-mtbo-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=nominations-open-australian-team-for-the-aus-nzl-mtbo-challenge",
+          "publishedOn": "2026-08-18T09:30:00.000Z",
+          "wordCount": 2519,
+          "title": "Nominations Open – Australian Team for the AUS–NZL MTBO Challenge",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
+          "id": "https://orienteering.asn.au/?p=16577",
+          "author": "Elizabeth L",
+          "description": "Calling for nominations for the Australian Team Leader for the Australia–New Zealand MTBO Challenge in Ballarat in October.\nNominations Open – Australian-New Zealand MTBO Challenge Team Leader first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/nominations-open-australian-new-zealand-mtbo-challenge-team-leader/?utm_source=rss&utm_medium=rss&utm_campaign=nominations-open-australian-new-zealand-mtbo-challenge-team-leader",
+          "publishedOn": "2026-08-18T06:49:54.000Z",
+          "wordCount": 2490,
+          "title": "Nominations Open – Australian-New Zealand MTBO Challenge Team Leader",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16566",
           "author": "Elizabeth L",
