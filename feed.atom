@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T00:32:54.197Z</updated>
+    <updated>2026-08-19T06:22:37.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -622,17 +622,6 @@ Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering
         <summary type="html"><![CDATA[Paddle O Recap Our 50th anniversary year Paddle O was on the water at Walborn Reservoir – our first event here since 2022. Despite the air quality issues and severe thunderstorms the day before, this year’s Paddle-O turned out to be a perfect day.  Both water and winds were calm – always a good thing. […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban by the Sea]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7486</id>
-        <link href="https://www.niorienteering.org.uk/urban-by-the-sea/"/>
-        <updated>2026-07-20T11:43:23.000Z</updated>
-        <summary type="html"><![CDATA[The WEE Series event at Ballywalter on Wednesday 19 August will be included in the NI Urban League. All the details are on the event page on the LVO website. Note that there are 3 courses available with the short course the only option for...
-The post Urban by the Sea appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
