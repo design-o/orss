@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T06:23:45.730Z</updated>
+    <updated>2026-08-20T12:21:48.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -602,16 +602,6 @@ Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering
         <summary type="html"><![CDATA[Today marks exactly a month until the next East Area training session which will take place at Heriot Watt University […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tooting Common Park Race and Series Results]]></title>
-        <id>https://slow.org.uk/?p=24549</id>
-        <link href="https://slow.org.uk/racereports/tooting-common-and-series-results/"/>
-        <updated>2026-07-21T22:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Thank you all for coming to the London Park Race Series 2026 finale. I’m sure many of you will have been glad, like I was, [...]]]></summary>
-        <author>
-            <name>James Gjertsen</name>
         </author>
     </entry>
     <entry>
