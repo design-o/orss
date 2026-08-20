@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T00:32:26.871Z</updated>
+    <updated>2026-08-20T06:23:45.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -612,16 +612,6 @@ Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering
         <summary type="html"><![CDATA[Thank you all for coming to the London Park Race Series 2026 finale. I’m sure many of you will have been glad, like I was, [...]]]></summary>
         <author>
             <name>James Gjertsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results| 2026 Padde O | Walborn Reservoir – Stark Parks | Sunday, July 19]]></title>
-        <id>https://neooc.com/?p=50764</id>
-        <link href="https://neooc.com/results-2026-padde-o-walborn-reservoir-stark-parks-sunday-july-20/"/>
-        <updated>2026-07-21T15:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Paddle O Recap Our 50th anniversary year Paddle O was on the water at Walborn Reservoir – our first event here since 2022. Despite the air quality issues and severe thunderstorms the day before, this year’s Paddle-O turned out to be a perfect day.  Both water and winds were calm – always a good thing. […]]]></summary>
-        <author>
-            <name>Jay Smink</name>
         </author>
     </entry>
     <entry>
