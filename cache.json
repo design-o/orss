@@ -672,16 +672,6 @@
           "wordCount": 1948,
           "title": "Summer of Sport Now Live",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/07/Funded-by-2026-Summer-of-Sport_Blue_Reverse-1200x724-1-1024x618.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57459",
-          "author": "nikkihoward",
-          "description": "The SOA Financial Statements for the year to 31 December 2025 have now been finalised and approved, and are attached. […]",
-          "link": "https://www.scottish-orienteering.org/news/soa-2025-accounts-finalised-and-date-of-agm-announced/?utm_source=rss&utm_medium=rss&utm_campaign=soa-2025-accounts-finalised-and-date-of-agm-announced",
-          "publishedOn": "2026-07-22T16:18:24.000Z",
-          "wordCount": 1669,
-          "title": "SOA 2025 Accounts finalised and date of AGM announced",
-          "imageUrl": null
         }
       ]
     },
@@ -727,6 +717,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16597",
+          "author": "Elizabeth L",
+          "description": "Orienteering Australia is pleased to announce updated selection details and the reopening of nominations for the Australian Team for the 2026 Oceania Orienteering Championships and Australia–New Zealand Challenge.\n2026 Oceania Championships – Selection Update first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2026-oceania-championships-selection-update/?utm_source=rss&utm_medium=rss&utm_campaign=2026-oceania-championships-selection-update",
+          "publishedOn": "2026-08-21T05:47:37.000Z",
+          "wordCount": 2704,
+          "title": "2026 Oceania Championships – Selection Update",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16580",
           "author": "Elizabeth L",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T00:35:31.624Z</updated>
+    <updated>2026-08-21T06:23:44.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Oceania Championships – Selection Update]]></title>
+        <id>https://orienteering.asn.au/?p=16597</id>
+        <link href="https://orienteering.asn.au/2026-oceania-championships-selection-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-oceania-championships-selection-update"/>
+        <updated>2026-08-21T05:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is pleased to announce updated selection details and the reopening of nominations for the Australian Team for the 2026 Oceania Orienteering Championships and Australia–New Zealand Challenge.
+2026 Oceania Championships – Selection Update first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shiver Me Timbers]]></title>
         <id>https://www.niorienteering.org.uk/?p=7524</id>
@@ -593,16 +604,6 @@ Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering
         <summary type="html"><![CDATA[Wishing Kerry Orienteers the very best as the Kerry Festival of Orienteering, incorporating the OOCup, kicks off this Saturday, 25th July, in Killarney. With 2000 people registered from 35 countries it will be the biggest orienteering event ever hosted in Ireland. The festival kicks off Saturday afternoon with the Indoor / Outdoor event in St. […]]]></summary>
         <author>
             <name>Deirdre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA 2025 Accounts finalised and date of AGM announced]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57459</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-2025-accounts-finalised-and-date-of-agm-announced/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-2025-accounts-finalised-and-date-of-agm-announced"/>
-        <updated>2026-07-22T16:18:24.000Z</updated>
-        <summary type="html"><![CDATA[The SOA Financial Statements for the year to 31 December 2025 have now been finalised and approved, and are attached. […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
