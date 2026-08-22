@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T00:32:29.474Z</updated>
+    <updated>2026-08-22T06:18:32.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Foot O’ AUS-NZL Challenge | Looking for a Manager]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66431</id>
+        <link href="https://www.orienteering.org.nz/news/2026-foot-o-aus-nzl-challenge-looking-for-a-manager/"/>
+        <updated>2026-08-21T21:54:13.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Australia-New Zealand Challenge will be held in Canberra, Australia from 26 September to 04 October 2026, in conjunction with the Oceania Orienteering Championships. The Challenge will consist of an Individual Challenge, based on the Oceania Long Distance, Middle Distance and Sprint Distance Championships, and a Relay Challenge, based on the Oceania Relay Championships. […]
+2026 Foot O’ AUS-NZL Challenge | Looking for a Manager first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[With a View to Enlarging your Purview]]></title>
         <id>https://www.niorienteering.org.uk/?p=7530</id>
@@ -594,17 +605,6 @@ Skill Up!  Session 4 – How To Make A Map, Saturday 1 August first appeared on 
 Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Foot O AUS-NZL Challenge | Selection Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66238</id>
-        <link href="https://www.orienteering.org.nz/news/selection-notice-2026-aus-nzl-foot-o-challenge/"/>
-        <updated>2026-07-23T07:48:29.000Z</updated>
-        <summary type="html"><![CDATA[The next Australia-New Zealand Challenge will be held in Canberra, Australia from 26 September to 04 October 2026, in conjunction with the Oceania Orienteering Championships. The Challenge will consist of an Individual Challenge, based on the Oceania Long Distance, Middle Distance and Sprint Distance Championships, and a Relay Challenge, based on the Oceania Relay Championships. […]
-2026 Foot O AUS-NZL Challenge | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
         </author>
     </entry>
     <entry>

@@ -320,6 +320,16 @@
       "siteUrl": "https://www.orienteering.org.nz",
       "articles": [
         {
+          "id": "https://www.orienteering.org.nz/?post_type=news&p=66431",
+          "author": "Christo Peters",
+          "description": "The 2026 Australia-New Zealand Challenge will be held in Canberra, Australia from 26 September to 04 October 2026, in conjunction with the Oceania Orienteering Championships. The Challenge will consist of an Individual Challenge, based on the Oceania Long Distance, Middle Distance and Sprint Distance Championships, and a Relay Challenge, based on the Oceania Relay Championships. […]\n2026 Foot O’ AUS-NZL Challenge | Looking for a Manager first appeared on Orienteering New Zealand.",
+          "link": "https://www.orienteering.org.nz/news/2026-foot-o-aus-nzl-challenge-looking-for-a-manager/",
+          "publishedOn": "2026-08-21T21:54:13.000Z",
+          "wordCount": 2296,
+          "title": "2026 Foot O’ AUS-NZL Challenge | Looking for a Manager",
+          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/07/Aus-Nzl-Challenge-Header.jpg"
+        },
+        {
           "id": "https://www.orienteering.org.nz/?post_type=news&p=66428",
           "author": "Christo Peters",
           "description": "The ONZ High-Performance Steering Group provides strategic oversight and advice for the development of High-Performance orienteering in New Zealand. The group is responsible for developing High-Performance policy, overseeing athlete development pathways, and providing recommendations on selection policies, development programmes, and other High-Performance initiatives. The group works alongside the National Performance Leader and was created one […]\nLooking for High-Performance Steering Group Members first appeared on Orienteering New Zealand.",
@@ -538,16 +548,6 @@
           "wordCount": 2119,
           "title": "Pokapū Central Champs | Embargo notice",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/07/2026-Pokapu-central-champs-embargo.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66238",
-          "author": "Christo Peters",
-          "description": "The next Australia-New Zealand Challenge will be held in Canberra, Australia from 26 September to 04 October 2026, in conjunction with the Oceania Orienteering Championships. The Challenge will consist of an Individual Challenge, based on the Oceania Long Distance, Middle Distance and Sprint Distance Championships, and a Relay Challenge, based on the Oceania Relay Championships. […]\n2026 Foot O AUS-NZL Challenge | Selection Notice first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/selection-notice-2026-aus-nzl-foot-o-challenge/",
-          "publishedOn": "2026-07-23T07:48:29.000Z",
-          "wordCount": 2279,
-          "title": "2026 Foot O AUS-NZL Challenge | Selection Notice",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/Aus-NZ-Challenge-2025.jpg"
         }
       ]
     },
