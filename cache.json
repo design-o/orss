@@ -305,16 +305,6 @@
           "wordCount": 890,
           "title": "The Download August 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=22814",
-          "author": "Deirdre",
-          "description": "Wishing Kerry Orienteers the very best as the Kerry Festival of Orienteering, incorporating the OOCup, kicks off this Saturday, 25th July, in Killarney. With 2000 people registered from 35 countries it will be the biggest orienteering event ever hosted in Ireland. The festival kicks off Saturday afternoon with the Indoor / Outdoor event in St. […]",
-          "link": "https://www.orienteering.ie/kerry-festival-of-orienteering/",
-          "publishedOn": "2026-07-23T07:28:29.000Z",
-          "wordCount": 1069,
-          "title": "Kerry Festival of Orienteering",
-          "imageUrl": null
         }
       ]
     },
@@ -680,6 +670,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7530",
+          "author": "NIOA Secretary",
+          "description": "Entries are open for the 5th event in the NI Colour Series at Gortalughany, Co Fermanagh hosted by Fermanagh Orienteers on Saturday 12 September. All the details are on the FermO website, with entries at SiEntries. Entries close on Sunday 6 September 2026 at 23:00....\nThe post With a View to Enlarging your Purview appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/with-a-view-to-enlarging-your-purview/",
+          "publishedOn": "2026-08-21T19:14:46.000Z",
+          "wordCount": 4349,
+          "title": "With a View to Enlarging your Purview",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Gortalughany.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7524",
           "author": "NIOA Secretary",

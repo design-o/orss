@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T18:19:15.057Z</updated>
+    <updated>2026-08-22T00:32:29.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[With a View to Enlarging your Purview]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7530</id>
+        <link href="https://www.niorienteering.org.uk/with-a-view-to-enlarging-your-purview/"/>
+        <updated>2026-08-21T19:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Entries are open for the 5th event in the NI Colour Series at Gortalughany, Co Fermanagh hosted by Fermanagh Orienteers on Saturday 12 September. All the details are on the FermO website, with entries at SiEntries. Entries close on Sunday 6 September 2026 at 23:00....
+The post With a View to Enlarging your Purview appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Oceania Championships – Selection Update]]></title>
         <id>https://orienteering.asn.au/?p=16597</id>
@@ -594,16 +605,6 @@ Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering
 2026 Foot O AUS-NZL Challenge | Selection Notice first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerry Festival of Orienteering]]></title>
-        <id>https://www.orienteering.ie/?p=22814</id>
-        <link href="https://www.orienteering.ie/kerry-festival-of-orienteering/"/>
-        <updated>2026-07-23T07:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Wishing Kerry Orienteers the very best as the Kerry Festival of Orienteering, incorporating the OOCup, kicks off this Saturday, 25th July, in Killarney. With 2000 people registered from 35 countries it will be the biggest orienteering event ever hosted in Ireland. The festival kicks off Saturday afternoon with the Indoor / Outdoor event in St. […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
