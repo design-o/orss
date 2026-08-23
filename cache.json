@@ -312,7 +312,18 @@
       "title": "South London Orienteers",
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://slow.org.uk/?p=25165",
+          "author": "vinh",
+          "description": "On Saturday 21st November, come and celebrate with us at SLOW’s 50th anniversary party. Ticket sales online on SiEntries.",
+          "link": "https://slow.org.uk/clubnews/slows-50th-birthday-party/",
+          "publishedOn": "2026-08-22T21:36:33.000Z",
+          "wordCount": 1710,
+          "title": "SLOW’s 50th anniversary dinner, Vauxhall, Saturday 21 November",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/slows-50th-anniversary-dinner-vauxhall-saturday-21-november/files/SLOW-50-invite-1024x724.png"
+        }
+      ]
     },
     {
       "title": "Orienteering New Zealand",
