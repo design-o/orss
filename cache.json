@@ -258,26 +258,6 @@
           "wordCount": 1136,
           "title": "Oceania Champs Entries Now Open",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15643",
-          "author": "Debbie Dodd",
-          "description": "Come along to the next Skill Up Saturday Afternoon Session on July 11 at Pipemakers Park. Step up to Sprints!\nSkill Up!  Session 4 – How To Make A Map, Saturday 1 August first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/",
-          "publishedOn": "2026-07-27T04:04:33.000Z",
-          "wordCount": 1123,
-          "title": "Skill Up!  Session 4 – How To Make A Map, Saturday 1 August",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15815",
-          "author": "Debbie Dodd",
-          "description": "The next Vic Series is coming up on Sunday August 9, at Spring Gully North, near Fryerstown in central Victoria\nVic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/vic-series-7-sailors-diggings-sunday-26-july-2/",
-          "publishedOn": "2026-07-27T01:11:02.000Z",
-          "wordCount": 1163,
-          "title": "Vic Series 8, Spring Gully North, Sunday 9 August",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -567,6 +547,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=51032",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "The US Masters Nationals event and Corn Maze Challenge will be NEOOC’s biggest event since 2004. We are expecting 250+ participants from all over the US. While the championship will attract top Masters competitors from across the country, newcomers and beginners are welcome and encouraged to participate. White, Yellow, and Orange Recreational courses will be available throughout […]",
+          "link": "https://neooc.com/neooc-registration-deadlines-approaching-for-masters-nationals/",
+          "publishedOn": "2026-08-25T15:23:34.000Z",
+          "wordCount": 1411,
+          "title": "NEOOC – Registration deadlines approaching for Masters Nationals",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/Logo_Combined_V1.png"
+        },
         {
           "id": "https://neooc.com/?p=51030",
           "author": "Northeast Ohio Orienteering Club",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T12:22:43.835Z</updated>
+    <updated>2026-08-25T18:20:59.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NEOOC – Registration deadlines approaching for Masters Nationals]]></title>
+        <id>https://neooc.com/?p=51032</id>
+        <link href="https://neooc.com/neooc-registration-deadlines-approaching-for-masters-nationals/"/>
+        <updated>2026-08-25T15:23:34.000Z</updated>
+        <summary type="html"><![CDATA[The US Masters Nationals event and Corn Maze Challenge will be NEOOC’s biggest event since 2004. We are expecting 250+ participants from all over the US. While the championship will attract top Masters competitors from across the country, newcomers and beginners are welcome and encouraged to participate. White, Yellow, and Orange Recreational courses will be available throughout […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SLOW’s 50th anniversary dinner, Vauxhall, Saturday 21 November]]></title>
         <id>https://slow.org.uk/?p=25165</id>
@@ -601,28 +611,6 @@ Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zeala
         <id>https://www.vicorienteering.asn.au/?p=15746</id>
         <link href="https://www.vicorienteering.asn.au/oceania-champs-entries-now-open/"/>
         <updated>2026-07-28T06:20:09.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skill Up!  Session 4 – How To Make A Map, Saturday 1 August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15643</id>
-        <link href="https://www.vicorienteering.asn.au/skill-up-saturday-afternoon-skills-sessions-start-may-16/"/>
-        <updated>2026-07-27T04:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Come along to the next Skill Up Saturday Afternoon Session on July 11 at Pipemakers Park. Step up to Sprints!
-Skill Up!  Session 4 – How To Make A Map, Saturday 1 August first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Series 8, Spring Gully North, Sunday 9 August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15815</id>
-        <link href="https://www.vicorienteering.asn.au/vic-series-7-sailors-diggings-sunday-26-july-2/"/>
-        <updated>2026-07-27T01:11:02.000Z</updated>
-        <summary type="html"><![CDATA[The next Vic Series is coming up on Sunday August 9, at Spring Gully North, near Fryerstown in central Victoria
-Vic Series 8, Spring Gully North, Sunday 9 August first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
