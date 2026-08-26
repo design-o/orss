@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T18:20:59.915Z</updated>
+    <updated>2026-08-26T00:34:53.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victorian Middle Distance Champs, Sunday 6 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15886</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-middle-distance-champs-sunday-6-september/"/>
+        <updated>2026-08-25T20:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Make sure you enter the Victorian Middle Distance Champs by the August 31 cutoff!
+Victorian Middle Distance Champs, Sunday 6 September first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEOOC – Registration deadlines approaching for Masters Nationals]]></title>
         <id>https://neooc.com/?p=51032</id>
@@ -78,6 +89,24 @@ The post With a View to Enlarging your Purview appeared first on NI Orienteering
 The post Shiver Me Timbers appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try Bush and MTB Orienteering at Woodlands on Sunday 13 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15892</id>
+        <link href="https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/"/>
+        <updated>2026-08-19T20:33:28.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian Long Distance Champs, Sunday 20 September, Metcalfe]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15889</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-long-distance-champs-sunday-20-september-metcalfe/"/>
+        <updated>2026-08-18T20:27:40.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
