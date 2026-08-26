@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T12:24:42.650Z</updated>
+    <updated>2026-08-26T19:28:26.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NEOOC – hosts US National Corn Maze Championships]]></title>
+        <id>https://neooc.com/?p=51035</id>
+        <link href="https://neooc.com/neooc-hosts-us-national-corn-maze-championships/"/>
+        <updated>2026-08-26T18:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Our Corn Maze event on Friday 9/25 kicks off a very special weekend of orienteering this September, the OUSA Masters Nationals. In a late-breaking development, the event has also been designated as the 2026 U.S. National Corn Maze Orienteering Championships. The corn maze event will feature multiple courses through a 16-acre corn maze at Derthick’s […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covent Garden Street-O, Tuesday 8th September]]></title>
+        <id>https://slow.org.uk/?p=25281</id>
+        <link href="https://slow.org.uk/streeto/covent-garden-street-o-26/"/>
+        <updated>2026-08-26T16:14:58.000Z</updated>
+        <summary type="html"><![CDATA[The first race in the 2026-27 Street-O series will be in Covent Garden. The format is a 1 hour time limit to find as many [...]]]></summary>
+        <author>
+            <name>Lucy Browne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street-O Series 2026-27]]></title>
+        <id>https://slow.org.uk/?p=25292</id>
+        <link href="https://slow.org.uk/streeto/series2627/"/>
+        <updated>2026-08-26T16:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a pub around [...]]]></summary>
+        <author>
+            <name>Lucy Browne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free lunch, home made cake and a chance to talk about orienteering.  Interested?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57641</id>
+        <link href="https://www.scottish-orienteering.org/news/free-lunch-home-made-cake-and-a-chance-to-talk-about-orienteering-interested/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-lunch-home-made-cake-and-a-chance-to-talk-about-orienteering-interested"/>
+        <updated>2026-08-26T15:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Got experiences you think are worth sharing, want to meet members from other clubs or find out what others think […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victorian Middle Distance Champs, Sunday 6 September]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15886</id>
@@ -633,15 +673,6 @@ Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zeala
         <summary type="html"><![CDATA[The Summer of Sport 2026 is a major programme led by sportscotland, designed to encourage children and young people across […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceania Champs Entries Now Open]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15746</id>
-        <link href="https://www.vicorienteering.asn.au/oceania-champs-entries-now-open/"/>
-        <updated>2026-07-28T06:20:09.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
