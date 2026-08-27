@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T19:28:26.700Z</updated>
+    <updated>2026-08-27T05:29:31.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -653,26 +653,6 @@ Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zeala
         <summary type="html"><![CDATA[We know that the right person for the Senior Development post is out there but feedback tells us we should […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 week countdown to the World Masters Mountain Bike Orienteering Championships]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57505</id>
-        <link href="https://www.scottish-orienteering.org/news/6-week-countdown-to-the-world-masters-mountain-bike-orienteering-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=6-week-countdown-to-the-world-masters-mountain-bike-orienteering-championships"/>
-        <updated>2026-07-28T15:34:44.000Z</updated>
-        <summary type="html"><![CDATA[It is now just a 6 weeks until the World Masters Mountain Bike Orienteering Championships in Moray. There are 4 […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer of Sport Now Live]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57486</id>
-        <link href="https://www.scottish-orienteering.org/news/summer-of-sport-now-live/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=summer-of-sport-now-live"/>
-        <updated>2026-07-28T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The Summer of Sport 2026 is a major programme led by sportscotland, designed to encourage children and young people across […]]]></summary>
-        <author>
-            <name>heidi</name>
         </author>
     </entry>
     <entry>
