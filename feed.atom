@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T01:15:41.871Z</updated>
+    <updated>2026-08-29T11:53:28.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -643,26 +643,6 @@ Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zeala
         <updated>2026-07-31T01:23:41.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Juniors enjoying or set to enjoy JROS opportunities]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57517</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-juniors-enjoying-or-set-to-enjoy-jros-opportunities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-juniors-enjoying-or-set-to-enjoy-jros-opportunities"/>
-        <updated>2026-07-30T17:47:57.000Z</updated>
-        <summary type="html"><![CDATA[This week will have seen many of our 14 and 16 age class Scottish juniors away exploring the delights of […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deadline for Senior Development Post applications extended]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57513</id>
-        <link href="https://www.scottish-orienteering.org/news/deadline-for-senior-development-post-applications-extended/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deadline-for-senior-development-post-applications-extended"/>
-        <updated>2026-07-30T15:43:13.000Z</updated>
-        <summary type="html"><![CDATA[We know that the right person for the Senior Development post is out there but feedback tells us we should […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
