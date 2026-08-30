@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T15:37:50.139Z</updated>
+    <updated>2026-08-30T20:11:52.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -621,15 +621,6 @@ Swedish perspective on NZ terrain  |  Gustafsson family first appeared on Ori
         <updated>2026-08-02T00:41:54.000Z</updated>
         <summary type="html"><![CDATA[Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.
 Park Street Update, August 4-10 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Club Relays, Maldon, 23 August 2026]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15864</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-club-relays-maldon-23-august-2026/"/>
-        <updated>2026-08-01T04:06:41.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
