@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T20:05:49.561Z</updated>
+    <updated>2026-08-30T02:06:55.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -367,6 +367,15 @@ MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Enjoy Bendigo Bush at Sydenham Hill, Sunday 15 August]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15682</id>
+        <link href="https://www.vicorienteering.asn.au/enjoy-bendigo-bush-at-sedgewick-saturday-23-may/"/>
+        <updated>2026-08-05T01:23:41.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JWOC 2029 | Embargo Notice]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66372</id>
         <link href="https://www.orienteering.org.nz/news/jwoc-2029-embargo-notice/"/>
@@ -623,17 +632,6 @@ Park Street Update, August 4-10 first appeared on Orienteering Victoria.]]></sum
         <updated>2026-08-01T04:06:41.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokapū Central Champs | Embargo notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66268</id>
-        <link href="https://www.orienteering.org.nz/news/pokapu-central-champs-embargo-notice/"/>
-        <updated>2026-07-31T06:18:13.000Z</updated>
-        <summary type="html"><![CDATA[This embargo notice is the Pokapū Central champs from 21-22 November hosted by Wellington and Orienteering Hutt Valley. Anyone found breaking this embargo or intentionally trying to gain an unfair advantage will be disqualified from competing or coaching at the relevant event and referred to Orienteering New Zealand under the Fair Play rules. MIDDLE DISTANCE […]
-Pokapū Central Champs | Embargo notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Joolz</name>
         </author>
     </entry>
     <entry>
