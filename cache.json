@@ -200,6 +200,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=15916",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/maya-shines-at-junior-world-mtbo-champs/",
+          "publishedOn": "2026-08-20T09:58:05.000Z",
+          "wordCount": 1025,
+          "title": "Maya Shines at Junior World MTBO Champs",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15892",
           "author": "Debbie Dodd",
           "description": "",
@@ -267,16 +277,6 @@
           "publishedOn": "2026-08-03T17:35:26.000Z",
           "wordCount": 1060,
           "title": "Victorian Primary Schools Champs 1, Hawkstowe Park, Monday September 7",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.\nPark Street Update, August 4-10 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2026-08-02T00:41:54.000Z",
-          "wordCount": 1237,
-          "title": "Park Street Update, August 4-10",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -539,176 +539,6 @@
           "wordCount": 2044,
           "title": "NZOC 2027 | Embargo Notice",
           "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/weathertop_image.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66345",
-          "author": "Christo Peters",
-          "description": "WOW what a busy July we have had – and we haven’t even had a Board meeting! Our athletes have been racing hard at the NZ Secondary School Champs (thanks PAPO for organising). We also have had athletes competing overseas in Genoa, Italy for WOC – check out Orienteering Wellington’s club post about one of the World Champs knock-out sprint semi-final […]\nView from the chair | July 2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/orienteering-nz/view-from-the-chair-july-2026/",
-          "publishedOn": "2026-08-02T08:58:01.000Z",
-          "wordCount": 2474,
-          "title": "View from the chair | July 2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2024/10/View-from-the-Chair.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66341",
-          "author": "Christo Peters",
-          "description": "Yes, this is big news and we are so excited. The announcement of the 2029 Junior World Orienteering Championships follows a decision by the International Orienteering Federation (IOF) Council at a 6–8 July 2026 meeting.This will be first JWOC to be held in New Zealand and only the second in Oceania.  The event will showcase […]\nJWOC29  |  Canterbury first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/jwoc29-canterbury/",
-          "publishedOn": "2026-08-02T08:54:12.000Z",
-          "wordCount": 1991,
-          "title": "JWOC29  |  Canterbury",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/JWOC-2029-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66338",
-          "author": "Christo Peters",
-          "description": "JWOC26  |  Karlskrona 29 June – 4 July  Individual SprintThe Individual Sprint kicked off the 2026 Junior World Orienteering Championships with 338 Athletes lined up along with and 98 team officials from 40 countries.  It was a sharp-witted start to the first up race. Several runners were caught out by a tricky initial direction decision straight […]\nJWOC26  |  Karlskrona 29 June – 4 July | Event review first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/jwoc26-karlskrona-29-june-4-july-event-review/",
-          "publishedOn": "2026-08-02T08:51:03.000Z",
-          "wordCount": 3393,
-          "title": "JWOC26  |  Karlskrona 29 June – 4 July | Event review",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/JWOC-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66333",
-          "author": "Christo Peters",
-          "description": "New Zealand produced one of its strongest ever sprint campaigns at the 2026 World Orienteering Championships in Italy. Across six days of racing in the streets, stairways and hills of Genoa, the team demonstrated speed and tactical excellence against the world’s best, finishing the championships with growing confidence for future international campaigns. Sprint qualification opening eventThe championships […]\nWOC26   |  Genoa, Italy  |  Event review first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/woc26-genoa-italy-event-review/",
-          "publishedOn": "2026-08-02T08:42:18.000Z",
-          "wordCount": 2925,
-          "title": "WOC26   |  Genoa, Italy  |  Event review",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/WOC-2026-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66328",
-          "author": "Christo Peters",
-          "description": "The four day Secondary Schools Orienteering and Rogaine Championships kicked off in various locations around Ōtautahi Christchurch in July. The national orienteering championships marked an important milestone as it follows an announcement by the International Orienteering Federation that Canterbury, New Zealand will host the Junior World Orienteering Championships in 2029. Many of the secondary school […]\nNSSOC & NZSSR  | Christchurch 16-19 July | Event Review first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/schools/nssoc-nzssr-christchurch-16-19-july/",
-          "publishedOn": "2026-08-02T08:36:02.000Z",
-          "wordCount": 2556,
-          "title": "NSSOC & NZSSR  | Christchurch 16-19 July | Event Review",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/NZSSOC-NZSSR-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66325",
-          "author": "Christo Peters",
-          "description": "It was a huge turnout for the 2026 Orienteering Big Day Out with a  large increase in participation in spite of an initial postponement due to bad weather. Over 600 Primary and Intermediate school students from eight schools in the Taupo and surrounding districts took part in an orienteering big day out with rogaining events […]\nTaupō schools  | Orienteering Big Day Out 2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/schools/taupo-schools-orienteering-big-day-out-2026/",
-          "publishedOn": "2026-08-02T08:31:35.000Z",
-          "wordCount": 2436,
-          "title": "Taupō schools  | Orienteering Big Day Out 2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Taupo-Schools-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66322",
-          "author": "Christo Peters",
-          "description": "Nelson and Marlborough Orienteering Clubs invite all orienteers to Te Tau Ihu o te Waka-a-Maui to celebrate high-quality spring orienteering during the A-level 2026 Taitonga South Island Orienteering Championships, Labour Weekend of 24-26 October 2026 in the beautiful Tasman District. We look forward to welcoming fellow orienteers from the South and the North Island of […]\nEntries open for Taitonga South Island Champs  | Nelson / Marlborough first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/entries-open-for-taitonga-south-island-champs-nelson-marlborough/",
-          "publishedOn": "2026-08-02T08:27:56.000Z",
-          "wordCount": 2074,
-          "title": "Entries open for Taitonga South Island Champs  | Nelson / Marlborough",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Taitonga-Champs-Header.png"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66319",
-          "author": "Christo Peters",
-          "description": "The Canterbury Schools Orienteering Festival is an annual event and the 2026 event will also incorporate the South Island Secondary Schools Orienteering Champs. If you’re a school-aged student attending a primary, intermediate or secondary school, or you’re homeschooled, in Canterbury or beyond, you’re invited to be part of this exciting schools orienteering festival. With a range of […]\nSISS & Canterbury Schools | Christchurch first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/schools/siss-canterbury-schools-christchurch/",
-          "publishedOn": "2026-08-02T08:23:52.000Z",
-          "wordCount": 2129,
-          "title": "SISS & Canterbury Schools | Christchurch",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/SISS-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66315",
-          "author": "Christo Peters",
-          "description": "The Hodgson sisters received the inspiring ‘Team that stands out from the rest award’ at the New Zealand Secondary School Orienteering Championships (NZSSOC). We caught up with the family to hear their reflections on the championships and what else they also love to do when they travel to orienteering events. As a family we love to run, […]\nWhen school sport is a family sport  |  Hogdson family first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/when-school-sport-is-a-family-sport-hogdson-family/",
-          "publishedOn": "2026-08-02T08:14:35.000Z",
-          "wordCount": 2492,
-          "title": "When school sport is a family sport  |  Hogdson family",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Hodgson-Family-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66309",
-          "author": "Christo Peters",
-          "description": "This is the final year these sponored awards will be in this format. around the NZSSOC. Do let us know what you thought of these awards for school athletes, teams and supporters.  Nateva winnerThe NSSOC Nateva Award went to Micah Dunn from Nayland College. His nomination said: “I’d like to nominate Micah Dunn because he […]\nFinal NZSSOC sponsor awards  |  2026 first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/schools/final-nzssoc-sponsor-awards-2026/",
-          "publishedOn": "2026-08-02T08:06:12.000Z",
-          "wordCount": 2560,
-          "title": "Final NZSSOC sponsor awards  |  2026",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/NZSSOC-Sponsor-Awards-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66306",
-          "author": "Christo Peters",
-          "description": "Hot off winning three medals the NZ Secondary School Orienteering, PAPO member Luke Jansen was in the winning U18 team at the very first Junior Adventure Racing World Championship (JARMS) with his Canterbury team mate Silas Jones from July 23 to 26, 2026 in Quebec, Canada. Endurance Aventure announced the Black Diamond NZ team as inaugural winners […]\nFrom NZSSOC medals to ARWS U18 Champ  | Canada first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/from-nzssoc-medals-to-arws-u18-champ-canada/",
-          "publishedOn": "2026-08-02T07:59:22.000Z",
-          "wordCount": 2344,
-          "title": "From NZSSOC medals to ARWS U18 Champ  | Canada",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/ARWS-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66303",
-          "author": "Christo Peters",
-          "description": "The Great Forest Rogaine continues to evolve with record youth participation. More than 540 competitors took part in this year’s Great Forest Rogaine, reaffirming its place as one of New Zealand’s premier navigation and endurance events. Hosted by Orienteering Bay of Plenty (OBOP), the event once again brought together mountain bikers, rogainers, adventure racers, families […]\n2026 GFR a great success  | Rotorua, 25 July first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/rogaining/2026-gfr-a-great-success-rotorua-25-july/",
-          "publishedOn": "2026-08-02T07:54:51.000Z",
-          "wordCount": 2587,
-          "title": "2026 GFR a great success  | Rotorua, 25 July",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/GFR-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66295",
-          "author": "Christo Peters",
-          "description": "An ONZ Controllers Clinic will be held in Christchurch over the weekend of 7th – 8th of November based at St Martins School.  The Clinic will be run by Alister Metherell. The course will be of interest to course planners, controllers and organisers who wish to update their skill-set, for all events from club events […]\nController’s Clinic   |  Christchurch first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/controllers-clinic-christchurch/",
-          "publishedOn": "2026-08-02T07:43:47.000Z",
-          "wordCount": 2037,
-          "title": "Controller’s Clinic   |  Christchurch",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Controllers-Clinic-Header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66292",
-          "author": "Christo Peters",
-          "description": "The IOF Young Leaders Academy 2026 took place from the 27th of June – 5th of July in Val Di Sole, Italy.  I was lucky enough to attend this year. YLA is run in conjunction with the 5 days of Italy orienteering event which this year had over 2000 participants and 46 nations attending. YLA […]\nYoung Leaders Academy 2026  | Jakob Abernathy first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/iof/young-leaders-academy-2026-jakob-abernathy/",
-          "publishedOn": "2026-08-02T07:39:50.000Z",
-          "wordCount": 2753,
-          "title": "Young Leaders Academy 2026  | Jakob Abernathy",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Young-Leaders-Academy-header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66289",
-          "author": "Christo Peters",
-          "description": "Dates:  Junior Camp – Arrive Mon 14th Dec (pm), depart  Fri 18th Dec (am)  Youth Camp – Arrive Fri 18th Dec (pm), depart Sun 20th Dec (am)  Location:  Teapot Valley, 200 Teapot Valley Road, Brightwater, Nelson More information will be released in the next month\n2026 Youth & Junior Camp  |  dates for your diary first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2026-youth-junior-camp-dates-for-your-diary/",
-          "publishedOn": "2026-08-02T07:35:45.000Z",
-          "wordCount": 1971,
-          "title": "2026 Youth & Junior Camp  |  dates for your diary",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Camp-Dates-Title.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?post_type=news&p=66286",
-          "author": "Christo Peters",
-          "description": "Camp Information Dates: Monday 14 December 2026 (arrival from 3pm) – Friday 18 December 2026 (10am departure)Venue: Teapot Valley Christian Camp, Brightwater, Tasman. 2026 ONZ Junior Camp Lead Coach Position Description: For the Lead Coach in particular, the following will apply Applications close: Friday 15 August 2026 email to gm@orienteering.org.nz \n2026 Junior Camp  |  Lead Coach Expressions of Interest  first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/news/2026-junior-camp-lead-coach-expressions-of-interest-2/",
-          "publishedOn": "2026-08-02T07:27:47.000Z",
-          "wordCount": 2164,
-          "title": "2026 Junior Camp  |  Lead Coach Expressions of Interest",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Junior-Camp-Coach-header.jpg"
-        },
-        {
-          "id": "https://www.orienteering.org.nz/?p=66283",
-          "author": "Christo Peters",
-          "description": "After the recent JWOC29 Announcement we wasted no time asking the Gustafsson family what they thought of the terrain around Christchurch. They were touring around New Zealand and their family joined in the New Zealand Secondary School Orienteering Champs events in July.  1. Where are you from in Sweden and what made you want to come to […]\nSwedish perspective on NZ terrain  |  Gustafsson family first appeared on Orienteering New Zealand.",
-          "link": "https://www.orienteering.org.nz/uncategorized/swedish-perspective-on-nz-terrain-gustafsson-family/",
-          "publishedOn": "2026-08-02T07:07:49.000Z",
-          "wordCount": 2351,
-          "title": "Swedish perspective on NZ terrain  |  Gustafsson family",
-          "imageUrl": "https://www.orienteering.org.nz/wp-content/uploads/2026/08/Swedish-perspective-header.jpg"
         }
       ]
     },
@@ -926,16 +756,6 @@
           "publishedOn": "2026-08-15T08:41:00.000Z",
           "wordCount": 2953,
           "title": "2026 World Masters Championships Results and Recap",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16478",
-          "author": "Elizabeth L",
-          "description": "Team selection for Orienteering World Cup Round 3 in Vyšší Brod, Czechia from 5-9 August 2026.\n2026 World Cup Round 3 Team Selection first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2026-world-cup-round-3-team-selection/?utm_source=rss&utm_medium=rss&utm_campaign=2026-world-cup-round-3-team-selection",
-          "publishedOn": "2026-08-02T05:21:28.000Z",
-          "wordCount": 2514,
-          "title": "2026 World Cup Round 3 Team Selection",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
