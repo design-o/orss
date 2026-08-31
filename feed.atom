@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T20:11:52.885Z</updated>
+    <updated>2026-08-31T02:02:28.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -294,6 +294,17 @@ Terry Nuthall | Obituary first appeared on Orienteering New Zealand.]]></summary
         <summary type="html"><![CDATA[British Orienteering have established a youth voice programme and are seeking juniors from a variety of backgrounds and experience of […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian Club Relays, Maldon, 23 August 2026]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15864</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-club-relays-maldon-23-august-2026/"/>
+        <updated>2026-08-12T04:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Get your name down and compete for your club!
+Victorian Club Relays, Maldon, 23 August 2026 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
