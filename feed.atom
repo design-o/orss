@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T10:39:51.440Z</updated>
+    <updated>2026-09-01T15:41:05.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 AGM Booklet published]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57658</id>
+        <link href="https://www.scottish-orienteering.org/news/2026-agm-booklet-published/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-agm-booklet-published"/>
+        <updated>2026-09-01T15:19:58.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Annual General Meeting of the SOA will take place online on 14th September at 7pm. The link for […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[View from the Chair | August 2026]]></title>
         <id>https://www.orienteering.org.nz/?p=66517</id>

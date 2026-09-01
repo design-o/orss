@@ -605,6 +605,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57658",
+          "author": "nikkihoward",
+          "description": "The 2026 Annual General Meeting of the SOA will take place online on 14th September at 7pm. The link for […]",
+          "link": "https://www.scottish-orienteering.org/news/2026-agm-booklet-published/?utm_source=rss&utm_medium=rss&utm_campaign=2026-agm-booklet-published",
+          "publishedOn": "2026-09-01T15:19:58.000Z",
+          "wordCount": 1666,
+          "title": "2026 AGM Booklet published",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57645",
           "author": "heidi",
           "description": "Last weekend East Area training took place at Riccarton, Edinburgh. Planned by Lorna Eades (INT) and Ian Maxwell (RR), it […]",
