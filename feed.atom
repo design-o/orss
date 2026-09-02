@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T10:05:37.265Z</updated>
+    <updated>2026-09-02T15:29:35.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STAG celebrate their 1000th event/activity]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57753</id>
+        <link href="https://www.scottish-orienteering.org/news/stag-celebrate-their-1000th-event-activity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stag-celebrate-their-1000th-event-activity"/>
+        <updated>2026-09-02T12:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Last weekend saw St Andrews Orienteering Club of Glasgow (STAG) hold their 1000th event in Tollcross Park, Glasgow in their […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 AGM Booklet published]]></title>
         <id>https://www.scottish-orienteering.org/?p=57658</id>
@@ -579,16 +589,6 @@ MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victo
 JWOC 2029 | Embargo Notice first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Callum Wishart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Czechia 2026: All You Need To Know]]></title>
-        <id>http://news.worldofo.com/?p=21736</id>
-        <link href="https://news.worldofo.com/2026/08/04/world-cup-czechia-2026-all-you-need-to-know/"/>
-        <updated>2026-08-04T03:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Orienteering World Cup continues in Czechia this week and switches into forest mode and with Long, Middle and Relay races. The week starts with a qualification race on Wednesday August 5th, and continues with Long on August 6th. After a rest day the world orienteering elite continues with Middle on Saturday and Relay on Sunday. After ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
         </author>
     </entry>
     <entry>

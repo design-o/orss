@@ -171,16 +171,6 @@
           "wordCount": 2489,
           "title": "World Cup Czechia 2026 Long: Maps, Results and Analysis",
           "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/08/2026-08-07-12_45_18-map-3543×3543-660x330.jpg"
-        },
-        {
-          "id": "http://news.worldofo.com/?p=21736",
-          "author": "Jan Kocbach",
-          "description": "The 2026 Orienteering World Cup continues in Czechia this week and switches into forest mode and with Long, Middle and Relay races. The week starts with a qualification race on Wednesday August 5th, and continues with Long on August 6th. After a rest day the world orienteering elite continues with Middle on Saturday and Relay on Sunday. After ...",
-          "link": "https://news.worldofo.com/2026/08/04/world-cup-czechia-2026-all-you-need-to-know/",
-          "publishedOn": "2026-08-04T03:00:57.000Z",
-          "wordCount": 2134,
-          "title": "World Cup Czechia 2026: All You Need To Know",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/08/2026-08-04-02_14_03-eventor.orienteering.sport_Documents_Event_9066_1_Previous-map-Mnichovice-1998-660x330.jpg"
         }
       ]
     },
@@ -594,6 +584,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57753",
+          "author": "nikkihoward",
+          "description": "Last weekend saw St Andrews Orienteering Club of Glasgow (STAG) hold their 1000th event in Tollcross Park, Glasgow in their […]",
+          "link": "https://www.scottish-orienteering.org/news/stag-celebrate-their-1000th-event-activity/?utm_source=rss&utm_medium=rss&utm_campaign=stag-celebrate-their-1000th-event-activity",
+          "publishedOn": "2026-09-02T12:58:30.000Z",
+          "wordCount": 2189,
+          "title": "STAG celebrate their 1000th event/activity",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/563_TollcrossPark_Scale4000_TOB_Master_271124.png"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57658",
           "author": "nikkihoward",
