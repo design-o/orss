@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T01:45:11.382Z</updated>
+    <updated>2026-09-02T10:05:37.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -589,15 +589,6 @@ JWOC 2029 | Embargo Notice first appeared on Orienteering New Zealand.]]></summa
         <summary type="html"><![CDATA[The 2026 Orienteering World Cup continues in Czechia this week and switches into forest mode and with Long, Middle and Relay races. The week starts with a qualification race on Wednesday August 5th, and continues with Long on August 6th. After a rest day the world orienteering elite continues with Middle on Saturday and Relay on Sunday. After ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Primary Schools Champs 1, Hawkstowe Park, Monday September 7]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15874</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-primary-schools-champs-1-hawkstowe-park-monday-september-7/"/>
-        <updated>2026-08-03T17:35:26.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
