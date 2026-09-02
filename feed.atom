@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T15:29:35.827Z</updated>
+    <updated>2026-09-02T20:12:54.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -578,17 +578,6 @@ MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victo
         <updated>2026-08-05T01:23:41.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWOC 2029 | Embargo Notice]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66372</id>
-        <link href="https://www.orienteering.org.nz/news/jwoc-2029-embargo-notice/"/>
-        <updated>2026-08-04T04:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering New Zealand (ONZ) has been awarded the hosting rights to the Junior World Orienteering Championships in November 2029. ONZ has put together a list of areas that have the potential to be used. Once a formal organising group has been formed, along with an IOF SEA assigned to the event, final decisions will be […]
-JWOC 2029 | Embargo Notice first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Callum Wishart</name>
         </author>
     </entry>
     <entry>
