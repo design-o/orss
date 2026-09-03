@@ -258,16 +258,6 @@
           "wordCount": 1146,
           "title": "Vic Short Champs, Sunday 19 September",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15682",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/enjoy-bendigo-bush-at-sedgewick-saturday-23-may/",
-          "publishedOn": "2026-08-05T01:23:41.000Z",
-          "wordCount": 1100,
-          "title": "Enjoy Bendigo Bush at Sydenham Hill, Sunday 15 August",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -574,6 +564,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57819",
+          "author": "heidi",
+          "description": "The East Area are organising the Interarea Weekend. The Interarea weekend is a highlight of the junior orienteering calendar and […]",
+          "link": "https://www.scottish-orienteering.org/news/interareas-save-the-date/?utm_source=rss&utm_medium=rss&utm_campaign=interareas-save-the-date",
+          "publishedOn": "2026-09-03T15:20:59.000Z",
+          "wordCount": 1772,
+          "title": "Interareas Save the Date!!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/Interareas-819x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57753",
           "author": "nikkihoward",

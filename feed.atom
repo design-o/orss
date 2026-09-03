@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T10:16:13.959Z</updated>
+    <updated>2026-09-03T15:23:10.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interareas Save the Date!!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57819</id>
+        <link href="https://www.scottish-orienteering.org/news/interareas-save-the-date/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=interareas-save-the-date"/>
+        <updated>2026-09-03T15:20:59.000Z</updated>
+        <summary type="html"><![CDATA[The East Area are organising the Interarea Weekend. The Interarea weekend is a highlight of the junior orienteering calendar and […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAG celebrate their 1000th event/activity]]></title>
         <id>https://www.scottish-orienteering.org/?p=57753</id>
@@ -569,15 +579,6 @@ MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victo
         <summary type="html"><![CDATA[Update: This event is Free! – Picnic! Please preregister as usual, buy skip the payment part!  This is to encourage all current and previous members to attend, along with any friends of the club.  So basically everyone is welcome to help us celebrate our 50th anniversary! A generous anonymous donor will be paying everyone’s event […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enjoy Bendigo Bush at Sydenham Hill, Sunday 15 August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15682</id>
-        <link href="https://www.vicorienteering.asn.au/enjoy-bendigo-bush-at-sedgewick-saturday-23-may/"/>
-        <updated>2026-08-05T01:23:41.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
