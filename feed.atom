@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T19:59:16.074Z</updated>
+    <updated>2026-09-05T01:45:56.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -570,16 +570,6 @@ MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victo
         <summary type="html"><![CDATA[Simona Aebersold (SUI) and Viktor Svensk (SWE) took the victories in the first forest World Cup race of the 2026 season – a tricky Long distance race in hilly terrain in southern Czechia. Route choice challenges, varying runnability and some tricky controls in stony areas challenged the athletes.  In the women’s class the three top ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Download August 2026]]></title>
-        <id>https://www.orienteering.ie/?p=22848</id>
-        <link href="https://www.orienteering.ie/the-download-august-2026/"/>
-        <updated>2026-08-06T09:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Check out the latest edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland here!]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
