@@ -141,18 +141,7 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": [
-        {
-          "id": "http://news.worldofo.com/?p=21853",
-          "author": "Jan Kocbach",
-          "description": "Sweden’s men and Norway’s women won the relays at the World Cup in Vyšší Brod, Czechia – the last test before the European Championships in Lithuania in the end of September. Although not as tricky as yesterday’s middle distance, many mistakes were done by the runners in the greener parts of the terrain. This lead ...",
-          "link": "https://news.worldofo.com/2026/08/10/world-cup-czechia-2026-relay-maps-and-results/",
-          "publishedOn": "2026-08-10T03:00:11.000Z",
-          "wordCount": 2895,
-          "title": "World Cup Czechia 2026 Relay: Maps and Results",
-          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/08/map_women_relay._2500-660x330.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News | Orienteering Victoria",
@@ -227,16 +216,6 @@
           "publishedOn": "2026-08-12T04:06:41.000Z",
           "wordCount": 1045,
           "title": "Victorian Club Relays, Maldon, 23 August 2026",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15605",
-          "author": "Debbie Dodd",
-          "description": "Don't miss the next exciting MelbushO at Brimbank Park!  Get your entry in asap\nMelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbusho-2026/",
-          "publishedOn": "2026-08-10T01:27:33.000Z",
-          "wordCount": 1091,
-          "title": "MelbushO at Brimbank Park, Sunday 16 August",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]

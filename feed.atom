@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T10:12:27.036Z</updated>
+    <updated>2026-09-08T15:32:43.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -538,27 +538,6 @@ Terry Nuthall | Obituary first appeared on Orienteering New Zealand.]]></summary
         <updated>2026-08-12T04:06:41.000Z</updated>
         <summary type="html"><![CDATA[Get your name down and compete for your club!
 Victorian Club Relays, Maldon, 23 August 2026 first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Czechia 2026 Relay: Maps and Results]]></title>
-        <id>http://news.worldofo.com/?p=21853</id>
-        <link href="https://news.worldofo.com/2026/08/10/world-cup-czechia-2026-relay-maps-and-results/"/>
-        <updated>2026-08-10T03:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Sweden’s men and Norway’s women won the relays at the World Cup in Vyšší Brod, Czechia – the last test before the European Championships in Lithuania in the end of September. Although not as tricky as yesterday’s middle distance, many mistakes were done by the runners in the greener parts of the terrain. This lead ...]]></summary>
-        <author>
-            <name>Jan Kocbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelbushO at Brimbank Park, Sunday 16 August]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15605</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
-        <updated>2026-08-10T01:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss the next exciting MelbushO at Brimbank Park!  Get your entry in asap
-MelbushO at Brimbank Park, Sunday 16 August first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
