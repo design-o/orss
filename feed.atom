@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T15:32:43.577Z</updated>
+    <updated>2026-09-08T20:24:56.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MelbushO at Woodlands, Sunday 13 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15605</id>
+        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
+        <updated>2026-09-06T01:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the next exciting MelbushO at Woodlands!  Get your entry in asap
+MelbushO at Woodlands, Sunday 13 September first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entries Closing for Gortalughany]]></title>
         <id>https://www.niorienteering.org.uk/?p=7535</id>
