@@ -253,6 +253,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=25904",
+          "author": "James Haynes",
+          "description": "Well done to everyone who came out to Covent Garden on a lovely evening. Thank you Phil and members of SPOC for organising and finding [...]",
+          "link": "https://slow.org.uk/streeto/covent-garden-street-o-results/",
+          "publishedOn": "2026-09-08T23:12:10.000Z",
+          "wordCount": 1868,
+          "title": "Covent Garden Street-O results",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=25281",
           "author": "Lucy Browne",
           "description": "The first race in the 2026-27 Street-O series will be in Covent Garden. The format is a 1 hour time limit to find as many [...]",

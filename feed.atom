@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T20:24:56.651Z</updated>
+    <updated>2026-09-09T01:54:55.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Covent Garden Street-O results]]></title>
+        <id>https://slow.org.uk/?p=25904</id>
+        <link href="https://slow.org.uk/streeto/covent-garden-street-o-results/"/>
+        <updated>2026-09-08T23:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Well done to everyone who came out to Covent Garden on a lovely evening. Thank you Phil and members of SPOC for organising and finding [...]]]></summary>
+        <author>
+            <name>James Haynes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MelbushO at Woodlands, Sunday 13 September]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15605</id>
