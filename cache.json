@@ -263,6 +263,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26013",
+          "author": "James Haynes",
+          "description": "The second race in the 2026-27 Street-O series will be in Bow, organised by Matt Haynes. The format is a 1 hour time limit to [...]",
+          "link": "https://slow.org.uk/streeto/bow-street-o-26/",
+          "publishedOn": "2026-09-09T19:15:28.000Z",
+          "wordCount": 2465,
+          "title": "Bow Street-O, Tuesday 13th October",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Street-O_clue_examples.png"
+        },
+        {
           "id": "https://slow.org.uk/?p=25904",
           "author": "James Haynes",
           "description": "Well done to everyone who came out to Covent Garden on a lovely evening. Thank you Phil and members of SPOC for organising and finding [...]",
