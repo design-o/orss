@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T10:16:37.906Z</updated>
+    <updated>2026-09-09T15:27:35.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Team Ireland for Senior Home International 2026]]></title>
+        <id>https://www.orienteering.ie/?p=23023</id>
+        <link href="https://www.orienteering.ie/team-ireland-for-senior-home-international-2026/"/>
+        <updated>2026-09-09T10:27:02.000Z</updated>
+        <summary type="html"><![CDATA[The SHI Selectors are delighted to announce Team Ireland for the Senior Home International 2026.  The competition will be held in Northern Ireland on the 3rd & 4th of October.  We congratulate the team on their selection, and wish the team the very best of luck with the competition. Selectors: Rosalind Heron, Dave Masterson & […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covent Garden Street-O results]]></title>
         <id>https://slow.org.uk/?p=25904</id>
