@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T01:49:56.072Z</updated>
+    <updated>2026-09-11T10:07:44.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It’s Home International Season]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7561</id>
+        <link href="https://www.niorienteering.org.uk/its-home-international-season/"/>
+        <updated>2026-09-11T08:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Teams have been announced for the forthcoming Home International Season. First to compete are the Veterans travelling to South Yorkshire on 19-20 September. The team travelling under the direction of Team Manager Sharon Dickenson are: W40 – Niamh O’Boyle M40 – Rob McEvoy W45 –...
+The post It’s Home International Season appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Candidate for SOA Director – Neil Polwart – FVO]]></title>
         <id>https://www.scottish-orienteering.org/?p=57823</id>
