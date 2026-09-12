@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T01:55:23.675Z</updated>
+    <updated>2026-09-12T09:42:40.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -571,16 +571,6 @@ Terry Nuthall | Obituary first appeared on Orienteering New Zealand.]]></summary
         <summary type="html"><![CDATA[We are looking to recruit a Squad Manager for the Scottish Junior Orienteering Squad (ScotJOS). The person will work alongside […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundation Orienteering Instructor Courses]]></title>
-        <id>https://www.orienteering.ie/?p=22886</id>
-        <link href="https://www.orienteering.ie/foundation-orienteering-instructor-courses/"/>
-        <updated>2026-08-13T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Orienteering Ireland is super excited to be rolling out its new Foundation Orienteering Instructor Award and will be running two pilot courses in Cork and Dublin this Autumn. This is an entry level award and is the initial step on the coaching pathway. It aims to train candidates in the fundamentals of coaching and to […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
