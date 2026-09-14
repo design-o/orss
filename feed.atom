@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-14T02:05:36.666Z</updated>
+    <updated>2026-09-14T11:07:37.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vic Short Champs – Saturday 19 September – Tarnagulla]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15932</id>
+        <link href="https://www.vicorienteering.asn.au/vic-short-champs-saturday-19-september-tarnagulla/"/>
+        <updated>2026-09-14T02:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy a day of fast-paced orienteering at the Vic Short Champs in Tarnagulla this Saturday. The event features two short races, a morning race with “turn up an go” punching starts and an afternoon race featuring a chasing start. Entries close at midnight on Thursday 17 September.  Entry is by pre-entry on Eventor.  There will be no enter-on-the-day except for newcomers and novices wanting to try the afternoon Easy course.
+Vic Short Champs – Saturday 19 September – Tarnagulla first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Margi Freemantle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complaints and Protests in MTBO]]></title>
         <id>https://orienteering.asn.au/?p=16706</id>
@@ -539,17 +550,6 @@ The post The Door is Open appeared first on NI Orienteering Association.]]></sum
         <summary type="html"><![CDATA[Anniversary Picnic and Score Recap. We continued our 50th anniversary year celebration with a 60 minute Score and picnic on a new map at a new venue – Chapin Forest Reservation, Lake Metro Parks.  Chapin Forest is a great comination of mature Ohio woodlands, rocks, big rocks, boulders, big boulders, ledges, […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seaside on the East Side]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7505</id>
-        <link href="https://www.niorienteering.org.uk/seaside-on-the-east-side/"/>
-        <updated>2026-08-15T17:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Entries are closing soon for the NI Urban League event at Ballywalter on Wednesday 19 August which is also part of LVI’s WEE Series. All the details are on the event page on the LVO website. Note that there are 3 courses available with the...
-The post Seaside on the East Side appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
