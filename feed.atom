@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-15T10:37:18.644Z</updated>
+    <updated>2026-09-15T15:49:36.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering Fun in the Summer of Sport]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57837</id>
+        <link href="https://www.scottish-orienteering.org/news/orienteering-fun-in-the-summer-of-sport/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-fun-in-the-summer-of-sport"/>
+        <updated>2026-09-15T13:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Scottish Orienteering, with the support of Sport Scotland Summer of Sport funding have been running an initiative to attract families […]]]></summary>
+        <author>
+            <name>judybell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play Well helping shape the future of participation in orienteering]]></title>
+        <id>https://orienteering.asn.au/?p=16715</id>
+        <link href="https://orienteering.asn.au/play-well-helping-shape-the-future-of-participation-in-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=play-well-helping-shape-the-future-of-participation-in-orienteering"/>
+        <updated>2026-09-15T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Play Well guides the orienteering participation space, and it's moving into Horizon 2 of the strategy.
+Play Well helping shape the future of participation in orienteering first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vic Short Champs – Saturday 19 September – Tarnagulla]]></title>
         <id>https://www.vicorienteering.asn.au/?p=15932</id>

@@ -534,6 +534,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57837",
+          "author": "judybell",
+          "description": "Scottish Orienteering, with the support of Sport Scotland Summer of Sport funding have been running an initiative to attract families […]",
+          "link": "https://www.scottish-orienteering.org/news/orienteering-fun-in-the-summer-of-sport/?utm_source=rss&utm_medium=rss&utm_campaign=orienteering-fun-in-the-summer-of-sport",
+          "publishedOn": "2026-09-15T13:27:43.000Z",
+          "wordCount": 2107,
+          "title": "Orienteering Fun in the Summer of Sport",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/Balgay-Taster-1024x459.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57828",
           "author": "nikkihoward",
           "description": "Inverness Orienteering Club (INVOC) in conjunction with Masterplan Orienteering put on the Inverness Eagle Weekend which combined a Scottish Orienteering […]",
@@ -677,6 +687,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16715",
+          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
+          "description": "Play Well guides the orienteering participation space, and it's moving into Horizon 2 of the strategy.\nPlay Well helping shape the future of participation in orienteering first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/play-well-helping-shape-the-future-of-participation-in-orienteering/?utm_source=rss&utm_medium=rss&utm_campaign=play-well-helping-shape-the-future-of-participation-in-orienteering",
+          "publishedOn": "2026-09-15T11:05:00.000Z",
+          "wordCount": 2805,
+          "title": "Play Well helping shape the future of participation in orienteering",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16706",
           "author": "Elizabeth L",
