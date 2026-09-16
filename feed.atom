@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-15T20:34:03.442Z</updated>
+    <updated>2026-09-16T02:05:15.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Home International Team Declared]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7580</id>
+        <link href="https://www.niorienteering.org.uk/junior-home-international-team-declared/"/>
+        <updated>2026-09-15T19:17:55.000Z</updated>
+        <summary type="html"><![CDATA[The team representing Ireland at the Junior Home International on 10-11 October competing in The Trossachs are of Scotland has now been declared. W14 – Emily Kerr, Laurel O’Connor, Laoise O’Mahony, Albi Morrish Wheeler. Reserve- Chloé Campbell. M14 – Ewan Ewart, Fionn Hassett, Ruaidhri O’Brien,...
+The post Junior Home International Team Declared appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering Fun in the Summer of Sport]]></title>
         <id>https://www.scottish-orienteering.org/?p=57837</id>
