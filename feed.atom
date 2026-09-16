@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T15:41:36.087Z</updated>
+    <updated>2026-09-16T20:33:50.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -560,26 +560,6 @@ Looking for High-Performance Steering Group Members first appeared on Orienteeri
         <updated>2026-08-18T09:30:00.000Z</updated>
         <summary type="html"><![CDATA[Calling for Australian Team rider nominations to contest the Australia–New Zealand MTBO Challenge.
 Nominations Open – Australian Team for the AUS–NZL MTBO Challenge first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Short Champs, Sunday 19 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15880</id>
-        <link href="https://www.vicorienteering.asn.au/vic-short-champs-sunday-19-september/"/>
-        <updated>2026-08-18T07:55:45.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations Open – Australian-New Zealand MTBO Challenge Team Leader]]></title>
-        <id>https://orienteering.asn.au/?p=16577</id>
-        <link href="https://orienteering.asn.au/nominations-open-australian-new-zealand-mtbo-challenge-team-leader/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nominations-open-australian-new-zealand-mtbo-challenge-team-leader"/>
-        <updated>2026-08-18T06:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Calling for nominations for the Australian Team Leader for the Australia–New Zealand MTBO Challenge in Ballarat in October.
-Nominations Open – Australian-New Zealand MTBO Challenge Team Leader first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
         </author>
