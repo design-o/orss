@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T10:24:59.928Z</updated>
+    <updated>2026-09-16T15:41:36.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What learning and support do YOU want?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57889</id>
+        <link href="https://www.scottish-orienteering.org/news/what-learning-and-support-do-you-want/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-learning-and-support-do-you-want"/>
+        <updated>2026-09-16T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[We’ve reviewed the webpages which detail the courses and learning opportunities for all volunteers – check out the new look […]]]></summary>
+        <author>
+            <name>judybell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JHI 2026 – Team Selection]]></title>
+        <id>https://www.orienteering.ie/?p=23152</id>
+        <link href="https://www.orienteering.ie/jhi-2026-team-selection/"/>
+        <updated>2026-09-16T12:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to all who have been selected to represent Ireland at the Junior Home International taking place in Scotland on October 9th – 11th 2026. W14 Albi Morrish Wheeler Emily Kerr Laoise O’Mahony Laurel O’Connor NTR*: Chloé Campbell M14 Corin Russell Ewan Ewart Fionn Hassett Ruaidhri O’Brien NTR: Adam Clear W16 Aoife Masterson Beth Joyce […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[And There’s More at Meelmore]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7585</id>
+        <link href="https://www.niorienteering.org.uk/and-theres-more-at-meelmore/"/>
+        <updated>2026-09-16T10:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Entries are open for the premier event of the year – the Northern Ireland Championships to be staged at Meelmore on Saturday 3 October by Lagan Valley Orienteers. All the details are on the event page on the LVO website with entries at SiEntries. This...
+The post And There’s More at Meelmore appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Home International Team Declared]]></title>
         <id>https://www.niorienteering.org.uk/?p=7580</id>

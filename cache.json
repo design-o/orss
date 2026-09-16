@@ -236,6 +236,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=23152",
+          "author": "Deirdre",
+          "description": "Congratulations to all who have been selected to represent Ireland at the Junior Home International taking place in Scotland on October 9th – 11th 2026. W14 Albi Morrish Wheeler Emily Kerr Laoise O’Mahony Laurel O’Connor NTR*: Chloé Campbell M14 Corin Russell Ewan Ewart Fionn Hassett Ruaidhri O’Brien NTR: Adam Clear W16 Aoife Masterson Beth Joyce […]",
+          "link": "https://www.orienteering.ie/jhi-2026-team-selection/",
+          "publishedOn": "2026-09-16T12:33:55.000Z",
+          "wordCount": 1489,
+          "title": "JHI 2026 – Team Selection",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=23023",
           "author": "Operations Manager",
           "description": "The SHI Selectors are delighted to announce Team Ireland for the Senior Home International 2026.  The competition will be held in Northern Ireland on the 3rd & 4th of October.  We congratulate the team on their selection, and wish the team the very best of luck with the competition. Selectors: Rosalind Heron, Dave Masterson & […]",
@@ -534,6 +544,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=57889",
+          "author": "judybell",
+          "description": "We’ve reviewed the webpages which detail the courses and learning opportunities for all volunteers – check out the new look […]",
+          "link": "https://www.scottish-orienteering.org/news/what-learning-and-support-do-you-want/?utm_source=rss&utm_medium=rss&utm_campaign=what-learning-and-support-do-you-want",
+          "publishedOn": "2026-09-16T14:35:09.000Z",
+          "wordCount": 1973,
+          "title": "What learning and support do YOU want?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/New-web-page-courses-1024x542.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=57837",
           "author": "judybell",
           "description": "Scottish Orienteering, with the support of Sport Scotland Summer of Sport funding have been running an initiative to attract families […]",
@@ -620,6 +640,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7585",
+          "author": "NIOA Secretary",
+          "description": "Entries are open for the premier event of the year – the Northern Ireland Championships to be staged at Meelmore on Saturday 3 October by Lagan Valley Orienteers. All the details are on the event page on the LVO website with entries at SiEntries. This...\nThe post And There’s More at Meelmore appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/and-theres-more-at-meelmore/",
+          "publishedOn": "2026-09-16T10:54:35.000Z",
+          "wordCount": 4384,
+          "title": "And There’s More at Meelmore",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2015/06/Meelmore.jpg?fit=520%2C300&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7580",
           "author": "NIOA Secretary",
