@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T10:34:20.652Z</updated>
+    <updated>2026-09-17T15:47:33.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Permanent Orienteering Courses: What Came out of September’s Community Conversation]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57923</id>
+        <link href="https://www.scottish-orienteering.org/news/permanent-orienteering-courses-what-came-out-of-septembers-community-conversation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=permanent-orienteering-courses-what-came-out-of-septembers-community-conversation"/>
+        <updated>2026-09-17T11:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Our September Community Conversation had a theme of using Permanent Orienteering Courses (‘POCs’) to encourage and widen participation, and saw […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What happened at the SOA AGM?]]></title>
         <id>https://www.scottish-orienteering.org/?p=57921</id>
@@ -151,6 +161,17 @@ Vic Short Champs – Saturday 19 September – Tarnagulla first appeared on Orie
 Complaints and Protests in MTBO first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian Long Distance Champs, Sunday 20 September, Metcalfe]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15889</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-long-distance-champs-sunday-20-september-metcalfe/"/>
+        <updated>2026-09-12T20:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Entries close on September 15!! Be part of Victoria's premier forest event for 2026
+Victorian Long Distance Champs, Sunday 20 September, Metcalfe first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
