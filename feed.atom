@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T20:33:50.140Z</updated>
+    <updated>2026-09-17T02:09:05.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcoming the Oceania Orienteering Championships to Ngunnawal Country]]></title>
+        <id>https://orienteering.asn.au/?p=16722</id>
+        <link href="https://orienteering.asn.au/welcoming-the-oceania-orienteering-championships-to-ngunnawal-country/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=welcoming-the-oceania-orienteering-championships-to-ngunnawal-country"/>
+        <updated>2026-09-16T23:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A Welcome to Country will be held at the first day of competition. Tyronne Bell, a Ngunnawal Elder, will share a Welcome to Country and offer participants a safe passage on their ancestral lands.
+Welcoming the Oceania Orienteering Championships to Ngunnawal Country first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr Blue Sky – Where Did We Go Wrong?]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7596</id>
+        <link href="https://www.niorienteering.org.uk/mr-blue-sky-where-did-we-go-wrong/"/>
+        <updated>2026-09-16T22:35:52.000Z</updated>
+        <summary type="html"><![CDATA[The sky was indeed blue over Fermanagh for NI Colour Series 6 at Gortalughany on Saturday 12 September, although early starters did have to endure a considerable squall! Thanks to Planner  Sara Mason, Controller Philip McGoldrick and Organisers Raymond & Teresa Finlay for a quality event. The Standings...
+The post Mr Blue Sky – Where Did We Go Wrong? appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What learning and support do YOU want?]]></title>
         <id>https://www.scottish-orienteering.org/?p=57889</id>
@@ -172,6 +194,15 @@ MelbushO at Woodlands, Sunday 13 September first appeared on Orienteering Victor
 The post Entries Closing for Gortalughany appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Short Champs, Sunday 19 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15880</id>
+        <link href="https://www.vicorienteering.asn.au/vic-short-champs-sunday-19-september/"/>
+        <updated>2026-09-05T07:55:45.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -551,17 +582,6 @@ The post Shiver Me Timbers appeared first on NI Orienteering Association.]]></su
 Looking for High-Performance Steering Group Members first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations Open – Australian Team for the AUS–NZL MTBO Challenge]]></title>
-        <id>https://orienteering.asn.au/?p=16580</id>
-        <link href="https://orienteering.asn.au/nominations-open-australian-team-for-the-aus-nzl-mtbo-challenge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nominations-open-australian-team-for-the-aus-nzl-mtbo-challenge"/>
-        <updated>2026-08-18T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Calling for Australian Team rider nominations to contest the Australia–New Zealand MTBO Challenge.
-Nominations Open – Australian Team for the AUS–NZL MTBO Challenge first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
