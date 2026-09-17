@@ -217,16 +217,6 @@
           "wordCount": 1230,
           "title": "Try Bush and MTB Orienteering at Woodlands on Sunday 13 September",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15889",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorian-long-distance-champs-sunday-20-september-metcalfe/",
-          "publishedOn": "2026-08-18T20:27:40.000Z",
-          "wordCount": 1285,
-          "title": "Victorian Long Distance Champs, Sunday 20 September, Metcalfe",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -235,6 +225,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=23165",
+          "author": "Operations Manager",
+          "description": "And not to be outdone, here are the Irish selections for the Veteran Home International which is in the English Peak District this weekend 19-20 September! The team is: W40 Niamh O’Boyle W45 Toni O’Donovan, Fionne Austin W50 Brid Casey, Sharon Dickenson W55 Eileen Young, Carol Black W60 Heather Wood, Ursula Morrish W65 Liz Deane, […]",
+          "link": "https://www.orienteering.ie/vhi-team-announcement/",
+          "publishedOn": "2026-09-17T08:50:51.000Z",
+          "wordCount": 1433,
+          "title": "VHI Team 2026 Announcement",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=23152",
           "author": "Deirdre",
@@ -543,6 +543,36 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57921",
+          "author": "nikkihoward",
+          "description": "Thank you to all of those who took time out of their Monday evening to attend the SOA Annual General […]",
+          "link": "https://www.scottish-orienteering.org/news/what-happened-at-the-soa-agm/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-at-the-soa-agm",
+          "publishedOn": "2026-09-17T10:06:06.000Z",
+          "wordCount": 1872,
+          "title": "What happened at the SOA AGM?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57904",
+          "author": "nikkihoward",
+          "description": "Keith Dawson, the SOA former Chair of the Board/ avid Mountain Bike orienteer and Event Coordinator reflects on the 2026 […]",
+          "link": "https://www.scottish-orienteering.org/news/world-masters-mountain-bike-orienteering-a-great-success/?utm_source=rss&utm_medium=rss&utm_campaign=world-masters-mountain-bike-orienteering-a-great-success",
+          "publishedOn": "2026-09-17T09:26:15.000Z",
+          "wordCount": 2420,
+          "title": "World Masters Mountain Bike Orienteering a great success",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/a1d5a7ad-7ee9-4ecb-92d8-a0c9e6651372-1-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=57893",
+          "author": "nikkihoward",
+          "description": "Last weekend Edinburgh Southern Orienteering Club (ESOC) hosted the 4th Scottish Orienteering League (SOL) event of 2026 at Cademuir. Cademuir […]",
+          "link": "https://www.scottish-orienteering.org/news/esoc-deliver-a-sol-for-all-the-family/?utm_source=rss&utm_medium=rss&utm_campaign=esoc-deliver-a-sol-for-all-the-family",
+          "publishedOn": "2026-09-17T09:08:15.000Z",
+          "wordCount": 2322,
+          "title": "ESOC deliver a SOL for all the family",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/Sunshine-oon-Cademuir-Photo-Credit-Peter-OHara-1024x768.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=57889",
           "author": "judybell",

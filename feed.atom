@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T02:09:05.331Z</updated>
+    <updated>2026-09-17T10:34:20.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What happened at the SOA AGM?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57921</id>
+        <link href="https://www.scottish-orienteering.org/news/what-happened-at-the-soa-agm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-happened-at-the-soa-agm"/>
+        <updated>2026-09-17T10:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Thank you to all of those who took time out of their Monday evening to attend the SOA Annual General […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Masters Mountain Bike Orienteering a great success]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57904</id>
+        <link href="https://www.scottish-orienteering.org/news/world-masters-mountain-bike-orienteering-a-great-success/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-masters-mountain-bike-orienteering-a-great-success"/>
+        <updated>2026-09-17T09:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Keith Dawson, the SOA former Chair of the Board/ avid Mountain Bike orienteer and Event Coordinator reflects on the 2026 […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESOC deliver a SOL for all the family]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57893</id>
+        <link href="https://www.scottish-orienteering.org/news/esoc-deliver-a-sol-for-all-the-family/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=esoc-deliver-a-sol-for-all-the-family"/>
+        <updated>2026-09-17T09:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Last weekend Edinburgh Southern Orienteering Club (ESOC) hosted the 4th Scottish Orienteering League (SOL) event of 2026 at Cademuir. Cademuir […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VHI Team 2026 Announcement]]></title>
+        <id>https://www.orienteering.ie/?p=23165</id>
+        <link href="https://www.orienteering.ie/vhi-team-announcement/"/>
+        <updated>2026-09-17T08:50:51.000Z</updated>
+        <summary type="html"><![CDATA[And not to be outdone, here are the Irish selections for the Veteran Home International which is in the English Peak District this weekend 19-20 September! The team is: W40 Niamh O’Boyle W45 Toni O’Donovan, Fionne Austin W50 Brid Casey, Sharon Dickenson W55 Eileen Young, Carol Black W60 Heather Wood, Ursula Morrish W65 Liz Deane, […]]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcoming the Oceania Orienteering Championships to Ngunnawal Country]]></title>
         <id>https://orienteering.asn.au/?p=16722</id>
@@ -560,15 +600,6 @@ The post Shiver Me Timbers appeared first on NI Orienteering Association.]]></su
         <id>https://www.vicorienteering.asn.au/?p=15892</id>
         <link href="https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/"/>
         <updated>2026-08-19T20:33:28.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Long Distance Champs, Sunday 20 September, Metcalfe]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15889</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-long-distance-champs-sunday-20-september-metcalfe/"/>
-        <updated>2026-08-18T20:27:40.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
