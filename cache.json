@@ -217,16 +217,6 @@
           "wordCount": 1025,
           "title": "Maya Shines at Junior World MTBO Champs",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15892",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/",
-          "publishedOn": "2026-08-19T20:33:28.000Z",
-          "wordCount": 1230,
-          "title": "Try Bush and MTB Orienteering at Woodlands on Sunday 13 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -235,6 +225,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=23170",
+          "author": "Deirdre",
+          "description": "Wednesday 4 November | 7pm – 9pm Orienteering Ireland is hosting a free Social Media Workshop for Orienteering Ireland clubs, designed to help clubs make the most of their social media and promote the great work they are doing. We’re delighted to have Lyn Mutch from Noodle Horse Media delivering the workshop. Lyn is a […]",
+          "link": "https://www.orienteering.ie/social-media-workshop-for-orienteering-ireland-clubs/",
+          "publishedOn": "2026-09-18T09:37:21.000Z",
+          "wordCount": 1558,
+          "title": "Social Media Workshop for Orienteering Ireland Clubs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=23165",
           "author": "Operations Manager",
