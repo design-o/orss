@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T10:10:28.879Z</updated>
+    <updated>2026-09-18T15:20:39.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NEOOC – Late Registration ends today – Masters Nationals & Corn Maze]]></title>
+        <id>https://neooc.com/?p=51154</id>
+        <link href="https://neooc.com/neooc-late-registration-ends-today-masters-nationals-corn-maze/"/>
+        <updated>2026-09-18T15:12:26.000Z</updated>
+        <summary type="html"><![CDATA[This is your last chance!  The OUSA Registration system will shutdown after midnight tonight.  Only Walk-up Recreational courses will be available on on-site. Please use this webpage link to the OUSA Manual Entry for your registration, since the OUSA Event Reg system using the “OUSA Sign in” is non-functional. Also, pre-order lunches for Saturday and/or […]]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Social Media Workshop for Orienteering Ireland Clubs]]></title>
         <id>https://www.orienteering.ie/?p=23170</id>
@@ -243,6 +253,15 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[Well done to everyone who came out to Covent Garden on a lovely evening. Thank you Phil and members of SPOC for organising and finding [...]]]></summary>
         <author>
             <name>James Haynes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try Bush and MTB Orienteering at Woodlands on Sunday 13 September]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15892</id>
+        <link href="https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/"/>
+        <updated>2026-09-06T20:33:28.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
