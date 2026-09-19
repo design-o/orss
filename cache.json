@@ -517,6 +517,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=51171",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "A model / training course with 27 controls is open now! And will remain open until Sunday September 27th (9 days). See the Model Course section of the 2026 Masters Nationals webpage for all of the details, map downloads, and other ways to obtain the printed maps. OPEN TO THE PUBLIC – you do not […]",
+          "link": "https://neooc.com/model-course-open-girdled-road-score-self-serve-2026-masters-nationals/",
+          "publishedOn": "2026-09-19T02:35:51.000Z",
+          "wordCount": 1390,
+          "title": "Model Course Open | Girdled Road Score Self Serve | 2026 Masters Nationals",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2025/10/GirdledRoadReservation.png"
+        },
+        {
           "id": "https://neooc.com/?p=51154",
           "author": "Northeast Ohio Orienteering Club",
           "description": "This is your last chance!  The OUSA Registration system will shutdown after midnight tonight.  Only Walk-up Recreational courses will be available on on-site. Please use this webpage link to the OUSA Manual Entry for your registration, since the OUSA Event Reg system using the “OUSA Sign in” is non-functional. Also, pre-order lunches for Saturday and/or […]",
@@ -759,16 +769,6 @@
           "wordCount": 4349,
           "title": "With a View to Enlarging your Purview",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Gortalughany.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7524",
-          "author": "NIOA Secretary",
-          "description": "The results are in from the Ballywalter Urban event, with the final control on the pirate ship catching out a few land lubbers. After a considerable deluge, a pleasant evening followed for a dry run for all, although a few feet might just have got...\nThe post Shiver Me Timbers appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/shiver-me-timbers/",
-          "publishedOn": "2026-08-20T16:25:37.000Z",
-          "wordCount": 4406,
-          "title": "Shiver Me Timbers",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/07/Ballywalter.jpg"
         }
       ]
     },
