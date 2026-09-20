@@ -273,6 +273,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26047",
+          "author": "Steve Clelland",
+          "description": "Results by class Results by course Live results WinSplits Routegadget – draw your route! Official’s Comments – to follow",
+          "link": "https://slow.org.uk/racereports/lcr-2026-results/",
+          "publishedOn": "2026-09-19T21:38:50.000Z",
+          "wordCount": 1728,
+          "title": "London City Race Results 2026",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/london-city-race-results-2026/files/LCR_2026_1-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=26013",
           "author": "James Haynes",
           "description": "The second race in the 2026-27 Street-O series will be in Bow, organised by Matt Haynes. The format is a 1 hour time limit to [...]",
