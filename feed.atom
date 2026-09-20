@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-20T10:13:53.073Z</updated>
+    <updated>2026-09-20T15:00:50.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All are welcome to the OMG Oceania Speakers Program]]></title>
+        <id>https://orienteering.asn.au/?p=16739</id>
+        <link href="https://orienteering.asn.au/all-are-welcome-to-the-omg-oceania-speakers-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-are-welcome-to-the-omg-oceania-speakers-program"/>
+        <updated>2026-09-20T12:20:03.000Z</updated>
+        <summary type="html"><![CDATA[The exciting speaker program for Orienteering Meet at Galambary (OMG) has been released! Join us during the Oceania Carnival.
+All are welcome to the OMG Oceania Speakers Program first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[London City Race Results 2026]]></title>
         <id>https://slow.org.uk/?p=26047</id>
