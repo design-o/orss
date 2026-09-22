@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T10:28:34.429Z</updated>
+    <updated>2026-09-22T15:52:32.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Janice Nesbit awarded the Service to Orienteering Award]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57971</id>
+        <link href="https://www.scottish-orienteering.org/news/janice-nesbit-awarded-the-service-to-orienteering-award/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=janice-nesbit-awarded-the-service-to-orienteering-award"/>
+        <updated>2026-09-22T14:06:47.000Z</updated>
+        <summary type="html"><![CDATA[It was announced by Jonathan Molloy at the SOA 2026 Annual General Meeting that the Service to Orienteering Award was […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland overwhelmed by Wales at the Veteran Home Internationals]]></title>
+        <id>https://www.scottish-orienteering.org/?p=57954</id>
+        <link href="https://www.scottish-orienteering.org/news/scotland-overwhelmed-by-wales-at-the-veteran-home-internationals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotland-overwhelmed-by-wales-at-the-veteran-home-internationals"/>
+        <updated>2026-09-22T13:05:05.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Veteran Home Internationals took place down in the Peak District last weekend (19th/20th September) and saw Scotland finishing […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships]]></title>
         <id>https://orienteering.asn.au/?p=16746</id>
