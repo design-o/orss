@@ -141,7 +141,18 @@
       "title": "World of O News",
       "feedUrl": "https://news.worldofo.com/feed",
       "siteUrl": "https://news.worldofo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://news.worldofo.com/?p=21860",
+          "author": "Jan Kocbach",
+          "description": "Green and physical forests with glacial relief await the world’s best orienteers when the European Orienteering Championships (EOC) start in Lithuania on Wednesday with the Qualification race. The first European titles are decided in Thursday’s Long distance, followed by the Middle distance on Saturday and the Relay on Sunday. EOC 2026 is also the final ...",
+          "link": "https://news.worldofo.com/2026/09/23/eoc-2026-all-you-need-to-know/",
+          "publishedOn": "2026-09-23T03:00:08.000Z",
+          "wordCount": 5571,
+          "title": "EOC 2026: All You Need To Know",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "News | Orienteering Victoria",
@@ -777,6 +788,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16762",
+          "author": "Elizabeth L",
+          "description": "Team announcement and programme for EOC & Orienteering World Cup Final from 23-27 September in Druskininkai, Lithuania!\n2026 EOC & WORLD CUP FINAL – TEAM ANNOUNCEMENT & EVENT INFO first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2026-eoc-world-cup-final-team-announcement-event-info/?utm_source=rss&utm_medium=rss&utm_campaign=2026-eoc-world-cup-final-team-announcement-event-info",
+          "publishedOn": "2026-09-23T07:35:47.000Z",
+          "wordCount": 2724,
+          "title": "2026 EOC & WORLD CUP FINAL – TEAM ANNOUNCEMENT & EVENT INFO",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16746",
           "author": "Shane Jenkins",
