@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T20:46:22.796Z</updated>
+    <updated>2026-09-24T01:57:57.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Contractor Opportunity: Help shape the future of MTBO]]></title>
+        <id>https://orienteering.asn.au/?p=16769</id>
+        <link href="https://orienteering.asn.au/contractor-opportunity-help-shape-the-future-of-mtbo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=contractor-opportunity-help-shape-the-future-of-mtbo"/>
+        <updated>2026-09-24T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is working on two projects to develop MTBO. Expressions of Interest are sought from people interested in being paid to work on these exciting projects.
+Contractor Opportunity: Help shape the future of MTBO first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 EOC & WORLD CUP FINAL – TEAM ANNOUNCEMENT & EVENT INFO]]></title>
         <id>https://orienteering.asn.au/?p=16762</id>
