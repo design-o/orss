@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-24T01:57:57.791Z</updated>
+    <updated>2026-09-24T10:40:11.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC 2026 Qualification: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=21866</id>
+        <link href="https://news.worldofo.com/2026/09/24/eoc-2026-qualification-maps-results-and-analysis/"/>
+        <updated>2026-09-24T03:00:27.000Z</updated>
+        <summary type="html"><![CDATA[The first big surprise of the European Orienteering Championships came already in the Qualification: Emil Svensk (SWE) – number six in the World Ranking – lost nearly eight minutes on one long leg and will not run the Long A-final on Thursday. Otherwise nearly all favourites made it through in the green and technical Noškūnai ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contractor Opportunity: Help shape the future of MTBO]]></title>
         <id>https://orienteering.asn.au/?p=16769</id>
@@ -643,27 +653,6 @@ ONZ Policy guide  |  Code of conduct first appeared on Orienteering New Zeala
         <summary type="html"><![CDATA[Got experiences you think are worth sharing, want to meet members from other clubs or find out what others think […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Middle Distance Champs, Sunday 6 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15886</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-middle-distance-champs-sunday-6-september/"/>
-        <updated>2026-08-25T20:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Make sure you enter the Victorian Middle Distance Champs by the August 31 cutoff!
-Victorian Middle Distance Champs, Sunday 6 September first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEOOC – Registration deadlines approaching for Masters Nationals]]></title>
-        <id>https://neooc.com/?p=51032</id>
-        <link href="https://neooc.com/neooc-registration-deadlines-approaching-for-masters-nationals/"/>
-        <updated>2026-08-25T15:23:34.000Z</updated>
-        <summary type="html"><![CDATA[The US Masters Nationals event and Corn Maze Challenge will be NEOOC’s biggest event since 2004. We are expecting 250+ participants from all over the US. While the championship will attract top Masters competitors from across the country, newcomers and beginners are welcome and encouraged to participate. White, Yellow, and Orange Recreational courses will be available throughout […]]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>

@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21866",
+          "author": "Jan Kocbach",
+          "description": "The first big surprise of the European Orienteering Championships came already in the Qualification: Emil Svensk (SWE) – number six in the World Ranking – lost nearly eight minutes on one long leg and will not run the Long A-final on Thursday. Otherwise nearly all favourites made it through in the green and technical Noškūnai ...",
+          "link": "https://news.worldofo.com/2026/09/24/eoc-2026-qualification-maps-results-and-analysis/",
+          "publishedOn": "2026-09-24T03:00:27.000Z",
+          "wordCount": 5088,
+          "title": "EOC 2026 Qualification: Maps, Results and Analysis",
+          "imageUrl": "https://news.worldofo.com/wp-content/uploads/2026/09/eoc26qx_m2_leg3_top-660x330.png"
+        },
+        {
           "id": "http://news.worldofo.com/?p=21860",
           "author": "Jan Kocbach",
           "description": "Green and physical forests with glacial relief await the world’s best orienteers when the European Orienteering Championships (EOC) start in Lithuania on Wednesday with the Qualification race. The first European titles are decided in Thursday’s Long distance, followed by the Middle distance on Saturday and the Relay on Sunday. EOC 2026 is also the final ...",
@@ -217,16 +227,6 @@
           "publishedOn": "2026-09-05T07:55:45.000Z",
           "wordCount": 1177,
           "title": "Vic Short Champs, Sunday 19 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15886",
-          "author": "Debbie Dodd",
-          "description": "Make sure you enter the Victorian Middle Distance Champs by the August 31 cutoff!\nVictorian Middle Distance Champs, Sunday 6 September first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/victorian-middle-distance-champs-sunday-6-september/",
-          "publishedOn": "2026-08-25T20:25:12.000Z",
-          "wordCount": 1183,
-          "title": "Victorian Middle Distance Champs, Sunday 6 September",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -556,16 +556,6 @@
           "wordCount": 1429,
           "title": "NEOOC – hosts US National Corn Maze Championships",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/08/cmousa.png"
-        },
-        {
-          "id": "https://neooc.com/?p=51032",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "The US Masters Nationals event and Corn Maze Challenge will be NEOOC’s biggest event since 2004. We are expecting 250+ participants from all over the US. While the championship will attract top Masters competitors from across the country, newcomers and beginners are welcome and encouraged to participate. White, Yellow, and Orange Recreational courses will be available throughout […]",
-          "link": "https://neooc.com/neooc-registration-deadlines-approaching-for-masters-nationals/",
-          "publishedOn": "2026-08-25T15:23:34.000Z",
-          "wordCount": 1411,
-          "title": "NEOOC – Registration deadlines approaching for Masters Nationals",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/Logo_Combined_V1.png"
         }
       ]
     },
