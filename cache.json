@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21872",
+          "author": "Jan Kocbach",
+          "description": "Kasper Harlem Fosser (NOR) and Tove Alexandersson (SWE) both defended their European titles in the Long distance in the green and physically tough Petroškos forest in Lithuania. Fosser won 1:09 ahead of Fabian Aebersold (SUI), with Viktor Svensk (SWE) third, 1:20 behind – building his winning margin on the route choice leg to control 19. ...",
+          "link": "https://news.worldofo.com/2026/09/25/eoc-2026-long-maps-results-and-analysis/",
+          "publishedOn": "2026-09-25T03:00:43.000Z",
+          "wordCount": 4986,
+          "title": "EOC 2026 Long: Maps, Results and Analysis",
+          "imageUrl": null
+        },
+        {
           "id": "http://news.worldofo.com/?p=21866",
           "author": "Jan Kocbach",
           "description": "The first big surprise of the European Orienteering Championships came already in the Qualification: Emil Svensk (SWE) – number six in the World Ranking – lost nearly eight minutes on one long leg and will not run the Long A-final on Thursday. Otherwise nearly all favourites made it through in the green and technical Noškūnai ...",
@@ -311,26 +321,6 @@
           "publishedOn": "2026-09-08T23:12:10.000Z",
           "wordCount": 1868,
           "title": "Covent Garden Street-O results",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=25281",
-          "author": "Lucy Browne",
-          "description": "The first race in the 2026-27 Street-O series will be in Covent Garden. The format is a 1 hour time limit to find as many [...]",
-          "link": "https://slow.org.uk/streeto/covent-garden-street-o-26/",
-          "publishedOn": "2026-08-26T16:14:58.000Z",
-          "wordCount": 2498,
-          "title": "Covent Garden Street-O, Tuesday 8th September",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Street-O_clue_examples.png"
-        },
-        {
-          "id": "https://slow.org.uk/?p=25292",
-          "author": "Lucy Browne",
-          "description": "Welcome Welcome to our series of evening Street Orienteering Races. These are friendly, easy events open to everyone and usually based at a pub around [...]",
-          "link": "https://slow.org.uk/streeto/series2627/",
-          "publishedOn": "2026-08-26T16:11:02.000Z",
-          "wordCount": 2112,
-          "title": "Street-O Series 2026-27",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
@@ -546,16 +536,6 @@
           "wordCount": 1399,
           "title": "NEOOC – Late Registration ends today – Masters Nationals & Corn Maze",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/Logo_Combined_V1.png"
-        },
-        {
-          "id": "https://neooc.com/?p=51035",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Our Corn Maze event on Friday 9/25 kicks off a very special weekend of orienteering this September, the OUSA Masters Nationals. In a late-breaking development, the event has also been designated as the 2026 U.S. National Corn Maze Orienteering Championships. The corn maze event will feature multiple courses through a 16-acre corn maze at Derthick’s […]",
-          "link": "https://neooc.com/neooc-hosts-us-national-corn-maze-championships/",
-          "publishedOn": "2026-08-26T18:00:41.000Z",
-          "wordCount": 1429,
-          "title": "NEOOC – hosts US National Corn Maze Championships",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/08/cmousa.png"
         }
       ]
     },
@@ -703,16 +683,6 @@
           "wordCount": 1835,
           "title": "East Area Training",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/08/783608641_913754855120268_7315315139560686677_n-1024x771.jpeg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57641",
-          "author": "nikkihoward",
-          "description": "Got experiences you think are worth sharing, want to meet members from other clubs or find out what others think […]",
-          "link": "https://www.scottish-orienteering.org/news/free-lunch-home-made-cake-and-a-chance-to-talk-about-orienteering-interested/?utm_source=rss&utm_medium=rss&utm_campaign=free-lunch-home-made-cake-and-a-chance-to-talk-about-orienteering-interested",
-          "publishedOn": "2026-08-26T15:50:28.000Z",
-          "wordCount": 1885,
-          "title": "Free lunch, home made cake and a chance to talk about orienteering.  Interested?",
-          "imageUrl": null
         }
       ]
     },
