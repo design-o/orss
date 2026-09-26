@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-26T02:20:14.106Z</updated>
+    <updated>2026-09-26T10:26:10.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Miss the Highlight of 2026]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7606</id>
+        <link href="https://www.niorienteering.org.uk/dont-miss-the-highlight-of-2026/"/>
+        <updated>2026-09-26T06:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Entries are closing this evening (Saturday 26 September) for the Northern Ireland Championships to be staged at Meelmore on Saturday 3 October by Lagan Valley Orienteers. All the details are on the event page on the LVO website with entries at SiEntries. Don’t miss this...
+The post Don’t Miss the Highlight of 2026 appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2026 Long: Maps, Results and Analysis]]></title>
         <id>http://news.worldofo.com/?p=21872</id>
