@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T20:49:40.019Z</updated>
+    <updated>2026-09-26T02:20:14.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -611,49 +611,6 @@ ONZ is looking for someone to perform an audit of our digital platforms | Paid r
         <updated>2026-08-30T06:14:27.000Z</updated>
         <summary type="html"><![CDATA[Orienteering NZ wishes for our sport to continue to be a respectful, safe, and fair sport. To this end, we would like to remind everyone involved in our sport that all club members, coaches, managers, and supporters are bound by our sport’s code of conduct. This is a policy document outlining expectations for everyone involved in […]
 ONZ Policy guide  |  Code of conduct first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[East Area Training]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57645</id>
-        <link href="https://www.scottish-orienteering.org/news/east-area-training/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=east-area-training"/>
-        <updated>2026-08-27T12:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Last weekend East Area training took place at Riccarton, Edinburgh. Planned by Lorna Eades (INT) and Ian Maxwell (RR), it […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Foot O’ AUS-NZL Challenge | Looking for a Manager]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66431</id>
-        <link href="https://www.orienteering.org.nz/news/2026-foot-o-aus-nzl-challenge-looking-for-a-manager/"/>
-        <updated>2026-08-21T21:54:13.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Australia-New Zealand Challenge will be held in Canberra, Australia from 26 September to 04 October 2026, in conjunction with the Oceania Orienteering Championships. The Challenge will consist of an Individual Challenge, based on the Oceania Long Distance, Middle Distance and Sprint Distance Championships, and a Relay Challenge, based on the Oceania Relay Championships. […]
-2026 Foot O’ AUS-NZL Challenge | Looking for a Manager first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for High-Performance Steering Group Members]]></title>
-        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66428</id>
-        <link href="https://www.orienteering.org.nz/news/looking-for-high-performance-steering-group-members/"/>
-        <updated>2026-08-18T09:49:30.000Z</updated>
-        <summary type="html"><![CDATA[The ONZ High-Performance Steering Group provides strategic oversight and advice for the development of High-Performance orienteering in New Zealand. The group is responsible for developing High-Performance policy, overseeing athlete development pathways, and providing recommendations on selection policies, development programmes, and other High-Performance initiatives. The group works alongside the National Performance Leader and was created one […]
-Looking for High-Performance Steering Group Members first appeared on Orienteering New Zealand.]]></summary>
-        <author>
-            <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terry Nuthall | Obituary]]></title>
-        <id>https://www.orienteering.org.nz/?p=66410</id>
-        <link href="https://www.orienteering.org.nz/uncategorized/terry-nuthall-obituary/"/>
-        <updated>2026-08-15T08:24:35.000Z</updated>
-        <summary type="html"><![CDATA[EASTER 4-DAY — DAY 1— THROUGH THE EYES OF AN M45A’er When reading in the programme that the starter may exclude competitors who were inadequately clad, one wondered what we were in for. Much to our surprise Easter in the Wellington region was near perfect. Sunny, dry days made for long and enthusiastic post-mortems on […]
-Terry Nuthall | Obituary first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
         </author>
