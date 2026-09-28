@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-28T02:19:36.531Z</updated>
+    <updated>2026-09-28T12:13:45.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOC 2026 Relay: Maps, Results and Analysis]]></title>
+        <id>http://news.worldofo.com/?p=21881</id>
+        <link href="https://news.worldofo.com/2026/09/28/eoc-2026-relay-maps-results-and-analysis/"/>
+        <updated>2026-09-28T03:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Switzerland won the men’s relay at the European Orienteering Championships (EOC) after a four-team battle to the finish: Fabian Aebersold (SUI) won the sprint, 2 seconds ahead of Kasper Harlem Fosser (NOR), with Sweden 2 six seconds and Czechia 12 seconds behind – after Tomáš Křivda (CZE) lost a 33-second lead on the leg round ...]]></summary>
+        <author>
+            <name>Jan Kocbach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOC 2026 Middle: Maps, Results and Analysis]]></title>
         <id>http://news.worldofo.com/?p=21876</id>

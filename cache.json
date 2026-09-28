@@ -143,6 +143,16 @@
       "siteUrl": "https://news.worldofo.com",
       "articles": [
         {
+          "id": "http://news.worldofo.com/?p=21881",
+          "author": "Jan Kocbach",
+          "description": "Switzerland won the men’s relay at the European Orienteering Championships (EOC) after a four-team battle to the finish: Fabian Aebersold (SUI) won the sprint, 2 seconds ahead of Kasper Harlem Fosser (NOR), with Sweden 2 six seconds and Czechia 12 seconds behind – after Tomáš Křivda (CZE) lost a 33-second lead on the leg round ...",
+          "link": "https://news.worldofo.com/2026/09/28/eoc-2026-relay-maps-results-and-analysis/",
+          "publishedOn": "2026-09-28T03:00:48.000Z",
+          "wordCount": 4635,
+          "title": "EOC 2026 Relay: Maps, Results and Analysis",
+          "imageUrl": null
+        },
+        {
           "id": "http://news.worldofo.com/?p=21876",
           "author": "Jan Kocbach",
           "description": "Kasper Harlem Fosser (NOR) took his second gold medal of the European Orienteering Championships (EOC) with a clear win in the Middle distance in the green and detailed Petroškos forest – 1:34 ahead of Anton Johansson (SWE), with Fabian Aebersold (SUI) third. In the women’s class Hanna Lundberg (SWE) won her first individual championship title, ...",
