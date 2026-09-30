@@ -368,6 +368,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=51280",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "2026 Masters Nationals Results",
+          "link": "https://neooc.com/results-2026-ousa-masters-nationals/",
+          "publishedOn": "2026-09-30T00:43:45.000Z",
+          "wordCount": 1314,
+          "title": "Results | 2026 OUSA Masters Nationals",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/Logo_Combined_V1.png"
+        },
+        {
           "id": "https://neooc.com/?p=51171",
           "author": "Northeast Ohio Orienteering Club",
           "description": "A model / training course with 27 controls is open now! And will remain open until Sunday September 27th (9 days). See the Model Course section of the 2026 Masters Nationals webpage for all of the details, map downloads, and other ways to obtain the printed maps. OPEN TO THE PUBLIC – you do not […]",
