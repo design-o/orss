@@ -598,6 +598,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=51303",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "2026 Kent State Score| Kent State Campus, Kent, OH | Sunday, October 18,2026",
+          "link": "https://neooc.com/new-event-2026-kent-state-score-kent-state-campus-kent-oh-sunday-october-18th/",
+          "publishedOn": "2026-09-30T17:01:22.000Z",
+          "wordCount": 1337,
+          "title": "New Event | 2026 Kent State Score| Kent State Campus, Kent, OH | Sunday, October 18th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/09/images.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=51280",
           "author": "Northeast Ohio Orienteering Club",
           "description": "2026 Masters Nationals Results",
