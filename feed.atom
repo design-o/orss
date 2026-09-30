@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T17:07:57.364Z</updated>
+    <updated>2026-09-30T21:36:29.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Taming the Welsh Dragon]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7601</id>
+        <link href="https://www.niorienteering.org.uk/taming-the-welsh-dragon/"/>
+        <updated>2026-09-30T20:58:53.000Z</updated>
+        <summary type="html"><![CDATA[The Welsh dragon proved too difficult to tame at the 2026 Veteran Home International. Usually Home Internationals are considered a contest between England and Scotland competing for the Mickelgate Bar Trophy and between Ireland and Wales competing for the Stonewall Trophy.  Ireland last won the...
+The post Taming the Welsh Dragon appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | 2026 Kent State Score| Kent State Campus, Kent, OH | Sunday, October 18th]]></title>
         <id>https://neooc.com/?p=51303</id>
