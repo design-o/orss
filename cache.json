@@ -783,16 +783,6 @@
           "wordCount": 2189,
           "title": "STAG celebrate their 1000th event/activity",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/563_TollcrossPark_Scale4000_TOB_Master_271124.png"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57658",
-          "author": "nikkihoward",
-          "description": "The 2026 Annual General Meeting of the SOA will take place online on 14th September at 7pm. The link for […]",
-          "link": "https://www.scottish-orienteering.org/news/2026-agm-booklet-published/?utm_source=rss&utm_medium=rss&utm_campaign=2026-agm-booklet-published",
-          "publishedOn": "2026-09-01T15:19:58.000Z",
-          "wordCount": 1666,
-          "title": "2026 AGM Booklet published",
-          "imageUrl": null
         }
       ]
     },
@@ -888,6 +878,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16820",
+          "author": "Elizabeth L",
+          "description": "Duncan Sullivan selected for role of Team Leader at 2026 AUS MTBO Champs in Ballarat from 9-11 October 2026.\nDUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/duncan-sullivan-selected-as-team-leader-for-mtbo-champs/?utm_source=rss&utm_medium=rss&utm_campaign=duncan-sullivan-selected-as-team-leader-for-mtbo-champs",
+          "publishedOn": "2026-10-01T06:00:00.000Z",
+          "wordCount": 2688,
+          "title": "DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16794",
           "author": "Elizabeth L",

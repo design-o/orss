@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T02:51:30.176Z</updated>
+    <updated>2026-10-01T11:58:23.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS]]></title>
+        <id>https://orienteering.asn.au/?p=16820</id>
+        <link href="https://orienteering.asn.au/duncan-sullivan-selected-as-team-leader-for-mtbo-champs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=duncan-sullivan-selected-as-team-leader-for-mtbo-champs"/>
+        <updated>2026-10-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Duncan Sullivan selected for role of Team Leader at 2026 AUS MTBO Champs in Ballarat from 9-11 October 2026.
+DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taming the Welsh Dragon]]></title>
         <id>https://www.niorienteering.org.uk/?p=7601</id>
@@ -810,16 +821,6 @@ Junior Camp | SIGN-UPS now OPEN! first appeared on Orienteering New Zealand.]]><
         <link href="https://www.scottish-orienteering.org/news/stag-celebrate-their-1000th-event-activity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stag-celebrate-their-1000th-event-activity"/>
         <updated>2026-09-02T12:58:30.000Z</updated>
         <summary type="html"><![CDATA[Last weekend saw St Andrews Orienteering Club of Glasgow (STAG) hold their 1000th event in Tollcross Park, Glasgow in their […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 AGM Booklet published]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57658</id>
-        <link href="https://www.scottish-orienteering.org/news/2026-agm-booklet-published/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-agm-booklet-published"/>
-        <updated>2026-09-01T15:19:58.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Annual General Meeting of the SOA will take place online on 14th September at 7pm. The link for […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
