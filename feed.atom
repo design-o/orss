@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T17:56:12.852Z</updated>
+    <updated>2026-10-01T22:07:28.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kennington and Oval Street-O, Tuesday 10th November]]></title>
+        <id>https://slow.org.uk/?p=26059</id>
+        <link href="https://slow.org.uk/streeto/kennington-and-oval-street-o-tuesday-10th-november/"/>
+        <updated>2026-10-01T18:17:13.000Z</updated>
+        <summary type="html"><![CDATA[The second race in the 2026-27 Street-O series will be in Kennington and Oval, organised by Dan Collins. The format is a 1 hour time [...]]]></summary>
+        <author>
+            <name>James Haynes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS]]></title>
         <id>https://orienteering.asn.au/?p=16820</id>
