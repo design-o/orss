@@ -364,6 +364,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26066",
+          "author": "vinh",
+          "description": "A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]",
+          "link": "https://slow.org.uk/coaching/wimbledon-training-season-2026/",
+          "publishedOn": "2026-10-05T09:45:05.000Z",
+          "wordCount": 1842,
+          "title": "Training sessions 2026-27",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/november-and-december-orienteering/files/wimbledon-windmill.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=26059",
           "author": "James Haynes",
           "description": "The second race in the 2026-27 Street-O series will be in Kennington and Oval, organised by Dan Collins. The format is a 1 hour time [...]",
@@ -840,16 +850,6 @@
           "wordCount": 4497,
           "title": "It’s Home International Season",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2023/09/Home-International-Tops.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7535",
-          "author": "NIOA Secretary",
-          "description": "Don’t mis out for 5th event in the NI Colour Series at Gortalughany, Co Fermanagh hosted by Fermanagh Orienteers on Saturday 12 September. All the details are on the FermO website, with entries at SiEntries. Entries close on Sunday 6 September 2026 at 23:00.\nThe post Entries Closing for Gortalughany appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/entries-closing-for-gortalughany/",
-          "publishedOn": "2026-09-05T17:48:04.000Z",
-          "wordCount": 4331,
-          "title": "Entries Closing for Gortalughany",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Gortalughany.jpg"
         }
       ]
     },

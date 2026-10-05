@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-05T02:46:39.364Z</updated>
+    <updated>2026-10-05T12:53:07.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Training sessions 2026-27]]></title>
+        <id>https://slow.org.uk/?p=26066</id>
+        <link href="https://slow.org.uk/coaching/wimbledon-training-season-2026/"/>
+        <updated>2026-10-05T09:45:05.000Z</updated>
+        <summary type="html"><![CDATA[A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]]]></summary>
+        <author>
+            <name>vinh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Very Meel Done]]></title>
         <id>https://www.niorienteering.org.uk/?p=7694</id>
@@ -793,17 +803,6 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
 MelbushO at Woodlands, Sunday 13 September first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entries Closing for Gortalughany]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7535</id>
-        <link href="https://www.niorienteering.org.uk/entries-closing-for-gortalughany/"/>
-        <updated>2026-09-05T17:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Don’t mis out for 5th event in the NI Colour Series at Gortalughany, Co Fermanagh hosted by Fermanagh Orienteers on Saturday 12 September. All the details are on the FermO website, with entries at SiEntries. Entries close on Sunday 6 September 2026 at 23:00.
-The post Entries Closing for Gortalughany appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
