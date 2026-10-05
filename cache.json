@@ -288,16 +288,6 @@
           "wordCount": 1253,
           "title": "Try Bush and MTB Orienteering at Woodlands on Sunday 13 September",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15605",
-          "author": "Debbie Dodd",
-          "description": "Don't miss the next exciting MelbushO at Woodlands!  Get your entry in asap\nMelbushO at Woodlands, Sunday 13 September first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/melbusho-2026/",
-          "publishedOn": "2026-09-06T01:27:33.000Z",
-          "wordCount": 1174,
-          "title": "MelbushO at Woodlands, Sunday 13 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -363,6 +353,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=26069",
+          "author": "Steve Clelland",
+          "description": "The SLOW night series will run from November until March and be comprised of 5 events. Full details on each event are posted here on [...]",
+          "link": "https://slow.org.uk/events/slow-night-series-2026-27/",
+          "publishedOn": "2026-10-05T20:45:10.000Z",
+          "wordCount": 1934,
+          "title": "SLOW Night Series 2026-27",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wim_night_Ben-scaled.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=26066",
           "author": "vinh",
@@ -771,6 +771,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7721",
+          "author": "NIOA Secretary",
+          "description": "The 2026 Senior Home International was hosted by Lagan Valley Orienteers on 3-4 October, with the individual event held on a glorious early autumn Saturday with Hare’s Gap in clear view above the lower slopes of Meelmore and Luke’s Mountain. As a competition for selected...\nThe post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/hare-today-gore-tomorrow/",
+          "publishedOn": "2026-10-05T14:15:23.000Z",
+          "wordCount": 4554,
+          "title": "Hare Today Gore Tomorrow",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/10/M-Relay-maps.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7694",
           "author": "NIOA Secretary",

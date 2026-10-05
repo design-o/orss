@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-05T12:53:07.987Z</updated>
+    <updated>2026-10-05T23:25:39.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLOW Night Series 2026-27]]></title>
+        <id>https://slow.org.uk/?p=26069</id>
+        <link href="https://slow.org.uk/events/slow-night-series-2026-27/"/>
+        <updated>2026-10-05T20:45:10.000Z</updated>
+        <summary type="html"><![CDATA[The SLOW night series will run from November until March and be comprised of 5 events. Full details on each event are posted here on [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hare Today Gore Tomorrow]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7721</id>
+        <link href="https://www.niorienteering.org.uk/hare-today-gore-tomorrow/"/>
+        <updated>2026-10-05T14:15:23.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Senior Home International was hosted by Lagan Valley Orienteers on 3-4 October, with the individual event held on a glorious early autumn Saturday with Hare’s Gap in clear view above the lower slopes of Meelmore and Luke’s Mountain. As a competition for selected...
+The post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Training sessions 2026-27]]></title>
         <id>https://slow.org.uk/?p=26066</id>
@@ -790,17 +811,6 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
         <id>https://www.vicorienteering.asn.au/?p=15892</id>
         <link href="https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/"/>
         <updated>2026-09-06T20:33:28.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelbushO at Woodlands, Sunday 13 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15605</id>
-        <link href="https://www.vicorienteering.asn.au/melbusho-2026/"/>
-        <updated>2026-09-06T01:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss the next exciting MelbushO at Woodlands!  Get your entry in asap
-MelbushO at Woodlands, Sunday 13 September first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
