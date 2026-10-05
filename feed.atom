@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T20:35:59.754Z</updated>
+    <updated>2026-10-05T02:46:39.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Very Meel Done]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7694</id>
+        <link href="https://www.niorienteering.org.uk/very-meel-done/"/>
+        <updated>2026-10-04T20:29:01.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Northern Ireland Long Distance Orienteering Championships took place on an unseasonably warm and sunny day on 3 October on the slopes of Meelmore and Lukes Mountain, Co Down. Guest planner Shane Lynch provided testing courses overseen by controller Ivan Millar with Chris Colwell...
+The post Very Meel Done appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>NIOA Secretary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kennington and Oval Street-O, Tuesday 10th November]]></title>
         <id>https://slow.org.uk/?p=26059</id>
@@ -793,15 +804,6 @@ MelbushO at Woodlands, Sunday 13 September first appeared on Orienteering Victor
 The post Entries Closing for Gortalughany appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Short Champs, Sunday 19 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15880</id>
-        <link href="https://www.vicorienteering.asn.au/vic-short-champs-sunday-19-september/"/>
-        <updated>2026-09-05T07:55:45.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

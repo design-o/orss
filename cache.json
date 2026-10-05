@@ -298,16 +298,6 @@
           "wordCount": 1174,
           "title": "MelbushO at Woodlands, Sunday 13 September",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15880",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/vic-short-champs-sunday-19-september/",
-          "publishedOn": "2026-09-05T07:55:45.000Z",
-          "wordCount": 1177,
-          "title": "Vic Short Champs, Sunday 19 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -771,6 +761,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7694",
+          "author": "NIOA Secretary",
+          "description": "The 2026 Northern Ireland Long Distance Orienteering Championships took place on an unseasonably warm and sunny day on 3 October on the slopes of Meelmore and Lukes Mountain, Co Down. Guest planner Shane Lynch provided testing courses overseen by controller Ivan Millar with Chris Colwell...\nThe post Very Meel Done appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/very-meel-done/",
+          "publishedOn": "2026-10-04T20:29:01.000Z",
+          "wordCount": 4465,
+          "title": "Very Meel Done",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/10/Meelmore-map.jpg"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7601",
           "author": "NIOA Secretary",
