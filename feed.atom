@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T03:38:23.011Z</updated>
+    <updated>2026-10-06T12:20:24.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Oceania Championships: Long & Sprint Championships]]></title>
+        <id>https://orienteering.asn.au/?p=16894</id>
+        <link href="https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-oceania-championships-long-sprint-championships"/>
+        <updated>2026-10-06T07:15:30.000Z</updated>
+        <summary type="html"><![CDATA[A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.
+2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SLOW Night Series 2026-27]]></title>
         <id>https://slow.org.uk/?p=26069</id>
@@ -804,15 +815,6 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[Well done to everyone who came out to Covent Garden on a lovely evening. Thank you Phil and members of SPOC for organising and finding [...]]]></summary>
         <author>
             <name>James Haynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try Bush and MTB Orienteering at Woodlands on Sunday 13 September]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15892</id>
-        <link href="https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/"/>
-        <updated>2026-09-06T20:33:28.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>

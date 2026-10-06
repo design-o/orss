@@ -278,16 +278,6 @@
           "wordCount": 1224,
           "title": "Park Street Update, September 15-21",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15892",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/try-bush-and-mtb-orienteering-at-woodlands-on-sunday-13-september/",
-          "publishedOn": "2026-09-06T20:33:28.000Z",
-          "wordCount": 1253,
-          "title": "Try Bush and MTB Orienteering at Woodlands on Sunday 13 September",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -868,6 +858,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=16894",
+          "author": "Elizabeth L",
+          "description": "A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.\n2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/?utm_source=rss&utm_medium=rss&utm_campaign=2026-oceania-championships-long-sprint-championships",
+          "publishedOn": "2026-10-06T07:15:30.000Z",
+          "wordCount": 3182,
+          "title": "2026 Oceania Championships: Long & Sprint Championships",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=16820",
           "author": "Elizabeth L",
