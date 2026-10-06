@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T12:20:24.932Z</updated>
+    <updated>2026-10-06T21:58:04.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Interarea Weekend]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58019</id>
+        <link href="https://www.scottish-orienteering.org/news/junior-interarea-weekend/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-interarea-weekend"/>
+        <updated>2026-10-06T15:38:27.000Z</updated>
+        <summary type="html"><![CDATA[The Junior Interareas are right around the corner taking place over the weekend of 31 October – 1st November. Hosted […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Oceania Championships: Long & Sprint Championships]]></title>
         <id>https://orienteering.asn.au/?p=16894</id>
