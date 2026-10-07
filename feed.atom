@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T21:58:04.600Z</updated>
+    <updated>2026-10-07T03:04:01.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Australian Mountain Bike Orienteering Championships – BEGINS TOMORROW!]]></title>
+        <id>https://orienteering.asn.au/?p=16908</id>
+        <link href="https://orienteering.asn.au/2026-australian-mountain-bike-orienteering-championships-begins-tomorrow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-australian-mountain-bike-orienteering-championships-begins-tomorrow"/>
+        <updated>2026-10-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Australian Mountain Bike Orienteering Championship is from Thursday 8 October to Sunday 11 October 2026 in Ballarat & Creswick, Victoria. Final bulletin out now!
+2026 Australian Mountain Bike Orienteering Championships – BEGINS TOMORROW! first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Interarea Weekend]]></title>
         <id>https://www.scottish-orienteering.org/?p=58019</id>
