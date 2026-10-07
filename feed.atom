@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T03:04:01.356Z</updated>
+    <updated>2026-10-07T12:13:06.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE]]></title>
+        <id>https://orienteering.asn.au/?p=16912</id>
+        <link href="https://orienteering.asn.au/australian-team-for-2026-aus-nzl-mtbo-challenge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=australian-team-for-2026-aus-nzl-mtbo-challenge"/>
+        <updated>2026-10-07T06:36:51.000Z</updated>
+        <summary type="html"><![CDATA[The Australian team has been announced for the 2026 Australia-New Zealand MTBO Challenge at the Australian MTBO Champs.
+AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026 Australian Mountain Bike Orienteering Championships – BEGINS TOMORROW!]]></title>
         <id>https://orienteering.asn.au/?p=16908</id>
