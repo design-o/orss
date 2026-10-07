@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T12:13:06.426Z</updated>
+    <updated>2026-10-07T22:23:18.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SOA appoints  a new Development Officer]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58028</id>
+        <link href="https://www.scottish-orienteering.org/news/soa-appoints-a-new-development-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-appoints-a-new-development-officer"/>
+        <updated>2026-10-07T16:31:43.000Z</updated>
+        <summary type="html"><![CDATA[The SOA Team was delighted to welcome Holly Stodgell as she started in the post of SOA Development Officer this […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SATPE Conference 2026]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58023</id>
+        <link href="https://www.scottish-orienteering.org/news/satpe-conference-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=satpe-conference-2026"/>
+        <updated>2026-10-07T13:07:21.000Z</updated>
+        <summary type="html"><![CDATA[SATPE stands for the Scottish Association of Teachers of Physical Education. Last weekend SOA attended their annual conference at Crieff […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE]]></title>
         <id>https://orienteering.asn.au/?p=16912</id>

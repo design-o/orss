@@ -635,6 +635,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58028",
+          "author": "nikkihoward",
+          "description": "The SOA Team was delighted to welcome Holly Stodgell as she started in the post of SOA Development Officer this […]",
+          "link": "https://www.scottish-orienteering.org/news/soa-appoints-a-new-development-officer/?utm_source=rss&utm_medium=rss&utm_campaign=soa-appoints-a-new-development-officer",
+          "publishedOn": "2026-10-07T16:31:43.000Z",
+          "wordCount": 1936,
+          "title": "SOA appoints  a new Development Officer",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/Photo-of-Hol-768x1024.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58023",
+          "author": "heidi",
+          "description": "SATPE stands for the Scottish Association of Teachers of Physical Education. Last weekend SOA attended their annual conference at Crieff […]",
+          "link": "https://www.scottish-orienteering.org/news/satpe-conference-2026/?utm_source=rss&utm_medium=rss&utm_campaign=satpe-conference-2026",
+          "publishedOn": "2026-10-07T13:07:21.000Z",
+          "wordCount": 1845,
+          "title": "SATPE Conference 2026",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/image-1024x407.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58019",
           "author": "heidi",
           "description": "The Junior Interareas are right around the corner taking place over the weekend of 31 October – 1st November. Hosted […]",
