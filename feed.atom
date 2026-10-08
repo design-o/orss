@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T22:23:18.506Z</updated>
+    <updated>2026-10-08T03:20:10.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nominate a volunteer whose impact deserves national recognition]]></title>
+        <id>https://orienteering.asn.au/?p=16920</id>
+        <link href="https://orienteering.asn.au/nominate-a-volunteer-whose-impact-deserves-national-recognition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nominate-a-volunteer-whose-impact-deserves-national-recognition"/>
+        <updated>2026-10-08T01:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Nominate and celebrate an orienteering volunteer who has made an exceptional impact over the past 12 months.
+Nominate a volunteer whose impact deserves national recognition first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOA appoints  a new Development Officer]]></title>
         <id>https://www.scottish-orienteering.org/?p=58028</id>
