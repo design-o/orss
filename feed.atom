@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T03:20:10.989Z</updated>
+    <updated>2026-10-08T12:22:43.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -868,16 +868,6 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[The SHI Selectors are delighted to announce Team Ireland for the Senior Home International 2026.  The competition will be held in Northern Ireland on the 3rd & 4th of October.  We congratulate the team on their selection, and wish the team the very best of luck with the competition. Selectors: Rosalind Heron, Dave Masterson & […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covent Garden Street-O results]]></title>
-        <id>https://slow.org.uk/?p=25904</id>
-        <link href="https://slow.org.uk/streeto/covent-garden-street-o-results/"/>
-        <updated>2026-09-08T23:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Well done to everyone who came out to Covent Garden on a lovely evening. Thank you Phil and members of SPOC for organising and finding [...]]]></summary>
-        <author>
-            <name>James Haynes</name>
         </author>
     </entry>
     <entry>
