@@ -325,16 +325,6 @@
           "wordCount": 1489,
           "title": "JHI 2026 – Team Selection",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.orienteering.ie/?p=23023",
-          "author": "Operations Manager",
-          "description": "The SHI Selectors are delighted to announce Team Ireland for the Senior Home International 2026.  The competition will be held in Northern Ireland on the 3rd & 4th of October.  We congratulate the team on their selection, and wish the team the very best of luck with the competition. Selectors: Rosalind Heron, Dave Masterson & […]",
-          "link": "https://www.orienteering.ie/team-ireland-for-senior-home-international-2026/",
-          "publishedOn": "2026-09-09T10:27:02.000Z",
-          "wordCount": 1430,
-          "title": "Team Ireland for Senior Home International 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -624,6 +614,26 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58050",
+          "author": "heidi",
+          "description": "Back in June, Scottish Orienteering was excited to announce the brand‑new Junior Volunteer Awards Scheme. A scheme created to recognise […]",
+          "link": "https://www.scottish-orienteering.org/news/junior-volunteer-awards-get-your-nominations-in/?utm_source=rss&utm_medium=rss&utm_campaign=junior-volunteer-awards-get-your-nominations-in",
+          "publishedOn": "2026-10-08T13:57:45.000Z",
+          "wordCount": 1941,
+          "title": "Junior Volunteer Awards- Get your nominations in!!",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-10.08.46-1024x768.jpeg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58017",
+          "author": "judybell",
+          "description": "A team of 24 junior orienteers travelled to Switzerland last weekend to compete for GB in the Junior European Cup […]",
+          "link": "https://www.scottish-orienteering.org/news/success-for-scottish-juniors-at-junior-european-championships/?utm_source=rss&utm_medium=rss&utm_campaign=success-for-scottish-juniors-at-junior-european-championships",
+          "publishedOn": "2026-10-08T12:28:27.000Z",
+          "wordCount": 2601,
+          "title": "Success for Scottish Juniors at Junior European Championships",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/DSC_7002-1024x683.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=58028",
           "author": "nikkihoward",

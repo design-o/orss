@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T12:22:43.812Z</updated>
+    <updated>2026-10-08T22:35:29.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junior Volunteer Awards- Get your nominations in!!]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58050</id>
+        <link href="https://www.scottish-orienteering.org/news/junior-volunteer-awards-get-your-nominations-in/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-volunteer-awards-get-your-nominations-in"/>
+        <updated>2026-10-08T13:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Back in June, Scottish Orienteering was excited to announce the brand‑new Junior Volunteer Awards Scheme. A scheme created to recognise […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Success for Scottish Juniors at Junior European Championships]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58017</id>
+        <link href="https://www.scottish-orienteering.org/news/success-for-scottish-juniors-at-junior-european-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=success-for-scottish-juniors-at-junior-european-championships"/>
+        <updated>2026-10-08T12:28:27.000Z</updated>
+        <summary type="html"><![CDATA[A team of 24 junior orienteers travelled to Switzerland last weekend to compete for GB in the Junior European Cup […]]]></summary>
+        <author>
+            <name>judybell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nominate a volunteer whose impact deserves national recognition]]></title>
         <id>https://orienteering.asn.au/?p=16920</id>
@@ -858,16 +878,6 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[The second race in the 2026-27 Street-O series will be in Bow, organised by Matt Haynes. The format is a 1 hour time limit to [...]]]></summary>
         <author>
             <name>James Haynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Team Ireland for Senior Home International 2026]]></title>
-        <id>https://www.orienteering.ie/?p=23023</id>
-        <link href="https://www.orienteering.ie/team-ireland-for-senior-home-international-2026/"/>
-        <updated>2026-09-09T10:27:02.000Z</updated>
-        <summary type="html"><![CDATA[The SHI Selectors are delighted to announce Team Ireland for the Senior Home International 2026.  The competition will be held in Northern Ireland on the 3rd & 4th of October.  We congratulate the team on their selection, and wish the team the very best of luck with the competition. Selectors: Rosalind Heron, Dave Masterson & […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
         </author>
     </entry>
     <entry>
