@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T03:25:59.599Z</updated>
+    <updated>2026-10-09T12:12:34.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -868,16 +868,6 @@ The post It’s Home International Season appeared first on NI Orienteering Asso
         <summary type="html"><![CDATA[The 2026 AGM sees Tim O’Donoghue standing down as Safety Director having served as Director for 6 years. Neil Polwart […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bow Street-O, Tuesday 13th October]]></title>
-        <id>https://slow.org.uk/?p=26013</id>
-        <link href="https://slow.org.uk/streeto/bow-street-o-26/"/>
-        <updated>2026-09-09T19:15:28.000Z</updated>
-        <summary type="html"><![CDATA[The second race in the 2026-27 Street-O series will be in Bow, organised by Matt Haynes. The format is a 1 hour time limit to [...]]]></summary>
-        <author>
-            <name>James Haynes</name>
         </author>
     </entry>
     <entry>
