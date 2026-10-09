@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T12:12:34.542Z</updated>
+    <updated>2026-10-09T21:57:24.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -24,6 +24,17 @@
         <summary type="html"><![CDATA[A team of 24 junior orienteers travelled to Switzerland last weekend to compete for GB in the Junior European Cup […]]]></summary>
         <author>
             <name>judybell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nominate a volunteer whose impact deserves national recognition]]></title>
+        <id>https://orienteering.asn.au/?p=16920</id>
+        <link href="https://orienteering.asn.au/nominate-a-volunteer-whose-impact-deserves-national-recognition/"/>
+        <updated>2026-10-08T01:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Nominate and celebrate an orienteering volunteer who has made an exceptional impact over the past 12 months.
+Nominate a volunteer whose impact deserves national recognition first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
         </author>
     </entry>
     <entry>
@@ -60,10 +71,32 @@ Nominate a volunteer whose impact deserves national recognition first appeared o
     <entry>
         <title type="html"><![CDATA[AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE]]></title>
         <id>https://orienteering.asn.au/?p=16912</id>
+        <link href="https://orienteering.asn.au/australian-team-for-2026-aus-nzl-mtbo-challenge/"/>
+        <updated>2026-10-07T06:36:51.000Z</updated>
+        <summary type="html"><![CDATA[The Australian team has been announced for the 2026 Australia-New Zealand MTBO Challenge at the Australian MTBO Champs.
+AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE]]></title>
+        <id>https://orienteering.asn.au/?p=16912</id>
         <link href="https://orienteering.asn.au/australian-team-for-2026-aus-nzl-mtbo-challenge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=australian-team-for-2026-aus-nzl-mtbo-challenge"/>
         <updated>2026-10-07T06:36:51.000Z</updated>
         <summary type="html"><![CDATA[The Australian team has been announced for the 2026 Australia-New Zealand MTBO Challenge at the Australian MTBO Champs.
 AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Australian Mountain Bike Orienteering Championships – BEGINS TOMORROW!]]></title>
+        <id>https://orienteering.asn.au/?p=16908</id>
+        <link href="https://orienteering.asn.au/2026-australian-mountain-bike-orienteering-championships-begins-tomorrow/"/>
+        <updated>2026-10-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Australian Mountain Bike Orienteering Championship is from Thursday 8 October to Sunday 11 October 2026 in Ballarat & Creswick, Victoria. Final bulletin out now!
+2026 Australian Mountain Bike Orienteering Championships – BEGINS TOMORROW! first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
         </author>
@@ -87,6 +120,17 @@ AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering A
         <summary type="html"><![CDATA[The Junior Interareas are right around the corner taking place over the weekend of 31 October – 1st November. Hosted […]]]></summary>
         <author>
             <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Oceania Championships: Long & Sprint Championships]]></title>
+        <id>https://orienteering.asn.au/?p=16894</id>
+        <link href="https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/"/>
+        <updated>2026-10-06T07:15:30.000Z</updated>
+        <summary type="html"><![CDATA[A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.
+2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
@@ -155,6 +199,17 @@ The post Very Meel Done appeared first on NI Orienteering Association.]]></summa
     <entry>
         <title type="html"><![CDATA[DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS]]></title>
         <id>https://orienteering.asn.au/?p=16820</id>
+        <link href="https://orienteering.asn.au/duncan-sullivan-selected-as-team-leader-for-mtbo-champs/"/>
+        <updated>2026-10-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Duncan Sullivan selected for role of Team Leader at 2026 AUS MTBO Champs in Ballarat from 9-11 October 2026.
+DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS]]></title>
+        <id>https://orienteering.asn.au/?p=16820</id>
         <link href="https://orienteering.asn.au/duncan-sullivan-selected-as-team-leader-for-mtbo-champs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=duncan-sullivan-selected-as-team-leader-for-mtbo-champs"/>
         <updated>2026-10-01T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Duncan Sullivan selected for role of Team Leader at 2026 AUS MTBO Champs in Ballarat from 9-11 October 2026.
@@ -182,6 +237,17 @@ The post Taming the Welsh Dragon appeared first on NI Orienteering Association.]
         <summary type="html"><![CDATA[2026 Kent State Score| Kent State Campus, Kent, OH | Sunday, October 18,2026]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Oceania Championships: Middle Championships & Oceania Relays]]></title>
+        <id>https://orienteering.asn.au/?p=16794</id>
+        <link href="https://orienteering.asn.au/2026-oceania-championships-middle-championships-oceania-relays/"/>
+        <updated>2026-09-30T11:06:48.000Z</updated>
+        <summary type="html"><![CDATA[2026 Oceania Champs is on now! A recap of the first 2 days: middle distance & Oceania relays.
+2026 Oceania Championships: Middle Championships & Oceania Relays first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
@@ -395,6 +461,17 @@ Applications open for Young Leaders Academy  |  Colombia 4-8 Nov first appea
     <entry>
         <title type="html"><![CDATA[Vale Dr Hania Lada]]></title>
         <id>https://orienteering.asn.au/?p=16790</id>
+        <link href="https://orienteering.asn.au/vale-dr-hania-lada/"/>
+        <updated>2026-09-30T07:21:27.000Z</updated>
+        <summary type="html"><![CDATA[It is with great sadness that we wish to inform the orienteering community that Dr Hania Lada, a cherished orienteer and friend to many, has sadly passed away.
+Vale Dr Hania Lada first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vale Dr Hania Lada]]></title>
+        <id>https://orienteering.asn.au/?p=16790</id>
         <link href="https://orienteering.asn.au/vale-dr-hania-lada/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vale-dr-hania-lada"/>
         <updated>2026-09-30T07:21:27.000Z</updated>
         <summary type="html"><![CDATA[It is with great sadness that we wish to inform the orienteering community that Dr Hania Lada, a cherished orienteer and friend to many, has sadly passed away.
@@ -549,12 +626,34 @@ The post Don’t Miss the Highlight of 2026 appeared first on NI Orienteering As
     <entry>
         <title type="html"><![CDATA[Contractor Opportunity: Help shape the future of MTBO]]></title>
         <id>https://orienteering.asn.au/?p=16769</id>
+        <link href="https://orienteering.asn.au/contractor-opportunity-help-shape-the-future-of-mtbo/"/>
+        <updated>2026-09-24T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Orienteering Australia is working on two projects to develop MTBO. Expressions of Interest are sought from people interested in being paid to work on these exciting projects.
+Contractor Opportunity: Help shape the future of MTBO first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contractor Opportunity: Help shape the future of MTBO]]></title>
+        <id>https://orienteering.asn.au/?p=16769</id>
         <link href="https://orienteering.asn.au/contractor-opportunity-help-shape-the-future-of-mtbo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=contractor-opportunity-help-shape-the-future-of-mtbo"/>
         <updated>2026-09-24T00:30:00.000Z</updated>
         <summary type="html"><![CDATA[Orienteering Australia is working on two projects to develop MTBO. Expressions of Interest are sought from people interested in being paid to work on these exciting projects.
 Contractor Opportunity: Help shape the future of MTBO first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 EOC & WORLD CUP FINAL – TEAM ANNOUNCEMENT & EVENT INFO]]></title>
+        <id>https://orienteering.asn.au/?p=16762</id>
+        <link href="https://orienteering.asn.au/2026-eoc-world-cup-final-team-announcement-event-info/"/>
+        <updated>2026-09-23T07:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Team announcement and programme for EOC & Orienteering World Cup Final from 23-27 September in Druskininkai, Lithuania!
+2026 EOC & WORLD CUP FINAL – TEAM ANNOUNCEMENT & EVENT INFO first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
@@ -596,6 +695,17 @@ Contractor Opportunity: Help shape the future of MTBO first appeared on Orientee
         <summary type="html"><![CDATA[The 2026 Veteran Home Internationals took place down in the Peak District last weekend (19th/20th September) and saw Scotland finishing […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships]]></title>
+        <id>https://orienteering.asn.au/?p=16746</id>
+        <link href="https://orienteering.asn.au/australian-team-for-anz-challenge-at-oceania-championships/"/>
+        <updated>2026-09-21T23:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships.
+Australian Team for ANZ Challenge at Oceania Championships first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Shane Jenkins</name>
         </author>
     </entry>
     <entry>
