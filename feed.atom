@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T03:05:48.124Z</updated>
+    <updated>2026-10-10T11:31:06.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -968,16 +968,6 @@ Park Street Update, September 15-21 first appeared on Orienteering Victoria.]]><
 The post It’s Home International Season appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candidate for SOA Director – Neil Polwart – FVO]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57823</id>
-        <link href="https://www.scottish-orienteering.org/news/candidate-for-soa-director-neil-polwart-fvo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=candidate-for-soa-director-neil-polwart-fvo"/>
-        <updated>2026-09-10T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 AGM sees Tim O’Donoghue standing down as Safety Director having served as Director for 6 years. Neil Polwart […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
