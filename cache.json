@@ -278,16 +278,6 @@
           "wordCount": 1452,
           "title": "Victorian Long Distance Champs, Sunday 20 September, Metcalfe",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.\nPark Street Update, September 15-21 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2026-09-12T00:41:54.000Z",
-          "wordCount": 1224,
-          "title": "Park Street Update, September 15-21",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -567,6 +557,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=51385",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "Szalay’s Night Corn Maze-O | Near Peninsula, Ohio | Saturday, October 24th",
+          "link": "https://neooc.com/new-event-szalays-night-corn-maze-o-near-peninsula-ohio-saturday-october-24th/",
+          "publishedOn": "2026-10-11T15:19:21.000Z",
+          "wordCount": 2339,
+          "title": "New Event | Szalay’s Night Corn Maze-O | Near Peninsula, Ohio | Saturday, October 24th",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2022/10/2022-aMAIZEing-Night-O.jpg"
+        },
         {
           "id": "https://neooc.com/?p=51303",
           "author": "Northeast Ohio Orienteering Club",
