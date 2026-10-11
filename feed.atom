@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T20:48:34.461Z</updated>
+    <updated>2026-10-11T02:37:32.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -66,6 +66,17 @@ Nominate a volunteer whose impact deserves national recognition first appeared o
         <summary type="html"><![CDATA[SATPE stands for the Scottish Association of Teachers of Physical Education. Last weekend SOA attended their annual conference at Crieff […]]]></summary>
         <author>
             <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Non-Elite Rankings]]></title>
+        <id>https://orienteering.asn.au/?p=16917</id>
+        <link href="https://orienteering.asn.au/2026-non-elite-rankings/"/>
+        <updated>2026-10-07T06:54:58.000Z</updated>
+        <summary type="html"><![CDATA[2026 Non-Elite Rankings have been released, based on results in the Australian Championships and Oceania Championships.
+2026 Non-Elite Rankings first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
@@ -487,6 +498,17 @@ Vale Dr Hania Lada first appeared on Orienteering Australia.]]></summary>
         <updated>2026-09-30T05:50:59.000Z</updated>
         <summary type="html"><![CDATA[Don't forget to enter before Friday!
 Australian MTBO Champs Entries Close Friday 2 October first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Race 1, Sunday 18 October – Enter Now!]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15947</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-1/"/>
+        <updated>2026-09-30T05:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss the launch of the 2026 Summer Shorts and Sprints on a brand new map - enter online by Thursday!
+Summer Shorts and Sprints Race 1, Sunday 18 October – Enter Now! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
         </author>
@@ -957,17 +979,6 @@ Park Street Update, September 15-21 first appeared on Orienteering Victoria.]]><
         <summary type="html"><![CDATA[Inverness Orienteering Club (INVOC) in conjunction with Masterplan Orienteering put on the Inverness Eagle Weekend which combined a Scottish Orienteering […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Home International Season]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7561</id>
-        <link href="https://www.niorienteering.org.uk/its-home-international-season/"/>
-        <updated>2026-09-11T08:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Teams have been announced for the forthcoming Home International Season. First to compete are the Veterans travelling to South Yorkshire on 19-20 September. The team travelling under the direction of Team Manager Sharon Dickenson are: W40 – Niamh O’Boyle M40 – Rob McEvoy W45 –...
-The post It’s Home International Season appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
