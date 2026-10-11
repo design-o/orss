@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T02:37:32.454Z</updated>
+    <updated>2026-10-11T11:43:36.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -969,16 +969,6 @@ Victorian Long Distance Champs, Sunday 20 September, Metcalfe first appeared on 
 Park Street Update, September 15-21 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The INVOC Eagle weekend soars]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57828</id>
-        <link href="https://www.scottish-orienteering.org/news/the-invoc-eagle-weekend-soars/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-invoc-eagle-weekend-soars"/>
-        <updated>2026-09-11T15:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Inverness Orienteering Club (INVOC) in conjunction with Masterplan Orienteering put on the Inverness Eagle Weekend which combined a Scottish Orienteering […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
