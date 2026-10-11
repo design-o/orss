@@ -250,6 +250,16 @@
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         },
         {
+          "id": "https://www.vicorienteering.asn.au/?p=13391",
+          "author": "Debbie Dodd",
+          "description": "Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.\nPark Street Update, October 5-11 first appeared on Orienteering Victoria.",
+          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
+          "publishedOn": "2026-09-27T00:41:54.000Z",
+          "wordCount": 1352,
+          "title": "Park Street Update, October 5-11",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15952",
           "author": "Debbie Dodd",
           "description": "",
@@ -333,6 +343,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=26071",
+          "author": "Steve Clelland",
+          "description": "The first race of South London Orienteers’ 2026-2027 night series takes place on Wimbledon Common South-West London, on Tuesday 3rd November 2026. Race Centre The race will [...]",
+          "link": "https://slow.org.uk/events/wimbledon-night-nov26/",
+          "publishedOn": "2026-10-11T20:58:30.000Z",
+          "wordCount": 2296,
+          "title": "Wimbledon Common Night-O – 3rd November",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wimb_night_finale_pic1-scaled.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=26069",
           "author": "Steve Clelland",

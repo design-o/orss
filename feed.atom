@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T16:54:57.842Z</updated>
+    <updated>2026-10-11T21:09:38.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon Common Night-O – 3rd November]]></title>
+        <id>https://slow.org.uk/?p=26071</id>
+        <link href="https://slow.org.uk/events/wimbledon-night-nov26/"/>
+        <updated>2026-10-11T20:58:30.000Z</updated>
+        <summary type="html"><![CDATA[The first race of South London Orienteers’ 2026-2027 night series takes place on Wimbledon Common South-West London, on Tuesday 3rd November 2026. Race Centre The race will [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Event | Szalay’s Night Corn Maze-O | Near Peninsula, Ohio | Saturday, October 24th]]></title>
         <id>https://neooc.com/?p=51385</id>
@@ -613,6 +623,17 @@ Geelong City Race Weekend, November 21-22 first appeared on Orienteering Victori
         <summary type="html"><![CDATA[Kasper Harlem Fosser (NOR) took his second gold medal of the European Orienteering Championships (EOC) with a clear win in the Middle distance in the green and detailed Petroškos forest – 1:34 ahead of Anton Johansson (SWE), with Fabian Aebersold (SUI) third. In the women’s class Hanna Lundberg (SWE) won her first individual championship title, ...]]></summary>
         <author>
             <name>Jan Kocbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Street Update, October 5-11]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=13391</id>
+        <link href="https://www.vicorienteering.asn.au/parkstreet-update/"/>
+        <updated>2026-09-27T00:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.
+Park Street Update, October 5-11 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
