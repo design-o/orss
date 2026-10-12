@@ -625,6 +625,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58071",
+          "author": "nikkihoward",
+          "description": "Last weekend saw Juniors from the Home Nations teams of England, Ireland, Wales and of course Scotland travel to the […]",
+          "link": "https://www.scottish-orienteering.org/news/home-turf-advantage-helps-triumphant-scottish-juniors/?utm_source=rss&utm_medium=rss&utm_campaign=home-turf-advantage-helps-triumphant-scottish-juniors",
+          "publishedOn": "2026-10-12T16:13:08.000Z",
+          "wordCount": 2647,
+          "title": "Home turf advantage helps triumphant Scottish Juniors",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/DSC_0058-1-1024x681.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58050",
           "author": "heidi",
           "description": "Back in June, Scottish Orienteering was excited to announce the brand‑new Junior Volunteer Awards Scheme. A scheme created to recognise […]",
@@ -1106,16 +1116,6 @@
           "publishedOn": "2026-09-15T11:05:00.000Z",
           "wordCount": 2805,
           "title": "Play Well helping shape the future of participation in orienteering",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16706",
-          "author": "Elizabeth L",
-          "description": "The Mountain Bike Orienteering Competition Rules provide a formal complaint and protest process for resolving these situations.\nComplaints and Protests in MTBO first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/complaints-and-protests-in-mtbo/?utm_source=rss&utm_medium=rss&utm_campaign=complaints-and-protests-in-mtbo",
-          "publishedOn": "2026-09-13T05:01:01.000Z",
-          "wordCount": 4008,
-          "title": "Complaints and Protests in MTBO",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

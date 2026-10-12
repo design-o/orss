@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T13:44:53.034Z</updated>
+    <updated>2026-10-12T23:54:05.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home turf advantage helps triumphant Scottish Juniors]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58071</id>
+        <link href="https://www.scottish-orienteering.org/news/home-turf-advantage-helps-triumphant-scottish-juniors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=home-turf-advantage-helps-triumphant-scottish-juniors"/>
+        <updated>2026-10-12T16:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Last weekend saw Juniors from the Home Nations teams of England, Ireland, Wales and of course Scotland travel to the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wimbledon Common Night-O – 3rd November]]></title>
         <id>https://slow.org.uk/?p=26071</id>
@@ -967,17 +977,6 @@ Play Well helping shape the future of participation in orienteering first appear
 Vic Short Champs – Saturday 19 September – Tarnagulla first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Margi Freemantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complaints and Protests in MTBO]]></title>
-        <id>https://orienteering.asn.au/?p=16706</id>
-        <link href="https://orienteering.asn.au/complaints-and-protests-in-mtbo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=complaints-and-protests-in-mtbo"/>
-        <updated>2026-09-13T05:01:01.000Z</updated>
-        <summary type="html"><![CDATA[The Mountain Bike Orienteering Competition Rules provide a formal complaint and protest process for resolving these situations.
-Complaints and Protests in MTBO first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
