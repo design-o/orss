@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T04:16:52.990Z</updated>
+    <updated>2026-10-13T13:04:54.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Juniors say thank you to Judy Bell who retires as ScotJOS Manager]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58100</id>
+        <link href="https://www.scottish-orienteering.org/news/scottish-juniors-say-thank-you-to-judy-bell-who-retires-as-scotjos-manager/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-juniors-say-thank-you-to-judy-bell-who-retires-as-scotjos-manager"/>
+        <updated>2026-10-13T12:40:59.000Z</updated>
+        <summary type="html"><![CDATA[After 6 years in post as Scottish Junior Orienteering Squad (ScotJOS) manager, Judy Bell decided it was time to step […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home turf advantage helps triumphant Scottish Juniors]]></title>
         <id>https://www.scottish-orienteering.org/?p=58071</id>
