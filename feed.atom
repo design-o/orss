@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T02:28:15.852Z</updated>
+    <updated>2026-10-14T10:45:52.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[National MTBO Series Standings]]></title>
+        <id>https://orienteering.asn.au/?p=17034</id>
+        <link href="https://orienteering.asn.au/national-mtbo-series-standings/"/>
+        <updated>2026-10-14T06:22:07.000Z</updated>
+        <summary type="html"><![CDATA[After the completion of the second round of the national MTBO series, the standings have now been updated and published.
+National MTBO Series Standings first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bow Street-O results]]></title>
         <id>https://slow.org.uk/?p=26089</id>
