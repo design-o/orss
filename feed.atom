@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T10:16:11.390Z</updated>
+    <updated>2026-10-16T15:41:18.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEDS Update & Calendar]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58126</id>
+        <link href="https://www.scottish-orienteering.org/news/seds-update-calendar/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seds-update-calendar"/>
+        <updated>2026-10-16T11:20:19.000Z</updated>
+        <summary type="html"><![CDATA[After a brief hiatus, the Scottish Elite and Development Squad (SEDS) is returning. The group has an important role in […]]]></summary>
+        <author>
+            <name>hollystodgell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland sneak the win at the Senior Home Internationals]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58121</id>
+        <link href="https://www.scottish-orienteering.org/news/scotland-sneak-the-win-at-the-senior-home-internationals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotland-sneak-the-win-at-the-senior-home-internationals"/>
+        <updated>2026-10-16T11:12:05.000Z</updated>
+        <summary type="html"><![CDATA[The beginning of October saw the Scottish Senior Home International (SHI) team travel to Northern Ireland to take on England, […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating the dream VHI management team?]]></title>
         <id>https://www.scottish-orienteering.org/?p=58119</id>
@@ -954,28 +974,6 @@ All are welcome to the OMG Oceania Speakers Program first appeared on Orienteeri
         <summary type="html"><![CDATA[And not to be outdone, here are the Irish selections for the Veteran Home International which is in the English Peak District this weekend 19-20 September! The team is: W40 Niamh O’Boyle W45 Toni O’Donovan, Fionne Austin W50 Brid Casey, Sharon Dickenson W55 Eileen Young, Carol Black W60 Heather Wood, Ursula Morrish W65 Liz Deane, […]]]></summary>
         <author>
             <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcoming the Oceania Orienteering Championships to Ngunnawal Country]]></title>
-        <id>https://orienteering.asn.au/?p=16722</id>
-        <link href="https://orienteering.asn.au/welcoming-the-oceania-orienteering-championships-to-ngunnawal-country/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=welcoming-the-oceania-orienteering-championships-to-ngunnawal-country"/>
-        <updated>2026-09-16T23:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A Welcome to Country will be held at the first day of competition. Tyronne Bell, a Ngunnawal Elder, will share a Welcome to Country and offer participants a safe passage on their ancestral lands.
-Welcoming the Oceania Orienteering Championships to Ngunnawal Country first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr Blue Sky – Where Did We Go Wrong?]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7596</id>
-        <link href="https://www.niorienteering.org.uk/mr-blue-sky-where-did-we-go-wrong/"/>
-        <updated>2026-09-16T22:35:52.000Z</updated>
-        <summary type="html"><![CDATA[The sky was indeed blue over Fermanagh for NI Colour Series 6 at Gortalughany on Saturday 12 September, although early starters did have to endure a considerable squall! Thanks to Planner  Sara Mason, Controller Philip McGoldrick and Organisers Raymond & Teresa Finlay for a quality event. The Standings...
-The post Mr Blue Sky – Where Did We Go Wrong? appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>

@@ -625,6 +625,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58126",
+          "author": "hollystodgell",
+          "description": "After a brief hiatus, the Scottish Elite and Development Squad (SEDS) is returning. The group has an important role in […]",
+          "link": "https://www.scottish-orienteering.org/news/seds-update-calendar/?utm_source=rss&utm_medium=rss&utm_campaign=seds-update-calendar",
+          "publishedOn": "2026-10-16T11:20:19.000Z",
+          "wordCount": 2185,
+          "title": "SEDS Update & Calendar",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/DSC_0100-scaled-e1792149011578-1024x493.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58121",
+          "author": "nikkihoward",
+          "description": "The beginning of October saw the Scottish Senior Home International (SHI) team travel to Northern Ireland to take on England, […]",
+          "link": "https://www.scottish-orienteering.org/news/scotland-sneak-the-win-at-the-senior-home-internationals/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-sneak-the-win-at-the-senior-home-internationals",
+          "publishedOn": "2026-10-16T11:12:05.000Z",
+          "wordCount": 2446,
+          "title": "Scotland sneak the win at the Senior Home Internationals",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/SHI-team-2026-1024x768.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58119",
           "author": "nikkihoward",
           "description": "Kirsten Strain of Auld Reekie Orienteering Club and Vicky Thornton of Forth Valley Orienteering Club have been appointed as joint […]",
@@ -860,16 +880,6 @@
           "wordCount": 4392,
           "title": "Don’t Miss the Highlight of 2026",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2015/06/Meelmore.jpg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7596",
-          "author": "NIOA Secretary",
-          "description": "The sky was indeed blue over Fermanagh for NI Colour Series 6 at Gortalughany on Saturday 12 September, although early starters did have to endure a considerable squall! Thanks to Planner  Sara Mason, Controller Philip McGoldrick and Organisers Raymond & Teresa Finlay for a quality event. The Standings...\nThe post Mr Blue Sky – Where Did We Go Wrong? appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/mr-blue-sky-where-did-we-go-wrong/",
-          "publishedOn": "2026-09-16T22:35:52.000Z",
-          "wordCount": 4432,
-          "title": "Mr Blue Sky – Where Did We Go Wrong?",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2025/05/Gortalughany.jpg"
         }
       ]
     },
@@ -1106,16 +1116,6 @@
           "publishedOn": "2026-09-20T12:20:03.000Z",
           "wordCount": 2685,
           "title": "All are welcome to the OMG Oceania Speakers Program",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16722",
-          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
-          "description": "A Welcome to Country will be held at the first day of competition. Tyronne Bell, a Ngunnawal Elder, will share a Welcome to Country and offer participants a safe passage on their ancestral lands.\nWelcoming the Oceania Orienteering Championships to Ngunnawal Country first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/welcoming-the-oceania-orienteering-championships-to-ngunnawal-country/?utm_source=rss&utm_medium=rss&utm_campaign=welcoming-the-oceania-orienteering-championships-to-ngunnawal-country",
-          "publishedOn": "2026-09-16T23:21:00.000Z",
-          "wordCount": 2618,
-          "title": "Welcoming the Oceania Orienteering Championships to Ngunnawal Country",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
