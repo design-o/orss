@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T01:59:41.119Z</updated>
+    <updated>2026-10-16T10:16:11.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating the dream VHI management team?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58119</id>
+        <link href="https://www.scottish-orienteering.org/news/creating-the-dream-vhi-management-team/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=creating-the-dream-vhi-management-team"/>
+        <updated>2026-10-16T09:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Kirsten Strain of Auld Reekie Orienteering Club and Vicky Thornton of Forth Valley Orienteering Club have been appointed as joint […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paint the Town Brown, Blue, Green, Orange and Yellow]]></title>
         <id>https://www.niorienteering.org.uk/?p=7734</id>
@@ -966,16 +976,6 @@ Welcoming the Oceania Orienteering Championships to Ngunnawal Country first appe
 The post Mr Blue Sky – Where Did We Go Wrong? appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What learning and support do YOU want?]]></title>
-        <id>https://www.scottish-orienteering.org/?p=57889</id>
-        <link href="https://www.scottish-orienteering.org/news/what-learning-and-support-do-you-want/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-learning-and-support-do-you-want"/>
-        <updated>2026-09-16T14:35:09.000Z</updated>
-        <summary type="html"><![CDATA[We’ve reviewed the webpages which detail the courses and learning opportunities for all volunteers – check out the new look […]]]></summary>
-        <author>
-            <name>judybell</name>
         </author>
     </entry>
     <entry>

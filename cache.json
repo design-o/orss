@@ -625,6 +625,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58119",
+          "author": "nikkihoward",
+          "description": "Kirsten Strain of Auld Reekie Orienteering Club and Vicky Thornton of Forth Valley Orienteering Club have been appointed as joint […]",
+          "link": "https://www.scottish-orienteering.org/news/creating-the-dream-vhi-management-team/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-dream-vhi-management-team",
+          "publishedOn": "2026-10-16T09:33:52.000Z",
+          "wordCount": 2146,
+          "title": "Creating the dream VHI management team?",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-13.01.292-768x1024.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58117",
           "author": "nikkihoward",
           "description": "Jason Inman of Forth Valley Orienteering has been appointed as the Scottish Orienteering Squad (ScotJOS) Team Manager following the retirement […]",
@@ -783,16 +793,6 @@
           "wordCount": 2322,
           "title": "ESOC deliver a SOL for all the family",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/Sunshine-oon-Cademuir-Photo-Credit-Peter-OHara-1024x768.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=57889",
-          "author": "judybell",
-          "description": "We’ve reviewed the webpages which detail the courses and learning opportunities for all volunteers – check out the new look […]",
-          "link": "https://www.scottish-orienteering.org/news/what-learning-and-support-do-you-want/?utm_source=rss&utm_medium=rss&utm_campaign=what-learning-and-support-do-you-want",
-          "publishedOn": "2026-09-16T14:35:09.000Z",
-          "wordCount": 1973,
-          "title": "What learning and support do YOU want?",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/09/New-web-page-courses-1024x542.jpg"
         }
       ]
     },
