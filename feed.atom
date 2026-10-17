@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T01:54:32.624Z</updated>
+    <updated>2026-10-17T09:50:17.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[National Junior Camp 2026]]></title>
+        <id>https://orienteering.asn.au/?p=17044</id>
+        <link href="https://orienteering.asn.au/national-junior-camp-2026/"/>
+        <updated>2026-10-17T05:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Five days of orienteering, adventure, new friendships and challenging yourself. Entries close 31 October.
+National Junior Camp 2026 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEDS Update & Calendar]]></title>
         <id>https://www.scottish-orienteering.org/?p=58126</id>
