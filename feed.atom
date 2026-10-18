@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T19:46:46.085Z</updated>
+    <updated>2026-10-18T01:53:16.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -936,16 +936,6 @@ All are welcome to the OMG Oceania Speakers Program first appeared on Orienteeri
         <summary type="html"><![CDATA[This is your last chance!  The OUSA Registration system will shutdown after midnight tonight.  Only Walk-up Recreational courses will be available on on-site. Please use this webpage link to the OUSA Manual Entry for your registration, since the OUSA Event Reg system using the “OUSA Sign in” is non-functional. Also, pre-order lunches for Saturday and/or […]]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Media Workshop for Orienteering Ireland Clubs]]></title>
-        <id>https://www.orienteering.ie/?p=23170</id>
-        <link href="https://www.orienteering.ie/social-media-workshop-for-orienteering-ireland-clubs/"/>
-        <updated>2026-09-18T09:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Wednesday 4 November | 7pm – 9pm Orienteering Ireland is hosting a free Social Media Workshop for Orienteering Ireland clubs, designed to help clubs make the most of their social media and promote the great work they are doing. We’re delighted to have Lyn Mutch from Noodle Horse Media delivering the workshop. Lyn is a […]]]></summary>
-        <author>
-            <name>Deirdre</name>
         </author>
     </entry>
     <entry>
