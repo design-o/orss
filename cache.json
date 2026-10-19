@@ -352,16 +352,6 @@
           "wordCount": 2476,
           "title": "Kennington and Oval Street-O, Tuesday 10th November",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Street-O_clue_examples.png"
-        },
-        {
-          "id": "https://slow.org.uk/?p=26047",
-          "author": "Steve Clelland",
-          "description": "Results by class Results by course Live results WinSplits Routegadget – draw your route! Official’s Comments – to follow",
-          "link": "https://slow.org.uk/racereports/lcr-2026-results/",
-          "publishedOn": "2026-09-19T21:38:50.000Z",
-          "wordCount": 1728,
-          "title": "London City Race Results 2026",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/london-city-race-results-2026/files/LCR_2026_1-scaled.jpg"
         }
       ]
     },
@@ -547,6 +537,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=51414",
+          "author": "Jay Smink",
+          "description": "Kent State Score Recap. We continued our 50th anniversary year celebration with a late afternoon score event on the Kent State campus.  Bob Turanchik’s course had controls located through out the entire campus, some out in the open, others tuck into nooks and crannies, and one under the baseball bleachers.  Check out the map and […]",
+          "link": "https://neooc.com/results-2026-kent-state-score-kent-state-university-sunday-october-18-2026/",
+          "publishedOn": "2026-10-19T02:33:17.000Z",
+          "wordCount": 2596,
+          "title": "Results| 2026 Kent State Score | Kent State University| Sunday, October 18, 2026",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/08/IMG_20260814_160526931-300x226.jpg"
+        },
         {
           "id": "https://neooc.com/?p=51385",
           "author": "Northeast Ohio Orienteering Club",
