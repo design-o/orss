@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T11:26:06.935Z</updated>
+    <updated>2026-10-19T17:52:40.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026 ACT & NSW MTBO Champs: Results & Recap]]></title>
+        <id>https://orienteering.asn.au/?p=17060</id>
+        <link href="https://orienteering.asn.au/2026-act-nsw-mtbo-champs-results-recap/"/>
+        <updated>2026-10-19T11:57:06.000Z</updated>
+        <summary type="html"><![CDATA[The ACT & NSW MTBO Champs 2026 are over! Find the results, splits, Livelox and photos here.
+2026 ACT & NSW MTBO Champs: Results & Recap  first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| 2026 Kent State Score | Kent State University| Sunday, October 18, 2026]]></title>
         <id>https://neooc.com/?p=51414</id>
