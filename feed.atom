@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T10:44:55.949Z</updated>
+    <updated>2026-10-21T16:13:36.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[National MTBO Series Wrap-up for 2026]]></title>
+        <id>https://orienteering.asn.au/?p=17065</id>
+        <link href="https://orienteering.asn.au/national-mtbo-series-wrap-up-for-2026/"/>
+        <updated>2026-10-21T10:55:08.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 National MTBO Series has officially concluded after a fast, competitive and highly successful year of racing across five states.
+National MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orienteering hits the Airwaves]]></title>
         <id>https://www.scottish-orienteering.org/?p=58145</id>
@@ -914,28 +925,6 @@ Contractor Opportunity: Help shape the future of MTBO first appeared on Orientee
         <summary type="html"><![CDATA[The 2026 Veteran Home Internationals took place down in the Peak District last weekend (19th/20th September) and saw Scotland finishing […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships]]></title>
-        <id>https://orienteering.asn.au/?p=16746</id>
-        <link href="https://orienteering.asn.au/australian-team-for-anz-challenge-at-oceania-championships/"/>
-        <updated>2026-09-21T23:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships.
-Australian Team for ANZ Challenge at Oceania Championships first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Shane Jenkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships]]></title>
-        <id>https://orienteering.asn.au/?p=16746</id>
-        <link href="https://orienteering.asn.au/australian-team-for-anz-challenge-at-oceania-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=australian-team-for-anz-challenge-at-oceania-championships"/>
-        <updated>2026-09-21T23:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Australian Team for ANZ Challenge at Oceania Championships
-Australian Team for ANZ Challenge at Oceania Championships first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Shane Jenkins</name>
         </author>
     </entry>
     <entry>

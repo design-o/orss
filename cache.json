@@ -839,6 +839,16 @@
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
         {
+          "id": "https://orienteering.asn.au/?p=17065",
+          "author": "Elizabeth L",
+          "description": "The 2026 National MTBO Series has officially concluded after a fast, competitive and highly successful year of racing across five states.\nNational MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/national-mtbo-series-wrap-up-for-2026/",
+          "publishedOn": "2026-10-21T10:55:08.000Z",
+          "wordCount": 3039,
+          "title": "National MTBO Series Wrap-up for 2026",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
+        {
           "id": "https://orienteering.asn.au/?p=17060",
           "author": "Elizabeth L",
           "description": "The ACT & NSW MTBO Champs 2026 are over! Find the results, splits, Livelox and photos here.\n2026 ACT & NSW MTBO Champs: Results & Recap  first appeared on Orienteering Australia.",
@@ -1056,26 +1066,6 @@
           "publishedOn": "2026-09-23T07:35:47.000Z",
           "wordCount": 2724,
           "title": "2026 EOC & WORLD CUP FINAL – TEAM ANNOUNCEMENT & EVENT INFO",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16746",
-          "author": "Shane Jenkins",
-          "description": "Australian Team for ANZ Challenge at Oceania Championships.\nAustralian Team for ANZ Challenge at Oceania Championships first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/australian-team-for-anz-challenge-at-oceania-championships/",
-          "publishedOn": "2026-09-21T23:49:12.000Z",
-          "wordCount": 2483,
-          "title": "Australian Team for ANZ Challenge at Oceania Championships",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16746",
-          "author": "Shane Jenkins",
-          "description": "Australian Team for ANZ Challenge at Oceania Championships\nAustralian Team for ANZ Challenge at Oceania Championships first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/australian-team-for-anz-challenge-at-oceania-championships/?utm_source=rss&utm_medium=rss&utm_campaign=australian-team-for-anz-challenge-at-oceania-championships",
-          "publishedOn": "2026-09-21T23:49:12.000Z",
-          "wordCount": 2461,
-          "title": "Australian Team for ANZ Challenge at Oceania Championships",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
