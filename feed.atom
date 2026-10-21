@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T02:19:14.288Z</updated>
+    <updated>2026-10-21T10:44:55.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orienteering hits the Airwaves]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58145</id>
+        <link href="https://www.scottish-orienteering.org/news/orienteering-hits-the-airwaves/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-hits-the-airwaves"/>
+        <updated>2026-10-21T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[As we were planning our series of Summer of Sport family friendly taster sessions we were delighted when the adverts […]]]></summary>
+        <author>
+            <name>judybell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Success at the CompassSport Cup!]]></title>
         <id>https://www.scottish-orienteering.org/?p=58144</id>
