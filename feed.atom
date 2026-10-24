@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-24T02:17:23.170Z</updated>
+    <updated>2026-10-24T09:55:55.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2027 WOC, JWOC, EYOC | Selection Trials]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66721</id>
+        <link href="https://www.orienteering.org.nz/news/2027-woc-jwoc-eyoc-selection-trials/"/>
+        <updated>2026-10-24T08:48:21.000Z</updated>
+        <summary type="html"><![CDATA[The Senior Selection Panel has agreed on team trial programme and would like to get the dates published soon, with the full selection notices to follow later. The trials will be for the following international events: The primary trial competition will be Taitonga, Southern Regional Championships over Waitangi weekend, 6–8 February 2027: NZOC, 26–29 March […]
+2027 WOC, JWOC, EYOC | Selection Trials first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian Team to Compete in “Spectacular China GOLD WRE races”]]></title>
         <id>https://orienteering.asn.au/?p=17048</id>
@@ -162,6 +173,17 @@ The post Paint the Town Brown, Blue, Green, Orange and Yellow appeared first on 
 National MTBO Series Standings first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vic Vikings Win Senior Mens National League Title in Strong Team Effort]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=16008</id>
+        <link href="https://www.vicorienteering.asn.au/vic-vikings-win-senior-mens-in-strong-team-effort/"/>
+        <updated>2026-10-14T04:39:40.000Z</updated>
+        <summary type="html"><![CDATA[The Vic Vikings have finished off the 2026 NOL season with a resounding title win in Mens 21.
+Vic Vikings Win Senior Mens National League Title in Strong Team Effort first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -414,6 +436,15 @@ The post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.
 The post Very Meel Done appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilight Sprints Return to Macedon Ranges]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=16015</id>
+        <link href="https://www.vicorienteering.asn.au/twilight-sprints-return-to-macedon-ranges/"/>
+        <updated>2026-10-03T05:44:09.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
