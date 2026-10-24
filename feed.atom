@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T20:44:05.730Z</updated>
+    <updated>2026-10-24T02:17:23.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Team to Compete in “Spectacular China GOLD WRE races”]]></title>
+        <id>https://orienteering.asn.au/?p=17048</id>
+        <link href="https://orienteering.asn.au/australian-team-to-compete-in-spectacular-china-gold-wre-races/"/>
+        <updated>2026-10-23T23:08:18.000Z</updated>
+        <summary type="html"><![CDATA[We have a strong Australian Team heading over to China to compete at 4 Golden WRE sprint races.
+Australian Team to Compete in “Spectacular China GOLD WRE races” first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High Performance Camp | 9-14 Dec 2026]]></title>
         <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66716</id>
