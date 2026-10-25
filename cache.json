@@ -288,16 +288,6 @@
           "wordCount": 1352,
           "title": "Park Street Update, October 5-11",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15952",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorians-at-oceania-aus-champs/",
-          "publishedOn": "2026-09-26T05:54:35.000Z",
-          "wordCount": 1105,
-          "title": "Victorians at Oceania/Aus Champs",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -578,6 +568,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=51465",
+          "author": "Jay Smink",
+          "description": "Corn Maze Recap and Results. We ran our annual Szalay’s Corn Maze under a bright full moon.  The moonlight must have helped, everyone had great times and a lot of fun.  Almost all teams ran multiple courses or went back into the maze to find the Szalay’s displays -notated by the black pumpkins on […]",
+          "link": "https://neooc.com/results-2026-szalays-corn-maze-szalays-farm-pennisula-oh-saturday-october-24-2026/",
+          "publishedOn": "2026-10-25T18:13:33.000Z",
+          "wordCount": 2457,
+          "title": "Results| 2026 Szalay’s Corn Maze | Szalay’s Farm, Pennisula, OH| Saturday, October 24, 2026",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/10/860775664_28812915801702348_722858528398372021_n-225x300.jpg"
+        },
+        {
           "id": "https://neooc.com/?p=51414",
           "author": "Jay Smink",
           "description": "Kent State Score Recap. We continued our 50th anniversary year celebration with a late afternoon score event on the Kent State campus.  Bob Turanchik’s course had controls located through out the entire campus, some out in the open, others tuck into nooks and crannies, and one under the baseball bleachers.  Check out the map and […]",
@@ -840,16 +840,6 @@
           "wordCount": 4749,
           "title": "NI Junior Squad Returns from JIRCs",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/09/JHI-2026-Team-photo.jpeg"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7606",
-          "author": "NIOA Secretary",
-          "description": "Entries are closing this evening (Saturday 26 September) for the Northern Ireland Championships to be staged at Meelmore on Saturday 3 October by Lagan Valley Orienteers. All the details are on the event page on the LVO website with entries at SiEntries. Don’t miss this...\nThe post Don’t Miss the Highlight of 2026 appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/dont-miss-the-highlight-of-2026/",
-          "publishedOn": "2026-09-26T06:37:03.000Z",
-          "wordCount": 4392,
-          "title": "Don’t Miss the Highlight of 2026",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2015/06/Meelmore.jpg"
         }
       ]
     },
