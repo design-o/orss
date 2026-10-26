@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-26T02:05:27.386Z</updated>
+    <updated>2026-10-26T11:45:19.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Event | Allardale Scramble Score O | Allardale Park – Medina County | Sunday, November 8th]]></title>
+        <id>https://neooc.com/?p=51514</id>
+        <link href="https://neooc.com/new-event-allardale-scramble-score-o-allardale-park-medina-county-sunday-november-8th/"/>
+        <updated>2026-10-26T03:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Allardale Scramble Score O | Allardale Park – Medina County | Sunday, November 8th]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Results| 2026 Szalay’s Corn Maze | Szalay’s Farm, Pennisula, OH| Saturday, October 24, 2026]]></title>
         <id>https://neooc.com/?p=51465</id>
