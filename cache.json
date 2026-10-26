@@ -268,26 +268,6 @@
           "wordCount": 1228,
           "title": "Vale Hania Lada",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15944",
-          "author": "Debbie Dodd",
-          "description": "Entries are now open for the inaugural Geelong City Race, taking place on Sunday 22 November 2026 as part of a full weekend of orienteering in Geelong.\nGeelong City Race Weekend, November 21-22 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/geelong-city-race-weekend-november-21-22/",
-          "publishedOn": "2026-09-27T05:38:28.000Z",
-          "wordCount": 1136,
-          "title": "Geelong City Race Weekend, November 21-22",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.\nPark Street Update, October 5-11 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2026-09-27T00:41:54.000Z",
-          "wordCount": 1352,
-          "title": "Park Street Update, October 5-11",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -567,6 +547,16 @@
       "feedUrl": "https://neooc.com/blog/feed",
       "siteUrl": "https://neooc.com",
       "articles": [
+        {
+          "id": "https://neooc.com/?p=51524",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream",
+          "link": "https://neooc.com/npr-news-spot-ousa-masters-nationals-cleveland-ideastream/",
+          "publishedOn": "2026-10-26T16:50:10.000Z",
+          "wordCount": 2337,
+          "title": "NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/10/nre26c_01_JasonCampbell.jpg"
+        },
         {
           "id": "https://neooc.com/?p=51514",
           "author": "Northeast Ohio Orienteering Club",
