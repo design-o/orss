@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-27T11:11:30.485Z</updated>
+    <updated>2026-10-27T16:57:42.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We are hiring!]]></title>
+        <id>https://www.orienteering.ie/?p=23322</id>
+        <link href="https://www.orienteering.ie/we-are-hiring-2/"/>
+        <updated>2026-10-27T11:22:56.000Z</updated>
+        <summary type="html"><![CDATA[We are hiring for an Operations Manager. Click on this link for more details.]]></summary>
+        <author>
+            <name>Operations Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PODIUM FINISH FOR GOLD WRE RACES IN TAISHOU, CHINA]]></title>
         <id>https://orienteering.asn.au/?p=17210</id>

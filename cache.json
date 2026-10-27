@@ -327,6 +327,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=23322",
+          "author": "Operations Manager",
+          "description": "We are hiring for an Operations Manager. Click on this link for more details.",
+          "link": "https://www.orienteering.ie/we-are-hiring-2/",
+          "publishedOn": "2026-10-27T11:22:56.000Z",
+          "wordCount": 1203,
+          "title": "We are hiring!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=23206",
           "author": "Operations Manager",
           "description": "OI are excited to announce that we will once again host the Hit-The-Town Festival of urban orienteering. This will also incorporate the Irish Sprint Orienteering Championships as we continue to build this exciting weekend annually. Save the date for a great weekend of sprint championships, a fun retro event and an urban event in Cork […]",
