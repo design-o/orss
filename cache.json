@@ -200,6 +200,46 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=16027",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/whipstick-witch-hunt-saturday-october-31-enter-if-you-dare/",
+          "publishedOn": "2026-10-26T04:20:14.000Z",
+          "wordCount": 1022,
+          "title": "Whipstick Witch Hunt, Saturday October 31 – Enter If You Dare!",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=16029",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/bikeo-75-is-back-race-1-macedon-saturday-7-november/",
+          "publishedOn": "2026-10-24T04:23:36.000Z",
+          "wordCount": 992,
+          "title": "BikeO 75 Is Back!  Race 1, Macedon, Saturday 7 November",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=16031",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/geelong-city-race-weekend-november-21-22-2/",
+          "publishedOn": "2026-10-23T04:30:38.000Z",
+          "wordCount": 1217,
+          "title": "Geelong City Race Weekend, November 21-22",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
+          "id": "https://www.vicorienteering.asn.au/?p=16037",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-sprint-champs-deakin-dash-and-celebration-of-hania-sun-nov-29/",
+          "publishedOn": "2026-10-19T04:34:36.000Z",
+          "wordCount": 1149,
+          "title": "Victorian Sprint Champs, Deakin Dash, and Celebration of Hania – Sun Nov 29",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=16008",
           "author": "Debbie Dodd",
           "description": "The Vic Vikings have finished off the 2026 NOL season with a resounding title win in Mens 21.\nVic Vikings Win Senior Mens National League Title in Strong Team Effort first appeared on Orienteering Victoria.",
@@ -858,6 +898,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=17210",
+          "author": "Elizabeth L",
+          "description": "A strong performance by Aussies in Gold WRE #1 & 2 races and invitational races in Taizhou, Zhejiang Province.\nPODIUM FINISH FOR GOLD WRE RACES IN TAISHOU, CHINA first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/podium-finish-for-gold-wre-races-in-taishou-china/",
+          "publishedOn": "2026-10-27T10:44:34.000Z",
+          "wordCount": 2849,
+          "title": "PODIUM FINISH FOR GOLD WRE RACES IN TAISHOU, CHINA",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=17144",
           "author": "Elizabeth L",
