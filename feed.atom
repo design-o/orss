@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T03:14:21.902Z</updated>
+    <updated>2026-10-29T11:53:42.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -901,16 +901,6 @@ Summer Shorts and Sprints Starting Soon! first appeared on Orienteering Victoria
         <summary type="html"><![CDATA[2026 Masters Nationals Results]]></summary>
         <author>
             <name>Northeast Ohio Orienteering Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October Community Conversation – Safeguarding – Let’s talk about why it is important and raise its profile!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58003</id>
-        <link href="https://www.scottish-orienteering.org/news/october-community-conversation-safeguarding-lets-talk-about-why-it-is-important-and-raise-its-profile/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=october-community-conversation-safeguarding-lets-talk-about-why-it-is-important-and-raise-its-profile"/>
-        <updated>2026-09-29T18:28:27.000Z</updated>
-        <summary type="html"><![CDATA[As an organisation we take our safeguarding obligations seriously. We believe that everyone should stay safe and have fun while […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
