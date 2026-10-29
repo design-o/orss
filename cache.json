@@ -656,16 +656,6 @@
           "wordCount": 1337,
           "title": "New Event | 2026 Kent State Score| Kent State Campus, Kent, OH | Sunday, October 18th",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/09/images.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=51280",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "2026 Masters Nationals Results",
-          "link": "https://neooc.com/results-2026-ousa-masters-nationals/",
-          "publishedOn": "2026-09-30T00:43:45.000Z",
-          "wordCount": 1314,
-          "title": "Results | 2026 OUSA Masters Nationals",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/04/Logo_Combined_V1.png"
         }
       ]
     },
@@ -674,6 +664,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58163",
+          "author": "heidi",
+          "description": "As the clocks go back and the dark evenings draw in, look out your headtorch as night orienteering season is […]",
+          "link": "https://www.scottish-orienteering.org/news/headtorches-on-2026-27-night-orienteering/?utm_source=rss&utm_medium=rss&utm_campaign=headtorches-on-2026-27-night-orienteering",
+          "publishedOn": "2026-10-29T14:40:51.000Z",
+          "wordCount": 2688,
+          "title": "Headtorches On: 2026/27 Night Orienteering",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/0069-NathanPhua-SS-Quid-Games-Old-Town-Showdown-All-683x1024.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=58158",
           "author": "nikkihoward",

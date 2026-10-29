@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T11:53:42.330Z</updated>
+    <updated>2026-10-29T17:42:46.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Headtorches On: 2026/27 Night Orienteering]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58163</id>
+        <link href="https://www.scottish-orienteering.org/news/headtorches-on-2026-27-night-orienteering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=headtorches-on-2026-27-night-orienteering"/>
+        <updated>2026-10-29T14:40:51.000Z</updated>
+        <summary type="html"><![CDATA[As the clocks go back and the dark evenings draw in, look out your headtorch as night orienteering season is […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[November Community Conversation focus on Coaching]]></title>
         <id>https://www.scottish-orienteering.org/?p=58158</id>
@@ -891,16 +901,6 @@ Summer Shorts and Sprints Race 1, Sunday 18 October – Enter Now! first appeare
 Summer Shorts and Sprints Starting Soon! first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results | 2026 OUSA Masters Nationals]]></title>
-        <id>https://neooc.com/?p=51280</id>
-        <link href="https://neooc.com/results-2026-ousa-masters-nationals/"/>
-        <updated>2026-09-30T00:43:45.000Z</updated>
-        <summary type="html"><![CDATA[2026 Masters Nationals Results]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
