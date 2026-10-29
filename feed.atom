@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T17:42:46.936Z</updated>
+    <updated>2026-10-29T22:08:19.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -762,16 +762,6 @@ ANZAC NZMTBO Champs 27  |  Canterbury  first appeared on Orienteering New Z
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SAVE THE DATE – Hit-The-Town 2027 Urban Orienteering Festival]]></title>
-        <id>https://www.orienteering.ie/?p=23206</id>
-        <link href="https://www.orienteering.ie/save-the-date-hit-the-town-2027-urban-orienteering-festival/"/>
-        <updated>2026-09-30T08:49:14.000Z</updated>
-        <summary type="html"><![CDATA[OI are excited to announce that we will once again host the Hit-The-Town Festival of urban orienteering. This will also incorporate the Irish Sprint Orienteering Championships as we continue to build this exciting weekend annually. Save the date for a great weekend of sprint championships, a fun retro event and an urban event in Cork […]]]></summary>
-        <author>
-            <name>Operations Manager</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Club Forum  |  Wednesday 4 November]]></title>
         <id>https://www.orienteering.org.nz/?p=66616</id>
         <link href="https://www.orienteering.org.nz/orienteering-nz/updates/club-forum-wed-4-november/"/>
@@ -846,61 +836,6 @@ Call for NZ athletes to contribute to IOF | by 18 Oct first appeared on Orient
 Applications open for Young Leaders Academy  |  Colombia 4-8 Nov first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale Dr Hania Lada]]></title>
-        <id>https://orienteering.asn.au/?p=16790</id>
-        <link href="https://orienteering.asn.au/vale-dr-hania-lada/"/>
-        <updated>2026-09-30T07:21:27.000Z</updated>
-        <summary type="html"><![CDATA[It is with great sadness that we wish to inform the orienteering community that Dr Hania Lada, a cherished orienteer and friend to many, has sadly passed away.
-Vale Dr Hania Lada first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale Dr Hania Lada]]></title>
-        <id>https://orienteering.asn.au/?p=16790</id>
-        <link href="https://orienteering.asn.au/vale-dr-hania-lada/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vale-dr-hania-lada"/>
-        <updated>2026-09-30T07:21:27.000Z</updated>
-        <summary type="html"><![CDATA[It is with great sadness that we wish to inform the orienteering community that Dr Hania Lada, a cherished orienteer and friend to many, has sadly passed away.
-Vale Dr Hania Lada first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian MTBO Champs Entries Close Friday 2 October]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15949</id>
-        <link href="https://www.vicorienteering.asn.au/australian-mtbo-champs-entries-close-friday-2-october/"/>
-        <updated>2026-09-30T05:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Don't forget to enter before Friday!
-Australian MTBO Champs Entries Close Friday 2 October first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints Race 1, Sunday 18 October – Enter Now!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15947</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-1/"/>
-        <updated>2026-09-30T05:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss the launch of the 2026 Summer Shorts and Sprints on a brand new map - enter online by Thursday!
-Summer Shorts and Sprints Race 1, Sunday 18 October – Enter Now! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints Starting Soon!]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15947</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-starting-soon/"/>
-        <updated>2026-09-30T05:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for the 2026 Summer Shorts and Sprints - entries open soon!
-Summer Shorts and Sprints Starting Soon! first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
