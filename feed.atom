@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T17:22:26.796Z</updated>
+    <updated>2026-10-30T21:45:14.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -595,28 +595,6 @@ The post Very Meel Done appeared first on NI Orienteering Association.]]></summa
         <summary type="html"><![CDATA[The second race in the 2026-27 Street-O series will be in Kennington and Oval, organised by Dan Collins. The format is a 1 hour time [...]]]></summary>
         <author>
             <name>James Haynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS]]></title>
-        <id>https://orienteering.asn.au/?p=16820</id>
-        <link href="https://orienteering.asn.au/duncan-sullivan-selected-as-team-leader-for-mtbo-champs/"/>
-        <updated>2026-10-01T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Duncan Sullivan selected for role of Team Leader at 2026 AUS MTBO Champs in Ballarat from 9-11 October 2026.
-DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS]]></title>
-        <id>https://orienteering.asn.au/?p=16820</id>
-        <link href="https://orienteering.asn.au/duncan-sullivan-selected-as-team-leader-for-mtbo-champs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=duncan-sullivan-selected-as-team-leader-for-mtbo-champs"/>
-        <updated>2026-10-01T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Duncan Sullivan selected for role of Team Leader at 2026 AUS MTBO Champs in Ballarat from 9-11 October 2026.
-DUNCAN SULLIVAN SELECTED AS TEAM LEADER FOR MTBO CHAMPS first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
