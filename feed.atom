@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T21:45:14.803Z</updated>
+    <updated>2026-10-31T03:00:42.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWOC 2029 Board Applications | Close Fri 20 Nov]]></title>
+        <id>https://www.orienteering.org.nz/?post_type=news&amp;p=66740</id>
+        <link href="https://www.orienteering.org.nz/news/jwoc-2029-board-applications-close-fri-20-nov/"/>
+        <updated>2026-10-30T22:07:30.000Z</updated>
+        <summary type="html"><![CDATA[JWOC2029 Limited (a fully ONZ-owned company) was established to oversee every aspect of the JWOC 2029. JWOC 2029 Limited will be run by its own Board. If you are interested in being part of this Board, please follow this link to read the detailed Board Director Position Description. JWOC 2029 Limited Board Member Position Descriptions […]
+JWOC 2029 Board Applications | Close Fri 20 Nov first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Headtorches On: 2026/27 Night Orienteering]]></title>
         <id>https://www.scottish-orienteering.org/?p=58163</id>
