@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-01T12:11:43.678Z</updated>
+    <updated>2026-11-01T21:26:38.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -785,15 +785,6 @@ The post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.
 The post Very Meel Done appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilight Sprints Return to Macedon Ranges]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=16015</id>
-        <link href="https://www.vicorienteering.asn.au/twilight-sprints-return-to-macedon-ranges/"/>
-        <updated>2026-10-03T05:44:09.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
