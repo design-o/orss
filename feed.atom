@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-02T03:04:34.919Z</updated>
+    <updated>2026-11-02T14:00:46.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celebrating 50 Years of Orienteering in Wellington]]></title>
+        <id>https://www.orienteering.org.nz/?p=66815</id>
+        <link href="https://www.orienteering.org.nz/uncategorized/celebrating-50-years-of-orienteering-in-wellington/"/>
+        <updated>2026-11-02T04:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Wellington Secretary talks to Radio New Zealand host Jessie Mulligan about Orienteering and Wellington’s 50th Birthday celebrations. Hear the interview here
+Celebrating 50 Years of Orienteering in Wellington first appeared on Orienteering New Zealand.]]></summary>
+        <author>
+            <name>Christo Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[View from the Chair | October 2026]]></title>
         <id>https://www.orienteering.org.nz/?p=66809</id>
