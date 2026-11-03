@@ -362,16 +362,6 @@
           "wordCount": 1934,
           "title": "SLOW Night Series 2026-27",
           "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wim_night_Ben-scaled.jpg"
-        },
-        {
-          "id": "https://slow.org.uk/?p=26066",
-          "author": "vinh",
-          "description": "A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]",
-          "link": "https://slow.org.uk/coaching/wimbledon-training-season-2026/",
-          "publishedOn": "2026-10-05T09:45:05.000Z",
-          "wordCount": 1842,
-          "title": "Training sessions 2026-27",
-          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/uncategorized/november-and-december-orienteering/files/wimbledon-windmill.jpg"
         }
       ]
     },
@@ -665,6 +655,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58195",
+          "author": "judybell",
+          "description": "Thanks to our members from across Scotland who joined us on Monday evening for the final community conversation in the […]",
+          "link": "https://www.scottish-orienteering.org/news/november-community-conversation-coaching/?utm_source=rss&utm_medium=rss&utm_campaign=november-community-conversation-coaching",
+          "publishedOn": "2026-11-03T16:35:37.000Z",
+          "wordCount": 2832,
+          "title": "November Community Conversation: Coaching",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/11/Star-Award-2-1.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58163",
           "author": "heidi",
           "description": "As the clocks go back and the dark evenings draw in, look out your headtorch as night orienteering season is […]",
@@ -821,6 +821,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7777",
+          "author": "Richard Gamble",
+          "description": "There is so much happening in November that it should be renamed O-vember! So you don’t miss out on what is going on – here is a list of all the event entry deadlines. Hover and click on the links for more details and to...\nThe post So much on in November! appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/so-much-on-in-november/",
+          "publishedOn": "2026-11-03T19:00:29.000Z",
+          "wordCount": 4356,
+          "title": "So much on in November!",
+          "imageUrl": "https://i0.wp.com/www.niorienteering.org.uk/wp-content/uploads/2026/11/Whats-on-in-.-12.png?fit=940%2C788&ssl=1"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7736",
           "author": "NIOA Secretary",

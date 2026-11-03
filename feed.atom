@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T13:09:53.525Z</updated>
+    <updated>2026-11-03T22:39:03.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[So much on in November!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7777</id>
+        <link href="https://www.niorienteering.org.uk/so-much-on-in-november/"/>
+        <updated>2026-11-03T19:00:29.000Z</updated>
+        <summary type="html"><![CDATA[There is so much happening in November that it should be renamed O-vember! So you don’t miss out on what is going on – here is a list of all the event entry deadlines. Hover and click on the links for more details and to...
+The post So much on in November! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November Community Conversation: Coaching]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58195</id>
+        <link href="https://www.scottish-orienteering.org/news/november-community-conversation-coaching/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=november-community-conversation-coaching"/>
+        <updated>2026-11-03T16:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to our members from across Scotland who joined us on Monday evening for the final community conversation in the […]]]></summary>
+        <author>
+            <name>judybell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Box Hill Fell Race 2027]]></title>
         <id>https://slow.org.uk/?p=26145</id>
@@ -804,16 +825,6 @@ AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering A
 The post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training sessions 2026-27]]></title>
-        <id>https://slow.org.uk/?p=26066</id>
-        <link href="https://slow.org.uk/coaching/wimbledon-training-season-2026/"/>
-        <updated>2026-10-05T09:45:05.000Z</updated>
-        <summary type="html"><![CDATA[A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]]]></summary>
-        <author>
-            <name>vinh</name>
         </author>
     </entry>
     <entry>
