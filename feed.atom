@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T00:07:53.136Z</updated>
+    <updated>2026-11-03T13:09:53.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -294,6 +294,15 @@ PODIUM FINISH FOR GOLD WRE RACES IN TAISHOU, CHINA first appeared on Orienteerin
         <updated>2026-10-27T03:45:54.000Z</updated>
         <summary type="html"><![CDATA[Enter now for Race 3 of the Summer Shorts and Sprints Series, at Newport Lakes!
 Summer Shorts and Sprints Race 3, Newport Lakes, Sunday 1 November first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Besley Joins Millennium Club Hall of Fame]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=16044</id>
+        <link href="https://www.vicorienteering.asn.au/mark-besley-joins-millennium-club-hall-of-fame/"/>
+        <updated>2026-10-27T02:06:31.000Z</updated>
         <author>
             <name>Debbie Dodd</name>
         </author>
@@ -805,17 +814,6 @@ The post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.
         <summary type="html"><![CDATA[A series of free monthly training sessions open to all levels of orienteers. Children under 10 can join if accompanied by an adult. Sessions will [...]]]></summary>
         <author>
             <name>vinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Very Meel Done]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7694</id>
-        <link href="https://www.niorienteering.org.uk/very-meel-done/"/>
-        <updated>2026-10-04T20:29:01.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Northern Ireland Long Distance Orienteering Championships took place on an unseasonably warm and sunny day on 3 October on the slopes of Meelmore and Lukes Mountain, Co Down. Guest planner Shane Lynch provided testing courses overseen by controller Ivan Millar with Chris Colwell...
-The post Very Meel Done appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
