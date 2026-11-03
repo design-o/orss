@@ -304,6 +304,26 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26145",
+          "author": "Steve Clelland",
+          "description": "Saturday 23rd January 2027 at 11.00am Entries will open at 12:01 (noon) 26th December and are expected to sell out within an hour. 45th edition. [...]",
+          "link": "https://slow.org.uk/events/box-hill-fell-2027/",
+          "publishedOn": "2026-11-02T21:40:01.000Z",
+          "wordCount": 2410,
+          "title": "Box Hill Fell Race 2027",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Box_hill_2026_woods.jpg"
+        },
+        {
+          "id": "https://slow.org.uk/?p=26136",
+          "author": "Steve Clelland",
+          "description": "The second race of South London Orienteers’ 2026-2027 Night series takes place on Wandsworth Common, south-west London, on Tuesday 24th November 2026. Race Centre The race will [...]",
+          "link": "https://slow.org.uk/events/wandsworth-night-o-nov26/",
+          "publishedOn": "2026-11-02T19:50:36.000Z",
+          "wordCount": 2371,
+          "title": "Wandsworth Common Night-O, Tuesday 24th November",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wandsworth-results-nov2024/files/Wandsworth_night1.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=26089",
           "author": "James Haynes",
           "description": "Well done to everyone who came out to Bow on an unseasonably warm evening. Thank you Matt and members of SLOW for organising around the [...]",

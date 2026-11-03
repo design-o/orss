@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-02T14:00:46.308Z</updated>
+    <updated>2026-11-03T00:07:53.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Box Hill Fell Race 2027]]></title>
+        <id>https://slow.org.uk/?p=26145</id>
+        <link href="https://slow.org.uk/events/box-hill-fell-2027/"/>
+        <updated>2026-11-02T21:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Saturday 23rd January 2027 at 11.00am Entries will open at 12:01 (noon) 26th December and are expected to sell out within an hour. 45th edition. [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wandsworth Common Night-O, Tuesday 24th November]]></title>
+        <id>https://slow.org.uk/?p=26136</id>
+        <link href="https://slow.org.uk/events/wandsworth-night-o-nov26/"/>
+        <updated>2026-11-02T19:50:36.000Z</updated>
+        <summary type="html"><![CDATA[The second race of South London Orienteers’ 2026-2027 Night series takes place on Wandsworth Common, south-west London, on Tuesday 24th November 2026. Race Centre The race will [...]]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrating 50 Years of Orienteering in Wellington]]></title>
         <id>https://www.orienteering.org.nz/?p=66815</id>
