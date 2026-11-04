@@ -655,6 +655,26 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58211",
+          "author": "nikkihoward",
+          "description": "The Scottish Score Championships planned in the glorious Culbin were due to be combined with the 6th Scottish Orienteering Urban […]",
+          "link": "https://www.scottish-orienteering.org/news/score-beats-storm-boelo-round-culbin/?utm_source=rss&utm_medium=rss&utm_campaign=score-beats-storm-boelo-round-culbin",
+          "publishedOn": "2026-11-04T16:27:04.000Z",
+          "wordCount": 2639,
+          "title": "Score beats Storm Boelo round Culbin",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/11/860340753_1711008880731031_1437342934848404732_n-1024x768.jpg"
+        },
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58213",
+          "author": "heidi",
+          "description": "At the Interarea weekend the first winners of the Junior Volunteer Awards were announced. Listening to feedback from last years […]",
+          "link": "https://www.scottish-orienteering.org/news/recognising-junior-volunteers-volunteer-awards-and-young-orienteer-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=recognising-junior-volunteers-volunteer-awards-and-young-orienteer-of-the-year",
+          "publishedOn": "2026-11-04T15:24:45.000Z",
+          "wordCount": 2455,
+          "title": "Recognising Junior Volunteers: Volunteer Awards and Young Orienteer of the Year",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/11/Spot-Prizes-768x1024.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58195",
           "author": "judybell",
           "description": "Thanks to our members from across Scotland who joined us on Monday evening for the final community conversation in the […]",
@@ -996,26 +1016,6 @@
           "publishedOn": "2026-10-07T01:00:00.000Z",
           "wordCount": 3111,
           "title": "2026 Australian Mountain Bike Orienteering Championships – BEGINS TOMORROW!",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16894",
-          "author": "Elizabeth L",
-          "description": "A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.\n2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/",
-          "publishedOn": "2026-10-06T07:15:30.000Z",
-          "wordCount": 3191,
-          "title": "2026 Oceania Championships: Long & Sprint Championships",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16894",
-          "author": "Elizabeth L",
-          "description": "A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.\n2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/?utm_source=rss&utm_medium=rss&utm_campaign=2026-oceania-championships-long-sprint-championships",
-          "publishedOn": "2026-10-06T07:15:30.000Z",
-          "wordCount": 3182,
-          "title": "2026 Oceania Championships: Long & Sprint Championships",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

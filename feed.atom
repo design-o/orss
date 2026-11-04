@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T13:24:31.287Z</updated>
+    <updated>2026-11-04T22:57:52.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Score beats Storm Boelo round Culbin]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58211</id>
+        <link href="https://www.scottish-orienteering.org/news/score-beats-storm-boelo-round-culbin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=score-beats-storm-boelo-round-culbin"/>
+        <updated>2026-11-04T16:27:04.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Score Championships planned in the glorious Culbin were due to be combined with the 6th Scottish Orienteering Urban […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recognising Junior Volunteers: Volunteer Awards and Young Orienteer of the Year]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58213</id>
+        <link href="https://www.scottish-orienteering.org/news/recognising-junior-volunteers-volunteer-awards-and-young-orienteer-of-the-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recognising-junior-volunteers-volunteer-awards-and-young-orienteer-of-the-year"/>
+        <updated>2026-11-04T15:24:45.000Z</updated>
+        <summary type="html"><![CDATA[At the Interarea weekend the first winners of the Junior Volunteer Awards were announced. Listening to feedback from last years […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wimbledon Common Night-O Results]]></title>
         <id>https://slow.org.uk/?p=26149</id>
@@ -792,28 +812,6 @@ AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering A
         <summary type="html"><![CDATA[The Junior Interareas are right around the corner taking place over the weekend of 31 October – 1st November. Hosted […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Oceania Championships: Long & Sprint Championships]]></title>
-        <id>https://orienteering.asn.au/?p=16894</id>
-        <link href="https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/"/>
-        <updated>2026-10-06T07:15:30.000Z</updated>
-        <summary type="html"><![CDATA[A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.
-2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Oceania Championships: Long & Sprint Championships]]></title>
-        <id>https://orienteering.asn.au/?p=16894</id>
-        <link href="https://orienteering.asn.au/2026-oceania-championships-long-sprint-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2026-oceania-championships-long-sprint-championships"/>
-        <updated>2026-10-06T07:15:30.000Z</updated>
-        <summary type="html"><![CDATA[A recap of the final 2 days of the Oceania Orienteering Championships 2026: long & sprint distance races.
-2026 Oceania Championships: Long & Sprint Championships first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
