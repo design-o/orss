@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T22:39:03.393Z</updated>
+    <updated>2026-11-04T03:41:03.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=26149</id>
+        <link href="https://slow.org.uk/racereports/wimbledon-night-o-results-nov26/"/>
+        <updated>2026-11-03T22:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Results – pdf SPORTident – Live results WinSplits Routegadget – draw your route!]]></summary>
+        <author>
+            <name>Steve Clelland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So much on in November!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7777</id>
@@ -814,17 +824,6 @@ AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering A
         <summary type="html"><![CDATA[The SLOW night series will run from November until March and be comprised of 5 events. Full details on each event are posted here on [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hare Today Gore Tomorrow]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7721</id>
-        <link href="https://www.niorienteering.org.uk/hare-today-gore-tomorrow/"/>
-        <updated>2026-10-05T14:15:23.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 Senior Home International was hosted by Lagan Valley Orienteers on 3-4 October, with the individual event held on a glorious early autumn Saturday with Hare’s Gap in clear view above the lower slopes of Meelmore and Luke’s Mountain. As a competition for selected...
-The post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>

@@ -314,6 +314,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26149",
+          "author": "Steve Clelland",
+          "description": "Results – pdf SPORTident – Live results WinSplits Routegadget – draw your route!",
+          "link": "https://slow.org.uk/racereports/wimbledon-night-o-results-nov26/",
+          "publishedOn": "2026-11-03T22:58:12.000Z",
+          "wordCount": 1722,
+          "title": "Wimbledon Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/Wim_night_Nov_01.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=26145",
           "author": "Steve Clelland",
           "description": "Saturday 23rd January 2027 at 11.00am Entries will open at 12:01 (noon) 26th December and are expected to sell out within an hour. 45th edition. [...]",
@@ -850,16 +860,6 @@
           "wordCount": 4358,
           "title": "Paint the Town Brown, Blue, Green, Orange and Yellow",
           "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/10/Paint-the-Town-1024x683.png"
-        },
-        {
-          "id": "https://www.niorienteering.org.uk/?p=7721",
-          "author": "NIOA Secretary",
-          "description": "The 2026 Senior Home International was hosted by Lagan Valley Orienteers on 3-4 October, with the individual event held on a glorious early autumn Saturday with Hare’s Gap in clear view above the lower slopes of Meelmore and Luke’s Mountain. As a competition for selected...\nThe post Hare Today Gore Tomorrow appeared first on NI Orienteering Association.",
-          "link": "https://www.niorienteering.org.uk/hare-today-gore-tomorrow/",
-          "publishedOn": "2026-10-05T14:15:23.000Z",
-          "wordCount": 4554,
-          "title": "Hare Today Gore Tomorrow",
-          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/10/M-Relay-maps.jpg"
         }
       ]
     },
