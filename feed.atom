@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T03:57:50.931Z</updated>
+    <updated>2026-11-06T13:22:21.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[📢NI Colour Series 6 Online Entry Closes soon!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7781</id>
+        <link href="https://www.niorienteering.org.uk/%f0%9f%93%a2ni-colour-series-6-online-entry-closes-soon/"/>
+        <updated>2026-11-06T07:00:46.000Z</updated>
+        <summary type="html"><![CDATA[❗Don’t forget to enter for NICS6 💻Online entry closes at midnight on Sunday 8th Nov 🏘️This will be a fun, fast and fizzical urban race around the streets of Craigavon ℹ️For more info and to enter visit: https://lvo.org.uk/allfixtures/ni-colour-series-6-26/
+The post 📢NI Colour Series 6 Online Entry Closes soon! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Score beats Storm Boelo round Culbin]]></title>
         <id>https://www.scottish-orienteering.org/?p=58211</id>
@@ -705,38 +716,6 @@ Park Street Update, October 20-26 first appeared on Orienteering Victoria.]]></s
         <summary type="html"><![CDATA[A team of 24 junior orienteers travelled to Switzerland last weekend to compete for GB in the Junior European Cup […]]]></summary>
         <author>
             <name>judybell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominate a volunteer whose impact deserves national recognition]]></title>
-        <id>https://orienteering.asn.au/?p=16920</id>
-        <link href="https://orienteering.asn.au/nominate-a-volunteer-whose-impact-deserves-national-recognition/"/>
-        <updated>2026-10-08T01:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Nominate and celebrate an orienteering volunteer who has made an exceptional impact over the past 12 months.
-Nominate a volunteer whose impact deserves national recognition first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominate a volunteer whose impact deserves national recognition]]></title>
-        <id>https://orienteering.asn.au/?p=16920</id>
-        <link href="https://orienteering.asn.au/nominate-a-volunteer-whose-impact-deserves-national-recognition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nominate-a-volunteer-whose-impact-deserves-national-recognition"/>
-        <updated>2026-10-08T01:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Nominate and celebrate an orienteering volunteer who has made an exceptional impact over the past 12 months.
-Nominate a volunteer whose impact deserves national recognition first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOA appoints  a new Development Officer]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58028</id>
-        <link href="https://www.scottish-orienteering.org/news/soa-appoints-a-new-development-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soa-appoints-a-new-development-officer"/>
-        <updated>2026-10-07T16:31:43.000Z</updated>
-        <summary type="html"><![CDATA[The SOA Team was delighted to welcome Holly Stodgell as she started in the post of SOA Development Officer this […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>

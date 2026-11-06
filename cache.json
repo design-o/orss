@@ -803,16 +803,6 @@
           "wordCount": 2601,
           "title": "Success for Scottish Juniors at Junior European Championships",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/DSC_7002-1024x683.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=58028",
-          "author": "nikkihoward",
-          "description": "The SOA Team was delighted to welcome Holly Stodgell as she started in the post of SOA Development Officer this […]",
-          "link": "https://www.scottish-orienteering.org/news/soa-appoints-a-new-development-officer/?utm_source=rss&utm_medium=rss&utm_campaign=soa-appoints-a-new-development-officer",
-          "publishedOn": "2026-10-07T16:31:43.000Z",
-          "wordCount": 1936,
-          "title": "SOA appoints  a new Development Officer",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/Photo-of-Hol-768x1024.jpg"
         }
       ]
     },
@@ -821,6 +811,16 @@
       "feedUrl": "https://niorienteering.org.uk/feed",
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
+        {
+          "id": "https://www.niorienteering.org.uk/?p=7781",
+          "author": "Richard Gamble",
+          "description": "❗Don’t forget to enter for NICS6 💻Online entry closes at midnight on Sunday 8th Nov 🏘️This will be a fun, fast and fizzical urban race around the streets of Craigavon ℹ️For more info and to enter visit: https://lvo.org.uk/allfixtures/ni-colour-series-6-26/\nThe post 📢NI Colour Series 6 Online Entry Closes soon! appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/%f0%9f%93%a2ni-colour-series-6-online-entry-closes-soon/",
+          "publishedOn": "2026-11-06T07:00:46.000Z",
+          "wordCount": 4315,
+          "title": "📢NI Colour Series 6 Online Entry Closes soon!",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/11/NICS-Urban.png"
+        },
         {
           "id": "https://www.niorienteering.org.uk/?p=7777",
           "author": "Richard Gamble",
@@ -926,26 +926,6 @@
           "publishedOn": "2026-10-14T06:22:07.000Z",
           "wordCount": 2437,
           "title": "National MTBO Series Standings",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16920",
-          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
-          "description": "Nominate and celebrate an orienteering volunteer who has made an exceptional impact over the past 12 months.\nNominate a volunteer whose impact deserves national recognition first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/nominate-a-volunteer-whose-impact-deserves-national-recognition/",
-          "publishedOn": "2026-10-08T01:11:33.000Z",
-          "wordCount": 2573,
-          "title": "Nominate a volunteer whose impact deserves national recognition",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=16920",
-          "author": "Daniel Stott (OA Manager of Participation: participation@orienteering.asn.au)",
-          "description": "Nominate and celebrate an orienteering volunteer who has made an exceptional impact over the past 12 months.\nNominate a volunteer whose impact deserves national recognition first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/nominate-a-volunteer-whose-impact-deserves-national-recognition/?utm_source=rss&utm_medium=rss&utm_campaign=nominate-a-volunteer-whose-impact-deserves-national-recognition",
-          "publishedOn": "2026-10-08T01:11:33.000Z",
-          "wordCount": 2579,
-          "title": "Nominate a volunteer whose impact deserves national recognition",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]
