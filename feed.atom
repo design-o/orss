@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-05T22:59:24.940Z</updated>
+    <updated>2026-11-06T03:57:50.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -737,49 +737,6 @@ Nominate a volunteer whose impact deserves national recognition first appeared o
         <summary type="html"><![CDATA[The SOA Team was delighted to welcome Holly Stodgell as she started in the post of SOA Development Officer this […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SATPE Conference 2026]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58023</id>
-        <link href="https://www.scottish-orienteering.org/news/satpe-conference-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=satpe-conference-2026"/>
-        <updated>2026-10-07T13:07:21.000Z</updated>
-        <summary type="html"><![CDATA[SATPE stands for the Scottish Association of Teachers of Physical Education. Last weekend SOA attended their annual conference at Crieff […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Non-Elite Rankings]]></title>
-        <id>https://orienteering.asn.au/?p=16917</id>
-        <link href="https://orienteering.asn.au/2026-non-elite-rankings/"/>
-        <updated>2026-10-07T06:54:58.000Z</updated>
-        <summary type="html"><![CDATA[2026 Non-Elite Rankings have been released, based on results in the Australian Championships and Oceania Championships.
-2026 Non-Elite Rankings first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE]]></title>
-        <id>https://orienteering.asn.au/?p=16912</id>
-        <link href="https://orienteering.asn.au/australian-team-for-2026-aus-nzl-mtbo-challenge/"/>
-        <updated>2026-10-07T06:36:51.000Z</updated>
-        <summary type="html"><![CDATA[The Australian team has been announced for the 2026 Australia-New Zealand MTBO Challenge at the Australian MTBO Champs.
-AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE]]></title>
-        <id>https://orienteering.asn.au/?p=16912</id>
-        <link href="https://orienteering.asn.au/australian-team-for-2026-aus-nzl-mtbo-challenge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=australian-team-for-2026-aus-nzl-mtbo-challenge"/>
-        <updated>2026-10-07T06:36:51.000Z</updated>
-        <summary type="html"><![CDATA[The Australian team has been announced for the 2026 Australia-New Zealand MTBO Challenge at the Australian MTBO Champs.
-AUSTRALIAN TEAM FOR 2026 AUS/NZL MTBO CHALLENGE first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
