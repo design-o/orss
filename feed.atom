@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T22:28:43.515Z</updated>
+    <updated>2026-11-07T03:32:34.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OUSA Masters Nationals | NPR Applause TV Segment | Cleveland Ideastream Public Media]]></title>
+        <id>https://neooc.com/?p=51554</id>
+        <link href="https://neooc.com/ousa-masters-nationals-npr-applause-tv-segment-cleveland-ideastream-public-media/"/>
+        <updated>2026-11-07T02:27:59.000Z</updated>
+        <summary type="html"><![CDATA[This TV segment is airing this weekend on Applause on Friday, Saturday and Sunday (Nov. 6-8) on PBS. Full story by Zaria Johnson / Ideastream Public Media]]></summary>
+        <author>
+            <name>Northeast Ohio Orienteering Club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📢NI Colour Series 6 Online Entry Closes soon!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7781</id>
@@ -696,26 +706,6 @@ Victoria Wins Australian MTBO Champs State Plaque in 2026 first appeared on Orie
 Park Street Update, October 20-26 first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Volunteer Awards- Get your nominations in!!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58050</id>
-        <link href="https://www.scottish-orienteering.org/news/junior-volunteer-awards-get-your-nominations-in/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junior-volunteer-awards-get-your-nominations-in"/>
-        <updated>2026-10-08T13:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Back in June, Scottish Orienteering was excited to announce the brand‑new Junior Volunteer Awards Scheme. A scheme created to recognise […]]]></summary>
-        <author>
-            <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Success for Scottish Juniors at Junior European Championships]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58017</id>
-        <link href="https://www.scottish-orienteering.org/news/success-for-scottish-juniors-at-junior-european-championships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=success-for-scottish-juniors-at-junior-european-championships"/>
-        <updated>2026-10-08T12:28:27.000Z</updated>
-        <summary type="html"><![CDATA[A team of 24 junior orienteers travelled to Switzerland last weekend to compete for GB in the Junior European Cup […]]]></summary>
-        <author>
-            <name>judybell</name>
         </author>
     </entry>
     <entry>

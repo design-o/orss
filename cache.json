@@ -598,6 +598,16 @@
       "siteUrl": "https://neooc.com",
       "articles": [
         {
+          "id": "https://neooc.com/?p=51554",
+          "author": "Northeast Ohio Orienteering Club",
+          "description": "This TV segment is airing this weekend on Applause on Friday, Saturday and Sunday (Nov. 6-8) on PBS. Full story by Zaria Johnson / Ideastream Public Media",
+          "link": "https://neooc.com/ousa-masters-nationals-npr-applause-tv-segment-cleveland-ideastream-public-media/",
+          "publishedOn": "2026-11-07T02:27:59.000Z",
+          "wordCount": 2349,
+          "title": "OUSA Masters Nationals | NPR Applause TV Segment | Cleveland Ideastream Public Media",
+          "imageUrl": "https://neooc.com/wp-content/uploads/2026/11/OUSA_Masters_2026_YouTube.png"
+        },
+        {
           "id": "https://neooc.com/?p=51524",
           "author": "Northeast Ohio Orienteering Club",
           "description": "NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream",
@@ -783,26 +793,6 @@
           "wordCount": 2647,
           "title": "Home turf advantage helps triumphant Scottish Juniors",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/DSC_0058-1-1024x681.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=58050",
-          "author": "heidi",
-          "description": "Back in June, Scottish Orienteering was excited to announce the brand‑new Junior Volunteer Awards Scheme. A scheme created to recognise […]",
-          "link": "https://www.scottish-orienteering.org/news/junior-volunteer-awards-get-your-nominations-in/?utm_source=rss&utm_medium=rss&utm_campaign=junior-volunteer-awards-get-your-nominations-in",
-          "publishedOn": "2026-10-08T13:57:45.000Z",
-          "wordCount": 1941,
-          "title": "Junior Volunteer Awards- Get your nominations in!!",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-10.08.46-1024x768.jpeg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=58017",
-          "author": "judybell",
-          "description": "A team of 24 junior orienteers travelled to Switzerland last weekend to compete for GB in the Junior European Cup […]",
-          "link": "https://www.scottish-orienteering.org/news/success-for-scottish-juniors-at-junior-european-championships/?utm_source=rss&utm_medium=rss&utm_campaign=success-for-scottish-juniors-at-junior-european-championships",
-          "publishedOn": "2026-10-08T12:28:27.000Z",
-          "wordCount": 2601,
-          "title": "Success for Scottish Juniors at Junior European Championships",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/DSC_7002-1024x683.jpg"
         }
       ]
     },
