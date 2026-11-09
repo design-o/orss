@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T21:26:05.619Z</updated>
+    <updated>2026-11-09T03:24:48.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results| 2026 Allardale Score | Allardale Park, Medina County| Sunday, November 8, 2026]]></title>
+        <id>https://neooc.com/?p=51565</id>
+        <link href="https://neooc.com/results-2026-allardale-score-allardale-park-medina-county-sunday-november-8-2026/"/>
+        <updated>2026-11-09T01:39:07.000Z</updated>
+        <summary type="html"><![CDATA[2026 Allardale Score Recap Our last event in the 50th Anniversary year was an easier course followed by a social with fun, food, friends, and prizes. Starting at the Lodge, over 50 orienteers (as individuals or teams) begain the 90 minute score course. Kathy’s course had 29 controls placed mostly in the woods.  Total possible […]]]></summary>
+        <author>
+            <name>Jay Smink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2027 NZ MTBO Carnival]]></title>
         <id>https://orienteering.asn.au/?p=17262</id>
