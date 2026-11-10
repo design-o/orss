@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-10T00:56:38.282Z</updated>
+    <updated>2026-11-10T13:53:22.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -67,6 +67,17 @@ The post 🌙🏆NI Orienteering Night Champs – Entries close soon! appeared f
 The post 📢NI Colour Series 6 Online Entry Closes soon! appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Shorts and Sprints Race 5, Waverley Stadium, Sunday 15 November]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=15947</id>
+        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-2026/"/>
+        <updated>2026-11-06T03:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Not a park, not a campus, but a unique urban area surrounding the famous Stadium. Perfect preparation for next weekend’s Geelong City Race! 
+Summer Shorts and Sprints Race 5, Waverley Stadium, Sunday 15 November first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -138,6 +149,15 @@ The post So much on in November! appeared first on NI Orienteering Association.]
         <summary type="html"><![CDATA[The second race of South London Orienteers’ 2026-2027 Night series takes place on Wandsworth Common, south-west London, on Tuesday 24th November 2026. Race Centre The race will [...]]]></summary>
         <author>
             <name>Steve Clelland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilight Summer Sprints in Macedon Ranges, Wednesday Evenings From November 11]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=16059</id>
+        <link href="https://www.vicorienteering.asn.au/twilight-summer-sprints-in-macedon-ranges-wednesday-evenings-from-november-11/"/>
+        <updated>2026-11-02T05:40:23.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -717,26 +737,6 @@ Vic Vikings Win Senior Mens National League Title in Strong Team Effort first ap
         <summary type="html"><![CDATA[Last weekend saw Juniors from the Home Nations teams of England, Ireland, Wales and of course Scotland travel to the […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon Common Night-O – 3rd November]]></title>
-        <id>https://slow.org.uk/?p=26071</id>
-        <link href="https://slow.org.uk/events/wimbledon-night-nov26/"/>
-        <updated>2026-10-11T20:58:30.000Z</updated>
-        <summary type="html"><![CDATA[The first race of South London Orienteers’ 2026-2027 night series takes place on Wimbledon Common South-West London, on Tuesday 3rd November 2026. Race Centre The race will [...]]]></summary>
-        <author>
-            <name>Steve Clelland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Event | Szalay’s Night Corn Maze-O | Near Peninsula, Ohio | Saturday, October 24th]]></title>
-        <id>https://neooc.com/?p=51385</id>
-        <link href="https://neooc.com/new-event-szalays-night-corn-maze-o-near-peninsula-ohio-saturday-october-24th/"/>
-        <updated>2026-10-11T15:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Szalay’s Night Corn Maze-O | Near Peninsula, Ohio | Saturday, October 24th]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>
