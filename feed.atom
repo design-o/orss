@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T03:32:08.917Z</updated>
+    <updated>2026-11-11T13:05:20.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kennington Street-O results]]></title>
+        <id>https://slow.org.uk/?p=26172</id>
+        <link href="https://slow.org.uk/streeto/kennington-street-o-results-2/"/>
+        <updated>2026-11-11T07:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Well done to everyone who came down to Oval on a damp and cold evening. Thanks to the Fentiman Arms for having us. Final results [...]]]></summary>
+        <author>
+            <name>James Haynes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌙🏆NI Orienteering Night Champs – Entries close soon!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7784</id>

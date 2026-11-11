@@ -324,6 +324,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26172",
+          "author": "James Haynes",
+          "description": "Well done to everyone who came down to Oval on a damp and cold evening. Thanks to the Fentiman Arms for having us. Final results [...]",
+          "link": "https://slow.org.uk/streeto/kennington-street-o-results-2/",
+          "publishedOn": "2026-11-11T07:57:10.000Z",
+          "wordCount": 1749,
+          "title": "Kennington Street-O results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/files/PXL_20261110_182507451-scaled.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=26149",
           "author": "Steve Clelland",
           "description": "Results – pdf SPORTident – Live results WinSplits Routegadget – draw your route!",
