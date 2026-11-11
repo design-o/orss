@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T13:05:20.068Z</updated>
+    <updated>2026-11-11T23:47:01.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Listening to the Future: Juniors provide their perspective]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58278</id>
+        <link href="https://www.scottish-orienteering.org/news/listening-to-the-future-juniors-provide-their-perspective/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=listening-to-the-future-juniors-provide-their-perspective"/>
+        <updated>2026-11-11T18:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Every year at the Junior Inter Areas, the SOA team takes the opportunity to update the juniors on the efforts […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⏰ Night Champs – Entries close at midnight tonight!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7787</id>
+        <link href="https://www.niorienteering.org.uk/%e2%8f%b0-night-champs-entries-close-at-midnight-tonight/"/>
+        <updated>2026-11-11T13:00:44.000Z</updated>
+        <summary type="html"><![CDATA[🏆NI Night Champs – Navigate, race and compete in Northern Ireland’s premier night orienteering event. 📍 Sir Thomas and Lady Dixon Park 📅 Wednesday 18 November 2026 🧭 Enter now and don’t miss out! ℹ️To enter visit: https://lvo.org.uk/allfixtures/ni-night-champs-26/
+The post ⏰ Night Champs – Entries close at midnight tonight! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScotJOS squad selected for 2026/2027 travel to Knapdale]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58300</id>
+        <link href="https://www.scottish-orienteering.org/news/scotjos-squad-selected-for-2026-2027-travel-to-knapdale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scotjos-squad-selected-for-2026-2027-travel-to-knapdale"/>
+        <updated>2026-11-11T11:52:48.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Junior Orienteering Squad (ScotJOS) has now been finalised for 2026/2027 with 34 juniors accepting their place on the […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAY seeking Club Development Officer]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58294</id>
+        <link href="https://www.scottish-orienteering.org/news/tay-seeking-club-development-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tay-seeking-club-development-officer"/>
+        <updated>2026-11-11T10:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Following the successful bid for funding from the Sportscotland Club Support Programme, Tayside Orienteers (TAY) are now advertising for a […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kennington Street-O results]]></title>
         <id>https://slow.org.uk/?p=26172</id>
@@ -735,16 +776,6 @@ Vic Vikings Win Senior Mens National League Title in Strong Team Effort first ap
         <link href="https://www.scottish-orienteering.org/news/scottish-juniors-say-thank-you-to-judy-bell-who-retires-as-scotjos-manager/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-juniors-say-thank-you-to-judy-bell-who-retires-as-scotjos-manager"/>
         <updated>2026-10-13T12:40:59.000Z</updated>
         <summary type="html"><![CDATA[After 6 years in post as Scottish Junior Orienteering Squad (ScotJOS) manager, Judy Bell decided it was time to step […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home turf advantage helps triumphant Scottish Juniors]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58071</id>
-        <link href="https://www.scottish-orienteering.org/news/home-turf-advantage-helps-triumphant-scottish-juniors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=home-turf-advantage-helps-triumphant-scottish-juniors"/>
-        <updated>2026-10-12T16:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Last weekend saw Juniors from the Home Nations teams of England, Ireland, Wales and of course Scotland travel to the […]]]></summary>
         <author>
             <name>nikkihoward</name>
         </author>
