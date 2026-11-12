@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T14:08:09.625Z</updated>
+    <updated>2026-11-12T22:56:33.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NI Colour Series 7, Coleraine]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7790</id>
+        <link href="https://www.niorienteering.org.uk/ni-colour-series-7-coleraine/"/>
+        <updated>2026-11-12T19:00:11.000Z</updated>
+        <summary type="html"><![CDATA[📢Entries close this Sunday 15 November, so enter now and don’t miss out on the final Colour Series race of the year! 👋NWOC invite you to explore the interesting campus grounds of UU Coleraine on Saturday 21 November, from 11am. ⚪🟡🟠🟢🔵🟤There will be the full...
+The post NI Colour Series 7, Coleraine appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Charge or not to Charge?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58316</id>
+        <link href="https://www.scottish-orienteering.org/news/to-charge-or-not-to-charge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=to-charge-or-not-to-charge"/>
+        <updated>2026-11-12T14:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how much and if to charge for beginner activities can be challenging. If priced too high it can put […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Listening to the Future: Juniors provide their perspective]]></title>
         <id>https://www.scottish-orienteering.org/?p=58278</id>
@@ -736,28 +757,6 @@ The post Paint the Town Brown, Blue, Green, Orange and Yellow appeared first on 
         <summary type="html"><![CDATA[Jason Inman of Forth Valley Orienteering has been appointed as the Scottish Orienteering Squad (ScotJOS) Team Manager following the retirement […]]]></summary>
         <author>
             <name>nikkihoward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National MTBO Series Standings]]></title>
-        <id>https://orienteering.asn.au/?p=17034</id>
-        <link href="https://orienteering.asn.au/national-mtbo-series-standings/"/>
-        <updated>2026-10-14T06:22:07.000Z</updated>
-        <summary type="html"><![CDATA[After the completion of the second round of the national MTBO series, the standings have now been updated and published.
-National MTBO Series Standings first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vic Vikings Win Senior Mens National League Title in Strong Team Effort]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=16008</id>
-        <link href="https://www.vicorienteering.asn.au/vic-vikings-win-senior-mens-in-strong-team-effort/"/>
-        <updated>2026-10-14T04:39:40.000Z</updated>
-        <summary type="html"><![CDATA[The Vic Vikings have finished off the 2026 NOL season with a resounding title win in Mens 21.
-Vic Vikings Win Senior Mens National League Title in Strong Team Effort first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
