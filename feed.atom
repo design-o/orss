@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T04:41:29.544Z</updated>
+    <updated>2026-11-12T14:08:09.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -758,16 +758,6 @@ National MTBO Series Standings first appeared on Orienteering Australia.]]></sum
 Vic Vikings Win Senior Mens National League Title in Strong Team Effort first appeared on Orienteering Victoria.]]></summary>
         <author>
             <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bow Street-O results]]></title>
-        <id>https://slow.org.uk/?p=26089</id>
-        <link href="https://slow.org.uk/streeto/bow-street-o-results/"/>
-        <updated>2026-10-13T22:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Well done to everyone who came out to Bow on an unseasonably warm evening. Thank you Matt and members of SLOW for organising around the [...]]]></summary>
-        <author>
-            <name>James Haynes</name>
         </author>
     </entry>
     <entry>
