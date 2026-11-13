@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-13T03:53:49.843Z</updated>
+    <updated>2026-11-13T13:32:50.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Have views on the Scottish Outdoor Access Code?]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58330</id>
+        <link href="https://www.scottish-orienteering.org/news/have-views-on-the-scottish-outdoor-access-code/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=have-views-on-the-scottish-outdoor-access-code"/>
+        <updated>2026-11-13T12:35:52.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Outdoor Access Code is 22 years old next February! The Scottish Parliament’s Rural Affairs Committee want everyone’s views […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NI Colour Series 7, Coleraine]]></title>
         <id>https://www.niorienteering.org.uk/?p=7790</id>
