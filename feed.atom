@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T13:04:16.430Z</updated>
+    <updated>2026-11-15T22:12:42.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[📢NICS7 ENTRIES CLOSE TONIGHT!]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7794</id>
+        <link href="https://www.niorienteering.org.uk/%f0%9f%93%a2nics7-entries-close-tonight/"/>
+        <updated>2026-11-15T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[⏰9.30pm tonight is the deadline for entries ⚪🟡🟠🟢🔵🟤Courses of all colours for all ages and levels of experience. ℹ️ For more information and to enter visit: NI Colour Series 7
+The post 📢NICS7 ENTRIES CLOSE TONIGHT! appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📢NICS7 ENTRIES CLOSE TOMORROW!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7822</id>
@@ -716,17 +727,6 @@ National MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.]
 The post Later Start Times for NI Colour Series 6 appeared first on NI Orienteering Association.]]></summary>
         <author>
             <name>NIOA Secretary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Junior Camp 2026]]></title>
-        <id>https://orienteering.asn.au/?p=17044</id>
-        <link href="https://orienteering.asn.au/national-junior-camp-2026/"/>
-        <updated>2026-10-17T05:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Five days of orienteering, adventure, new friendships and challenging yourself. Entries close 31 October.
-National Junior Camp 2026 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
         </author>
     </entry>
     <entry>
