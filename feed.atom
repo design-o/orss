@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T22:12:42.480Z</updated>
+    <updated>2026-11-16T03:32:44.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -148,6 +148,17 @@ The post 🌙🏆NI Orienteering Night Champs – Entries close soon! appeared f
         <updated>2026-11-07T07:38:26.000Z</updated>
         <summary type="html"><![CDATA[Have your say and help shape us plan for the 2027 New Zealand MTBO Carnival!
 2027 NZ MTBO Carnival first appeared on Orienteering Australia.]]></summary>
+        <author>
+            <name>Elizabeth L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REGISTRATIONS EXTENDED – National Junior Camp 2026]]></title>
+        <id>https://orienteering.asn.au/?p=17044</id>
+        <link href="https://orienteering.asn.au/national-junior-camp-2026/"/>
+        <updated>2026-11-07T05:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Deadline for the 2026 National Junior Camp has been extended to Sunday 15 November. Sign up today!
+REGISTRATIONS EXTENDED – National Junior Camp 2026 first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
         </author>
