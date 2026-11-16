@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T03:32:44.243Z</updated>
+    <updated>2026-11-16T14:09:55.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -727,17 +727,6 @@ National MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.]
         <summary type="html"><![CDATA[Kent State Score Recap. We continued our 50th anniversary year celebration with a late afternoon score event on the Kent State campus.  Bob Turanchik’s course had controls located through out the entire campus, some out in the open, others tuck into nooks and crannies, and one under the baseball bleachers.  Check out the map and […]]]></summary>
         <author>
             <name>Jay Smink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Later Start Times for NI Colour Series 6]]></title>
-        <id>https://www.niorienteering.org.uk/?p=7736</id>
-        <link href="https://www.niorienteering.org.uk/later-start-times-for-ni-colour-series-6/"/>
-        <updated>2026-10-17T18:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Now with later start times up to 14:00, entries close tomorrow 18 October at 23:59, for Colour Series 6 in urban terrain in Craigavon on 25 October. All the details are on the event page on the LVO website. Entries are at SiEntries.
-The post Later Start Times for NI Colour Series 6 appeared first on NI Orienteering Association.]]></summary>
-        <author>
-            <name>NIOA Secretary</name>
         </author>
     </entry>
     <entry>
