@@ -200,6 +200,16 @@
       "siteUrl": "https://www.vicorienteering.asn.au",
       "articles": [
         {
+          "id": "https://www.vicorienteering.asn.au/?p=16061",
+          "author": "Debbie Dodd",
+          "description": "",
+          "link": "https://www.vicorienteering.asn.au/victorian-primary-school-orienteering-championships-east-and-west-november-and-december/",
+          "publishedOn": "2026-11-13T05:00:35.000Z",
+          "wordCount": 1205,
+          "title": "Victorian Primary School Orienteering Championships East and West, November and December",
+          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
+        },
+        {
           "id": "https://www.vicorienteering.asn.au/?p=15947",
           "author": "Debbie Dodd",
           "description": "Not a park, not a campus, but a unique urban area surrounding the famous Stadium. Perfect preparation for next weekend’s Geelong City Race! \nSummer Shorts and Sprints Race 5, Waverley Stadium, Sunday 15 November first appeared on Orienteering Victoria.",
@@ -277,16 +287,6 @@
           "publishedOn": "2026-10-23T04:30:38.000Z",
           "wordCount": 1217,
           "title": "Geelong City Race Weekend, November 21-22",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=16037",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/victorian-sprint-champs-deakin-dash-and-celebration-of-hania-sun-nov-29/",
-          "publishedOn": "2026-10-19T04:34:36.000Z",
-          "wordCount": 1149,
-          "title": "Victorian Sprint Champs, Deakin Dash, and Celebration of Hania – Sun Nov 29",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
@@ -655,6 +655,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58343",
+          "author": "nikkihoward",
+          "description": "2027 is looking like a busy year with lots of exciting events from the Scottish 6 Days Perthshire which will […]",
+          "link": "https://www.scottish-orienteering.org/news/call-out-for-controllers-for-events-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=call-out-for-controllers-for-events-in-2027",
+          "publishedOn": "2026-11-17T16:46:35.000Z",
+          "wordCount": 2056,
+          "title": "Call out for controllers for Events in 2027",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/08/55186009504_6c286b1ef6_k-1024x856.jpg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58330",
           "author": "nikkihoward",
           "description": "The Scottish Outdoor Access Code is 22 years old next February! The Scottish Parliament’s Rural Affairs Committee want everyone’s views […]",
@@ -926,16 +936,6 @@
           "publishedOn": "2026-10-21T10:55:08.000Z",
           "wordCount": 3039,
           "title": "National MTBO Series Wrap-up for 2026",
-          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
-        },
-        {
-          "id": "https://orienteering.asn.au/?p=17060",
-          "author": "Elizabeth L",
-          "description": "The ACT & NSW MTBO Champs 2026 are over! Find the results, splits, Livelox and photos here.\n2026 ACT & NSW MTBO Champs: Results & Recap  first appeared on Orienteering Australia.",
-          "link": "https://orienteering.asn.au/2026-act-nsw-mtbo-champs-results-recap/",
-          "publishedOn": "2026-10-19T11:57:06.000Z",
-          "wordCount": 2735,
-          "title": "2026 ACT & NSW MTBO Champs: Results & Recap",
           "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
         }
       ]

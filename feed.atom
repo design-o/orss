@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T01:13:30.822Z</updated>
+    <updated>2026-11-18T00:07:27.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call out for controllers for Events in 2027]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58343</id>
+        <link href="https://www.scottish-orienteering.org/news/call-out-for-controllers-for-events-in-2027/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=call-out-for-controllers-for-events-in-2027"/>
+        <updated>2026-11-17T16:46:35.000Z</updated>
+        <summary type="html"><![CDATA[2027 is looking like a busy year with lots of exciting events from the Scottish 6 Days Perthshire which will […]]]></summary>
+        <author>
+            <name>nikkihoward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📢NICS7 ENTRIES CLOSE TONIGHT!]]></title>
         <id>https://www.niorienteering.org.uk/?p=7794</id>
@@ -36,6 +46,15 @@ The post 📢NICS7 ENTRIES CLOSE TOMORROW! appeared first on NI Orienteering Ass
         <summary type="html"><![CDATA[The Scottish Outdoor Access Code is 22 years old next February! The Scottish Parliament’s Rural Affairs Committee want everyone’s views […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian Primary School Orienteering Championships East and West, November and December]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=16061</id>
+        <link href="https://www.vicorienteering.asn.au/victorian-primary-school-orienteering-championships-east-and-west-november-and-december/"/>
+        <updated>2026-11-13T05:00:35.000Z</updated>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
@@ -697,26 +716,6 @@ National MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.]
         <summary type="html"><![CDATA[Forth Valley Orienteers and Interlopers travelled down to West Sussex to compete in the inter-club championship finals. The Interlopers team […]]]></summary>
         <author>
             <name>hollystodgell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 ACT & NSW MTBO Champs: Results & Recap]]></title>
-        <id>https://orienteering.asn.au/?p=17060</id>
-        <link href="https://orienteering.asn.au/2026-act-nsw-mtbo-champs-results-recap/"/>
-        <updated>2026-10-19T11:57:06.000Z</updated>
-        <summary type="html"><![CDATA[The ACT & NSW MTBO Champs 2026 are over! Find the results, splits, Livelox and photos here.
-2026 ACT & NSW MTBO Champs: Results & Recap  first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorian Sprint Champs, Deakin Dash, and Celebration of Hania – Sun Nov 29]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=16037</id>
-        <link href="https://www.vicorienteering.asn.au/victorian-sprint-champs-deakin-dash-and-celebration-of-hania-sun-nov-29/"/>
-        <updated>2026-10-19T04:34:36.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
