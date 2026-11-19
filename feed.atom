@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T04:50:57.554Z</updated>
+    <updated>2026-11-19T14:49:53.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NI Colour Series and Night Champs Report 🏆]]></title>
+        <id>https://www.niorienteering.org.uk/?p=7844</id>
+        <link href="https://www.niorienteering.org.uk/ni-colour-series-and-night-champs-report-%f0%9f%8f%86/"/>
+        <updated>2026-11-19T12:49:22.000Z</updated>
+        <summary type="html"><![CDATA[The last few days have been busy with NI competition, firstly on Sunday at Craigavon for Colour Series 6 and then last night at Sir Thomas and Lady Dixon Park for the NI Night Champs. Thank you to all who have come along to support...
+The post NI Colour Series and Night Champs Report 🏆 appeared first on NI Orienteering Association.]]></summary>
+        <author>
+            <name>Richard Gamble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call out for controllers for Events in 2027]]></title>
         <id>https://www.scottish-orienteering.org/?p=58343</id>
