@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T23:39:58.586Z</updated>
+    <updated>2026-11-19T04:50:57.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -715,16 +715,6 @@ National MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.]
         <summary type="html"><![CDATA[As we were planning our series of Summer of Sport family friendly taster sessions we were delighted when the adverts […]]]></summary>
         <author>
             <name>judybell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Success at the CompassSport Cup!]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58144</id>
-        <link href="https://www.scottish-orienteering.org/news/scottish-success-at-the-compasssport-cup/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scottish-success-at-the-compasssport-cup"/>
-        <updated>2026-10-20T15:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Forth Valley Orienteers and Interlopers travelled down to West Sussex to compete in the inter-club championship finals. The Interlopers team […]]]></summary>
-        <author>
-            <name>hollystodgell</name>
         </author>
     </entry>
     <entry>
