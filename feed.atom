@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T14:49:53.788Z</updated>
+    <updated>2026-11-19T23:58:39.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -705,27 +705,6 @@ Australian Team to Compete in “Spectacular China GOLD WRE races” first appea
 High Performance Camp | 9-14 Dec 2026 first appeared on Orienteering New Zealand.]]></summary>
         <author>
             <name>Christo Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National MTBO Series Wrap-up for 2026]]></title>
-        <id>https://orienteering.asn.au/?p=17065</id>
-        <link href="https://orienteering.asn.au/national-mtbo-series-wrap-up-for-2026/"/>
-        <updated>2026-10-21T10:55:08.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 National MTBO Series has officially concluded after a fast, competitive and highly successful year of racing across five states.
-National MTBO Series Wrap-up for 2026 first appeared on Orienteering Australia.]]></summary>
-        <author>
-            <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orienteering hits the Airwaves]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58145</id>
-        <link href="https://www.scottish-orienteering.org/news/orienteering-hits-the-airwaves/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orienteering-hits-the-airwaves"/>
-        <updated>2026-10-21T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[As we were planning our series of Summer of Sport family friendly taster sessions we were delighted when the adverts […]]]></summary>
-        <author>
-            <name>judybell</name>
         </author>
     </entry>
     <entry>
