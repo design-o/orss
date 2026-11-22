@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T22:31:16.433Z</updated>
+    <updated>2026-11-22T03:50:35.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
@@ -25,6 +25,17 @@ The post NI Colour Series and Night Champs Report 🏆 appeared first on NI Orie
         <summary type="html"><![CDATA[2027 is looking like a busy year with lots of exciting events from the Scottish 6 Days Perthshire which will […]]]></summary>
         <author>
             <name>nikkihoward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geelong City Race Weekend, November 21-22]]></title>
+        <id>https://www.vicorienteering.asn.au/?p=16031</id>
+        <link href="https://www.vicorienteering.asn.au/geelong-city-race-weekend-november-21-22-2/"/>
+        <updated>2026-11-16T04:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Be part of history at the first ever Geelong City Race Weekend - two days, three races, endless navigation - enter on the day!!
+Geelong City Race Weekend, November 21-22 first appeared on Orienteering Victoria.]]></summary>
+        <author>
+            <name>Debbie Dodd</name>
         </author>
     </entry>
     <entry>
