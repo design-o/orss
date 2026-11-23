@@ -278,16 +278,6 @@
           "wordCount": 1022,
           "title": "Whipstick Witch Hunt, Saturday October 31 – Enter If You Dare!",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=13391",
-          "author": "Debbie Dodd",
-          "description": "Spend your Saturday afternoon with a map, exploring the gem that is Melbourne's Jells Park, with our next Saturday Park Street event on June 27.\nPark Street Update, November 3-9 first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/parkstreet-update/",
-          "publishedOn": "2026-10-24T23:41:54.000Z",
-          "wordCount": 1153,
-          "title": "Park Street Update, November 3-9",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -752,6 +742,16 @@
       "siteUrl": "https://www.niorienteering.org.uk/",
       "articles": [
         {
+          "id": "https://www.niorienteering.org.uk/?p=7852",
+          "author": "NIOA Secretary",
+          "description": "Parts of the Ulster University Coleraine Campus never visited before were on most courses at the final NI Colour Series event of the year on Saturday 21 November. Thanks to officials Ric Gamble planner, Anthony McGonigle organiser and Ross Walker controller. All the results including...\nThe post University Colours appeared first on NI Orienteering Association.",
+          "link": "https://www.niorienteering.org.uk/university-colours/",
+          "publishedOn": "2026-11-23T12:00:36.000Z",
+          "wordCount": 4403,
+          "title": "University Colours",
+          "imageUrl": "https://www.niorienteering.org.uk/wp-content/uploads/2026/11/UUC.jpg"
+        },
+        {
           "id": "https://www.niorienteering.org.uk/?p=7844",
           "author": "Richard Gamble",
           "description": "The last few days have been busy with NI competition, firstly on Sunday at Craigavon for Colour Series 6 and then last night at Sir Thomas and Lady Dixon Park for the NI Night Champs. Thank you to all who have come along to support...\nThe post NI Colour Series and Night Champs Report 🏆 appeared first on NI Orienteering Association.",
@@ -838,6 +838,16 @@
       "feedUrl": "https://orienteering.asn.au/feed",
       "siteUrl": "https://orienteering.asn.au",
       "articles": [
+        {
+          "id": "https://orienteering.asn.au/?p=15173",
+          "author": "Elizabeth L",
+          "description": "Apply today to be a Team Leader for upcoming 2026 international orienteering events.\nApply for a Team Leaders Position at 2027 International Elite Championships first appeared on Orienteering Australia.",
+          "link": "https://orienteering.asn.au/seeking-team-leaders-for-international-elite/",
+          "publishedOn": "2026-11-23T04:10:28.000Z",
+          "wordCount": 2581,
+          "title": "Apply for a Team Leaders Position at 2027 International Elite Championships",
+          "imageUrl": "https://orienteering.asn.au/wp-content/uploads/2023/05/oa_logo_800w@2x.png"
+        },
         {
           "id": "https://orienteering.asn.au/?p=17262",
           "author": "Elizabeth L",
