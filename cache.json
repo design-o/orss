@@ -278,16 +278,6 @@
           "wordCount": 1049,
           "title": "Mark Besley Joins Millennium Club Hall of Fame",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=16027",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/whipstick-witch-hunt-saturday-october-31-enter-if-you-dare/",
-          "publishedOn": "2026-10-26T04:20:14.000Z",
-          "wordCount": 1022,
-          "title": "Whipstick Witch Hunt, Saturday October 31 – Enter If You Dare!",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -296,6 +286,16 @@
       "feedUrl": "https://www.orienteering.ie/feed",
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
+        {
+          "id": "https://www.orienteering.ie/?p=23409",
+          "author": "Operations Manager",
+          "description": "Check out the latest edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland here!",
+          "link": "https://www.orienteering.ie/the-download-november-2026/",
+          "publishedOn": "2026-11-24T15:10:06.000Z",
+          "wordCount": 1225,
+          "title": "The Download November 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.orienteering.ie/?p=23322",
           "author": "Operations Manager",
@@ -596,26 +596,6 @@
           "wordCount": 2337,
           "title": "NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/10/nre26c_01_JasonCampbell.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=51514",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "Allardale Scramble Score O | Allardale Park – Medina County | Sunday, November 8th",
-          "link": "https://neooc.com/new-event-allardale-scramble-score-o-allardale-park-medina-county-sunday-november-8th/",
-          "publishedOn": "2026-10-26T03:10:38.000Z",
-          "wordCount": 2355,
-          "title": "New Event | Allardale Scramble Score O | Allardale Park – Medina County | Sunday, November 8th",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2023/11/2023-EoS-Party-Allardale-Lodge.jpg"
-        },
-        {
-          "id": "https://neooc.com/?p=51465",
-          "author": "Jay Smink",
-          "description": "Corn Maze Recap and Results. We ran our annual Szalay’s Corn Maze under a bright full moon.  The moonlight must have helped, everyone had great times and a lot of fun.  Almost all teams ran multiple courses or went back into the maze to find the Szalay’s displays -notated by the black pumpkins on […]",
-          "link": "https://neooc.com/results-2026-szalays-corn-maze-szalays-farm-pennisula-oh-saturday-october-24-2026/",
-          "publishedOn": "2026-10-25T18:13:33.000Z",
-          "wordCount": 2457,
-          "title": "Results| 2026 Szalay’s Corn Maze | Szalay’s Farm, Pennisula, OH| Saturday, October 24, 2026",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/10/860775664_28812915801702348_722858528398372021_n-225x300.jpg"
         }
       ]
     },
