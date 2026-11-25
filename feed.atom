@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-25T01:41:40.217Z</updated>
+    <updated>2026-11-25T16:20:59.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athlete Development with Talent Scotland]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58370</id>
+        <link href="https://www.scottish-orienteering.org/news/athlete-development-with-talent-scotland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=athlete-development-with-talent-scotland"/>
+        <updated>2026-11-25T08:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Last weekend Talent Scotland athletes gathered in Edinburgh for their annual Planning and Sports Science Camp. This was an opportunity […]]]></summary>
+        <author>
+            <name>judybell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wandsworth Common Night-O Results]]></title>
         <id>https://slow.org.uk/?p=26192</id>
@@ -637,36 +647,6 @@ JWOC 2029 Board Applications | Close Fri 20 Nov first appeared on Orienteering N
 PODIUM FINISH FOR GOLD WRE RACES IN TAISHOU, CHINA first appeared on Orienteering Australia.]]></summary>
         <author>
             <name>Elizabeth L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Shorts and Sprints Race 3, Newport Lakes, Sunday 1 November]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=15947</id>
-        <link href="https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-1/"/>
-        <updated>2026-10-27T03:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Enter now for Race 3 of the Summer Shorts and Sprints Series, at Newport Lakes!
-Summer Shorts and Sprints Race 3, Newport Lakes, Sunday 1 November first appeared on Orienteering Victoria.]]></summary>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Besley Joins Millennium Club Hall of Fame]]></title>
-        <id>https://www.vicorienteering.asn.au/?p=16044</id>
-        <link href="https://www.vicorienteering.asn.au/mark-besley-joins-millennium-club-hall-of-fame/"/>
-        <updated>2026-10-27T02:06:31.000Z</updated>
-        <author>
-            <name>Debbie Dodd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream]]></title>
-        <id>https://neooc.com/?p=51524</id>
-        <link href="https://neooc.com/npr-news-spot-ousa-masters-nationals-cleveland-ideastream/"/>
-        <updated>2026-10-26T16:50:10.000Z</updated>
-        <summary type="html"><![CDATA[NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream]]></summary>
-        <author>
-            <name>Northeast Ohio Orienteering Club</name>
         </author>
     </entry>
     <entry>

@@ -258,26 +258,6 @@
           "wordCount": 1159,
           "title": "Twilight Summer Sprints in Macedon Ranges, Wednesday Evenings From November 11",
           "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=15947",
-          "author": "Debbie Dodd",
-          "description": "Enter now for Race 3 of the Summer Shorts and Sprints Series, at Newport Lakes!\nSummer Shorts and Sprints Race 3, Newport Lakes, Sunday 1 November first appeared on Orienteering Victoria.",
-          "link": "https://www.vicorienteering.asn.au/summer-shorts-and-sprints-race-1/",
-          "publishedOn": "2026-10-27T03:45:54.000Z",
-          "wordCount": 1163,
-          "title": "Summer Shorts and Sprints Race 3, Newport Lakes, Sunday 1 November",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
-        },
-        {
-          "id": "https://www.vicorienteering.asn.au/?p=16044",
-          "author": "Debbie Dodd",
-          "description": "",
-          "link": "https://www.vicorienteering.asn.au/mark-besley-joins-millennium-club-hall-of-fame/",
-          "publishedOn": "2026-10-27T02:06:31.000Z",
-          "wordCount": 1049,
-          "title": "Mark Besley Joins Millennium Club Hall of Fame",
-          "imageUrl": "https://www.vicorienteering.asn.au/wp-content/uploads/slider-take-3.jpg"
         }
       ]
     },
@@ -596,16 +576,6 @@
           "wordCount": 2349,
           "title": "OUSA Masters Nationals | NPR Applause TV Segment | Cleveland Ideastream Public Media",
           "imageUrl": "https://neooc.com/wp-content/uploads/2026/11/OUSA_Masters_2026_YouTube.png"
-        },
-        {
-          "id": "https://neooc.com/?p=51524",
-          "author": "Northeast Ohio Orienteering Club",
-          "description": "NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream",
-          "link": "https://neooc.com/npr-news-spot-ousa-masters-nationals-cleveland-ideastream/",
-          "publishedOn": "2026-10-26T16:50:10.000Z",
-          "wordCount": 2337,
-          "title": "NPR News Spot | OUSA Masters Nationals | Cleveland Ideastream",
-          "imageUrl": "https://neooc.com/wp-content/uploads/2026/10/nre26c_01_JasonCampbell.jpg"
         }
       ]
     },
@@ -614,6 +584,16 @@
       "feedUrl": "https://scottish-orienteering.org/feed",
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
+        {
+          "id": "https://www.scottish-orienteering.org/?p=58370",
+          "author": "judybell",
+          "description": "Last weekend Talent Scotland athletes gathered in Edinburgh for their annual Planning and Sports Science Camp. This was an opportunity […]",
+          "link": "https://www.scottish-orienteering.org/news/athlete-development-with-talent-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=athlete-development-with-talent-scotland",
+          "publishedOn": "2026-11-25T08:50:27.000Z",
+          "wordCount": 2295,
+          "title": "Athlete Development with Talent Scotland",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/11/20261122_095010-cut-1024x737.jpg"
+        },
         {
           "id": "https://www.scottish-orienteering.org/?p=58343",
           "author": "nikkihoward",
