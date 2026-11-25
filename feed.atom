@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-24T16:38:40.551Z</updated>
+    <updated>2026-11-25T01:41:40.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wandsworth Common Night-O Results]]></title>
+        <id>https://slow.org.uk/?p=26192</id>
+        <link href="https://slow.org.uk/racereports/wandsworth-common-night-o-results/"/>
+        <updated>2026-11-24T22:34:38.000Z</updated>
+        <summary type="html"><![CDATA[I hope you all enjoyed your evening in Wandsworth Common. As usual here it was a fairly fast paced event, although it seems that I [...]]]></summary>
+        <author>
+            <name>James Gjertsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Download November 2026]]></title>
         <id>https://www.orienteering.ie/?p=23409</id>

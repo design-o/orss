@@ -314,6 +314,16 @@
       "siteUrl": "https://slow.org.uk",
       "articles": [
         {
+          "id": "https://slow.org.uk/?p=26192",
+          "author": "James Gjertsen",
+          "description": "I hope you all enjoyed your evening in Wandsworth Common. As usual here it was a fairly fast paced event, although it seems that I [...]",
+          "link": "https://slow.org.uk/racereports/wandsworth-common-night-o-results/",
+          "publishedOn": "2026-11-24T22:34:38.000Z",
+          "wordCount": 1782,
+          "title": "Wandsworth Common Night-O Results",
+          "imageUrl": "https://slow.org.uk/wordpress/wp-content/uploads/racereports/wandsworth-results-nov2024/files/Wandsworth_night2.jpg"
+        },
+        {
           "id": "https://slow.org.uk/?p=26172",
           "author": "James Haynes",
           "description": "Well done to everyone who came down to Oval on a damp and cold evening. Thanks to the Fentiman Arms for having us. Final results [...]",
