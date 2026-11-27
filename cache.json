@@ -267,6 +267,16 @@
       "siteUrl": "https://www.orienteering.ie",
       "articles": [
         {
+          "id": "https://www.orienteering.ie/?p=23459",
+          "author": "Deirdre",
+          "description": "It is with great sadness that Orienteering Ireland has learned of the death of Ted Russell, former chairperson of the Irish Orienteering Association (IOA). Ted was a well known orienteer in the 1980s and an active member of Eastern Command Orienteers (ECO). We would like to extend our deepest sympathy to Ted’s family and friends. […]",
+          "link": "https://www.orienteering.ie/ted-russell-rip/",
+          "publishedOn": "2026-11-26T11:51:05.000Z",
+          "wordCount": 1280,
+          "title": "Ted Russell RIP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.orienteering.ie/?p=23409",
           "author": "Operations Manager",
           "description": "Check out the latest edition of The Download is now available for you to read. Find out what has been happening in orienteering across Ireland here!",
@@ -283,6 +293,16 @@
       "feedUrl": "https://slow.org.uk/feed",
       "siteUrl": "https://slow.org.uk",
       "articles": [
+        {
+          "id": "https://slow.org.uk/?p=26201",
+          "author": "Dan Collins",
+          "description": "South London Orienteers welcome you to their Regional Event at Wotton & Pasture Woods North which is a mixed forest and sprint event using two [...]",
+          "link": "https://slow.org.uk/events/wotton-and-pastures-wood-north/",
+          "publishedOn": "2026-11-26T21:14:02.000Z",
+          "wordCount": 2400,
+          "title": "Wotton and Pastures Wood North – 10th January 2027",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://slow.org.uk/?p=26192",
           "author": "James Gjertsen",
@@ -575,6 +595,16 @@
       "siteUrl": "https://www.scottish-orienteering.org",
       "articles": [
         {
+          "id": "https://www.scottish-orienteering.org/?p=58380",
+          "author": "heidi",
+          "description": "Forth Valley Orienteers (FVO)  is one of the larger clubs in Scotland with over 300 members. Central to the club […]",
+          "link": "https://www.scottish-orienteering.org/news/forth-valley-orienteers-training-and-newcomer-outreach/?utm_source=rss&utm_medium=rss&utm_campaign=forth-valley-orienteers-training-and-newcomer-outreach",
+          "publishedOn": "2026-11-26T15:23:14.000Z",
+          "wordCount": 2272,
+          "title": "Forth Valley Orienteers: Training and Newcomer Outreach",
+          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-14.18.46-1-771x1024.jpeg"
+        },
+        {
           "id": "https://www.scottish-orienteering.org/?p=58370",
           "author": "judybell",
           "description": "Last weekend Talent Scotland athletes gathered in Edinburgh for their annual Planning and Sports Science Camp. This was an opportunity […]",
@@ -693,16 +723,6 @@
           "wordCount": 2688,
           "title": "Headtorches On: 2026/27 Night Orienteering",
           "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/0069-NathanPhua-SS-Quid-Games-Old-Town-Showdown-All-683x1024.jpg"
-        },
-        {
-          "id": "https://www.scottish-orienteering.org/?p=58158",
-          "author": "nikkihoward",
-          "description": "Monday 2nd November sees the next of our Community Conversations taking place with a focus on Coaching. Our Coaching and […]",
-          "link": "https://www.scottish-orienteering.org/news/november-community-conversation-focus-on-coaching/?utm_source=rss&utm_medium=rss&utm_campaign=november-community-conversation-focus-on-coaching",
-          "publishedOn": "2026-10-28T11:53:07.000Z",
-          "wordCount": 1848,
-          "title": "November Community Conversation focus on Coaching",
-          "imageUrl": "https://www.scottish-orienteering.org/wp-content/uploads/2026/10/Communications-and-Marketing-1-1024x1024.png"
         }
       ]
     },

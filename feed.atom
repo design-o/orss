@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://design-o.github.io/orss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-26T15:56:11.926Z</updated>
+    <updated>2026-11-27T01:13:20.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://design-o.github.io/orss/index.html"/>
     <link rel="self" href="https://design-o.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wotton and Pastures Wood North – 10th January 2027]]></title>
+        <id>https://slow.org.uk/?p=26201</id>
+        <link href="https://slow.org.uk/events/wotton-and-pastures-wood-north/"/>
+        <updated>2026-11-26T21:14:02.000Z</updated>
+        <summary type="html"><![CDATA[South London Orienteers welcome you to their Regional Event at Wotton & Pasture Woods North which is a mixed forest and sprint event using two [...]]]></summary>
+        <author>
+            <name>Dan Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forth Valley Orienteers: Training and Newcomer Outreach]]></title>
+        <id>https://www.scottish-orienteering.org/?p=58380</id>
+        <link href="https://www.scottish-orienteering.org/news/forth-valley-orienteers-training-and-newcomer-outreach/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=forth-valley-orienteers-training-and-newcomer-outreach"/>
+        <updated>2026-11-26T15:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Forth Valley Orienteers (FVO)  is one of the larger clubs in Scotland with over 300 members. Central to the club […]]]></summary>
+        <author>
+            <name>heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ted Russell RIP]]></title>
+        <id>https://www.orienteering.ie/?p=23459</id>
+        <link href="https://www.orienteering.ie/ted-russell-rip/"/>
+        <updated>2026-11-26T11:51:05.000Z</updated>
+        <summary type="html"><![CDATA[It is with great sadness that Orienteering Ireland has learned of the death of Ted Russell, former chairperson of the Irish Orienteering Association (IOA). Ted was a well known orienteer in the 1980s and an active member of Eastern Command Orienteers (ECO). We would like to extend our deepest sympathy to Ted’s family and friends. […]]]></summary>
+        <author>
+            <name>Deirdre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Athlete Development with Talent Scotland]]></title>
         <id>https://www.scottish-orienteering.org/?p=58370</id>
@@ -616,16 +646,6 @@ JWOC 2029 Board Applications | Close Fri 20 Nov first appeared on Orienteering N
         <summary type="html"><![CDATA[As the clocks go back and the dark evenings draw in, look out your headtorch as night orienteering season is […]]]></summary>
         <author>
             <name>heidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[November Community Conversation focus on Coaching]]></title>
-        <id>https://www.scottish-orienteering.org/?p=58158</id>
-        <link href="https://www.scottish-orienteering.org/news/november-community-conversation-focus-on-coaching/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=november-community-conversation-focus-on-coaching"/>
-        <updated>2026-10-28T11:53:07.000Z</updated>
-        <summary type="html"><![CDATA[Monday 2nd November sees the next of our Community Conversations taking place with a focus on Coaching. Our Coaching and […]]]></summary>
-        <author>
-            <name>nikkihoward</name>
         </author>
     </entry>
     <entry>
